@@ -1,5 +1,7 @@
 Note: Don't trust any attribution without verifying with an actual legit source 😅
+
 Note: ✨ are ones I want to highlight for any reason, usually because they're actual crypto-related incidents or particularly good writeups.
+
 Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  to provide historical context or because I feel like they could be Lazarus in my very singular uneducated opinion or I want to look into them more or I simple typo'd. 
 
 ### 2006-07-26: INTERPOL’s "Supernote" Summit wherein they decide to change the bill.
