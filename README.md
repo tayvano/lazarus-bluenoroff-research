@@ -4,7 +4,19 @@ note: when i originally was doing this exploration, i was using an app that inhe
 
 pr's welcome.
 
-### background.md
+### [🔗](https://twitter.com/tayvano_/status/1516225457640787969) phishing samples
+
+on twitter for visibility: https://twitter.com/tayvano_/status/1516225457640787969
+
+updated as often as i can remember to update it
+
+updated with people who reply with more examples as well
+
+### [🔗](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/it-only-takes-one.md) it-only-takes-one
+
+A list of treasuries / protocols / platforms / bridges / DEX's / CEX's where the initial targetting of a single team member or private key (usually via spearphishing) resulted in the hack/theft of a much bigger thing
+
+### [🔗](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md) background
 
 - **really good links:** all the best articles and pieces i found bc theres a lot of really shitty blogspam out there and also a lot of deep dives into specific peices of malware that are much less prouctive to read if you dont first have the requisite background knowledge.
 
@@ -13,16 +25,12 @@ pr's welcome.
 - **many, many names:** this is really just my notes as i was learning things becuase the different names and evolution of names with lazarus is SO MUCH. not sure if helpful for anyone else to read but there is is.
 
 
-### evolution.md
+### [🔗](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md) evolution
 
 - reports and articles and government indictments and news stories and all sorts of random stuff organized by date. it also has defi and exchange hacks that are attributed to lazarus, as well as some of the big hacks that are known to **not** be lazarus in order to provide better historical context. there's also a random assortment of various other north korean apt activtiy: bank heists, interesting quotes, spear-phishing campaigns against other industries, etc.
 
+- [This Google Spreadsheet](https://docs.google.com/spreadsheets/d/1QC3yjPJdyq3aGt94r3gFNpYQ8T_3PPU4TfPoe4bMFpA/edit?usp=sharing) is now a much better was of pulling insight and searching through this information. However, the evolution document lives on bc its not as insane and intimidating.
 
-### there is also this google spreadsheet...
-
-- which is a better database of events and attribution but is incomplete: 
-
-- https://docs.google.com/spreadsheets/d/1QC3yjPJdyq3aGt94r3gFNpYQ8T_3PPU4TfPoe4bMFpA/edit?usp=sharing
 
 ### there is also the `Bad Things™` spreadsheet...
 
