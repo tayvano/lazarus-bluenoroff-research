@@ -10,18 +10,21 @@ Some are (e.g. KuCoin, Liquid, bZx)
 	- https://www.quadrigainitiative.com/casestudy/taylorethereumhack.php
 - 2018-07-09: Bancor - Token Theft - Wallet used to upgrade smart contracts used to steal $23M
 	- https://www.quadrigainitiative.com/casestudy/bancordecentralizedexchangehack.php
+- 2018-07-27: KICKICO - Theft - Admin key compromised
+        - https://wccn.com/another-ico-hacked-kickico-loses-8-million-after-smart-contract-breach/
 - 2018-11-??: Atidium - Private Key Compromise
 	- https://www.quadrigainitiative.com/casestudy/atidiumprivatekeyleaked.php
 - 2018-11-??: AirDropsDAC HireVibes Airdrop Private Key
 	- https://www.quadrigainitiative.com/casestudy/airdropsdachirevibesairdropprivatekeyleak.php
-- 2020-02-??: IOTA TRINITY Wallet - Malicious Code Injected via compromised API key(s
-	- https://blog.chainalysis.com/reports/kucoin-hack-2020-defi-uniswap/
+- 2020-02-10: IOTA TRINITY Wallet - Malicious Code Injected via compromised API key to steal individual wallets
+	- https://blog.iota.org/trinity-attack-incident-part-1-summary-and-next-steps-8c7ccc4d81e8/
 - 2020-09-25: KuCoin - CEX Hack
-	- https://weijiek.medium.com/deanonymising-the-kucoin-hacker-418fa5e9911d
-	https://github.com/weijiekoh/tracing_the_kucoin_hacke
+	- https://blog.chainalysis.com/reports/kucoin-hack-2020-defi-uniswap/
 - 2020-12-14: Nexus Mutual Founder Hugh Karp - 370k NXM ($8M)
 	- https://certik.medium.com/nexus-mutual-attack-8-millions-lost-8d3592d14cfa
-- 2021-04-19: EasyFi Found Ankitt Gaur - theft of admin keys, drain protcol after compromising computer
+- 2021-03-05: Paid Network - Private key of admin contract(s) compromised, take over protocol contracts, steal funds, update contracts, steal more funds.
+        - https://rekt.news/paid-rekt/ 
+- 2021-04-19: EasyFi Founder Ankitt Gaur - theft of admin keys, drain protcol after compromising computer
 	- https://rekt.news/easyfi-rekt/
 - 2021-07-14: Bondly Finance CEO Brandon Smith Theft - theft of admin keys, drain protcol after compromising computer
 	- https://bondlyfinance.medium.com/bondly-attack-july-14th-2021-postmortem-beb7cf02e9ba
