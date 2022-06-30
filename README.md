@@ -2,6 +2,11 @@
 
 note: when i originally was doing this exploration, i was using an app that inherantly links quotes to their origin source. this connection is obviously lost upon export. as i am adding back citations, please be aware that any given line could be something i copied/pasted from various articles or writeups and those people deserve credit for their actual work and actual efforts. if you use stuff from here for something, please google it and cite the author and do not cite me.
 
+Updated Hack Spreadsheet with attribution https://docs.google.com/spreadsheets/d/1QC3yjPJdyq3aGt94r3gFNpYQ8T_3PPU4TfPoe4bMFpA/edit#gid=560599651
+
+- mess of everything remotely related to `bad` or `crypto` or `security` or `learning resources` it is pretty comprehensive through ~2018 or so: https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
+
+
 pr's welcome.
 
 ### [🔗](https://twitter.com/tayvano_/status/1516225457640787969) phishing samples
@@ -29,14 +34,6 @@ A list of treasuries / protocols / platforms / bridges / DEX's / CEX's where the
 
 - reports and articles and government indictments and news stories and all sorts of random stuff organized by date. it also has defi and exchange hacks that are attributed to lazarus, as well as some of the big hacks that are known to **not** be lazarus in order to provide better historical context. there's also a random assortment of various other north korean apt activtiy: bank heists, interesting quotes, spear-phishing campaigns against other industries, etc.
 
-- [This Google Spreadsheet](https://docs.google.com/spreadsheets/d/1QC3yjPJdyq3aGt94r3gFNpYQ8T_3PPU4TfPoe4bMFpA/edit?usp=sharing) is now a much better was of pulling insight and searching through this information. However, the evolution document lives on bc its not as insane and intimidating.
-
-
-### there is also the `Bad Things™` spreadsheet...
-
-- which is the largest mess of everything remotely related to `bad` or `crypto` or `security` or `learning resources` it is pretty comprehensive through ~2018 or so:
-
-- https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
 
 
 ### purpose
