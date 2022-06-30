@@ -2,7 +2,7 @@
 
 note: when i originally was doing this exploration, i was using an app that inherantly links quotes to their origin source. this connection is obviously lost upon export. as i am adding back citations, please be aware that any given line could be something i copied/pasted from various articles or writeups and those people deserve credit for their actual work and actual efforts. if you use stuff from here for something, please google it and cite the author and do not cite me.
 
-Updated Hack Spreadsheet with attribution https://docs.google.com/spreadsheets/d/1QC3yjPJdyq3aGt94r3gFNpYQ8T_3PPU4TfPoe4bMFpA/edit#gid=560599651
+- Updated Hack Spreadsheet with attribution https://docs.google.com/spreadsheets/d/1QC3yjPJdyq3aGt94r3gFNpYQ8T_3PPU4TfPoe4bMFpA/edit#gid=560599651
 
 - mess of everything remotely related to `bad` or `crypto` or `security` or `learning resources` it is pretty comprehensive through ~2018 or so: https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
 
