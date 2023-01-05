@@ -1,21 +1,16 @@
-# lazarus-bluenoroff-research
+# Web3 / Lazarus / Bluenoroff / DPRK / Etc Hacks
 
 note: when i originally was doing this exploration, i was using an app that inherantly links quotes to their origin source. this connection is obviously lost upon export. as i am adding back citations, please be aware that any given line could be something i copied/pasted from various articles or writeups and those people deserve credit for their actual work and actual efforts. if you use stuff from here for something, please google it and cite the author and do not cite me.
 
-- Updated Hack Spreadsheet with attribution https://docs.google.com/spreadsheets/d/1QC3yjPJdyq3aGt94r3gFNpYQ8T_3PPU4TfPoe4bMFpA/edit#gid=560599651
+### Most up to date list
+https://docs.google.com/spreadsheets/d/1Uh-kQPRhR0GzDMFhrYtU6rrYBWmcMBcQUDI40CtWcAQ/edit?usp=sharing
 
-- mess of everything remotely related to `bad` or `crypto` or `security` or `learning resources` it is pretty comprehensive through ~2018 or so: https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
-
-
-pr's welcome.
+### Older Bad Things Spreadsheet - pretty comprehensive through ~2018 or so. Includes research and random stuff too, not just hacks
+https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
 
 ### [🔗](https://twitter.com/tayvano_/status/1516225457640787969) phishing samples
 
 on twitter for visibility: https://twitter.com/tayvano_/status/1516225457640787969
-
-updated as often as i can remember to update it
-
-updated with people who reply with more examples as well
 
 ### [🔗](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/it-only-takes-one.md) it-only-takes-one
 
