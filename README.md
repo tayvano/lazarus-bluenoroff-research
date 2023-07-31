@@ -1,24 +1,33 @@
+
 # Web3 / Lazarus / Bluenoroff / DPRK / Etc Hacks
 
 note: when i originally was doing this exploration, i was using an app that inherantly links quotes to their origin source. this connection is obviously lost upon export. as i am adding back citations, please be aware that any given line could be something i copied/pasted from various articles or writeups and those people deserve credit for their actual work and actual efforts. if you use stuff from here for something, please google it and cite the author and do not cite me.
 
 ### Most up to date list
+
 https://docs.google.com/spreadsheets/d/1Uh-kQPRhR0GzDMFhrYtU6rrYBWmcMBcQUDI40CtWcAQ/edit?usp=sharing
 
 ### Older Bad Things Spreadsheet - pretty comprehensive through ~2018 or so. Includes research and random stuff too, not just hacks
+
 https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
 
 ### phishing samples
 
 on twitter for visibility: https://twitter.com/tayvano_/status/1516225457640787969
 
-### [malware and ttps](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-malware-and-ttps.md)
+### malware and ttps
 
-### [it-only-takes-one](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/it-only-takes-one.md)
+https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-malware-and-ttps.md
+
+### it-only-takes-one
+
+https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/it-only-takes-one.md
 
 A list of treasuries / protocols / platforms / bridges / DEX's / CEX's where the initial targetting of a single team member or private key (usually via spearphishing) resulted in the hack/theft of a much bigger thing
 
-### [background](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md)
+### background
+
+https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md
 
 **really good links:** all the best articles and pieces i found bc theres a lot of really shitty blogspam out there and also a lot of deep dives into specific peices of malware that are much less prouctive to read if you dont first have the requisite background knowledge.
 
@@ -26,12 +35,9 @@ A list of treasuries / protocols / platforms / bridges / DEX's / CEX's where the
 
 **many, many names:** this is really just my notes as i was learning things becuase the different names and evolution of names with lazarus is SO MUCH. not sure if helpful for anyone else to read but there is is.
 
-
 ###[evolution](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md)
 
 reports and articles and government indictments and news stories and all sorts of random stuff organized by date. it also has defi and exchange hacks that are attributed to lazarus, as well as some of the big hacks that are known to **not** be lazarus in order to provide better historical context. there's also a random assortment of various other north korean apt activtiy: bank heists, interesting quotes, spear-phishing campaigns against other industries, etc.
-
-
 
 ### purpose
 
