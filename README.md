@@ -7,6 +7,44 @@ note: when i originally was doing this exploration, i was using an app that inhe
 
 https://docs.google.com/spreadsheets/d/1Uh-kQPRhR0GzDMFhrYtU6rrYBWmcMBcQUDI40CtWcAQ/edit?usp=sharing
 
+### North Korean Cyber Attacks
+
+https://www.heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat 
+
+The depth and scope of DPRK’s active/ongoing efforts is truly insane. Appendix 2 has the most comprehensive timeline that I've found. Plus it has 100+ links in the refs and doesnt force a pdf on you
+
+### DPRK Social Engineering
+
+https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/
+
+dprk once again rekting you via the platforms you use: github, slack, tg, npm.
+
+not checking email won't protect you anymore. 😭
+
+### Lazarus Group Exploits
+
+https://twitter.com/tayvano_/status/1668935273047261185?s=20
+
+A thread of misc. interesting things related to the Atomic Wallet hack, Lazarus, and especially what sprawling hacks look like on-chain.
+
+https://twitter.com/tayvano_/status/1686916598899281920?s=20
+
+I stumbled on a crazy direct link btwn funds stolen from Coinspaid/Alphapo <> Atomic Wallet <> Harmony
+
+https://twitter.com/zachxbt/status/1686327312843780097?s=20
+
+Recently Lazarus Group linked stolen funds from the Harmony, Atomic Wallet, and Coinspaid/Alphapo hacks together on-chain
+
+Total losses from these hacks is estimated at $290M+
+
+https://twitter.com/zachxbt/status/1683747073227624448?s=20
+
+**ZachXBT**: Hack update: An additional $37M stolen on TRON & BTC from this hack has been located.
+
+This now brings the total amount stolen to $60M.
+
+This hack appears to likely have been done by Lazarus as they create a very distinct fingerprint on-chain.
+
 ### Older Bad Things Spreadsheet - pretty comprehensive through ~2018 or so. Includes research and random stuff too, not just hacks
 
 https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
@@ -35,7 +73,7 @@ https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-backgro
 
 **many, many names:** this is really just my notes as i was learning things becuase the different names and evolution of names with lazarus is SO MUCH. not sure if helpful for anyone else to read but there is is.
 
-###[evolution](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md)
+### [evolution](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md)
 
 reports and articles and government indictments and news stories and all sorts of random stuff organized by date. it also has defi and exchange hacks that are attributed to lazarus, as well as some of the big hacks that are known to **not** be lazarus in order to provide better historical context. there's also a random assortment of various other north korean apt activtiy: bank heists, interesting quotes, spear-phishing campaigns against other industries, etc.
 
