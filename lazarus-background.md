@@ -7,6 +7,8 @@
 
 - [The Incredible Rise of North Korea's Hacking Elite](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
 
+- [Exposing the Financial Footprints of North Korea’s Hackers](https://www.cnas.org/publications/reports/exposing-the-financial-footprints-of-north-koreas-hackers)
+
 - [Tracking Internet Use Out of North Korea Reveal The Adaptable and Innovative Ruling Elite](https://www.recordedfuture.com/north-korea-internet-usage/)
 
 - [Organizational Map of DPRK](https://www.mandiant.com/resources/mapping-dprk-groups-to-government)
