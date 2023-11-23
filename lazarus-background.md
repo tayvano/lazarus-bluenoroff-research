@@ -2,33 +2,36 @@
 
 > “Cyberwarfare is an all-purpose sword that guarantees the North Korean People’s Armed Forces ruthless striking capability, along with nuclear weapons and missiles.” – Kim Jong-un
 
+
 # Really Good Links
 
-- The Incredible Rise of North Korea's Hacking Elite
-    - https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army
-- Tracking Internet Use Out of North Korea Reveal The Adaptable and Innovative Ruling Elite
-    - https://www.recordedfuture.com/north-korea-internet-usage/
-- Organizational Map of DPRK
-    - https://www.mandiant.com/resources/mapping-dprk-groups-to-government
-- Kim Jong Un is directly handling results of new COVID-19 hacking organization's work
-    - https://www.dailynk.com/english/kim-jong-un-directly-handling-results-new-covid-19-hacking-organization-work/
-- Lazarus Group Deep Dive 1
-    - https://blog.bushidotoken.net/2020/02/deep-dive-lazarus-group.html?m=1
-- Lazarus Group Deep Dive 2
-    - https://blog.bushidotoken.net/2021/08/the-lazarus-heist-where-are-they-now.html?m=1
-- Lazarus: Under The Hood
-    - https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf
-- Spotlight On Lazarus
-    - https://www.cybersecurity-help.cz/blog/2511.html
-- The All-Purpose Sword: North Korea’s Cyber Operations and Strategies (2019)
-    - https://ccdcoe.org/uploads/2019/06/Art_08_The-All-Purpose-Sword.pdf
-- US Army's Report on North Korean Tactics (2020)
-    - https://irp.fas.org/doddir/army/atp7-100-2.pdf
+- [The Incredible Rise of North Korea's Hacking Elite](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
+
+- [Tracking Internet Use Out of North Korea Reveal The Adaptable and Innovative Ruling Elite](https://www.recordedfuture.com/north-korea-internet-usage/)
+
+- [Organizational Map of DPRK](https://www.mandiant.com/resources/mapping-dprk-groups-to-government)
+
+- [Kim Jong Un is directly handling results of new COVID-19 hacking organization's work](https://www.dailynk.com/english/kim-jong-un-directly-handling-results-new-covid-19-hacking-organization-work/)
+
+- [Lazarus Group Deep Dive 1](https://blog.bushidotoken.net/2020/02/deep-dive-lazarus-group.html?m=1)
+
+- [Lazarus Group Deep Dive 2](https://blog.bushidotoken.net/2021/08/the-lazarus-heist-where-are-they-now.html?m=1)
+
+- [Lazarus: Under The Hood](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf)
+
+- [Spotlight On Lazarus](https://www.cybersecurity-help.cz/blog/2511.html)
+
+- [The All-Purpose Sword: North Korea’s Cyber Operations and Strategies (2019)](https://ccdcoe.org/uploads/2019/06/Art_08_The-All-Purpose-Sword.pdf)
+
+- [US Army's Report on North Korean Tactics (2020)](https://irp.fas.org/doddir/army/atp7-100-2.pdf)
+    
     - cmd f for cyber, Bureau 121, computer warfare
-- CISA's Guidance on the North Korean Cyber Threat (2020)
-    - https://www.cisa.gov/uscert/ncas/alerts/aa20-106a
-- North Korea's Military Power
-    - https://www.dia.mil/Portals/110/Documents/News/North_Korea_Military_Power.pdf
+
+- [CISA's Guidance on the North Korean Cyber Threat (2020)](https://www.cisa.gov/uscert/ncas/alerts/aa20-106a)
+
+- [North Korea's Military Power](https://www.dia.mil/Portals/110/Documents/News/North_Korea_Military_Power.pdf)
+  
+- [North Korea's Crypto Hackers Are Paving the Road to Nuclear Armageddon](https://www.cnet.com/culture/features/north-koreas-crypto-hackers-are-paving-the-road-to-nuclear-armageddon/)
 
 
 # Background / General Analysis
@@ -43,28 +46,36 @@
 - The US Army and other intelligence believe there are ~7000 hackers who make up the various cyber units generally referred to as "Lazarus". They are are extreme workaholics—working 15 hours, 6 days a week—probably the most hard-working APT-group among all known. They typically start at midnight o'clock sharp UTC with a break around 3pm. They consistently work Saturday. While it's more rare to see attacks initiated in the middle of the night Korean time or on a Sunday, it's not unheard of, especially for a big payday or if they know that is when a target is going to be offline (on a plane, on vacation, etc)
 
 ### They develop and deploy a wide range of malware tools
-...and have resources that allow for development of custom malware tools for extensive, targeted, and coordinated attacks, including long periods of reconnaissance. 
+
+- ...and have resources that allow for development of custom malware tools for extensive, targeted, and coordinated attacks, including long periods of reconnaissance. 
 
 ### They are sophisticated as fuck. 
-This requires strict organization and control at all stages of operation. It's not usually found in the cybercriminal world. In most infiltrations of banks and cryptocurrency companies, they prefer to silently integrate into running processes without breaking them. Their invasions aim to be invisible and leave little or no trace. 
+
+- This requires strict organization and control at all stages of operation. It's not usually found in the cybercriminal world. In most infiltrations of banks and cryptocurrency companies, they prefer to silently integrate into running processes without breaking them. Their invasions aim to be invisible and leave little or no trace. 
 
 ### They are financially motivated. 
-Some hackers are in it for the clout and, while larger paydays result in more clout, the money is not the end game. Nation-state actors' motivations are usually aligned with their broader military, political and intelligence operations and their cyber attacks are used as a means of information collection, sabotage, disruption. North Korea is different.
+
+- Some hackers are in it for the clout and, while larger paydays result in more clout, the money is not the end game. Nation-state actors' motivations are usually aligned with their broader military, political and intelligence operations and their cyber attacks are used as a means of information collection, sabotage, disruption. North Korea is different.
 
 ### They evolve faster than most startups. 
-They have grown increasingly sophisticated over time and move to target the most profitable sectors or further their larger political efforts at a rapid pace. Their initial efforts shifted from disruptive DDoS/Wiper attacks->Bank Heists around 2014 and then from Bank Heists->CEX Hacks around 2017, likely in reaction to the explosion of value in the cryptocurrency industry. In 2018 and 2019 they experimented with various forms of crypto malware and crypotojacking mining of Bitcoin and Monero, but also returned to their previous efforts targeting banks and financial institutions, possibly due to the decreased profits in crypto. By 2021, they show a deep knowledge of the Ethereum, DeFi, and NFT space, attacking individual via a malicious version of MetaMask, using Uniswap to swap stolen tokens for ETH, and mixing their funds via Tornado Cash.
+
+- They have grown increasingly sophisticated over time and move to target the most profitable sectors or further their larger political efforts at a rapid pace. Their initial efforts shifted from disruptive DDoS/Wiper attacks->Bank Heists around 2014 and then from Bank Heists->CEX Hacks around 2017, likely in reaction to the explosion of value in the cryptocurrency industry. In 2018 and 2019 they experimented with various forms of crypto malware and crypotojacking mining of Bitcoin and Monero, but also returned to their previous efforts targeting banks and financial institutions, possibly due to the decreased profits in crypto. By 2021, they show a deep knowledge of the Ethereum, DeFi, and NFT space, attacking individual via a malicious version of MetaMask, using Uniswap to swap stolen tokens for ETH, and mixing their funds via Tornado Cash.
 
 ### Thorough, persistent, patient. 
-They will often hang out in a system for months on end, gathering intel or slowly increasingly the scope of their access. They reliably do such thorough reconnaissance that initial investigations and reports mistake the attacks for an inside job. In the 2016 Vietnam Bank Heist the malware was only properly investigated after the Bangladesh Bank Heist occurred months later. At least 5 of the cryptocurrency exchange hacks in 2017 and 2018 and the more recent 2022 Ronin Bridge Hack were, at least by some, suspected to be an inside job.
+
+- They will often hang out in a system for months on end, gathering intel or slowly increasingly the scope of their access. They reliably do such thorough reconnaissance that initial investigations and reports mistake the attacks for an inside job. In the 2016 Vietnam Bank Heist the malware was only properly investigated after the Bangladesh Bank Heist occurred months later. At least 5 of the cryptocurrency exchange hacks in 2017 and 2018 and the more recent 2022 Ronin Bridge Hack were, at least by some, suspected to be an inside job.
 
 ### Insane depth of knowledge of their target. 
-Their reconnaissance ensures they have a full understanding of how both the human and technology systems operate: what software is supported, when it operates, who is responsible for what, who will be out of the office for a local holiday, everything. In the Vietnamese case, they knew the bank used Foxit and replaced it with a fake version. They also knew the names of the printers. 
+
+- Their reconnaissance ensures they have a full understanding of how both the human and technology systems operate: what software is supported, when it operates, who is responsible for what, who will be out of the office for a local holiday, everything. In the Vietnamese case, they knew the bank used Foxit and replaced it with a fake version. They also knew the names of the printers. 
 
 ### Really, really, really good at spearphishing. 
-They very rarely spend time trying to hack the actual systems and instead craft tools to levy attacks via individuals, employees, or usability flaws of the systems or infrastructure. One element that appears consistently since 2007 is their use of spearphishing to deploy custom malware and gain initial access. Their emails—or increasingly messages sent via LinkedIn, Telegram, etc.—are designed to appear legitimate and are tailored and personalized for the intended recipient. They use their recon time to craft harder-to-detect messages that appear like totally normal interactions. Investigations have revealed initial intrusions stemming from an email forwarded by one colleague to another and in an email related to a matter that was currently being discussed between the two parties.
+
+- They very rarely spend time trying to hack the actual systems and instead craft tools to levy attacks via individuals, employees, or usability flaws of the systems or infrastructure. One element that appears consistently since 2007 is their use of spearphishing to deploy custom malware and gain initial access. Their emails—or increasingly messages sent via LinkedIn, Telegram, etc.—are designed to appear legitimate and are tailored and personalized for the intended recipient. They use their recon time to craft harder-to-detect messages that appear like totally normal interactions. Investigations have revealed initial intrusions stemming from an email forwarded by one colleague to another and in an email related to a matter that was currently being discussed between the two parties.
 
 ### Notorious for constantly tuning their malware. 
-The malware in each attack is usually compiled just before the attack happened and custom built for the target. Once they have access, especially when attacking financial systems, they often manipulate the existing system and existing software to do their bidding for them. For example, in one incident, they knew a target used MetaMask to access his tokens on his hardware wallet. They replaced his MetaMask with a malicious version that hid the fact he was not sending a few tokens to a friend, but all his NXM tokens to the attackers address. Ultimately, the target was the one who clicked the buttons that resulted in the theft.
+
+- The malware in each attack is usually compiled just before the attack happened and custom built for the target. Once they have access, especially when attacking financial systems, they often manipulate the existing system and existing software to do their bidding for them. For example, in one incident, they knew a target used MetaMask to access his tokens on his hardware wallet. They replaced his MetaMask with a malicious version that hid the fact he was not sending a few tokens to a friend, but all his NXM tokens to the attackers address. Ultimately, the target was the one who clicked the buttons that resulted in the theft.
 
 # Interesting Quotes
 
@@ -100,7 +111,6 @@ The malware in each attack is usually compiled just before the attack happened a
 
 
 # The Lazarus Group is called by many, many names
-
 
 - The Lazarus Group naming and attribution originally stems from the February 2016 Operation Blockbuster report on the 2014 Sony Pictures Hack.
 
@@ -189,9 +199,7 @@ The malware in each attack is usually compiled just before the attack happened a
     - 1,700 (+/-) whose mission is to conduct financial cybercrime by concentrating on long-term assessment and exploiting enemy network vulnerabilities. Bluenoroff exploits the systems for financial gain for the regime or to take control of the system. (2020)
     
     - Meanwhile, the Bluenoroff group, a subgroup of the Lazarus Group, is more focused on attacking financial institutions and cryptocurrency exchanges.
-    
-    - The activities of the Lazarus Group have been reported not only in Korea but in a number of countries 2](https://www.virusbulletin.com/virusbulletin/2018/11/vb2018-paper-hacking-sony-pictures/#ref2), [3](https://www.virusbulletin.com/virusbulletin/2018/11/vb2018-paper-hacking-sony-pictures/#ref3)].
-    
+        
     - APT38 is a financially motivated group sponsored by North Korea, known for significant financial compromises and its use of destructive malware against financial institutions. The group has been attributed to sophisticated compromises targeting Interbank Fund Transfer Systems to steal millions of dollars at a time across multiple countries worldwide.
     
     - A related, and likely subgroup of APT38 that also primarily focuses on financial activity, is referred to in the open source as “CryptoCore” or “Dangerous Password”
@@ -251,8 +259,6 @@ The malware in each attack is usually compiled just before the attack happened a
     - APT37's previous campaigns targeting foreign joint venture partners as well as threat activity against defectors, defector support agencies, and humanitarian organizations indicate APT37's activities most likely align with the agenda of Ministry of State Security.
     
     - APT37's assessed primary mission is **covert intelligence gathering in support of DPRK's strategic military, political, and economic interests.**
-    
-    - A lack of recent, significant activity from this actor matched with an uptick in similar targeting from units within the “Kimsuky” actor-set may indicate a shift or consolidation within North Korea’s cyber leadership. 
     
     - https://advantage.mandiant.com/reports/21-00027289
     
