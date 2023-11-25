@@ -1,6 +1,10 @@
-# July 9th, 2018 - Bancor - Private Key Compromise -> Upgrades Contracts - $23m - 🔑🇰🇵
+# Bancor
 
-BNT ETH NPXS Switzerland
+Date:: July 9th, 2018
+
+Amount Stolen:: $23,000,000 (24,984 ETH + 229,356,645 NPXS + 3,200,000 BNT)
+
+Tags:: BNT, ETH, NPXS, Switzerland, Private Key Compromise, Admin Key Compromise
 
 Time:: 00:00 UTC
 
@@ -8,9 +12,7 @@ Laundered Via:: Changelly
 
 Attribution:: DPRK/High Confidence
 
-Amount:: $23M - 24,984 ETH + 229,356,645 NPXS + 3,200,000 BNT
-
-### Description
+## Details
 
 Wallet used to upgrade smart contracts used to steal $23M
 
@@ -22,63 +24,42 @@ At 00:00 UTC, Bancor experienced a security breach. A wallet used to upgrade som
 
 $10m worth of BNT was later recovered. 
 
-### Addresses
+## On-Chain
 
-Heist executed via private key to the `BancorConverter` contract: 0x009bb5e9fcf28e5e601b7d0e9e821da6365d0a9c
+- Heist executed via private key to the `BancorConverter` contract: 0x009bb5e9fcf28e5e601b7d0e9e821da6365d0a9c
+- Bancor Hacker - 0x33ed22f4b6b05f8a5faac4701550d52286bd735a
+- Bancor Sitting - 0x8ddfdf60aaffe05c623ba193a186abd1f8024946
+- 0xbceaa0040764009fdcff407e82ad1f06465fd2c4 Bancor Laundry
+- 0xd294ac18b524ff59ab7fffcbd459f11128220550 - Huobi Depo - also used for Cryptopia stolen funds (0xd96ba527be241c2c31fd66cbb0a9430702906a2a)
+- 0xfe61ad22a847c4df702731c7d5e803d283ea1376 - Huobi Depo - also used for Cryptopia stolen funds (0xd96ba527be241c2c31fd66cbb0a9430702906a2a) and Klickl / IDCM (0xec4ac9f8125ddda87c75e82f96f4cda1859eb2d7) stolen funds
+- 0xf27b6923ed24eed02de7686962339db00a52d2aa - Converges with Cypherium / Taylor ICO
+- 0x43a964e635f31b0cc329db6f980f09096054e4e3a627c85654852fd026b92ba0
+- 0x2c281aa4ee30d4d0a5dcd77bb80bc66f13d027bb828f5e4b3be7ff8bd47999a2
+- 0x8dfeb86c7c962577ded19ab2050ac78654fea9f7 - Bancor Vulnerable Contract 
+- 0x5f58058c0ec971492166763c8c22632b583f667f - Bancor Vulnerable Contract 
+- 0x923cab01e6a4639664aa64b76396eec0ea7d3a5f - Bancor Vulnerable Contract
+- 0xf27b6923ed24eed02de7686962339db00a52d2aa - Bancor - Huobi Laundry
+- 0x39d9f4640b98189540A9C0edCFa95C5e657706aA - Bancor - Laundry - it's some service
+- 0xD294aC18B524ff59aB7ffFcbD459f11128220550 - Bancor - Laundry
+- 0xbceaa0040764009fdcff407e82ad1f06465fd2c4 - Bancor
 
-Bancor Hacker - 0x33ed22f4b6b05f8a5faac4701550d52286bd735a
+## Links
 
-Bancor Sitting - 0x8ddfdf60aaffe05c623ba193a186abd1f8024946
+- https://www.quadrigainitiative.com/casestudy/bancordecentralizedexchangehack.php
 
-0xbceaa0040764009fdcff407e82ad1f06465fd2c4 Bancor Laundry
+- https://blog.bancor.network/the-road-ahead-e773dcbf7603
 
-0xd294ac18b524ff59ab7fffcbd459f11128220550 - Huobi Depo - also used for Cryptopia stolen funds (0xd96ba527be241c2c31fd66cbb0a9430702906a2a)
+- http://hibusiness.ca/2018/07/09/bancor-crypto-exchange-shuts-down-for-maintenance-after-hack/
 
-0xfe61ad22a847c4df702731c7d5e803d283ea1376 - Huobi Depo - also used for Cryptopia stolen funds (0xd96ba527be241c2c31fd66cbb0a9430702906a2a) and Klickl / IDCM (0xec4ac9f8125ddda87c75e82f96f4cda1859eb2d7) stolen funds
+- https://ciphertrace.com/q3-2018-cryptocurrency-anti-money-laundering-report/
 
-0xf27b6923ed24eed02de7686962339db00a52d2aa - Converges with Cypherium / Taylor ICO
+- https://cointelegraph.com/news/bancor-urges-industry-players-to-collaborate-after-23-5-million-hack
 
-Bancor Txn - 0x43a964e635f31b0cc329db6f980f09096054e4e3a627c85654852fd026b92ba0
+- https://times.getnuo.com/2018/07/09/breaking-crypto-exchange-bancor-reports-security-breach-12-5-million-worth-eth-stolen/
 
-Bancor Txn - 0x2c281aa4ee30d4d0a5dcd77bb80bc66f13d027bb828f5e4b3be7ff8bd47999a2
+- https://twitter.com/Bancor/status/1016420621666963457
 
-Bancor Vulnerable Contract - 0x8dfeb86c7c962577ded19ab2050ac78654fea9f7 
+- https://twitter.com/Bancor/status/1017012630639259654
 
-Bancor Vulnerable Contract - 0x5f58058c0ec971492166763c8c22632b583f667f 
-
-Bancor Vulnerable Contract - 0x923cab01e6a4639664aa64b76396eec0ea7d3a5f
-
-Bancor - Huobi Laundry 0xf27b6923ed24eed02de7686962339db00a52d2aa
-
-Bancor - Laundry 0x39d9f4640b98189540A9C0edCFa95C5e657706aA it's some service
-
-Bancor - Laundry 0xD294aC18B524ff59aB7ffFcbD459f11128220550
-
-Bancor - 0xbceaa0040764009fdcff407e82ad1f06465fd2c4
-
-### References
-
-https://www.quadrigainitiative.com/casestudy/bancordecentralizedexchangehack.php
-
-https://blog.bancor.network/the-road-ahead-e773dcbf7603
-
-http://hibusiness.ca/2018/07/09/bancor-crypto-exchange-shuts-down-for-maintenance-after-hack/
-
-https://ciphertrace.com/q3-2018-cryptocurrency-anti-money-laundering-report/
-
-https://cointelegraph.com/news/bancor-urges-industry-players-to-collaborate-after-23-5-million-hack
-
-https://times.getnuo.com/2018/07/09/breaking-crypto-exchange-bancor-reports-security-breach-12-5-million-worth-eth-stolen/
-
-> Here is the latest update on the recent security breach: pic.twitter.com/JroypFvBri
-
-> –Bancor (Bancor) July 9th, 2018 [🔗](https://twitter.com/Bancor/status/1016420621666963457) 
-
-> We want to clarify some things about the events over the last few days: pic.twitter.com/NVINh33EfT
-
-> –Bancor (Bancor) on July 11th, 2018 [🔗](https://twitter.com/Bancor/status/1017012630639259654) 
-
-> A Bancor wallet got hacked and that wallet has the ability to steal coins out of their own smart contracts. 🤦‍♂️ An exchange is not decentralized if it can lose customer funds OR if it can freeze customer funds. Bancor can do BOTH. It's a false sense of decentralization. https://t.co/22UYygIhEF
-
-> –Charlie Lee (@SatoshiLite) on July 10th, 2018 [🔗](https://twitter.com/SatoshiLite/status/1016499756158234624) 
+- https://twitter.com/SatoshiLite/status/1016499756158234624
 

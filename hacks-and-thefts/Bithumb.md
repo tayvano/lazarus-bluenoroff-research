@@ -20,7 +20,7 @@ Bithumb has said regarding either the June 2018 hack or March 2019 hack that:
 
 - The attackers gained access to an employee’s personal computer. This may be the malicious HWP document researched and documented.
 
-- Bithumb believes the hack was an ^^Inside Job^^ and funds might have been moved by individuals associated with the company. 
+- Bithumb believes the hack was an Inside Job and funds might have been moved by individuals associated with the company. 
 
 
 
@@ -35,7 +35,7 @@ South Korea Spear-Phishing
 
 Attribution:: DPRK/High Confidence - UN Security Council - August 30th, 2019 2019 Midterm Report - http://undocs.org/S/2019/691 - https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf)
 
-### Description
+## Details
 
 Approximately $31 million in virtual currency was stolen from BitHumb, a South Korean cryptocurrency exchange, marking the third theft in the last 16 months. 
 
@@ -51,7 +51,7 @@ In 2019, DPRK cyber actors shifted focus to targeting cryptocurrency exchanges. 
 
 Reports within South Korea have suggested the the thefts from Bithumb started with malicious HWP files earlier in May and June. They also mentioned they are linked to previous attacks by Lazarus, and involved faked resumes.
 
-### On-Chain Analysis
+## On-Chain Analysis
 
 Bithumb - > YoBit - 1,993 BTC was moved from Bithumb Hackers to YoBit over 68 transactions
 
@@ -59,13 +59,13 @@ However, on June 19th, 2018 the majority of these transactions switched to using
 
 Over the 19th and 20th of June, 400 transactions of this type sent funds from Bithumb to a single bitcoin wallet made up of 70 addresses.
 
-This wallet received a total of ^^1,993 BTC^^ from Bithumb - close to the 2,016 BTC reported to have been lost. 
+This wallet received a total of 1,993 BTC from Bithumb - close to the 2,016 BTC reported to have been lost. 
 
 These “stolen funds remained dormant in the suspected hacker’s wallet for over a month, before being sent to a cryptocurrency exchange called YoBit. 
 
 The entire 1,993 BTC was moved into YoBit over 68 transactions, between August 2nd, 2018 and August 6th, 2018.
 
-### References
+## References
 
 https://cybersecurity.att.com/blogs/labs-research/malicious-documents-from-lazarus-group-targeting-south-korea
 
@@ -99,9 +99,9 @@ According to a report from CoinDesk Korea, Bithumb may have also lost 20.2 milli
 
 Based on currently available information, the attackers appear to have made off with around three million EOS, worth $13.4 million at the time of the hack, and another 20 million Ripple coins (XRP), worth another $6 million
 
-In a surprising turn of events,^^ Bithumb disclosed that it believes the hack was an Inside Job^^ and funds might have been moved by individuals associated with the company.
+In a surprising turn of events, Bithumb disclosed that it believes the hack was an Inside Job and funds might have been moved by individuals associated with the company.
 
-^^Bithumb suspects that the hack was an Inside Job as it spotted an “abnormal withdrawal” from one of its wallets.^^ The exchange claims it lost no user funds in the hack.
+Bithumb suspects that the hack was an Inside Job as it spotted an “abnormal withdrawal” from one of its wallets. The exchange claims it lost no user funds in the hack.
 
 A cryptocurrency exchange company attacked with a malicious document containing the same macro. The document’s content provided information for coin listings with a translation in Korean Another macro-weaponized document contains a business overview of what seems to be a Chinese technology consulting group named LAFIZ.
 
@@ -111,7 +111,7 @@ The heist came less than a year after another massive hack: $31 million in late 
 
 Update (09:30 UTC, April 1, 2019): According to a report from CoinDesk Korea, Bithumb may have also lost 20.2 million XRP in the recent breach. The XRP, worth $6.2 million at current prices, was moved from Bithumb's wallet on March 29 in transactions that can be seen on XRPSCAN. The exchange is not yet confirming or denying the report. The odds of Bithumb managing to retrieve the stolen funds may be small, according to crypto security expert Cosine Yu, co-founder of security firm SlowMist. The hacker has already managed to “launder” most of the stolen EOS and XRP, Yu said, meaning the assets have been transferred to a large number of addresses that are not necessarily owned by any exchanges
 
-### References
+## References
 
 https://www.coindesk.com/markets/2018/06/20/bithumb-31-million-crypto-exchange-hack-what-we-know-and-dont/
 

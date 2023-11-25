@@ -1,19 +1,23 @@
-# July 1st, 2019 - CoinTiger - CEX Hack - $272k in PTT, PlayGame, IHT Real Estate Protocol - $2M 👛🇰🇵
+#  CoinTiger
+
+Date:: July 1st, 2019
+
+Amount Stolen:: $2,000,000 ($272k in PTT, PlayGame, IHT Real Estate Protocol)
 
 Attribution:: DPRK/High Confidence U.S. DOJ US v. 280 Virtual Currency Accounts
 
-Singapore 
+Tags:: CEX Hack, Singapore
 
 
-### Description
+## Details
 
 The cold wallet of the CoinTiger exchange was stolen, and the 400 million PTT of the Proton chain disappeared. According to the exchange announcement, they discovered that the cold wallet storing PTT was hacked during their regular cold wallet verification work recently, resulting in the theft of 401,981,748 PTT from the wallet
 
 The hacker allegedly stole over $272,000 crypto and tokens: Proton Tokens, PlayGame tokens, and IHT Real Estate Protocol tokens
 
-"Cold wallets stolen from the CoinTiger exchange, 400 million PTT's in the wallet disappeared." "On August 17, the CoinTiger exchange suddenly released an announcement. According to the announcement, they recently found that the cold wallet storing PTT was hacked during the regular cold wallet verification check, resulting in theft of the wallet [401,981,748] PTT."
+"Cold wallets stolen from the CoinTiger exchange, 400 million PTT's in the wallet disappeared." "On August 17, the CoinTiger exchange suddenly released an announcement. According to the announcement, they recently found that the cold wallet storing PTT was hacked during the regular cold wallet verification check, resulting in theft of the wallet 401,981,748] PTT."
 
-According to the hacker address provided by the CoinTiger exchange, 400 million PTT was hacked away as early as July 1. ^^After more than 47 days, CoinTiger officially disclosed the matter to project parties and users.^^
+According to the hacker address provided by the CoinTiger exchange, 400 million PTT was hacked away as early as July 1. After more than 47 days, CoinTiger officially disclosed the matter to project parties and users.
 
 The cold wallet of CoinTiger exchange was stolen, and the proton chain of 400 million PTTs was missing, which made investors suffer huge losses. After the incident, the exchange and the project side launched a number of rounds of announcements, which formed a confrontation, but CoinTiger did not come up with a valid compensation plan. Instead, it closed the PTT coin-return function (the coin channel was still open).
 
@@ -22,7 +26,7 @@ On August 21st, the Proton Chain (PTT) official website issued a comprehensive w
 At the same time, CoinTiger directly asked the project side to upgrade the contract, hoping to create a new currency, and then map the 260 million PTT that had been frozen to the new currency. We ask that the return is not to let the project party pay for our mistakes, but to ask the ‘return to the original owner’.
 
 
-### Addresses - US v. 280 Virtual Currency Accounts
+## Addresses - US v. 280 Virtual Currency Accounts
 
 ### 17,829,785 PlayGame (“PXG”) tokens were sent:
 
@@ -68,11 +72,11 @@ Other Tokens: YEE, SOC, SNT, CTXC
 
 were sent to intermediary address 0x1016b7835d409692e02ed2035e053fbfb4602982-DefendantProperty5
 
-and then deposited into [Huobi-Exchange6](Huobi).
+and then deposited into Exchange 6 (Huobi).
 
 They were then traded for USDT
 
-and sent to TargetActor1’s account at HitBTC received Deposit4 from [Huobi-Exchange6](Huobi) in the form of USDT (“DefendantProperty4”). 
+and sent to TargetActor1’s account at HitBTC received Deposit4 from Exchange 6 (Huobi) in the form of USDT (“DefendantProperty4”). 
 
 This transaction was again consistent with TargetActor1 converting the cryptocurrency based on the timing and his modus operandi.
 
@@ -108,7 +112,7 @@ BTC from cluster 1BHnp77MqZGGFaCGQ9J4GhLstPUeBshVcc, containing DefendantPropert
 
 ### October 11th, 2019 through December 9th, 2019
 
-1DXbMUZwLea1jiYay1CaCNvYwR3chmVfvf-DefendantProperty23 sent approximately 441.791834 BTC to approximately 14 different accounts at [Huobi-Exchange6](Huobi)
+1DXbMUZwLea1jiYay1CaCNvYwR3chmVfvf-DefendantProperty23 sent approximately 441.791834 BTC to approximately 14 different accounts at Exchange 6 (Huobi)
 
 Many of these accounts were known to law enforcement as over-the-counter (“OTC”) virtual currency traders acting as money services businesses that convert virtual currency into fiat currency for a profit.
 
@@ -134,7 +138,7 @@ Multiple addresses connected to cluster 1BHnp77MqZGGFaCGQ9J4GhLstPUeBshVcc sent 
 
 The account at this U.S.-based BTC payment processor was registered using “TargetEmail2.”
 
-### late April 2019 and early May 2019: 
+## late April 2019 and early May 2019: 
 
 several months before the hack of CoinTiger, TargetActor1, using TargetEmail1, communicated via email with another individual (“TargetActor2”), who was using TargetEmail2. 
 
@@ -143,11 +147,11 @@ According to a website tracking malware submitted by community users, TargetEmai
 The file type was a Korean word processor file related to exploits used by North Korea against cryptocurrency exchanges since at least 2017.
 
 
-### References
+## Links
 
-https://www.web3rekt.com/hacksandscams/cointiger-576
+- https://www.web3rekt.com/hacksandscams/cointiger-576
 
-https://www.justice.gov/usao-dc/pr/united-states-files-complaint-forfeit-280-cryptocurrency-accounts-tied-hacks-two
+- https://www.justice.gov/usao-dc/pr/united-states-files-complaint-forfeit-280-cryptocurrency-accounts-tied-hacks-two
 
-https://www.quadrigainitiative.com/casestudy/cointigerpttcoldwalletbreach.php
+- https://www.quadrigainitiative.com/casestudy/cointigerpttcoldwalletbreach.php
 

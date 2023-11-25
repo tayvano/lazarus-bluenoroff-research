@@ -1,6 +1,13 @@
-# August 7th, 2018 - BTC Markets - CEX Hack - $3.5m (10,039 ETH)
+#  BTC Markets
 
-Unreported
+Date:: August 7th, 2018
+
+Amount Stolen:: $3.5m (10,039 ETH)
+
+Tags:: CEX Hack, Unreported
+
+
+## On-Chain
 
 BTC Markets - Victim: 0xd0258ff4a383dc44d76780aed7c4f1c99f16d324
 

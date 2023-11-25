@@ -1,0 +1,92 @@
+# November 22, 2023 - HTX/HECO - $100m+
+
+- https://twitter.com/tayvano_/status/1727384134061052410
+
+
+
+
+## On-Chain
+
+- 0x121a0ff24027fffcdd0ae008da82f2789c7945cc
+
+- 0x12fc2841201d5ae5d6e780893de9032bbbc5b231
+
+- 0x153d99836e197f92a8385ba80afbb57b69de2cc1
+
+- 0x3107a8fd1388e2a6ed041efc2ad1a5bf4e96d053
+
+- 0x3effdb3765964ce074e4b59e4c5b0daf602dfa20
+
+- 0x493bb5e2a551ae8fa22eff0f964820712ed77dcb
+
+- 0x541de69da53e57919ff720bf54fac888cbd13c32
+
+- 0x5843774dc56c3331693fa969995844de1efa7eed
+
+- 0x5a22f867dfcb4f32d25a5fa365b9d9d78d5515dc
+
+- 0x5ddf1a1dc06b2bcdd836cc408deafa560197d920
+
+- 0x5e552a4fc6d5c4f5221ca65dd91040c2c830d119
+
+- 0x640e567a5041c7108033dadb0b47a3f7aedd661b
+
+- 0x6a40dfe3008bc3f99907e6dff4d041f933493411
+
+- 0x6cc330b8fe6509ea81702ae14fc1901979211c6b
+
+- 0x7abd8dda6cca1785af2f812b171b98d6924ff5d2
+
+- 0x7ae277ec83089ee92b9c475223872056ac26b949
+
+- 0x7befdbb89c21863e910310a36da5058704552935
+
+- 0x818e8c89814ecd8eacf36ae0fa5db044051c71df
+
+- 0x85388bd5233ecc8d3c74256ce7474bc8c7e559ae
+
+- 0x8dc70e0305c0f19d926ac8f07b61c5c2cfb9ab75
+
+- 0x945647f6225a44e35a0ea50f9fe2b4321794aa29
+
+- 0x9e1ca4ebc06c760c210e618488272b966685049f
+
+- 0xaccec5aeb2bad36232ddaccc2b0e17f0f02d41fa
+
+- 0xb6bac5cae1cd4b7e8137bfe5254dfb1cf1f36d0e
+
+- 0xbca4386496319f713bf09822aef6c73e9b7e44a5
+
+- 0xcde88c3cdf0e3a15d4fa9ea674a2f2203ee77071
+
+- 0xd20e8c4ee9f4464d60bddaf9ed2dfe8c7263e167
+
+- 0xd42eabc0fa0f3546541d3dfafd479f81c754fe55
+
+- 0xe27d4752d38c65adde34e21c627859b0dc54be16
+
+- 0xe47e6da16bb83eb0fd26b3f29b15ce8fab089b9e
+
+- 0xedbdcb1b763ef7920978c700007ab1f05b18b8f6
+
+- 0xf59849a98f16bc4187e38e2287c9ccba2d02b6ff
+
+- 0xfc146d1caf6ba1d1ce6dcb5b35dcbf895f50b0c4
+
+- bc1qaafa2geuc4jw0w2ukys65p3kqdpspfml74n9j9
+
+- TBopmzAufCzWNj8vVnQasWw6pjGz3jw8PW
+
+- TF2RG3gHU3qqyD2CC4S9G7TYEYstYsxjjM
+
+- TKN3H7wXUwuQg7Jb6AQCbusAQeHDpz2ZyP
+
+- TKQFMrVhFK4WakLkJbh3oyTEUtzg9vcpYj
+
+- TWGyCtrbaEwddDsAxjJbFwUKKSvckFdL1p
+
+- TWxgQPpnuhhWBvf4CpmUyQ4m8vUGDFimSK
+
+- TXTeSgFT3Rvk1iNgxvRpycCJfgqM3karcP
+
+- TXVeRVJpLLDGJGfA5biuDkiLuo7QodTXsT

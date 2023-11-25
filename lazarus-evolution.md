@@ -1,8 +1,4 @@
-Note: Don't trust any attribution without verifying with an actual legit source 😅
-
-Note: ✨ are ones I want to highlight for any reason, usually because they're actual crypto-related incidents or particularly good writeups.
-
-Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  to provide historical context or because I feel like they could be Lazarus in my very singular uneducated opinion or I want to look into them more or I simple typo'd. 
+Note: MANY OF THE CRYPTO HACKS MENTIONED ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either to provide historical context or because I feel like they could be Lazarus in my very singular uneducated opinion or I want to look into them more.
 
 ### 2006-07-26: INTERPOL’s "Supernote" Summit wherein they decide to change the bill.
 - Reported to be manufactured in the North Korea, the Supernote is a high-quality counterfeit of the 50-dollar and 100-dollar note, also known as a Superdollar. The notes are produced using similar processes and materials as genuine US currency.
@@ -25,25 +21,24 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - DarkSeoul: a wiper attack that targeted three South Korean broadcast companies, financial institutes, and an ISP
 - At the time, two other groups going by the personas ″NewRomanic Cyber Army Team and WhoIs Team″, took credit for that attack
 
-### 2014-02-24: ❌ Mt. Gox -  744,408 bitcoins belonging to Mt. Gox stolen customers
+### 2014-02-24: Mt. Gox -  744,408 bitcoins belonging to Mt. Gox stolen customers
 - as well as an additional 100,000 bitcoins belonging to the company, resulting in the exchange being declared to be insolvent.
 
-### 2014-03-04: ❓Poloniex Attacked for 12.3% of its total bitcoin supply
+### 2014-03-04: Poloniex Attacked for 12.3% of its total bitcoin supply
 - The exchange took to Bitcoin Forum on 4th March to report it had been compromised by a previously unknown vulnerability in its coding.
 
-### 2014-07-14: ❓ BTER: Managed server was attacked.
+### 2014-07-14: BTER: Managed server was attacked.
 
-### 2014-08-01: ❌ Primedice: Breaking the house - a 2,400 BTC RNG Exploit
+### 2014-08-01: Primedice: Breaking the house - a 2,400 BTC RNG Exploit
 - https://medium.com/@Stunna/breaking-the-house-63f1021a3e6d
 
-### 2014-08-07: ❓ Hacker Redirects Traffic From 19 Internet Providers to Steal Bitcoins
+### 2014-08-07: Hacker Redirects Traffic From 19 Internet Providers to Steal Bitcoins
 - https://wired.com/2014/08/isp-bitcoin-theft/
 
-### 2014-08-15: ❓BTER/Gate.io - $1.65m in NXT has been stolen
+### 2014-08-15: BTER/Gate.io - $1.65m in NXT has been stolen
 - Freeworm continued his post by providing the address containing the [stolen 51,670,000 NXT](http://www.mynxt.info/blockexplorer/details.php?action=ac&ac=1244396688755618309), and detailing how it would seek to enlist the help of the NXT community in its effort to recover its funds.
 
-### 2014-11-04: ❗Bitstamp CEX Hack - Skype Phishing Attempt
-- THIS HAS TO BE LAZARUS OMG LOOK AT THE EMAILS
+### 2014-11-04: Bitstamp CEX Hack - Skype Phishing Attempt
 - https://github.com/miohtama/opsec/blob/master/source/incidences/bitstamp.rst
 
 ### 2014-11-24: Sony Pictures Hack Wiper Attack Occurs
@@ -62,14 +57,9 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - Park was a North Korean hacker that worked for the country's [Reconnaissance General Bureau](https://en.wikipedia.org/wiki/Reconnaissance_General_Bureau), the equivalent of the
 - The US DOJ also asserted that Park was partially responsible for arranging WannaCry, having developed part of the ransomware software
 - https://en.wikipedia.org/wiki/Sony_Pictures_hack
-
-### 2014-12-10: ❌ Blockchain.com - johoe Returns 225 BTC Taken from Blockchain Wallets
-
-### 2014-12-19: Sony Pictures Hack - FBI’s Update on Sony Investigation
 - https://www.fbi.gov/news/pressrel/press-releases/update-on-sony-investigation
 
-### 2014-12-??: Sony Pictures Hack - Targeting of AMC Theatres related to The Interview showing
-- https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+### 2014-12-10:  Blockchain.com - johoe Returns 225 BTC Taken from Blockchain Wallets
 
 ### 2014-2015: Operation Red Dot against South Korean Govt/Defence Co's
 - Variants of the malware used in the Sony Pictures hack were found in attacks which targeted the websites of North Korean research and governmental organizations, and the South Korean defence industry. 
@@ -78,7 +68,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - The document files, which are listed in Table 3, are decoys disguised as legitimate documents, such as address books, deposit slips and invitations to lure victims into opening them.
 - https://www.virusbulletin.com/virusbulletin/2018/11/vb2018-paper-hacking-sony-pictures/
 
-### 2015-01-04: ❗Bitstamp CEX Hack - 18k BTC ($5M)
+### 2015-01-04: Bitstamp CEX Hack - 18k BTC ($5M)
 - The Slovenia-based company said Monday that fraudsters made off with 18,000 BTC
 - i havent seen anything going this far back but reading teh bitstamp report it has lazarus written all over it. 
 - > "On 4 November 2014, Mr Merlak [CTO of Bitstamp] was contacted by Skype account punk.rock.holiday from IP address (94.185.85.171). The gambit for this phishing attack was to offer Mr Merlak free tickets to Punk Rock Holiday 2015. (Merlak is keen on punk rock and has played in a band.) ... Over a period of approximately five weeks, four more Bitstamp employees received similar highly targeted phishing attacks, each tailored to individual interests." (Bitstamp Incident Report)
@@ -89,11 +79,11 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - "Banco del Austro (BDA) in Ecuador instructed San Francisco-based Wells Fargo to transfer money to bank accounts in Hong Kong."
 - wow i thought my dates were wrong on this one but they arent
 - https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/ecuadorean-bank-loses-12m-via-swift
-- ❗so the first (known) SWIFT hack thing was January 201*5*❗❗
+-so the first (known) SWIFT hack thing was January 201*5
 - it just only came to light after Bangledesh
 - https://www.reuters.com/article/us-cyber-heist-swift-specialreport-idUSKCN0YB0DD
 
-### 2015-01-28: 796: Chinese Exchange Gets 'Goxed' for 1,000 bitcoins
+### 2015-01-28: 796 - Chinese Exchange Gets 'Goxed' for 1,000 bitcoins
 - 796: Not much information available, other than the victim stating that the hacker was putting a lot of effort towards their attack. We have been constantly monitoring the hacking activities on our servers and 3 months back then we took the precautionary step to migrate our servers to a highly secured cloud site. Unfortunately, that didn’t stop the incident from happening last night. In the last 24 hours, our security team worked around the clock to trace back the codes and processes. At this moment, we have a pretty good idea of exactly how they did it. This was not a generalized attack. The hacker’s strategy was precisely calculated and well targeted to compromise a certain weakness on our server.
 - https://cointelegraph.com/news/chinese-exchange-suffers-1000-btc-loss-in-uncertain-service-compromise
 
@@ -104,7 +94,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2015-03-30: Bangledesh Bank Employees spear-phished.
 - By March the hackers had a backdoor to teh bank's electronic communication system allowing them to send messages to one another in a way that mimicked the bank’s encrypted-communication protocols, and did not alert security to their presence.
 
-### 2015-04-01: ✨ Coinbase: SendGrid Employee Account Hacked, Used to Steal Customer Coinbase Credentials
+### 2015-04-01: Coinbase: SendGrid Employee Account Hacked, Used to Steal Customer Coinbase Credentials
 - https://krebsonsecurity.com/2015/04/sendgrid-employee-account-hacked-used-to-steal-customer-credentials/
 
 ### 2015-2019: SWIFT Heists
@@ -151,13 +141,13 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2016-06-17: Operation Daybreak
 - https://securelist.com/operation-daybreak/75100/
 
-### 2016-08-01: ❌ Bitfinex CEX Hack - 120k BTC / $77M
+### 2016-08-01:  Bitfinex CEX Hack - 120k BTC / $77M
 
-### 2016-08-03: ✨ Yapizon 1 CEX Hack
+### 2016-08-03: Yapizon 1 CEX Hack
 - South Korean CEX Yapizon announced last week it lost 3,831 BTC ($5.5M) after an unknown hacker breached its system and stole funds from its server
 - https://cointelegraph.com/news/korean-bitcoin-exchange-yapizon-confirms-5-mln-hack-all-customers-to-pay-with-balances
 
-### 2016-12-??: ✨ OkCoin/Okex CEX Hack - Unknown
+### 2016-12-??: OkCoin/Okex CEX Hack - Unknown
 
 ### 2016-2020: Multiple spear-phishing campaigns targetting employees of US defense contractors, energy companies, aerospace companies, technology companies, the U.S.Department of State, and the U.S. Department of Defense
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
@@ -188,7 +178,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - The extortion and attempted extortion of victim companies from 2017 through 2020 involving the theft of sensitive data and deployment of other ransomware.
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
-### 2017-05-??: ✨ Bithumb 1 CEX Hack - Lazarus - $7m
+### 2017-05-??: Bithumb 1 CEX Hack - Lazarus - $7m
 
 ### 2017-06-13: "CISA's report on HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure"
 - This Joint Technical Alert provides technical details on the tools and infrastructure used by cyber actors of the North Korean government to target the media, aerospace, financial, and critical infrastructure sectors in the United States and globally. Working with U.S. government partners, DHS and FBI identified Internet Protocol addresses associated with a malware variant, known as DeltaCharlie, used to manage North Korea’s DDoS botnet infrastructure.
@@ -196,7 +186,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2017-06-13: US-CERT's HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure
 - https://www.us-cert.gov/ncas/alerts/TA17-164A
 
-### 2017-07-??: ❓Korbit CEX Hacked
+### 2017-07-??: Korbit CEX Hacked
 
 ### 2017-08-14: "Unit42 has discovered ongoing attack targeting individuals involved with US defense contracts links back to perportrators of the Sony Pictures Hack."
 - Most notably, decoy document themes now include job role descriptions and internal policies from US defense contractors.
@@ -218,7 +208,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - CISA Alert TA17-318B: HIDDEN COBRA – North Korean Trojan: Volgmer
 - These Joint Technical Alerts provide information and IOCs on malware variants used by the North Korean government to maintain a presence on victims’ networks and to further network exploitation. DHS and FBI distributed these alerts to enable network defense and reduce exposure to any North Korean government malicious cyber activity.
 
-### 2017-12-06: ✨ NiceHash CEX Hack - $64M-$75M - aka Slovenian Crypto Company in US indictments
+### 2017-12-06: NiceHash CEX Hack - $64M-$75M - aka Slovenian Crypto Company in US indictments
 - Cryptocurrency Mining Market
 - https://archive.org/web/20181113211702/
 - https://nicehash.com/news/niceHash-security-breach-investigation-update
@@ -234,23 +224,23 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - Two files are 32-bit Windows executables that function as Proxy servers and implement a "Fake TLS" method.
 - The third file is an Executable Linkable Format file designed to run on Android platforms as a fully functioning Remote Access Trojan.
 
-### 2017-12-??: ✨ Youbit #2 CEX Hack
+### 2017-12-??: Youbit #2 CEX Hack
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
 ### 2017-12-??: ✨️ YouBit CEX Hack (previously known as Yapizon)
 - Following a hack that cost 17% of the exchange’s holdings, Youbit announced it was closing down.
 
-### 2017-2018: ✨ Marine Chain Token and Initial Coin Offering
+### 2017-2018: Marine Chain Token and Initial Coin Offering
 - Development and marketing in 2017 and 2018 of the Marine Chain Token to enable investors to purchase fractional ownership interests in marine shipping vessels, supported by a blockchain, which would allow the DPRK to secretly obtain funds from investors, control interests in marine shipping vessels, and evade U.S. sanctions.
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
-### 2017-2020: ✨ ~"15 other CEX Hacks"
+### 2017-2020: ~"15 other CEX Hacks"
 
 ### 2017-??-??: Far Eastern International Bank of Taiwan SWIFT Heist - $60M
 
-### 2017-??-??: ✨ South Korean Individual's BTC, XMR Stolen
+### 2017-??-??: South Korean Individual's BTC, XMR Stolen
 
-### 2018-01-01: ❌ Coincheck CEX Hack - $534M
+### 2018-01-01:  Coincheck CEX Hack - $534M
 - Hackers stole nearly $530 million in NEM coins from Coincheck, then the leading exchange in Japan. One of Coincheck’s major security lapses, it admits, is that the exchange kept customer assets in a hot wallet.
 - While reported as Laz, it really doesn't look like it...far more like Gox than Laz
 - Unidentified assailants stole 523M NEM coins (about $534M) from the exchange's hot wallet
@@ -271,7 +261,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2018-02-20: Reaper - The Overlooked North Korean Actor from FireEye
 - https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf
 
-### 2018-02-??: ❗BitGrail CEX Hack - $120M
+### 2018-02-??:BitGrail CEX Hack - $120M
 - Nano Stolen June 2017, July 2017, October 2017, ???
 - Founder hid these thefts, cashed out BTC at the top of the market, and then said "oh we got hacked of Nano just like Coincheck" in Feb 2018.
 - "The checks for whether you had a sufficient balance to withdraw were only implemented as client-side JavaScript" so I guess anyone could have stolen it
@@ -298,7 +288,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2018-04-25: "SWIFT is aware of a malware that aims to reduce financial institutions’ abilities to evidence fraudulent transactions on their local systems. Contrary to reports that suggest otherwise, this malware has no impact on SWIFT’s network or core messaging services."
 - https://www.swift.com/news-events/press-releases/swift-comments-malware-reports
 
-### 2018-05-09 - ✨ `Exchange 1` Gate.io CEX Hack - $250M
+### 2018-05-09 - `Exchange 1` Gate.io CEX Hack - $250M
 - https://cointelegraph.com/news/chinese-bitcoin-exchange-okex-hacked-for-3-mln-police-not-interested
 - Sometime between 2018-01-01 and 2018-05-10
 - An employee of The Exchange 1 communicated with a “potential client” via email which resulted in employee unwittingly downloading malware which then attacked The Exchange 1. 
@@ -317,15 +307,15 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2018-05-31: NavRAT Uses US-North Korea Summit As Decoy For Attacks In South Korea
 - https://blog.talosintelligence.com/2018/05/navrat.html
 
-### 2018-05-??: ❓ Satori Botnet targeting exposed Ethereum miners
+### 2018-05-??: Satori Botnet targeting exposed Ethereum miners
 - In May 2018, reports emerged of [Satori Botnet](https://bitcoinist.com/watchout-satori-botnet-targets-exposed-ethereum-miners/) targeting exposed Ethereum miners. 
 - There are [numerous](https://github.com/tolgatasci/geth-hack) hacking resources available on GitHub to automate port 8545 scanning exploits.
 - https://bitcoinist.com/hacked-cybercriminals-steal-20-million-in-ether-from-poorly-configured-app-clients/
 
-### 2018-05-??:❗Taylor ICO - Crypto Theft - $1.5M
+### 2018-05-??: Taylor ICO - Crypto Theft - $1.5M
 - Taylor is a cryptocurrency trading app, that raised a successful initial coin offering (ICO) in order to get funding. Unfortunately, not long after, hackers managed to gain access to a company device and took control of a password file. The malicious actors stole all of the Ethereum raised in the ICO, valued at $1.5 million. There were concerns that this was just another exit scam, but it appears that Taylor has slowly managed to rebuild. 
 
-### 2018-06-10: ❓ Coinrail CEX Hack - $20M
+### 2018-06-10: Coinrail CEX Hack - $20M
 - https://www.bleepingcomputer.com/news/security/south-korean-cryptocurrency-exchange-coinrail-gets-hacked/
 
 ### 2018-06-13: Banco de Chile Wiper Attack Just a Cover for $10M SWIFT Heist
@@ -336,7 +326,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - AR 10135536-12
 - DHS and FBI identified a Trojan malware variant—referred to as TYPEFRAME—used by the North Korean government. DHS and FBI distributed this MAR to enable network defense and reduce exposure to North Korean government malicious cyber activity. This malware report contains an analysis of multiple malware samples consisting of 32-bit and 64-bit Windows executable files and a malicious Microsoft Word document that contains Visual Basic for Applications macros.
 
-### 2018-06-20: ✨ Bithumb CEX Hack - $32M
+### 2018-06-20: Bithumb CEX Hack - $32M
 - Details Still Sketchy After $30 Mln Hack, Elliptic software follows the money from the Bithumb hack to Yobit
 - Lazarus Group distributing malicious documents created using the Hangul Word Processor (HWP) to cryptocurrency users in South Korea earlier in the year
 - Alienvault concluded that while it couldn't be certain the malware linked to in those HWP documents was responsible for the Bithumb heist "it seems a likely suspect."
@@ -352,13 +342,13 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - https://medium.com/meetbitfury/crystal-blockchain-analytics-investigation-of-the-bithumb-exchange-hack-b9c5f0f3d74
 - https://news.bitcoin.com/north-korean-hackers-threatened-bithumb-16m-ransom-amid-2017-data-breach/
 
-### 2018-06-??:❗Coinrail - Crypto Theft - $40M
+### 2018-06-??Coinrail - Crypto Theft - $40M
 - South Korea
 - "June – Coinrail – 1,927 ETH, 2.6 Billion NPXS, 93 Million ATX, 831 Million DENT Coins & large amounts of 6 other tokens
 - Despite the fact that Coinrail was a relatively small cryptocurrency exchange, it did a lot of business which drew the attention of hackers. Exact details of the attack are still unclear, and the exchange lost an estimated $40 million.
 - Tokens sent to IDEX and ETHERDELTA to trade"
 
-### 2018-07-09: ✨ Bancor Hack - $23M
+### 2018-07-09: Bancor Hack - $23M
 - As for users’ tokens, Bancor immediately created a coalition with the instant exchange service Changelly, through which the hackers tried to withdraw funds. Transactions were frozen there as well.
 - Bancor, a decentralized exchange created in opposition to centralized ones was attacked by hackers on July 9, 2018.
 - Following the attack, $10 million worth of BNT was recovered from the hack.
@@ -366,7 +356,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - Wallet used to upgrade smart contracts used to steal $23M
 - “A Bancor wallet got hacked and that wallet has the ability to steal coins out of their own smart contracts. An exchange is not decentralized if it can lose customer funds OR if it can freeze customer funds. Bancor can do BOTH. It’s a false sense of decentralization.”
 
-### 2018-07-27: ❓ KICKICO - Crypto Theft -admin key compromised
+### 2018-07-27: KICKICO - Crypto Theft -admin key compromised
 - KICKICO: Another ICO Hacked, KICKICO Loses $8 Million After Smart Contract Breach Admin Key Compromised, $7.7M Lost
 
 ### 2018-08-09: "CISA's analysis of North Korean Trojan: KEYMARBLE"
@@ -385,16 +375,15 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - https://documentcloud.org/documents/4834226-2018-09-06-PARK-COMPLAINT-UNSEALED.html
 - https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
 
-### 2018-09-14: ❗ Zaif - CEX Hack - $59M
+### 2018-09-14: Zaif - CEX Hack - $59M
 - Japan
 - This is yet another case where it’s unclear how hackers stole the funds. However, Zaif did file a criminal case with their local authorities, which makes it sound like they have an idea as to who did it. Either way, this Japanese exchange lost $60 million worth of cryptocurrency.
 
-### 2018-09-??: ✨ `Indonesian Crypto Company` Theft - $24.9M 
+### 2018-09-??: `Indonesian Crypto Company` Theft - $24.9M 
 - I suspect this must be and undisclosed hack of Indodax as they are likely the only ones who could afford to cover the loss in that market. Given Indonesia regulatory environment was harsh af, not disclosing is somewhat understandable.
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
 ### 2018-10-01 - "The most destructive cyber threat right now"
-- Author:: FireEye ZDNet
 - https://zdnet.com/article/north-korea-is-the-most-destructive-cyber-threat-right-now-fireeye/
 
 ### 2018-10-01 - FireEye Report on APT38
@@ -415,19 +404,19 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - > Developed custom PowerShell scripts that communicate with malicious C2 servers and execute commands from the operator. The C2 server script names are disguised as WordPress (popular blog engine) files as well as those of other popular open source projects.
 - https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
 
-### 2018-11-04: ✨ Gate.io SupplyChain Attack
+### 2018-11-04: Gate.io SupplyChain Attack
 - https://www.zdnet.com/article/hackers-breach-statcounter-to-hijack-bitcoin-transactions-on-gate-io-exchange/
 
 ### 2018-12-31: Group-IB's 2018 Crime Report
 - https://explore.group-ib.com/htct/hi-tech_crime_2018
 
 ### 2018-2017: According to the Treasury, NK affiliated hackers “likely” stole ~$571 million in cryptocurrency from five Asian exchanges in 2017 and 2018.
-- 2018-09-??: ✨ `Indonesian Crypto Company` Theft - $24.9M 
+- 2018-09-??: `Indonesian Crypto Company` Theft - $24.9M 
 - 2018-06-20: ✨️ Bithumb2 CEX Hack - Lazarus - 2,016 BTC aka $30M
 - 2017-12-??: ✨️ YouBit CEX Hack (previously known as Yapizon)
 - 2017-04-??: ✨️ Yapizon CEX Hack - 3831 BTC
 
-### 2018-2020: ✨ Multiple malicious cryptocurrency applications which would provide the North Korean hackers a backdoor into the victims’ computers.
+### 2018-2020: Multiple malicious cryptocurrency applications which would provide the North Korean hackers a backdoor into the victims’ computers.
 - from March 2018 through at least September 2020:
 - Celas Trade Pro WorldBit-Bot iCryptoFx Union Crypto Trader Kupay Wallet CoinGo Trade Dorusio CryptoNeuro Trader and Ants2Whale
 - which would provide the North Korean hackers a backdoor into the victims’ computers.
@@ -436,22 +425,22 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2018-??-??: FASTCash grabs $6.1 million from BankIslami Pakistan Limited
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
-### 2018-??-??: ✨ Operation AppleJeus research highlighted Lazarus’s focus on cryptocurrency exchanges utilizing a fake company with a backdoored product aimed at cryptocurrency businesses
+### 2018-??-??: Operation AppleJeus research highlighted Lazarus’s focus on cryptocurrency exchanges utilizing a fake company with a backdoored product aimed at cryptocurrency businesses
 - New ability to target macOS. 
 - Infected with malware after installing a legitimate-looking trading application called Celas Trade Pro from Celas Limited showed no signs of malicious behaviour and looked genuine. Malware delivered via update files in app. User installed this program via a download link delivered over email.
 - For macOS users, Celas LLC also provided a native version of its trading app. A hidden “autoupdater” module is installed in the background to start immediately after installation, and after each system reboot. 
 - https://securelist.com/operation-applejeus/87553/
 
-### 2019-01-14: ❗Cryptopia - CEX Hack (hacked twice in 2 weeks)
+### 2019-01-14:Cryptopia - CEX Hack (hacked twice in 2 weeks)
 - "It all started with Cryptopia users having difficulty accessing their accounts, and it only went downhill from there. The company originally thought it was a technical issue, but later clarified on Twitter that it was a security breach. 
 - The exact amount stolen in the hack is still unknown. Unfortunately for Cryptopia, they suffered from another hack 15 days after the first one. That was the end of the New Zealand-based exchange – they are now going through the liquidation process. 2020 Update: Cryptopia is still undergoing liquidation, but it has now been revealed that the exchange was failing to meet anti-money laundering (AML) requirements when creating new user accounts. For over 900,000 active user accounts, there is no customer data beyond usernames and email addresses. 
 - Less than 1% of users had completed customer identification, a vital part of AML procedures which ensures that customers are who they say they are. Thousands of accounts which held over $3 million worth of cryptocurrency were traced back to uninhabited islands or physical addresses that didn’t exist. As it stands, many of those who lost funds in the hack aren’t eligible to be refunded by liquidators because there is not enough information on who owned what accounts. "
 
-### 2019-02-??: ❓ Coinmama - CEX Hack - PII Only
+### 2019-02-??: Coinmama - CEX Hack - PII Only
 - "February – Coinmama – 450,000 User Emails & Passwords
 - This is a slightly less conventional hack, because instead of stealing money the hackers just stole information. Coinmama is one of the largest cryptocurrency brokers with over a million active users. There appears to have been little fallout from this hack, as Coinmama informed users rapidly once they learned that user data was being leaked on the dark web. To date, no cryptocurrency has been stolen."
 
-### 2019-03-01: ✨  `Undisclosed` CEX Hack - could be DragonEx or Coinbene
+### 2019-03-01:  `Undisclosed` CEX Hack - could be DragonEx or Coinbene
 - A cryptocurrency exchange company attacked with a malicious document containing the same macro. The document’s content provided information for coin listings with a translation in Korean
 - Another macro-weaponized document contains a business overview of what seems to be a Chinese technology consulting group named LAFIZ. 
 - These Windows malware samples were delivered using malicious HWP (Korean Hangul Word Processor format) documents exploiting a known PostScript vulnerability.
@@ -460,7 +449,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2019-03-26: "Cryptocurrency businesses still being targeted by Lazarus"
 - https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
 
-### 2019-03-26: ✨  DragonEx CEX Hack - $7M
+### 2019-03-26:  DragonEx CEX Hack - $7M
 - Singapore-Based Crypto Exchange DragonEx Has Been Hacked
 - Used software called “Worldbit-bot” to carry out its active attacks
 - wb-invest.net and wb-bot.org
@@ -470,7 +459,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - https://tokenpost.com/Crypto-exchange-DragonEx-lost-7M-in-hack-announces-compensation-plan-1568
 - https://blog.chainalysis.com/reports/cryptocurrency-exchange-hacks-2019
 
-### 2019-03-27: ✨  Coinbene CEX Hack
+### 2019-03-27:  Coinbene CEX Hack
 - https://zdnet.com/article/cryptocurrency-platforms-dragonex-and-coinbene-disclose-hacks/
 
 ### 2019-03-30: ✨️ Bithumb3 CEX Hack
@@ -479,13 +468,13 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2019-05-13: ScarCruft continues to evolve, introduces Bluetooth harvester
 - https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/
 
-### 2019-05-30: ❓Coinbase Responding to Firefox 0-days in the wild - CVE-2019–11707 & CVE-2019–11708
+### 2019-05-30: Coinbase Responding to Firefox 0-days in the wild - CVE-2019–11707 & CVE-2019–11708
 - CRYPTO-3
 - https://blog.coinbase.com/responding-to-firefox-0-days-in-the-wild-d9c85a57f15b
 - [https://twitter.com/5aelo/status/1143548622530895873](https://twitter.com/5aelo/status/1143548622530895873)
 - HYDSEVEN
 
-### 2019-07-01: ✨  `Undisclosed` CEX Hack - $272k in Proton, PlayGame, IHT Real Estate Protocol
+### 2019-07-01:  `Undisclosed` CEX Hack - $272k in Proton, PlayGame, IHT Real Estate Protocol
 - CEX was hacked by an actor tied to North Korea
 - The hacker allegedly stole over $272,000 crypto and tokens: Proton Tokens, PlayGame tokens, and IHT Real Estate Protocol tokens
 - Law enforcement was nonetheless able to trace the funds, despite the sophisticated laundering techniques used.
@@ -498,7 +487,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - ELECTRICFISH implements a custom protocol that allows traffic to be tunneled between a source and a destination Internet Protocol (IP) address.
 - BADCALL malware is an executable that functions as a proxy server and implements a "Fake TLS" method.
 
-### 2019-09-25: ✨ `Undisclosed` US Crypto Company - $2.5M
+### 2019-09-25: `Undisclosed` US Crypto Company - $2.5M
 - U.S.-based company was hacked in a related incident
 - The North Korea-associated hacker gained access to the company’s virtual currency wallets, funds held by the company on other platforms, and funds held by the company’s partners
 - The hacker stole nearly $2.5 million and laundered it through over 100 accounts at another virtual currency exchange.
@@ -515,7 +504,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - This is an image of the history of malware used by the North Korean hacker group B that hacked the Kudankulam Nuclear Power Plant(KKNPP) in India. A 16-digit string dkwero38oerA^t@# is the password that malware uses to compress a list of files on an infected PC.
 - https://twitter.com/issuemakerslab/status/1190846548415959040
 
-### 2019-11-27: ✨ UpBit aka `Exchange 3` CEX Hack - 342,000 ETH ($48.5M)
+### 2019-11-27: UpBit aka `Exchange 3` CEX Hack - 342,000 ETH ($48.5M)
 - `Exchange 3`, a South Korea-based virtual currency exchange, had approximately 342,000 ETH ($48.5 million) stolen from it
 - North Korean co-conspirators had targeted `Exchange 3` in May 2019, although this previously attempted theft failed
 - Specifically, emails originating from North Korea falsely gave the impression that `Exchange 3` was requesting information from its customers about a fictional sweepstakes payout
@@ -544,7 +533,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - U.S. Department of the Treasury
 - https://home.treasury.gov/news/press-releases/sm924
 
-### 2020-03-02: ✨  UpBit aka `Exchange 3` CEX Hack - Two Chinese Nationals Indicted
+### 2020-03-02:  UpBit aka `Exchange 3` CEX Hack - Two Chinese Nationals Indicted
 - Author:: Wall Street Journal
 - https://wsj.com/articles/two-chinese-nationals-indicted-in-alleged-north-korean-bitcoin-hack-11583170682
 
@@ -604,11 +593,9 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - CISA and FBI have identified a malware variant—referred to as BLINDINGCAN—used by North Korean actors. FBI has high confidence that HIDDEN COBRA actors are using malware variants in conjunction with proxy servers to maintain a presence on victim networks and to further network exploitation. A threat group with a nexus to North Korea targeted government contractors early this year to gather intelligence surrounding key military and energy technologies.
 
 ### 2020-08-25: "DPRK-aligned threat actor targeting cryptocurrency vertical with global hacking campaign"
-- Author:: F-Secure
 - https://f-secure.com/en/press/p/dprk-aligned-threat-actor-targeting-cryptocurrency-vertical-with
 
-### 2020-08-25: ✨ "Lazarus Group Campaign Targeting the Cryptocurrency Vertical"
-- Author:: F-Secure
+### 2020-08-25: "Lazarus Group Campaign Targeting the Cryptocurrency Vertical"
 - https://labs.f-secure.com/publications/ti-report-lazarus-group-cryptocurrency-vertical
 
 ### 2020-08-26: "CISA's Report FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks"
@@ -617,27 +604,26 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - MAR 10257062-1.v2: North Korean Remote Access Tool: FASTCASH for Windows
 - CISA, the Department of the Treasury, FBI, and U.S. Cyber Command released a joint Technical Alert and three MARs on the North Korean government’s ATM cash-out scheme—referred to by the U.S. Government as “FASTCash.”
 
-### 2020-08-28: ✨ US DOJ: "Forfeiture Complaint for 280 Crypto addresses tied to North Korea"
+### 2020-08-28: US DOJ: "Forfeiture Complaint for 280 Crypto addresses tied to North Korea"
 - These actors stole millions of dollars’ worth of cryptocurrency and ultimately laundered the funds through Chinese over-the-counter (OTC) cryptocurrency traders.
 - https://blog.chainalysis.com/reports/lazarus-group-north-korea-doj-complaint-august-2020/
 - https://www.justice.gov/usao-dc/pr/united-states-files-complaint-forfeit-280-cryptocurrency-accounts-tied-hacks-two
 - https://justice.gov/usao-dc/pr/united-states-files-complaint-forfeit-280-cryptocurrency-accounts-tied-hacks-two
 
-### 2020-08-??: ✨ `Financial Services Co in New York` Theft -- used malicious CryptoNeuro Trader application as a backdoor.
+### 2020-08-??: `Financial Services Co in New York` Theft -- used malicious CryptoNeuro Trader application as a backdoor.
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
-### 2020-09-02: ✨ Chainalysis: report regarding Lazarus Group on-chain activity and the recent US DOJ civil forfeiture of 280 cryptocurrency addresses
+### 2020-09-02: Chainalysis: report regarding Lazarus Group on-chain activity and the recent US DOJ civil forfeiture of 280 cryptocurrency addresses
 - Author:: Chainalysis
 - https://blog.chainalysis.com/reports/lazarus-group-north-korea-doj-complaint-august-2020
 
-### 2020-09-02: ✨ F-Secure: Report on Lazarus Group's targeting of crypto companies
+### 2020-09-02: F-Secure: Report on Lazarus Group's targeting of crypto companies
 - It includes malware indicators, techniques and tactics
-- Author:: F-Secure
 - https://labs.f-secure.com/assets/BlogFiles/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf
 
-### 2020-09-20: ✨ US DOJ: "Lazarus Group developed multiple malicious crypto applications from March 2018 through at least September 2020. Such apps include Celas Trade Pro, Worldbit-bot, icryptofx, Union Crypto Trader, Kupay Wallet, Coingo Trade, Dorusio, Cryptoneuro Trader, and Ants2whale."
+### 2020-09-20: US DOJ: "Lazarus Group developed multiple malicious crypto applications from March 2018 through at least September 2020. Such apps include Celas Trade Pro, Worldbit-bot, icryptofx, Union Crypto Trader, Kupay Wallet, Coingo Trade, Dorusio, Cryptoneuro Trader, and Ants2whale."
 
-### 2020-09-25: ✨ KuCoin CEX Hack - $275M
+### 2020-09-25: KuCoin CEX Hack - $275M
 - In September 2020, KuCoin confirmed that hackers had managed to obtain private keys to their hot wallets before withdrawing large amounts of ethereum (ETH) and bitcoin (BTC), as well as Bitcoin SV (BSV), Litecoin (LTC), XRP (XRP), Stellar Lumens (XLM), Tron (TRX), and Tether (USDT). Since then, experts have suggested they have strong reason to believe that hackers in North Korea were responsible.
 - We were able to attribute this hack to Lazarus Group due in part to the KuCoin hackers’ use of a specific money laundering strategy Lazarus has frequently used in the past. The strategy involves sending stolen funds to mixers in structured payments of the same size — usually an amount just below a round number in Bitcoin — that can be higher or lower depending on the size of the total amount to be laundered. Lazarus typically waits for each payment’s output to be confirmed by the mixer before sending a new one, allowing them to minimize losses in the event the mixer fails. Once the funds are mixed, Lazarus Group then typically sends funds to OTC brokers on one of a few exchanges. The KuCoin hackers utilized this strategy for portions of the funds stolen. This, along with other pieces of evidence we’re unable to share at this time, helped us identify Lazarus Group as the culprits. Additionally, two deposit addresses to which Lazarus Group sent stolen cryptocurrency this year also received funds stolen in the Harvest Finance hack, leading to speculation that Lazarus Group may have carried out that attack as well. However, this is still unconfirmed.
 - KuCoin hackers used platforms like Uniswap and Kyber to swap stolen tokens into ETH
@@ -663,7 +649,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - Author::  US Treasury
 - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20201208
 
-### 2020-12-14: ✨ Hugh Karp Theft - 370k NXM ($8M)
+### 2020-12-14: Hugh Karp Theft - 370k NXM ($8M)
 - This was a targeted, personal attack on Hugh. Hugh was using a hardware wallet. The attacker gained remote access to his computer & modified the metamask extension, tricking him into signing a different transaction which transferred funds to the attacker’s own address.
 - [https://twitter.com/NexusMutual/status/1338441875326427137](https://twitter.com/NexusMutual/status/1338441875326427137)
 - We welcome any assistance to stop the funds, which will likely move quickly. The funds are currently held here:
@@ -702,7 +688,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - DPRK’s stolen fund stockpile: $170M worth of old, unlaundered cryptocurrency holdings. Chainalysis has identified $170M in current balances—representing the stolen funds of 49 separate hacks spanning from 2017 to 2021—that are controlled by North Korea but have yet to be laundered through services. The ten largest balances by dollar value are listed below.
 - Of DPRK’s total holdings, roughly $35M came from attacks in 2020 and 2021. By contrast, more than $55M came from attacks carried out in 2016—meaning that DPRK has massive unlaundered balances as much as six years old.
 
-### 2021-01-25: ✨  Google TAG report on a new campaign targeting security researchers
+### 2021-01-25:  Google TAG report on a new campaign targeting security researchers
 - government-backed entity based in North Korea. Social media targetting.
 - the actors established a research blog and multiple Twitter profiles to interact with potential targets. They've used these Twitter profiles for posting links to their blog, posting videos of their claimed exploits and for amplifying and retweeting posts from other accounts that they control.
 - Their blog contains write-ups and analysis of vulnerabilities that have been publicly disclosed, including “guest” posts from unwitting legitimate security researchers, likely in an attempt to build additional credibility with other security researchers.
@@ -711,13 +697,13 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - These actors have used multiple platforms to communicate with potential targets, including Twitter, LinkedIn, Telegram, Discord, Keybase and email
 - https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/
 
-### 2021-02-17: ✨  FBI + CISA's report on Operation AppleJeus
+### 2021-02-17:  FBI + CISA's report on Operation AppleJeus
 - targeting individuals and companies, including cryptocurrency exchanges and financial service companies, through the dissemination of cryptocurrency trading applications that have been modified to include malware that facilitates theft of cryptocurrency
 - the malicious application—seen on both Windows and Mac operating systems—appears to be from a legitimate cryptocurrency trading company, thus fooling individuals into downloading it as a third-party application from a website that seems legitimate
 - infecting victims through legitimate-looking websites, HIDDEN COBRA actors also use phishing, social networking, and social engineering techniques to lure users into downloading the malware.
 - Celas Trade Pro JMT Trading Union Crypto Kupay Wallet CoinGoTrade Dorusio Ants2Whale
 
-### 2021-02-17: ✨ "CISA's Report on Operation AppleJeus: Analysis of North Korea's Cryptocurrency Malware"
+### 2021-02-17: "CISA's Report on Operation AppleJeus: Analysis of North Korea's Cryptocurrency Malware"
 - Joint FBI-CISA-Treasury
 - CISA, FBI, and the Department of the Treasury released a Joint Cybersecurity Advisory and seven MARs on the North Korean government’s dissemination of malware that facilitates the theft of cryptocurrency—referred to by the U.S. Government as “AppleJeus.”
 
@@ -731,11 +717,11 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - With respect to the North Korean co-conspirators’ activities, Alaumary organized teams of co-conspirators in the United States and Canada to launder millions of dollars obtained through ATM cash-out operations, including from BankIslami and a bank in India in 2018. 
 - Alaumary also conspired with Ramon Olorunwa Abbas, aka “Ray Hushpuppi,” and others to launder funds from a North Korean-perpetrated cyber-enabled heist from a Maltese bank in February 2019. Last summer, the U.S. Attorney’s Office in Los Angeles charged Abbas in a separate case alleging that he conspired to launder hundreds of millions of dollars from BEC frauds and other scams.
 
-### 2021-04-11: ✨ `A NEW NFT&DeFi TECH (PROTECTED).docx`
+### 2021-04-11: `A NEW NFT&DeFi TECH (PROTECTED).docx`
 - protectoffice[.]club
 - https://twitter.com/fr0s7_/status/1381328726819020804
 
-### 2021-04-19: ✨ EasyFi – $80M - ^^v similar to Hugh Karp^^
+### 2021-04-19: EasyFi – $80M - v similar to Hugh Karp
 - By stealing the private keys to EasyFi’s MetaMask admin account, hackers were able to extract $6M in USD, DAI, and USDT, plus 2.98M EASY tokens, all of which amounted to around $81M. The machine that was compromised to gain the keys was offline most of the time, only being switched on to perform official transfers for the project. When the attack was carried out, the machine had been offline for more than a week. And because it wasn’t actively used when the attack was carried out, this delayed the platform’s response and allowed the hacker to drain the assets from the protocol.
 - On Monday, 19th April at 10:40:26 AM +UTC, I was informed by teammates about large transfers of EASY tokens from EasyFi official wallets to some unknown wallets on the ethereum network and polygon network. These transactions quickly brought to my attention a possible compromise of admin keys or mnemonic keys since the machine used for the purpose was not in use for at least a week and was completely offline. Quickly, responding to the event I took all the necessary precautions and actions to curtail the losses.
 - Till the time I managed to get my hands on the computer, the hacker managed to get access to admin keys and remove existing liquidity to the tune of $6 million from protocol pools in USD / DAI / USDT and transfer 2.98 Million EASY tokens to this wallet address:
@@ -748,14 +734,14 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2021-04-26: The Incredible Rise of North Korea’s Hacking Army - Lazarus group’s criminal enterprises including cryptocurrency exchange heists and ransomware attacks
 - https://newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army
 
-### 2021-06-03:  ClearSky's report on the Crypto Core APT group attributing it to the North Korean Lazarus APT
+### 2021-06-03: ClearSky's report on the Crypto Core APT group attributing it to the North Korean Lazarus APT
 - https://clearskysec.com/wp-content/uploads/2021/05/CryptoCore-Lazarus-Clearsky.pdf
 
-### 2021-06-30: Evan's writeup on HushPuppi - THE FALL OF THE BILLIONAIRE GUCCI MASTER
+### 2021-06-30: HushPuppi - THE FALL OF THE BILLIONAIRE GUCCI MASTER
 - Authorities say Ramon Abbas, aka Hushpuppi, perfected a simple internet scam and laundered millions of dollars. His past says a lot about digital swagger, and the kinds of stories that get told online.
 - https://www.bloomberg.com/features/2021-hushpuppi-gucci-influencer/
 
-### 2021-07-14: ✨ Bondly Finance Hack - hacker got access to a devs password and then manipulated a smart contract from the protocol
+### 2021-07-14: Bondly Finance Hack - hacker got access to a devs password and then manipulated a smart contract from the protocol
 - On Wednesday, July 14th 2021, Bondly Finance fell victim to an attack from a malicious actor (Attacker) leading to the transfer of 373,088,023 $BONDLY tokens from the Bondly Staking Rewards contract, 200,460,000 of which were used to mint zenBONDLY in a sophisticated attack on the MANTRA DAO ZENTEREST platform. The breach also extended to a number of Bondly-held wallets, which were also compromised during the attack.
 - Upon initial investigation we believe the Attacker, through a well-orchestrated strategy, gained access to a password account belonging to Brandon Smith, CEO of Bondly. The password account contained a mnemonic recovery phrase for his hardware wallet, which when replicated allowed the assailant access to the $BONDLY smart contract, as well as corporate wallets that were also compromised.
 - We have reached out to the bondly finance team to share information and asked them for any information which they have collected. We are currently awaiting response from them.
@@ -763,7 +749,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - Interestingly this exploit was very similar to bzx’s: the hacker got access to a devs password and then manipulated a smart contract from the protocol. More info here
 - https://bondlyfinance.medium.com/bondly-attack-july-14th-2021-postmortem-beb7cf02e9ba
 
-### 2021-08-18: ✨ Liquid.com CEX Hack - Liquid hackers have continued to move expeditiously to convert assets to ETH and launder those ETH through Tornado.cash
+### 2021-08-18: Liquid.com CEX Hack - Liquid hackers have continued to move expeditiously to convert assets to ETH and launder those ETH through Tornado.cash
 - https://www.trmlabs.com/post/liquid-hack-the-second-time-around
 - https://blog.liquid.com/warm-wallet-incident
 - 107 BTC, 9M TRON, 11M XRP, $60M in ERC-20s - $91M
@@ -776,7 +762,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - Whoever hacked Liquid seems to have had a thorough plan in place prior to acting, and is executing that plan with ruthless efficiency.
 - TRX TSpcue3bDfZNTP1CutrRrDxRPeEvWhuXbp XRP rfapBqj7rUkGju7oHTwBwhEyXgwkEM4yby 0x5D2C9f717Da427a9c8Cc20c44EA57BA61d5bc457 0x5d8ecef85058b33cc7130b975cfe07b548fee50a 0x11cf04ee89c9ef56d9ef6126e914286770b8571f 0x262feb0550F3b6927ee5CBaa2fcfF77c1D270dbe 0x5578840aae68682a9779623fa9e8714802b59946 0x5578840aae68682a9779623fa9e8714802b59946 0xD66D9EC7f0D89E0E6698953a7f44158552fbaf8f 0xF87694E29C55D8B971c851ed5936eaC65BAbFbC1 0xaf9bdc92c920415cbcb8572a2dcb8aade778312b 0xc4af9d67850ed5523b876b2276656170689162ce 0xec06a00df7fe291c9f872449385bd593e38d8133 0xefb33ccafc98d5fdb27a6f5ff17350ca76bf3b53 0xff0f573bdf4c23e41ea3ecd82efa66828706b711 1BuEFBns18qmG73ZAA9Pz3f2cWB6UiihuB 1Fx1bhbCwp5LU2gHxfRNiSHi1QSHwZLf7q 1JW1tcBXp1vZ6KGEirFNSXb5RgZSaL63Av 1KNkqryYzeCX36qGhREAsCenowSQqZaKuf 12PKkwoFkXp6JtN7roWRA2gSitE6nVDds4 13Vsw6YXm6e4zpj48y3orV1rHtd3A42Xzg 14Gm6XdWuRPetSsgktkiBWFMfaMqxrKfGn 158khNHxJksxCmWKitms8sATHJpmpzFRtS
 
-### 2021-08-??: ❌ Poly Network DeFi Exploit - $610M
+### 2021-08-??:  Poly Network DeFi Exploit - $610M
 - An attacker exploited cross-chain relay contracts to extract Poly Network funds from three different chains: Ethereum, BSC, and Polygon. The attacker ultimately returned the stolen funds.
 - A ‘white hat’ hacker pulled off the largest single cryptocurrency hack this year, claiming to have done it to expose the security hole in the ‘cross chain’ smart contracts used by the company.
 - The company went on to suspend transactions and fix the bug, even as it negotiated with the hacker and exchanges to freeze the stolen cryptocurrency temporarily. The entire stolen amount was retrieved over the course of a week, with no loss to customers. They offered a job and a reward of $500,000, which the hacker turned down, but later grumbled about getting no reward.
@@ -789,7 +775,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2021-09-16: Ghaleb Alaumary sentenced to 11 years in jail for laundering funds such as those coming from a banking heist by North Korean actors
 - https://www.justice.gov/opa/pr/international-money-launderer-sentenced-more-11-years-prison-laundering-millions-dollars
 
-### 2021-10-08: ✨  mgnr Hack (Google Doc / VC Email)
+### 2021-10-08:  mgnr Hack (Google Doc / VC Email)
 - @mgnr_io was the victim of a malicious and targeted cyber attack the attackers appear to be very sophisticated and have scripting abilities / facility with cross-chain bridging and mixing techniques
 - the point of entry was likely a phishing email masked as somebody we recognized from @maplefinance and containing a fake docx from @PanteraCapital
 - we've subsequently heard of 2 other crypto firms receiving an equally targeted attacks (also with 'pantera' term sheets) the intrusion was probably used to implant a key logger and steal credentials to a password manager where we had (stupidly) shared a privkey as temporary hot wallet between a few team members
@@ -799,20 +785,18 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - we have already recovered a substantial portion of the stolen funds and have frozen some of the hackers' exchange accounts (with fake KYC)
 - as a precaution we temporarily disabled some of our trading systems / wallets
 - we thank all exchange / venture / trading partners for being patient during this time and can assure everyone that we'll be back up and running soon (tm)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTay%2Fma4cJ96pxl.jpg?alt=media&token=00927563-944f-4a9a-98e7-272d5625ebd1)
-- Also targeted: [https://twitter.com/0xwordcel/status/1448497088627503108](https://twitter.com/0xwordcel/status/1448497088627503108)
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTay%2FAVZdCYjm5I.jpg?alt=media&token=384187bc-a0d8-4e8a-85d0-2c2846bf2090)
+- https://twitter.com/0xwordcel/status/1448497088627503108
 
-### 2021-10-??: ❓Cream Finance – $130M
+### 2021-10-??: Cream Finance – $130M
 - In an attack that exploited its flash loan facility, hackers managed to[steal all liquid assets](https://twitter.com/CreamdotFinance/status/1453455806075006976)the platform owned on the Ethereum blockchain.
 - The company put out a statement that the vulnerability has been patched with the help of the community, and that their other blockchain assets weren’t affected. In less than a month, the company[announced compensation](https://creamdotfinance.medium.com/moving-forward-post-exploit-next-steps-for-c-r-e-a-m-finance-1ad05e2066d5)for affected users from their own pockets, funded by their team’s allocation of tokens.
 - C.R.E.A.M. Finance, which is a DeFi lending platform, reported three other attacks this year – in September ($18.8M), August ($29M), and February ($37M) – adding up to a loss of $215M.
 
-### 2021-10-??: ✨ Metaplay Hack
+### 2021-10-??: Metaplay Hack
 - onchain link to bondly and bzx
 - https://twitter.com/NickCarlsen1/status/1506768133121478657
 
-### 2021-11-05: ✨  bZx DeFi Employee Hack - $55M - theft of admin keys, drain protcol, compromised computer, manipulated smart contract of protocol 
+### 2021-11-05:  bZx DeFi Employee Hack - $55M - theft of admin keys, drain protcol, compromised computer, manipulated smart contract of protocol 
 - A bZx developer was sent a phishing email to his personal computer with a malicious macro in a Word document that was disguised as a legitimate email attachment, which then ran a script on his Personal Computer. A bZx developer had his personal wallet’s private keys taken in a phishing attack. The phishing attack was similar to one that affected another user recently named “mgnr.io”. This attack granted the hacker access to the content of the bZx Developers wallet, and also the private keys to the BSC and Polygon deployment of bZx Protocol. After gaining control of BSC and Polygon the hacker drained the BSC and Polygon protocol, then upgraded the contract to allow draining of all tokens that the contracts had given unlimited approval.
 - A bZx developer was sent a phishing email to his personal computer with a malicious macro in a Word document that was disguised as a legitimate email attachment, which then ran a script on his Personal Computer. This led to his personal mnemonic wallet phrase being compromised.
 - Beginning as a simple[phishing attack](https://bzx.network/blog/prelminary-post-mortem)in a Word document, the[hackers managed](https://www.businessinsider.in/cryptocurrency/news/a-hacker-stole-more-than-55-million-in-crypto-after-a-bzx-developer-fell-for-a-phishing-attack/articleshow/87567910.cms) to access private keys of the platform and ‘upgrade’ the smart contracts to transfer funds away. Most losses were on the Polygon and Binance Smart Chain (BSC) networks, while their decentralised infrastructure saw relatively lower losses denominated in Ethereum. On finding out what was happening, the bZx platform alerted other crypto projects and exchanges to freeze the stolen cryptocurrency. The company asked the Kaspersky security firm to investigate, who believe the hackers[were the Lazarus Group](https://bzx.network/blog/post-mortem-update)with links to North Korea.
@@ -820,13 +804,13 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - https://bzx.network/blog/prelminary-post-mortem
 - https://bzx.network/blog/post-mortem-update
 
-### 2021-11-??: ❗ Boy X Highspeed (BXH) – $139M - ^^"inside job"^^
+### 2021-11-??: Boy X Highspeed (BXH) – $139M - "inside job"
 - An unidentified member of BXH's technical team allegedly leaked an administrator's private key.
 - A leaked administrator key [lost BXH](https://twitter.com/BXH_Blockchain/status/1454366374353010695)a large part of their holdings on the Binance Smart Chain (BSC). Withdrawals on their BSC blockchain were suspended the same day, resuming only[four weeks later](https://bxh.gitbook.io/bxh/v/english/notice/bxh.com-opens-token-withdrawal-on-bsc). Their security sweep took a week, with all security loopholes claimed to be eliminated within two weeks of the attack.
 - Their CEO and [PeckShield](https://twitter.com/peckshield/status/1455095236707774469), an independent blockchain security researcher, both speculated that this exploit could be an ‘inside job’. The company offered [a reward](https://twitter.com/BXH_Blockchain/status/1455740206628343809)of upto $10M to identify the hackers, though no further announcement has been made regarding identification. ‘A reasonable compensation plan’ [is held out](https://twitter.com/BXH_Blockchain/status/1455837982867349504) for users whose digital assets were affected. BXH is a decentralised exchange, with support for trading across multiple blockchains.
 - https://bscscan.com/tokentxns?a=0x48C94305BDDfd80c6F4076963866D968Cac27d79&p=6
 
-### 2021-12-??: ❓ Badger DAO – $120M
+### 2021-12-??: Badger DAO – $120M
 - patient as fuck - on site for months
 - cloudflare key to inject malicious javascript
 - Matches IOTA Trinity Wallet Hack from Feb 2020 https://twitter.com/tayvano_/status/1516056153553133572
@@ -835,16 +819,16 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 - PeckShield, a blockchain security firm identified the single biggest loss, of 896 Bitcoin from one wallet, which is worth $44M at current prices. The DAO had suspended activity upon learning of the attack, but completed its investigation in a week and returned to normal operation. The Badger community is considering plans to recover lost funds, and solutions for[reimbursing losses](https://badger.com/exploit/updates).
 - The crypto lending platform[BadgerDAO](https://www.businessinsider.in/investment/news/hackers-steal-120-million-from-defi-protocol-badgerdao-platform-hits-indefinite-pause-on-all-smart-contract-activity/articleshow/88068762.cms)is a decentralized autonomous organization (DAO), initially setup by Celsius Network, which is a Centralised Finance (CeFi) for loans on crypto assets.
 
-### 2021-12-??: ❓ BitMart CEX Hack – $196M
+### 2021-12-??: BitMart CEX Hack – $196M
 - A stolen private key enabled hackers to breach security of two hot wallets.
 - Announcing the discovery of this loss [on Twitter](https://twitter.com/sheldonbitmart/status/1467316252855226368), the company said $100M of the loss was on the Ethereum blockchain.
 - The [exchange froze](https://www.businessinsider.in/investment/news/bitmart-suspends-withdrawals-after-hackers-drained-almost-200-million-in-cryptocurrencies-using-a-stolen-private-key/articleshow/88125721.cms) deposit and withdrawal for a couple of days, during which time they announced a [security upgrade](https://support.bmx.fund/hc/en-us/articles/4412257835035--Important-Notice-BitMart-Security-Upgrade-New-Deposit-Addresses). BitMart’s CEO Sheldon Xia announced they would talk to crypto project teams [to identify solutions](https://www.businessinsider.in/investment/news/bitmart-says-its-resumed-crypto-withdrawals-three-days-after-hackers-stole-almost-200-million-in-funds/articleshow/88169039.cms), and use the company’s [own funding](https://twitter.com/sheldonbitmart/status/1467722582845702149)to compensate affected users.
 
-### 2021-12-??:❓AscendEX – $77.7M
+### 2021-12-??: AscendEX – $77.7M
 - Hackers broke into the [hot wallet of AscendEX](https://www.businessinsider.in/investment/news/ascendex-hack-wipes-out-77-7-million-ethereum-eth-polygon-matic-and-bsc-tokens-take-the-biggest-hit/articleshow/88255556.cms), a Singapore-based cryptocurrency exchange. According to the blockchain security firm [PeckShield](https://twitter.com/peckshield/status/1469915194004766722), almost 77% of the total loss consisted of assets based on the Ethereum blockchain.
 - The exchange confirmed that their cold wallets were not affected, and that any affected users will be “[covered completely](https://twitter.com/AscendEX_Global/status/1469886844787691528).” Deposit and withdrawal services were suspended for a security review, but trading services had resumed in a week. The company announced on December 23 that [deposits and withdrawals had resumed](https://twitter.com/AscendEX_Global/status/1473850853899579393)for most major currencies.
 
-### 2021-12-??:❓Vulcan Forged – $135M
+### 2021-12-??: Vulcan Forged – $135M
 - Hackers helped themselves to the crypto wallet private keys of 96 users, out of a [total of 6501](https://etherscan.io/token/0x9534ad65fb398e27ac8f4251dae1780b989d136e#balances) at the time. They went on to steal 9% of all available PYR tokens (4.5M PYR), leaving a loss of $135M. Affected users have been [promised reimbursement](https://twitter.com/VulcanForged/status/1470298466366730246) from the company’s own reserves.
 - The CEO Jamie Thomson has said they will use decentralised wallets, to prevent such issues in the future. The company has placed a bounty of $500,000 [to identify the hacker](https://twitter.com/VulcanForged/status/1474022215284834313), and also coordinated with large exchanges to try and [prevent](https://twitter.com/VulcanForged/status/1472614515942596608)the hackers from selling the stolen tokens.
 - Vulcan Forged calls itself a GameFi game studio that makes play-to-earn (P2E) games such as Vulcan Verse and Vulcan Chess, that operate using their own [PYR tokens](https://vulcanforged.com/assets/pdf/whitepaper.pdf)and NFTs. It runs an NFT marketplace to enable players to cash out, and a decentralized exchange (DEX) to trade cryptocurrency. The studio was planning upgrades for the PYR currency, but the hack dropped its price by 26% lowered its market cap by 35%.
@@ -897,17 +881,19 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 
 ### 2022-02-02: Readings/North Korea Hacked Him. So He Took Down Its Internet
 - https://www.wired.com/story/north-korea-hacker-internet-outage/
-## 
-2022-02-10: CVE-2022-0609 reported by Google TAGs Clément Lecigne
+
+### 2022-02-10: CVE-2022-0609 reported by Google TAGs Clément Lecigne
 - use after free animation
 - TAG discovered two distinct North Korean attacker groups exploiting remote execution vulnerability
 - CVE-2022-0609
 - Operation Dream Job + Operation AppleJeus
 
-### 2022-02-14: CVE-2022-0609 Chrome Update Released, everyone told to update urgently - use after free animation
+### 2022-02-14: CVE-2022-0609 Chrome Update Released
+- everyone told to update urgently 
+- use after free animation
 
-### 2022-03-22: ✨ Arthur_0x Theft - Google Doc / VC Email
-- [https://twitter.com/Arthur_0x/status/1506167899437686784](https://twitter.com/Arthur_0x/status/1506167899437686784)
+### 2022-03-22: Arthur_0x Theft - Google Doc / VC Email
+- https://twitter.com/Arthur_0x/status/1506167899437686784
 - In total, Arthur appears to have lost 78 different NFTs from five collections, mostly “Azukis.” He also lost 68 wrapped Ether (wETH), 4,349 staked DYDX (stkDYDX) and 1,578 LooksRare (LOOKS) tokens. The hacker began moving assets at about 12:30 am UTC, then promptly put all the NFTs up for bid on the OpenSea NFT marketplace. As of the time of writing, the hacker’s wallet held 545 ETH, worth about $1.6 million.
 - Found out the likely root cause for the exploit, it's a targeted social engineering attack. Received a spear-phishing email that really seems to be sent by one of our portco with content that seems like general industry-relevant content.
 - They are likely targeting all crypto peep
@@ -919,7 +905,7 @@ Note: ❌ ❗❓ARE NOT LAZARUS OR SUSPECTED TO BE LAZARUS. They exist either  t
 ### 2022-03-23: FireEye/Mandriant's "Not So Lazarus: Mapping DPRK Cyber Threat Groups to Government Organizations"
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FTay%2Fv7x6zO2m4G.png?alt=media&token=88075046-5bc7-4451-b066-6a10182914e9)
 
-### 2022-03-23: ✨ Ronin Bridge Hack
+### 2022-03-23: Ronin Bridge Hack
 - 2022-03-23: Ronin Bridge Hack Occurs
 - 2022-03-29: Ronin Bridge Hack Publicly Disclosed
 - https://roninblockchain.substack.com/p/community-alert-ronin-validators
