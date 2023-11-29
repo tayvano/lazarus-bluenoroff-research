@@ -90,3 +90,10 @@ DPRK attribution comes, in part, from observations on DPRK-controlled C2s as wel
     - 2023-10-25 2:59
 
     - 2023-10-25 3:02
+
+
+## Links
+
+- https://twitter.com/CyversAlerts/status/1714308396453695518/photo/1
+- https://twitter.com/BeosinAlert/status/1714326758894551477/photo/2
+- https://twitter.com/FantomFDN/status/1714337765502992798
