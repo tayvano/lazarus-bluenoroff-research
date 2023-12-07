@@ -2,9 +2,9 @@
 
 Date:: July 1st, 2019
 
-Amount Stolen:: $2,000,000 ($272k in PTT, PlayGame, IHT Real Estate Protocol)
+Amount Stolen:: $272k in PTT, PlayGame, IHT Real Estate Protocol
 
-Attribution:: DPRK/High Confidence U.S. DOJ US v. 280 Virtual Currency Accounts
+Attribution:: DPRK - US v. 280 Virtual Currency Accounts
 
 Tags:: CEX Hack, Singapore
 
@@ -155,3 +155,4 @@ The file type was a Korean word processor file related to exploits used by North
 
 - https://www.quadrigainitiative.com/casestudy/cointigerpttcoldwalletbreach.php
 
+- https://www.justice.gov/usao-dc/press-release/file/1310411/download

@@ -52,10 +52,10 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 
 ## Links
 
-- https://twitter.com/NexusMutual/status/1338441875326427137
-- https://medium.com/@hugh_karp/nxm-hack-update-72c5c017b48 
-- https://www.quadrigainitiative.com/casestudy/nexusmutualfounderhacked.php
 - https://certik.medium.com/nexus-mutual-attack-8-millions-lost-8d3592d14cfa
+- https://medium.com/@hugh_karp/nxm-hack-update-72c5c017b48 
 - https://twitter.com/HughKarp/status/1341063567408328705
+- https://twitter.com/NexusMutual/status/1338441875326427137
 - https://www.breadcrumbs.app/reports/0x09923e35f19687a524bbca7d42b92b6748534f25/1/10/10
+- https://www.quadrigainitiative.com/casestudy/nexusmutualfounderhacked.php
 - https://www.web3rekt.com/hacksandscams/nexus-mutual-425

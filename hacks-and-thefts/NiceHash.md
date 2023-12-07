@@ -23,6 +23,9 @@ Slovenian company Nicehash, a market place for trading computer hashing power to
 
 However, the active attack timeline was only a couple of hours [174]. Later, many Nicehash users have expressed a surprise to learn that the company’s Chief Technology. Officer recently served several years in prison for operating and reselling a massive botnet, and for creating and operating ‘Darkode,” one of the world’s most bustling English-language cybercrime forums [175].
 
+"Reported theft of 70+M USD from the bitcoin mining company, NiceHash, which reported “a highly professional attack with sophisticated social engineering” that resulted in approximately 63.92M USD of Bitcoin being stolen."
+
+
 
 ## On-Chain
 
@@ -42,3 +45,4 @@ However, the active attack timeline was only a couple of hours [174]. Later, man
 - https://www.quadrigainitiative.com/casestudy/nicehashexchangehack.php
 - https://www.wikitribune.com/story/2017/12/11/technology/nicehash-ceo-speaks-outafter-60m-cryptocurrency-hack/27212/ 
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- Page 28 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691)

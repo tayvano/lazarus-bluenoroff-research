@@ -24,6 +24,11 @@ At 00:00 UTC, Bancor experienced a security breach. A wallet used to upgrade som
 
 $10m worth of BNT was later recovered. 
 
+A Bancor wallet got hacked and that wallet has the ability to steal coins out of their own smart contracts. An exchange is not decentralized if it can lose customer funds OR if it can freeze customer funds. Bancor can do BOTH. It’s a false sense of decentralization.
+
+
+
+
 ## On-Chain
 
 - Heist executed via private key to the `BancorConverter` contract: 0x009bb5e9fcf28e5e601b7d0e9e821da6365d0a9c
@@ -42,6 +47,8 @@ $10m worth of BNT was later recovered.
 - 0x39d9f4640b98189540A9C0edCFa95C5e657706aA - Bancor - Laundry - it's some service
 - 0xD294aC18B524ff59aB7ffFcbD459f11128220550 - Bancor - Laundry
 - 0xbceaa0040764009fdcff407e82ad1f06465fd2c4 - Bancor
+
+
 
 ## Links
 

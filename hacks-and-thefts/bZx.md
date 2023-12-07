@@ -9,28 +9,21 @@ Tags:: Private Key Compromise
 
 ## Details 
 
-A bZx developer was sent a phishing email to his personal computer with a malicious macro in a Word document that was disguised as a legitimate email attachment, which then ran a script on his Personal Computer. This led to his personal mnemonic wallet phrase being compromised.
+A bZx developer was sent a phishing email to his personal computer with a malicious macro in a Word document that was disguised as a legitimate email attachment, which then ran a script on his Personal Computer. 
 
-Beginning as a simple [phishing attack](https://bzx.network/blog/prelminary-post-mortem)in a Word document, the[hackers managed](https://www.businessinsider.in/cryptocurrency/news/a-hacker-stole-more-than-55-million-in-crypto-after-a-bzx-developer-fell-for-a-phishing-attack/articleshow/87567910.cms) to access private keys of the platform and ‘upgrade’ the smart contracts to transfer funds away. Most losses were on the Polygon and Binance Smart Chain (BSC) networks, while their decentralised infrastructure saw relatively lower losses denominated in Ethereum. On finding out what was happening, the bZx platform alerted other crypto projects and exchanges to freeze the stolen cryptocurrency. The company asked the Kaspersky security firm to investigate, who believe the hackers[were the Lazarus Group](https://bzx.network/blog/post-mortem-update)with links to North Korea.
+The phishing attack was similar to one that affected another user recently named “mgnr.io”. 
 
-Even as they continue tracking the funds and[working with](https://bzx.network/blog/bzx-community-update)law enforcement agencies, the community has approved a[compensation plan](https://bzx.network/blog/bzx-compensation-plan)to help those who suffered losses as a result of the hack. The bZx DAO (decentralised autonomous organisation) calls itself a DeFi platform for margin-trading and lending.
+This attack granted the hacker access to the content of the bZx Developers wallet, and also the private keys to the BSC and Polygon deployment of bZx Protocol. 
 
-DeFi Employee Hack $55M theft of admin keys, drain protcol, compromised computer, manipulated smart contract of protocol 
+After gaining control of BSC and Polygon the hacker drained the BSC and Polygon protocol, then upgraded the contract to allow draining of all tokens that the contracts had given unlimited approval.
 
-DeFi lending protocol bZx was compromised for $55 million today, in what is becoming a recurring theme.
+Beginning as a simple phishing attack in a Word document, the hackers managed to access private keys of the platform and ‘upgrade’ the smart contracts to transfer funds away. 
 
-The margin trading lending platform bZx tweeted that the private keys controlling Polygon and Binance Smart Chain (BSC) deployment appeared to have been leaked, resulting in a loss of funds. The bZx smart contract itself was not compromised, and the deployment, governance and DAO vault of Ethereum were not affected by this incident.
+Most losses were on the Polygon and Binance Smart Chain (BSC) networks, while their decentralised infrastructure saw relatively lower losses denominated in Ethereum. 
 
-A bZx developer had his personal wallet’s private keys taken in a phishing attack A bZx developer was sent a phishing email to his personal computer with a malicious macro in a Word document that was disguised as a legitimate email attachment, which then ran a script on his Personal Computer
-
-This led to his personal mnemonic wallet phrase being compromised.
-
-The phishing attack was similar to one that affected another user recently named “mgnr.io This attack granted the hacker access to the content of the bZx Developers wallet, and also the private keys to the BSC and Polygon deployment of bZx Protocol
-
-After gaining control of BSC and Polygon the hacker drained the BSC and Polygon protocol, then upgraded the contract to allow draining of all tokens that the contracts had given unlimited approval. Beginning as a simple phishing attack in a Word document, the  hackers managed  to access private keys of the platform and ‘upgrade’ the smart contracts to transfer funds away Most losses were on the Polygon and Binance Smart Chain finding out what was happening, the bZx platform alerted other crypto projects and exchanges to freeze the stolen cryptocurrency 
+On finding out what was happening, the bZx platform alerted other crypto projects and exchanges to freeze the stolen cryptocurrency. 
 
 The company asked the Kaspersky security firm to investigate, who believe the hackers were the Lazarus Group with links to North Korea.
-
 
 ## Addresses
 - 0xafad9352eb6bcd085dd68268d353d0ed2571af89 - 2M BZRX
@@ -55,3 +48,5 @@ The company asked the Kaspersky security firm to investigate, who believe the ha
 - https://www.quadrigainitiative.com/casestudy/bzxprivatekeyleak.php
 - https://www.theblockcrypto.com/linked/123429/defi-protocol-bzx-compromised-again-55-million-stolen-in-private-key-leak
 - https://www.web3rekt.com/hacksandscams/bzx-202
+- https://bzx.network/blog/bzx-community-update
+- https://bzx.network/blog/bzx-compensation-plan

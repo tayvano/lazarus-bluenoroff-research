@@ -66,14 +66,9 @@ The amount of damages is relatively small for Binance, which is reported to have
 
 ## Links
 
-https://www.quadrigainitiative.com/casestudy/zaifhackingtheft.php
+- https://www.quadrigainitiative.com/casestudy/zaifhackingtheft.php
 
-https://www.coindesk.com/crypto-exchange-zaif-hacked-in-60-million-6000-bitcoin-theft
-
-
-## Background on Zaif
-
-- Founded: 2014
+- https://www.coindesk.com/crypto-exchange-zaif-hacked-in-60-million-6000-bitcoin-theft
 
 - https://zaif.jp/
 

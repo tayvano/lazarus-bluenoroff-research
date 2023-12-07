@@ -25,7 +25,15 @@ Min contribution was 20th hence why lots of ~20ETH TX to this.
 
 ## On-Chain
 
-0x94f20ccff70d82d1579d8b11f2985f8de9b287cf (Also receives Taylor ICO Stolen Funds)
+- 0x3d6498f3b4d2a5f6fe5b859e98e4cbdf155f52d6
+
+- 0x94f20ccff70d82d1579d8b11f2985f8de9b287cf (Also receives Taylor ICO Stolen Funds)
+
+- 0xd1a727d2511d16d0db148844bd2f73420d4f85a9
+
+- 0x36b0d52c8b6c0cd7b7c18353f840f49d6dcc4f8d
+
+- 0xf27b6923ed24eed02de7686962339db00a52d2aa (+bancor)
 
 
 

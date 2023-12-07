@@ -2,15 +2,17 @@
 
 The best I have ever been able to parse out, the four separate hacks are as follows:
 
-- February 7th, 2017: ~$7 million or more. Also maybe 30k PII records.
+- February 7th, 2017: ~$7 million or more. Or maybe 30k PII records.
 
-- June 29th, 2017: ~ $7 million or more. Also maybe 30k PII records.
+- June 29th, 2017: ~$7 million or more. Or maybe 30k PII records.
 
-- December 2017: the South Korean government attributed the attack to DPRK. 
+- December 2017: the South Korean government attributed the attack(s) to DPRK. 
 
 - January 16th, 2018: Recorded Future, a security firm known for analyzing state-sponsored attacks, attributed the attack to the Lazarus Group 
 
 - June 19th, 2018 - $31 million - ~2000 BTC - goes to YoBit
+
+- __- "The proceeds of the third attack on Bithumb in June 2018 were transferred through YoBit. 36 By August 2018, less than two months after the attack, the funds were sent to YoBit in a complex series of hundreds of transactions with the aim of converting and cashing out the entirety of the stolen cryptocurrency (as opposed to spending the acquired cryptocurrency directly on goods and services). The above-mentioned cases show a clear evolution from the earlier Democratic People’s Republic of Korea cyberattack on the customers of a Republic of Korea online shopping mall, Interpark, which was designed to generate foreign currency."__
 
 - March 29th, 2019 - $20 million
 
@@ -27,7 +29,7 @@ Bithumb has said regarding either the June 2018 hack or March 2019 hack that:
 
 
 
-# June 19th, 2018 - Bithumb CEX Hack - Hack 3 - $31m  👛 🇰🇵
+# June 19th, 2018 - Bithumb CEX Hack - $31m
 
 Laundered Via:: YoBit
 
@@ -51,7 +53,7 @@ In 2019, DPRK cyber actors shifted focus to targeting cryptocurrency exchanges. 
 
 Reports within South Korea have suggested the the thefts from Bithumb started with malicious HWP files earlier in May and June. They also mentioned they are linked to previous attacks by Lazarus, and involved faked resumes.
 
-## On-Chain Analysis
+## On-Chain
 
 Bithumb - > YoBit - 1,993 BTC was moved from Bithumb Hackers to YoBit over 68 transactions
 
@@ -65,7 +67,7 @@ These “stolen funds remained dormant in the suspected hacker’s wallet for ov
 
 The entire 1,993 BTC was moved into YoBit over 68 transactions, between August 2nd, 2018 and August 6th, 2018.
 
-## References
+## Links
 
 https://cybersecurity.att.com/blogs/labs-research/malicious-documents-from-lazarus-group-targeting-south-korea
 
@@ -89,11 +91,13 @@ https://news.bitcoin.com/north-korean-hackers-threatened-bithumb-16m-ransom-amid
 
 
 
-# March 29th, 2019 Bithumb CEX Hack 4 CEX Hack $19.4M 👛🇰🇵🔑
+# March 29th, 2019 - Bithumb - CEX Hack - $19.4M
 
-South Korea CEX Hack EOS XRP Spear-Phishing
+Tags:: South Korea CEX Hack EOS XRP Spear-Phishing
 
 Attribution:: DPRK/High Confidence - UN Security Council 
+
+## Details
 
 According to a report from CoinDesk Korea, Bithumb may have also lost 20.2 million XRP in the recent breach. 
 
@@ -111,7 +115,7 @@ The heist came less than a year after another massive hack: $31 million in late 
 
 Update (09:30 UTC, April 1, 2019): According to a report from CoinDesk Korea, Bithumb may have also lost 20.2 million XRP in the recent breach. The XRP, worth $6.2 million at current prices, was moved from Bithumb's wallet on March 29 in transactions that can be seen on XRPSCAN. The exchange is not yet confirming or denying the report. The odds of Bithumb managing to retrieve the stolen funds may be small, according to crypto security expert Cosine Yu, co-founder of security firm SlowMist. The hacker has already managed to “launder” most of the stolen EOS and XRP, Yu said, meaning the assets have been transferred to a large number of addresses that are not necessarily owned by any exchanges
 
-## References
+## Links
 
 https://www.coindesk.com/markets/2018/06/20/bithumb-31-million-crypto-exchange-hack-what-we-know-and-dont/
 

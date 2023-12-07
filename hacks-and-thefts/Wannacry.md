@@ -2,7 +2,9 @@
 
 Date:: May 12th, 2017
 
-Tags: Ransomware, ShapeShift, Monero
+Tags:: Ransomware, ShapeShift, Monero
+
+Amount Stolen:: $200k (52+ BTC)
 
 
 
@@ -25,29 +27,39 @@ The largest ransomware attack in history, infecting more than 300,000 computers 
 
 ## On-Chain
 
+
+- On August 3, 2017, the ransom payments from the victims of the WannaCry Version 2 ransomware were transferred from the original Bitcoin addresses to other cryptocurrency addresses in a series of transactions. 
+
+- As with the laundering of the ransoms associated with Version 1, following the Version 2 ransoms being sent to currency exchanges, the funds were converted to Monero. 
+
+- At least some of those transfers used IP addresses that have been identified as exit nodes for the TOR network, and used the same browser UserAgent string, “Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0.”
+
 - The "Wannacry 2.0 peeling" wallet was emptied on August 4th at 12:50 UTC with its last transaction to Changelly.
+
 
 
 ## Links
 
 - http://undocs.org/S/2019/691
-- https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf
-- http://www.cnbc.com/2017/05/23/symantec-says-highly-likely-north-korea-group-behind-ransomware-attacks.html
-- https://www.cbsnews.com/news/wannacry-ransomware-attacks-wannacry-virus-losses/
-- https://www.theatlantic.com/technology/archive/2017/05/shadow-brokers/527778/
-- https://www.wsj.com/articles/u-s-preparing-cases-linking-north-korea-to-theft-at-n-y-fed1490215094.
-- https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
-- https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html
-- https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
-- https://www.justice.gov/opa/press-release/file/1367701/download
 - https://medium.com/@nbax/tracing-the-wannacry-2-0-monero-transactions-d8c1e5129dc1
-- https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/
-- https://www.cnbc.com/2017/08/03/hackers-havecashed-out-on-143000-of-Bitcoin-from-the-massive-wannacry-ransomware-attack.html
-- https://www.technologyreview.com/2020/01/24/276082/lazarus-group-dragonex-chainalysis/ 
-- https://www.eyerys.com/articles/timeline/wannacry-infecting-more-230000-computers-99-countries#event-a-href-articles-timeline-namewreck-exposes-hundreds-millions-iot-devices-security-risks039-name-wreck039-exposes-hundreds-of-millions-of-iot-devices-to-security-risks-a
 - https://money.cnn.com/2017/08/03/technology/wannacry-bitcoin-ransom-moved/index.html
-- https://www.fortinet.com/blog/threat-research/wannacry-evolving-history-from-beta-to-2-0
-- https://www.bloomberg.com/news/articles/2017-12-19/u-s-blames-north-korea-for-cowardly-wannacry-cyberattack
-- https://www.nao.org.uk/report/investigation-wannacry-cyber-attack-and-the-nhs/
 - https://securelist.com/wannacry-and-lazarus-group-the-missing-link/78431/
+- https://www.bloomberg.com/news/articles/2017-12-19/u-s-blames-north-korea-for-cowardly-wannacry-cyberattack
+- https://www.cbsnews.com/news/wannacry-ransomware-attacks-wannacry-virus-losses/
+- https://www.cnbc.com/2017/05/23/symantec-says-highly-likely-north-korea-group-behind-ransomware-attacks.html
+- https://www.cnbc.com/2017/08/03/hackers-havecashed-out-on-143000-of-Bitcoin-from-the-massive-wannacry-ransomware-attack.html
+- https://www.eyerys.com/articles/timeline/wannacry-infecting-more-230000-computers-99-countries#event-a-href-articles-timeline-namewreck-exposes-hundreds-millions-iot-devices-security-risks039-name-wreck039-exposes-hundreds-of-millions-of-iot-devices-to-security-risks-a
+- https://www.fortinet.com/blog/threat-research/wannacry-evolving-history-from-beta-to-2-0
+- https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
+- https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- https://www.justice.gov/opa/press-release/file/1367701/download
+- https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html
+- https://www.nao.org.uk/report/investigation-wannacry-cyber-attack-and-the-nhs/
+- https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf
+- https://www.technologyreview.com/2020/01/24/276082/lazarus-group-dragonex-chainalysis/ 
+- https://www.theatlantic.com/technology/archive/2017/05/shadow-brokers/527778/
 - https://www.whitehouse.gov/briefings-statements/press-briefing-on-the-attribution-of-the-wannacry-malware-attack-to-north-korea-121917/
+- https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/
+- https://www.wsj.com/articles/u-s-preparing-cases-linking-north-korea-to-theft-at-n-y-fed1490215094.
+- Page 106 [US v PARK JIN HYOK (June 2018)](https://www.justice.gov/opa/press-release/file/1092091/download)
+- Page 29 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691)

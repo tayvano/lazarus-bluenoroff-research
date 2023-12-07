@@ -4,14 +4,18 @@ Date:: March 24th, 2019
 
 Amount Stolen:: $7,090,000
 
-Tags:: South Korea, BTC, ETH, USDT, Thailand, Spear-Phishing, CEX Hack
+Tags:: South Korea, BTC, ETH, USDT, Thailand, Spear-Phishing, CEX Hack, WorldBit-Bot
 
 Attribution:: DPRK/High Confidence - UN Security Council 
 
 Laundered Via:: Wasabi
 
+Used software called “Worldbit-bot” to carry out its active attacks - wb-invest.net and wb-bot.org
+
 
 ## Details
+
+On March 24, 2019, the Singaporean exchange DragonEx was hacked, losing roughly $7 million in several cryptocurrencies. Through an elaborate phishing campaign, North Korean hackers used a trojanized version of a legitimate crypto trading application, QtBitcoinTrader, which they called Worldbit-bot. To enhance their credibility, the hackers registered websites for their fake companies and created several fictitious social media profiles for employees of the fabricated firms.
 
 DragonEX is a cryptocurrency exchange based in Singapore. It has been active since 2017. DragonEx announced the news on its official Telegram channel on Monday, stating that, on Sunday, March 24, it had suffered a cyberattack that saw cryptocurrency funds owned by users and the exchange “transferred and stolen.” In updates on the hack today, DragonEx’s Telegram admin provided wallet addresses for 20 cryptocurrencies to which the stolen funds had apparently been transferred. The list included the top five cryptos by market capitalization: bitcoin (BTC), ether (ETH), XRP, litecoin (LTC) and EOS, as well as the tether stablecoin (USDT) for which six destination addresses were provided. The North Korean hacking group Lazarus was responsible. The hackers created a legitimate looking fake company and convinced DragonEx employees to download malware onto their computers through Telegram and LinkedIn messages
 
@@ -36,6 +40,7 @@ This campaign formed the template for many of Lazarus’s subsequent hacks, whic
 While most cyberattacks attributed to North Korea are often categorized under the wide umbrella of the Lazarus Group, the UN Security Council publicly attributed this hack to a specific unit.
 
 They used trojanized software and created multiple, seemingly legitimate social media profiles to increase the perceived legitimacy of the original email.
+
 
 
 ## Laundry

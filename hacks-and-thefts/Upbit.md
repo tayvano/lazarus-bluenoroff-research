@@ -26,9 +26,19 @@ In response, Upbit immediately moved all of its funds to cold wallets and also d
 
 
 
-## US v. 280 Virtual Currency Accounts
+## US v. 113 + 280 Virtual Currency Accounts
 
-> On or about November 27th, 2019. Approximately 342,000 ETH (valued at about $48.5 million) was stolen from Exchange 2. The investigation of the laundering of the funds stolen from Exchange 2, and funds related to additional hacks, identified a U.S.-based email account (“Target Email 1”) that a criminal actor (“Target Actor 1”) had used to launder funds from the scheme.
+North Korean co-conspirators had targeted `Exchange 3` in May 2019, although this previously attempted theft failed
+
+Specifically, emails originating from North Korea falsely gave the impression that `Exchange 3` was requesting information from its customers about a fictional sweepstakes payout
+
+On or about November 27, 2019, The Exchange 3, a South Korea-based virtual currency exchange, had approximately 342,000 ETH ($48.5 million) stolen from it
+
+South Korean exchange suffered a massive breach when hackers made off with 342,000 ETH (valued at $51 million at the time of the hack). 
+
+On or about November 27th, 2019. Approximately 342,000 ETH (valued at about $48.5 million) was stolen from Exchange 2. 
+
+The investigation of the laundering of the funds stolen from Exchange 2, and funds related to additional hacks, identified a U.S.-based email account (“Target Email 1”) that a criminal actor (“Target Actor 1”) had used to launder funds from the scheme.
 
 In or about December 2019, Target Actor 1 attempted to convert ETH to BTC through a cryptocurrency trading platform (“Exchange 9”) which was designed to enable the transfer of one form of cryptocurrency in exchange for another. Target Actor 1 submitted ETH for conversion into BTC, generating a transaction ID beginning with 6918d31f; however, Exchange 9 did not convert the ETH.
 
@@ -36,6 +46,12 @@ On or about December 20, 2019, Target Actor 1 contacted a separate virtual curre
 
 > The funds associated with transaction ID 6918d31f (“Defendant Property 1”) are currently frozen at Exchange 9, pursuant to their own internal policies.
 
+
+## UN Report
+
+- [The Coinbin aka Youbit aka Yapizon and Bithumb attacks], along with an attack on UpBit on 28 May 2019, used similar tools, codes and attack vectors (including spear phishing and watering holes) to those used in previous cyberattacks on security and defence targets attributed to the Democratic People’s Republic of Korea.34 In addition to the Republic of Korea, the Panel investigated Democratic People’s Republic of Korea attacks on cryptocurrency exchanges in five other countries (see annex 21 B)."
+
+- http://undocs.org/S/2019/691
 
 
 ## Links 
@@ -53,3 +69,8 @@ On or about December 20, 2019, Target Actor 1 contacted a separate virtual curre
 - https://www.thecoinrepublic.com/2020/01/21/south-korean-government-under-fire-as-3-more-crypto-platforms-hacked/
 - https://www.web3rekt.com/hacksandscams/upbit-555
 - https://www.youniversitytv.com/crypto-blockchain/korean-self-regulatory-crypto-industry-body-under-question-after-12-crypto-exchanges-approved/
+- https://cointelegraph.com/news/upbit-hack-stolen-eth-worth-millions-on-the-move-to-unknown-wallets
+- https://cointelegraph.com/news/crypto-exchange-upbit-finishes-security-update-in-response-to-2019-hack
+- https://blog.chainalysis.com/reports/lazarus-group-kucoin-exchange-hack/
+- http://assetforfeiturelaw.us/wp-content/uploads/2020/08/113-Virtual-Currency-Accounts-Affidavit.pdf
+- https://www.hackread.com/upbit-cryptocurrency-exchange-hacked-ether-stolen/

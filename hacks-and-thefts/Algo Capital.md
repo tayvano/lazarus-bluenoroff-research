@@ -6,8 +6,6 @@ Amount Stolen:: $2,000,000
 
 Time:: 12:29 p.m. PDT
 
-Attribution:: DPRK/High Confidence 
-
 
 
 ## Details
@@ -43,6 +41,8 @@ UPDATE (Oct. 7, 01:40 UTC):  Yabo pledged in a Medium post published Sunday to s
 > "I take responsibility for this and thus will be personally covering most of the stolen funds and the rest will be covered by Algo Capital General Partners."
 
 > Yabo also confirmed his departure from Algo Capital in the post. "I have decided to focus entirely on Randlabs.io to do what I love most: build tools and software that increases the adoption of blockchain technology," he wrote.
+
+
 
 ## In US v. 280 Virtual Currency Accounts
 
@@ -83,6 +83,23 @@ Ultimately the funds from the thefts of Exchange 3, Algo Capital, and the recent
 The addresses contained in cluster bc1qhmv7k (Defendant Property 147 through Defendant Property 156) received BTC from Exchange 11. Cluster bc1qhmv7k funded an account at a U.S.-based domain registrar (“Domain Registrar 1”) that registered “Website 1” on or about September 26, 2019. The same day, approximately 62 new accounts at Exchange 11 registered with Website 1 email accounts began receiving ALGO stolen from Algo Capital. The username portion of the Website 1 email addresses appear to be a random string of characters, as if automatically generated.
 
 IP addresses logging into this Domain Registrar 1 account resolve to a VPN service. Target Actor 1 was paying for services at this same VPN service with stolen BTC.
+
+
+
+
+## Links
+
+- https://www.coindesk.com/markets/2019/10/05/algo-capital-loses-crypto-funds-after-ctos-phone-is-hacked/
+- https://cointelegraph.com/news/algo-capital-ex-cto-takes-full-responsibility-for-hot-wallet-breach
+- https://medium.com/algo-capital/statement-from-algo-capital-on-the-recent-security-breach-9114968b7883
+- https://www.crowdfundinsider.com/2019/10/152492-algorands-venture-arm-algo-capital-loses-millions-in-crypto-wallet-security-breach/
+- https://eng.ambcrypto.com/algo-capitals-managing-partner-speaks-out-after-2-million-usdt-hack-hits-firm/
+- https://web.archive.org/web/20191225213958/https://medium.com/@pipaman/algo-capital-security-breach-aedccf9e33c2
+
+
+
+
+
 
 ## Addresses
 
@@ -342,13 +359,3 @@ IP addresses logging into this Domain Registrar 1 account resolve to a VPN servi
 - 278 1BCq5EfSUYUHPkwp4xVCBXiaDx73RvhPDZ
 - 279 1QocxVj3j8nFMnsmKxt68XvZnXzgqgxqN
 - 280 1A3ponnkRfe8x4yoFk7W68H4gcZtG4uoiP
-
-## Links
-
-- https://www.coindesk.com/markets/2019/10/05/algo-capital-loses-crypto-funds-after-ctos-phone-is-hacked/
-- https://cointelegraph.com/news/algo-capital-ex-cto-takes-full-responsibility-for-hot-wallet-breach
-- https://medium.com/algo-capital/statement-from-algo-capital-on-the-recent-security-breach-9114968b7883
-- https://www.crowdfundinsider.com/2019/10/152492-algorands-venture-arm-algo-capital-loses-millions-in-crypto-wallet-security-breach/
-- https://eng.ambcrypto.com/algo-capitals-managing-partner-speaks-out-after-2-million-usdt-hack-hits-firm/
-- https://web.archive.org/web/20191225213958/https://medium.com/@pipaman/algo-capital-security-breach-aedccf9e33c2
-

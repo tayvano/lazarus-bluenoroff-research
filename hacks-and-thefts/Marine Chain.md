@@ -2,6 +2,14 @@
 
 Date:: 2018
 
+
+## Details 
+
+- "Registered in Hong Kong on 12 April 2018, Marine Chain Platform Limited 40 was set up as a blockchain-enabled platform for vessel transactions that offered partial ownership of maritime vessels in exchange for digital tokens. According to a Member State, Marine Chain had ties with the Democratic People’s Republic of Korea, and at least one company employee had links to Democratic People’s Republic of Korea cyber actors who have extorted Bitcoin from online companies. The Member State further indicated that Marine Chain’s start-up funds likely came from the extortion of cybercurrencies."
+
+- "In terms of the company’s financial operations, Foong undertook multiple transfers on behalf of Kim from his company account in a Singaporean financial institution. Foong stated, “I would use my Singclass account (which is my business separate from Marine Chain) to make some of these payments upon receiving payments from Tony and upon Tony’s instructions to pay them. This was because the Singclass account was the only USD account that I had”. The payments into the account from Kim (in amounts ranging from - $30,000 to - $150,000) were all done through Hong Kong front companies, with a separate company used for each transaction. The payments processed by Foong through Singclass Interna tional Pte Ltd included some that appeared suspicious (see annex 29). A summary of further findings on this case is contained in annex 27. "
+
+
 ## UN Security Council 2019 Midterm Report
 
 The Panel takes positive note of information provided by Member States on action that they have taken to counter losses due to attacks by Democratic People’s Republic of Korea cyber actors (see annex 23). Asset-backed cryptocurrency company using blockchain technology to generate revenue
@@ -37,8 +45,6 @@ Meanwhile, in Pyongyang, plans are going ahead for an [international blockchain 
 
 ## Links
 
-- S/2019/691
-
 - http://undocs.org/S/2019/691
 
 - https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf
@@ -52,3 +58,5 @@ Meanwhile, in Pyongyang, plans are going ahead for an [international blockchain 
 - https://www.cryptoglobe.com/latest/2018/09/200-million-north-korea-may-be-mixing-shifting-cryptocurrencies-to-acquire-usd-cyber-intelligence-researchers-say/
 
 - https://asia.nikkei.com/Spotlight/N-Korea-at-crossroads/North-Korea-stole-cryptocurrency-via-hacking-UN-panel
+
+- Page 30 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691) 🇰🇵
