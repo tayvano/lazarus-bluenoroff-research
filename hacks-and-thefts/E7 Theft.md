@@ -1,4 +1,4 @@
-# Theft from Individual's Kraken Account
+# E7 Theft - Individual's Kraken Account
 
 Date:: April 19th, 2018
 

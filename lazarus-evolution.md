@@ -4,6 +4,7 @@
 ### 2006-07-26: INTERPOL’s Supernote Summit wherein they decide to change the bill.
 - Reported to be manufactured in the North Korea, the Supernote is a high-quality counterfeit of the 50-dollar and 100-dollar note, also known as a Superdollar. The notes are produced using similar processes and materials as genuine US currency.
 - First detected back in 1989, over $50M have been found as of 2006.
+- https://www.govinfo.gov/content/pkg/CHRG-109shrg28241/pdf/CHRG-109shrg28241.pdf
 
 ### 2007-07-03: Operation Flame Malware
 
@@ -12,6 +13,8 @@
 
 ### 2009-2012: Operation Troy DDoS Attacks
 - Cyber-espionage campaign that utilized unsophisticated DDoS to target the South Korean govt
+- http://news.bbc.co.uk/2/hi/asia-pacific/8142282.stm
+- https://www.theguardian.com/world/2009/jul/11/south-korea-blames-north-korea-cyber-attacks
 
 ### 2011-03: Ten Days of Rain Attacks
 - “Ten Days of Rain” attack targets South Korean media, financial, and critical infrastructure targets. Compromised computers within South Korea are used to launch DDoS attacks.
@@ -55,6 +58,9 @@
 - it just only came to light after Bangledesh
 - https://www.reuters.com/article/us-cyber-heist-swift-specialreport-idUSKCN0YB0DD
 
+### 2015-03-17: KIMSUKY - South Korea blames North Korea for December hack on nuclear operator
+- https://www.reuters.com/article/us-nuclear-southkorea-northkorea-idUSKBN0MD0GR20150317/
+
 ### 2015-03-30: Bangledesh Bank Employees spear-phished.
 - By March the hackers had a backdoor to teh bank's electronic communication system allowing them to send messages to one another in a way that mimicked the bank’s encrypted-communication protocols, and did not alert security to their presence.
 
@@ -72,6 +78,8 @@
 - The attacks were focused on banking infrastructure and staff, exploiting vulnerabilities in commonly used software or websites, bruteforcing passwords, using keyloggers and elevating privileges. However, the way banks use servers with SWIFT software installed requires personnel responsible for the administration and operation. Sooner or later, the attackers find these personnel, gain the necessary privileges, and access the server connected to the SWIFT messaging platform. With administrative access to the platform they can manipulate software running on the system as they wish. There is not much that can stop them, because from a technical perspective, their activities may not differ from what an authorized and qualified engineer would do: starting and stopping services, patching software, modifying the database.
 - https://en.wikipedia.org/wiki/Bangladesh_Bank_robbery
 - https://securelist.com/lazarus-under-the-hood/77908/
+- https://www.reuters.com/investigates/special-report/cyber-heist-federal/
+- https://www.reuters.com/article/us-usa-fed-bangladesh-malware-idUSKCN0WD1EV/
 
 ### 2015-2018: Engaged in computer intrusions and cyber-heists at many financial services victims in the United States, and in other countries in Europe, Asia, Africa, North America, and South America in 2015, 2016, 2017, and 2018, with attempted losses well over $1 billion. 
 
@@ -106,13 +114,14 @@
 - which included documents known as Operational Plan 5015—a detailed analysis of how a war with the country’s northern neighbor might proceed, and, notably, a plot to “decapitate” North Korea by assassinating Kim Jong Un. The breach was so egregious that Kim Tae-woo, a former president of the Korea Institute for National Unification, a think tank in Seoul, [told](https://www.ft.com/content/d8bbceb0-ad64-11e7-aab9-abaa44b1e130) the Financial Times, “Part of my mind hopes the South Korean military intentionally leaked the classified documents to the North with the intention of having a second strategy.”
 
 ### 2017-04-03: Lazarus Under The Hood
-- https://securelist.com/lazarus-under-the-hood/77908/
 - Lazarus is not just another APT actor. The scale of the Lazarus operations is shocking. It has been on a spike since 2011.
 - All those hundreds of samples that were collected give the impression that Lazarus is operating a factory of malware, which produces new samples via multiple independent conveyors.
 - We have seen them using various code obfuscation techniques, rewriting their own algorithms, applying commercial software protectors, and using their own and underground packers. 
 - Lazarus knows the value of quality code, which is why we normally see rudimentary backdoors being pushed during the first stage of infection. Burning those doesn’t impact the group too much. However, if the first stage backdoor reports an interesting infection they start deploying more advanced code, carefully protecting it from accidental detection on disk. The code is wrapped into a DLL loader or stored in an encrypted container, or maybe hidden in a binary encrypted registry value. It usually comes with an installer that only attackers can use, because they password protect it. It guarantees that automated systems – be it a public sandbox or a researcher’s environment – will never see the real payload.
 - Most of the tools are designed to be disposable material that will be replaced with a new generation as soon as they are burnt. And then there will be newer, and newer, and newer versions. Lazarus avoids reusing the same tools, same code, and the same algorithms. “Keep morphing!” seems to be their internal motto.
 - Those rare cases when they are caught with same tools are operational mistakes, because the group seems to be so large that one part doesn’t always know what the other is doing.
+- https://securelist.com/lazarus-under-the-hood/77908/
+- https://www.csoonline.com/article/560979/kaspersky-lab-reveals-direct-link-between-banking-heist-hackers-and-north-korea.html
 
 ### 2017-05-12: WannaCry
 - This DHS-FBI Joint Technical Alert provides information, including IOCs on the ransomware variant known as WannaCry. The U.S. Government publicly attributed this WannaCry ransomware variant to the North Korean government.
@@ -120,12 +129,43 @@
 - Creation of the destructive WannaCry 2.0 ransomware in May 2017
 - The extortion and attempted extortion of victim companies from 2017 through 2020 involving the theft of sensitive data and deployment of other ransomware.
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- https://arstechnica.com/tech-policy/2017/12/trump-administration-formally-blames-north-korea-for-wannacry-now-what/
+- https://arstechnica.com/information-technology/2017/05/theres-new-evidence-tying-wcry-ransomware-worm-to-prolific-hacking-group/
+- https://arstechnica.com/gadgets/2017/08/wannacry-operator-empties-bitcoin-wallets-connected-to-ransomware/
+- https://arstechnica.com/gadgets/2017/08/researchers-say-wannacry-operator-moved-bitcoins-to-untraceable-monero/
+
+### 2017-05-30: Lazarus Arisen
+- https://www.group-ib.com/blog/lazarus/
+- 210.52.109.22 - China Netcom, 210.52.109.0/24 is assigned to North Korea
+- 175.45.178.222 - Natinal Defence Commission
+- 175.45.178.19 - Ghost RAT
+- 175.45.178.97 - Ghost RAT
+
+
+
+### 2017-04-22 – Four wallets on Yapizon, a South Korean cryptocurrency exchange, are compromised. (It is worth noting that at least some of the tactics, techniques, and procedures were reportedly employed during this compromise were different than those we have observed in following intrusion attempts and as of yet there are no clear indications of North Korean involvement).
+
+### 2017-04-26 – The United States announces a strategy of increased economic sanctions against North Korea. Sanctions from the international community could be driving North Korean interest in cryptocurrency, as discussed earlier.
+
+### 2017-05-01 – Spearphishing against South Korean Exchange #1 begins.
+
+### 2017-05-30 – South Korean Exchange #2 compromised via spearphish.
+
+### 2017-06-01 – More suspected North Korean activity targeting unknown victims, believed to be cryptocurrency service providers in South Korea.
+
 
 ### 2017-06-13: CISA's report on HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure
 - This Joint Technical Alert provides technical details on the tools and infrastructure used by cyber actors of the North Korean government to target the media, aerospace, financial, and critical infrastructure sectors in the United States and globally. Working with U.S. government partners, DHS and FBI identified Internet Protocol addresses associated with a malware variant, known as DeltaCharlie, used to manage North Korea’s DDoS botnet infrastructure.
 
 ### 2017-06-13: US-CERT's HIDDEN COBRA – North Korea’s DDoS Botnet Infrastructure
 - https://www.us-cert.gov/ncas/alerts/TA17-164A
+
+
+### 2017-07-01 – South Korean Exchange #3 targeted via spear phishing to personal account.
+
+
+### 2017-09-17: Why Is North Korea So Interested in Bitcoin?
+- https://www.mandiant.com/resources/blog/why-north-korea-interested-in-bitcoin
 
 ### 2017-08-14: Unit42 has discovered ongoing attack targeting individuals involved with US defense contracts links back to perportrators of the Sony Pictures Hack.
 - Most notably, decoy document themes now include job role descriptions and internal policies from US defense contractors.
@@ -143,19 +183,23 @@
 - CISA Alert TA17-318B: HIDDEN COBRA – North Korean Trojan: Volgmer
 - These Joint Technical Alerts provide information and IOCs on malware variants used by the North Korean government to maintain a presence on victims’ networks and to further network exploitation. DHS and FBI distributed these alerts to enable network defense and reduce exposure to any North Korean government malicious cyber activity.
 
+### 2017-12-20: North Korea suspected in latest bitcoin heist, bankrupting Youbit exchange
+- https://arstechnica.com/tech-policy/2017/12/north-korea-suspected-in-latest-bitcoin-heist-bankrupting-youbit-exchange/
+
 ### 2017-12-21: CISA's analysis of North Korean Trojan: BANKSHOT
 - STIX file for MAR 10135536
 - DHS and FBI identified a Trojan malware variant—referred to as BANKSHOT—used by the North Korean government. This MAR analyzes three malicious executable files.
 - Two files are 32-bit Windows executables that function as Proxy servers and implement a Fake TLS method.
 - The third file is an Executable Linkable Format file designed to run on Android platforms as a fully functioning Remote Access Trojan.
 
-### 2017: Far Eastern International Bank of Taiwan SWIFT Heist - $60M
-
 ### 2018-01-15: TrendMicro's KillDisk Variant Hits Latin American Financial Groups
 - https://www.trendmicro.com/en_us/research/18/a/new-killdisk-variant-hits-financial-organizations-in-latin-america.html
 
 ### 2018-01-16: Korea In The Crosshairs
 - https://blog.talosintelligence.com/2018/01/korea-in-crosshairs.html    
+
+### 2018-02-05: North Korea stole huge amount of virtual currency: South Korea spy agency
+- https://english.kyodonews.net/news/2018/02/30943959a02e-n-korea-stole-huge-amount-of-virtual-currency-s-korea-spy-agency.html
 
 ### 2018-02-13: CISA's analysis of North Korean Trojan: HARDRAIN
 - AR 10135536-F: North Korean Trojan: HARDRAIN
@@ -221,6 +265,7 @@
 ### 2018-10-02: CISA's analysis of HIDDEN COBRA FASTCash Campaign
 - MAR 10201537: HIDDEN COBRA FASTCash-Related Malware
 - CISA, Treasury, FBI, and U.S. Cyber Command identified malware and other IOCs used by the North Korean government in an ATM cash-out scheme—referred to by the U.S. Government as “FASTCash.” The Joint Technical Alert provides information on FASTCash and the MAR provides information on 10 malware samples related to this activity.
+- https://www.cisa.gov/news-events/alerts/2018/10/02/hidden-cobra-fastcash-campaign
 
 ### 2018-10-25 - Lazarus Group Shifting Patterns in Internet Use Reveal Adaptable and Innovative North Korean Ruling Elite
 - https://recordedfuture.com/north-korea-internet-usage/
@@ -228,6 +273,12 @@
 ### 2018-11-01: Cryptocurrency businesses targeted by Lazarus via custom PowerShell Scripts
 - > Developed custom PowerShell scripts that communicate with malicious C2 servers and execute commands from the operator. The C2 server script names are disguised as WordPress (popular blog engine) files as well as those of other popular open source projects.
 - https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
+
+### 2018-12-05: KIMSUKY - Stolen Pencil Campaign
+- https://www.netscout.com/blog/asert/stolen-pencil-campaign-targets-academia
+
+### 2018-12-14: Top secret report: North Korea keeps busting sanctions, evading U.S.-led sea patrols
+- https://www.nbcnews.com/news/north-korea/top-secret-report-north-korea-keeps-busting-sanctions-evading-u-n947926
 
 ### 2018-12-31: Group-IB's 2018 Crime Report
 - https://explore.group-ib.com/htct/hi-tech_crime_2018
@@ -252,6 +303,18 @@
 - For macOS users, Celas LLC also provided a native version of its trading app. A hidden “autoupdater” module is installed in the background to start immediately after installation, and after each system reboot. 
 - https://securelist.com/operation-applejeus/87553/
 
+### 2019-01-30: 200 North Korean hacker organizations dispatched overseas, each team sending up to $1 million to North Korea
+- https://www.chosun.com/site/data/html_dir/2019/01/30/2019013000267.html
+
+### 2019-02-08: KIMSUKY - Operation Kabar Cobra
+- https://global.ahnlab.com/global/upload/download/techreport/%5BAnalysis_Report%5DOperation%20Kabar%20Cobra.pdf
+
+### 2019-04-17: KIMSUKY - Operation Smoke Screen
+- https://blog.alyac.co.kr/2243
+
+### 2019-04-30: North Korea's Next Weapon of Choice: Cyber
+- https://asiasociety.org/magazine/article/north-koreas-next-weapon-choice-cyber
+
 ### 2019-05-13: ScarCruft continues to evolve, introduces Bluetooth harvester
 - https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/
 
@@ -261,6 +324,9 @@
 - CISA, FBI, and DoD identified multiple malware variants used by the North Korean government.
 - ELECTRICFISH implements a custom protocol that allows traffic to be tunneled between a source and a destination Internet Protocol (IP) address.
 - BADCALL malware is an executable that functions as a proxy server and implements a Fake TLS method.
+
+### 2019-09-13: Treasury Sanctions North Korean State-Sponsored Malicious Cyber Groups
+- https://home.treasury.gov/news/press-releases/sm774
 
 ### 2019-10-29: Indian Nuclear Power Plant Attack
 - https://greatgameindia.com/kudankulam-nuclear-power-plant-hit-by-cyberattack/
@@ -274,7 +340,6 @@
 - https://twitter.com/issuemakerslab/status/1190846548415959040
 
 ### 2019-12-04 - New Lazarus Malware: macOS Threat Served from Cryptocurrency Trading Platform
-- Author:: Bleeping Computer
 - https://bleepingcomputer.com/news/security/new-macos-threat-served-from-cryptocurrency-trading-platform/
 
 ### 2020-02-14: CISA's analysis of North Korean Trojans BISTROMATH, SLICKSHOES, CROWDEDFLOUNDER, HOTCROISSANT, ARTFULPIE, BUFFETLINE, HOPLIGHT
@@ -288,15 +353,14 @@
 - HOPLIGHT looks at multiple malicious executable files. Some of which are proxy applications that mask traffic between the malware and the remote operators.
 
 ### 2020-03-02: Treasury Sanctions Individuals Laundering Cryptocurrency for Lazarus Group
-- U.S. Department of the Treasury
 - https://home.treasury.gov/news/press-releases/sm924
 
 ### 2020-03-05: How an elaborate North Korean crypto hacking heist fell apart
-- https://wired.co.uk/article/north-korea-cryptocurrency-hacking-china
+- Two of the usernames adopted were “snowsjohn” and “khaleesi”. Between July 2018 and April 2019, they handled $100,812,842.54 in cryptocurrency transactions which were linked back to the $250m heist on the crypto exchange.
+- https://www.wired.co.uk/article/north-korea-cryptocurrency-hacking-china
 
 ### 2020-03-16: UNC2891 Have Your Cake and Eat it Too? An Overview of UNC2891
 - https://www.mandiant.com/resources/unc2891-overview
-- Mandiant
 - UNC2891 intrusions appear to be financially motivated and in some cases spanned several years through which the actor had remained largely undetected.
 - Mandiant discovered a previously unknown rootkit for Oracle Solaris systems that UNC2891 used to remain hidden in victim networks, we have named this CAKETAP.
 - Mandiant expects that UNC2891 will continue to capitalize on this and perform similar operations for financial gain that target mission critical systems running these operating systems.
@@ -321,9 +385,15 @@
 ### 2020-05-12: U.S. Government Advisory: Top 10 Routinely Exploited Vulnerabilities
 - CISA, FBI, and the broader U.S. Government authored a Joint Alert with details on vulnerabilities routinely exploited by foreign cyber actors, including North Korean cyber actors.
 
+### 2020-05-28: USA Chargees 28 North Koreans and 5 Chinese citizens with laundering more than $2.5 billion in assets to help fund North Korea’s nuclear weapons
+- https://int.nyt.com/data/documenthelper/6971-north-korea-indictment/422a99ddac0c39459226/optimized/full.pdf#page=1
+
 ### 2020-07-01: VHD ransomware, Hakuna MATA
 - initial access was achieved through opportunistic exploitation of a vulnerable VPN gateway. After that, the attackers obtained administrative privileges, deployed a backdoor on the compromised system and were able to take over the Active Directory server. 
 - https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
+
+### 20220-07-06: North Korean hackers are skimming US and European shoppers
+- https://sansec.io/research/north-korea-magecart
 
 ### 2020-08-13: Operation Dream Job - Espionage Campaign Targetting Govt and Defense Co's
 - Widespread North Korean Espionage Campaign
@@ -350,6 +420,7 @@
 - MAR 10301706-2.v1: North Korean Remote Access Tool: VIVACIOUSGIFT
 - MAR 10257062-1.v2: North Korean Remote Access Tool: FASTCASH for Windows
 - CISA, the Department of the Treasury, FBI, and U.S. Cyber Command released a joint Technical Alert and three MARs on the North Korean government’s ATM cash-out scheme—referred to by the U.S. Government as “FASTCash.”
+- https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-239a
 
 ### 2020-08-28: US DOJ: Forfeiture Complaint for 280 Crypto addresses tied to North Korea
 - These actors stole millions of dollars’ worth of cryptocurrency and ultimately laundered the funds through Chinese over-the-counter (OTC) cryptocurrency traders.
@@ -365,6 +436,10 @@
 - https://labs.f-secure.com/assets/BlogFiles/f-secureLABS-tlp-white-lazarus-threat-intel-report2.pdf
 
 ### 2020-09-20: US DOJ: Lazarus Group developed multiple malicious crypto applications from March 2018 through at least September 2020. Such apps include Celas Trade Pro, Worldbit-bot, icryptofx, Union Crypto Trader, Kupay Wallet, Coingo Trade, Dorusio, Cryptoneuro Trader, and Ants2whale.
+
+
+### 2020-09-20: Secret documents show how North Korea launders money through U.S. banks
+- https://www.nbcnews.com/news/world/secret-documents-show-how-north-korea-launders-money-through-u-n1240329
 
 ### 2020-09: Pharma Company Espionage Attacks
 - An employee of the pharmaceutical company received a document named GD2020090939393903.doc with a job offer (creation date: 2020:09:22 03:08:00).
@@ -422,6 +497,7 @@
 - In addition to targeting users via social engineering, we have also observed several cases where researchers have been compromised after visiting the actors’ blog. In each of these cases, the researchers have followed a link on Twitter to a write-up hosted on blog.br0vvnn[.]io, and shortly thereafter, a malicious service was installed on the researcher’s system and an in-memory backdoor would begin beaconing to an actor-owned command and control server. At the time of these visits, the victim systems were running fully patched and up-to-date Windows 10 and Chrome browser versions.
 - These actors have used multiple platforms to communicate with potential targets, including Twitter, LinkedIn, Telegram, Discord, Keybase and email
 - https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/
+- https://apnews.com/article/malware-media-north-korea-social-media-south-korea-7dc8a5a9a3576005a615524d1ba439aa
 
 ### 2021-02-17:  FBI + CISA's report on Operation AppleJeus
 - targeting individuals and companies, including cryptocurrency exchanges and financial service companies, through the dissemination of cryptocurrency trading applications that have been modified to include malware that facilitates theft of cryptocurrency
@@ -446,6 +522,12 @@
 ### 2021-04-11: `A NEW NFT&DeFi TECH (PROTECTED).docx`
 - protectoffice[.]club
 - https://twitter.com/fr0s7_/status/1381328726819020804
+
+### 2021-04-21: Lazarus BTC Changer
+- https://www.group-ib.com/blog/btc-changer/
+
+### 2021-04-15: AppleJeus: Analysis of North Korea’s Cryptocurrency Malware
+- https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-048a
 
 ### 2021-04-26: The Incredible Rise of North Korea’s Hacking Army - Lazarus group’s criminal enterprises including cryptocurrency exchange heists and ransomware attacks
 - https://newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army
@@ -515,13 +597,102 @@
 ### 2022-04-15: Tornado Cash uses Chainalysis Oracle to blcok OFAC addresses (from frontend)
 - https://twitter.com/TornadoCash/status/1514904975037669386
 
-### 2022-04-27 - How the DPRK became a hacking powerhouse and why it loves crypto
+### 2022-04-20: TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies
+- https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-108a
+
+### 2022-04-27: How the DPRK became a hacking powerhouse and why it loves crypto
 - https://protos.com/how-the-dprk-became-a-hacking-powerhouse-and-why-it-loves-crypto/
 
+### 2022-05-16: Guidance on the DPRK IT Workers
+- https://ofac.treasury.gov/media/923126/download?inline
 
-### 2023-07-18 - Social Engineering Campaign
+### 2022-07-19: US disrupts North Korean hackers that targeted hospitals
+- https://apnews.com/article/technology-health-crime-lisa-monaco-government-and-politics-1c8384b8ea7a4cbe7fc1550c2f2eb110
+
+### 2022-08-08: U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash
+- https://home.treasury.gov/news/press-releases/jy0916
+
+### 2022-08-11: Suspected Tornado Cash developer arrested in Netherlands
+- https://therecord.media/suspected-tornado-cash-developer-arrested-in-netherlands
+
+### 2022-09-26: Lazarus ‘Operation In(ter)ception’ Targets macOS Users Dreaming of Jobs in Crypto
+- https://www.sentinelone.com/blog/lazarus-operation-interception-targets-macos-users-dreaming-of-jobs-in-crypto/
+
+### 2022-10-13: With more than $3B already stolen, 2022 is on pace to become crypto’s ‘biggest year for hacking on record’
+- https://fortune.com/crypto/2022/10/13/october-record-3-billion-stolen-in-crypto-hacks-2022/
+
+### 2022-10-25: Malicious app suspected to be created by a North Korean hacker organization aimed at stealing cryptocurrency discovered
+- https://www.boannews.com/media/view.asp?idx=110934
+
+
+### 2022-11-01: Lazarus Group had been observed targeting public and private sector research organizations, medical research and energy sectors, as well as their supply chains. This campaign, dubbed “No Pineapple”, focused on intelligence-gathering, starting with an attack on a company that was exploited through CVE-2022-27925 (remote code execution) and CVE-2022-37042 (authentication bypass) – two vulnerabilities affecting the digital collaboration
+- https://labs.withsecure.com/content/dam/labs/docs/WithSecure-Lazarus-No-PineappleThreat-Intelligence-Report-2023.pdf.
+
+
+### 2022-12-22: Seoul: North Korean hackers stole $1.2B in virtual assets
+- https://apnews.com/article/technology-crime-business-hacking-south-korea-967763dc88e422232da54115bb13f4dc
+
+### 2022-12-24: SlowMist: Investigation of North Korean APT’s Large-Scale Phishing Attack on NFT Users
+- https://slowmist.medium.com/slowmist-our-in-depth-investigation-of-north-korean-apts-large-scale-phishing-attack-on-nft-users-362117600519
+
+### 2023-01-12: North Korea’s Cryptocurrency Craze and its Impact on U.S. Policy
+- https://www.cfr.org/blog/north-koreas-cryptocurrency-craze-and-its-impact-us-policy
+
+### 2023-01-23: FBI Confirms Lazarus Group Cyber Actors Responsible for Harmony's Horizon Bridge Currency Theft
+- https://www.fbi.gov/news/press-releases/fbi-confirms-lazarus-group-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft
+
+### 2023-04-18: Lazarus Group had hacked 207 computers at 61 local organizations and agencies, including four biotechnology and three defence-related firms. The Lazarus Group targeted a vulnerability in a software essential for Internet banking and electronic financial services and used malicious codes distributed through compromised media websites. A “watering hole” attack was used in the process. Through joint inter-agency response efforts, the Member State blocked further access by the perpetrators.
+
+### 2023-04-21: BlueNoroff APT group targets macOS with ‘RustBucket’ Malware
+- https://www.jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/
+
+
+### 2023-04-24: North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies
+- https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies
+- Sim Hyon Sop + Wu Huihu - 1G3Qj4Y4trA8S64zHFsaD5GtiSwX19qwFv
+
+### 2023-05-23: US sanctions orgs behind North Korea’s ‘illicit’ IT worker army
+- https://www.bleepingcomputer.com/news/security/us-sanctions-orgs-behind-north-koreas-illicit-it-worker-army/
+
+### 2023-06-12: Report: North Korean Hackers Have Stolen $3 Billion Worth of Crypto
+- https://finance.yahoo.com/news/report-north-korean-hackers-stolen-034503145.html
+
+### 2023-06-23: North Korea’s Cyber Strategy
+- https://www.recordedfuture.com/north-koreas-cyber-strategy
+- https://go.recordedfuture.com/hubfs/reports/cta-nk-2023-0622.pdf
+
+
+### 2023-07-05: BlueNoroff | How DPRK’s macOS RustBucket Seeks to Evade Analysis and Detection
+- https://www.sentinelone.com/blog/bluenoroff-how-dprks-macos-rustbucket-seeks-to-evade-analysis-and-detection/
+
+### 2023-07-13: The DPRK strikes using a new variant of RUSTBUCKET
+- https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
+
+### 2023-07-18: Social Engineering Campaign
 - https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/
 
+### 2023-08-22: FBI Identifies Cryptocurrency Funds Stolen by DPRK
+- 3LU8wRu4ZnXP4UM8Yo6kkTiGHM9BubgyiG
+- 39idqitN9tYNmq3wYanwg3MitFB5TZCjWu
+- 3AAUBbKJorvNhEUFhKnep9YTwmZECxE4Nk
+- 3PjNaSeP8GzLjGeu51JR19Q2Lu8W2Te9oc
+- 3NbdrezMzAVVfXv5MTQJn4hWqKhYCTCJoB
+- 34VXKa5upLWVYMXmgid6bFM4BaQXHxSUoL
+- https://www.fbi.gov/news/press-releases/fbi-identifies-cryptocurrency-funds-stolen-by-dprk
+
+### 2023-08-23: US arrests Tornado Cash co-founder, sanctions another who remains at large
+- https://therecord.media/us-arrests-tornado-cash-cofounder
+- https://www.justice.gov/usao-sdny/pr/tornado-cash-founders-charged-money-laundering-and-sanctions-violations
+- https://home.treasury.gov/news/press-releases/jy1702
+
+### 2023-10-19: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs
+- https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked
+- https://apnews.com/article/north-korea-weapons-program-it-workers-f3df7c120522b0581db5c0b9682ebc9b
+- https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation
+
+### 2023-10-20: Microsoft Threat Intelligence link CyberLink Supply Chain Attack to DPRK
+- https://www.bleepingcomputer.com/news/security/microsoft-lazarus-hackers-breach-cyberlink-in-supply-chain-attack/
+- https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/
 
 ### 2023-11-10: Microsoft: BlueNoroff hackers plan new crypto-theft attacks
 - https://www.bleepingcomputer.com/news/security/microsoft-bluenoroff-hackers-plan-new-crypto-theft-attacks/
@@ -538,5 +709,11 @@
 ### 2023-11-22 - Korean gov’t officials targeted by North’s ‘journalist’ crypto hackers
 - https://protos.com/korean-govt-officials-targeted-by-norths-journalist-crypto-hackers/
 - https://koreajoongangdaily.joins.com/news/2023-11-22/national/northKorea/Norths-hackers-pose-as-officials-journalists-to-steal-info-and-crypto/1919045
+
+### 2023-11-29: FIOD + US Seizes Sinbad Crypto Mixer
+- https://www.bleepingcomputer.com/news/security/us-seizes-sinbad-crypto-mixer-used-by-north-korean-lazarus-hackers/
+
+### 2023-11-30: US govt sanctions North Korea’s Kimsuky hacking group
+- https://www.bleepingcomputer.com/news/security/us-govt-sanctions-north-koreas-kimsuky-hacking-group/
 
 

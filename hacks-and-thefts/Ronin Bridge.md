@@ -2,6 +2,7 @@
 
 Date:: April 14th, 2022
 
+Amount Stolen:: $625,000,000
 
 ## Details
 

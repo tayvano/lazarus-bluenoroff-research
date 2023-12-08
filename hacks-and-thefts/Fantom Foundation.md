@@ -1,6 +1,8 @@
 # Theft from Fantom Foundation C-Level
 
-Amount Stolen: $7,000,000
+Amount Stolen: $7,624,588
+
+Date:: October 17, 2023
 
 ## Details:
 

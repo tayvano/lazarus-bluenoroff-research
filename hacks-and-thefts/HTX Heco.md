@@ -1,4 +1,8 @@
-# November 22, 2023 - HTX/HECO - $100m+
+# HTX/HECO
+
+Date:: November 22, 2023
+
+Amount Stolen:: $100m
 
 - https://twitter.com/tayvano_/status/1727384134061052410
 

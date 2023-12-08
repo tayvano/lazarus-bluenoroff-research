@@ -2,6 +2,8 @@
 
 Date:: April 10th, 2023
 
+Amount Stolen: $3,900,000
+
 
 ## Details
 
@@ -11,7 +13,9 @@ Terraport Finance launched on March 31, apparently having gone live without any 
 
 On the morning of April 10th, Terraport was exploited resulting in losses of approximately 4 million USD in Terra, LUNC, and USTC tokens.
 
-The hack was made possible due to a mathematical weakness in the algorithm used to calculate LP prices. The malicious actor added a minor amount of liquidity to the protocol and then manipulated the LP share price, allowing them to withdraw a large amount of liquidity. Two pools were affected, the first one drained for 9,148,426 TERRA ($1.8 million) and 15,100,861,997 LUNC ($1.88 million), and the second one for 576,736 TERRA ($115K) and 5,487,381 USTC ($117K). The total losses amount to about $4 million USD.
+The hack was made possible due to a mathematical weakness in the algorithm used to calculate LP prices. The malicious actor added a minor amount of liquidity to the protocol and then manipulated the LP share price, allowing them to withdraw a large amount of liquidity. 
+
+Two pools were affected, the first one drained for 9,148,426 TERRA ($1.8 million) and 15,100,861,997 LUNC ($1.88 million), and the second one for 576,736 TERRA ($115K) and 5,487,381 USTC ($117K). The total losses amount to about $4 million USD.
 
 
 ## On-Chain
