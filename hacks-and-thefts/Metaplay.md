@@ -1,6 +1,6 @@
 # Metaplay / Polyplay
 
-Date: October 28, 2021
+Date:: October 28, 2021
 
 - found onchain, linked direct to bzx + bondly
 

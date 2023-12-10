@@ -49,36 +49,6 @@ The real purpose of the DPRK’s cyber, military, policy, and political aggressi
 
 
 
-## Background
-
-- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md
-
-
-
-## Evolution
-
-- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md
-
-
-
-## PDFs - Indictments & Formal Reports
-
-- https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs
-
-
-
-## DPRK IT Workers
-
-- https://ofac.treasury.gov/media/923126/download?inline
-
-- https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies
-
-- https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked
-
-- https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation
-
-
-
 ## Hacks & Thefts
 
 - https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/hacks-and-thefts
@@ -92,7 +62,7 @@ The real purpose of the DPRK’s cyber, military, policy, and political aggressi
 - 2017-Sep-23 Coinis - $2,190,000
 - 2017-Dec-06 NiceHash - $62,000,000
 
-### 2018 - $429,990,000
+### 2018 - $430,265,000
 - 2018 - Marine Chain
 - 2018-Mar-18 Cypherium - $8,500,000
 - 2018-Apr-12 Coinsecure - $3,500,000
@@ -100,6 +70,7 @@ The real purpose of the DPRK’s cyber, military, policy, and political aggressi
 - 2018-Apr-21 Gate.io - $250,000,000
 - 2018-May-29 Taylor ICO - $1,700,000
 - 2018-Jun-09 Coinrail - $40,000,000
+- 2018-Jun-16 G13 Theft - $275,000
 - 2018-Jul-09 Bancor - $23,000,000
 - 2018-Aug-07 BTC Markets - $3,500,000
 - 2018-Aug-09 Klickl IDCM - $620,000
@@ -129,12 +100,14 @@ The real purpose of the DPRK’s cyber, military, policy, and political aggressi
 - 2020-Nov-13 Theft from Individual - $893,000
 - 2020-Dec-14 Hugh Karp / Nexus Mutual - $8,000,000
 
-### 2021 - $169,700,000
+### 2021 - $316,300,000
 - 2021-Apr-19 EasyFi Founder - $81,000,000
+- 2021-May-12 990.1 BTC - $55,600,000
 - 2021-May-17 FinNexus Admin Key Compromise - $7,000,000
 - 2021-Jun-07 Fetch.ai - $2,600,000
 - 2021-Jul-13 Tower Capital - $Unknown
 - 2021-Jul-14 Bondly Finance - $5,900,000
+- 2021-Aug-18 Liquid Global - $91,000,000
 - 2021-Sep-25 SpookySwap LP - $Unknown
 - 2021-Oct-08 mngr - $18,000,000
 - 2021-Oct-28 Metaplay - $Unknown
@@ -187,6 +160,36 @@ The real purpose of the DPRK’s cyber, military, policy, and political aggressi
 
 - https://www.chainalysis.com/blog/2022-biggest-year-ever-for-crypto-hacking/
 
+
+
+
+## Background
+
+- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md
+
+
+
+## Evolution
+
+- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md
+
+
+
+## PDFs - Indictments & Formal Reports
+
+- https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs
+
+
+
+## DPRK IT Workers
+
+- https://ofac.treasury.gov/media/923126/download?inline
+
+- https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies
+
+- https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked
+
+- https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation
 
 
 

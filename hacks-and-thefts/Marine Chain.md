@@ -59,4 +59,6 @@ Meanwhile, in Pyongyang, plans are going ahead for an [international blockchain 
 
 - https://asia.nikkei.com/Spotlight/N-Korea-at-crossroads/North-Korea-stole-cryptocurrency-via-hacking-UN-panel
 
-- Page 30 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691) 🇰🇵
+- Page 30 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691)
+
+- https://www.recordedfuture.com/north-korea-internet-usage/

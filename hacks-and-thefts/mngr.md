@@ -2,7 +2,7 @@
 
 Date:: October 8th, 2021
 
-Amount Stolen:: 
+Amount Stolen:: $17,615,990
 
 
 ## Details

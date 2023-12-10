@@ -2,6 +2,8 @@
 
 Date:: March 21, 2020 – April 14, 2021
 
+Amount Stolen:: Unknown
+
 
 ## Details [🔗](https://blog.group-ib.com/btc_changer)
 

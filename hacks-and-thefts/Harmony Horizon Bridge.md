@@ -1,4 +1,8 @@
-# June 24th, 2022 - Harmony Bridge - Private Key Compromise - $100M
+# Harmony Bridge
+
+Date:: June 24th, 2022
+
+Amount Stolen: $100,000,000
 
 Attribution:: DPRK/High Confidence
 

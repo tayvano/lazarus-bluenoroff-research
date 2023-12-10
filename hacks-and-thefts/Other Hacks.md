@@ -92,6 +92,21 @@
 - The Fusion swap wallet 0x8e6bDa71f3f0F49dDD29969De79aFCFac4457379 was compromised, resulting in theft of 10 million native FSN and 3.5 million ERC20 FSN token.
 - https://fusionprotocol.medium.com/fusion-foundation-update-28-9-6479cd0a982d 
 
+
+### 2019-02-14 - Al Maawali's Coinomi Wallet - $65,000
+- 35 ETH ($5,000) + 6.53 LTC + 3.75 BTC
+- Al Maawali’s Hacked Wallet: 0x8d99443b0f4a92762a0e8bbc60a2140377678720
+- Al Maawali’s Hacked Wallet: 16bGvnMSNEPPpsoye2btfUpq51gi5UaJej
+- Al Maawali’s Hacked Wallet: LSLSFXsQrGipH2wtkhgoKdDurJCAMNGXTi
+- Hacker’s Wallet: 0x006d5aab4059e79734e216f96ca4a7cfbd3a99e4
+- Consolidation: 0x48382307c965927016f16584a7ed1426b8d5fcfb
+- Laundry: 0x241eb1560fd282f06ec59c0dab913b6a9034af5a
+- Hacker’s Address: MR7ugXbnB4knarmWexGPETbnmSDijmtYSj
+- Hacker’s Wallet: 15BtjrCKuUkUTb9XmaoLrjeNrAGkTn3cCL
+- https://medium.com/@cipherblade/how-not-to-react-when-your-cryptocurrency-is-stolen-92f7c72616af
+
+
+
 # 2020
 
 ### 2020-Nov-13: Liquid DNS Hijack Data Leak - $0 

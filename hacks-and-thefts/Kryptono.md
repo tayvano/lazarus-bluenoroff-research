@@ -4,8 +4,6 @@ Amount Stolen:: $270k (1,270 ETH)
 
 Date:: November 4th, 2018
 
-Attribution:: DPRK/High Confidence]]
-
 Tags:: CEX Hack
 
 ## On-Chain
