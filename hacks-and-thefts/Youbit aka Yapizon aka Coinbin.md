@@ -2,9 +2,9 @@
 
 Date:: April 22nd, 2017 + December 2017
 
-Amount Stolen: $5,300,000 (3831 BTC) + ???
+Amount Stolen: $5,300,000 (3831 BTC) + "17% of assets"
 
-Two hacks and three name changes in one year
+Two hacks and three name changes in one year.
 
 ## Details
 
@@ -14,8 +14,22 @@ Following a hack that cost 17% of the exchange’s holdings, Youbit announced it
 
 Youbit (formerly Yapizon) suffered multiple attacks involving a - $4.8 million loss in April 2017 and then 17% of its overall assets in December 2017, forcing the exchange to close.
 
+This was the second time that Youbit had suffered a hack this year. In April, the exchange suffered a theft of nearly 4,000 bitcoins in a cyber attack that South Korean authorities allege was perpetrated by North Korea, according to a Reuters  report.
+
+Youbit said that it beefed up its security policies following the April hack and that the other 83 percent of the exchange’s funds were stored safely in a cold wallet. Nevertheless, Yaipan, the company that operates the exchange, filed for bankruptcy on Tuesday and halted trading on the platform.
+
+According to the announcement, the exchange has marked down customer assets to 75 percent of their market value, and customers can withdraw them immediately. The company said it will repay the remainder of the funds at the conclusion of the bankruptcy proceedings, by which time it will have filed an insurance claim and sold the company’s operating rights.
+
+### Attribution
+
+Technically, as far as I can tell, only the "17% of assets" aka the December 2017 hack is attributed to DPRK.
+
+Exchange 2 in [US v 113](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf)
+
 
 ## Links
+
+- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf
 
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 

@@ -399,6 +399,9 @@
 ### 2020-04-18: CISA Alert on TraitorTrader
 - https://www.cisa.gov/uscert/ncas/alerts/aa22-108a
 
+### 2020-04-29: OXT's The North Korean Connection
+- https://oxtresearch.com/the-north-korean-connection/
+
 ### 2020-05-12: CISA's analysis of North Korean Trojans: COPPERHEDGE, TAINTEDSCRIBE, PEBBLEDASH
 - MAR 1028834-1.v1: North Korean Remote Access Tool: COPPERHEDGE
 - MAR 1028834-2.v1: North Korean Trojan: TAINTEDSCRIBE
@@ -680,6 +683,7 @@
 
 ### 2022-09-26: Lazarus ‘Operation In(ter)ception’ Targets macOS Users Dreaming of Jobs in Crypto
 - https://www.sentinelone.com/blog/lazarus-operation-interception-targets-macos-users-dreaming-of-jobs-in-crypto/
+- https://finbold.com/lazarus-hackers-target-macos-users-luring-them-with-crypto-dream-job-offers/
 
 ### 2022-10-05: Analysis Report on Lazarus Group's Rootkit Malware That Uses BYOVD
 - https://asec.ahnlab.com/wp-content/uploads/2022/10/Analysis-Report-on-Lazarus-Groups-Rootkit-Attack-Using-BYOVD_Oct-05-2022-3.pdf
@@ -822,3 +826,12 @@
 - https://www.bleepingcomputer.com/news/security/us-govt-sanctions-north-koreas-kimsuky-hacking-group/
 
 
+### 2023-12-10: Operation Blacksmith: Lazarus targets organizations worldwide using novel Telegram-based malware written in DLang
+- HazyLoad
+- NineRAT
+- BottomLoader
+- DLRAT
+- https://blog.talosintelligence.com/lazarus_new_rats_dlang_and_telegram/
+
+### 2023-12-11: Koda's recent DPRK IoCs
+- https://github.com/0xKoda/ioc-public/blob/main/ioc.json

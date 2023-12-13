@@ -1,4 +1,4 @@
-# Lazarus / Bluenoroff / DPRK / Cryptocurrency / Web3 / Etc
+# Lazarus / DPRK / Cryptocurrency / Web3 / Etc
 
 
 > “If the Internet is like a gun, cyberattacks are like atomic bombs.” – Kim Jon Il
@@ -7,9 +7,11 @@
 > “Cyberwarfare is an all-purpose sword that guarantees the North Korean People’s Armed Forces ruthless striking capability, along with nuclear weapons and missiles.” – Kim Jong-un
 
 
+> "The real purpose of the DPRK’s cyber, military, policy, and political aggressiveness is ultimately to **control and subdue its own population and retain power.**"
+
+
 ## Really Good Links
 
-The real purpose of the DPRK’s cyber, military, policy, and political aggressiveness is ultimately to control and subdue its own population and retain power.
 
 - [North Korean Cyber Attacks](https://www.heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat)
 
@@ -18,6 +20,8 @@ The real purpose of the DPRK’s cyber, military, policy, and political aggressi
 - [Recorded Future: Crypto Country](https://go.recordedfuture.com/hubfs/reports/cta-2023-1130.pdf)
 
 - [The Incredible Rise of North Korea's Hacking Elite](https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
+
+- [Comprehensive timeline of North Korea sanctions with the events that triggered them: 1985-2021](https://nkhumanitarian.wordpress.com/dprk-sanctions-timeline/)
 
 - [Why is North Korea so Interested in Bitcoin? (2017)](https://www.mandiant.com/resources/blog/why-north-korea-interested-in-bitcoin)
 
@@ -179,7 +183,154 @@ The real purpose of the DPRK’s cyber, military, policy, and political aggressi
 
 - https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs
 
+#### List of all PDFs
 
+- 2007       CHRG 109shrg28241
+- 2014-02-01 KEI aps mansourov
+- 2014-12-01 HPSR Security Briefing: North Korea
+- 2015-12-16 CSIS: North Koreas Cyber Operations
+- 2016-08-09 Korean Special Asymmetric Paramilitary Forces
+- 2017-04-03 Kaspersky: Lazarus Under The Hood PDF final
+- 2017-05-30 GroupIB: Lazarus Arisen
+- 2017-08-01 US Army: North Korean Cyber Support
+- 2018-01-01 CRS R44912
+- 2018-06-08 USA v PARK JIN HYOK ⭐
+- 2018-10-01 North Korea CEEW
+- 2019-01-29 ATA SFR SSCI
+- 2019-08-30 UN: Security Report S/2019/691
+- 2019       North Koreas Cyber Threat: The All Purpose Sword
+- 2020-01-01 Recorded Future: Internet
+- 2020-02-01 North Korea Cyber Operations
+- 2020-02-05 USA v FTB
+- 2020-03-02 USA v 113 (Yinyin) ⭐
+- 2020-06-01 CryptoCore Group
+- 2020-06-25 USA v Abbas
+- 2020-07-01 ATP7 100
+- 2020-08-27 USA v 280 Virtual Currency Accts ⭐
+- 2020-11-17 USA v Ghaleb Alaumary
+- 2020-11-17 USA v Ghaleb Alaumary
+- 2020-12-08 USA v JON CHANG HYOK PARK JIN HYOK ⭐
+- 2021-01-01 North Korea Military Power
+- 2021-03-01 North Korea IB
+- 2021-03-04 UN Security Council S/2021/211
+- 2021-04-09 ATA 2021 Unclassified Report
+- 2021-09-02 North Korean Cyberattacks
+- 2022-03-01 UN: Security Report N2225209
+- 2022-05-16 OFAC IT Workers Advisory
+- 2023-03-04 Mandiant: APT43 Report
+- 2023-03-07 UN Security Report N2303794
+- 2023-04-18 USA v Sim Hyon Sop 00129 ⭐
+- 2023-04-18 USA v Sim Hyon Sop 00128 ⭐
+- 2023-06-05 SEC v Binance
+- 2023-06-22 Recorded Future NK Cyber Strategy
+- 2023-10-18 USA IT Workers 1134350 redacted ⭐
+- 2023-10-18 USA IT Workers 12 domain names redacted
+- 2023-10-18 USA IT Workers 397674 redacted
+- 2023-10-18 USA IT Workers 5 domain names redacted
+- 2023-11-01 USA v Binance
+- 2023-11-20 FinCEN Binance Consent Order
+- 2023-11-23 Kim Jong Un New Maybach
+- 2023-11-30 Recorded Future Crypto Country
+
+### USA v PARK JIN HYOK (2018)
+
+- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2018-06-08_USA-v-PARK-JIN-HYOK.pdf
+
+- Chosun Expo
+- Sony Pictures Entertainmnet
+- Mammoth Screen
+- AMC Pictures
+- WannaCry
+- Lockheed Martin
+- Bangladesh Bank
+- Philippine Bank
+
+
+#### US v 113 Virtual Currency Accounts (2020)
+
+- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf
+
+- https://oxtresearch.com/the-north-korean-connection/ (corrections to some of this below)
+
+- Exchange 1 = Gate.io Hack 10k BTC, $230m total - April 21, 2018
+
+- Exchange 2 = Youbit = "17% Assets"
+
+- Exchange 3 = Upbit = 342,000 ETH - November 27, 2019
+
+- Exchange 4 = Coinrail = $40m - Summer 2018
+
+- VCE 1   HitBTC/Changelly DP 63-64
+
+- VCE 2   KuCoin DP 112
+
+- VCE 3   Bittrex DP 50-52
+
+- VCE 4   Yobit DP 92-111
+
+- VCE 5   Huobi DP 65-70
+
+- VCE 6   CoinCola DP 55-62
+
+- VCE 7   Paxful DP 83-84
+
+- VCE 8   LocalBitcoin DP 71-80
+
+- VCE 9   P2Pb2b DP 113
+
+- VCE 10  Binance DP 44-49
+
+- VCE 11  Poloniex DP 85-90
+
+- VCE 12  Unknown DP 53-54
+
+#### US v JON CHANG HYOK, KIM IL, PARK JIN HYOK (2020)
+
+- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-12-08_USA-v-JON-CHANG-HYOK_PARK-JIN-HYOK_cr-00614.pdf
+
+- Sony Pictures Entertainment Inc. (“Sony Pictures”)
+- AMC Theatres
+- Mammoth Screen, a United Kingdom television production company
+- “African Bank” - a bank headquartered in a country in Africa
+- Bangladesh Bank, the central bank of Bangladesh, was headquartered in Dhaka, Bangladesh
+- Banco Nacional De Comercio Exterior aka “Bancomext” a Mexican state-owned bank headquartered in Mexico City, Mexico
+- “Maltese Bank” - a bank headquartered in Malta
+- BankIslami Pakistan Limited aka “BankIslami” - a bank headquartered in Karachi, Pakistan
+- “New York Financial Services Company” - a financial services company headquartered in New York, New York
+- Polish Financial Supervision Authority - the financial regulatory authority for Poland, and was based in Warsaw, Poland
+- “Philippine Bank” - a bank headquartered in Makati, Philippines
+- Far Eastern International Bank - a bank headquartered in Taipei, Taiwan
+- “Vietnamese Bank” - a bank headquartered in Hanoi, Vietnam
+- “Indonesian Cryptocurrency Company” = Indodax (probably) - a cryptocurrency exchange based in Jakarta, Indonesia
+- “South Korean Cryptocurrency Company” - a cryptocurrency exchange based in the Republic of Korea
+- “Slovenian Cryptocurrency Company” (NiceHash) - a crypto-mining company headquartered in Ljubljana, Slovenia
+- “Central American Online Casino 1” - an online casino business headquartered in a Central American country
+- “Central American Online Casino 2” - an online casino business headquartered in a Central American country
+
+
+#### US v 280
+
+- Exchange 2 = Upbit (Victim) = "On November 27, 2019 342,000 ETH was stolen from Exchange 2."
+
+- Exchange 3 = CoinTiger (Victim) = "On July 1, 2019, 400m PTT Tokens were stolen"
+
+- Exchange 4 = HitBTC (Laundry) = "All deposit activity for Target Actor 1’s account at Exchange 4 occurred on or about July 1, 2019, the same day as the theft from Exchange 3. The PXG and IHT deposits (17,829,785 PXG @ 2019-07-01 8:42 + 137,793 IHT @ 2019-07-01 13:22) came directly from the theft at Exchange 3."
+
+- Exchange 5 = BiKi (Laundry) = "1BHnp77MqZGGFaCGQ9J4GhLstPUeBshVcc also received approximately 15 BTC from accounts at Exchange 3 (CoinTiger), Exchange 5 (BiKi), and Exchange 6 (Huobi).
+
+- Exchange 6 = Huobi (Laundry) = "The 4,342,294.43 Yee (“YEE”), 171,145.04 All Sports Coin (“SOC”), 71,237.03 StatusNetworks (“SNT”), and 23,300.29 Cortex Coin (“CTXC”) stolen from CoinTiger were deposited to an account at Exchange 6 on or about July 2, 2019 at 10:29, 22:32, 10:42, and 07:13 respectively." - 0x1016b7835d409692e02ed2035e053fbfb4602982
+
+- Exchange 7 = KuCoin (Laundry) - "0x2dbc0f6b71e341c7eca01c5287eb57af3038a9c5 also received approximately 41,702 USDT from an account at Exchange 7” via 14 transactions between August 12, 2019 and August 14, 2019." - e.g. txn 0xa690bf67b9347ac0ca155a473df26d91b20a62acc63546863dae0b1418c11782
+
+- Exchange 8 = Switchain (Laundry) - "0x2dbc0f6b71e341c7eca01c5287eb57af3038a9c5 sent the USDT to Exchange 8, converted to BTC, and withdrawn to 1BHnp77MqZGGFaCGQ9J4GhLstPUeBshVcc." "On or about December 20, 2019, Exchange 8 received approximately 8.65658 ETH that was converted to 0.15012721 BTC" e.g. txn bf4f4c33fb1613524ad72cd082adb42d1816b1aef8907ce30b73bf9b78078c94
+
+- Exchange 9 = Changelly? (Laundry) - In December 2019, Target Actor 1 attempted to convert ETH to BTC through a cryptocurrency trading platform “Exchange 9” which was designed to enable the transfer of one form of cryptocurrency in exchange for another. The stolen REP in 0x2DBC0f6B71e341C7Eca01c5287Eb57AF3038A9c5 was then sent to Exchange 9, converted to BTC, and also withdrawn to cluster 1BHnp. The funds associated with Order ID 6918d31f-097c-4afe-8d06-054dd38a34ac are currently frozen at Exchange 9, pursuant to their own internal policies.
+
+- Exchange 10 = Algo Capital (Victim) = "U.S. Algorand crypto company hacked on September 25, 2019" - Defendant Property 25–130
+
+- Exchange 11 = Binance (Laundry) - "The photos submitted to Exchange 11 were likely stolen during the 2018 hack of a U.S.-based CEX where IDT Victim 1 was a customer."
+
+- Exchange 12 = Unknown - "Algo Capital's Binance Account also sent approximately 2.0285 BTC to an account at Exchange 12.""
 
 ## DPRK IT Workers
 
@@ -227,13 +378,13 @@ The real purpose of the DPRK’s cyber, military, policy, and political aggressi
 
 ## Purpose
 
-- no real purpose. i like rabbitholes, i'm weird. i've follow lazarus for a long, long time.
+- no real purpose. i like rabbitholes, i'm weird. i've follow lazarus for a long, long time
 
-- i had multiple irl friends back in the day who worked at sony. now i have had multiple friends, founders, builders, users who have been rekt by these same fools, grown up.
+- i had multiple irl friends back in the day who worked at sony. now i have had multiple friends, founders, builders, users who have been rekt by these same fools, grown up
 
-- if you read about all the hacks and phishing campaigns in crypto, youre basically reading about lazarus, even if you dont know it.
+- if you read about all the hacks and phishing campaigns in crypto, youre basically reading about lazarus, even if you dont know it
 
-- realizing there's guys on the other side of the world watching you...who likely know your product and codebase better than some of your own team members...guys who come from such a fundamentally different place than you do with regards to experience, ideology, motivation, and desires...and want to steal all your crypto...it's a lot.
+- realizing there's guys on the other side of the world watching you...who likely know your product and codebase better than some of your own team members...guys who come from such a fundamentally different place than you do with regards to experience, ideology, motivation, and desires...and want to steal all your crypto...it's a lot
 
 - thus, i dive into my rabbithole for comfort. 🕳️🐇
 

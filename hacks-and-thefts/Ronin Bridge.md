@@ -2,7 +2,7 @@
 
 Date:: April 14th, 2022
 
-Amount Stolen:: $625,000,000
+Amount Stolen:: $600,000,000
 
 ## Details
 
@@ -28,6 +28,31 @@ The Ronin Bridge exploit is the largest DeFi exploit ever committed with evidenc
 
 The gaming-focused Ronin Network announced Tuesday a loss of over $625 million in USDC and ether (ETH).According to a blog post published by the Ronin Network’s official Substack, the exploit affected Ronin Network validator nodes for Sky Mavis, the publishers of the popular Axie Infinity game, and the Axie DAO.An attacker “used hacked private keys in order to forge fake withdrawals” from the Ronin bridge across two transactions, as seen on Etherscan.While the Ronin sidechain has nine validators requiring five signatures for withdrawals and is meant to protect against these types of attacks, the blog post notes that “the attacker found a backdoor through our gas-free RPC node, which they abused to get the signature for the Axie DAO validator.” The hacker was able to obtain 5 keys which were sufficient to execute the hack. The hack took place on March 23 and was not reported until March 29 when a user attempted to withdraw 5000 ETH from the bridge.The blog post pegged the losses at 173,600 ether and 25.5 million in USDC, currently worth in excess of $625 million.Update 4/19:The FBI has confimed that North Korean hackers or the Lazarus Group were responsible for the theft.Updated 4/22Binance reported that the company recovers $5.8 from the stolen funds as the exploited attemtped to launder through the exchange.Updated 5/3Peckshield reported that Over 90% of the stolen funds have been transferred out of the exploiter's wallet, including ~71,000 $ETH ($213m) already
 
+### A malicious PDF let hackers compromise the entire financial system
+
+> According to two people with direct knowledge of the matter, who were granted anonymity due to the sensitive nature of the incident, a senior engineer at Axie Infinity was duped into applying for a job at a company that, in reality, did not exist.  
+
+> Earlier this year, staff at Axie Infinity developer Sky Mavis were approached by people purporting to represent the fake company and encouraged to apply for jobs, according to the people familiar with the matter. One source added that the approaches were made through the professional networking site LinkedIn. 
+
+> After what one source described as multiple rounds of interviews, a Sky Mavis engineer was offered a job with an extremely generous compensation package. 
+
+> The fake “offer” was delivered in the form of a PDF document, which the engineer downloaded — allowing spyware to infiltrate Ronin’s systems. From there, hackers were able to attack and take over four out of nine validators on the Ronin network — leaving them just one validator short of total control. 
+
+> In a post-mortem blog post on the hack, published April 27, Sky Mavis said: “Employees are under constant advanced spear-phishing attacks on various social channels and one employee was compromised. This employee no longer works at Sky Mavis. The attacker managed to leverage that access to penetrate Sky Mavis IT infrastructure and gain access to the validator nodes.”
+
+> Validators fulfill various functions in blockchains, including the creation of transaction blocks and the updating of data oracles. Ronin uses a so-called “proof of authority” system for signing transactions, concentrating power in the hands of nine trusted actors.
+
+> An April blog post on the incident from blockchain analysis firm Elliptic explains: “Funds can be moved out if five of the nine validators approve it. The attacker managed to get hold of the private cryptographic keys belonging to five of the validators, which was enough to steal the cryptoassets.”
+
+https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game
+
+### Delayed Response
+
+> The incident occurred six days before the exploit was announced by Ronin. Amid confusion over the delayed response, it announced that the exploit was only discovered after a 5,000 ETH withdrawal attempt from one of their users failed. At the time of discovery, the stolen funds were worth over $615 million.
+
+> The attacker managed to get hold of the private cryptographic keys belonging to five of the validators, which was enough to steal the cryptoassets. The post mortem claims that “all evidence points to this attack being socially engineered, rather than a technical flaw”.
+
+https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge
 
 ## On-Chain
 
@@ -140,6 +165,7 @@ Most notably, there were no deposits or withdrawals between 2022-04-16 and 2022-
 | |0xffa6989330733b6884a117fcd323f76d7ea88504|6|600|2022-04-09 6:11|2022-04-09 6:21|
 | |0x11facc4ee46e0c53b6b8bab63488eb02ee54a1aa|6|600|2022-04-09 6:24|2022-04-09 6:32|
 | |0xec8344d61798ec0895ae68967caab2fe214e9b4c|6|600|2022-04-09 7:20|2022-04-09 7:28|
+| |0x9a4e8546eebae0ba8375c2960245e12a85bd98b7|4|400|2022-04-09 7:29|2022-04-09 7:32|
 | |0x5589c7d745aeb209a5fb08a761d308fec12ee62c|4|400|2022-04-09 7:34|2022-04-09 7:40|
 | |0x194a5ad79c30ea114b876d34648fe880eb117565|5|500|2022-04-09 7:39|2022-04-09 7:45|
 |**D**|**0x1361c1e18930483f4aaf91f3a263937e4fcc1f39**|**30**|**3000**|**2022-04-10 8:51**|**2022-04-10 11:32**|
@@ -264,6 +290,7 @@ Most notably, there were no deposits or withdrawals between 2022-04-16 and 2022-
 | |0xd36625bc04cb29e1bd71450c1ca98ac43f556afb|4|400|2022-05-02 8:08|2022-05-03 6:49|
 | |0x25cf0b8714eaafd9de4f76c73f9bf32c39df16fa|5|500|2022-05-02 9:22|2022-05-03 5:37|
 |**D**|**0x002c93452d54b6d64bfa9879fcab14a74f1bdd44**|**87**|**8700**|**2022-05-03 8:06**|**2022-05-04 4:31**|
+| |0x55373a032cd9510e1517bb02aa52ae524f5f56db|9|900|2022-05-03 16:42|2022-05-04 14:32|
 | |0x21564fdef62433efc13b590504b81c94d1aefc5c|9|900|2022-05-03 15:58|2022-05-04 15:44|
 | |0x7f8218adfa63f7e14e298d4e72e62c69d39630a2|9|900|2022-05-03 16:12|2022-05-04 16:20|
 | |0xf49537551dd0832aa1012663e37ed2a8adf51df8|9|900|2022-05-03 16:29|2022-05-04 18:25|
@@ -287,7 +314,14 @@ Most notably, there were no deposits or withdrawals between 2022-04-16 and 2022-
 | |0x886bc8103eeca0dd4a78309711565bbac2efa2be|8|800|2022-05-04 23:47|2022-05-05 8:23|
 | |0x1401d8805b8579692d56d514d5183272d1ca3673|8|800|2022-05-05 3:42|2022-05-05 10:15|
 |**D**|**0x1aff30f79a05d6505c7846c13dd669858eb52f49**|**58**|**5800**|**2022-05-05 7:41**|**2022-05-05 11:53**|
-|||||||
+| |0x83fa79a681bbc379a8c4a33b09517365081c0e2c|2|200|2022-05-05 10:29|2022-05-05 18:09|
+| |0xb86262c487b172cd253cdef401df8cef199bfb03|8|800|2022-05-05 10:44|2022-05-06 2:25 |
+| |0x6511f0b7ebecd902b250cdd82773102c42d03a8b|9|900|2022-05-05 10:55|2022-05-05 21:20|
+| |0x01b378f41dd4a35fa248b6016cc36027c6bae229|9|900|2022-05-05 11:18|2022-05-06 1:40 |
+| |0x451fcd6da66d8a0406033e1c92705d8f78164b63|8|800|2022-05-05 11:34|2022-05-05 23:09|
+| |0x0c25626ea88b43e9d935d0ad1159a616ba62a536|9|900|2022-05-05 11:51|2022-05-06 2:11 |
+| |0xcfe3793fd6cebcd7eaa8846762b7ae5f99fcada0|8|800|2022-05-05 15:38|2022-05-06 2:35 |
+| |0x4b4529142fd67ab6a1f9bf4cd23ad6e57853b5d4|5|500|2022-05-05 19:21|2022-05-06 2:00 |
 |**D**|**0x99b6843f8410ee696b7487a5535dd5b0ca32a12d**|**70**|**7000**|**2022-05-06 3:37**|**2022-05-06 8:52**|
 | |0x040fecc0325d66d6002501dccc2431915a87e44c|4|400|2022-05-06 7:39|2022-05-06 15:27|
 | |0xa6ccb08b8d5051a549fda7c92a1f200496024a27|6|600|2022-05-06 7:50|2022-05-07 1:14|
@@ -296,6 +330,9 @@ Most notably, there were no deposits or withdrawals between 2022-04-16 and 2022-
 | |0x9a1be9038eac14f63cb2fa51cb6ce296a3566dce|9|900|2022-05-06 9:06|2022-05-07 0:55|
 | |0x8e0904879419c2eb030580e93f1452013626b23f|8|800|2022-05-06 13:01|2022-05-07 0:21|
 | |0xb58dd5e0dd0c56571a535c6d3cd147f995f93863|2|200|2022-05-06 17:23|2022-05-06 19:52|
+| |0x4fe56d7e94b0eacf18fca482b141e030fdf01bf1|9|900|2022-05-06 7:28 |2022-05-07 0:05|
+| |0x9369fcc937c429f2141b7f9a4c637c6bace78903|9|900|2022-05-06 9:54 |2022-05-06 22:08|
+| |0x8d1dc1ecea17bfd64f5a8f9b586fb015e3ea23e9|7|700|2022-05-06 12:09|2022-05-07 0:46|
 |**D**|**0xd98d925685908152f18c32697e0d3894a5c672c0**|**30**|**3000**|**2022-05-07 4:12**|**2022-05-07 6:14**|
 | |0xe8195dec9ff6cfaeb8a9b9701953fae01b9fd7c2|4|400|2022-05-07 6:46|2022-05-07 8:53|
 | |0xa27bf6bddb3a1e0eee32a60e2e7558df5991e723|4|400|2022-05-07 8:04|2022-05-07 12:55|
@@ -304,6 +341,7 @@ Most notably, there were no deposits or withdrawals between 2022-04-16 and 2022-
 | |0x81dd80ad823be60365f32979b70d76777623e2d7|4|400|2022-05-07 9:05|2022-05-07 14:04|
 | |0xae6d8c2e71fdff68276f260493ec624e6694fd1b|5|500|2022-05-07 9:25|2022-05-07 16:03|
 |**D**|**0x13113ccfe609c081bb9a7f7d69484b96b90b39fc**|**30**|**3000**|**2022-05-07 17:07**|**2022-05-07 19:06**|
+| |0xf88ace3407d2103a5dab728afbb7eae07891a188|9|900|2022-05-07 8:18|2022-05-08 13:30|
 | |0x069d95b81f3120ada24a0f7e097cc3cea908a8c6|7|700|2022-05-07 18:03|2022-05-08 0:08|
 | |0x5a2e8a3b9ff2d155ba8e5a94435c28d2a0be0d19|6|600|2022-05-07 18:29|2022-05-08 0:55|
 | |0x4150eeb43726272675395004f249ea004304ccd1|3|300|2022-05-07 18:57|2022-05-07 23:49|
@@ -467,19 +505,21 @@ Validator Security Breach US Treasury Department has sanctioned the address that
 
 ## Links
 
-- https://twitter.com/blocksearch/status/1514685894619549703
-- https://twitter.com/Ronin_Network/status/1530076035345453056
 - https://blog.mollywhite.net/axie-hack/
 - https://bridge.roninchain.com/
 - https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220414
 - https://rekt.news/ronin-rekt/ 
 - https://roninblockchain.substack.com/p/community-alert-ronin-validator
 - https://roninblockchain.substack.com/p/community-alert-ronin-validators
+- https://twitter.com/blocksearch/status/1514685894619549703
 - https://twitter.com/CertiKAlert/status/1521397324601249794
-- https://twitter.com/Ronin_Network
+- https://twitter.com/Ronin_Network/status/1530076035345453056
 - https://twitter.com/TheBlock__/status/1544684472704159747
 - https://www.coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/
+- https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge
 - https://www.fbi.gov/news/press-releases/fbi-statement-on-attribution-of-malicious-cyber-activity-posed-by-the-democratic-peoples-republic-of-korea
+- https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game
+- https://www.theverge.com/2022/7/6/23196713/axie-infinity-ronin-blockchain-hack-phishing-linkedin-job-offer
 - https://www.web3rekt.com/hacksandscams/ronin-network-12
 
 ## Commentary

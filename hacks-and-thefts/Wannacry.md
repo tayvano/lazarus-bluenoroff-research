@@ -38,6 +38,13 @@ The largest ransomware attack in history, infecting more than 300,000 computers 
 
 
 
+#### 
+Ransoms paid by victims of WannaCry Version 1 were paid into Bitcoin wallets. On July 20, 2017, a series of transactions occurred that moved all of the ransom payment proceeds from the Bitcoin wallets associated with WannaCry Version 1. After the funds were sent to a currency exchange, the funds were converted to Monero, another cryptocurrency. At least some of the transactions occurred from five IP addresses that have been identified as exit nodes for the TOR network,35 and used the same browser User-Agent string “Mozilla/5.0 (Windows NT 6.1.; rv:52.0.) Gecko/20100101 Firefox/52.0.”
+
+As with Version 1, ransoms paid by victims of WannaCry Version 2 were also paid into Bitcoin wallets. Estimates as of early-August 2017 indicate that approximately 330 victims paid the ransom demanded by WannaCry Version 2 totaling over $140,000. On August 3, 2017, the ransom payments from the victims of the WannaCry Version 2 ransomware were transferred from the original Bitcoin addresses to other cryptocurrency addresses in a series of transactions. As with the laundering of the ransoms associated with Version 1, following the Version 2 ransoms being sent to currency exchanges, the funds were converted to Monero. At least some of those transfers used IP addresses that have been identified as exit nodes for the TOR network, and used the same browser User- Agent string, “Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0.”
+
+
+
 ## Links
 
 - http://undocs.org/S/2019/691

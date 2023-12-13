@@ -6,7 +6,6 @@ Amount Stolen:: $48.5M (342,000 ETH)
 
 Tags:: CEX Hack, Private Key Compromise, Inside Job, DPRK
 
-Attribution:: DPRK/High Confidence - U.S. DOJ
 
 
 ## Details
@@ -24,34 +23,15 @@ The Upbit hack is currently the most recent one as the company announced in a bl
 In response, Upbit immediately moved all of its funds to cold wallets and also disabled all trading activity. The company also promised to return all funds to affected users.
 
 
+## Attribution
 
+- "Exchange 3" in [US v 113](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf)
 
-## US v. 113 + 280 Virtual Currency Accounts
+- "Exchange 2" in [US v 280](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-08-27_USA-v-280_complaint_cv-2396.pdf)
 
-North Korean co-conspirators had targeted `Exchange 3` in May 2019, although this previously attempted theft failed
+- [2019 Panel of Experts Report](http://undocs.org/S/2019/691): The Coinbin aka Youbit aka Yapizon and Bithumb attacks, along with an attack on UpBit on 28 May 2019, used similar tools, codes and attack vectors (including spear phishing and watering holes) to those used in previous cyberattacks on security and defence targets attributed to the Democratic People’s Republic of Korea.34 In addition to the Republic of Korea, the Panel investigated Democratic People’s Republic of Korea attacks on cryptocurrency exchanges in five other countries (see annex 21 B)."
 
-Specifically, emails originating from North Korea falsely gave the impression that `Exchange 3` was requesting information from its customers about a fictional sweepstakes payout
-
-On or about November 27, 2019, The Exchange 3, a South Korea-based virtual currency exchange, had approximately 342,000 ETH ($48.5 million) stolen from it
-
-South Korean exchange suffered a massive breach when hackers made off with 342,000 ETH (valued at $51 million at the time of the hack). 
-
-On or about November 27th, 2019. Approximately 342,000 ETH (valued at about $48.5 million) was stolen from Exchange 2. 
-
-The investigation of the laundering of the funds stolen from Exchange 2, and funds related to additional hacks, identified a U.S.-based email account (“Target Email 1”) that a criminal actor (“Target Actor 1”) had used to launder funds from the scheme.
-
-In or about December 2019, Target Actor 1 attempted to convert ETH to BTC through a cryptocurrency trading platform (“Exchange 9”) which was designed to enable the transfer of one form of cryptocurrency in exchange for another. Target Actor 1 submitted ETH for conversion into BTC, generating a transaction ID beginning with 6918d31f; however, Exchange 9 did not convert the ETH.
-
-On or about December 20, 2019, Target Actor 1 contacted a separate virtual currency wallet provider requesting assistance with the transaction. Exchange 9 notified the virtual currency wallet provider that transaction ID 6918d31f would not be processed because it contained funds related to the hack of Exchange 2.
-
-> The funds associated with transaction ID 6918d31f (“Defendant Property 1”) are currently frozen at Exchange 9, pursuant to their own internal policies.
-
-
-## UN Report
-
-- [The Coinbin aka Youbit aka Yapizon and Bithumb attacks], along with an attack on UpBit on 28 May 2019, used similar tools, codes and attack vectors (including spear phishing and watering holes) to those used in previous cyberattacks on security and defence targets attributed to the Democratic People’s Republic of Korea.34 In addition to the Republic of Korea, the Panel investigated Democratic People’s Republic of Korea attacks on cryptocurrency exchanges in five other countries (see annex 21 B)."
-
-- http://undocs.org/S/2019/691
+- 
 
 
 ## Links 
