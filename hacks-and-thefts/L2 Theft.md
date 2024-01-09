@@ -10,7 +10,7 @@ Amount Stolen: $893,000
 
 Malware suspected, never found
 
-Victim in Singapore
+Victim based in Singapore
 
 
 ## On-Chain
@@ -27,15 +27,15 @@ Victim in Singapore
 
 - Theft: 0xbc8D089824461048A06d300DFF88BB7357d88B3b
 
-- Theft: 0x990924D51C6Ea6e212CcE6e811B380fFd44aC350 (CoinMetro)
+- Theft: 0x990924D51C6Ea6e212CcE6e811B380fFd44aC350 (also shows up in CoinMetro)
 
 - Huobi: 0x365fe486d0da7f9f259f9b790c8f13bc8602401e
-
-- Laundry or Another Victim: 0xbc8D089824461048A06d300DFF88BB7357d88B3b
 
 - Kucoin: 0xB7454337E0Bd98E3F906D0D5049261Fa5483D4f5
 
 - Kucoin: 0x990924D51C6Ea6e212CcE6e811B380fFd44aC350
+
+- Huobi: 15K6ZmcnkqEXJpVpfqnk18fYGxRbDXAZr4 
 
 
 

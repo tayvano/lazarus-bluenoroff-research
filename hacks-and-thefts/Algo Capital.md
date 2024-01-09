@@ -70,7 +70,7 @@ Algo Capital Partner 1’s account at Exchange 11 sent the stolen 144,363.89 USD
 
 The Algo Capital Partner 1’s account at Exchange 11 also sent approximately 2.0285 BTC to an account at another exchange (“Exchange 12”) (line number 5 in the chart above).
 
-**C. Connections of Hack of Exchange 11 to Hack of Exchange 3 and North Korea - (Defendant Property 172 through Defendant Property 280) **
+C. Connections of Hack of Exchange 11 to Hack of Exchange 3 and North Korea - (Defendant Property 172 through Defendant Property 280) 
 
 As previously stated, the stolen ALGO tokens were deposited into 106 different accounts at Exchange 11, converted to BTC, and withdrawn to four BTC clusters (shown below, in light green lines). 
 

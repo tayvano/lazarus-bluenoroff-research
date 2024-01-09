@@ -38,7 +38,8 @@ The company asked the Kaspersky security firm to investigate, who believe the ha
 - 0x967bb571f0fc9ee79c892abf9f99233aa1737e31 - Hackers wallet - $2m in ETH
 - 0x6abcA33faeb7deb1E61220e31054f8d6Edacbc81 - Hackers wallet - 1.5m BZRX - Internal Transactions from KuCoin
 - 0x1Ae8840cEaEf6EeC4dA1b1e6e5FCf298800b46e6 - Hacker Sent funds OUT from KuCoin To this address.
-
+- 0xf4ace6ae2df8ef5dbccb3a118f072f8a80868fc7 - Connects FinNexus <> bZx <> MetaPlay
+- 0x53cb834c43ce919289a4db2ca54f65e1afb17041 - Theft Address on BSC Polygon and ETH
 
 ## Links
 - https://bzx.network/blog/post-mortem-update

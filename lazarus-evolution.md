@@ -794,6 +794,9 @@
 - https://www.justice.gov/usao-sdny/pr/tornado-cash-founders-charged-money-laundering-and-sanctions-violations
 - https://home.treasury.gov/news/press-releases/jy1702
 
+### 2023-08-24: Lazarus Group's infrastructure reuse leads to discovery of new malware
+- https://blog.talosintelligence.com/lazarus-collectionrat/
+
 ### 2023-10-19: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs
 - https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked
 - https://apnews.com/article/north-korea-weapons-program-it-workers-f3df7c120522b0581db5c0b9682ebc9b
@@ -803,6 +806,9 @@
 - https://www.bleepingcomputer.com/news/security/microsoft-lazarus-hackers-breach-cyberlink-in-supply-chain-attack/
 - https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/
 
+### 2023-10-31: - Lazarus Targets Bloackchain Engineers With New KandyKorn macOS Malware in attacks against blockchain engineers.
+- https://securityaffairs.com/153622/uncategorized/lazarus-kandykorn-malware.html
+
 ### 2023-11-10: Microsoft: BlueNoroff hackers plan new crypto-theft attacks
 - https://www.bleepingcomputer.com/news/security/microsoft-bluenoroff-hackers-plan-new-crypto-theft-attacks/
 - https://twitter.com/MsftSecIntel/status/1722316019920728437
@@ -810,14 +816,19 @@
 ### 2023-11-06: Jamf - BlueNoroff strikes again with new macOS malware
 - https://www.jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/
 
-### 2023-11-21 - Palo Alto - Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors
+### 2023-11-21: Palo Alto - Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors
 - https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/
 - Contagious Interview as CL-STA-0240
 - Wagemole and track it as CL-STA-0241
 
-### 2023-11-22 - Korean gov’t officials targeted by North’s ‘journalist’ crypto hackers
+### 2023-11-22: Korean gov’t officials targeted by North’s ‘journalist’ crypto hackers
 - https://protos.com/korean-govt-officials-targeted-by-norths-journalist-crypto-hackers/
 - https://koreajoongangdaily.joins.com/news/2023-11-22/national/northKorea/Norths-hackers-pose-as-officials-journalists-to-steal-info-and-crypto/1919045
+
+### 2023-11-24: Bleeping Computer - MagicLine4NX - UK and South Korea: Hackers use zero-day in supply-chain attack
+- https://www.bleepingcomputer.com/news/security/uk-and-south-korea-hackers-use-zero-day-in-supply-chain-attack/
+- https://www.documentcloud.org/documents/24174869-rok-uk-joint-cyber-security-advisoryeng
+- https://asec.ahnlab.com/wp-content/uploads/2023/10/20231013_Lazarus_OP.Dream_Magic.pdf
 
 ### 2023-11-29: FIOD + US Seizes Sinbad Crypto Mixer
 - https://www.bleepingcomputer.com/news/security/us-seizes-sinbad-crypto-mixer-used-by-north-korean-lazarus-hackers/
@@ -835,3 +846,8 @@
 
 ### 2023-12-11: Koda's recent DPRK IoCs
 - https://github.com/0xKoda/ioc-public/blob/main/ioc.json
+
+
+
+
+
