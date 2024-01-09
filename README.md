@@ -104,10 +104,11 @@
 - 2020-Nov-13 Theft from Individual - $893,000
 - 2020-Dec-14 Hugh Karp / Nexus Mutual - $8,000,000
 
-### 2021 - $316,300,000
+### 2021 - $317,050,000
 - 2021-Apr-19 EasyFi Founder - $81,000,000
 - 2021-May-12 990.1 BTC - $55,600,000
 - 2021-May-17 FinNexus Admin Key Compromise - $7,000,000
+- 2021-Jun-03 NAOs Finance - $750,000
 - 2021-Jun-07 Fetch.ai - $2,600,000
 - 2021-Jul-13 Tower Capital - $Unknown
 - 2021-Jul-14 Bondly Finance - $5,900,000
@@ -118,49 +119,62 @@
 - 2021-Nov-01 YFEthereum (YFETH) Admin Key - $200,000
 - 2021-Nov-03 bZx - $55,000,000
 
-### 2022 - $726,600,000
+### 2022 - $767,638,000
+- 2022-Jan-15 Jan 15 2022 Theft - $555,000
+- 2022-Jan-27 Fantom Allo Receiver - $1,2000,000
+- 2022-Feb-10 Feb 10 2022 Theft - $300,000
 - 2022-Mar-22 Arthur_0x - $1,600,000
-- 2022-Apr-14 Ronin Bridge - 625000000
+- 2022-Apr-14 Ronin Bridge - $625,000,000
 - 2022-Jun-24 Harmony Horizon Bridge - $100,000,000
 - 2022-Aug-05 deBridge (Attempt) - $0
+- 2022-Oct-31 Oct 31 2022 Theft - $183,000
+- 2022-Nov-02 Deribit - $28,000,000
 
-### 2023 - $565,503,588
-- 2023-Apr-10 Terraport - $3,900,000
-- 2023-Apr-20 3CX - $0
+### 2023 - $648,586,564
+- 2023-Mar-02 ARBI Token (IT Workers) - $100,000
+- 2023-Apr-10 Terraport (IT Workers) - $3,900,000
+- 2023-Apr-20 3CX - n/a
+- 2023-May-22 LunaFI (IT Workers) - $50,000
 - 2023-Jun-03 Atomic Wallet - $115,000,000
-- 2023-Jul-20 Jumpcloud - $0
+- 2023-Jul-20 Jumpcloud - n/a
 - 2023-Jul-22 Alphapo + Coinspaid - $97,000,000
 - 2023-Aug-07 Steadefi - $1,140,000
-- 2023-Aug-16 C8 Theft - $1,620,00./0
+- 2023-Aug-16 C8 Theft - $1,620,00
 - 2023-Sep-04 Stake.com - $41,000,000
 - 2023-Sep-12 CoinEx - $54,000,000
+- 2023-Sep-14 We Are Cult DAO (IT Workers)
 - 2023-Oct-17 Fantom Foundation - $7,624,588
 - 2023-Oct-26 M7 Theft - $19,000,000
 - 2023-Nov-10 Poloniex - $125,000,000
-- 2023-Nov-14 Uno Re DAO - $219,000
-- 2023-Nov-22 HTX Heco - $100,000,000
-
-
+- 2023-Nov-14 UnoRe DAO (IT Workers) - $219,000
+- 2023-Nov-22 HTX / Heco - $100,000,000
+- 2023-Dec-12 OKX Dex (IT Workers) - $2,390,976
+- 2023-Dec-31 Orbit Bridge - $82,000,000
 
 ## Total Amount Stolen
 
-- 2023: > $565,503,588
+Amount Documented in this Repo: **$2.7 Billion**
 
+- 2023 - $648,586,564
+- 2022 - $767,638,000
+- 2021 - $317,050,000
+- 2020 - $307,726,000
+- 2019 - $191,794,000
+- 2018 - $430,265,000
+- 2017 - $109,490,000
+- 2016 - ????????????
+
+
+Chainalysis' Total Amount Stolen: **$3.2 Billion**
+
+- 2023: Coming Jan 2024
 - 2022: $1,650,000,000
-
 - 2021: $428,800,000
-
 - 2020: $300,000,000
-
 - 2019: $271,000,000
-
 - 2018: $522,000,000
-
 - 2017: $30,000,000
-
 - 2016: $1,500,000
-
-- **Total: $3.2 Billion**
 
 - https://www.chainalysis.com/blog/2022-biggest-year-ever-for-crypto-hacking/
 
