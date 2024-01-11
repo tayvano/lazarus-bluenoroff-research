@@ -130,7 +130,7 @@
 - 2022-Oct-31 Oct 31 2022 Theft - $183,000
 - 2022-Nov-02 Deribit - $28,000,000
 
-### 2023 - $648,586,564
+### 2023 - $648,624,596
 - 2023-Mar-02 ARBI Token (IT Workers) - $100,000
 - 2023-Apr-10 Terraport (IT Workers) - $3,900,000
 - 2023-Apr-20 3CX - n/a
@@ -140,6 +140,7 @@
 - 2023-Jul-22 Alphapo + Coinspaid - $97,000,000
 - 2023-Aug-07 Steadefi - $1,140,000
 - 2023-Aug-16 C8 Theft - $1,620,00
+- 2023-Aug-17 SPooCK - $38,032
 - 2023-Sep-04 Stake.com - $41,000,000
 - 2023-Sep-12 CoinEx - $54,000,000
 - 2023-Sep-14 We Are Cult DAO (IT Workers)

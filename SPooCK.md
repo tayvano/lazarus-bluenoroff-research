@@ -1,0 +1,88 @@
+# Theft from SPooCK
+
+Date:: August 17, 2023
+
+Amount Stolen: $38,032
+
+IT Workers
+
+## Details
+
+The security of my admin wallet was breached (0xec448cC26A97Ff84339C27ec754320F1D52f7566). While the exact method of compromise remains uncertain, the attacker successfully accessed the admin wallet and drained a contract holding these funds.
+
+Below are the transactions on BSC Scan ( https://bscscan.com/tx/ ) executed by the attacker, all directed to wallet address: 0x55066E19Abdb8cB38F6A98A96186c0B657Ce3295:
+
+1. TX: 0x88b6ebb4a730422413c25645ab83ce80dc5e2e0a26662214483d21a256fc04cf (1,000 BUSD)
+
+2. TX: 0xd29cd90608685a761143139a83cbec1ab4cf58e4f4627f95ecb0d18883e005ef (1,000 BUSD)
+
+3. TX: 0x197e56940d2187a16af229d890431cb77b348df9673170a6255179056e81601e (16,000 BUSD)
+
+4. TX: 0x054f40109c36079e4efdd2b350940c313248870cb549e89d638068bf38bdf395 (16,000 BUSD)
+
+5. TX: 0xc41e0856386b93ffb29c236021f01d04a94fdbc9414e04de41db9c8fdbdd9d37 (1,000 BUSD)
+
+6. TX: 0x95667ddf7e5989c85f44583b5ace76aa0d84ad0dafbf8374e85d583a4e1f8d64 (1,000 BUSD)
+
+7. TX: 0xf3611cef7ca085a96a785beddd669e71f132612df8915f283bec1bddbfa0bc05 (1,000 BUSD)
+
+8. TX: 0x7d5e7cdfdddfcafb0dccc6cb24ee5cd6b684d7d42ddf890e404243a40a130698 (1,000 BUSD)
+
+9. TX: 0xd3df2b133766308f52b2c308273ef2bc8ffa4a139a78a33a239849d556208bf4 (32 BUSD)
+
+Subsequently, the total amount of 38,032 BUSD was transferred through the following wallets:
+
+1. 0xe9f8CeF0FDfa4E6b455ab02a5FAa8Df794F83774 - TX :0x7f534c94511944d202672ecabf170ae34038268dc9670c343209a46ec2247ef2
+
+2. 0x45B9A47Bdff8039B2318eB4f037A7a1de4820CBE - TX: 0x01ef5e0a57dbc7afedd6b3a78b7e1f300a6d8a43f00b2d218abb97e00232cd4d
+
+3. 0x081AE3ee8d505D2CfC86f0c297FAB5A65A831998 (possible ChangeNOW) - TX: 0x9c5c6fcb944673c11ca072c6c8547dbe1eae8abd473e1b073702912d5501c48b
+
+4. 0xA96Be652A08D9905F15B7FbE2255708709BeCD09 (possible ChangeNOW) - TX: 0x8038a9e70df6b48acc06b0dfe2fb4fd939927f2cc6eeb1546defe565aaac9c06
+
+I am deeply concerned about the safety of the investors' funds. Following the breach, I have discarded the compromised wallet, revoked its access, and fully re-installed the system's Windows.
+
+The total value lost amounts to approximately $38,362 USD, broken down as follows:
+
+Investor's Funds: ~$38,032 USD
+
+Personal Funds (across ETH, BSC & Polygon): ~$330 USD
+
+- https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070
+
+
+## On-Chain
+
+- 0x081ae3ee8d505d2cfc86f0c297fab5a65a831998
+- 0x45b9a47bdff8039b2318eb4f037a7a1de4820cbe
+- 0x55066e19abdb8cb38f6a98a96186c0b657ce3295
+- 0x92c42f41c2a2104b5fc468859c20ea2d186a1a17
+- 0xe9f8cef0fdfa4e6b455ab02a5faa8df794f83774
+- 0xea939998fad5ff82d04a37668680073d5f5ef143
+- TBpocvWxXWgLDoMCVNDXDKZtikn5FS6odh
+- TDRz3EKe4QMpAVri7WoWtQjymqPuJ6SHPU
+- TEie2SWkPm4cEdna3X4JkM6KuF215VaSqV
+- TMogEBUWaJXppbs8inu583fnbDHmhEHvMn
+- TNJzVCQKadtJykJdh82zK8WCQxUD9dcpcr
+- TWJnEMdVTdp3dfkpHsrWMy4tz1q3e51hfA
+- TWoJ9PvYDiyK54nxRu4HeqkUYARMKxaRTu
+- TWvAmAt7upe6JSLzAYV7bocFGqHqhzDwPG
+- TYmHrykm4XG7q1BaAm12yFmQZN22QEoW4J
+
+
+## 🤔
+
+Also, both of the victims I found, who we assuminged were "attacked" by the same person, refused to share how it happened and blocked me:
+
+"Victim" 1:
+
+- https://twitter.com/bunhouth
+- https://stackoverflow.com/users/4710358/bun-houth
+- https://gist.github.com/BunHouth
+- https://www.upwork.com/en-gb/freelancers/~018bdf05f7fd7414dc
+
+"Victim" 2:
+
+- https://twitter.com/iafhurtado
+- https://www.upwork.com/freelancers/~01b830b8c51f54f474
+- https://portfolio-iafhurtado.vercel.app/#contact
