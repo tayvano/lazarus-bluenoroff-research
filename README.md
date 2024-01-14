@@ -57,7 +57,6 @@
 
 - https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/hacks-and-thefts
 
-
 ### 2017 - $109,490,000
 - 2017 - Youbit aka Yapizon aka Coinbin - $5,300,000
 - 2017 - Bithumb - $40,000,000
@@ -130,7 +129,7 @@
 - 2022-Oct-31 Oct 31 2022 Theft - $183,000
 - 2022-Nov-02 Deribit - $28,000,000
 
-### 2023 - $648,624,596
+### 2023 - $648,625,146
 - 2023-Mar-02 ARBI Token (IT Workers) - $100,000
 - 2023-Apr-10 Terraport (IT Workers) - $3,900,000
 - 2023-Apr-20 3CX - n/a
@@ -150,23 +149,24 @@
 - 2023-Nov-14 UnoRe DAO (IT Workers) - $219,000
 - 2023-Nov-22 HTX / Heco - $100,000,000
 - 2023-Dec-12 OKX Dex (IT Workers) - $2,390,976
+- 2023-Dec-28 Upwork Developer Jobs - $550
 - 2023-Dec-31 Orbit Bridge - $82,000,000
 
 ## Total Amount Stolen
 
-Amount Documented in this Repo: **$2.7 Billion**
+#### Amount Documented in this Repo: **$2.7 Billion**
 
-- 2023 - $648,586,564
+- 2023 - $648,625,146
 - 2022 - $767,638,000
 - 2021 - $317,050,000
 - 2020 - $307,726,000
 - 2019 - $191,794,000
 - 2018 - $430,265,000
 - 2017 - $109,490,000
-- 2016 - ????????????
+- 2016 - n/a
 
 
-Chainalysis' Total Amount Stolen: **$3.2 Billion**
+#### Chainalysis' Total Amount Stolen: **$3.2 Billion**
 
 - 2023: Coming Jan 2024
 - 2022: $1,650,000,000
@@ -178,6 +178,23 @@ Chainalysis' Total Amount Stolen: **$3.2 Billion**
 - 2016: $1,500,000
 
 - https://www.chainalysis.com/blog/2022-biggest-year-ever-for-crypto-hacking/
+
+#### TRM's Total Amount Stolen: **$2.7 Billion**
+
+![](./images/TRM-2017_2023.jpg)
+
+- 2023: $600,000,000 
+- 2022: $850,000,000
+- 2021: $250,000,000
+- 2020: $290,000,000
+- 2019: $200,000,000
+- 2018: $400,000,000
+- 2017: $100,000,000
+- 2016: n/a
+
+_(numbers approximate, obviously)_
+
+
 
 
 

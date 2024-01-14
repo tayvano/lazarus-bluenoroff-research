@@ -663,6 +663,14 @@
 ### 2022-05-16: Guidance on the DPRK IT Workers
 - https://ofac.treasury.gov/media/923126/download?inline
 
+
+### 2022-06-29: Insight: Crypto crash threatens North Korea's stolen funds as it ramps up weapons tests
+- https://www.reuters.com/technology/crypto-crash-threatens-north-koreas-stolen-funds-it-ramps-up-weapons-tests-2022-06-28/
+
+
+### 2022-07-10: Here’s how North Korean operatives are trying to infiltrate US crypto firms
+- https://www.cnn.com/2022/07/10/politics/north-korean-hackers-crypto-currency-firms-infiltrate/index.html
+
 ### 2022-07-11: AppleSeed Disguised as Purchase Order and Request Form Being Distributed
 -https://asec.ahnlab.com/en/36368/
 
@@ -735,6 +743,10 @@
 ### 2023-02-24: WinorDLL64 - backdoor from the vast Lazarus arsenal
 - https://www.welivesecurity.com/2023/02/23/winordll64-backdoor-vast-lazarus-arsenal/
 
+
+### 2023-04-11: Inside the international sting operation to catch North Korean crypto hackers
+- https://www.cnn.com/2023/04/09/politics/north-korean-crypto-hackers-crackdown/index.html
+
 ### 2023-04-18: Lazarus Group had hacked 207 computers at 61 local organizations and agencies, including four biotechnology and three defence-related firms. The Lazarus Group targeted a vulnerability in a software essential for Internet banking and electronic financial services and used malicious codes distributed through compromised media websites. A “watering hole” attack was used in the process. Through joint inter-agency response efforts, the Member State blocked further access by the perpetrators.
 
 ### 2023-04-21: BlueNoroff APT group targets macOS with ‘RustBucket’ Malware
@@ -749,6 +761,8 @@
 - https://explore.avertium.com/resource/lazarus-and-the-3cx-double-supply-chain-attack
 - https://krebsonsecurity.com/2023/04/3cx-breach-was-a-double-supply-chain-compromise/
 
+### 2023-05-10: Half of North Korean missile program funded by cyberattacks and crypto theft, White House says
+- https://www.cnn.com/2023/05/10/politics/north-korean-missile-program-cyberattacks/index.html
 
 ### 2023-05-19: APT-C-28 (ScarCruft) Organization Uses Malicious Documents to Deliver RokRAT Attack Activity Analysis
 - https://mp.weixin.qq.com/s/RjvwKH6UBETzUVtXje_bIA
@@ -777,8 +791,11 @@
 ### 2023-07-13: The DPRK strikes using a new variant of RUSTBUCKET
 - https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
 
-### 2023-07-18: Social Engineering Campaign
+### 2023-07-18: Security alert: social engineering campaign targets technology industry employees
 - https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/
+
+### 2023-07-22: June’s Sophisticated npm Attack Attributed to North Korea
+- https://blog.phylum.io/junes-sophisticated-npm-attack-attributed-to-north-korea/
 
 ### 2023-08-22: FBI Identifies Cryptocurrency Funds Stolen by DPRK
 - 3LU8wRu4ZnXP4UM8Yo6kkTiGHM9BubgyiG
@@ -797,6 +814,9 @@
 ### 2023-08-24: Lazarus Group's infrastructure reuse leads to discovery of new malware
 - https://blog.talosintelligence.com/lazarus-collectionrat/
 
+### 2023-10-13: Lazarus Group’s Undercover Operations 2022–2023 - L. Taewoo, S. Lee & D. Kim
+- https://www.youtube.com/watch?v=B5hYzdCSQ2E
+
 ### 2023-10-19: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs
 - https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked
 - https://apnews.com/article/north-korea-weapons-program-it-workers-f3df7c120522b0581db5c0b9682ebc9b
@@ -806,8 +826,18 @@
 - https://www.bleepingcomputer.com/news/security/microsoft-lazarus-hackers-breach-cyberlink-in-supply-chain-attack/
 - https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/
 
-### 2023-10-31: - Lazarus Targets Bloackchain Engineers With New KandyKorn macOS Malware in attacks against blockchain engineers.
+### 2023-10-31: Lazarus Targets Bloackchain Engineers With New KandyKorn macOS Malware in attacks against blockchain engineers.
 - https://securityaffairs.com/153622/uncategorized/lazarus-kandykorn-malware.html
+
+### 2023-11-04: Crypto-Themed npm Packages Found Delivering Stealthy Malware
+- https://blog.phylum.io/crypto-themed-npm-packages-found-delivering-stealthy-malware/
+- puma-com    5.0.3   2023-10-30 01:49:09 troll1234   jacktroll83@gmail.com
+- erc20-testenv   5.0.3   2023-10-31 04:28:15 terek1234   terekhovstanislav2@gmail.com
+- blockledger 5.0.3   2023-10-31 09:03:03 xxx145465   xxx145465@gmail.com
+- cryptotransact  5.0.3   2023-10-31 09:18:57 sandwich1901001 sandwich190100@outlook.com
+- chainflow   5.0.3   2023-11-02 11:40:14 troll1234   jacktroll83@gmail.com
+
+
 
 ### 2023-11-10: Microsoft: BlueNoroff hackers plan new crypto-theft attacks
 - https://www.bleepingcomputer.com/news/security/microsoft-bluenoroff-hackers-plan-new-crypto-theft-attacks/
@@ -815,6 +845,12 @@
 
 ### 2023-11-06: Jamf - BlueNoroff strikes again with new macOS malware
 - https://www.jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/
+
+
+### 2023-11-21: Two South Koreans indicted for allegedly colluding with North Korean hackers
+- https://www.nknews.org/2023/11/two-south-koreans-indicted-for-allegedly-colluding-with-north-korean-hackers/
+- https://www.spo.go.kr/site/spo/ex/board/View.do?cbIdx=1403&bcIdx=1043403
+
 
 ### 2023-11-21: Palo Alto - Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors
 - https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/
@@ -837,6 +873,9 @@
 - https://www.bleepingcomputer.com/news/security/us-govt-sanctions-north-koreas-kimsuky-hacking-group/
 
 
+### 2023-12-07: 疑似Lazarus（APT-Q-1）涉及npm包供应链的攻击样本分析
+- https://mp.weixin.qq.com/s/f5YE12w3x3wad5EO0EB53Q
+
 ### 2023-12-10: Operation Blacksmith: Lazarus targets organizations worldwide using novel Telegram-based malware written in DLang
 - HazyLoad
 - NineRAT
@@ -847,7 +886,20 @@
 ### 2023-12-11: Koda's recent DPRK IoCs
 - https://github.com/0xKoda/ioc-public/blob/main/ioc.json
 
+### 2023-12-22: To stem North Korea’s missiles program, White House looks to its hackers
+- https://www.politico.com/news/2023/12/21/north-korea-missiles-program-hackers-00132871
+
+### 2023-12-23: Kimsuky Hackers Deploying AppleSeed, Meterpreter, and TinyNuke in Latest Attacks
+- https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html
 
 
 
 
+# 2024
+
+### 2024-01-05: Update to November’s Crypto-Themed npm Attack
+- https://blog.phylum.io/update-to-novembers-crypto-themed-npm-attack/
+
+
+### 2023-01-11: Comprehensive Report on North Korean Hackers, Phishing Groups, and Money Laundering in 2023
+- https://slowmist.medium.com/comprehensive-report-on-north-korean-hackers-phishing-groups-and-money-laundering-in-2023-f3ec135ed837
