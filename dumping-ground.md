@@ -93,3 +93,59 @@ All of which are sent to:
 Huihui Wu 17EQoSexhNdc3jYwRJ1exjpwLkNdWzz918
 and Huobi 1MW8QJahh2YXovXpbhDcXAN8MEEL2AUn4n
 and Huobi 1648zkx5W1b55BZwCQnJ4byrbffUpTxfqQ
+
+
+
+
+
+# Degen Reborn Adjacent
+
+- 0x7e1dedacc1581d819c167fe6e39f6684dbda6de4 - Adjacent Thefts?
+- 0x20443fa144d0044d765a47c97aa4b28969303041 - Adjacent Thefts?
+- 0x0952acc863e3a9f679b6f05daba0319b6d8c96ff - Adjacent Thefts?
+- 0x29501e95e09fc0cd8b20dd289aba26ed316da5ef - Adjacent Thefts?
+- 0x7da9d240c2f8bc11d10498a6d9a618c4b573f851 - Adjacent Thefts?
+- 0x4d51a2fde94d833e9bebb22bdddf0a94d40311bf - Adjacent Thefts?
+- 0xc21cecb94667fae60cdfaaea52cbe19727ee0bc9 - Adjacent Thefts?
+- 0xb959d2340cb0fbf95fb60a8ed129285d0141dd48 - Adjacent Thefts?
+- 0x66f378a821d64cf018726150a6787354cacdd370 - Adjacent Thefts?
+- 0x190b71ecffeb8bcde68be86bc959e06baddaea6a - Adjacent Thefts?
+- 0xdf22e8de755535ca3dcc500336aaabbfc2a6e6bc - Adjacent Thefts? - Sends to Nexus Mutual Hack 0x0adab45946372c2be1b94eead4b385210a8ebf0b
+- 0x558d63df14bb5ec2172d2996ae7931e416c985cf - Adjacent Thefts?
+- 0x7d266cae535fbd9eb83344dba8b200f99aa18504 - Adjacent FixedFloats
+- 0x4ddf378b196f6be7564a6d9c6ca94265d4c39687 - Adjacent FixedFloats
+- 0x118bd7bfdc9ec813bece3497b4aecd4449be3a1b - Adjacent FixedFloats
+- 0x2724976de7202d80053cf3072339ed0ff5322f99 - Adjacent FixedFloats
+- 0xb8f25c810124801acc257f297c6aadab5320cef1 - Adjacent FixedFloats
+- 0x0865ed93f4b5cc674502c56a721b6dbc94ba71b3 - Adjacent FixedFloats
+- 0xc9e261b646c36f54eb284efba978b18fc7c82a5c - Adjacent FixedFloats
+- 0x4f8677ff9cd2ae5cde35c3896f9c8d5923744ca4 - Adjacent FixedFloats
+- 0x2779f4e8959913698931cfd7cba6d9bbb41542d7 - Adjacent FixedFloats
+- 0xe74c7f2ff8e8f16d0f378d2953f7d21b4e8fed0c - Adjacent FixedFloats
+- 0x7e4eaacf3f03c4ec467534237839f7d54af034b7 - Adjacent FixedFloats
+- 0xf1a3ee063f9635339906a17fca052d6dcf929afe - Adjacent FixedFloats
+- 0x90db9d92203ff30dbb7be51f62fda117fcc7029e - Adjacent FixedFloats
+- 0x400863b4172b2e33ea987ec7a98f7c5d06630fb1 - Adjacent FixedFloats
+- 0x4f82e2e1b55f96f9da207ca88ac1b00083d48c6d - Adjacent FixedFloats
+
+
+
+
+
+# 0x190b71ecffeb8bcde68be86bc959e06baddaea6a
+
+- i thought it was bondly bc it interacts with mantra/bondly on the day of the bondly hack
+- but i couldnt find the connection
+- but 0x190b71ecffeb8bcde68be86bc959e06baddaea6a receives from 0x558d63df14bb5ec2172d2996ae7931e416c985cf
+- which sends and receives from 0xdf22e8de755535ca3dcc500336aaabbfc2a6e6bc
+- which made me go "wait wtf" bc thats bondly again but in february
+- but 0x0adab45946372c2be1b94eead4b385210a8ebf0b is nexus mutal hack lmfao
+- so all this is def dprk but i dont know what it means
+- oh fucking christ
+- bondly finance 0x2ee6f063e99d93fdf2f276b24cfe982f570ae5df
+- sends to 0x78e3b85d827dcf00fc348f8bceef7b4fcfecc7fc
+- sends to 0x1f098091c1bf31e8aa919db07a6e084b70c74bc9
+- sends to 0x9fd8ef7e3867e962b401bc7289272653fec11245 https://twitter.com/MalviyaOp/status/1658081551002009601
+- receives from 0x5271b379f3e1954e20791142d734596a3de28efd (aug 6 2021 theft)
+- receives from 0x996f5ccbf2856137744603b382de559b78a096fc (laundry)
+- sends to 0x190b71ecffeb8bcde68be86bc959e06baddaea6a (laundry)

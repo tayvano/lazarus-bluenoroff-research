@@ -98,59 +98,65 @@
 - 2020-Aug-07 New York Financial Services Company - $11,800,000
 - 2020-Sep-07 Eterbase - $5,400,000
 - 2020-Sep-26 Kucoin - $280,000,000
-- 2020-Oct-06 CoinMetro - $740,000
-- 2020-Nov-13 L2 Theft - $893,000
-- 2020-Nov-13 Theft from Individual - $893,000
-- 2020-Dec-14 Hugh Karp / Nexus Mutual - $8,000,000
+- 2020-Oct-06 🔑 CoinMetro - $740,000
+- 2020-Nov-13 🔑 L2 - $893,000
+- 2020-Nov-13 🔑 Theft from Individual - $893,000
+- 2020-Dec-14 🔑 Hugh Karp / Nexus Mutual - $8,000,000
 
 ### 2021 - $317,050,000
-- 2021-Apr-19 EasyFi Founder - $81,000,000
-- 2021-May-12 990.1 BTC - $55,600,000
-- 2021-May-17 FinNexus Admin Key Compromise - $7,000,000
-- 2021-Jun-03 NAOs Finance - $750,000
-- 2021-Jun-07 Fetch.ai - $2,600,000
-- 2021-Jul-13 Tower Capital - $Unknown
-- 2021-Jul-14 Bondly Finance - $5,900,000
-- 2021-Aug-18 Liquid Global - $91,000,000
-- 2021-Sep-25 SpookySwap LP - $Unknown
-- 2021-Oct-08 mngr - $18,000,000
-- 2021-Oct-28 Metaplay - $Unknown
-- 2021-Nov-01 YFEthereum (YFETH) Admin Key - $200,000
-- 2021-Nov-03 bZx - $55,000,000
+- 2021-Apr-19 🔑 EasyFi Founder - $81,000,000
+- 2021-May-12 🔑990.1 BTC - $55,600,000
+- 2021-May-17 🔑 FinNexus Admin Key - $7,000,000
+- 2021-Jun-03 🔑 NAOs Finance - $750,000
+- 2021-Jun-07 🔑 Fetch.ai - $2,600,000
+- 2021-Jul-13 🔑 Tower Capital - $Unknown
+- 2021-Jul-14 🔑 Bondly Finance - $5,900,000
+- 2021-Aug-18 👛 Liquid Global - $91,000,000
+- 2021-Sep-25 🔑 SpookySwap LP - $Unknown
+- 2021-Oct-08 🔑 mngr - $18,000,000
+- 2021-Oct-28 🔑 Metaplay - $Unknown
+- 2021-Nov-01 🔑 YFETH Admin Key - $200,000
+- 2021-Nov-03 🔑 bZx - $55,000,000
 
 ### 2022 - $767,638,000
-- 2022-Jan-15 Jan 15 2022 Theft - $555,000
-- 2022-Jan-27 Fantom Allo Receiver - $1,2000,000
-- 2022-Feb-10 Feb 10 2022 Theft - $300,000
-- 2022-Mar-22 Arthur_0x - $1,600,000
-- 2022-Apr-14 Ronin Bridge - $625,000,000
-- 2022-Jun-24 Harmony Horizon Bridge - $100,000,000
-- 2022-Aug-05 deBridge (Attempt) - $0
-- 2022-Oct-31 Oct 31 2022 Theft - $183,000
-- 2022-Nov-02 Deribit - $28,000,000
+- 2022-Jan-15 🔑 Jan 15 2022 - $555,000
+- 2022-Jan-27 🔑 Fantom Allo Receiver - $1,2000,000
+- 2022-Feb-10 🔑 Feb 10 2022 - $300,000
+- 2022-Mar-22 🔑 Arthur_0x - $1,600,000
+- 2022-Apr-14 👛 Ronin Bridge - $625,000,000
+- 2022-Jun-24 👛 Harmony Horizon Bridge - $100,000,000
+- 2022-Aug-05 🔑 deBridge (Attempt) - $0
+- 2022-Oct-31 🔑 Oct 31 2022 - $183,000
+- 2022-Nov-02 👛 Deribit - $28,000,000
 
-### 2023 - $648,625,146
-- 2023-Mar-02 ARBI Token (IT Workers) - $100,000
-- 2023-Apr-10 Terraport (IT Workers) - $3,900,000
-- 2023-Apr-20 3CX - n/a
-- 2023-May-22 LunaFI (IT Workers) - $50,000
-- 2023-Jun-03 Atomic Wallet - $115,000,000
-- 2023-Jul-20 Jumpcloud - n/a
-- 2023-Jul-22 Alphapo + Coinspaid - $97,000,000
-- 2023-Aug-07 Steadefi - $1,140,000
-- 2023-Aug-16 C8 Theft - $1,620,00
-- 2023-Aug-17 SPooCK - $38,032
-- 2023-Sep-04 Stake.com - $41,000,000
-- 2023-Sep-12 CoinEx - $54,000,000
-- 2023-Sep-14 We Are Cult DAO (IT Workers)
-- 2023-Oct-17 Fantom Foundation - $7,624,588
-- 2023-Oct-26 M7 Theft - $19,000,000
-- 2023-Nov-10 Poloniex - $125,000,000
-- 2023-Nov-14 UnoRe DAO (IT Workers) - $219,000
-- 2023-Nov-22 HTX / Heco - $100,000,000
-- 2023-Dec-12 OKX Dex (IT Workers) - $2,390,976
-- 2023-Dec-28 Upwork Developer Jobs - $550
-- 2023-Dec-31 Orbit Bridge - $82,000,000
+### 2023 - $649,889,146
+
+- 2023-Mar-02 💼 ARBI Token - $100,000
+- 2023-Apr-10 💼 Terraport - $3,900,000
+- 2023-May-22 💼 LunaFI - $50,000
+- 2023-Jun-03 👛 Atomic Wallet - $115,000,000
+- 2023-Jul-22 👛 Alphapo + Coinspaid - $97,000,000
+- 2023-Aug-07 🔑 Steadefi - $1,140,000
+- 2023-Aug-16 🔑 C8 - $1,620,00
+- 2023-Aug-17 💼 SPooCK - $38,032
+- 2023-Sep-04 👛 Stake.com - $41,000,000
+- 2023-Sep-12 👛 CoinEx - $54,000,000
+- 2023-Sep-14 💼 We Are Cult DAO 
+- 2023-Oct-17 🔑 Fantom Foundation - $7,624,588
+- 2023-Oct-26 🔑 M7 - $19,000,000
+- 2023-Nov-10 👛 Poloniex - $125,000,000
+- 2023-Nov-10 🔑 Samudai - $1,100,000
+- 2023-Nov-14 💼 UnoRe DAO - $219,000
+- 2023-Nov-22 👛 HTX / Heco - $100,000,000
+- 2023-Dec-10 🔑 DegenReborn - $164,000
+- 2023-Dec-12 💼 OKX Dex - $2,390,976
+- 2023-Dec-31 👛 Orbit Bridge - $82,000,000
+- 2023-Dec-28 💼 Upwork Developer Jobs - $550
+
+
+### 2024 - $1,720,000
+- 2024-01-22 💼 ConcentricFi - $1,720,000
+
 
 ## Total Amount Stolen
 
