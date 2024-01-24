@@ -903,3 +903,10 @@
 
 ### 2023-01-11: Comprehensive Report on North Korean Hackers, Phishing Groups, and Money Laundering in 2023
 - https://slowmist.medium.com/comprehensive-report-on-north-korean-hackers-phishing-groups-and-money-laundering-in-2023-f3ec135ed837
+
+
+### 2023-01-24: North Korea Threat Landscape Update
+- https://thecyberwire.com/podcasts/microsoft-threat-intelligence/10/notes
+
+### 2023-01-24: Funds Stolen from Crypto Platforms Fall More Than 50% in 2023, but Hacking Remains a Significant Threat as Number of Incidents Rises
+- https://www.chainalysis.com/blog/crypto-hacking-stolen-funds-2024/

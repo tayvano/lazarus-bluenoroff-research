@@ -10,7 +10,7 @@
 > "The real purpose of the DPRK’s cyber, military, policy, and political aggressiveness is ultimately to **control and subdue its own population and retain power.**"
 
 
-## Really Good Links
+# Really Good Links
 
 
 - [North Korean Cyber Attacks](https://www.heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat)
@@ -53,222 +53,250 @@
 
 
 
-## Hacks & Thefts
+# Background
 
-- https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/hacks-and-thefts
-
-### 2017 - $109,490,000
-- 2017 - Youbit aka Yapizon aka Coinbin - $5,300,000
-- 2017 - Bithumb - $40,000,000
-- 2017-May-12 Wannacry - $Unknown
-- 2017-Jul-15 2017 Cryptojacking Incidents - $Unknown
-- 2017-Sep-23 Coinis - $2,190,000
-- 2017-Dec-06 NiceHash - $62,000,000
-
-### 2018 - $430,265,000
-- 2018 - Marine Chain
-- 2018-Mar-18 Cypherium - $8,500,000
-- 2018-Apr-12 Coinsecure - $3,500,000
-- 2018-Apr-19 E7 - $5,000,000
-- 2018-Apr-21 Gate.io - $250,000,000
-- 2018-May-29 Taylor ICO - $1,700,000
-- 2018-Jun-09 Coinrail - $40,000,000
-- 2018-Jun-16 G13 Theft - $275,000
-- 2018-Jul-09 Bancor - $23,000,000
-- 2018-Aug-07 BTC Markets - $3,500,000
-- 2018-Aug-09 Klickl IDCM - $620,000
-- 2018-Sep-01 Indodax - $24,900,000
-- 2018-Sep-14 Zaif - $59,000,000
-- 2018-Oct-20 Trade.io - $10,000,000
-- 2018-Nov-04 Kryptono - $270,000
-
-### 2019 - $191,794,000
-- 2019-Jan-14 Cryptopia - $16,000,000
-- 2019-Mar-23 Etbox - $132,000
-- 2019-Mar-24 DragonEx - $7,090,000
-- 2019-Mar-25 Coinbene - $105,000,000
-- 2019-Mar-26 BiKi - $12,300,000
-- 2019-Jun-30 Bitcoin Norway (AlphaPoint) - $500,000
-- 2019-Jul-01 CoinTiger - $272,000
-- 2019-Sep-25 Algo Capital - $2,000,000
-- 2019-Nov-27 Upbit - $48,500,000
-
-### 2020 - $307,726,000
-- 2020 - BTC Changers - $Unknown
-- 2020-Aug-07 New York Financial Services Company - $11,800,000
-- 2020-Sep-07 Eterbase - $5,400,000
-- 2020-Sep-26 Kucoin - $280,000,000
-- 2020-Oct-06 🔑 CoinMetro - $740,000
-- 2020-Nov-13 🔑 L2 - $893,000
-- 2020-Nov-13 🔑 Theft from Individual - $893,000
-- 2020-Dec-14 🔑 Hugh Karp / Nexus Mutual - $8,000,000
-
-### 2021 - $317,050,000
-- 2021-Apr-19 🔑 EasyFi Founder - $81,000,000
-- 2021-May-12 🔑990.1 BTC - $55,600,000
-- 2021-May-17 🔑 FinNexus Admin Key - $7,000,000
-- 2021-Jun-03 🔑 NAOs Finance - $750,000
-- 2021-Jun-07 🔑 Fetch.ai - $2,600,000
-- 2021-Jul-13 🔑 Tower Capital - $Unknown
-- 2021-Jul-14 🔑 Bondly Finance - $5,900,000
-- 2021-Aug-18 👛 Liquid Global - $91,000,000
-- 2021-Sep-25 🔑 SpookySwap LP - $Unknown
-- 2021-Oct-08 🔑 mngr - $18,000,000
-- 2021-Oct-28 🔑 Metaplay - $Unknown
-- 2021-Nov-01 🔑 YFETH Admin Key - $200,000
-- 2021-Nov-03 🔑 bZx - $55,000,000
-
-### 2022 - $767,638,000
-- 2022-Jan-15 🔑 Jan 15 2022 - $555,000
-- 2022-Jan-27 🔑 Fantom Allo Receiver - $1,2000,000
-- 2022-Feb-10 🔑 Feb 10 2022 - $300,000
-- 2022-Mar-22 🔑 Arthur_0x - $1,600,000
-- 2022-Apr-14 👛 Ronin Bridge - $625,000,000
-- 2022-Jun-24 👛 Harmony Horizon Bridge - $100,000,000
-- 2022-Aug-05 🔑 deBridge (Attempt) - $0
-- 2022-Oct-31 🔑 Oct 31 2022 - $183,000
-- 2022-Nov-02 👛 Deribit - $28,000,000
-
-### 2023 - $649,889,146
-
-- 2023-Mar-02 💼 ARBI Token - $100,000
-- 2023-Apr-10 💼 Terraport - $3,900,000
-- 2023-May-22 💼 LunaFI - $50,000
-- 2023-Jun-03 👛 Atomic Wallet - $115,000,000
-- 2023-Jul-22 👛 Alphapo + Coinspaid - $97,000,000
-- 2023-Aug-07 🔑 Steadefi - $1,140,000
-- 2023-Aug-16 🔑 C8 - $1,620,00
-- 2023-Aug-17 💼 SPooCK - $38,032
-- 2023-Sep-04 👛 Stake.com - $41,000,000
-- 2023-Sep-12 👛 CoinEx - $54,000,000
-- 2023-Sep-14 💼 We Are Cult DAO 
-- 2023-Oct-17 🔑 Fantom Foundation - $7,624,588
-- 2023-Oct-26 🔑 M7 - $19,000,000
-- 2023-Nov-10 👛 Poloniex - $125,000,000
-- 2023-Nov-10 🔑 Samudai - $1,100,000
-- 2023-Nov-14 💼 UnoRe DAO - $219,000
-- 2023-Nov-22 👛 HTX / Heco - $100,000,000
-- 2023-Dec-10 🔑 DegenReborn - $164,000
-- 2023-Dec-12 💼 OKX Dex - $2,390,976
-- 2023-Dec-31 👛 Orbit Bridge - $82,000,000
-- 2023-Dec-28 💼 Upwork Developer Jobs - $550
+[https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md)
 
 
-### 2024 - $1,720,000
-- 2024-01-22 💼 ConcentricFi - $1,720,000
+
+# Evolution
+
+[https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md)
 
 
-## Total Amount Stolen
-
-#### Amount Documented in this Repo: **$2.7 Billion**
-
-- 2023 - $648,625,146
-- 2022 - $767,638,000
-- 2021 - $317,050,000
-- 2020 - $307,726,000
-- 2019 - $191,794,000
-- 2018 - $430,265,000
-- 2017 - $109,490,000
-- 2016 - n/a
 
 
-#### Chainalysis' Total Amount Stolen: **$3.2 Billion**
+# Hacks, Thefts, and Total Amounts Stolen
 
-- 2023: Coming Jan 2024
-- 2022: $1,650,000,000
-- 2021: $428,800,000
-- 2020: $300,000,000
-- 2019: $271,000,000
-- 2018: $522,000,000
-- 2017: $30,000,000
-- 2016: $1,500,000
 
-- https://www.chainalysis.com/blog/2022-biggest-year-ever-for-crypto-hacking/
+| This&nbsp;Repo | Value Stolen | Incidents |  | Chainalysis | Value Stolen | Incidents |  | TRM | Value Stolen | Incidents |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2023 | $649,889,146 | 20 |  | 2023 | $1,000,000,000 | 20 |  | 2023 | $600,000,000 | ? |
+| 2022 | $767,638,000 | 9 |  | 2022 | $1,650,000,000 | 15 |  | 2022 | $850,000,000 | ? |
+| 2021 | $317,050,000 | 13 |  | 2021 | $428,800,000 | 9 |  | 2021 | $250,000,000 | ? |
+| 2020 | $307,726,000 | 8 |  | 2020 | $300,000,000 | 5 |  | 2020 | $290,000,000 | ? |
+| 2019 | $191,794,000 | 9 |  | 2019 | $271,000,000 | 9 |  | 2019 | $200,000,000 | ? |
+| 2018 | $430,265,000 | 15 |  | 2018 | $522,000,000 | 10 |  | 2018 | $400,000,000 | ? |
+| 2017 | $109,490,000 | 6 |  | 2017 | $29,000,000 | 4 |  | 2017 | $100,000,000 | ? |
+| 2016 | 0 | 0 |  | 2016 | $1,500,000 | 1 |  | 2016 | 0 | ? |
+| **Total:** | **$2,773,852,146** | 80 |  | **Total:** | **$4,202,300,000** | 73 |  | **Total:** | **$2,690,000,000** | 0 |
 
-#### TRM's Total Amount Stolen: **$2.7 Billion**
+
+## Amount Documented in this Repo: **$2.7 Billion**
+
+[https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/hacks-and-thefts](https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/hacks-and-thefts)
+
+
+|  | Value Stolen | Incident Count |
+| ---- | ---- | ---- |
+| 2024 |   $1,720,000 | 1 |
+| 2023 | $649,889,146 | 20 |
+| 2022 | $767,638,000 | 9 |
+| 2021 | $317,050,000 | 13 |
+| 2020 | $307,726,000 | 8 |
+| 2019 | $191,794,000 | 9 |
+| 2018 | $430,265,000 | 15 |
+| 2017 | $109,490,000 | 6 |
+| 2016 | 0 | 0 |
+
+### Breakdown of Incidents
+
+|  |  |  |  |
+| ---- | ---- | ---- | ---- |
+| 2017 |  | Youbit aka Yapizon aka Coinbin | $5,300,000 |
+| 2017 |  | Bithumb | $40,000,000 |
+| 2017-May-12 |  | Wannacry | $Unknown |
+| 2017-Jul-15 |  | 2017 Cryptojacking Incidents | $Unknown |
+| 2017-Sep-23 |  | Coinis | $2,190,000 |
+| 2017-Dec-06 |  | NiceHash | $62,000,000 |
+| **2017** |  | **TOTAL** | **$109,490,000** |
+|  |  |  |  |
+| 2018 |  | Marine Chain | $Unknown |
+| 2018-Mar-18 |  | Cypherium | $8,500,000 |
+| 2018-Apr-12 |  | Coinsecure | $3,500,000 |
+| 2018-Apr-19 |  | E7 | $5,000,000 |
+| 2018-Apr-21 |  | Gate.io | $250,000,000 |
+| 2018-May-29 |  | Taylor ICO | $1,700,000 |
+| 2018-Jun-09 |  | Coinrail | $40,000,000 |
+| 2018-Jun-16 |  | G13 Theft | $275,000 |
+| 2018-Jul-09 |  | Bancor | $23,000,000 |
+| 2018-Aug-07 |  | BTC Markets | $3,500,000 |
+| 2018-Aug-09 |  | Klickl IDCM | $620,000 |
+| 2018-Sep-01 |  | Indodax | $24,900,000 |
+| 2018-Sep-14 |  | Zaif | $59,000,000 |
+| 2018-Oct-20 |  | Trade.io | $10,000,000 |
+| 2018-Nov-04 |  | Kryptono | $270,000 |
+| **2018** |  | **TOTAL** | **$430,265,000** |
+|  |  |  |  |
+| 2019-Jan-14 | 🔑 | Cryptopia | $16,000,000 |
+| 2019-Mar-23 | 👛 | Etbox | $132,000 |
+| 2019-Mar-24 | 👛 | DragonEx | $7,090,000 |
+| 2019-Mar-25 | 🔑 | Coinbene | $105,000,000 |
+| 2019-Mar-26 | 👛 | BiKi | $12,300,000 |
+| 2019-Jun-30 | 👛 | Bitcoin Norway (AlphaPoint) | $500,000 |
+| 2019-Jul-01 | 🔑 | CoinTiger | $272,000 |
+| 2019-Sep-25 | 🔑 | Algo Capital | $2,000,000 |
+| 2019-Nov-27 | 👛 | Upbit | $48,500,000 |
+| **2019** |  | **TOTAL** | **$191,794,000** |
+|  |  |  |  |
+| 2020 |  | BTC Changers | $Unknown |
+| 2020-Aug-07 | 👛 | New York Financial Services Company | $11,800,000 |
+| 2020-Sep-07 | 👛 | Eterbase | $5,400,000 |
+| 2020-Sep-26 | 👛 | Kucoin | $280,000,000 |
+| 2020-Oct-06 | 🔑 | CoinMetro | $740,000 |
+| 2020-Nov-13 | 🔑 | L2 | $893,000 |
+| 2020-Nov-13 | 🔑 | Theft from Individual | $893,000 |
+| 2020-Dec-14 | 🔑 | Hugh Karp / Nexus Mutual | $8,000,000 |
+| **2020** |  | **TOTAL** | **$307,726,000** |
+|  |  |  |  |
+| 2021-Apr-19 | 🔑 | EasyFi Founder | $81,000,000 |
+| 2021-May-12 | 🔑 | 990.1 BTC | $55,600,000 |
+| 2021-May-17 | 🔑 | FinNexus Admin Key | $7,000,000 |
+| 2021-Jun-03 | 🔑 | NAOs Finance | $750,000 |
+| 2021-Jun-07 | 🔑 | Fetch.ai | $2,600,000 |
+| 2021-Jul-13 | 🔑 | Tower Capital | $Unknown |
+| 2021-Jul-14 | 🔑 | Bondly Finance | $5,900,000 |
+| 2021-Aug-18 | 👛 | Liquid Global | $91,000,000 |
+| 2021-Sep-25 | 🔑 | SpookySwap LP | $Unknown |
+| 2021-Oct-08 | 🔑 | mngr | $18,000,000 |
+| 2021-Oct-28 | 🔑 | Metaplay | $Unknown |
+| 2021-Nov-01 | 🔑 | YFETH Admin Key | $200,000 |
+| 2021-Nov-03 | 🔑 | bZx | $55,000,000 |
+| **2021** |  | **TOTAL** | **$317,050,000** |
+|  |  |  |  |
+| 2022-Jan-15 | 🔑 | Jan 15 2022 | $555,000 |
+| 2022-Jan-27 | 🔑 | Fantom Allo Receiver | $12,000,000 |
+| 2022-Feb-10 | 🔑 | Feb 10 2022 | $300,000 |
+| 2022-Mar-22 | 🔑 | Arthur_0x | $1,600,000 |
+| 2022-Apr-14 | 👛 | Ronin Bridge | $625,000,000 |
+| 2022-Jun-24 | 👛 | Harmony Horizon Bridge | $100,000,000 |
+| 2022-Aug-05 | 🔑 | deBridge (Attempt) | $0 |
+| 2022-Oct-31 | 🔑 | Oct 31 2022 | $183,000 |
+| 2022-Nov-02 | 👛 | Deribit | $28,000,000 |
+| **2022** |  | **TOTAL** | **$767,638,000** |
+|  |  |  |  |
+| 2023-Mar-02 | 💼 | ARBI Token | $100,000 |
+| 2023-Apr-10 | 💼 | Terraport | $3,900,000 |
+| 2023-May-22 | 💼 | LunaFI | $50,000 |
+| 2023-Jun-03 | 👛 | Atomic Wallet | $115,000,000 |
+| 2023-Jul-22 | 👛 | Alphapo + Coinspaid | $97,000,000 |
+| 2023-Aug-07 | 🔑 | Steadefi | $1,140,000 |
+| 2023-Aug-16 | 🔑 | C8 | $1,620,00 |
+| 2023-Aug-17 | 💼 | SPooCK | $38,032 |
+| 2023-Sep-04 | 👛 | Stake.com | $41,000,000 |
+| 2023-Sep-12 | 👛 | CoinEx | $54,000,000 |
+| 2023-Sep-14 | 💼 | We Are Cult DAO |  |
+| 2023-Oct-17 | 🔑 | Fantom Foundation | $7,624,588 |
+| 2023-Oct-26 | 🔑 | M7 | $19,000,000 |
+| 2023-Nov-10 | 👛 | Poloniex | $125,000,000 |
+| 2023-Nov-10 | 🔑 | Samudai | $1,100,000 |
+| 2023-Nov-14 | 💼 | UnoRe DAO | $219,000 |
+| 2023-Nov-22 | 👛 | HTX / Heco | $100,000,000 |
+| 2023-Dec-10 | 🔑 | DegenReborn | $164,000 |
+| 2023-Dec-12 | 💼 | OKX Dex | $2,390,976 |
+| 2023-Dec-31 | 👛 | Orbit Bridge | $82,000,000 |
+| 2023-Dec-28 | 💼 | Upwork Developer Jobs | $550 |
+| **2023** |  | **TOTAL** | **$649,889,146** |
+|  |  |  |  |
+| 2024-01-22 | 💼 | ConcentricFi | $1,720,000 |
+| **2024** |  | **TOTAL** | **$1,720,000** |
+
+
+
+## Chainalysis' Total Amount Stolen: **$4.2 Billion**
+
+[https://www.chainalysis.com/blog/2022-biggest-year-ever-for-crypto-hacking/](https://www.chainalysis.com/blog/2022-biggest-year-ever-for-crypto-hacking/)
+
+[https://www.chainalysis.com/blog/crypto-hacking-stolen-funds-2024/](https://www.chainalysis.com/blog/crypto-hacking-stolen-funds-2024/)
+
+![](./images/chainalysis-2016_2024.png)
+
+|  | Value Stolen | Incident Count |
+| ---- | ---- | ---- |
+| 2023 | $1,000,000,000 | 20 |
+| 2022 | $1,650,000,000 | 15 |
+| 2021 | $428,800,000 | 9 |
+| 2020 | $300,000,000 | 5 |
+| 2019 | $271,000,000 | 9 |
+| 2018 | $522,000,000 | 10 |
+| 2017 | $29,000,000 | 4 |
+| 2016 | $1,500,000 | 1 |
+
+
+
+## TRM's Total Amount Stolen: **$2.7 Billion**
 
 ![](./images/TRM-2017_2023.jpg)
 
-- 2023: $600,000,000 
-- 2022: $850,000,000
-- 2021: $250,000,000
-- 2020: $290,000,000
-- 2019: $200,000,000
-- 2018: $400,000,000
-- 2017: $100,000,000
-- 2016: n/a
+|  | Value Stolen |
+| ---- | ---- |
+| 2023 | $600,000,000 |
+| 2022 | $850,000,000 |
+| 2021 | $250,000,000 |
+| 2020 | $290,000,000 |
+| 2019 | $200,000,000 |
+| 2018 | $400,000,000 |
+| 2017 | $100,000,000 |
+| 2016 | 0 |
 
 _(numbers approximate, obviously)_
 
 
 
-
-
-
-## Background
-
-- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md
-
-
-
-## Evolution
-
-- https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md
-
-
-
 ## PDFs - Indictments & Formal Reports
 
-- https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs
+https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs
 
 #### List of all PDFs
 
-- 2007       CHRG 109shrg28241
-- 2014-02-01 KEI aps mansourov
-- 2014-12-01 HPSR Security Briefing: North Korea
-- 2015-12-16 CSIS: North Koreas Cyber Operations
-- 2016-08-09 Korean Special Asymmetric Paramilitary Forces
-- 2017-04-03 Kaspersky: Lazarus Under The Hood PDF final
-- 2017-05-30 GroupIB: Lazarus Arisen
-- 2017-08-01 US Army: North Korean Cyber Support
-- 2018-01-01 CRS R44912
-- 2018-06-08 USA v PARK JIN HYOK ⭐
-- 2018-10-01 North Korea CEEW
-- 2019-01-29 ATA SFR SSCI
-- 2019-08-30 UN: Security Report S/2019/691
-- 2019       North Koreas Cyber Threat: The All Purpose Sword
-- 2020-01-01 Recorded Future: Internet
-- 2020-02-01 North Korea Cyber Operations
-- 2020-02-05 USA v FTB
-- 2020-03-02 USA v 113 (Yinyin) ⭐
-- 2020-06-01 CryptoCore Group
-- 2020-06-25 USA v Abbas
-- 2020-07-01 ATP7 100
-- 2020-08-27 USA v 280 Virtual Currency Accts ⭐
-- 2020-11-17 USA v Ghaleb Alaumary
-- 2020-11-17 USA v Ghaleb Alaumary
-- 2020-12-08 USA v JON CHANG HYOK PARK JIN HYOK ⭐
-- 2021-01-01 North Korea Military Power
-- 2021-03-01 North Korea IB
-- 2021-03-04 UN Security Council S/2021/211
-- 2021-04-09 ATA 2021 Unclassified Report
-- 2021-09-02 North Korean Cyberattacks
-- 2022-03-01 UN: Security Report N2225209
-- 2022-05-16 OFAC IT Workers Advisory
-- 2023-03-04 Mandiant: APT43 Report
-- 2023-03-07 UN Security Report N2303794
-- 2023-04-18 USA v Sim Hyon Sop 00129 ⭐
-- 2023-04-18 USA v Sim Hyon Sop 00128 ⭐
-- 2023-06-05 SEC v Binance
-- 2023-06-22 Recorded Future NK Cyber Strategy
-- 2023-10-18 USA IT Workers 1134350 redacted ⭐
-- 2023-10-18 USA IT Workers 12 domain names redacted
-- 2023-10-18 USA IT Workers 397674 redacted
-- 2023-10-18 USA IT Workers 5 domain names redacted
-- 2023-11-01 USA v Binance
-- 2023-11-20 FinCEN Binance Consent Order
-- 2023-11-23 Kim Jong Un New Maybach
-- 2023-11-30 Recorded Future Crypto Country
+| Date |  | Document |
+| ---- | ---- | ---- |
+| 2007 |  | CHRG 109shrg28241 |
+| 2014-02-01 |  | KEI aps mansourov |
+| 2014-12-01 |  | HPSR Security Briefing: North Korea |
+| 2015-12-16 |  | CSIS: North Koreas Cyber Operations |
+| 2016-08-09 |  | Korean Special Asymmetric Paramilitary Forces |
+| 2017-04-03 |  | Kaspersky: Lazarus Under The Hood PDF final |
+| 2017-05-30 |  | GroupIB: Lazarus Arisen |
+| 2017-08-01 |  | US Army: North Korean Cyber Support |
+| 2018-01-01 |  | CRS R44912 |
+| 2018-06-08 | ⭐ | USA v PARK JIN HYOK |
+| 2018-10-01 |  | North Korea CEEW |
+| 2019-01-29 |  | ATA SFR SSCI |
+| 2019-08-30 |  | UN: Security Report S/2019/691 |
+| 2019 |  | North Koreas Cyber Threat: The All Purpose Sword |
+| 2020-01-01 |  | Recorded Future: Internet |
+| 2020-02-01 |  | North Korea Cyber Operations |
+| 2020-02-05 |  | USA v FTB |
+| 2020-03-02 | ⭐ | USA v 113 (Yinyin) |
+| 2020-06-01 |  | CryptoCore Group |
+| 2020-06-25 |  | USA v Abbas |
+| 2020-07-01 |  | ATP7 100 |
+| 2020-08-27 | ⭐ | USA v 280 Virtual Currency Accts |
+| 2020-11-17 |  | USA v Ghaleb Alaumary |
+| 2020-11-17 |  | USA v Ghaleb Alaumary |
+| 2020-12-08 | ⭐ | USA v JON CHANG HYOK PARK JIN HYOK |
+| 2021-01-01 |  | North Korea Military Power |
+| 2021-03-01 |  | North Korea IB |
+| 2021-03-04 |  | UN Security Council S/2021/211 |
+| 2021-04-09 |  | ATA 2021 Unclassified Report |
+| 2021-09-02 |  | North Korean Cyberattacks |
+| 2022-03-01 |  | UN: Security Report N2225209 |
+| 2022-05-16 |  | OFAC IT Workers Advisory |
+| 2023-03-04 |  | Mandiant: APT43 Report |
+| 2023-03-07 |  | UN Security Report N2303794 |
+| 2023-04-18 | ⭐ | USA v Sim Hyon Sop 00129 |
+| 2023-04-18 | ⭐ | USA v Sim Hyon Sop 00128 |
+| 2023-06-05 |  | SEC v Binance |
+| 2023-06-22 |  | Recorded Future NK Cyber Strategy |
+| 2023-10-18 | ⭐ | USA IT Workers 1134350 redacted |
+| 2023-10-18 |  | USA IT Workers 12 domain names redacted |
+| 2023-10-18 |  | USA IT Workers 397674 redacted |
+| 2023-10-18 |  | USA IT Workers 5 domain names redacted |
+| 2023-11-01 |  | USA v Binance |
+| 2023-11-20 |  | FinCEN Binance Consent Order |
+| 2023-11-23 |  | Kim Jong Un New Maybach |
+| 2023-11-30 |  | Recorded Future Crypto Country |
 
 ### USA v PARK JIN HYOK (2018)
 
