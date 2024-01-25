@@ -1,5 +1,7 @@
 # Bithumb Hacks x 4
 
+Tags:: "Inside Job", South Korea, CEX Hack, Spear-Phishing
+
 The best I have ever been able to parse out, the four separate hacks are as follows:
 
 - February 7th, 2017: ~$7 million or more. Or maybe 30k PII records.
@@ -32,8 +34,6 @@ Bithumb has said regarding either the June 2018 hack or March 2019 hack that:
 # June 19th, 2018 - Bithumb CEX Hack - $31m
 
 Laundered Via:: YoBit
-
-South Korea Spear-Phishing
 
 Attribution:: DPRK/High Confidence - UN Security Council - August 30th, 2019 2019 Midterm Report - http://undocs.org/S/2019/691 - https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf)
 
@@ -92,8 +92,6 @@ https://news.bitcoin.com/north-korean-hackers-threatened-bithumb-16m-ransom-amid
 
 
 # March 29th, 2019 - Bithumb - CEX Hack - $19.4M
-
-Tags:: South Korea CEX Hack EOS XRP Spear-Phishing
 
 Attribution:: DPRK/High Confidence - UN Security Council 
 

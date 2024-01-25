@@ -4,7 +4,7 @@ Date:: November 27th, 2019
 
 Amount Stolen:: $48.5M (342,000 ETH)
 
-Tags:: CEX Hack, Private Key Compromise, Inside Job, DPRK
+Tags:: CEX Hack, Private Key Compromise, "Inside Job"
 
 
 

@@ -6,6 +6,8 @@ Amount Stolen:: $2,000,000
 
 Time:: 12:29 p.m. PDT
 
+Tags:: Investment Fund, "Inside Job"
+
 
 
 ## Details

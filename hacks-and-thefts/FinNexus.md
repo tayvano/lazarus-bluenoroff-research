@@ -4,7 +4,7 @@ Date:: May 17th, 2021
 
 Amount Stolen:: $7,000,000
 
-Tags:: Inside Job
+Tags:: "Inside Job"
 
 # Description
 

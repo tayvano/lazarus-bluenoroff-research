@@ -8,7 +8,7 @@ Attribution:: DPRK/High Confidence
 
 Laundered Via:: IDEX 
 
-Tags:: Account Takeover, Private Key Compromise, Inside Job, 1Password, ICO Theft, DPRK
+Tags:: Account Takeover, Private Key Compromise, "Inside Job", 1Password, ICO Theft, DPRK
 
 
 ## Details

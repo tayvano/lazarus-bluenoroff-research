@@ -4,7 +4,7 @@ Date:: August 18, 2021
 
 Amount Stolen:: $91,000,000 (107 BTC, 9M TRON, 11M XRP, $60M in ERC-20s)
 
-Tags:: Inside Job, DPRK
+Tags:: "Inside Job"
 
 
 ## Details

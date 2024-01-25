@@ -4,7 +4,7 @@ Date:: August 7th, 2023
 
 Amount Stolen:: $1,140,000
 
-Tags:: Inside Job, DPRK
+Tags:: "Inside Job"
 
 ## Details
 
