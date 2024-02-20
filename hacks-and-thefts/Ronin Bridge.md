@@ -4,13 +4,13 @@ Date:: April 14th, 2022
 
 Amount Stolen:: $600,000,000
 
+Laundered Via:: Tornado Cash, FTX, Huobi and Crypto.com
+
 ## Details
 
 The FBI continues to combat malicious cyber activity including the threat posed by the Democratic People's Republic of Korea to the U.S. and our private sector partners. Through our investigation we were able to confirm Lazarus Group and APT38, cyber actors associated with the DPRK,  are responsible for the theft of $620 million in Ethereum reported on March 29. The FBI, in coordination with Treasury and other U.S. government partners, will continue to expose and combat the DPRK’s use of illicit activities – including cybercrime and cryptocurrency theft – to generate revenue for the regime.
 
 Network lost $625M after an attacker compromised 5 of its Validators were compromised  and generated valid transaction signature. 
-
-Laundered Via:: FTX, Huobi and Crypto.com
 
 The massive hack was only noticed 6 days later after a user reported trouble withdrawing the the bridge.
 
@@ -54,55 +54,427 @@ https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-mo
 
 https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge
 
+
+
+## April 14th, 2022 - Report: The FBI attributed North Korea based Lazarus Group to the Ronin Bridge -  Addresses added to OFAC list
+
+According to the FBI, the infamous cybercrime group Lazarus has been implicated in the March Axie Infinity exploit that saw $625 million taken from the game's blockchain bridge.
+
+Lazarus are a criminal group with strong ties to North Korea, and are suspected of being behind infamous cyberattacks including the [WannaCry ransomware that impacted a wide number of industries including hospitals and manufacturing, as well as legislative and justice systems.
+
+The U.S.Treasury department has added the crypto wallet that received the stolen funds to its sanctions list, which may make it substantially harder for the attackers to withdraw the money.
+
+The wallet still contains around 150,000 ETH, valued at around $445 million, but has been slowly siphoning it out to various other wallets, exchanges, and tumblers over the past weeks.
+
+Validator Security Breach US Treasury Department has sanctioned the address that received the stolen funds.  
+
+
 ## On-Chain
 
-- 0x002c93452d54b6d64bfa9879fcab14a74f1bdd44
-- 0x036587e77eabe6a7e181886a5a6ed10dc25654f9
-- 0x098B716B8Aaf21512996dC57EB0615e2383E2f96
-- 0x0dcb08eabb2bedf838226fb7b2c15a69132df8b2
-- 0x13113ccfe609c081bb9a7f7d69484b96b90b39fc
-- 0x15e270175f4f2347153d4d113b459590888613e7
-- 0x1aff30f79a05d6505c7846c13dd669858eb52f49
-- 0x24b6694982843b03c75bb25e1fb74167b55b57b6
-- 0x28f080edf51145c3f511415b8c2afaebb605a70b
-- 0x29fc9b71492ec63696cf9cd56e9832a42b0dced0
-- 0x3f1b0a5064cc517aa6a2f31f8f07a206f4d7f07a
-- 0x49788613913050ce0da9c8313654cee3f4848a9e
-- 0x4bf2c2956942b2dd40517bce423917311f564d16
-- 0x4fe666ecc5263f5dbb34adb8bc1c8cbb9bbcd1cc
-- 0x5967524ce3bc2bc422e584e33bd50921a22e3c0a
-- 0x5b5082214d62585d686850ab8d9e3f6b6a5c58ff
-- 0x5d84a732b355ada31a36b33c446e3dee28f51555
-- 0x622163f3f21752d359216343df88e9108495ca14
-- 0x77532dd2eb6e8eaf416f39c65f48cd2369782828
-- 0x7e3167771bf23ac10930803589d1424903b36584
-- 0x8c5f8af7a932613efe12cc25d38387e9654517a7
-- 0x8fa7b50fc8306ab3de028254df72bf08216742b6
-- 0x930a2e736f91680dca726d8db87a7beca443f2bd
-- 0x93df2c9c8786242b8fdca3f96b3914b8b4a9f704
-- 0x979443bebd684daee44ea7a6d599bd6ed4cafd55
-- 0x99b6843f8410ee696b7487a5535dd5b0ca32a12d
-- 0x9b72b693440042c3a8045c569c1f9b61b5a92fa9
-- 0x9e1e41985048c07a68a67f632f82799baaf903b1
-- 0x9ec8433487939bc432e79fa471a8605610659e41
-- 0xa3d34ba0400a3952a6c81c4629c3971f1537ae6f
-- 0xa4ade1e23f0f98524727797b4975b450a4a8775c
-- 0xa58b6105e208cb23e7566d69120319e30a1a9ec4
-- 0xab346efef1ffe377cdad686abeab62e83df1099f
-- 0xbad37a7dfea2aa4fa0198ee4c644632a2d7c91c2
-- 0xbc25d57412a04956cdd95af07825c5c1f34d29eb
-- 0xc68b2c011f8df2190f239ddf5d49cb59324528e7
-- 0xcb3106424ff43365f084df13aba1526769120a79
-- 0xd98d925685908152f18c32697e0d3894a5c672c0
-- 0xdd6458eb5090832eb88bffc7adf39b0f3cdd6683
-- 0xde4612757719829d1df069213a5f4317bb7503e7
-- 0xe8b2b5a8a4174b256828fca0f40a8831521160e5
-- 0xedb60566f3fd86c2cd9db744d59f019dae0e45a6
-- 0xf5806e5c1c9402dcc87e9adf47bc7bc2f18cf556
-- 0xf7b31119c2682c88d88d455dbb9d5932c65cf1be
-- 0xf945fa5b71cfaa2736b427b7213cff14cc83279c
-- 0xfe4a0d465636ba3f6906818af88c1e01ae0d9d6e
-
+0x098b716b8aaf21512996dc57eb0615e2383e2f96 - Primary
+0xe708f17240732bbfa1baa8513f66b665fbc7ce10 - March 23 - Used for swapping
+0x665660f65e94454a64b96693a67a41d440155617 - March 23 - Used for swapping
+0xf7b31119c2682c88d88d455dbb9d5932c65cf1be - Intermediary to TC
+0x35fb6f6db4fb05e6a4ce86f2c93691425626d4b1 - Intermediary to TC
+0x53b6936513e738f44fb50d2b9476730c0ab3bfc1 - Intermediary to TC
+0x08723392ed15743cc38513c4925f5e6be5c17243 - Intermediary to TC
+0x3e37627deaa754090fbfbb8bd226c1ce66d255e9 - Intermediary to TC
+0x3cffd56b47b7b41c56258d9c7731abadc360e073 - Intermediary to TC
+0xa0e1c89ef1a489c9c7de96311ed5ce5d32c20e4b - Intermediary to TC
+0x8b4959bc175d93d41d6ca278296ce714881c8b0f - April 7 Dormant
+0x776b80e3fd97516ae3a2579cf4eae5ff5867d0f3 - Intermediary to CEX
+0x9fae13de16d34873246e48b514fc88581751533f - Intermediary to CEX
+0xdb3a63562bb7afd44e6b6be8c8269f807c39f5fa - Intermediary to CEX
+0x5d84a732b355ada31a36b33c446e3dee28f51555 - Intermediary to CEX
+0x29fc9b71492ec63696cf9cd56e9832a42b0dced0 - Intermediary to CEX
+0x4fe666ecc5263f5dbb34adb8bc1c8cbb9bbcd1cc - Intermediary to CEX
+0x7e3167771bf23ac10930803589d1424903b36584 - Intermediary to CEX
+0x17a96cd2aff8bece22b54a83955fbab5c92a98ca - Huobi Deposit Address
+0xbc771fb7b6a8876d09fd2e3e2f17fbc91896d8c8 - Huobi Deposit Address
+0x6102f081de19eb53404b684b4e14667745a4c874 - Huobi Deposit Address
+0xf49fa9956cd53c4581a974a7fd535a15c47b954a - Huobi Deposit Address
+0x5b5082214d62585d686850ab8d9e3f6b6a5c58ff - Huobi Deposit Address
+0xa9bfdc186c6bcf058fbb5bf62046d7bc74e96ce2 - Huobi Deposit Address
+0x036587e77eabe6a7e181886a5a6ed10dc25654f9 - FTX Deposit Address
+0x82906886796d110b7ec4c54f6611fb29128699dd - Cryptocom Deposit Address
+0x13113ccfe609c081bb9a7f7d69484b96b90b39fc - TC Depositor
+0x1aff30f79a05d6505c7846c13dd669858eb52f49 - TC Depositor
+0x3f1b0a5064cc517aa6a2f31f8f07a206f4d7f07a - TC Depositor
+0x99b6843f8410ee696b7487a5535dd5b0ca32a12d - TC Depositor
+0xa4ade1e23f0f98524727797b4975b450a4a8775c - TC Depositor
+0xa58b6105e208cb23e7566d69120319e30a1a9ec4 - TC Depositor
+0xcb3106424ff43365f084df13aba1526769120a79 - TC Depositor
+0xd98d925685908152f18c32697e0d3894a5c672c0 - TC Depositor
+0xf5806e5c1c9402dcc87e9adf47bc7bc2f18cf556 - TC Depositor
+0x77532dd2eb6e8eaf416f39c65f48cd2369782828 - TC Depositor
+0x8c5f8af7a932613efe12cc25d38387e9654517a7 - TC Depositor
+0x93df2c9c8786242b8fdca3f96b3914b8b4a9f704 - TC Depositor
+0x979443bebd684daee44ea7a6d599bd6ed4cafd55 - TC Depositor
+0xab346efef1ffe377cdad686abeab62e83df1099f - TC Depositor
+0xbad37a7dfea2aa4fa0198ee4c644632a2d7c91c2 - TC Depositor
+0xc68b2c011f8df2190f239ddf5d49cb59324528e7 - TC Depositor
+0xfe4a0d465636ba3f6906818af88c1e01ae0d9d6e - TC Depositor
+0xbcd78c2d608e7ceb3d25bea30fae8a9d57033868 - TC Depositor
+0x1361c1e18930483f4aaf91f3a263937e4fcc1f39 - TC Depositor
+0x002c93452d54b6d64bfa9879fcab14a74f1bdd44 - TC Depositor
+0x0dcb08eabb2bedf838226fb7b2c15a69132df8b2 - TC Depositor
+0x15e270175f4f2347153d4d113b459590888613e7 - TC Depositor
+0x24b6694982843b03c75bb25e1fb74167b55b57b6 - TC Depositor
+0x28f080edf51145c3f511415b8c2afaebb605a70b - TC Depositor
+0x49788613913050ce0da9c8313654cee3f4848a9e - TC Depositor
+0x4bf2c2956942b2dd40517bce423917311f564d16 - TC Depositor
+0x5967524ce3bc2bc422e584e33bd50921a22e3c0a - TC Depositor
+0x622163f3f21752d359216343df88e9108495ca14 - TC Depositor
+0x8fa7b50fc8306ab3de028254df72bf08216742b6 - TC Depositor
+0x9b72b693440042c3a8045c569c1f9b61b5a92fa9 - TC Depositor
+0x9ec8433487939bc432e79fa471a8605610659e41 - TC Depositor
+0xa3d34ba0400a3952a6c81c4629c3971f1537ae6f - TC Depositor
+0xbc25d57412a04956cdd95af07825c5c1f34d29eb - TC Depositor
+0xde4612757719829d1df069213a5f4317bb7503e7 - TC Depositor
+0xe8b2b5a8a4174b256828fca0f40a8831521160e5 - TC Depositor
+0xedb60566f3fd86c2cd9db744d59f019dae0e45a6 - TC Depositor
+0xf945fa5b71cfaa2736b427b7213cff14cc83279c - TC Depositor
+0x429a66e7bd829f9453cee5239bfeaf5657a11a3e - TC Depositor
+0x5b0431365ce1ab3693bea6f33ae67653dd30d8bd - TC Depositor
+0xfce9d04133701a77589615c23def7ba98289c8e2 - TC Depositor
+0xb2369d20e7f0c46270b9f79ab26fc62fada356c7 - TC Depositor
+0x1bf53ce80ff2ed5711b8a2db8f7ea5b38da118d6 - TC Depositor
+0xbc5639887283eaf1b8e966e0b2fa6998d2ec6404 - TC Depositor
+0xb3656c5ed7ef97b4c9097d416df98e2e2a5dd81d - TC Depositor
+0x9e1e41985048c07a68a67f632f82799baaf903b1 - TC Depositor
+0xdd6458eb5090832eb88bffc7adf39b0f3cdd6683 - TC Depositor
+0xdf225c84a0eaeaaac20e6c1d369e94ee13b9df2a - TC Depositor
+0x01a5d51057a82818d68d8f3b76ef0ac69a99a911 - TC Depositor
+0xc4ba2b9bb109ae61ecdb5810967a7be65ddf33f5 - TC Withdrawer
+0xe526eaa04f5f2fb637f142338927acb3870fe744 - TC Withdrawer
+0xf88ace3407d2103a5dab728afbb7eae07891a188 - TC Withdrawer
+0x44b1f2bd63752ba3aa5f368a0d964c73d5b688e0 - TC Withdrawer
+0x70d72754aedad24d92993ad309cc97c14fddd16b - TC Withdrawer
+0x51376e42544327198ee65ef2e84d96d5de602f46 - TC Withdrawer
+0xe6647e6450c5cb81e7ff8cf2f7f242c248593c0b - TC Withdrawer
+0xca68ff30308d741f57c441fb783fd3b7c3b2edd9 - TC Withdrawer
+0xec8344d61798ec0895ae68967caab2fe214e9b4c - TC Withdrawer
+0xfff2d5e181ddfff008b8bbf75ebf1e73828eabf0 - TC Withdrawer
+0x930a2e736f91680dca726d8db87a7beca443f2bd - TC Withdrawer
+0xffa6989330733b6884a117fcd323f76d7ea88504 - TC Withdrawer
+0xe8195dec9ff6cfaeb8a9b9701953fae01b9fd7c2 - TC Withdrawer
+0x83fa79a681bbc379a8c4a33b09517365081c0e2c - TC Withdrawer
+0x60f4f6b1683862c27dfc9dd8c4e131141c817eb6 - TC Withdrawer
+0x7950c44077934e1ff7e207480e67707e2eeb1984 - TC Withdrawer
+0x4fe56d7e94b0eacf18fca482b141e030fdf01bf1 - TC Withdrawer
+0x7a0254e134c00fa7b9f82264fc7960bce2ff0dac - TC Withdrawer
+0x357013dd8d2131171623826e5376eeb8033df525 - TC Withdrawer
+0x49ff9bc4bf12d9bf983e434d4e1c943a7e1fb6f7 - TC Withdrawer
+0xeccd38d18f0028341124a3fc94bf926a28a026d5 - TC Withdrawer
+0x748e938845594ec296f57e4ed7fc5281e218d613 - TC Withdrawer
+0x4343598afdd92ee4f49e7a67f58abab17d3373ba - TC Withdrawer
+0x5589c7d745aeb209a5fb08a761d308fec12ee62c - TC Withdrawer
+0xf7c6886c192b808478ba1bb403297eb99fefe7b9 - TC Withdrawer
+0x6511f0b7ebecd902b250cdd82773102c42d03a8b - TC Withdrawer
+0xc511c867d83591f1bd8052fbfc31a0cf665f0299 - TC Withdrawer
+0xfa0d22105ad2e44e9649c379d601239dd624ef96 - TC Withdrawer
+0x88fed3cc4840e1d78e8c1a3f528d281d48661c5a - TC Withdrawer
+0xfe056e9e71b21226b2a43255c4972bc5f5399e55 - TC Withdrawer
+0x5c93b857738f5f9fed69dd595934778eaaefcea9 - TC Withdrawer
+0x11facc4ee46e0c53b6b8bab63488eb02ee54a1aa - TC Withdrawer
+0x8f3cedd9a400645414798d6b7553b7f1936482cc - TC Withdrawer
+0xf1b1c1827bf3f2d986adc03fecb0abc66c3fc27f - TC Withdrawer
+0xae890aa7658d629862dbb62fd608f7cb3376ba97 - TC Withdrawer
+0x0c25626ea88b43e9d935d0ad1159a616ba62a536 - TC Withdrawer
+0xd23803f83ff7d36fe552215eb55f8b9c0c75c248 - TC Withdrawer
+0xabb104608665f9c75ed8700b8d9096b446f2c7b1 - TC Withdrawer
+0x28b02a72fa929c91e90a317a0c5ae770a5aa85d8 - TC Withdrawer
+0x46cd908a7a91100660dc51fea020515b11ab124e - TC Withdrawer
+0xe7de4c398f08284b02bf4b3708393eabb3c16ec0 - TC Withdrawer
+0x05135b83eb7d7b5bde4e05e088f0f358b4313771 - TC Withdrawer
+0xebfa5fb4033c6869479e87c0813aaccd38802322 - TC Withdrawer
+0xc6a2072dd976e023781ee3bf290664d0d41d437a - TC Withdrawer
+0x56dc1eca9e967889d8a6d11201b0fd3e80630f9e - TC Withdrawer
+0x9a4e8546eebae0ba8375c2960245e12a85bd98b7 - TC Withdrawer
+0xcce0b680630442a02b6fca7f6b9df7cddcbc75d6 - TC Withdrawer
+0x33057feca8c041131fdaad617ad5d65380ad9a7d - TC Withdrawer
+0x2d82ff96504b14a6707d5ce6f5128a9b2afe5211 - TC Withdrawer
+0xe90a497e495eec8f457da2b993ae728550c71122 - TC Withdrawer
+0xc8cf20b986efd650319e61e9eea776462ee4bb91 - TC Withdrawer
+0x14f8c5e5c2c9282b5f742351f3d6b1ef3ad227cc - TC Withdrawer
+0x36001f9d3e7674813f7222be334adee0b46f4edc - TC Withdrawer
+0x239d2106446e2327f152ab0fb02d4d8a58474860 - TC Withdrawer
+0xf5bb405b38b7d3f7a8ba4727e8f2fb5eaa4a807d - TC Withdrawer
+0xb565cafc9fe226578f4706c2561acde0040e3251 - TC Withdrawer
+0x51131710c9d785ee85f17c6c63d5ed7943213287 - TC Withdrawer
+0x67e29313a286c07216d3dc8ad005f7f2d5dd23ba - TC Withdrawer
+0xd9cee38fa3282cc23183ba0df8090805dcae8a06 - TC Withdrawer
+0x19ea76567a438f0877a7480ff61aba637679b3d3 - TC Withdrawer
+0xc9bc23844327779265eed6c5a641fd72daad55e2 - TC Withdrawer
+0x8c1e985ce0789fb6cd00f1be7688b84f0d6f5d1a - TC Withdrawer
+0x522f9897fdb2bd3b4237865e8546a586ff7e40ac - TC Withdrawer
+0x9f91d2665c837c71c1e013a896fe6b154d059a56 - TC Withdrawer
+0x5cc6251edbf8340d1b4f77f9dc33fe2138e0eda4 - TC Withdrawer
+0xb820b6fc768b31b42cdc28e8cf0ff6774cad6ef5 - TC Withdrawer
+0x8d1dc1ecea17bfd64f5a8f9b586fb015e3ea23e9 - TC Withdrawer
+0xc167156f9f0bf7a85efc072617a797605bf3d636 - TC Withdrawer
+0x3b37cb0ff911e8aeb06424eccc38c050d3b9fcd0 - TC Withdrawer
+0x9a52ec9f549ca810b72983bb1780936430a62c74 - TC Withdrawer
+0xc4e0d3c441e3ee18c8e2f02e72e79a1ce9b70160 - TC Withdrawer
+0x55373a032cd9510e1517bb02aa52ae524f5f56db - TC Withdrawer
+0x8c59c33dbc99b83a78d825f6bdb0ebb5c54543d6 - TC Withdrawer
+0xb228095895c5817105413d032422365e0b9c5bfd - TC Withdrawer
+0x01b378f41dd4a35fa248b6016cc36027c6bae229 - TC Withdrawer
+0x3e46d109b3c23fdaf7390d33167ccd197c540058 - TC Withdrawer
+0xb9c5e314e238603a391429e91d8cd58b3ddc2a0e - TC Withdrawer
+0xc66fff0801ba90d399b425b4f66d0103321ef932 - TC Withdrawer
+0x7f6241c94c19ad16ee9d0a92b75cb392571d844c - TC Withdrawer
+0x00cbc721a6631c0e956f4d700a02c60701df5f15 - TC Withdrawer
+0x2fb1e958703d861c75717cc85b04d90edcfe1720 - TC Withdrawer
+0x21564fdef62433efc13b590504b81c94d1aefc5c - TC Withdrawer
+0x071c8d8879c447eedf1f8e902b8475a2ecaf69a7 - TC Withdrawer
+0x51b51d55e2832b7196f896dfd4494874ff638ced - TC Withdrawer
+0x9e60944685e73fcd9a7bc1452282bf5d6e5d0045 - TC Withdrawer
+0x26717d467539a0df7c8ed95c4fad8bf4da7b5aee - TC Withdrawer
+0xb9ddda6d40c86c112127adb0bfd9ee22b3384c3e - TC Withdrawer
+0x00959cc42f633a13044f915cd2e20e5f57a56d32 - TC Withdrawer
+0x95a1e86381ffac488d94edebf899bd3f383789b5 - TC Withdrawer
+0x1d872fd00762262589fd9ebb9c8dcd4c382243b9 - TC Withdrawer
+0x1570d01843caf0e9cb45f13b12ccc244ca2a6160 - TC Withdrawer
+0x4e3c24b9cd37da667f98c1e65401483c4f13fe9c - TC Withdrawer
+0x6de5588f33e0dd3e71a1308f10c1c9b6a96738a2 - TC Withdrawer
+0x5f4454f451fc4aac7431d646b7fb5a6058c1f279 - TC Withdrawer
+0x5d078f64e0659f139361feff33d14cba8c9540bf - TC Withdrawer
+0xef992de961573f10cc3eae8e110a008d744f0023 - TC Withdrawer
+0x6f5ca35a6b5bbdc2ea18ffccbb14ef79e31c9ed9 - TC Withdrawer
+0x705a903a14ab5e25e946d669e0e0bad175613320 - TC Withdrawer
+0x7ab3c33b2eaf8ad363aa8f87823c72af0715e9f0 - TC Withdrawer
+0x1cfec9f98c944500c0e59df7229c9a59d4c7bc6b - TC Withdrawer
+0x95a193d47af1a77888214fdc767ed4a2d7bbf340 - TC Withdrawer
+0x2ce69b4aeece7a600a0ea88058cb1e818883a29f - TC Withdrawer
+0xd36625bc04cb29e1bd71450c1ca98ac43f556afb - TC Withdrawer
+0x66024cdfe6cf499b2ee8d710b66f01e411a4d15f - TC Withdrawer
+0xbdffb1b804676a95c2cb7fd412e485a40e994ab3 - TC Withdrawer
+0x921151e8d4c6bcb6bb94a4f8dc48aa8fdfe97960 - TC Withdrawer
+0xd97e7c6d0c1b1e38747cff98670dc5e9a505c33a - TC Withdrawer
+0xb4682645726441f313621adbe48a23f6ad71ddae - TC Withdrawer
+0x06707e44a16a20ff1d9dd318779ea9bb6bb93c9f - TC Withdrawer
+0xf3899508fd8e4c7dac96da51653fd20e3c1690bd - TC Withdrawer
+0xacef42b14d759cc8ba846fd0d71ac0d2e71ff6fc - TC Withdrawer
+0x2e76c388505bfa2e3d300ac8dfb5065173d41d6f - TC Withdrawer
+0x0238547c48cf3f4db6886b34d9191f70624a3a8d - TC Withdrawer
+0x30e81422e776b6e04abd1cb3b6c11f27f74bf433 - TC Withdrawer
+0xb42fea9974a16e4aff74e404e5e863d5f19ee1a2 - TC Withdrawer
+0x1fd14221d16ea6f2b5e5a2ee6d8a8070086faba4 - TC Withdrawer
+0xf446956dc037a559287b3debccf8bf831428c6eb - TC Withdrawer
+0xb58dd5e0dd0c56571a535c6d3cd147f995f93863 - TC Withdrawer
+0x6420b0d081fc0e2717a73e26c915027a12d6f962 - TC Withdrawer
+0x37e7c24c2a836ebccde5c5e0f178d772aa426a63 - TC Withdrawer
+0x43efc4d5746662dd55609b10ff2e891057f9a229 - TC Withdrawer
+0xe60ccef9cb78dde73515d9d3b39f3d5560605bf6 - TC Withdrawer
+0x6e2a555bfad1d9944d1a39e823ce5fead73220ac - TC Withdrawer
+0x7c3deb429542fbc848be23beb1140fc321d849e4 - TC Withdrawer
+0xafc5fcf0b972f2134057eb3435a071cd76663661 - TC Withdrawer
+0xf3333eb4fc3923a3bc42a19d4a753d503833ebb4 - TC Withdrawer
+0x34bcef3dbeb48794c912ba002ef9138c3601a770 - TC Withdrawer
+0xe3592a9bf0b07acccd3d103d1cda8b33200f82d5 - TC Withdrawer
+0x72c731b397bb16424ab5b040eda341fb6b835993 - TC Withdrawer
+0xa05c60e4c3560b444939f34cfaa803251d203065 - TC Withdrawer
+0xc070420782d3f7a87cd38e680ea822b499b37e02 - TC Withdrawer
+0xcfe1f7de22ce9f888b74d630309907e396d4bdb3 - TC Withdrawer
+0xb2d3c1bc54f4b019e0c7bc96eb44cc6068c7616f - TC Withdrawer
+0xf49537551dd0832aa1012663e37ed2a8adf51df8 - TC Withdrawer
+0x9c42880252bcdf90ccf324c4dd4d30335a695521 - TC Withdrawer
+0x37ace3d81da16105e4ae86d4c4aae8bf72f12eac - TC Withdrawer
+0xa38569707b38e2131a89f13e2c9d56c6dd69263b - TC Withdrawer
+0x1c0457cb4ad16f3f4c35455b105bad6570847beb - TC Withdrawer
+0xcbcb85196cdd4cf19ae433429713393cf4639aa2 - TC Withdrawer
+0xaf0c4b74977192164c4b4b8af312241facc89175 - TC Withdrawer
+0x4771fb3e6c94e55b1d130dfba98093471a937110 - TC Withdrawer
+0x2ae9211be3b10b8cdef892fc216cedae36c6fea8 - TC Withdrawer
+0xdd8024708108866c4e9738cb192501aaea75c379 - TC Withdrawer
+0x8e7a1c4620634f6ecf3ef477663800378655fc89 - TC Withdrawer
+0x5ad9e2759904180e2aa65d3638517c6aeee2ed77 - TC Withdrawer
+0x0e3b0b0e783797ed62a3423dfdbd37619cb0f0c0 - TC Withdrawer
+0xfa75669c8ce0c7e1b4b8322f138605661476ba24 - TC Withdrawer
+0x9e7e893c6ef08b203a337c9ed38aba6e0c894164 - TC Withdrawer
+0x0c6c6740eddd9e5ebf117a7f5d7d0f58458a5ec9 - TC Withdrawer
+0x1393336dede3a7b2b757a2c779429a0d984c868a - TC Withdrawer
+0x25cf0b8714eaafd9de4f76c73f9bf32c39df16fa - TC Withdrawer
+0x6db52d90e0cca1db7cff815b8334c5c70db7fe6a - TC Withdrawer
+0x276d4cba7fbbb151f881ac1e192d304ff5f2220c - TC Withdrawer
+0x4a8b4525f36eff663f74098c8fbb2586dfa25201 - TC Withdrawer
+0x76694b47f3674fa6c2b9fc8000711f54030231ef - TC Withdrawer
+0x589a52dda0bfd54917693164fa3825144fed0ff8 - TC Withdrawer
+0xee28e5c6a07f47d1783fad3bffb29f4473d73edd - TC Withdrawer
+0x4150eeb43726272675395004f249ea004304ccd1 - TC Withdrawer
+0x040fecc0325d66d6002501dccc2431915a87e44c - TC Withdrawer
+0x288877ce456930386febf8183a4b831935e956d0 - TC Withdrawer
+0x5d4e92c37e5d25d2d98ea7bbf343f54d4f106330 - TC Withdrawer
+0x1fa4b55b1ef066c821748c33da186f0ce66118e9 - TC Withdrawer
+0x568603ecab4a6016ec010df04ce351f99fffe180 - TC Withdrawer
+0x0b1f83f30a358289776c95ac9315ef363097a8e4 - TC Withdrawer
+0xea56905dd70a69cbcd0ea39e0bdb71cc64b54703 - TC Withdrawer
+0x4b4529142fd67ab6a1f9bf4cd23ad6e57853b5d4 - TC Withdrawer
+0x97e5b47536c715a13cb0f82c3db203b8fe252ead - TC Withdrawer
+0xc9a72862a86ba13aee12fd4c2dde8fadbbd43e35 - TC Withdrawer
+0x803de87c8c848400aff632c9d565aa4dc229b170 - TC Withdrawer
+0xd3b41d6b40cb400cbe776878bdf3f8112a143ded - TC Withdrawer
+0xa60508dfefd0df588e8003deddefea84820ed6b0 - TC Withdrawer
+0xe7fb8eb430d32e7369122ce99292f4eab74d0f13 - TC Withdrawer
+0xae095a1c78f03e91a5ecfad38153c9b1f9656785 - TC Withdrawer
+0xf5028beeb018cee3c27e8792c2ac321ad06d0477 - TC Withdrawer
+0x59766dfbe7f725d2400b8a96a60c3a948a22218f - TC Withdrawer
+0xc6f02a95d3561d62839dea2a8d82b04d9cc066f1 - TC Withdrawer
+0xf22e72bcb6b0c210f911d8d174dcae131fa92686 - TC Withdrawer
+0x3df838f19b846d6648d3bcbe74702fa9e9f6096f - TC Withdrawer
+0x780f41a4ae446dc10d78b0070108864f701db214 - TC Withdrawer
+0x561fa32f6eb17857ce0c0d280eb8d55447c62774 - TC Withdrawer
+0x19c6b86a563dcc843729a039c6bceb37cb8e54cb - TC Withdrawer
+0x1b11fe3677424d4f096eff805a917f3b631cf2a2 - TC Withdrawer
+0x203a5ec8b85d374bc5d359ed60a525d8f76706c1 - TC Withdrawer
+0xe6e6454ad0b64a91bf53bf7395b7eee719126fb6 - TC Withdrawer
+0xbd7742ac18a5f423b5618ada3adc3793f94d41d1 - TC Withdrawer
+0x058a05f3e500141b2984135c8d1cfd486d2d2271 - TC Withdrawer
+0xb86262c487b172cd253cdef401df8cef199bfb03 - TC Withdrawer
+0xaa74bd86828464f5f3884b86fb1a8195f935993d - TC Withdrawer
+0xe1e1c16864bb6afce2861479d69c3d9dab3b655a - TC Withdrawer
+0x70d2daae6602742a89076fed779cf8bc450102cd - TC Withdrawer
+0xee5367df60eda6771e431d3f9dd580985b42f4a5 - TC Withdrawer
+0x161bac1349568cf5ca1a7af05a118e8079e6a28d - TC Withdrawer
+0xdd961e496ed398dd922562e3142481c3ae2d98ef - TC Withdrawer
+0xdec17f618f8a5660631def3b6db35f4fcd6633e3 - TC Withdrawer
+0x6b4414e9e1e1024f832f0d2aa5693ca54e78d986 - TC Withdrawer
+0x90e2e8f419c95119fb374516755d93081ed53c4c - TC Withdrawer
+0x37459b395d226678872e97e122784316a9331757 - TC Withdrawer
+0xf0e9cd1b318413c901cb21abd9a95fe8aa30525c - TC Withdrawer
+0xcfe3793fd6cebcd7eaa8846762b7ae5f99fcada0 - TC Withdrawer
+0x069d95b81f3120ada24a0f7e097cc3cea908a8c6 - TC Withdrawer
+0x2f54a87d52463960e7366d408d31526239165d5d - TC Withdrawer
+0x1f25a1e6a52a3ea7666472c794b69a89f3906f32 - TC Withdrawer
+0xbb775f19ae5205779b4646a522cc3ef919173ff4 - TC Withdrawer
+0xc8ac7e6a595f91d97806cb97798c4a4dc5baac76 - TC Withdrawer
+0x4a437490f68607f80e5b99adbc98c5e288d9a1b8 - TC Withdrawer
+0x9bb524d304e1b54baa6ce6b8b9a7c0e25167b3e8 - TC Withdrawer
+0x5070499c6b4ca8ed6a6eaa2f0d7a9c1e993b5bc7 - TC Withdrawer
+0x35cae09953a26f3b68a8f5f65ae6e01b9a1e86d7 - TC Withdrawer
+0x283ca3fb16fb8535f5560f3dc263e8dee268a923 - TC Withdrawer
+0x16f31657cf6226e7dc238c91042e0cbf3f7fd3cd - TC Withdrawer
+0x65a5652c7711044ebf6e1ab81f5b0b309e226c5e - TC Withdrawer
+0xbad8aae9910c6bc5bb4bfb2e1800217241be3010 - TC Withdrawer
+0x3438f4a8de2b55cebf472523751e25a2d4fd932a - TC Withdrawer
+0x451fcd6da66d8a0406033e1c92705d8f78164b63 - TC Withdrawer
+0x8e0904879419c2eb030580e93f1452013626b23f - TC Withdrawer
+0xb5d226a285d821aabbfb802c6d6b752c36651d85 - TC Withdrawer
+0x1c4c5c3b9426811af6ce09c44579296a52f5c89c - TC Withdrawer
+0xa6e908f1828048aa09664e832233a9800ad72d16 - TC Withdrawer
+0x7bc4db9ac25768598f3abdf89b41c1daf4d6c762 - TC Withdrawer
+0x7c0fa569eacad7dd069387fef8d5d03c5007e254 - TC Withdrawer
+0xc54c893585a5562a49c0bd0c493673bab80559a3 - TC Withdrawer
+0xb6f6fe98c9645d0245a2fd5e5da24936125ffa3c - TC Withdrawer
+0x130205a5fcf9384ae3fdeebfe6e449f9e56c73fb - TC Withdrawer
+0xcc32f0d0a20f8da043994d677c41fa83c9d56341 - TC Withdrawer
+0x051569394a6a733836ac95522dcb14f2cafaf290 - TC Withdrawer
+0xdb3c48b7ceddd9813c4df36a4fc52b3dd5142ba8 - TC Withdrawer
+0x5a2e8a3b9ff2d155ba8e5a94435c28d2a0be0d19 - TC Withdrawer
+0xdeb8a5de4510f10ecabedca7f2700fa53cd94fe4 - TC Withdrawer
+0x1f465f6cb4759a82f2cc64f4b307e2722f21f9d3 - TC Withdrawer
+0x3251e1b60664f0797eada93965d4fbe3d127e0de - TC Withdrawer
+0x11425357180a2f1e60d17d681de2c83e81df96cc - TC Withdrawer
+0xc57e6183b92efef742eca7b55a07a69582ed7146 - TC Withdrawer
+0x194a5ad79c30ea114b876d34648fe880eb117565 - TC Withdrawer
+0x189780ab2f2e8b2359c152629679205c468417bd - TC Withdrawer
+0x3320f767ca5dbd40e45473583f06ac1cd8f4b1b1 - TC Withdrawer
+0x6162bc1617b8bce4c36e5affe079a460b65645fb - TC Withdrawer
+0x1563f0c6c24ad1035cabc20c422601a706e4a70e - TC Withdrawer
+0xdac793951e38d4851a542a2f633ab41dcc6d123d - TC Withdrawer
+0x8aabbc2ab68e1157eefc09520d848a795cf287ed - TC Withdrawer
+0x055333ee25142d7eedbf21f7ca1d921abdeeca4b - TC Withdrawer
+0xad91f7e48d1927b834a19b8ca5d243f4db9febce - TC Withdrawer
+0x466ac20c549628f93a3b73335f7863ecb9172e12 - TC Withdrawer
+0x3c2ac25156daaa51377b6a359ceb735fb25dbed2 - TC Withdrawer
+0x7fac5b477745fe2b8a759e7573a73b8d67b1e8b9 - TC Withdrawer
+0xdbcb15706cf3cec87076ad09864ce6a93fde0ff4 - TC Withdrawer
+0x1800dafd9847256d2d04c74dff57c237697220ff - TC Withdrawer
+0xa6ccb08b8d5051a549fda7c92a1f200496024a27 - TC Withdrawer
+0x63ff9289c37e298a9f23afa4b4c1d7d6d3f0cc7a - TC Withdrawer
+0x65bb01d4eb76379c4babaf5ef328f46de5d96875 - TC Withdrawer
+0x533cfdeffd172f1e552f0e4cf6ac886d58c7799b - TC Withdrawer
+0xd14ac8d33fb7136dddea1350f8022b63c1dffbfe - TC Withdrawer
+0x0433c6202c28ec2b3fba10d70d6795318b4cd260 - TC Withdrawer
+0x386a83975ce8f4e5bf56fd8433218b6d329c83a6 - TC Withdrawer
+0xad8237685fb92487f1e8846c6c94ea3a09042d0f - TC Withdrawer
+0x9009b9f5dfbb266a25181ef3946161e3be6a70b5 - TC Withdrawer
+0x2d1046e8d69501c1dc8a5810a42a0d2327413260 - TC Withdrawer
+0x6b4e7c6ea1c9d62ce18068c6fa6b0593ee4e3c3b - TC Withdrawer
+0x63d9470f4b39353c4f0dabaaf9c96313d47a4276 - TC Withdrawer
+0x8ab4a4a87c2ddc5d09470ef772367811830a21eb - TC Withdrawer
+0x1dafff6742bba41f2633fb552266cfae7736c3b3 - TC Withdrawer
+0x7f8218adfa63f7e14e298d4e72e62c69d39630a2 - TC Withdrawer
+0x5cd098701a974d48f5da76f1c0b860dbfdbb853f - TC Withdrawer
+0xb8b10f6a4c8dca7fae9bb00770c6f8fa5a75cd77 - TC Withdrawer
+0x8fb62d13e4edccf86fd92b20929668a9eb22ace6 - TC Withdrawer
+0x886bc8103eeca0dd4a78309711565bbac2efa2be - TC Withdrawer
+0x1401d8805b8579692d56d514d5183272d1ca3673 - TC Withdrawer
+0x5e157788d3369857e64dda663c749e7a1143161a - TC Withdrawer
+0x9a1be9038eac14f63cb2fa51cb6ce296a3566dce - TC Withdrawer
+0x9369fcc937c429f2141b7f9a4c637c6bace78903 - TC Withdrawer
+0x34580efe9cfb9cc2d8aedf6a8b8e74d9716f3bc1 - TC Withdrawer
+0xa0c614ff67d8687d248a3bf49f12d145e711bd7e - TC Withdrawer
+0xc7ad0a1874a40b5fd612b47df4bc64ef907ebef8 - TC Withdrawer
+0x9ad9952ec9d1f48a0fedc9ec7598b4af64dfa740 - TC Withdrawer
+0x4f8c3a0bc710390ba485f339630240a4f6e84824 - TC Withdrawer
+0xd8a5412c9b7ab7453163af61092f2f428f6aed27 - TC Withdrawer
+0xe0f9bc25c804463471beb48aaf7aa94183af7f98 - TC Withdrawer
+0xc5427a1d2de32aea742093a2e6b38c59cb9e5cf2 - TC Withdrawer
+0xa2524611561d053f17c45af9b746f9a7df2221a3 - TC Withdrawer
+0x264054f9e940465e14d4cf7aaf30b479cdeab7ba - TC Withdrawer
+0x837d2c2ba22ec450359f3046f67b7270c8812e57 - TC Withdrawer
+0x7da3c2b517a559218e2813155adceeeb87728505 - TC Withdrawer
+0xe3e8862d4c11f7b816b4d86a62953d66f21218c5 - TC Withdrawer
+0x57bd010667f390718b006f2a76b9fbac847258be - TC Withdrawer
+0xf9087e68081b3ed6078d19a8d8a6bfc28b2ea4fc - TC Withdrawer
+0xce4389eb8c691454226942293ffe8d63a76589b3 - TC Withdrawer
+0x5c2fbe10ab38a598d2a1b8aaa60120e5c28f9574 - TC Withdrawer
+0xb3e64f01e67f38a4ac04b9ee42748112595d5761 - TC Withdrawer
+0x9ac469f3547c3ef00610ab22db1b0c60b7924a40 - TC Withdrawer
+0x54c435b2666c3fea6ab6a7e0e5570c325262b244 - TC Withdrawer
+0xef74fe62005a578a5764035f09d48ec0ebf75a7e - TC Withdrawer
+0xd7855ab0071e30dd669380cf13688afce29c9ff9 - TC Withdrawer
+0x017515aaa37cb89e4f2184a7d3c44e8fff460fb8 - TC Withdrawer
+0xd3397c8460e96dad334d476477522086f76a5628 - TC Withdrawer
+0x63f478f0b964e7b3c9b0bb4b447a06f8d6b66803 - TC Withdrawer
+0x229fa72862b06fa02eb0fa0f4bd6ce2a1fb3598e - TC Withdrawer
+0x875eb2ce258783be9c4c52ce8f104784e3bbb3c3 - TC Withdrawer
+0x9bd87d8be3a6fbbae37df0ffa5500d2bcd4790d8 - TC Withdrawer
+0x4f5dd35fb86bd1023865088b4fc424681312111d - TC Withdrawer
+0x3a8923df7eea4ad18e84ac846a4cf0c9f765c241 - TC Withdrawer
+0xa27bf6bddb3a1e0eee32a60e2e7558df5991e723 - TC Withdrawer
+0x68bf3030bdfd2806fceeeb65d1ea4e17f87a0690 - TC Withdrawer
+0xed5b77759b9d38320fb821e857c098c047585e6f - TC Withdrawer
+0x81dd80ad823be60365f32979b70d76777623e2d7 - TC Withdrawer
+0xae6d8c2e71fdff68276f260493ec624e6694fd1b - TC Withdrawer
+0x92938efdb0c69f980e0d6a7c9c5c5bfa53dfda06 - TC Withdrawer
+0xd75d6fd953f8cb5af34507273d69c66afa9ee918 - TC Withdrawer
+0xf93bbfb7ce1396853bee3b9786f041ce8a19747f - TC Withdrawer
+0x6cda060895dec936f5c4398d973233d934510d3c - TC Withdrawer
+0x8f510dcd206b69e625fd9c2e41f34a1240242fff - TC Withdrawer
+0x5554f4289ff71e4aa61fcc3bf7db694df802777e - TC Withdrawer
+0x218896e36f957da81d2577aff339f23c8bce9aa3 - TC Withdrawer
+0xdd2aa975f7aa6574704eec4acbdcd24c726eb7be - TC Withdrawer
+0x7d2404aac61208669e6ed9d846f4e9598f03deff - TC Withdrawer
+0x7b5daf78503910b073437dab75056865409f1aa3 - TC Withdrawer
+0x1515886b94354078790062c700d10c6544444315 - TC Withdrawer
+0xe19efdaa1b6619baaedca0560e2ae07839853055 - TC Withdrawer
+0x5efb4be8a4befc9bc713a934c4e7428153fc918c - TC Withdrawer
+0x88908c8312131a8c04ac7bfa3f6b37dde6cd072a - TC Withdrawer
+0x9ac693c45e9250cf1e849a5aa9be7107b8257584 - TC Withdrawer
+0x41a316c93401871b41a3dd0d102967243e86eab0 - TC Withdrawer
+0xd7f50bcbb297b4e859b6b66931c25b1322909f1c - TC Withdrawer
+0x7c8e17a3b30e50bc0aebb5b9ca5936f4ce8b969a - TC Withdrawer
+0x4a8370d8ae882b1e1646e3f32f2ac3a807314e15 - TC Withdrawer
+0x1fe8fec67694b18ba02183ea912765d660e0c859 - TC -> Ren Bridge
+0xb09e254dd1f22d75ca81778bb60180154c6c0dd6 - TC -> Ren Bridge
+0x05c3dd015dff412c1f86e7af7a24a1f4815ea22c - TC -> Ren Bridge
+0xcd333ef381ebc9b1edbdd1fe86b932216d5df002 - TC -> Ren Bridge
+0x0afd828bcd424c0101a987c4a6620d9d9d718f50 - TC -> Ren Bridge
+0x987fa369e50d6d77010e533e342568fa8ffc0d62 - TC -> Ren Bridge
+0x914bcf0394ae8a5b113ba02f00abc2baeb03a21c - TC -> Ren Bridge
 
 ## Tornado Deposts and Withdrawals
 
@@ -485,22 +857,6 @@ Most notably, there were no deposits or withdrawals between 2022-04-16 and 2022-
 | |0x5cc6251edbf8340d1b4f77f9dc33fe2138e0eda4|7|700|2022-05-19 19:27|2022-05-20 3:46|
 | |0xc57e6183b92efef742eca7b55a07a69582ed7146|6|600|2022-05-19 19:50|2022-05-20 0:12|
 | |0x6e2a555bfad1d9944d1a39e823ce5fead73220ac|6|600|2022-05-19 20:03|2022-05-20 4:04|
-
-
-
-
-
-## April 14th, 2022 - Report: The FBI attributed North Korea based Lazarus Group to the Ronin Bridge -  Addresses added to OFAC list
-
-According to the FBI, the infamous cybercrime group Lazarus has been implicated in the March Axie Infinity exploit that saw $625 million taken from the game's blockchain bridge.
-
-Lazarus are a criminal group with strong ties to North Korea, and are suspected of being behind infamous cyberattacks including the [WannaCry ransomware that impacted a wide number of industries including hospitals and manufacturing, as well as legislative and justice systems.
-
-The U.S.Treasury department has added the crypto wallet that received the stolen funds to its sanctions list, which may make it substantially harder for the attackers to withdraw the money.
-
-The wallet still contains around 150,000 ETH, valued at around $445 million, but has been slowly siphoning it out to various other wallets, exchanges, and tumblers over the past weeks.
-
-Validator Security Breach US Treasury Department has sanctioned the address that received the stolen funds.  
 
 
 ## Links
