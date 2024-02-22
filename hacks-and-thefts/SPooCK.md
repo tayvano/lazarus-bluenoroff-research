@@ -1,12 +1,58 @@
-# Theft from SPooCK
+# Theft from Individual SPooCK
 
-Date:: August 17, 2023
+Date: August 17th, 2023
 
-Amount Stolen: $38,032
+Amount Stolen: $38,362
 
-IT Workers
+
+## On-Chain
+
+- 0x55066E19Abdb8cB38F6A98A96186c0B657Ce3295
+- 0xe9f8CeF0FDfa4E6b455ab02a5FAa8Df794F83774
+- 0x45B9A47Bdff8039B2318eB4f037A7a1de4820CBE
+- 0x081AE3ee8d505D2CfC86f0c297FAB5A65A831998
+- 0x92c42f41c2a2104b5fc468859c20ea2d186a1a17
+- 0xea939998fad5ff82d04a37668680073d5f5ef143
+- TBpocvWxXWgLDoMCVNDXDKZtikn5FS6odh
+- TDRz3EKe4QMpAVri7WoWtQjymqPuJ6SHPU
+- TEie2SWkPm4cEdna3X4JkM6KuF215VaSqV
+- TMogEBUWaJXppbs8inu583fnbDHmhEHvMn
+- TNJzVCQKadtJykJdh82zK8WCQxUD9dcpcr
+- TWJnEMdVTdp3dfkpHsrWMy4tz1q3e51hfA
+- TWoJ9PvYDiyK54nxRu4HeqkUYARMKxaRTu
+- TWvAmAt7upe6JSLzAYV7bocFGqHqhzDwPG
+- TYmHrykm4XG7q1BaAm12yFmQZN22QEoW4J
+
+
+## 🤔
+
+Also, both of the victims I found, who we assuminged were "attacked" by the same person, refused to share how it happened and blocked me:
+
+"Victim" 1:
+
+- https://twitter.com/bunhouth
+- https://stackoverflow.com/users/4710358/bun-houth
+- https://gist.github.com/BunHouth
+- https://www.upwork.com/en-gb/freelancers/~018bdf05f7fd7414dc
+
+"Victim" 2:
+
+- https://twitter.com/iafhurtado
+- https://www.upwork.com/freelancers/~01b830b8c51f54f474
+- https://portfolio-iafhurtado.vercel.app/#contact
+
+
+## Links
+
+- https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070
+
 
 ## Details
+
+
+Hello,
+
+On 17th August 2023, at 12:50 AM (UTC), I experienced a significant loss of investor funds amounting to $38,032 in the form of Crypto assets (BUSD).
 
 The security of my admin wallet was breached (0xec448cC26A97Ff84339C27ec754320F1D52f7566). While the exact method of compromise remains uncertain, the attacker successfully accessed the admin wallet and drained a contract holding these funds.
 
@@ -40,6 +86,9 @@ Subsequently, the total amount of 38,032 BUSD was transferred through the follow
 
 4. 0xA96Be652A08D9905F15B7FbE2255708709BeCD09 (possible ChangeNOW) - TX: 0x8038a9e70df6b48acc06b0dfe2fb4fd939927f2cc6eeb1546defe565aaac9c06
 
+
+(0xe9f8CeF0FDfa4E6b455ab02a5FAa8Df794F83774 has withdraw linked Simple Swap TX: 0xa580d7477fef34870a02c2fd5a239c1ef1b3433489ce9653744c43b781aaeb0f)
+
 I am deeply concerned about the safety of the investors' funds. Following the breach, I have discarded the compromised wallet, revoked its access, and fully re-installed the system's Windows.
 
 The total value lost amounts to approximately $38,362 USD, broken down as follows:
@@ -48,41 +97,14 @@ Investor's Funds: ~$38,032 USD
 
 Personal Funds (across ETH, BSC & Polygon): ~$330 USD
 
-- https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070
+My primary objective is to trace the attacker. If the funds were withdrawn to an exchange, I intend to pursue legal actions against the perpetrator and recover the stolen assets. I am open to suggestions and guidance on the best approach moving forward.
 
+I have also filed an Action Fraud report pertaining to this incident.
 
-## On-Chain
+Thank you for your attention to this matter.
 
-- 0x081ae3ee8d505d2cfc86f0c297fab5a65a831998
-- 0x45b9a47bdff8039b2318eb4f037a7a1de4820cbe
-- 0x55066e19abdb8cb38f6a98a96186c0b657ce3295
-- 0x92c42f41c2a2104b5fc468859c20ea2d186a1a17
-- 0xe9f8cef0fdfa4e6b455ab02a5faa8df794f83774
-- 0xea939998fad5ff82d04a37668680073d5f5ef143
-- TBpocvWxXWgLDoMCVNDXDKZtikn5FS6odh
-- TDRz3EKe4QMpAVri7WoWtQjymqPuJ6SHPU
-- TEie2SWkPm4cEdna3X4JkM6KuF215VaSqV
-- TMogEBUWaJXppbs8inu583fnbDHmhEHvMn
-- TNJzVCQKadtJykJdh82zK8WCQxUD9dcpcr
-- TWJnEMdVTdp3dfkpHsrWMy4tz1q3e51hfA
-- TWoJ9PvYDiyK54nxRu4HeqkUYARMKxaRTu
-- TWvAmAt7upe6JSLzAYV7bocFGqHqhzDwPG
-- TYmHrykm4XG7q1BaAm12yFmQZN22QEoW4J
+Sincerely,
 
+SPooCK
 
-## 🤔
-
-Also, both of the victims I found, who we assuminged were "attacked" by the same person, refused to share how it happened and blocked me:
-
-"Victim" 1:
-
-- https://twitter.com/bunhouth
-- https://stackoverflow.com/users/4710358/bun-houth
-- https://gist.github.com/BunHouth
-- https://www.upwork.com/en-gb/freelancers/~018bdf05f7fd7414dc
-
-"Victim" 2:
-
-- https://twitter.com/iafhurtado
-- https://www.upwork.com/freelancers/~01b830b8c51f54f474
-- https://portfolio-iafhurtado.vercel.app/#contact
+[Submitted on Aug 27, 2023 By SPooCK](https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070)
