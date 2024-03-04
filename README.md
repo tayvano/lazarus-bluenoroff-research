@@ -141,15 +141,15 @@
 |  |  |  |  |
 | 2020 |  | BTC Changers | $Unknown |
 | 2020-Aug-07 | 👛 | New York Financial Services Company | $11,800,000 |
+| 2020-Aug-24 | 🔑 | Coinberry | $100,000 |
 | 2020-Sep-07 | 👛 | Eterbase | $5,400,000 |
 | 2020-Sep-26 | 👛 | Kucoin | $280,000,000 |
 | 2020-Oct-06 | 🔑 | CoinMetro | $740,000 |
-| 2020-Nov-13 | 🔑 | L2 | $893,000 |
-| 2020-Nov-13 | 🔑 | Theft from Individual | $893,000 |
+| 2020-Nov-13 | 🔑 | Theft from Individual L2 | $893,000 |
 | 2020-Dec-14 | 🔑 | Hugh Karp / Nexus Mutual | $8,000,000 |
 | **2020** |  | **TOTAL** | **$307,726,000** |
 |  |  |  |  |
-| 2021-Mar-05 | 🔑 | Paid Network | $160,000,000 |
+| 2021-Mar-05 | 💼 | Paid Network | $160,000,000 |
 | 2021-Apr-19 | 🔑 | EasyFi Founder | $81,000,000 |
 | 2021-May-12 | 🔑 | 990.1 BTC | $55,600,000 |
 | 2021-May-17 | 🔑 | FinNexus Admin Key | $7,000,000 |
@@ -200,7 +200,8 @@
 | **2023** |  | **TOTAL** | **$649,889,146** |
 |  |  |  |  |
 | 2024-01-22 | 💼 | ConcentricFi | $1,720,000 |
-| **2024** |  | **TOTAL** | **$1,720,000** |
+| 2024-02-01 | 💼 | Linkedin Developer Jobs | $200,000 |
+| **2024** |  | **TOTAL** | **$1,920,000** |
 
 
 

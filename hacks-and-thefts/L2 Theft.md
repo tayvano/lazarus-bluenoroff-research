@@ -1,4 +1,4 @@
-# Theft from Individual
+# Theft from Individual "L2"
 
 Date:: November 13th, 2020
 
@@ -9,8 +9,6 @@ Amount Stolen: $893,000
 4+ addresses compromised
 
 Malware suspected, never found
-
-Victim based in Singapore
 
 
 ## On-Chain
@@ -39,10 +37,10 @@ Victim based in Singapore
 
 
 
-## Co-Mingling
+## Connections to other known cases
 
-- CoinMetro, Coinberry, Tap.global
+- CoinMetro, Coinberry, Tap.global?
 
-- Converges with Hugh Karp / Nexus Mutal
+- Def converges with Hugh Karp / Nexus Mutal incident and thus EasyFi, et al.
 
 - This guy is the KYC info that was revealed during the Hugh Karp investigation

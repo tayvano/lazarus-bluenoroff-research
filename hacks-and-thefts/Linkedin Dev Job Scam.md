@@ -11,3 +11,9 @@ Date: February 1st, 2024
 - 0x220310d523e27a40060a17dbe81a048a723ed062
 
 - 0x964891e39275280f731ccf9f3f42ab72e86739ad (also receives from Dec 2023 Upwork Job Scams)
+
+- 0x4966acad38bedd9c831fce6002c361ed16ddd439
+
+- 0x29ba23a90d343b172d45d629e03fffdb305a51cd
+
+- Sends to Defiway

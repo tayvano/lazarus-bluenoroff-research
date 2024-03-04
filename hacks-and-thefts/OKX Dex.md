@@ -83,7 +83,9 @@ Stargate Bridging Transactions:
 - 0x7be76a223d8537e61f42b90957cf20c6d662c10e $46k
 - 0xfcac7a9d0356d2370fb7e8425d8c88678f637ede $190k
 - 0x141f12ab25fcd1c470a2ede34ad4ec49718b5209 $87k
-- **Total: $1,380,000**
+- 0x8dc4d3785906d989c928c1a14fb6f85a7d571701 $63k
+- 0x34b18e6e5fe7c639f672dd9f3d061c325e6fb942 $57k
+- **Total: $1,500,000**
 
 - Total Accounted For: $751k
 

@@ -1,5 +1,7 @@
 # Bitcurex
 
+Date:: October 13, 2016
+
 The 2016 hack that Chainalysis has in it's data
 
 ## Details
