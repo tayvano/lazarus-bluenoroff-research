@@ -12,6 +12,9 @@
 
 # Really Good Links
 
+- [IT Workers: Advisory on DPRK's Information Technology Workers](https://www.ic3.gov/Media/Y2023/PSA231018)
+
+- [IT Workers: Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)
 
 - [North Korean Cyber Attacks](https://www.heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat)
 
