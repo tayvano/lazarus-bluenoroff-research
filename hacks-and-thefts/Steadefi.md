@@ -36,6 +36,32 @@ However, the exploiter has also paused the farms contract, which means that if y
 
 > Please note that anyone emailing us will have to verify their ownership of their address on-chain before any discussions will take place.
 
+### From Page 540 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
+
+- The attacker(s) took control of the private keys of the hot wallet that had ownership of the
+contracts.
+
+- Prior to the attack, an employee’s Metamask wallet seed phrase was copied, providing access
+to the employee’s personal wallets as well as the Steadefi hot wallet. The attacker(s) then
+approved an attacker-controlled wallet (0x9cf71f2ff126b9743319b60d2d873f0e508810dc) to
+be an approved borrower of the lending vaults, and “borrowed” all available assets from the
+lending vault to the attacker(s)’ wallet.
+
+- The attacker(s) obtained access by reaching out on Telegram to a Steadefi employee in midJune 2023, pretending to be from “@manuel_trojovskky” (“Head of Crypto Investments &
+Research”) of the Spirit Blockchain Group, a cryptocurrency fund looking for projects to invest
+in (note: as of mid-January 2024, the telegram user’s name had been changed to “ceo_shima,”
+“Shima Capital Founder,” and photo had been changed) (see Figure 9).
+
+- After establishing contact, the “fund manager” sent a malicious file that purported to be a
+presentation about the investment fund (see Figure 10). The file may have been a keylogger. A
+few days after the exploit, the attacker(s) deleted the Telegram conversation messages.
+
+- The attacker(s) converted the stolen funds to Ether (ETH), bridged the ETH to the Ethereum
+mainnet, moved the ETH to another wallet (0xe10d4a5bd440775226c7e1858f573e379d0aca36),
+and eventually moved the funds to the Tornado Cash mixer.
+
+- This attack is likely part of a broader Lazarus Group campaign of spearphishing on Telegram,
+targeting the cryptocurrency industry (see figure 11 and see para. 188).
 
 
 ## On-Chain
@@ -115,3 +141,5 @@ These withdrawals were co-mingled with another theft from August 16, 2023 and we
 - https://twitter.com/steadefi/status/1688638572608552960
 
 - https://twitter.com/steadefi/status/1688619454178144264
+
+- Page 540 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
