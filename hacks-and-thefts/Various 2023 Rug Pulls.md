@@ -6,18 +6,9 @@ IT Workers
 ## On-Chain 
 
 - 2023-Mar-02 ARBI Token Rug Pull - $100,000
-- 2023-Apr-10 Terraport - $3,900,000
 - 2023-Apr-22 Fashion AI Rug Pull
 - 2023-May-22 LunaFI - $50,000
-- 2023-Sep-14 We Are Cult DAO - $200k
-- 2023-Nov-14 UnoRe DAO - $219,000
-- 2023-Dec-12 OKX Dex - $2,390,976
-
-
-- 2023-Aug-17 SPooCK - $38,032
-- 2023-Dec-28 Upwork Developer Jobs - $550
-
-
+- 2023-Sep-14 We Are Cult DAO - $200,000
 
 
 - 0x0d8b378203791dd6960e0d77a99bbda68f83bb49   Fashion AI Rug Pull

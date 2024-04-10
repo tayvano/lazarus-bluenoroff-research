@@ -10,6 +10,9 @@ IT Workers
 
 Overlaps with OKX DEX
 
+
+## On-chain
+
 - 0xc62A25462A61f02EBAB35Cd39C5E9651426e760b
 - 0x5c0E945Fc1c83D8d10E9c6366E2cBC5241532AEc
 - 0x17865c33e40814d691663bC292b2F77000f94c34
@@ -24,6 +27,13 @@ Overlaps with OKX DEX
 - 0x4d1ea27e41af286a0885fd1855e0cab94ea43f9b
 - 0xa1804fd8757f2fa2f98169805bbe8add70688b2c
 - 0x429e9446fec36d0bd91a84637f876d98a663bb3f
+- 0x5a58d1a81c73dc5f1d56ba41e413ee5288c65d7f
+- 0x3f06d41f7a7b0fce0b4cd201fa6a207363a2317d
+- 0x38be86d46c8b8fba115f26231581ff3291bd7122
+- 0x232b1f770e7637f2656ce08ed42ec6fb4c84590e
+- 0xa0bb1ebf52a9307f30509d3b385754c33b7f2e26 DeFiWay
+- 0xb26aaaad941d37a8848966d4e28171bda786d5ca DeFiWay
+- 0xebffcbd787d90a46822fe9f1a2b1a5132badcc02 DeFiWay
 
 ## Links
 
@@ -32,3 +42,4 @@ Overlaps with OKX DEX
 - https://twitter.com/PeckShieldAlert/status/1749416043297337363
 
 - https://twitter.com/CryptoEvgen/status/1760445908615823713
+

@@ -18,6 +18,12 @@ The hack was made possible due to a mathematical weakness in the algorithm used 
 Two pools were affected, the first one drained for 9,148,426 TERRA ($1.8 million) and 15,100,861,997 LUNC ($1.88 million), and the second one for 576,736 TERRA ($115K) and 5,487,381 USTC ($117K). The total losses amount to about $4 million USD.
 
 
+Attacker(s) drained all of the liquidity pools on Terraport, a newly-launched decentralized exchange platform
+
+The attacker(s) stole the funds in two transactions, in total withdrawing 9.7 million TERRA (Terraport’s native token) tokens, 15 billion Luna Classic (LUNC) tokens and 5.5 million of the Terra Classic USD stablecoin (USTC) tokens.
+
+A wallet involved in the Terraport launch was found to have made a series of suspicious changes to the code of three important smart contracts related to the liquidity pools, several hours before the heist was effected.
+
 ## On-Chain
 
 Exploited Address: terra19yrq0mehjfk5cquxn4svjxft4rmhcc9g8t0yma
@@ -72,3 +78,8 @@ Exploited Address: terra1z5luj6qdtclnt5jnjkrtnlj9zankf654638dq2
 
 - https://cointelegraph.com/news/terra-defi-project-terraport-suffers-2m-hack-days-after-launch
 
+- Page 530 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
+
+- https://twitter.com/_Terraport_/status/1645376363904335873
+
+- https://twitter.com/ShBar70/status/1645350897050873857
