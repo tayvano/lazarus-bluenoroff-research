@@ -1,8 +1,8 @@
-# mngr
+# MNGR
 
 Date:: October 8th, 2021
 
-Amount Stolen:: $17,615,990
+Amount Stolen:: $24,100,000
 
 
 ## Details
@@ -28,7 +28,7 @@ Amount Stolen:: $17,615,990
 
 ## On-Chain
 
-- Primary Attacker: 0x57737d6f8ea0099c30c96754a436e46d4dd3fa80
+- 0x57737d6f8ea0099c30c96754a436e46d4dd3fa80 - Primary Attacker
 
 - 0x1398db28ca00d9f943355d6b57ab28a61110bfef
 
@@ -37,7 +37,7 @@ Amount Stolen:: $17,615,990
 - 0xf49193605dcbccc6b8c2ea4b22795ec1ef090ee0
 
 
-Post-TC Cluster (includes mngr, arthur, easyfi, hugh karp, and countless others): 
+### Post-TC Cluster (includes mngr, arthur, easyfi, hugh karp, and countless others): 
 
 - 0x785b9940eaf44be2b832c61816ff873b97a8ad63
 - 0x2cf79ade61c36925463b02505d7186eabc1d8f2c

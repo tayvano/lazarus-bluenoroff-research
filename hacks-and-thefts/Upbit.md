@@ -2,7 +2,7 @@
 
 Date:: November 27th, 2019
 
-Amount Stolen:: $48.5M (342,000 ETH)
+Amount Stolen:: $48,500,000 (342,000 ETH)
 
 Tags:: CEX Hack, Private Key Compromise, "Inside Job"
 

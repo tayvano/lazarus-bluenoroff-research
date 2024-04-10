@@ -2,7 +2,7 @@
 
 Date:: April 21, 2018
 
-Amount Stolen:: $230,000,000
+Amount Stolen:: $234,000,000
 
 Tags:: CEX Hack, DPRK, Celas Trade Pro
 

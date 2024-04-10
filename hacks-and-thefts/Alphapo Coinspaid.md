@@ -30,6 +30,10 @@ We now know that Lazarus, the supposed hacker group behind the attack, spent hal
 
 The perpetrators’ main goal was to **trick a critical employee into installing software to gain remote control of a computer for the purpose of infiltrating and accessing CoinsPaid's internal systems**. After 6 months of failed attempts, the hackers managed to attack our infrastructure on July 22, 2023, successfully.
 
+Based on the timing, the Alphapo heist could have been due to the JumpCloud intrusion (see para. 136). CoinsPaid noted that “Recruiters from crypto companies contacted CoinsPaid employees via LinkedIn and various Messengers, offering very high salaries. For instance, some of our team members received job offers with compensation ranging from 16,000-24,000 USD a month. During the interview process, the perpetrators aimed to trick the candidates into installing the JumpCloud Agent or a special program to complete a technical task.”
+
+
+
 ## Lazarus Hackers Used Similar Tactics in the Atomic Wallet Heist
 
 Match System specialists discovered similar patterns that Lazarus previously used in their recent 100M USD Atomic Wallet hack.
@@ -73,6 +77,10 @@ This unfortunate incident provided some valuable experiences and insights for Co
 
 ## Links
 
+- https://coinspaid.com/company-updates/the-coinspaid-hack-explained/
+
+- https://twitter.com/zachxbt/status/1686327312843780097
+
 - https://rekt.news/alphapo-rekt/
 
 - https://www.theblock.co/post/241607/lazarus-group-suspected-by-coinspaid-of-37-million-hack
@@ -96,3 +104,7 @@ This unfortunate incident provided some valuable experiences and insights for Co
 - https://twitter.com/tayvano_/status/1686916598899281920
 
 - https://twitter.com/tayvano_/status/1686916609162809344
+
+- https://twitter.com/zachxbt/status/1683747073227624448
+
+- Page 534 + 535 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)

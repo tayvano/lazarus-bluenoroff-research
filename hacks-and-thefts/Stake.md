@@ -62,3 +62,4 @@ An attack in which approximately $41 million in virtual currency was stolen, pos
 - https://twitter.com/peckshield/status/1698697721342042621
 - https://twitter.com/zachxbt/status/1698712407177150729
 - https://twitter.com/tayvano_/status/1699476064307929104
+- Page 543 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)

@@ -2,7 +2,7 @@
 
 Date:: June 9th, 2018
 
-Amount Stolen:: $40,000,000 (1927 ETH)
+Amount Stolen:: $37,000,000 (1927 ETH)
 
 
 

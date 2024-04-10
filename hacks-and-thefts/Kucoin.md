@@ -2,7 +2,7 @@
 
 Date:: September 26th, 2020
 
-Amount Stolen:: $280,000,000
+Amount Stolen:: $275,000,000
 
 Time:: 06:49:18 PM +UTC
 

@@ -1,12 +1,21 @@
 # Youbit aka Yapizon aka Coinbin
 
-Date:: April 22nd, 2017 + December 2017
+## Incident 1
 
-Amount Stolen: $5,300,000 (3831 BTC) + "17% of assets"
+Date:: April 22nd, 2017
 
-Two hacks and three name changes in one year.
+Amount Stolen: $4,800,000 (3831 BTC) + "17% of assets"
+
+## Incident 2
+
+Date:: December 19th, 2017
+
+Amount Stolen:: $2,650,000
+
 
 ## Details
+
+**Two hacks and three name changes in one year.**
 
 Before becoming Youbit, Yapizon was hacked for the first time, losing 3,831 BTC in the process. Yapizon shared that it would dock remaining customer balances by the same amount to spread the burden of the losses.
 
@@ -22,9 +31,12 @@ According to the announcement, the exchange has marked down customer assets to 7
 
 ### Attribution
 
-Technically, as far as I can tell, only the "17% of assets" aka the December 2017 hack is attributed to DPRK.
+As far as I can tell, only the "17% of assets" aka the December 2017 hack is attributed to DPRK.
 
 Exchange 2 in [US v 113](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf)
+
+In the 2023 UN Report, they attributed both the April and December hacks to DPRK, as expected.
+
 
 
 ## Links

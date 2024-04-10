@@ -4,9 +4,9 @@ Tags:: "Inside Job", South Korea, CEX Hack, Spear-Phishing
 
 The best I have ever been able to parse out, the four separate hacks are as follows:
 
-- February 7th, 2017: ~$7 million or more. Or maybe 30k PII records.
+- February 7th, 2017: ~$7 million or more. Or maybe 30k PII records - Attributed to DPRK in 2023 UN Report
 
-- June 29th, 2017: ~$7 million or more. Or maybe 30k PII records.
+- June 29th, 2017: ~$7 million or more. Or maybe 30k PII records - Attributed to DPRK in 2023 UN Report
 
 - December 2017: the South Korean government attributed the attack(s) to DPRK. 
 

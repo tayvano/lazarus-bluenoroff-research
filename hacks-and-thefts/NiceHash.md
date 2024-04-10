@@ -2,7 +2,7 @@
 
 Date:: December 6th, 2017
 
-Amount Stolen:: $62,000,000 (4,736.42 BTC)
+Amount Stolen:: $65,000,000 (4,736.42 BTC)
 
 Tags: CEX Hack, Slovenia, BTC
 

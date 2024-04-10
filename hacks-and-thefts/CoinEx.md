@@ -82,8 +82,11 @@ The cryptocurrency exchange CoinEx suffered a hacker attack. The cause of the in
 ## On-Chain Theft IoCs
 
 - 174.128.251.99
+
 - timeZone: Asia/Shanghai (GMT+0800)
+
 - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+
 - en-US,en;q=0.9,ko;q=0.8,zh-CN;q=0.7,zh;q=0.6
 
 ## Links
@@ -93,3 +96,6 @@ The cryptocurrency exchange CoinEx suffered a hacker attack. The cause of the in
 - https://twitter.com/coinexcom/status/1701888744872354128
 - https://twitter.com/coinexcom/status/1702333287816171877
 - https://www.elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics
+- https://twitter.com/zachxbt/status/1701905899034390574
+- Page 545 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
+- https://twitter.com/zachxbt/status/1701910623175553247

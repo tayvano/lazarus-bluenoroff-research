@@ -2,7 +2,7 @@
 
 Date:: July 9th, 2018
 
-Amount Stolen:: $23,000,000 (24,984 ETH + 229,356,645 NPXS + 3,200,000 BNT)
+Amount Stolen:: $23,500,000 (24,984 ETH + 229,356,645 NPXS + 3,200,000 BNT)
 
 Tags:: BNT, ETH, NPXS, Switzerland, Private Key Compromise, Admin Key Compromise
 

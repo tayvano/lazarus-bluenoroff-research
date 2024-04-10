@@ -38,6 +38,7 @@ This attribution was later confirmed by the FBI
 - https://www.fbi.gov/news/press-releases/fbi-identifies-cryptocurrency-funds-stolen-by-dprk
 - https://www.rekt.news/atomic-wallet-rekt
 - https://www.web3rekt.com/hacksandscams/atomic-wallet-1617
+- Page 532 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
 
 
 

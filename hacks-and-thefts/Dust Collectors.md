@@ -35,6 +35,13 @@
 - 0x072422f1b6946740e43da4e2003f565a582a8e89
 - Feb 12, 2022 6:13:19 AM
 - 0.42194 ETH
+- Date: September 18th, 2021
+- Amount Stolen: ~$750,000
+- 0x6c79a4b47769cb9dc73e8e08326816dde6d86038 - Victim
+- 0x5ea9a6930d879496b817d82260e2fe8fbe60bb0c - Victim
+- 0x33417055094b04c4751454b61dc075e0dcadf904 - Victim
+- 0x6b364d08a0e8f7aa71e3483e3966f20072f157df - Victim
+- 0x072422f1b6946740e43da4e2003f565a582a8e89 - Theft
 
 
 
@@ -45,13 +52,6 @@
 - 0xaaa51a89c7d3342e0c4e6084713aa44248a7a232
 - 0xbc64b01f31a32024da8e973f7ea46abd7f80216b
 - 0x1398db28ca00d9f943355d6b57ab28a61110bfef
-
-
-
-
-
-
-
 
 
 
@@ -95,3 +95,15 @@
 - 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Dust Collector Jan 2024
 
 
+
+
+
+
+
+# April 2024
+
+### 0xbe1566497c7f581258c14bf297a8f4e747ddf013 - April 2024 Dust Collector
+
+- Receives from Serenity Shield (0x11749e7d7d43554b907f18f9eb1fea35aa0c8d79)
+
+- Receives from Braintrust Job Dev Scam (0x8baa40851c5c3a822e9c881103573f5246ead710)

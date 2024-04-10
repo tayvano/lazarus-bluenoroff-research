@@ -2,7 +2,7 @@
 
 Date:: August 24th, 2020
 
-Amount Stolen: $100,000?
+Amount Stolen: ?
 
 ## Details
 
@@ -18,6 +18,9 @@ Amount Stolen: $100,000?
 
 ## On-Chain
 
+
+### BTC
+
 - 1KcTk7kJMjYaCV3FXo5bzpjaZs2aK18ntz
 
 - bc1qffjuzkld2jp2hf5apg9trz3ucpqt4rzj5rvvwv
@@ -28,24 +31,37 @@ Amount Stolen: $100,000?
 
 - 1GcHyFLYSMvr4XSySYdZUWB2LLGvu4QjVr
 
-- 1DTjz8QWughcPekZaFdTdrrNxp9TEkZFWN 0 Attributed Lazarus Group
+- 1DTjz8QWughcPekZaFdTdrrNxp9TEkZFWN - Attributed Lazarus Group
 
 - 15K6ZmcnkqEXJpVpfqnk18fYGxRbDXAZr4 - Receives from multiple known DPRK victims
 
 
+### 0x94cf84daa641b499cf518ad49f8463fd39f4e579
+
+    - 0xa06957c9c8871ff248326a1da552213ab26a11ae receives 143 ETH (~$60k) from Coinberry on Aug 24, 2020
+
+    - 0xa06957c9c8871ff248326a1da552213ab26a11ae sends ~$60k to 0x94cf84daa641b499cf518ad49f8463fd39f4e579 on Aug 24, 2020
+
+    - 0x94cf84daa641b499cf518ad49f8463fd39f4e579 sends ~$60k to 0xbfc560a48619e2ff496adcd76f5974a5d4236f6b on Aug 24, 2020
+
+    - 0xbfc560a48619e2ff496adcd76f5974a5d4236f6b sends ~$60k to 0x94cf84daa641b499cf518ad49f8463fd39f4e579 on Aug 31, 2020
+
+    - 0x94cf84daa641b499cf518ad49f8463fd39f4e579 sends ~$663k to 0x99739fa525c0a98384430235d278fd08938997f9 on Aug 31, 2020
+
+
 ### 38AhhMN9Sg9hnKT4gps8hrJPMyfgMY3nZ5
 
-- 0xe1cfc33ed7efc7e432a2214276fff6b71f09d493 via Ren Bridge
+    - 0xe1cfc33ed7efc7e432a2214276fff6b71f09d493 via Ren Bridge
 
-    - txn: e6fc336da02fa2de878bc90f466407bee6fc186df66e636b1adb0da4f1f81cde
+        - txn: e6fc336da02fa2de878bc90f466407bee6fc186df66e636b1adb0da4f1f81cde
 
-    - txn: 0xa23f39446a7d7378755a06f460b5cd456feef4ca8e1c319e4b46a333277f2e97
+        - txn: 0xa23f39446a7d7378755a06f460b5cd456feef4ca8e1c319e4b46a333277f2e97
 
-- 0xe1c receives 0x990924d51c6ea6e212cce6e811b380ffd44ac350 (Coinmetro + L2 Theft)
+    - 0xe1c receives 0x990924d51c6ea6e212cce6e811b380ffd44ac350 (Coinmetro + L2 Theft)
 
-- 0xe1c also sends to September 2023 Dust Collector 0x99739fa525c0a98384430235d278fd08938997f9
+    - 0xe1c also sends to September 2023 Dust Collector 0x99739fa525c0a98384430235d278fd08938997f9
 
-- 0xe1c also sends $5.8m to 0x7026b25422821473f7856ec03b0a3d58fee10100 which sends to 0x31499e03303dd75851a1738e88972cd998337403 (direct and via a back-and-forth Ren Bridge) which interacts with EasyFi exploiter 0x83a2eb63b6cc296529468afa85dbde4a469d8b37
+    - 0xe1c also sends $5.8m to 0x7026b25422821473f7856ec03b0a3d58fee10100 which sends to 0x31499e03303dd75851a1738e88972cd998337403 (direct and via a back-and-forth Ren Bridge) which interacts with EasyFi exploiter 0x83a2eb63b6cc296529468afa85dbde4a469d8b37
 
 
 ## Links

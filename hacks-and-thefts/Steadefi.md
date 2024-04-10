@@ -142,4 +142,10 @@ These withdrawals were co-mingled with another theft from August 16, 2023 and we
 
 - https://twitter.com/steadefi/status/1688619454178144264
 
+- https://twitter.com/h2jazi/status/1661528861211860993
+
 - Page 540 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
+
+![](../images/steadefi01.png)
+
+![](../images/steadefi02.png)

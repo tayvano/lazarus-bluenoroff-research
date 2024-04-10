@@ -4,29 +4,45 @@ Amount Stolen:: $7,624,588
 
 Date:: October 17, 2023
 
+## Notes
+
+- It's likely a single device or devices on a single network were compromised leading to the compromise of multiple wallets holding assets belonging to an employee of the Fantom Foundation and the Fantom Foundation wallets themselves.
+
+- A total of approximately $7m was stolen in this single incident. The likely cause is, again, complete device pwnage due to DPRK malware. Most likely employee is Fantom CEO Michael Kong.
+
+- DPRK attribution comes, in part, from observations on DPRK-controlled C2s as well as on-chain laundering and timing matching other thefts that occuring the same week.
+
+
 
 
 ## Details:
 
 The Fantom Foundation, developer of the Fantom network, was hacked for over $550,000 in cryptocurrency, initially reported as $7 million by blockchain security researchers.
+
 The foundation clarified that most of the stolen funds belonged to other users, and 99% of their own funds were secure. Some wallets mislabeled by block explorers were initially thought to belong to the foundation but were later reassigned to an employee and no longer held company funds.
 The attack is under investigation to determine how the wallets were compromised.
+
 The attack targeted the foundation and other Fantom wallet users, rather than the Fantom network itself.
 
 
-## Notes
+### Page 550 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
 
-It's likely a single device or devices on a single network were compromised leading to the compromise of multiple wallets holding assets belonging to an employee of the Fantom Foundation and the Fantom Foundation wallets themselves. A total of approximately $7m was stolen in this single incident. The likely cause is, again, complete device pwnage due to DPRK malware. Most likely employee is Fantom CEO Michael Kong.
-DPRK attribution comes, in part, from observations on DPRK-controlled C2s as well as on-chain laundering and timing matching other thefts that occuring the same week.
+Attack methodology:
+
+- As part of a spearphishing campaign by the attacker(s) on Telegram, a Fantom Foundation employee received a message from an individual claiming to be the founder of an established blockchain and investment fund and purporting to be located in an Asian country, who was interested in investing in Fantom Foundation and requested a video call to discuss (see Figure 16). The attacker was not pushy or forceful in setting a date for the call.
+
+The attacker sent a video link to join the call that resulted in an “access restricted” message (see Figure 17); the attacker sent a troubleshooting link which automatically downloaded an Applescript file without any warnings or prompts (see Figure 18). The file contained troubleshooting instructions to run a script, which did not result in any abnormal computer processes and was not identified as malicious by antivirus software.
+
+After approximately 25 minutes of “troubleshooting”, the attacker agreed to meet on another, established platform, at a later date. However, the same day as the initial call attempt, the victim noticed messages disappearing from Telegram, and less than 24 hours later, wallets associated with the victim’s Metamask Chrome Browser extension were being drained (both personal and those of Fantom Foundation). The extension subsequently crashed and the victim was unable to use Chrome; after a compute restart, the Chrome application disappeared completely. By the time the victim re-downloaded Chrome and Metamask and restored access to wallets, they were almost completely drained.
 
 
+Subsequent investigation determined that malicious IP address 104.168.137.21 had gained unauthorized access to the victim’s computer to effect the heist, and that the script had resulted in all of the victim’s Chrome data (including Metamask wallets) being stolen.
 
-## Links
+This attack is part of a broader Lazarus Group campaign of spearphishing on Telegram, targeting the cryptocurrency industry (see para 188).
 
-- https://twitter.com/CyversAlerts/status/1714308396453695518/photo/1
-- https://twitter.com/BeosinAlert/status/1714326758894551477/photo/2
-- https://twitter.com/FantomFDN/status/1714337765502992798
+The attacker(s) stole 47 cryptocurrencies from the Ethereum, Optimism, Fantom, Polygon, and Arb blockchains, from 11 cryptocurrency wallets (see Figure 19). 
 
+The stolen cryptocurrency was converted into Ether (ETH) using services such as Squid Router and deposited into Tornado Cash.
 
 
 ## On-Chain
@@ -50,7 +66,6 @@ DPRK attribution comes, in part, from observations on DPRK-controlled C2s as wel
 - 0x1d93c73d575b81a59ff55958afc38a2344e4f878 - Theft 1d9 
 - 0x2f4f1d2c5944dba74e107d1e8e90e7c1475f4001 - Theft 2f4 
 - 0x0b1f29df74a19c44745862ab018d925501fe9596 - Theft Balance 
-- 0x5cdeffa84ee3c203fee7a3901d90ff464ebff801 - Theft 
 - 0xb48677997e6e88c2cd1825017ccac3054b4080fc - Safe Addy? 
 - 0x431e81e5dfb5a24541b5ff8762bdef3f32f96354 - Fantom Foundation (not compromised) 
 - 0xa51b1bc907fe0a6bc6538c5c56472c1d9c60de23 - Fantom Controlled Wallet (not compromised?) 
@@ -59,7 +74,7 @@ DPRK attribution comes, in part, from observations on DPRK-controlled C2s as wel
 ## Tornado Cash
 
 - 0x5cdeffa84ee3c203fee7a3901d90ff464ebff801
-    - 46
+    - 46 Deposits
     - 4600 ETH
     - 2023-10-31 14:42
     - 2023-11-07 12:22
@@ -78,3 +93,11 @@ DPRK attribution comes, in part, from observations on DPRK-controlled C2s as wel
 - 0x0c45060bc4c518b6942f19d7c279ed42e137d29d - Dust Collector Input
 - 0xf857bb93eb57183ad42593496da46de83cf29d44 - Dust Collector Input
 - 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Dust Collector Jan 2024
+
+
+## Links
+- https://twitter.com/CyversAlerts/status/1714308396453695518/photo/1
+- https://twitter.com/BeosinAlert/status/1714326758894551477/photo/2
+- https://twitter.com/FantomFDN/status/1714337765502992798
+- Page 550 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
+

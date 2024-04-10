@@ -1,12 +1,10 @@
-# Theft from Individual "L2"
+# Theft from "L2"
 
 Date:: November 13th, 2020
 
 Amount Stolen: $893,000
 
 ## Details
-
-4+ addresses compromised
 
 Malware suspected, never found
 
@@ -39,7 +37,7 @@ Malware suspected, never found
 
 ## Connections to other known cases
 
-- CoinMetro, Coinberry, Tap.global?
+- CoinMetro, Coinberry, Tap.global, Fetch.ai
 
 - Def converges with Hugh Karp / Nexus Mutal incident and thus EasyFi, et al.
 
