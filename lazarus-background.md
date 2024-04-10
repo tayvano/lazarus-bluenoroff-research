@@ -41,6 +41,8 @@
 
 - The malware in each attack is usually compiled just before the attack happened and custom built for the target. Once they have access, especially when attacking financial systems, they often manipulate the existing system and existing software to do their bidding for them. For example, in one incident, they knew a target used MetaMask to access his tokens on his hardware wallet. They replaced his MetaMask with a malicious version that hid the fact he was not sending a few tokens to a friend, but all his NXM tokens to the attackers address. Ultimately, the target was the one who clicked the buttons that resulted in the theft.
 
+
+
 # Interesting Quotes
 
 > Lazarus is not just another APT actor The scale of Lazarus operations is shocking. It has been on a growth spike since 2011 and activities didn't disappear after Novetta published the results of its Operation Blockbuster research.
@@ -57,7 +59,7 @@
 
 > One of Bluenoroff's favorite strategies is to silently integrate into running processes without breaking them.  From the perspective of the code we've seen it looks as if it is not exactly looking for hit and run solutions when it comes to money theft.  Its solutions are aimed at invisible theft without leaving a trace. Of course, attempts to move around millions of USD can hardly remain unnoticed but we believe that its malware might now be secretly deployed in many other places - and it doesn't trigger any serious alarms because it's much more quiet.
 
-> We would like to note, that in all the observed attacks against banks that we have analyzed, servers used to connect to SWIFT didn't demonstrate or expose any specific vulnerability.  The attacks were focused on the banks’ infrastructure and staff, exploiting vulnerabilities in commonly used software or websites, bruteforcing passwords, using keyloggers and elevating privileges.  However, the design of inter-banking transactions using a bank's own server running SWIFT connected software suggests that there are personnel responsible for the administration and operation of the SWIFT connected server.  **Sooner or later the attackers find these users, gain their necessary privileges and access the server connected to the SWIFT messaging platform.**
+> We would like to note, that in all the observed attacks against banks that we have analyzed, servers used to connect to SWIFT didn't demonstrate or expose any specific vulnerability.  The attacks were focused on the banks’ infrastructure and staff, exploiting vulnerabilities in commonly used software or websites, bruteforcing passwords, using keyloggers and elevating privileges.  However, the design of inter-banking transactions using a bank's own server running SWIFT connected software suggests that there are personnel responsible for the administration and operation of the SWIFT connected server.  Sooner or later the attackers find these users, gain their necessary privileges and access the server connected to the SWIFT messaging platform.
 
 > With administrative access to the platform, they can manipulate the software running on the system as they wish. 
 
@@ -74,7 +76,9 @@
 > In December 2019, Lazarus Group had 470 separate cryptocurrency addresses at its top 20 exchanges that had received at least $1,000 worth of stolen cryptocurrency. By the end of December 2020, that number had risen to 2,078. This suggests that Lazarus Group is spreading its funds around more to mitigate the risk of any one address being identified and frozen. It also fits a pattern of adaptability on the part of Lazarus Group — each year, their money laundering strategy changes as services improve their security efforts.
 
 
-# The Lazarus Group is called by many, many names
+
+
+# The Many Names of Lazarus
 
 - The Lazarus Group naming and attribution originally stems from the February 2016 Operation Blockbuster report on the 2014 Sony Pictures Hack.
 
@@ -84,180 +88,99 @@
 
 - This is also partially due to the fact that there's not one room with 1000 North Korean hackers in it. There are actually different teams with different mandates and operating under different departments and levels of government. Different groups work on different hacks, have different methods, different motivations, etc.
 
-- Generally, today, in 2022, you should assume the moniker Lazarus Group refers very broadly to any cyber / threat activity attributed to North Korea unless explicitly specified otherwise.
+- Generally, today, you should assume the moniker Lazarus refers very broadly to any cyber / threat activity attributed to North Korea unless explicitly specified otherwise.
 
-- The financially-motivated group responsible for the attacks on banks, financial companies, trading companies, casinos and cryptocurrency exchanges became known as`Bluenoroff` and is either a subgroup of Lazarus or a group originally spun out of Lazarus.
+- Increasingly, sec researchers and governments have been using "DPRK" instead of "Lazarus", possibly to avoid confusion around attribution to a specific group or imply a linkage to specific malware/iocs/ttps. Or perhaps bc its just shorter.
 
-### Outlining the Specific Naming Conventions by Specific Folks
 
-- Kaspersky - Lazarus Bluenoroff
-    
-    - refers to the original perpetrators of Operations Troy / Sony Pictures / Operations Dark Seoul as Lazarus. While investigating the SWIFT Heists they linked attack systems and lateral movement tools to Lazarus but noted that Lazarus was still engaged in cyberespionage and cybersabotage campaigns at the time. They began referring to the group that attacked banks and financial manipulations as Bluenoroff, a subgroup or separate but closely affiliated group, possibly spun out and comprised of members of the original Lazarus group.
-    
-    - https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf
+## Mandiant's Current Naming Conventions
 
-- U.S. DoJ, US Treasury, OFAC, FBI: HIDDEN COBRA BeagleBoyz
-    
-    - Generally refer to all malicious cyber activity by the North Korean government as HIDDEN COBRA and further specify subgroups on an as-needed basis. For example: "To differentiate methods from other North Korean malicious cyber activity, the U.S. Government refers to this team as BeagleBoyz, who represent a subset of HIDDEN COBRA activity."
+Source: https://www.mandiant.com/resources/blog/north-korea-cyber-structure-alignment-2023
 
-- US Army - Bureau 121 Andarial Bluenoroff Lazarus
-    
-    - Bureau 121 to describe the higher level organization of ~6,000 members and Andarial, Bluenoroff, and Lazarus to describe the subordinate units responsible for `reconnaissance`, `financial cybercrime`, and `social chaos`, respectively.
+Mandiant maintains, tracks, and reports campaign history on North Korea’s offensive cyber operations. The following are the most prevalent groups Mandiant currently tracks, along with a brief summary of each threat group, and primary targeting priority/priorities. Note: The groups that follow are referred to with their Mandiant designations (UNC numbers) alongside the names that have been used publicly to identify activity we attribute to the underlying group. While we believe that these definitions are largely congruent, differences in visibility and analytic tradecraft mean that an exact match is unlikely. 
 
-- Mandiant - Lab 110 Andarial APT37 APT38 TEMP.Hermit Bureau 325 CERIUM
-    
-    - In 2022, private security researcher group **Mandiant**, introduced Lab 110, an expanded and reorganized version of "Bureau 121" with Andarial, APT38, and TEMP.Hermit who focus on `targeting military and government personnel`, `financial compromises via destructive malware`, and `collecting strategic intelligence`, respectively.
-    
-    - In this same report by **Mandiant**, they explore Bureau 325 which was formed in response to COVID-19. This group likely pulled top members from Bureau 121, bringing their tools, fingerprints, and patterns with them. Their initial mandate, and now one of their sub-units, is the COVID-19-focused unit CERIUM. More recently this group has targeted defectors, defense and governments, bloggers, media, cryptocurrency services, and financial institutions
 
-### List of Names
 
-- RGB -> 3rd Bureau -> **Bureau 121 / Lab 110** (broadly "Lazarus")
-    
-    - Bureau 121 aka Lab 110 aka (broadly) "Lazarus"
-    
-    - Open-source [reporting](https://risky.biz/laz/) often uses the Lazarus Group title as an umbrella term, referring to numerous clusters that we track separately.
-    
-    - E-4. Most EW and cyberspace warfare operations take place within the Cyber Warfare Guidance Unit, more commonly known as Bureau 121, with four subordinate units below Bureau 121: The Andarial Group, The Bluenoroff Group, The Lazarus Group, Electronic Warfare Jamming Regiment. 
-    
-    - E-4. There are over 6,000 members in Bureau 121, many of them operating from other countries, such as Belarus, China, India, Malaysia, and Russia. North Korean computer hackers have even been able to access secure systems and steal South Korean war plans.
-    
-    - Lab 110 is likely an expanded and reorganized version of "Bureau 121" often noted as North Korea's primary hacking unit.
-    
-    - Lab 110 contains some elements that are most closely aligned with the organization, publicly reported as "Lazarus Group."
-    
-    - Lab 110 has operated out of front companies historically based in northeast China, among other locations. Previously [identified](https://int.nyt.com/data/documenthelper/274-park-jin-hyo-complaint/7b40e5ed5b185f141e1a/optimized/full.pdf#page=1) [fronts](https://intelligence.fireeye.com/reports/18-00014948) include Chosun Expo Joint Venture in Dalian and Chosun Baeksul Trading Company in Shenyang. 
-    
-    - https://ccdcoe.org/uploads/2019/06/Art_08_The-All-Purpose-Sword.pdf
 
-- RGB -> 3rd Bureau -> Bureau 121 / Lab 110 -> **The Andariel Group**
-    
-    - Silent Chollima == Dark Seoul == Rifle == Wassonite
-    
-    - Another subgroup, Andarial, is active only in South Korea and seeks to perform various attacks that focus on stealing confidential data from the military and defence industries.
-    
-    - Is focused on targeting South Korean organizations and businesses, as well as military agencies, defense industries, political organizations, security companies, ICT companies, and energy research institutes, ATMs, banks, travel agencies, cryptocurrency exchanges, and online gambling users.
-    
-    - The group was observed using a variety of tools and tactics in their operations, such as DDoS attacks and wipers, misdirection techniques (campaigns disguised as hacktivist attacks, or a “false flag” scenario), spear-phishing, supply-chain attacks, watering hole attacks exploiting Active-X vulnerabilities, exploitation of vulnerabilities in security and IT asset management systems.
-    
-    - Andariel’s malware arsenal includes well-known backdoors, such as Aryan and Gh0st RAT, and in-house developed backdoors like Andarat, Andaratm, Rifdoor, and Phandoor.
-    
-    - 1,600 members (+/-) whose mission is to gather information by conducting reconnaissance on enemy computer systems and creating an initial assessment of the network’s vulnerabilities. This group maps the enemy network for potential attack.
-    
-    - Andarial was responsible for causing server errors in the 3.20 (DarkSeoul) attack on 20 March 2013, and since the second half of 2016 it has been more focused on attacking the financial industry. 
-    
-    - Focuses its operations on foreign businesses, government agencies, financial services infrastructure, private corporations, and businesses, as well as the defense industry.
-    
-    - The group also conducts cyber crime likely as an extra source of income to the government as we observed in signature malware [activity](https://advantage.mandiant.com/reports/21-00014321) by this actor; however, targeting of military and government personnel appear to be the primary focus. 
+### [Andariel](https://global.ahnlab.com/global/upload/download/techreport/%5BAhnLab%5DAndariel_a_Subgroup_of_Lazarus%20\(3\).pdf) / UNC614
 
-- RGB -> 3rd Bureau -> Bureau 121 / Lab 110 ->** The Bluenoroff Group / APT38 / CryptoCore**
-    
-    - Bluenoroff ==  Stardust Chollima == BeagleBoyz ==  Nickel Gladstone
-    
-    - CryptoCore == Dangerous Password
-    
-    - APT38 is a financially-motivated threat group that is backed by the North Korean regime
-    
-    - The group mainly targets banks and financial institutions and has targeted more than 16 organizations in at least 13 countries since at least 2014.
-    
-    - 1,700 (+/-) whose mission is to conduct financial cybercrime by concentrating on long-term assessment and exploiting enemy network vulnerabilities. Bluenoroff exploits the systems for financial gain for the regime or to take control of the system. (2020)
-    
-    - Meanwhile, the Bluenoroff group, a subgroup of the Lazarus Group, is more focused on attacking financial institutions and cryptocurrency exchanges.
-        
-    - APT38 is a financially motivated group sponsored by North Korea, known for significant financial compromises and its use of destructive malware against financial institutions. The group has been attributed to sophisticated compromises targeting Interbank Fund Transfer Systems to steal millions of dollars at a time across multiple countries worldwide.
-    
-    - A related, and likely subgroup of APT38 that also primarily focuses on financial activity, is referred to in the open source as “CryptoCore” or “Dangerous Password”
-    
-    - Stardust Chollima
-        
-        - https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-april-stardust-chollima/
-        
-        - STARDUST CHOLLIMA is a targeted intrusion adversary with a likely nexus to the DPRK.
-        
-        - This adversary is typically involved in operations against financial institutions with the intention of generating liquid assets for the DPRK.
-        
-        - Previous activity tied to this adversary includes campaigns focused on abusing Society for Worldwide Interbank Financial Telecommunication (SWIFT) systems, as well as intrusions against global banking networks via strategic web compromise operations.
-        
-        - STARDUST CHOLLIMA uses several implants that share a code framework tracked by CrowdStrike as “TwoPence.” This actor also uses techniques such as code protection tools like Enigma protector, password protected executables and secure deletion functions to remain hidden on target system for long periods of time by avoiding legacy security products.
-        
-        - Recent Falcon Intelligence reporting has been published to customers assessing that STARDUST CHOLLIMA is suspected of targeting Latin America-based organizations since mid-2017.
-        
-        - STARDUST CHOLLIMA primarily targets its victims with the aim of acquiring funds. 
-        
-        - CrowdStrike has not directly observed STARDUST CHOLLIMA conducting intelligence-gathering or destructive operations. It is not known at this time whether the TwoPence framework is used exclusively by STARDUST CHOLLIMA or if elements of it are shared between other related DPRK adversaries such as LABYRINTH CHOLLIMA, RICOCHET CHOLLIMA or SILENT CHOLLIMA.
-        
-        - Currency generation represents an additional mission of DPRK actors beyond destructive attacks and espionage; this may reflect the impact of sanctions levied against the DPRK by the international community and the 2017 banning of the DPRK from [SWIFT.](https://www.reuters.com/article/us-northkorea-banks-swift/swift-messaging-system-bans-north-korean-banks-blacklisted-by-u-n-idUSKBN16F0NI)
-        
-        - CrowdStrike identified earlier attempts at revenue generation by SILENT CHOLLIMA prior to tracking STARDUST CHOLLIMA, which leveraged unique tools and infrastructure; however, no overlap between the two actors was identified. In addition to financial sector targeting, there is some technical overlap between the [Wannacry ransomware](https://www.crowdstrike.com/blog/falcon-intelligence-report-wanna-ransomware-spreads-rapidly-continually-encrypts-victim-files/), which began self propagating in May 2017, and both STARDUST CHOLLIMA and LABYRINTH CHOLLIMA.
-        
-        - The earliest observed version of WannaCry, created in February 2017, generates a custom TLS handshake message as part of its C2 protocol that is sent before actual payload data is transmitted. This handshake message selects a random number of cipher suite constants from a hard-coded array, resulting in changing patterns of network traffic. Some variants of Hawup also generate a fake TLS header with a random selection of cipher suite identifiers that is prepended to actual C2 traffic. While the code is not the same, the concept and structure are similar enough to assume a relation.
-        
-        - All WannaCry samples, many Hawup variants, and many tools based on the TwoPence library were compiled using Microsoft Visual Studio 6, which is rarely observed almost 19 years after its release. A hypothesis explaining these similarities is that the different actor groups have access to the same development resources, perhaps even a shared code library, but they engage in different types of attacks according to their respective missions. Community or industry names Lazarus Group, and Bluenoroff have been associated with this actor.
-    
-    - https://www.clearskysec.com/cryptocore-lazarus-attribution/
-    
-    - https://www.bleepingcomputer.com/news/security/cryptocore-hackers-made-over-200m-breaching-crypto-exchanges/
-    
-    - https://attack.mitre.org/versions/v8/groups/G0082
-    
-    - https://content.fireeye.com/apt/rpt-apt38
-    
-    - https://securelist.com/lazarus-under-the-hood/77908/
-    
-    - https://www.us-cert.gov/ncas/alerts/TA17-164A
+- This actor targets foreign businesses, government agencies, financial services infrastructure, private corporations, and the defense industry. UNC614 also engages in cyber crime as an extra source of income to fund their operations, including the [ransoming of hospitals](https://advantage.mandiant.com/reports/22-00021780), using their own ransomware malware dubbed [MAUI](https://advantage.mandiant.com/reports/22-00019069). However, their primary focus is on targeting military and government personnel. 
+- This cyber group stands apart from the other DPRK aligned groups and typically does not fall into the blending and targeting that the others may do. Some groups have espionage and financial focuses, but Andariel is tasked to acquire information to “build” the weapons of mass destruction or research and development programs in other targeted fields, like pharmaceuticals. 
+- The targeting trends, such as nuclear, aerospace, high heat molds, etc. and overall successful compromises of this actor make it quite possibly the scariest of all the DPRK affiliated groups.
+- Primary targeting: Defense, Aerospace, Healthcare (when self-funding operations), Nuclear
 
-- RGB -> 3rd Bureau -> Bureau 121 / Lab 110 -> **The Lazarus Group / TEMP.Hermit**
-    
-    - Although TEMP.Hermit is most frequently aligned with Lazarus Group reporting, often times, researchers and open sources lump all three of these actor sets – and sometimes even all of the North Korean APTs – merely as “Lazarus Group”.
-    
-    - TEMP.Hermit has been around since at least 2013. Their operations since that time are representative of Pyongyang's efforts to collect strategic intelligence to benefit North Korean interests. This actor targets government, defense, telecommunications, and financial institutions worldwide and the term “Lazarus Group” refers most often to this cluster of activities.   
-    
-    - Unknown number of members whose mission is to create social chaos by weaponizing enemy network vulnerabilities and delivering a payload if directed to do so by the regime. This group preloads the network with codes for later activation that disrupt or destroy the network. The Lazarus Group unleashed the WannaCry malware in 2016–2017, causing massive problems around the world—including in the U.S.
 
-- HIDDEN COBRA
-    
-    - BeagleBoyz
 
-- MSS -> APT37
-    
-    - APT37's previous campaigns targeting foreign joint venture partners as well as threat activity against defectors, defector support agencies, and humanitarian organizations indicate APT37's activities most likely align with the agenda of Ministry of State Security.
-    
-    - APT37's assessed primary mission is **covert intelligence gathering in support of DPRK's strategic military, political, and economic interests.**
-    
-    - https://advantage.mandiant.com/reports/21-00027289
-    
-    - North Korean cyber espionage group that has been active since at least 2012
-    
-    - Targets victims primarily in South Korea, but also in Japan, Vietnam, Russia, Nepal, China, India, Romania, Kuwait, and other parts of the Middle East
-    
-    - Been linked to following campaigns between 2016-2018: Operation Daybreak, Operation Erebus, Golden Time, Evil New Year, Are you Happy?, FreeMilk, Northern Korean Human Rights, and Evil New Year 2018.
-    
-    - https://attack.mitre.org/versions/v8/groups/G0067
 
-- APT-C-26
+### [TEMP.Hermit](https://thehackernews.com/2023/03/north-korean-unc2970-hackers-expands.html)
 
-- Appleworm
+- TEMP.Hermit, is an actor that has been active since at least 2013. Their operations since that time are representative of Pyongyang's efforts to collect strategic intelligence to benefit North Korean interests. This actor targets government, defense, telecommunications, and financial institutions worldwide and the term “Lazarus Group” refers most often to this cluster of activities. AppleJeus maintains overlap with this organization, but TEMP.Hermit’s targeting continues to focus on espionage related activities and not cryptocurrency as its primary focus.
+- Primary targeting: Government, Defense, Telecommunications
 
-- DPRK3
 
-- G0032
 
-- G0067
 
-- Group 77
+### [AppleJeus](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-048a) / UNC1720
 
-- Guardians Of Peace aka New Romantic Cyber Army
+- A threat group that has been active since at least 2018. It is assessed to primarily target the cryptocurrency industry with the goal of stealing digital assets to fund the regime’s priorities. The group uses a variety of tactics, including spear-phishing emails and fake cryptocurrency trading software, to infiltrate target systems and steal cryptocurrency. Like TraderTraitor, this crypto-focused group appeared to emerge after the notoriety that came with the Bangladesh heist and issues with stealing and laundering traditional currency. This group’s tools overlap with TEMP.Hermit, but is not focused on the same targeting profiles, potentially indicating shared resources.
+- Primary targeting: Cryptocurrency
 
-- Hacking Team 
 
-- NICKEL ACADEMY
-    
-    - https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing
 
-- Office 91
 
-- Red Dot 
+### [CryptoCore](https://www.clearskysec.com/cryptocore-lazarus-attribution/) / UNC1069
 
-- Team Whois
+- A threat actor that has been active since at least 2018. UNC1069 is a cryptocurrency focused group that may include individuals or units previously tracked as APT38, and while it has minor overlaps with APT43, we belive it is distinct. UNC1069 has targeted a variety of financial services firms and cryptocurrency exchanges, commonly employing spear-phishing techniques that result in LONEJOGGER malware infections. This organization appears to maintain a revenue generation priority, like its overarching APT38 subunits, however on a much smaller financial scale.
+- Primary Targeting: Financials, Cryptocurrency 
 
-- Zinc 
+
+
+
+### [TraderTraitor](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-108a) / UNC4899
+
+- TraderTraitor targets blockchain companies through spear-phishing messages. The group sends these messages to employees, particularly those in system administration or software development roles, on various communication platforms, intended to gain access to these start-up and high-tech companies. TraderTraitor may be the work of operators previously responsible for APT38 activity.
+- Primary targeting: Cryptocurrency
+
+
+
+
+### [IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
+
+- DPRK’s IT Workers, which according the the US Treasury department, primarily fall under the KWP’s Munitions Industry Department, are made up of thousands of highly skilled IT workers from North Korea. They are reportedly deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs. These workers acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment. Although they mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions*carried out by North Korea.
+
+
+
+
+### [APT37](https://www.mandiant.com/resources/blog/apt37-overlooked-north-korean-actor)
+
+- APT37's assessed primary mission is covert intelligence gathering in support of DPRK's strategic military, political, and economic interests. The group has been observed targeting a wide range of industries, primarily in South Korea. This organization is most closely aligned with the efforts of the MSS and its overarching cyber activities highlight the monitoring of defectors abroad and foreign elements interacting with DPRK.
+- Primary targeting: Defectors, Governments
+
+
+
+
+### [APT38](https://www.mandiant.com/resources/blog/apt38-details-on-new-north-korean-regime-backed-threat-group)
+
+- APT38 is a financially motivated group, known for significant financial compromises and its use of destructive malware against financial institutions. The group has been attributed to sophisticated compromises targeting [Interbank Fund Transfer Systems](https://www.mandiant.com/resources/blog/apt38-details-on-new-north-korean-regime-backed-threat-group) to steal millions of dollars at a time across multiple countries worldwide. 
+- Current activity from this group is conducted by associated subgroups. Mandiant identified a long hiatus of activity attributed to APT38, which may be indicative of modifications and regrouping of APT38 operators to other units aligned with new priorities and needs.
+- Primary targeting: Financials
+
+
+
+
+### [APT43](https://www.mandiant.com/resources/blog/apt43-north-korea-cybercrime-espionage)
+
+- APT43 is a prolific cyber operator that directly supports intelligence gathering interests of the North Korean regime. The group combines moderately sophisticated technical capabilities with aggressive social engineering tactics, especially against South Korean and US-based government organizations, academics, and think tanks focused on Korean peninsula geopolitical issues. 
+This organization acts as an intelligence arm and seeming embassy replacement for the RGB and DPRK leadership writ large.
+- Primary targeting: Governments, Nuclear, Foreign Relations
+
+
+
+
+### Hybrid Operations & UNC2226
+
+- Mandiant has observed operations that include tactics and tools from multiple groups, which suggests that in certain cases, operations may be undertaken by multiple groups that fluidly perform ad hoc tasks in support of another group, or due to temporary tasking. This is consistent with public reporting that identified a [group](https://www.dailynk.com/english/kim-jong-un-directly-handling-results-new-covid-19-hacking-organization-work/) that aligns with an alleged RGB Bureau, designated ‘325’, which was publicly announced in January 2021, when the structure of the RGB likely shifted in response to the COVID-19 pandemic.
+- Mandiant assesses that UNC2226 is one of the collections of activity supporting the aforementioned mission. UNC2226, like other seemingly ad hoc created efforts, appears to have changed or even expanded targeting to fulfill intelligence gathering efforts. Other clusters, such as UNC3782, have a similar composition and are focused on cryptocurrency theft among other seemingly ad hoc tasks.
+- The operations initially appeared to focus almost exclusively on intelligence gathering operations against COVID-19 research and vaccine development/manufacturing organizations. Over time, Mandiant perceived these operations shift from strictly COVID-19 efforts to the targeting of defectors, defense and governments, bloggers, media, cryptocurrency services, and financial institutions. 
+
+
