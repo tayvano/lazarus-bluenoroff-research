@@ -2,7 +2,7 @@
 
 Date:: June 3rd, 2023
 
-Amount Solten:: $115,000,000
+Amount Solten:: $121,000,000
 
 ## Details
 

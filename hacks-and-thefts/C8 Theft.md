@@ -2,7 +2,7 @@
 
 Date:: August 16th, 2023
 
-Amount Stolen:: $1,620,000
+Amount Stolen:: $2,900,000
 
 It appears an individual had multiple keys compromised and drained, including at least 2 of their Gnosis Safes. NFTs were sold and all proceeds were consolidated and sent to Tornado Cash.
 

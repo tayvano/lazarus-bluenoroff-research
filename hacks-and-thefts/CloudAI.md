@@ -4,6 +4,8 @@ IT Workers
 
 Date:: March 13th, 2024
 
+Amount Stolen:: $309,400 (91.83996612 ETH)
+
 ## On-chain
 
 - 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96

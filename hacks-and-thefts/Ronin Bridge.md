@@ -2,7 +2,7 @@
 
 Date:: April 14th, 2022
 
-Amount Stolen:: $600,000,000
+Amount Stolen:: $620,000,000
 
 Laundered Via:: Tornado Cash, FTX, Huobi and Crypto.com
 

@@ -2,7 +2,7 @@
 
 Date:: March 22nd, 2022
 
-Amount Stolen:: $1,600,000
+Amount Stolen:: $1,700,000
 
 Laundered Via:: Tornado Cash - March 24th, 2022 - 5x100 8x10 8x1 
 

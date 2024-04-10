@@ -2,7 +2,7 @@
 
 Date:: November 10, 2023
 
-Amount Stolen:: $125,000,000
+Amount Stolen:: $130,000,000
 
 ## Links
 
