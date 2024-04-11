@@ -6,13 +6,15 @@ Amount Stolen:: $1,114,813
 
 Amount Frozen::  $942,462.85 (Tether) + ~$50,000 (FixedFloat)
 
+Tags:: 💼 IT Workers
+
+---
+
 Mar 29 Victim Count: 456
 
 Apr 2 Victim Count: 933++
 
 Total Victim Count: 1334++
-
-IT Workers
 
 ## Details
 

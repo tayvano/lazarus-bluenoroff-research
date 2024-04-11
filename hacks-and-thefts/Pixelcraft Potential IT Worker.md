@@ -2,6 +2,11 @@
 
 Date:: 2022
 
+Tags:: 💼 IT Workers
+
+---
+
+
 # Details
 
 > We (@PixelcraftStuds) actually gave this guy try a trial hire back in 2022 to do some game dev work and he was sketchy af

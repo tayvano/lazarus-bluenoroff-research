@@ -4,7 +4,9 @@ Date:: February 27th, 2024
 
 Amount Stolen:: $586,000
 
-IT Workers
+Tags:: 💼 IT Workers
+
+---
 
 ## Details
 
@@ -34,9 +36,11 @@ Interestingly it is connected on-chain to the recent OKX Dex & Concentric hacks 
 
 - https://bscscan.com/tx/0xbb115e9b4526190bac51994c0e12a0b6097c48d31b3d477e743267624e36f42c
 
+- TTfPiHv9kAvYDi6M83USvfhvq5RXM9Tj57
 
+- TLct77aR9pXLYFqRjC15znxupSXp1iMyWY
 
-# URLs
+## URLs
 
 - https://t.me/investigations/95
 
@@ -44,5 +48,8 @@ Interestingly it is connected on-chain to the recent OKX Dex & Concentric hacks 
 
 
 
+## Connections
+
+- Serenity Shield 0x93a8b27c8dc2089bb071c22491a715dcb381f554 receives from OKX Dex Exploiter 0xb2a722870178e92ba681236c77609214265d25d1 on BSC
 
 

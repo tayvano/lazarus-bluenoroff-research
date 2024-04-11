@@ -4,6 +4,10 @@ Date: August 17th, 2023
 
 Amount Stolen: $38,362
 
+Tags:: 💼 IT Workers
+
+---
+
 
 ## On-Chain
 

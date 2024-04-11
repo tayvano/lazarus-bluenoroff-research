@@ -2,7 +2,10 @@
 
 Date:: February 21, 2024 – February 28, 2024
 
-IT Workers
+Tags:: 💼 IT Workers
+
+---
+
 
 ## Details I
 
@@ -30,6 +33,9 @@ IT Workers
 - I don't know how they found it I am always very tight on digital hygiene and the only private key in plaintext was in .env files for my separate dev wallet that only contained $14 of gas tokens.
 - In the current market this stolen crypto is worth roughly $12,600
 - https://www.chainabuse.com/report/dc05e046-8da8-43ca-ab2c-df47b05681ba
+- 0xa9c81d278e1342edc4a73bad65ae80ca04242d6b - Victim
+- 0xd82012324c8a3c2d5721b2444b7ee3d989e65589 - Victim
+- 0x9a4d77a4567706e5ca12ed5ce7020e4a961937d5 - Victim
 - 0xdd39c04f784506b718f4f8e4ba7f4b8d3deafb68 - Theft
 - 0xb3c9effe909a737621b929600c6bd1e5a62f43c5 - Theft
 - 0xbe1566497c7f581258c14bf297a8f4e747ddf013 - April 2024 Dust Collector

@@ -4,6 +4,10 @@ Date:: April 10th, 2023
 
 Amount Stolen: $3,900,000
 
+Tags:: 💼 IT Workers
+
+---
+
 
 ## Details
 
@@ -73,6 +77,8 @@ Exploited Address: terra1z5luj6qdtclnt5jnjkrtnlj9zankf654638dq2
 - 0xe84f4886ccf473846ea84e67c8cb35affc2aee3e
 - 0xef94def70a403dede49451cb01b3bd8a82961c34
 - 0xf69e377afa64bc9351a24c6c213732ef9ee6374c
+- 0xd8d4d3d6fd35d9420f506f6ac923163aeacfc9d5
+- 0x7af80be0b38d205937581c13f134135070fecc16
 
 ## Links
 

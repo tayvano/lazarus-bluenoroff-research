@@ -6,7 +6,10 @@ Date: January 22nd, 2024
 
 Arbitrum
 
-IT Workers
+Tags:: 💼 IT Workers
+
+---
+
 
 Overlaps with OKX DEX
 
@@ -43,3 +46,8 @@ Overlaps with OKX DEX
 
 - https://twitter.com/CryptoEvgen/status/1760445908615823713
 
+
+
+## Connections
+
+- 0x1f14e38666cdd8e8975f9acc09e24e9a28fbc42d (OKX DEX Exploiter) sends to 0xfd681a9aa555391ef772c53144db8404aec76030 (ConcentricFi) in txn: 0xacd1ba5bf5df47f713546a35afb94221d28665661e8be8598641eb05f68428f6

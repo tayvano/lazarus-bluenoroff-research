@@ -4,6 +4,11 @@ Date:: April 26th, 2023
 
 Amount Stolen:: $1,800,000
 
+Tags:: 💼 IT Workers
+
+---
+
+
 ## Details
 
 Likely a private key compromise or intentional backdoor insertion.
@@ -40,6 +45,10 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 - 0x2744d62a1e9ab975f4d77fe52e16206464ea79b7
 
 - 0x0b8a3ef6307049aa0ff215720ab1fc885007393d
+
+- 0xb26fd8d55597fc832ad951cd79f843b561969de8
+
+- 0x9d852e4b9d8b3609e60a43c56233570073f5fdb9
 
 
 ## Links
