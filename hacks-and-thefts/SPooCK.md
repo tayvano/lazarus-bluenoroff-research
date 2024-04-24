@@ -9,48 +9,6 @@ Tags:: 💼 IT Workers
 ---
 
 
-## On-Chain
-
-- 0x55066E19Abdb8cB38F6A98A96186c0B657Ce3295
-- 0xe9f8CeF0FDfa4E6b455ab02a5FAa8Df794F83774
-- 0x45B9A47Bdff8039B2318eB4f037A7a1de4820CBE
-- 0x081AE3ee8d505D2CfC86f0c297FAB5A65A831998
-- 0x92c42f41c2a2104b5fc468859c20ea2d186a1a17
-- 0xea939998fad5ff82d04a37668680073d5f5ef143
-- TBpocvWxXWgLDoMCVNDXDKZtikn5FS6odh
-- TDRz3EKe4QMpAVri7WoWtQjymqPuJ6SHPU
-- TEie2SWkPm4cEdna3X4JkM6KuF215VaSqV
-- TMogEBUWaJXppbs8inu583fnbDHmhEHvMn
-- TNJzVCQKadtJykJdh82zK8WCQxUD9dcpcr
-- TWJnEMdVTdp3dfkpHsrWMy4tz1q3e51hfA
-- TWoJ9PvYDiyK54nxRu4HeqkUYARMKxaRTu
-- TWvAmAt7upe6JSLzAYV7bocFGqHqhzDwPG
-- TYmHrykm4XG7q1BaAm12yFmQZN22QEoW4J
-
-
-## 🤔
-
-Also, both of the victims I found, who we assuminged were "attacked" by the same person, refused to share how it happened and blocked me:
-
-"Victim" 1:
-
-- https://twitter.com/bunhouth
-- https://stackoverflow.com/users/4710358/bun-houth
-- https://gist.github.com/BunHouth
-- https://www.upwork.com/en-gb/freelancers/~018bdf05f7fd7414dc
-
-"Victim" 2:
-
-- https://twitter.com/iafhurtado
-- https://www.upwork.com/freelancers/~01b830b8c51f54f474
-- https://portfolio-iafhurtado.vercel.app/#contact
-
-
-## Links
-
-- https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070
-
-
 ## Details
 
 
@@ -88,8 +46,6 @@ Subsequently, the total amount of 38,032 BUSD was transferred through the follow
 
 3. 0x081AE3ee8d505D2CfC86f0c297FAB5A65A831998 (possible ChangeNOW) - TX: 0x9c5c6fcb944673c11ca072c6c8547dbe1eae8abd473e1b073702912d5501c48b
 
-4. 0xA96Be652A08D9905F15B7FbE2255708709BeCD09 (possible ChangeNOW) - TX: 0x8038a9e70df6b48acc06b0dfe2fb4fd939927f2cc6eeb1546defe565aaac9c06
-
 
 (0xe9f8CeF0FDfa4E6b455ab02a5FAa8Df794F83774 has withdraw linked Simple Swap TX: 0xa580d7477fef34870a02c2fd5a239c1ef1b3433489ce9653744c43b781aaeb0f)
 
@@ -112,3 +68,56 @@ Sincerely,
 SPooCK
 
 [Submitted on Aug 27, 2023 By SPooCK](https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070)
+
+
+
+## On-Chain
+
+- 0xec448cc26a97ff84339c27ec754320f1d52f7566 - Victim
+- 0x92c42f41c2a2104b5fc468859c20ea2d186a1a17 - Victim
+- 0x55066E19Abdb8cB38F6A98A96186c0B657Ce3295 - Direct Theft
+- 0xe9f8CeF0FDfa4E6b455ab02a5FAa8Df794F83774
+- 0x45B9A47Bdff8039B2318eB4f037A7a1de4820CBE
+- 0x081AE3ee8d505D2CfC86f0c297FAB5A65A831998
+- 0xea939998fad5ff82d04a37668680073d5f5ef143
+- TBpocvWxXWgLDoMCVNDXDKZtikn5FS6odh
+- TDRz3EKe4QMpAVri7WoWtQjymqPuJ6SHPU
+- TEie2SWkPm4cEdna3X4JkM6KuF215VaSqV
+- TMogEBUWaJXppbs8inu583fnbDHmhEHvMn
+- TNJzVCQKadtJykJdh82zK8WCQxUD9dcpcr
+- TWJnEMdVTdp3dfkpHsrWMy4tz1q3e51hfA
+- TWoJ9PvYDiyK54nxRu4HeqkUYARMKxaRTu
+- TWvAmAt7upe6JSLzAYV7bocFGqHqhzDwPG
+- TYmHrykm4XG7q1BaAm12yFmQZN22QEoW4J
+
+
+## 🤔
+
+Also, both of the victims I found, who we assuminged were "attacked" by the same person, refused to share how it happened and blocked me. Also both of them are Blockchain Devs.
+
+__Why did you think they were victims?__
+
+I don't think, I know, their ENS name is public, and interreacted with the hacker. Both of them knew an Upwork profile which infected them with a phishing "work requirement" file. Neither of them wanted to disclose the profile.
+
+"Victim" 1:
+
+- https://twitter.com/bunhouth
+- https://stackoverflow.com/users/4710358/bun-houth
+- https://gist.github.com/BunHouth
+- https://www.upwork.com/en-gb/freelancers/~018bdf05f7fd7414dc
+- bunhouth.eth
+- https://etherscan.io/tx/0xfafc480c16bc6d71d0f1c03f9c1a65d5f89015971f0da4374380abadf9b76671
+
+"Victim" 2:
+
+- https://twitter.com/iafhurtado
+- https://www.upwork.com/freelancers/~01b830b8c51f54f474
+- https://portfolio-iafhurtado.vercel.app/#contact
+- jaibo.eth
+- https://etherscan.io/tx/0x18af51f6042562db8171d799a6a09ae205e936846375dd962b52c47b7ce06708
+
+
+## Links
+
+- https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070
+

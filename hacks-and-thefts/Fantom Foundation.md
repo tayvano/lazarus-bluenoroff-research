@@ -45,30 +45,47 @@ The attacker(s) stole 47 cryptocurrencies from the Ethereum, Optimism, Fantom, P
 The stolen cryptocurrency was converted into Ether (ETH) using services such as Squid Router and deposited into Tornado Cash.
 
 
+
+## Links
+
+- https://twitter.com/CyversAlerts/status/1714308396453695518/photo/1
+- https://twitter.com/BeosinAlert/status/1714326758894551477/photo/2
+- https://twitter.com/FantomFDN/status/1714337765502992798
+- Page 550 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
+
+
+
 ## On-Chain
 
-- 0x5cdeffa84ee3c203fee7a3901d90ff464ebff801 - Fantom Hack Dust (ETH) 
-- 0x0b1f29df74a19c44745862ab018d925501fe9596 - Fantom Hack Consolidation (ETH) 
 - 0x1bffb3a232e06e06a5d9e93c8df3321f768197c2 - Victim Foundation Wallet 1 
 - 0x48f7572cfbc4f246600cf816c668271034d81f8f - Victim Foundation Wallet 16 
 - 0x386aa44439e9c7181b1f0f1cac0efa478b623b27 - Victim Foundation Wallet 18 
 - 0x596288a9090c9eedf87bb5f2da5d8e1bbc7bb935 - Victim Foundation Wallet 20 
-- 0x4a6ff07acd81f8d0ec7dd51f325d86b833821b1d - Victim 4a6 
-- 0x124cb46cebd37ef9bf8b41c47f2f1bd5136656af - Victim 124 
-- 0xd2976a56cd84a91a2e83685a6dc5308315e29f15 - Victim d29 
-- 0xb86b137232c4e9b67f2b9bfd3d5641b77df70065 - Victim b86 
-- 0x3cba76e6a3298b19b77bd3b6a7bbc0b209e712b4 - Victim 3cb 
-- 0xdc3d7bca4c9db233ae10f4af3c1bd105a5818cce - Victim dc3 
-- 0xb0e3baec3ba1990ebd2edf9eedc2f3213b381fb1 - Victim b0e 
-- 0x8658bcf88c5d08f02ea5393ecd4a2b5e28c3e349 - Victim 865 
-- 0x00FBB426dd3b92384384ED870B74cf39eFC5b8F8 - Victim 00f 
-- 0xdadc0421ee1b5426fca3db22f0a94a3bad5a329d - Theft dad  
-- 0x1d93c73d575b81a59ff55958afc38a2344e4f878 - Theft 1d9 
-- 0x2f4f1d2c5944dba74e107d1e8e90e7c1475f4001 - Theft 2f4 
-- 0x0b1f29df74a19c44745862ab018d925501fe9596 - Theft Balance 
-- 0xb48677997e6e88c2cd1825017ccac3054b4080fc - Safe Addy? 
+- 0x4a6ff07acd81f8d0ec7dd51f325d86b833821b1d - Victim
+- 0x124cb46cebd37ef9bf8b41c47f2f1bd5136656af - Victim
+- 0xd2976a56cd84a91a2e83685a6dc5308315e29f15 - Victim
+- 0xb86b137232c4e9b67f2b9bfd3d5641b77df70065 - Victim
+- 0x3cba76e6a3298b19b77bd3b6a7bbc0b209e712b4 - Victim
+- 0xdc3d7bca4c9db233ae10f4af3c1bd105a5818cce - Victim
+- 0xb0e3baec3ba1990ebd2edf9eedc2f3213b381fb1 - Victim
+- 0x8658bcf88c5d08f02ea5393ecd4a2b5e28c3e349 - Victim
+- 0x00FBB426dd3b92384384ED870B74cf39eFC5b8F8 - Victim
+- 0xb48677997e6e88c2cd1825017ccac3054b4080fc - Victim Safe Addy? 
+- 0x50e0f818e870be4d5e5f012ff90d304db6e1e69b - Victim Safe Addy?
 - 0x431e81e5dfb5a24541b5ff8762bdef3f32f96354 - Fantom Foundation (not compromised) 
 - 0xa51b1bc907fe0a6bc6538c5c56472c1d9c60de23 - Fantom Controlled Wallet (not compromised?) 
+- 0x2f4f1d2c5944dba74e107d1e8e90e7c1475f4001 - Theft 
+- 0xdadc0421ee1b5426fca3db22f0a94a3bad5a329d - Theft  
+- 0x1d93c73d575b81a59ff55958afc38a2344e4f878 - Theft 
+- 0x0b1f29df74a19c44745862ab018d925501fe9596 - Theft TC 3x100 
+- 0x5cdeffa84ee3c203fee7a3901d90ff464ebff801 - Theft TC 46x100
+- 0x0c45060bc4c518b6942f19d7c279ed42e137d29d - Theft Jan 2024
+- 0xdd92ff524b3b58adb55b9e4824749ba5b0993842 - Theft Jan 2024 FixedFloat
+- 0x91decd1d92ff2cb5d83c9415bbb72d582599fb4c - Theft Jan 2024 ETH, FTM, OP
+- 0x8d82d316fc421c44e3a7f3604ff965e7a19d438c - Theft Jan 2024 Intermediary
+- 0xf857bb93eb57183ad42593496da46de83cf29d44 - Theft Jan 2024 Intermediary
+- 0x0c45060bc4c518b6942f19d7c279ed42e137d29d - Theft Jan 2024 Intermediary
+- 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Fantom/DPRK Dust Collector Jan 2024
 
 
 ## Tornado Cash
@@ -84,20 +101,3 @@ The stolen cryptocurrency was converted into Ether (ETH) using services such as 
     - 300 ETH
     - 2023-10-25 2:59
     - 2023-10-25 3:02
-
-
-## Dust Collection
-
-- 0x5cdeffa84ee3c203fee7a3901d90ff464ebff801 - Theft
-- 0x8d82d316fc421c44e3a7f3604ff965e7a19d438c - Dust Collector Input
-- 0x0c45060bc4c518b6942f19d7c279ed42e137d29d - Dust Collector Input
-- 0xf857bb93eb57183ad42593496da46de83cf29d44 - Dust Collector Input
-- 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Dust Collector Jan 2024
-
-
-## Links
-- https://twitter.com/CyversAlerts/status/1714308396453695518/photo/1
-- https://twitter.com/BeosinAlert/status/1714326758894551477/photo/2
-- https://twitter.com/FantomFDN/status/1714337765502992798
-- Page 550 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
-
