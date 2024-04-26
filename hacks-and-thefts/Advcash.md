@@ -1,0 +1,37 @@
+# Advcash
+
+Amount Stolen:: $12m
+
+Date: July 13, 2021
+
+
+3FitbPvdcCWsFzJeD1uG2nkkr2U6AQ18Pr - Primary Theft
+33gCHAdxKLrY78ZVHZPfQnQZjD3HwKq2wF - Primary Theft
+33jVy6dgpE13sH5NHxwdJ66py9Cd9nuSeT - Primary Theft
+31xUzkxwQWdAhB8mqxDrFtZBTazMRvU2r8 - Primary Theft
+bc1q6z373xgwgn2hfse6nxtzeg8yx4geaj302ytpk0
+bc1qdz4h4lgre8jajs6tmjpl6l6gp485eavr0qt043
+bc1q9mn78jle394tmrzu2jz9hpd3cg5z7ef64kyfj3
+bc1q5sf5fxm48q7pa0yyd64c6gtkky8hc9qkpta9ky
+bc1qkd69vxxqk005lzdjdcqt5x7u9qlszux9w0lw6z
+bc1q5aqrzvwat7aqta492xvc9pz3auul2q6552cq07
+bc1qcpuagggwp67cy9z8rrtm5wscga2a3s0r30pj8t
+bc1qdz93ucfwhxvtlrjnmgkhh5cm42ue8naau987dw
+bc1q3qqv05sx05h53kuh95fg7jhys255cwpjkulzqw
+bc1qpl8eel8kcxtkvflg9d4eflnjyz7xu67hfl93ls
+bc1q9mkhpah5g9ukut8d9jeg2wsr58nyljat40rhtj
+bc1quycvxnm6yxukqm6hmfq6daefu4xmt29mt5kuq4
+bc1qc2a3jrcdqpykjkkhjn4z3qdqrm50jq2zzyn9t2
+bc1ql2p0nls4getrev8y9yr6qnw6vl4htjrvscejrv
+0xacb5c99c1f9ecfb109862deb3a2779b20fe5b866
+0x411cb102a2a7be7aa72d00a9a570e129f568c45e
+0x9a9b3a00bce0b4dc15a93e26d66ae9d8dd2e7dc4
+0x650c851033fd1d5b4b79f43a70cb7cc4e16a68e6
+0xf573d864e5cc10f0351a1ac2c058ba5fe1b9fca2 - TC
+0x9a321710c07cce493e16aa136622390dff28a763 - TC
+0x9ad084fb5e38eba8031b6b1cd1ecc06fc03f5903 - TC
+
+
+
+
+https://x.com/dmalpsar/status/1357360150894551041
