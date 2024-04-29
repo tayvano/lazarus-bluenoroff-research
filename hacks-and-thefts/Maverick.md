@@ -1,8 +1,8 @@
-# M7 Theft 
+# Maverick Theft 
 
 Date:: October 26th, 2023
 
-Amount Stolen:: Approximately $19,000,000
+Amount Stolen:: $8,300,000
 
 
 Email Subject: Fwd: Huge Risk for Stablecoin

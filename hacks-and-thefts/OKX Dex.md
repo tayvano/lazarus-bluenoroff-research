@@ -24,7 +24,7 @@ Tags:: 💼 IT Workers
 - This attack may be a result of the Proxy Admin Owner's private key being leaked.
 
 
-## Links
+## URLs
 
 > The OKX exploiters' address was eventually funded from 0xeb982159ec32b601b6201a0553a05745a14e8f6c at transaction  0x4c3cfdf935aef79d46510c86bad7c5099dc7ca04d5d002ba1f9abd05769132c5.
 > The second OKX exploiter wallet 0xFacf375Af906f55453537ca31fFA99053A010239 rx'd funds via 0x9ada20B835Aa178813A8C174F1F93B1dc1BFA775 6 days ago, a wallet linked to the UNO hack. Further links can be established to FixedFloat, Binance, Gate, Mexc and Changenow.

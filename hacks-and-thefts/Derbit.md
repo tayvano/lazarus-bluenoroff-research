@@ -4,6 +4,10 @@ Date:: November 2nd, 2022
 
 Amount Stolen:: $28,000,000
 
+
+---
+
+
 # Details
 
 Access control issue. The hot wallet's private keys were compromised which lead to a loss of roughly 28,000,000 $USD.
@@ -46,7 +50,7 @@ Client assets and cold addresses were not affected, and the loss will be paid by
 
 Laundering started up again around October 25, 2023. 
 
-## Links
+## URLs
 
 - https://www.ft.com/content/09f2cb5a-5e2d-4b5f-96cd-ffed455ae23b
 

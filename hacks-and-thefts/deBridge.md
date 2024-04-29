@@ -4,6 +4,10 @@ Date:: August 5, 2022
 
 Google Docs Phishing
 
+
+---
+
+
 ## Details
 
 PSA for all teams in Web3, this campaign is likely widespread.
@@ -51,7 +55,7 @@ Opening the link in the browser won’t give any content, so we tried to simulat
 TL;DR: Never open email attachments without verifying the sender’s full email address, and have an internal protocol for how your team shares attachments!
 
 
-## Links
+## URLs
 
 - https://twitter.com/AlexSmirnov__/status/1555586334378676225
 - https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-crypto-experts-with-fake-coinbase-job-offers/

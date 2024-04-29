@@ -80,7 +80,7 @@ Exploited Address: terra1z5luj6qdtclnt5jnjkrtnlj9zankf654638dq2
 - 0xd8d4d3d6fd35d9420f506f6ac923163aeacfc9d5
 - 0x7af80be0b38d205937581c13f134135070fecc16
 
-## Links
+## URLs
 
 - https://cointelegraph.com/news/terra-defi-project-terraport-suffers-2m-hack-days-after-launch
 

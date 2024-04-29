@@ -7,6 +7,11 @@ Amount Stolen:: $91,000,000 (107 BTC, 9M TRON, 11M XRP, $60M in ERC-20s)
 Tags:: "Inside Job"
 
 
+
+---
+
+
+
 ## Details
 
 Unauthorized access to some of the wallets it managed 67 different ERC-20 tokens, along with large quantities of ETH and BTC, had been moved from these wallets to addresses controlled by a party working on behalf of DPRK 
@@ -67,7 +72,7 @@ Whoever hacked Liquid seems to have had a thorough plan in place prior to acting
 - 0x24d97e138afb957ed2d752b93e48a6e00b4a6723
 - 0x6ec415c5ac76393594384f24bc870bb1ce571b54
 
-## Links
+## URLs
 
 - https://www.trmlabs.com/post/liquid-hack-the-second-time-around
 - https://www.quadrigainitiative.com/casestudy/liquidwarmwalletliquidated.php

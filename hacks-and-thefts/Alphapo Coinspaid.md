@@ -4,6 +4,10 @@ Date:: July 22nd, 2023
 
 Amount Stolen:: $37,000,000 from Coinspaid, $60,000,000 from Alphapo?
 
+
+---
+
+
 ## Details
 
 Lazarus gained access to hot wallets belonging to crypto payment platform CoinsPaid via a successful social engineering attack. This access allowed the attackers to create authorized requests to withdraw approximately $37.3 million in crypto assets from the platform’s hot wallets. 
@@ -75,7 +79,7 @@ This unfortunate incident provided some valuable experiences and insights for Co
 12. Reduce the funds available for the operation of the company to the necessary minimum.
 
 
-## Links
+## URLs
 
 - https://coinspaid.com/company-updates/the-coinspaid-hack-explained/
 

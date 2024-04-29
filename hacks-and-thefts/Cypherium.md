@@ -4,6 +4,8 @@ Date:: March 18th, 2018
 
 Amount Stolen:: $8,500,000 (17,000 ETH)
 
+---
+
 
 ## Details
 
@@ -37,7 +39,7 @@ Min contribution was 20th hence why lots of ~20ETH TX to this.
 
 
 
-## Links
+## URLs
 
 https://web.archive.org/web/20180318135412/https://twitter.com/city19akro/status/975342278146428928
 

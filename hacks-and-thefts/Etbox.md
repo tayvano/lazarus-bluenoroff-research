@@ -5,6 +5,8 @@ Date:: March 23rd, 2019
 Amount Stolen:: $132,000
 
 
+---
+
 
 ## Details
 
@@ -16,7 +18,7 @@ The Chinese security service provider 360 Security has issued a warning that a l
 
 
 
-## Links
+## URLs
 
 - https://bitcoinmagazine.com/articles/lazarus-hacker-group-continues-target-crypto-using-faked-trading-software
 - https://cryptoxdirectory.com/etbox

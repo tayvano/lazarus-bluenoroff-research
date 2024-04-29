@@ -6,6 +6,10 @@ Amount Stolen:: $620,000,000
 
 Laundered Via:: Tornado Cash, FTX, Huobi and Crypto.com
 
+
+---
+
+
 ## Details
 
 The FBI continues to combat malicious cyber activity including the threat posed by the Democratic People's Republic of Korea to the U.S. and our private sector partners. Through our investigation we were able to confirm Lazarus Group and APT38, cyber actors associated with the DPRK,  are responsible for the theft of $620 million in Ethereum reported on March 29. The FBI, in coordination with Treasury and other U.S. government partners, will continue to expose and combat the DPRK’s use of illicit activities – including cybercrime and cryptocurrency theft – to generate revenue for the regime.
@@ -45,6 +49,8 @@ The gaming-focused Ronin Network announced Tuesday a loss of over $625 million i
 > An April blog post on the incident from blockchain analysis firm Elliptic explains: “Funds can be moved out if five of the nine validators approve it. The attacker managed to get hold of the private cryptographic keys belonging to five of the validators, which was enough to steal the cryptoassets.”
 
 https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game
+
+
 
 ### Delayed Response
 
@@ -859,7 +865,7 @@ Most notably, there were no deposits or withdrawals between 2022-04-16 and 2022-
 | |0x6e2a555bfad1d9944d1a39e823ce5fead73220ac|6|600|2022-05-19 20:03|2022-05-20 4:04|
 
 
-## Links
+## URLs
 
 - https://blog.mollywhite.net/axie-hack/
 - https://bridge.roninchain.com/

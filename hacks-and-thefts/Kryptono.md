@@ -6,6 +6,12 @@ Date:: November 4th, 2018
 
 Tags:: CEX Hack
 
+
+
+---
+
+
+
 ## On-Chain
 
 - Victim: 0xE8A0E282e6a3E8023465acCd47FaE39dD5Db010b (Kryptono)
@@ -25,7 +31,7 @@ This is the dust collector that receives from a bunch of thefts from this era, i
 Trade io theft is the one that goes 0xb478537c7962ec42c1e005682a750a79d86960cf -> 0x883e0e45f8de84cb3fdb76d0297d25a21945ff0f -> 0xd694e78234fe3eaf9f87c3ced8229f2e8e3ad98d -> 0xd96ba527be241c2c31fd66cbb0a9430702906a2a aka Cryptopia stolen funds
 
 
-## Links
+## URLs
 
 - https://cryptowisser.com/exchange/kryptono/
 

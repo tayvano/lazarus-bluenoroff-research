@@ -24,9 +24,6 @@ Individual appears to be a long-time leader in the same, founding his own Web3 c
 - 0x68c4a151d436ec1c5448d225a97bd19cce4dfed0
 - 0x4c7c2b39e3d642d452adfca632939a60b1baacf7
 - 0xbcd5b968a79a04bf2bb942a449f10c20a7121ed8
-- 0x24a4abe8619e73c767cfc7cdda4600868b996e21 - eXch Deposit Jan 2024
-- 0x397cb9477e408b56958c1d6403fddb5cfabb55fd - Dust Collector Jan 2024 Input
-- 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Dust Collector Jan 2024
 
 ### Tornado Outputs:
 - 0x9F8941cD7229Aa3047F05a7eE25c7ce13cBB8c41
@@ -35,8 +32,10 @@ Individual appears to be a long-time leader in the same, founding his own Web3 c
 ### Post-Tornado Laundering
 - 0x5d65aeb2bd903bee822b7069c1c52de838f11bf8
 - 0xa34500c4be803a608b226e8e6cdadcdfea1f8c96
-- 0x4272200ef626d409e9bac681aa0efdb653a9ef0b Nooones Deposit 
-- 0x246569f8b420c8d850c475c53d0d59973b3f08fc Paxful Deposit 
+- 0x4272200ef626d409e9bac681aa0efdb653a9ef0b - Noones Deposit 
+- 0x246569f8b420c8d850c475c53d0d59973b3f08fc - Paxful Deposit 
+- 0x0258c2af4fe694df026cca55d17feebd5b361acc - Paxful Deposit
+- 0x3af55ab7edbca175f80f3a7ddeac5dabf611347b - Paxful Deposit
 
 
 ## Laundering:

@@ -44,7 +44,7 @@ Collectively, the identified addresses received an estimated 4,927.34 SOL (~$926
 - User email: petersmith.0322@gmail.com
 
 
-### Links
+### URLs
 
 - https://twitter.com/SolareumProject/status/1773745573234983021
 - https://twitter.com/bonkbot_io/status/1773655415760588997

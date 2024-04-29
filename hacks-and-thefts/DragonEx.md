@@ -6,9 +6,13 @@ Amount Stolen:: $7,090,000
 
 Tags:: South Korea, BTC, ETH, USDT, Thailand, Spear-Phishing, CEX Hack, WorldBit-Bot
 
-Attribution:: DPRK/High Confidence - UN Security Council 
+Attribution:: UN Security Council 
 
 Laundered Via:: Wasabi
+
+
+---
+
 
 Used software called “Worldbit-bot” to carry out its active attacks - wb-invest.net and wb-bot.org
 
@@ -59,7 +63,7 @@ Employing the HODL technique, these hackers waited to sell a large proportion of
 - 0x91d7be8abbe295df076a4aa3eab7acb18b9995cf
 
 
-## Links
+## URLs
 
 - https://bitcoinmagazine.com/culture/lazarus-hacker-group-continues-target-crypto-using-faked-trading-software
 - https://blog.chainalysis.com/reports/cryptocurrency-exchange-hacks-2019

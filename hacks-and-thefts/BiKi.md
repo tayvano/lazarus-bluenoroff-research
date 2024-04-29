@@ -29,7 +29,7 @@ The Chinese security service provider 360 Security has issued a warning that a l
 
 
 
-## Links
+## URLs
 
 - https://www.biki.com/
 - https://cryptoxdirectory.com/biki

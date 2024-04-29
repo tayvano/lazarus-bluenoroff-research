@@ -35,7 +35,7 @@ Trade.io states: “We use industry recommended cold storage which are maintaine
 - Trade.io Hack - Laundry - Kucoin 0xe5536a5ea4998c4580c58bc325c175ed577360a7
 - https://etherscan.io/token/0x80bc5512561c7f85a3a9508c7df7901b370fa1df?a=0x724012dcfdafa04fc2a345ab9f0cc2a5bf397391
 
-## Links
+## URLs
 
 - https://cryptoxdirectory.com/trade.io
 - https://www.zdnet.com/article/trade-io-loses-7-5mil-worth-of-cryptocurrency-in-mysterious-cold-wallet-hack/

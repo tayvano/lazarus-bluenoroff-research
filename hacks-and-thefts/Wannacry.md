@@ -45,7 +45,7 @@ As with Version 1, ransoms paid by victims of WannaCry Version 2 were also paid 
 
 
 
-## Links
+## URLs
 
 - http://undocs.org/S/2019/691
 - https://medium.com/@nbax/tracing-the-wannacry-2-0-monero-transactions-d8c1e5129dc1

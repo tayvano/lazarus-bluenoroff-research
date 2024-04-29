@@ -4,9 +4,12 @@ Date:: July 1st, 2019
 
 Amount Stolen:: $272k in PTT, PlayGame, IHT Real Estate Protocol
 
-Attribution:: DPRK - US v. 280 Virtual Currency Accounts
+Attribution:: US v. 280 Virtual Currency Accounts
 
 Tags:: CEX Hack, Singapore
+
+
+---
 
 
 ## Details
@@ -26,7 +29,7 @@ On August 21st, the Proton Chain (PTT) official website issued a comprehensive w
 At the same time, CoinTiger directly asked the project side to upgrade the contract, hoping to create a new currency, and then map the 260 million PTT that had been frozen to the new currency. We ask that the return is not to let the project party pay for our mistakes, but to ask the ‘return to the original owner’.
 
 
-## Addresses - US v. 280 Virtual Currency Accounts
+## On-chain - US v. 280 Virtual Currency Accounts
 
 ### 17,829,785 PlayGame (“PXG”) tokens were sent:
 
@@ -147,7 +150,7 @@ According to a website tracking malware submitted by community users, TargetEmai
 The file type was a Korean word processor file related to exploits used by North Korea against cryptocurrency exchanges since at least 2017.
 
 
-## Links
+## URLs
 
 - https://www.web3rekt.com/hacksandscams/cointiger-576
 

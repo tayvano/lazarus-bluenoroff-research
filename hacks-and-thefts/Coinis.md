@@ -5,6 +5,9 @@ Date:: September 23rd, 2017
 Amount Stolen:: $2,190,000
 
 
+---
+
+
 ## Details
 
 $2,190,000 was stolen in this hack. South Korea’s spy agency alleges that North Korea is behind this and other hacking attacks on this crypto-currency exchange in the South.
@@ -24,7 +27,7 @@ In August 2019, the UN Security Council Panel of Experts indicated DPRK-affiliat
 - Page 29 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691)
 
 
-## Links
+## URLs
 
 - https://medium.com/ionia-io/crypto-the-case-of-hacking-on-the-exchange-in-korea-db912917317c
 

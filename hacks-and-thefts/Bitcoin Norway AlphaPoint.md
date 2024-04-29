@@ -28,7 +28,7 @@ The FBI is the sole and appropriate law enforcement entity to investigate this c
 - Laundry: 1DCcX4tceemSUyJRp6QNfXrybARBS6xt8H
 
 
-## Links
+## URLs
 
 - https://cryptoxdirectory.com/bitcoins%20norway
 - https://www.crowdfundinsider.com/2019/07/149439-bitcoin-norway-shuts-down-due-to-theft-via-sim-swap-hack-and-sophisticated-spear-phishing-techniques/

@@ -7,6 +7,8 @@ Amount Stolen:: $1,700,000
 Laundered Via:: Tornado Cash - March 24th, 2022 - 5x100 8x10 8x1 
 
 
+---
+
 ## Details
 
 
@@ -48,7 +50,7 @@ Kenetic Capital - jehan@kenetic.capital is the email that phished Arthur_0x - he
 
 
 
-## Links
+## URLs
 
 - https://twitter.com/arthur_0x/status/1514890461969731584
 - https://twitter.com/NickCarlsen1/status/1506768133121478657

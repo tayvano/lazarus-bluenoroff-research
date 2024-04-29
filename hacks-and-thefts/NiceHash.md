@@ -7,9 +7,10 @@ Amount Stolen:: $65,000,000 (4,736.42 BTC)
 Tags: CEX Hack, Slovenia, BTC
 
 
+---
+
+
 ## Details
-
-
 
 On December 4th, 2017, a conspirator sent a spear-phishing communication to an employee of the Slovenian Cryptocurrency Company, which included a hyperlink that redirected the employee to download a file containing malware.
 
@@ -35,7 +36,7 @@ However, the active attack timeline was only a couple of hours. Later, many Nice
 - 1EnJHhq8Jq8vDuZA5ahVh6H4t6jh1mB4rq
 
 
-## Links
+## URLs
 
 - https://archive.is/pWTbH
 - https://archive.org/web/20181113211702/ 

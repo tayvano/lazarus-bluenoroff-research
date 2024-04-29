@@ -6,6 +6,9 @@ Date:: December 31, 2023
 
 Amount Stolen:: $81,000,000
 
+---
+
+
 ## Details
 
 "The year ended with a massive $81M Orbit Bridge compromise. The exploit involved a private key compromise of one of the validators similar to [Harmony Horizon Bridge hack](https://www.certik.com/resources/blog/2QRuMEEZAWHx0f16kz43uC-harmony-incident-analysis). However, it required an additional validation bypass in the withdrawal function to bypass minimum approval threshold. The compromise makes for an interesting case study on monitoring: Attacker performed several small test transactions on December 30th and December 31st exploiting the validator bypass vulnerability. Mass draining started on December 31st and lasted about 18 minutes. The bridge was deactivated one hour after the last exploit transaction." [Source](https://newsletter.blockthreat.io/p/blockthreat-week-52-2023)
@@ -36,7 +39,7 @@ Amount Stolen:: $81,000,000
 - 0x589257e07e11e761f31956d54b2323f63ee36b7d - Fund Holder
 
 
-- ## Links
+- ## URLs
 - https://newsletter.blockthreat.io/p/blockthreat-week-52-2023
 - https://www.theblock.co/post/274411/orbit-bridge-firewall-sabotage-exploit
 - https://my.trmlabs.com/graph-visualizer?graphId=155683

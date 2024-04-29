@@ -6,6 +6,7 @@ Amount Stolen: $38,362
 
 Tags:: 💼 IT Workers
 
+
 ---
 
 
@@ -117,7 +118,7 @@ I don't think, I know, their ENS name is public, and interreacted with the hacke
 - https://etherscan.io/tx/0x18af51f6042562db8171d799a6a09ae205e936846375dd962b52c47b7ce06708
 
 
-## Links
+## URLs
 
 - https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070
 

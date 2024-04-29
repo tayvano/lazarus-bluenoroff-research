@@ -4,6 +4,9 @@ Amount Stolen:: $7,624,588
 
 Date:: October 17, 2023
 
+--
+
+
 ## Notes
 
 - It's likely a single device or devices on a single network were compromised leading to the compromise of multiple wallets holding assets belonging to an employee of the Fantom Foundation and the Fantom Foundation wallets themselves.
@@ -46,7 +49,7 @@ The stolen cryptocurrency was converted into Ether (ETH) using services such as 
 
 
 
-## Links
+## URLs
 
 - https://twitter.com/CyversAlerts/status/1714308396453695518/photo/1
 - https://twitter.com/BeosinAlert/status/1714326758894551477/photo/2

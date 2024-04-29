@@ -5,6 +5,8 @@ Date:: April 12th, 2018
 Tags:: India, "Inside Job"
 
 
+---
+
 
 ## Details
 
@@ -26,7 +28,7 @@ The private key of the hot storage was compromised and was released online. Sinc
 - also Outputs to 1GX4hZu2iQkoTE5XRLevbPCuFDVj9uZUUL (Sim)
 
 
-## Links
+## URLs
 
 - https://coinsecure.in/
 - https://cryptoxdirectory.com/coinsecure

@@ -10,8 +10,6 @@ Time:: 00:00 UTC
 
 Laundered Via:: Changelly
 
-Attribution:: DPRK/High Confidence
-
 ## Details
 
 Wallet used to upgrade smart contracts used to steal $23M
@@ -50,7 +48,7 @@ A Bancor wallet got hacked and that wallet has the ability to steal coins out of
 
 
 
-## Links
+## URLs
 
 - https://www.quadrigainitiative.com/casestudy/bancordecentralizedexchangehack.php
 

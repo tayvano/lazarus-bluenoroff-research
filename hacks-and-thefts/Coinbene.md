@@ -5,6 +5,10 @@ Date:: March 25th, 2019
 Amount Stolen: $105,000,000
 
 
+
+---
+
+
 ## Details
 
 Initially, after huge outgoing transactions from CoinBene’s hot wallet to an unknown wallet in March 2019, the platform said it was undergoing maintenance. However, with every one of the platform’s ERC-20 tokens reportedly moving into an unknown wallet (which didn’t exist until the day of the transfer), rumors quickly circulated that this was an attack. Data scientists also found that the tokens were promptly moved to Etherdelta where they were sold for ethereum (ETH). This amounted to $105M at the time. 
@@ -12,8 +16,6 @@ Initially, after huge outgoing transactions from CoinBene’s hot wallet to an u
 Crypto exchange, CoinBene, was reported to be hacked, although the exchange denied it. Leveraging the home-grown digital asset tracking and recovery (DATAR) system, our research found several key patterns matching the ones in exchange hacking events, such as, particular event sequence, large number of asset types, and very high value tokens were moved from CoinBene to other competing exchanges in a short period of time.
 
 Back in March 2019, the CoinBene cryptocurrency exchange denied that it suffered a hack but claimed to be undergoing maintenance, despite losing 109 ERC-20 tokens worth about $105 million. Crypptocurrency expert Nick Schteringard said on Twitter yesterday, that the hacker appears to have stolen roughly $6 million in Coinbene Coin and $39 million in Maximine Coin, which it later dumped on the market
-
-
 
 
 ## On-Chain
@@ -95,7 +97,7 @@ The wallet address took part in this money laundering process
 - 0xcc1966c28d2bd35a99aa6b674937c33af2608fdc
 
 
-## Links
+## URLs
 
 - https://zdnet.com/article/cryptocurrency-platforms-dragonex-and-coinbene-disclose-hacks/ 
 - https://www.quadrigainitiative.com/casestudy/coinbenehackcoverup.php

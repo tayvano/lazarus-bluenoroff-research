@@ -7,6 +7,8 @@ Amount Stolen:: $41,000,000
 Tags:: CEX Hack
 
 
+---
+
 
 
 ## Details
@@ -55,7 +57,7 @@ An attack in which approximately $41 million in virtual currency was stolen, pos
 - BTC: bc1qg0qygyv3qfp8cjyy99ch9vc9dp876vl8wys67u
 
 
-## Links
+## URLs
 - https://www.fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom
 - https://www.elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics
 - https://twitter.com/tayvano_/status/1698713232532467837

@@ -5,6 +5,8 @@ Date:: June 9th, 2018
 Amount Stolen:: $37,000,000 (1927 ETH)
 
 
+---
+
 
 ## Details
 
@@ -27,7 +29,7 @@ Tokens sent to IDEX and ETHERDELTA to trade
 
 
 
-## Links
+## URLs
 
 - https://twitter.com/Coinrail_Korea/status/1005650529773486080
 

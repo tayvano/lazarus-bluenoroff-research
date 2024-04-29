@@ -5,6 +5,8 @@ Date:: August 7, 2020
 Amount Stolen:: $11,800,000
 
 
+---
+
 
 ## Details
 
@@ -15,7 +17,7 @@ Amount Stolen:: $11,800,000
 
 
 
-## Links
+## URLs
 
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 

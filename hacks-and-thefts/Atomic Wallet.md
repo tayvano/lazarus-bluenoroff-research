@@ -2,7 +2,11 @@
 
 Date:: June 3rd, 2023
 
-Amount Solten:: $121,000,000
+Amount Stolen:: $121,000,000
+
+
+
+---
 
 ## Details
 
@@ -25,7 +29,7 @@ Elliptic attributed this hack to Lazarus on June 6th 2023, after identifying mul
 This attribution was later confirmed by the FBI
 
 
-## Links
+## URLs
 
 - https://hub.elliptic.co/analysis/35-million-atomic-wallet-hacker-funnels-crypto-to-north-korea-s-favored-mixer/
 - https://hub.elliptic.co/analysis/north-korea-linked-atomic-wallet-heist-tops-100-million/

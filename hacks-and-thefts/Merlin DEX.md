@@ -6,6 +6,7 @@ Amount Stolen:: $1,800,000
 
 Tags:: 💼 IT Workers
 
+
 ---
 
 
@@ -51,7 +52,7 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 - 0x9d852e4b9d8b3609e60a43c56233570073f5fdb9
 
 
-## Links
+## URLs
 
 - https://quadrigainitiative.com/cryptocurrencyhackscamfraudwiki/index.php?title=Merlin_DEX_Liquidity_Pool_Drained
 

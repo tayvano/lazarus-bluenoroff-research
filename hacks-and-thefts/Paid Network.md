@@ -4,17 +4,26 @@ Date:: March 5th, 2021
 
 Amount Stolen:: $160,000,000
 
-Private Key Compromise
+Tags:: Private Key Compromise
+
+
+
+---
+
+
+## Details
 
 $160M (PAID) minted and sold.
 
-other indicators: exit swiftly to tornado. midnight utc. [[Inside Job]] speculation. CISA/FBI shilled report on Laz/crypto within a week. 
+other indicators: exit swiftly to tornado. midnight utc. Inside Job speculation. CISA/FBI shilled report on Laz/crypto within a week. 
 
-PAID Network, a crypto project that utilizes an Ethereum-based token, has suffered a [[Smart Contract]], resulting in the minting of nearly $160 million worth of tokens by the attacker. 
+PAID Network, a crypto project that utilizes an Ethereum-based token, has suffered a Smart Contract, resulting in the minting of nearly $160 million worth of tokens by the attacker. 
 
 On March 5, 2021, the PAID Network smart contract was compromised by an attacker.  By exploiting flaws in how the smart contract was secured and managed, the attacker was able to extract approximately $100 million worth of $PAID tokens, and converted about $3 million of it to Ether before being blocked by the PAID Network team.
 
 The PAID attacker took advantage of poor Private Key Compromise practices at PAID, not a vulnerability in the PAID smart contract.  The network relied on a single private key to manage control over the smart contract; by compromising that private key, the attacker was able to gain control over the upgrade functionality of the contract
+
+
 
 ## On-Chain
 
@@ -84,24 +93,17 @@ Kraken outbound txn: 0xa398eac176707a75775b6eac7f1bb91988f26d0c38f7bb7b5966ab5ab
 ChainAbuse report: https://www.chainabuse.com/report/fd685c77-cf02-4e77-b942-2d261b95e756
 
 
-## [[Paid Network]] Theft Transaction Mint 59,471,745.571 PAID Tokens
-From:: [[0x18738290af1aaf96f0acfa945c9c31ab21cd65be]]
+## Paid Network Theft Transaction Mint 59,471,745.571 PAID Tokens
+From:: 0x18738290af1aaf96f0acfa945c9c31ab21cd65be
 To::  0x8c8687fc965593dfb2f0b4eaefd55e9d8df348df (PAID Network: Old Contract) 
 Txn:: 0x4bb10927ea7afc2336033574b74ebd6f73ef35ac0db1bb96229627c9d77555a0
 Day:: Friday
-Date:: [[March 5th, 2021]]
+Date:: March 5th, 2021
 Time:: 06:03 PM +UTC
-Gas Price::145 Gwei
-Gas Limit::57,257
-Gas Usage::56,785
-Gas Ratio::99.175647%
-Actual Base::1.614967389 Gwei
-Base Fee:: pre eip-1559
-Priority:: pre eip-1559
 Function:: mint(address _owner, uint256 _amount)
 
 
-## Links
+## URLs
 
 https://paidnetwork.medium.com/paid-network-attack-postmortem-march-7-2021-9e4c0fef0e07
 https://slowmist.medium.com/slow-mist-analysis-of-paid-networks-hacked-event-b13a44415131
@@ -117,8 +119,6 @@ https://twitter.com/paid_network/status/1368424463147003912
 
 ## Related / TODO
 
-
-
 Former Depo CTO Alex Hong drained the rewards for 4 staking pools on feb. 4th 2022, a total of 29.5 million tokens. These were dumped on Uniswap for eth and sent to tornado.cash
 578 ETH
 
@@ -126,14 +126,14 @@ on Aug 16, 2022
 UselessChris
 
 Reported Addresses
-0x6FFe6e183571139636B9479Ca65CF99eDc6BE215
-0x10Da75631D05fCdf5451cFd70eAff6BF343307e9
-0x45308f6abFC1c131d89Ef41E519651b30A4f517d
-0x2BE102d023cF0432362bE3708b63237377aC2687
-0x8491B3921DCB0dF0F9D530937E03280fbC14B225
-0x9CAcfCB41Cb1dB76fa6E632f62FabAbd8118bfa1
-0x7B101015f126f0fFd973f191EfB221ed548ED90B
-0x11C23ac03B32823B186CcB00cE351bc36b1D7453
-0x97B1043ABD9E6FC31681635166d430a458D14F9C
+- 0x6FFe6e183571139636B9479Ca65CF99eDc6BE215
+- 0x10Da75631D05fCdf5451cFd70eAff6BF343307e9
+- 0x45308f6abFC1c131d89Ef41E519651b30A4f517d
+- 0x2BE102d023cF0432362bE3708b63237377aC2687
+- 0x8491B3921DCB0dF0F9D530937E03280fbC14B225
+- 0x9CAcfCB41Cb1dB76fa6E632f62FabAbd8118bfa1
+- 0x7B101015f126f0fFd973f191EfB221ed548ED90B
+- 0x11C23ac03B32823B186CcB00cE351bc36b1D7453
+- 0x97B1043ABD9E6FC31681635166d430a458D14F9C
 
 https://www.chainabuse.com/report/fd685c77-cf02-4e77-b942-2d261b95e756
