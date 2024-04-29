@@ -47,6 +47,30 @@ The password account contained a mnemonic recovery phrase for his hardware walle
 - 0x593dc5e1ad81667bbfc90739dd2c09c926920e3b - Paxful Deposit
 - 0x2e1155cf5374cba058a04fd03ebd0ba19afe580d - Noones Deposit
 
+### Tornado Cash
+
+"From July 16–20th 35 X 100,000 DAI and 3 X 100 ETH was withdrawn to 0x365 consolidating with the 100 BNB Tornado Cash withdrawals."
+
+0x365d2c5220989a068d8b0e95625875c55166297b
+
+"From July 22–29th 14 X 100,000 DAI and 2 X 100 ETH was withdrawn to 0xe0c7 consolidating with funds from the EasyFi hack. From August 12–23th 2 X 100 ETH was withdrawn to 0xe0c7."
+
+0xe0c79066488a15b70361ad8268d713b05944a4fe
+
+"On July 24th 2 X 100,000 DAI was withdrawn to 0xdef5 which received $7.4M from 0xe0c7 in a series of transactions."
+
+0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc
+
+"The remaining 1 X 100,000 DAI withdrawal was made to 0x996f."
+
+0xd7589fdf5c035ce5d432e5af64b13b77802b7451315f460ce1bda8a4e7c89240
+
+0x996f5ccbf2856137744603b382de559b78a096fc
+
+–[zachxbt](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
+
+
+
 ## URLs
 
 - https://rekt.news/bondly-rekt/

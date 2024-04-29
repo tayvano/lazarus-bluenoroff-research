@@ -25,7 +25,7 @@ Date: August-September 2021
 
 "The $2M withdrawn from the mixer is transferred to an intermediary address before consolidating with funds from other Lazarus Group thefts and deposited to exchanges. Comfort is gained the demix is accurate as the Paxful deposit address 0x246 links the Tornado Cash withdrawals to the deposits."
 
-—[zachxbt](https://medium.com/@ctinvestigators/dd6c52380abb)
+—[zachxbt](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 
 
 ## Onchain

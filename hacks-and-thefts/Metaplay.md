@@ -9,7 +9,7 @@ Date:: October 28, 2021
 
 "October 28, 2021 in a series of transactions, multiple wallets controlled by the PolyPlay team saw unauthorized transfers of $1.6M indicating a private key compromise. In a deleted post on X (formerly Twitter) the PolyPlay team shared the wallet address of the attacker and a Binance listing phishing email they received."
 
-–[zachxbt](https://medium.com/@ctinvestigators/dd6c52380abb)
+–[zachxbt](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 
 
 
