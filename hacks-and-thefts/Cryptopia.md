@@ -7,6 +7,9 @@ Amount Stolen: $16,000,000
 Note: Technically, 2 hacks in 2 weeks
 
 
+---
+
+
 ## Details
 
 
@@ -31,20 +34,21 @@ In early 2019, US$17 million in Ethereum and ERC-20 tokens were stolen from the 
 - 0xd0b0d5a8c0b40b7272115a23a2d5e36ad190f13c
 - 0x6874c552d3fd1879e3007d44ef54c8f940e84760
 - 0x3b46c790ff408e987928169bd1904b6d71c00305
-- 0xd694e78234fe3eaf9f87c3ced8229f2e8e3ad98d (also used for BTC Markets)
+- 0xd694e78234fe3eaf9f87c3ced8229f2e8e3ad98d - also used for BTC Markets
 - 0xfe61ad22a847c4df702731c7d5e803d283ea1376 - Huobi Depo - also used for Bancor stolen funds and Klickl / IDCM (0xec4ac9f8125ddda87c75e82f96f4cda1859eb2d7) stolen funds
-- 0xd294ac18b524ff59ab7fffcbd459f11128220550 (also used for Bancor Stolen funds)
-- Fake buyer address: 0x338fDf0D792F7708d97383EB476e9418B3C16ff1
-- Fake seller address: 0x1e16253b81F418ee44430d94502Bc766fe8CaDba
-- Fake seller address: 0x7bdf9a0fba5c7ce328fe0768eaf2a2dfb0afb35f
-- Bundling address: 0x3d40897675A7467A73610c3ABbBc8292835e67F2
-- 0x480ba3b8ec861b1adb78fe7cd7e4c2b543503cfd635ade023255511372d5d3e5
+- 0xd294ac18b524ff59ab7fffcbd459f11128220550 - also used for Bancor Stolen funds
+- 0x338fDf0D792F7708d97383EB476e9418B3C16ff1 - Fake buyer address
+- 0x1e16253b81F418ee44430d94502Bc766fe8CaDba - Fake seller address
+- 0x7bdf9a0fba5c7ce328fe0768eaf2a2dfb0afb35f - Fake seller address
+- 0x3d40897675A7467A73610c3ABbBc8292835e67F2 - Bundling address
 - 0xd4E79226F1E5A7a28Abb58F4704E53cd364e8D11
+- 0x480ba3b8ec861b1adb78fe7cd7e4c2b543503cfd635ade023255511372d5d3e5
 
 
 
 
-## Links
+
+## URLs
 
 - https://peckshield.medium.com/follow-the-money-tracking-the-asset-movements-of-cryptopia-hack-1485ff202985
 - [https://twitter.com/Cryptopia_NZ/status/1085084168852291586](https://twitter.com/Cryptopia_NZ/status/1085084168852291586)

@@ -2,7 +2,11 @@
 
 Date:: August 24th, 2020
 
-Amount Stolen: ?
+Amount Stolen: $200,000
+
+
+---
+
 
 ## Details
 
@@ -15,14 +19,13 @@ Amount Stolen: ?
 – [CipherBlade, Oct 29, 2020](https://twitter.com/cipher_blade/status/1321862599433089025)
 
 
-
 ## On-Chain
 
-- 0xa06957c9c8871ff248326a1da552213ab26a11ae
+- 0xA06957c9C8871ff248326A1DA552213AB26A11AE - Primary Theft
+
+- 1KcTk7kJMjYaCV3FXo5bzpjaZs2aK18ntz - Primary Theft
 
 ### BTC
-
-- 1KcTk7kJMjYaCV3FXo5bzpjaZs2aK18ntz
 
 - bc1qffjuzkld2jp2hf5apg9trz3ucpqt4rzj5rvvwv
 
@@ -67,7 +70,7 @@ Amount Stolen: ?
     - 0xe1c also sends $5.8m to 0x7026b25422821473f7856ec03b0a3d58fee10100 which sends to 0x31499e03303dd75851a1738e88972cd998337403 (direct and via a back-and-forth Ren Bridge) which interacts with EasyFi exploiter 0x83a2eb63b6cc296529468afa85dbde4a469d8b37
 
 
-## Links
+## URLs
 
 - https://financialpost.com/fp-finance/cryptocurrency/software-glitch-allowed-users-to-acquire-3-million-in-bitcoin-without-paying-coinberry-alleges-in-lawsuit
 - https://www.coindesk.com/business/2022/09/08/canadian-crypto-exchange-coinberry-files-lawsuit-against-50-users-after-losing-120-btc/
@@ -77,3 +80,4 @@ Amount Stolen: ?
 - https://techstory.in/coinberry-sued-its-users-for-stealing-bitcoins/
 - https://crypto.news/coinberry-crypto-exchange-files-lawsuit-after-losing-3-million-in-software-glitch/
 - https://cryptopotato.com/coinberrys-software-blunder-costs-3m-in-bitcoin-report/
+- https://www.quadrigainitiative.com/casestudy/nothinghappenedatcoinberry.php

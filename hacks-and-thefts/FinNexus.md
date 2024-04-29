@@ -6,6 +6,10 @@ Amount Stolen:: $7,000,000
 
 Tags:: "Inside Job"
 
+
+---
+
+
 # Description
 
 Private Key Compromise, Modified owner of contract
@@ -18,13 +22,14 @@ According to community feedback and data on the chain, the token FNX of the on-c
 
 
 ## On-Chain 
-- Original Contract Owner: 0x961918dcc6f1f78f93e357182614c791041f401e
-- Exploiter:: 0x5ebc7d1ff1687a75f76c3edfabcde89d1c09cd5f
-- Also interacts with 0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e
-- Deployed by 0x714ba5cd1fd5176c2d206e5be5a972f734026661
-- 0xf4ace6ae2df8ef5dbccb3a118f072f8a80868fc7 connect FinNexus <> bZx <> MetaPlay
 
-## Links
+- 0x961918dcc6f1f78f93e357182614c791041f401e - Original Contract Owner
+- 0x5ebc7d1ff1687a75f76c3edfabcde89d1c09cd5f - Exploiter
+- 0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e - Also interacts with
+- 0x714ba5cd1fd5176c2d206e5be5a972f734026661 - Deployed by
+- 0xf4ace6ae2df8ef5dbccb3a118f072f8a80868fc7 - connect FinNexus <> bZx <> MetaPlay
+
+## URLs
 
 - https://atozmarkets.com/news/latest-defi-hack-finnexus-protocol-exploited/
 - https://cryptoslate.com/defi-tool-finnexus-fnx-plunges-by-90-after-hack-some-allege-an-inside-job/

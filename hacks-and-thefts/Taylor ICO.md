@@ -2,14 +2,13 @@
 
 Date:: May 29th, 2018
 
-Amount Stolen:: $1.7m (2,578.98 ETH)
-
-Attribution:: DPRK/High Confidence
+Amount Stolen:: $1,700,000 (2,578.98 ETH)
 
 Laundered Via:: IDEX 
 
 Tags:: Account Takeover, Private Key Compromise, "Inside Job", 1Password, ICO Theft, DPRK
 
+---
 
 ## Details
 
@@ -26,9 +25,9 @@ Not only the balance in ETH (2,578.98 ETH), but also the TAY tokens from the Tea
 The only tokens that were not stolen are the ones from the Founders’ and Advisors’ pools, because there’s a vesting contract making them inaccessible for now.
 
 
-## Addresses
+## On-chain
 
-- Taylor ICO Exploiter:: 0x94f20ccff70d82d1579d8b11f2985f8de9b287cf
+- 0x94f20ccff70d82d1579d8b11f2985f8de9b287cf - Taylor ICO Exploiter
 
 - 0xdbf4033c17b983f2aa5cfb09dfbb8b21337dc8c5 - Taylor ICO Victim
 
@@ -59,7 +58,7 @@ The only tokens that were not stolen are the ones from the Founders’ and Advis
 - 0xbc3175b1054214acea52127f3de1b7b243844670 - Taylor Theft Address 0x94f2 sends and receives from 0xbc3 prior to the Taylor ICO Hack
 
 
-## Links
+## URLs
 
 - https://ccn.com/1-5-million-cryptocurrency-trading-platform-taylor-suffers-2500-eth-hack/
 

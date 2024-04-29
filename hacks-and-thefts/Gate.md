@@ -4,11 +4,27 @@ Date:: April 21, 2018
 
 Amount Stolen:: $234,000,000
 
-Tags:: CEX Hack, DPRK, Celas Trade Pro
+BTC 10,777 
 
-BTC 10,777 ETH 218,790 Zcash 3,783 Dogecoin 99,999,000 Ripple 3,043,268 LTC 11,000 ETC 175,866
+ETH 218,790 
+
+Zcash 3,783 
+
+Dogecoin 99,999,000 
+
+Ripple 3,043,268 
+
+LTC 11,000 
+
+ETC 175,866
+
+
+---
+
 
 ## Details 
+
+Rekt by Celas Trade Pro
 
 In an April 2018 hack of Gate.io — a case in which the  U.S. DOJ indicted and filed a civil forfeiture action against DPRK cybercriminals - North Korean hackers stole nearly $230 million worth of crypto assets. 
 
@@ -79,7 +95,7 @@ e.g. 3GHUDLzk1VjYAxZC5rV3T5aAgEWCA7QmF7
 
 
 
-## Links
+## URLs
 
 - http://assetforfeiturelaw.us/wp-content/uploads/2020/08/113-Virtual-Currency-Accounts-Affidavit.pdf
 

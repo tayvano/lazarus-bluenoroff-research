@@ -89,7 +89,7 @@ IP addresses logging into this Domain Registrar 1 account resolve to a VPN servi
 
 
 
-## Links
+## URLs
 
 - https://www.coindesk.com/markets/2019/10/05/algo-capital-loses-crypto-funds-after-ctos-phone-is-hacked/
 - https://cointelegraph.com/news/algo-capital-ex-cto-takes-full-responsibility-for-hot-wallet-breach
@@ -103,7 +103,7 @@ IP addresses logging into this Domain Registrar 1 account resolve to a VPN servi
 
 
 
-## Addresses
+## On-chain
 
 - 25 DCRKBSHNTY7OCZ4MTR5MWXETALEQ2DEK6SCRX3ROMLUCHRFXBZ2D4YGJUM
 - 26 D6OVTBZHNIJTKO5YHKKA3EK4ZXSGW4TVMXIAGY27JVMWZ37M7GZRC2MU3U

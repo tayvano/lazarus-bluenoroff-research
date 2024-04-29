@@ -41,16 +41,44 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 
 ## On-Chain
 
-- 0x09923e35f19687a524bbca7d42b92b6748534f25
-- 0xad6a4ace6dcc21c93ca9dbc8a21c7d3a726c1fb1
-- 0x03e89f2e1ebcea5d94c1b530f638cea3950c2e2b
-- 0x0784051d5136a5ccb47ddb3a15243890f5268482
-- 0x0adab45946372c2be1b94eead4b385210a8ebf0b
-- 3DZTKLmxo56JXFEeDoKU8C4Xc37ZpNqEZN
 - https://etherscan.io/tx/0xfe2910c24e7bab5c96015fb1090aa52b4c0f80c5b5c685e4da1b85c5f648558a 
+- 0x09923e35f19687a524bbca7d42b92b6748534f25 - Theft
+- 0xad6a4ace6dcc21c93ca9dbc8a21c7d3a726c1fb1 - Theft
+- 0x03e89f2e1ebcea5d94c1b530f638cea3950c2e2b - Theft
+- 0x0784051d5136a5ccb47ddb3a15243890f5268482 - Theft
+- 0x0adab45946372c2be1b94eead4b385210a8ebf0b - Theft
+- 3DZTKLmxo56JXFEeDoKU8C4Xc37ZpNqEZN - Theft
+
+- 0x78a9903af04c8e887df5290c91917f71ae028137 - Post ChipMixer Consolidation
+
+- 0x0864b5ef4d8086cd0062306f39adea5da5bd2603 - Post March ChipMixer Consolidation with CoinMetro hack
+
+- 0xb27d40fb4a7975e6f4e6bd7f9fbf6e8d53bf8298 - More consolidating on the ETH side
+
+- 0x8e7f5d85c3587725b1188d3cc04ca814ab60cdce - Bixin deposit address
+
+- 0x593dc5e1ad81667bbfc90739dd2c09c926920e3b - Paxful deposit address
+
+- 0x2e1155cf5374cba058a04fd03ebd0ba19afe580d - Noones deposit address
 
 
-## Links
+
+### ChipMixer
+
+- db0cd0f1cb5bd13b9b3249e6a560aaeddbd0134d0f678220e626b20a424473ce - CM Deposit 30 BTC
+- 1586fec6363ba1d6bac3056e4aee0bc0b4fefdf37f6060850b2d9168c39e6683 - CM Deposit 50 BTC
+- eb4854fb3ea8a3f5d87331b04bfc4daeac76343ebcbcaeff976551fadb5050cc - CM Deposit 41.99 BTC
+- 0b6b1a990b6aab6edaef925c4af2a03f64c1a03ee98d3309f9557029af415f66 - CM Withdraw 15 BTC
+- 9726abb675bff14f512018a583693e815857829dc2459556938a491900638e21 - CM Withdraw 60 BTC 
+- ffeb3dd56d0bde492cd08c0975edad38524f5ef003f55c258e75638044324acf - CM Withdraw 42 BTC
+
+### Tornado Cash
+
+- 0x0784051d5136a5ccb47ddb3a15243890f5268482 - Deposit 
+
+- 0x78a9903af04c8e887df5290c91917f71ae028137 - Withdrawals
+
+## URLs
 
 - https://certik.medium.com/nexus-mutual-attack-8-millions-lost-8d3592d14cfa
 - https://medium.com/@hugh_karp/nxm-hack-update-72c5c017b48 
