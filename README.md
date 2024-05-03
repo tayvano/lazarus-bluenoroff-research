@@ -32,16 +32,16 @@
 
 # Really Good Links: DPRK IT Workers
 
-- https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked
-- https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation
-- https://www.reuters.com/technology/north-koreans-use-fake-names-scripts-land-remote-it-work-cash-2023-11-21/
-- https://www.ic3.gov/Media/Y2023/PSA231018
-- https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/
-- https://ofac.treasury.gov/media/923126/download?inline
-- https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies
-- https://twitter.com/tayvano_/status/1777911893224808911
-- https://twitter.com/tayvano_/status/1777911896508887178
-- https://twitter.com/tayvano_/status/1777911898845159775
+- [Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked)
+- [U.S. DOJ: Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers](https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation)
+- [North Koreans use fake names, scripts to land remote IT work for cash](https://www.reuters.com/technology/north-koreans-use-fake-names-scripts-land-remote-it-work-cash-2023-11-21/)
+- [U.S. Treasury: Additonal Guidance on the DPRK IT Workers](https://www.ic3.gov/Media/Y2023/PSA231018)
+- [Palo Alto: Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)
+- [U.S. Treasury: Guidance on the DPRK IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
+- [U.S. DOJ: North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies)
+- [re: DPRK IT Workers](https://twitter.com/tayvano_/status/1777911893224808911)
+- [re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
+- [re: DPRK IT Workers III](https://twitter.com/tayvano_/status/1777911898845159775)
 
 
 
@@ -90,12 +90,11 @@
 
 ### Chainalysis
 
-![](./images/chainalysis-2016_2024.png)
-
 - [https://www.chainalysis.com/blog/2022-biggest-year-ever-for-crypto-hacking/](https://www.chainalysis.com/blog/2022-biggest-year-ever-for-crypto-hacking/)
 
 - [https://www.chainalysis.com/blog/crypto-hacking-stolen-funds-2024/](https://www.chainalysis.com/blog/crypto-hacking-stolen-funds-2024/)
 
+![](./images/chainalysis-2016_2024.png)
 
 ### TRM
 
@@ -115,135 +114,135 @@
 # List of Incidents Documented in this Repo
 
 
-|     | Date        | Incident                            | Amt Stolen       |
-| --- | ----------- | ----------------------------------- | ---------------- |
-| 👛  | 2016-Oct-13 | Bitcurex                            | $1,500,000       |
-|     | **2016**    | **TOTAL**                           | **$1,500,000**   |
-|     |             |                                     |                  |
-| 👛  | 2017        | Youbit aka Yapizon aka Coinbin      | $7,450,000       |
-| 👛  | 2017        | Bithumb                             | $14,000,000      |
-|     | 2017-May-12 | Wannacry                            | $Unknown         |
-|     | 2017-Jul-?? | Korbit                              | $Unknown         |
-|     | 2017-Jul-15 | 2017 Cryptojacking Incidents        | $Unknown         |
-| 👛  | 2017-Sep-23 | Coinis                              | $2,190,000       |
-| 👛  | 2017-Dec-06 | NiceHash                            | $65,000,000      |
-|     | 2017        | **TOTAL**                           | **$88,640,000**  |
-|     |             |                                     |                  |
-| 💼  | 2018        | Marine Chain                        | $Unknown         |
-| 🔑  | 2018-Mar-18 | Cypherium                           | $8,500,000       |
-| 👛  | 2018-Apr-12 | Coinsecure                          | $3,500,000       |
-| 🔑  | 2018-Apr-19 | E7 Theft                            | $5,000,000       |
-| 👛  | 2018-Apr-21 | Gate.io                             | $234,000,000     |
-| 🔑  | 2018-May-29 | Taylor ICO                          | $1,700,000       |
-| 👛  | 2018-Jun-?? | Bithumb                             | $31,500,000      |
-| 👛  | 2018-Jun-09 | Coinrail                            | $37,000,000      |
-| 🔑  | 2018-Jun-16 | G13 Theft                           | $275,000         |
-| 🔑  | 2018-Jul-09 | Bancor                              | $23,500,000      |
-|     | 2018-Aug-?? | Unidentified Company                | $13,000,000      |
-| 🔑  | 2018-Aug-07 | BTC Markets                         | $3,500,000       |
-| 🔑  | 2018-Aug-09 | Klickl / IDCM                       | $620,000         |
-| 👛  | 2018-Sep-01 | Indodax                             | $24,900,000      |
-| 👛  | 2018-Sep-14 | Zaif                                | $59,000,000      |
-| 🔑  | 2018-Oct-20 | Trade.io                            | $10,000,000      |
-| 🔑  | 2018-Nov-04 | Kryptono                            | $270,000         |
-|     | 2018        | **TOTAL**                           | **$456,265,000** |
-|     |             |                                     |                  |
-| 🔑  | 2019-Jan-14 | Cryptopia                           | $16,000,000      |
-|     | 2019-Mar-?? | Bithumb                             | $16,000,000      |
-| 👛  | 2019-Mar-23 | Etbox                               | $132,000         |
-| 👛  | 2019-Mar-24 | DragonEx                            | $7,090,000       |
-| 🔑  | 2019-Mar-25 | Coinbene                            | $105,000,000     |
-| 👛  | 2019-Mar-26 | BiKi                                | $12,300,000      |
-| 👛  | 2019-Jun-30 | Bitcoin Norway (AlphaPoint)         | $500,000         |
-| 🔑  | 2019-Jul-01 | CoinTiger                           | $272,000         |
-| 🔑  | 2019-Sep-25 | Algo Capital                        | $2,000,000       |
-| 👛  | 2019-Nov-27 | Upbit                               | $48,500,000      |
-|     | **2019**    | **TOTAL**                           | **$207,794,000** |
-|     |             |                                     |                  |
-|     | 2020        | BTC Changers                        | $Unknown         |
-| 👛  | 2020-Aug-07 | New York Financial Services Company | $11,800,000      |
-|     | 2020-Aug-18 | Hobocrypt                           | $134,000         |
-| 🔑  | 2020-Aug-20 | Fetch ai Holder                     | $2,600,000       |
-| 🔑  | 2020-Aug-24 | Coinberry                           | $370,000         |
-| 🔑  | 2020-Aug-29 | Tap Global                          | $Unknown         |
-| 👛  | 2020-Sep-07 | Eterbase                            | $5,400,000       |
-| 🔑  | 2020-Sep-11 | Unibright                           | $500,000         |
-| 👛  | 2020-Sep-26 | Kucoin                              | $275,000,000     |
-| 🔑  | 2020-Oct-06 | CoinMetro                           | $740,000         |
-| 🔑  | 2020-Oct-16 | LEAD Wallet Token                   | $50,000          |
-| 🔑  | 2020-Nov-13 | Theft from Individual L2            | $893,000         |
-| 🔑  | 2020-Dec-14 | Hugh Karp / Nexus Mutual            | $8,000,000       |
-|     | **2020**    | **TOTAL**                           | **$305,487,000** |
-|     |             |                                     |                  |
-| 🔑  | 2021-Jan-22 | Indodax ATO                         | $2,830,000       |
-| 💼  | 2021-Mar-05 | Paid Network                        | $160,000,000     |
-| 🔑  | 2021-Apr-02 | Mudge / Etna / Mokens Deployer      | $1,000,000       |
-| 🔑  | 2021-Apr-19 | EasyFi Founder                      | $81,000,000      |
-| 🔑  | 2021-May-12 | 990.1 BTC                           | $55,600,000      |
-| 🔑  | 2021-May-17 | FinNexus                            | $7,000,000       |
-| 🔑  | 2021-Jun-03 | NAOs Finance                        | $750,000         |
-| 🔑  | 2021-Jul-13 | Tower Capital                       | $Unknown         |
-| 🔑  | 2021-Jul-13 | AdvCash                             | $14,000,000      |
-| 🔑  | 2021-Jul-14 | Bondly Finance                      | $8,500,000       |
-| 🔑  | 2021-Aug-01 | Misc August-September 2021 Hacks    | $2,000,000       |
-| 👛  | 2021-Aug-18 | Liquid Global                       | $91,000,000      |
-| 🔑  | 2021-Oct-08 | MNGR                                | $24,100,000      |
-| 🔑  | 2021-Oct-28 | Metaplay / Polyplay                 | $1,600,000       |
-| 🔑  | 2021-Nov-01 | YFETH Admin Key                     | $200,000         |
-| 🔑  | 2021-Nov-03 | bZx                                 | $55,000,000      |
-|     | **2021**    | **TOTAL**                           | **$504,580,000** |
-|     |             |                                     |                  |
-| 🔑  | 2022-Jan-15 | Jan 15 2022                         | $555,000         |
-| 🔑  | 2022-Jan-27 | Fantom Allo Receiver / ANKR founder | $1,200,000       |
-| 🔑  | 2022-Feb-10 | Feb 10 2022                         | $300,000         |
-| 🔑  | 2022-Mar-22 | Arthur_0x                           | $1,700,000       |
-| 🔑  | 2022-Apr-07 | Wonderhero                          | $1,025,000       |
-| 👛  | 2022-Apr-14 | Ronin Bridge                        | $620,000,000     |
-| 👛  | 2022-Jun-24 | Harmony Horizon Bridge              | $100,000,000     |
-| 🔑  | 2022-Aug-05 | deBridge (Attempt)                  | $0               |
-| 🔑  | 2022-Sep-7  | GERA Coin                           | $142,000         |
-|     | 2022-Oct-11 | Algorand                            | $750,000         |
-|     | 2022-Oct-17 | Darshan                             | $1.75M           |
-| 🔑  | 2022-Oct-31 | Oct 31 2022                         | $183,000         |
-| 👛  | 2022-Nov-02 | Deribit                             | $28,000,000      |
-| 💼  | 2022        | Pixelcraft Potential IT Worker      | $0               |
-|     | **2022**    | **TOTAL**                           | **$753,105,000** |
-|     |             |                                     |                  |
-| 💼  | 2023        | Various 2023 Rug Pulls              | $350,000         |
-| 💼  | 2023-Apr-10 | Terraport                           | $3,900,000       |
-| 💼  | 2023-Apr-26 | Merlin DEX                          | $1,800,000       |
-| 👛  | 2023-Jun-03 | Atomic Wallet                       | $121,000,000     |
-| 👛  | 2023-Jun-11 | A Large Theft / Investment Platform | $17,600,000      |
-| 👛  | 2023-Jul-22 | Alphapo + Coinspaid                 | $97,000,000      |
-| 🔑  | 2023-Aug-07 | Steadefi                            | $1,140,000       |
-| 🔑  | 2023-Aug-16 | Coinshift                           | $2,900,000       |
-| 💼  | 2023-Aug-17 | SPooCK                              | $38,032          |
-| 👛  | 2023-Sep-04 | Stake                               | $41,000,000      |
-| 👛  | 2023-Sep-12 | CoinEx                              | $54,000,000      |
-| ?   | 2023-Sep-28 | Unidentified Company                | $3,000,000       |
-| 🔑  | 2023-Oct-17 | Fantom Foundation                   | $7,624,588       |
-| 🔑  | 2023-Oct-26 | Maverick                            | $8,300,000       |
-| 👛  | 2023-Nov-10 | Poloniex                            | $130,000,000     |
-| 🔑  | 2023-Nov-10 | Samudai                             | $1,100,000       |
-| 💼  | 2023-Nov-14 | UnoRe DAO                           | $219,000         |
-| 👛  | 2023-Nov-22 | HTX / Heco                          | $116,000,000     |
-| 🔑  | 2023-Dec-10 | Degen Reborn                        | $164,000         |
-| 💼  | 2023-Dec-12 | OKX Dex                             | $2,390,976       |
-| 💼  | 2023-Dec-28 | Upwork Developer Jobs               | $550             |
-| 👛  | 2023-Dec-31 | Orbit Bridge                        | $81,000,000      |
-|     | **2023**    | **TOTAL**                           | **$690,527,146** |
-|     |             |                                     |                  |
-| 💼  | 2024-Jan-22 | ConcentricFi                        | $1,720,000       |
-| 💼  | 2023-Jan-27 | Genius Ventures                     | $Unknown         |
-| 💼  | 2024-Feb-01 | Linkedin Developer Jobs             | $200,000         |
-| 🔑  | 2024-Feb-13 | Duelbits                            | $4,600,000       |
-| 💼  | 2024-Feb-27 | Serenity Shield                     | $586,000         |
-| 💼  | 2024-Feb-28 | Braintrust Job Dev Scam             | $100,000         |
-| 💼  | 2024-Mar-05 | MurAll                              | $278,000         |
-| 💼  | 2024-Mar-13 | CloudAI                             | $309,400         |
-| 💼  | 2024-Mar-26 | Munchables ($62m, returned)         | $50,000          |
-| 💼  | 2024-Mar-29 | Solareum ($1.1m, frozen)            | $114,813         |
-|     | **2024**    | **TOTAL**                           | **$7,958,213**   |
+|     | Date        | Incident                                                                                         | Amt Stolen        |
+| --- | ----------- | ------------------------------------------------------------------------------------------------ | ----------------- |
+| 👛  | 2016-Oct-13 | [Bitcurex](./hacks-and-thefts/bitcurex.md)                                                       | $1,500,000       |
+| ⭐  | **2016**    | **TOTAL**                                                                                        | **$1,500,000**   |
+| | | | |                                                                                                                                  
+| 👛  | 2017        | [Youbit aka Yapizon aka Coinbin](./hacks-and-thefts/youbit_aka_yapizon_aka_coinbin.md            | $7,450,000       |
+| 👛  | 2017        | [Bithumb](./hacks-and-thefts/bithumb.md)                                                         | $14,000,000      |
+| ❓  | 2017-May-12 | [Wannacry](./hacks-and-thefts/wannacry.md)                                                       | $Unknown         |
+| 🔑  | 2017-Jul-?? | [Korbit](./hacks-and-thefts/korbit.md)                                                           | $Unknown         |
+| ❓  | 2017-Jul-15 | [2017 Cryptojacking Incidents](./hacks-and-thefts/2017_cryptojackings.md)                        | $Unknown         |
+| 👛  | 2017-Sep-23 | [Coinis](./hacks-and-thefts/coinis.md)                                                           | $2,190,000       |
+| 👛  | 2017-Dec-06 | [NiceHash](./hacks-and-thefts/nicehash.md)                                                       | $65,000,000      |
+| ⭐  | 2017        | **TOTAL**                                                                                        | **$88,640,000**  |
+| | | | |                                                                                                                                  
+| 💼  | 2018        | [Marine Chain](./hacks-and-thefts/marine_chain.md)                                               | $Unknown         |
+| 🔑  | 2018-Mar-18 | [Cypherium](./hacks-and-thefts/cypherium.md)                                                     | $8,500,000       |
+| 👛  | 2018-Apr-12 | [Coinsecure](./hacks-and-thefts/coinsecure.md)                                                   | $3,500,000       |
+| 🔑  | 2018-Apr-19 | [E7 Theft](./hacks-and-thefts/e7_theft.md)                                                       | $5,000,000       |
+| 👛  | 2018-Apr-21 | [Gate.io](./hacks-and-thefts/gate.md)                                                            | $234,000,000     |
+| 🔑  | 2018-May-29 | [Taylor ICO](./hacks-and-thefts/taylor_ico.md)                                                   | $1,700,000       |
+| 👛  | 2018-Jun-?? | [Bithumb](./hacks-and-thefts/bithumb.md)                                                         | $31,500,000      |
+| 👛  | 2018-Jun-09 | [Coinrail](./hacks-and-thefts/coinrail.md)                                                       | $37,000,000      |
+| 🔑  | 2018-Jun-16 | [G13 Theft](./hacks-and-thefts/g13_theft.md)                                                     | $275,000         |
+| 🔑  | 2018-Jul-09 | [Bancor](./hacks-and-thefts/bancor.md)                                                           | $23,500,000      |
+| ❓  | 2018-Aug-?? | [Unidentified Company](./hacks-and-thefts/unidentified_company.md)                               | $13,000,000      |
+| 🔑  | 2018-Aug-07 | [BTC Markets](./hacks-and-thefts/btc_markets.md)                                                 | $3,500,000       |
+| 🔑  | 2018-Aug-09 | [Klickl / IDCM ](./hacks-and-thefts/klickl_idcm.md)                                              | $620,000         |
+| 👛  | 2018-Sep-01 | [Indodax](./hacks-and-thefts/indodax.md)                                                         | $24,900,000      |
+| 👛  | 2018-Sep-14 | [Zaif](./hacks-and-thefts/zaif.md)                                                               | $59,000,000      |
+| 🔑  | 2018-Oct-20 | [Trade.io](./hacks-and-thefts/tradeio.md)                                                        | $10,000,000      |
+| 🔑  | 2018-Nov-04 | [Kryptono](./hacks-and-thefts/kryptono.md)                                                       | $270,000         |
+| ⭐  | 2018        | **TOTAL**                                                                                        | **$456,265,000** |
+| | | | |                                                                                                                                  
+| 🔑  | 2019-Jan-14 | [Cryptopia](./hacks-and-thefts/cryptopia.md)                                                     | $16,000,000      |
+| 👛  | 2019-Mar-?? | [Bithumb](./hacks-and-thefts/bithumb.md)                                                         | $16,000,000      |
+| 👛  | 2019-Mar-23 | [Etbox](./hacks-and-thefts/etbox.md)                                                             | $132,000         |
+| 👛  | 2019-Mar-24 | [DragonEx](./hacks-and-thefts/dragonEx.md)                                                       | $7,090,000       |
+| 🔑  | 2019-Mar-25 | [Coinbene](./hacks-and-thefts/coinbene.md)                                                       | $105,000,000     |
+| 👛  | 2019-Mar-26 | [BiKi](./hacks-and-thefts/biki.md)                                                               | $12,300,000      |
+| 👛  | 2019-Jun-30 | [Bitcoin Norway (AlphaPoint)](./hacks-and-thefts/bitcoin_norway_alphapoint.md)                   | $500,000         |
+| 🔑  | 2019-Jul-01 | [CoinTiger](./hacks-and-thefts/cointiger.md)                                                     | $272,000         |
+| 🔑  | 2019-Sep-25 | [Algo Capital](./hacks-and-thefts/algo_capital.md)                                               | $2,000,000       |
+| 👛  | 2019-Nov-27 | [Upbit](./hacks-and-thefts/upbit.md)                                                             | $48,500,000      |
+| ⭐  | **2019**    | **TOTAL**                                                                                        | **$207,794,000** |
+| | | | |                                                                                                                                  
+| ❓  | 2020        | [BTC Changers](./hacks-and-thefts/btc_changers.md)                                               | $Unknown         |
+| 👛  | 2020-Aug-07 | [New York Financial Services Company](./hacks-and-thefts/new_york_financial_services_company.md) | $11,800,000      |
+| 🔑  | 2020-Aug-18 | [Hobocrypt](./hacks-and-thefts/hobocrypt.md)                                                     | $134,000         |
+| 🔑  | 2020-Aug-20 | [Fetch.ai Holder](./hacks-and-thefts/fetchai.md)                                                 | $2,600,000       |
+| 🔑  | 2020-Aug-24 | [Coinberry](./hacks-and-thefts/coinberry.md)                                                     | $370,000         |
+| 🔑  | 2020-Aug-29 | [Tap Global](./hacks-and-thefts/tap_global.md)                                                   | $Unknown         |
+| 👛  | 2020-Sep-07 | [Eterbase](./hacks-and-thefts/eterbase.md)                                                       | $5,400,000       |
+| 🔑  | 2020-Sep-11 | [Unibright](./hacks-and-thefts/unibright.md)                                                     | $500,000         |
+| 👛  | 2020-Sep-26 | [Kucoin](./hacks-and-thefts/kucoin.md)                                                           | $275,000,000     |
+| 🔑  | 2020-Oct-06 | [CoinMetro](./hacks-and-thefts/coinmetro.md)                                                     | $740,000         |
+| 🔑  | 2020-Oct-16 | [LEAD Wallet Token](./hacks-and-thefts/lead_wallet_token.md)                                     | $50,000          |
+| 🔑  | 2020-Nov-13 | [Individual L2](./hacks-and-thefts/l2_theft.md)                                                  | $893,000         |
+| 🔑  | 2020-Dec-14 | [Hugh Karp / Nexus Mutual](./hacks-and-thefts/hugh_karp_nexus_mutual.md)                         | $8,000,000       |
+| ⭐  | **2020**    | **TOTAL**                                                                                        | **$305,487,000** |
+| | | | |                                                                                                                                  
+| 🔑  | 2021-Jan-22 | [Indodax Account Takeover](./hacks-and-thefts/indodax_ato.md)                                    | $2,830,000       |
+| 💼  | 2021-Mar-05 | [Paid Network](./hacks-and-thefts/paid_network.md)                                               | $160,000,000     |
+| 🔑  | 2021-Apr-02 | [Mudge / Etna / Mokens Deployer](./hacks-and-thefts/mudge_etna_mokens_deployer.md)               | $1,000,000       |
+| 🔑  | 2021-Apr-19 | [EasyFi Founder](./hacks-and-thefts/easyfi.md)                                                   | $81,000,000      |
+| 🔑  | 2021-May-12 | [990.1 BTC](./hacks-and-thefts/990_btc.md)                                                       | $55,600,000      |
+| 🔑  | 2021-May-17 | [FinNexus](./hacks-and-thefts/finnexus.md)                                                       | $7,000,000       |
+| 🔑  | 2021-Jun-03 | [NAOs Finance](./hacks-and-thefts/naos_finance.md)                                               | $750,000         |
+| 🔑  | 2021-Jul-13 | [Tower Capital](./hacks-and-thefts/tower_capital.md)                                             | $Unknown         |
+| 🔑  | 2021-Jul-13 | [AdvCash](./hacks-and-thefts/advcash.md)                                                         | $14,000,000      |
+| 🔑  | 2021-Jul-14 | [Bondly Finance](./hacks-and-thefts/bondly_finance.md)                                           | $8,500,000       |
+| 🔑  | 2021-Aug-01 | [Misc August-September 2021 Hacks](./hacks-and-thefts/misc_august-september_2021.md)             | $2,000,000       |
+| 👛  | 2021-Aug-18 | [Liquid Global](./hacks-and-thefts/liquid_global.md)                                             | $91,000,000      |
+| 🔑  | 2021-Oct-08 | [MNGR](./hacks-and-thefts/mngr.md)                                                               | $24,100,000      |
+| 🔑  | 2021-Oct-28 | [Metaplay / Polyplay](./hacks-and-thefts/metaplay.md)                                            | $1,600,000       |
+| 🔑  | 2021-Nov-01 | [YFETH Admin Key ](./hacks-and-thefts/yfeth_admin_key.md)                                        | $200,000         |
+| 🔑  | 2021-Nov-03 | [bZx](./hacks-and-thefts/bzx.md)                                                                 | $55,000,000      |
+| ⭐  | **2021**    | **TOTAL**                                                                                        | **$504,580,000** |
+| | | | |                                                                                                                                  
+| 🔑  | 2022-Jan-15 | [Jan 15 2022](./hacks-and-thefts/jan_15_2022_theft.md)                                           | $555,000         |
+| 🔑  | 2022-Jan-27 | [Fantom Allo Receiver / ANKR founder](./hacks-and-thefts/fantom_allocation_receiver.md)          | $1,200,000       |
+| 🔑  | 2022-Feb-10 | [Feb 10 2022](./hacks-and-thefts/feb_10_2022_theft.md)                                           | $300,000         |
+| 🔑  | 2022-Mar-22 | [Arthur_0x](./hacks-and-thefts/arthur_0x.md)                                                     | $1,700,000       |
+| 🔑  | 2022-Apr-07 | [Wonderhero](./hacks-and-thefts/wonderhero.md)                                                   | $1,025,000       |
+| 👛  | 2022-Apr-14 | [Ronin Bridge](./hacks-and-thefts/ronin_bridge.md)                                               | $620,000,000     |
+| 👛  | 2022-Jun-24 | [Harmony Horizon Bridge](./hacks-and-thefts/harmony_horizon_bridge.md)                           | $100,000,000     |
+| 🔑  | 2022-Aug-05 | [deBridge (Attempt)](./hacks-and-thefts/debridge.md)                                             | $0               |
+| 🔑  | 2022-Sep-7  | [GERA Coin](./hacks-and-thefts/gera_coin.md)                                                     | $142,000         |
+| 🔑  | 2022-Oct-11 | [Algorand](./hacks-and-thefts/algorand.md)                                                       | $750,000         |
+| 🔑  | 2022-Oct-17 | [Darshan](./hacks-and-thefts/darshan.md)                                                         | $1.75M           |
+| 🔑  | 2022-Oct-31 | [Oct 31 2022](./hacks-and-thefts/oct_31_2022_theft.md)                                           | $183,000         |
+| 👛  | 2022-Nov-02 | [Deribit](./hacks-and-thefts/deribit.md)                                                         | $28,000,000      |
+| 💼  | 2022        | [Pixelcraft Potential IT Worker](./hacks-and-thefts/pixelcraft_potential_it_worker.md)           | $0               |
+| ⭐  | **2022**    | **TOTAL**                                                                                        | **$753,105,000** |
+| | | | |                                                                                                                                  
+| 💼  | 2023        | [Various 2023 Rug Pulls](./hacks-and-thefts/various_2023_rug_pulls.md)                           | $350,000         |
+| 💼  | 2023-Apr-10 | [Terraport](./hacks-and-thefts/terraport.md)                                                     | $3,900,000       |
+| 💼  | 2023-Apr-26 | [Merlin DEX](./hacks-and-thefts/merlin_dex.md)                                                   | $1,800,000       |
+| 👛  | 2023-Jun-03 | [Atomic Wallet](./hacks-and-thefts/atomic_wallet.md)                                             | $121,000,000     |
+| 👛  | 2023-Jun-11 | [A Large Theft / Investment Platform](./hacks-and-thefts/a_large_theft.md)                       | $17,600,000      |
+| 👛  | 2023-Jul-22 | [Alphapo + Coinspaid](./hacks-and-thefts/alphapo_coinspaid.md)                                   | $97,000,000      |
+| 🔑  | 2023-Aug-07 | [Steadefi](./hacks-and-thefts/steadefi.md)                                                       | $1,140,000       |
+| 🔑  | 2023-Aug-16 | [Coinshift](./hacks-and-thefts/coinshift.md)                                                     | $2,900,000       |
+| 💼  | 2023-Aug-17 | [SPooCK](./hacks-and-thefts/spoock.md)                                                           | $38,032          |
+| 👛  | 2023-Sep-04 | [Stake](./hacks-and-thefts/stake.md)                                                             | $41,000,000      |
+| 👛  | 2023-Sep-12 | [CoinEx](./hacks-and-thefts/coinex.md)                                                           | $54,000,000      |
+| ❓  | 2023-Sep-28 | [Unidentified Company](./hacks-and-thefts/unidentified_company.md)                               | $3,000,000       |
+| 🔑  | 2023-Oct-17 | [Fantom Foundation](./hacks-and-thefts/fantom_foundation.md)                                     | $7,624,588       |
+| 🔑  | 2023-Oct-26 | [Maverick](./hacks-and-thefts/maverick.md)                                                       | $8,300,000       |
+| 👛  | 2023-Nov-10 | [Poloniex](./hacks-and-thefts/poloniex.md)                                                       | $130,000,000     |
+| 🔑  | 2023-Nov-10 | [Samudai](./hacks-and-thefts/samudai.md)                                                         | $1,100,000       |
+| 💼  | 2023-Nov-14 | [UnoRe DAO](./hacks-and-thefts/unoredao.md)                                                      | $219,000         |
+| 👛  | 2023-Nov-22 | [HTX / Heco](./hacks-and-thefts/htx_heco.md)                                                     | $116,000,000     |
+| 🔑  | 2023-Dec-10 | [Degen Reborn](./hacks-and-thefts/degen_reborn.md)                                               | $164,000         |
+| 💼  | 2023-Dec-12 | [OKX Dex](./hacks-and-thefts/okx_dex.md)                                                         | $2,390,976       |
+| 💼  | 2023-Dec-28 | [Upwork Developer Jobs Scams](./hacks-and-thefts/upwork_job_scams.md)                            | $550             |
+| 👛  | 2023-Dec-31 | [Orbit Bridge](./hacks-and-thefts/orbit_bridge.md)                                               | $81,000,000      |
+| ⭐  | **2023**    | **TOTAL**                                                                                        | **$690,527,146** |
+| | | | |                                                                                                                                  
+| 💼  | 2024-Jan-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000       |
+| 💼  | 2023-Jan-27 | [Genius Ventures](./hacks-and-thefts/genius_ventures.md)                                         | $Unknown         |
+| 💼  | 2024-Feb-01 | [Linkedin Developer Jobs Scams](./hacks-and-thefts/linkedin_dev_job_scam.md)                     | $200,000         |
+| 🔑  | 2024-Feb-13 | [Duelbits](./hacks-and-thefts/duelbits.md)                                                       | $4,600,000       |
+| 💼  | 2024-Feb-27 | [Serenity Shield](./hacks-and-thefts/serenity_shield.md)                                         | $586,000         |
+| 💼  | 2024-Feb-28 | [Braintrust Job Dev Scam](./hacks-and-thefts/braintrust_job_dev_scam.md)                         | $100,000         |
+| 💼  | 2024-Mar-05 | [MurAll](./hacks-and-thefts/murall.md)                                                           | $278,000         |
+| 💼  | 2024-Mar-13 | [CloudAI](./hacks-and-thefts/cloudai.md)                                                         | $309,400         |
+| 💼  | 2024-Mar-26 | [Munchables ($62m, returned)](./hacks-and-thefts/munchables.md)                                  | $50,000          |
+| 💼  | 2024-Mar-29 | [Solareum ($1.1m, frozen) ](./hacks-and-thefts/solareum.md)                                      | $114,813         |
+| ⭐  | **2024**    | **TOTAL**                                                                                        | **$7,958,213**   |
 
 
 
@@ -255,60 +254,60 @@
 
 | Date | Document |
 | ---- | ---- |
-| 2007       | CHRG 109shrg28241 |
-| 2014-02-01 | KEI aps mansourov |
-| 2014-12-01 | HPSR Security Briefing: North Korea |
-| 2015-12-16 | CSIS: North Koreas Cyber Operations |
-| 2016-08-09 | Korean Special Asymmetric Paramilitary Forces |
-| 2017-04-03 | Kaspersky: Lazarus Under The Hood |
-| 2017-05-30 | GroupIB: Lazarus Arisen |
-| 2017-08-01 | US Army: North Korean Cyber Support |
-| 2018-01-01 | CRS R44912 |
-| 2018-03-01 | APT37: The Overlooked North Korean Actor |
-| 2018-06-08 | USA v PARK JIN HYOK ⭐ |
-| 2018-10-01 | North Korea CEEW |
-| 2019       | North Koreas Cyber Threat: The All Purpose Sword |
-| 2019-01-01 | How DPRK Created Most Effective Cyber Forces |
-| 2019-01-29 | ATA SFR SSCI |
-| 2019-08-30 | UN: Security Report S/2019/691 |
-| 2020-01-01 | Recorded Future: Internet |
-| 2020-02-01 | North Korea Cyber Operations |
-| 2020-02-05 | USA v FTB |
-| 2020-02-19 | Lexfo: The Lazarus Constellation |
-| 2020-03-02 | USA v 113 (Yinyin) ⭐ |
-| 2020-06-01 | CryptoCore Group |
-| 2020-06-25 | USA v Abbas |
-| 2020-07-01 | ATP7 100 |
-| 2020-08-27 | USA v 280 Virtual Currency Accts ⭐ |
-| 2020-11-17 | USA v Ghaleb Alaumary I |
-| 2020-11-17 | USA v Ghaleb Alaumary II |
-| 2020-12-08 | USA v JON CHANG HYOK PARK JIN HYOK ⭐ |
-| 2021-01-01 | North Korea Military Power |
-| 2021-03-01 | North Korea IB |
-| 2021-03-04 | UN Security Council S/2021/211 |
-| 2021-04-09 | ATA 2021 Unclassified Report |
-| 2021-09-02 | North Korean Cyberattacks |
-| 2022-03-01 | UN: Security Report N2225209 |
-| 2022-05-16 | OFAC IT Workers Advisory |
-| 2022-12-01 | Lazarus: No Pineapple - 2023 Threat Intel Report|
-| 2022-12-31 | DPRK Overseas Workers |
-| 2023-03-04 | Mandiant: APT43 Report |
-| 2023-03-07 | UN Security Report N2303794 |
-| 2023-04-18 | USA v Sim Hyon Sop 00128 ⭐ |
-| 2023-04-18 | USA v Sim Hyon Sop 00129 ⭐ |
-| 2023-06-05 | SEC v Binance |
-| 2023-06-22 | Recorded Future NK Cyber Strategy |
-| 2023-09-12 | UN Security Council s/2023/656 |
-| 2023-10-18 | USA IT Workers 12 domain names redacted |
-| 2023-10-18 | USA IT Workers 397674 redacted |
-| 2023-10-18 | USA IT Workers 5 domain names redacted |
-| 2023-10-18 | USA IT Workers 1134350 redacted ⭐ |
-| 2023-11-01 | NCSC's 3CX Attack IOCs |
-| 2023-11-01 | USA v Binance |
-| 2023-11-20 | FinCEN Binance Consent Order |
-| 2023-11-23 | Kim Jong Un New Maybach |
-| 2023-11-30 | Recorded Future Crypto Country |
-| 2024-03-07 | UN Security Council s/2024/215 |
+| 2007       | [CHRG 109shrg28241](./pdfs/2007_CHRG-109shrg28241.pdf) |
+| 2019       | [North Koreas Cyber Threat: The All Purpose Sword](./pdfs/2019_North-Koreas-Cyber-The-All-Purpose-Sword.pdf) |
+| 2014-02-01 | [KEI aps mansourov](./pdfs/2014-02-01_KEI_aps_mansourov.pdf) |
+| 2014-12-01 | [HPSR Security Briefing North Korea](./pdfs/2014-12-01_HPSR_Security-Briefing_NorthKorea.pdf) |
+| 2015-12-16 | [CSIS North Koreas Cyber Operations](./pdfs/2015-12-16_CSIS_NorthKoreasCyberOperations.pdf) |
+| 2016-08-09 | [Korean Special Asymmetric Paramilitary Forces](./pdfs/2016-08-09_Korean_Special_Asymmetric_Paramilitary_Forces.pdf) |
+| 2017-04-03 | [Kaspersky: Lazarus Under The Hood PDF final](./pdfs/2017-04-03_Kaspersky_Lazarus_Under_The_Hood_PDF_final.pdf) |
+| 2017-05-30 | [GroupIB: Lazarus Arisen](./pdfs/2017-05-30_GroupIB_Lazarus-Arisen.pdf) |
+| 2017-08-01 | [US Army: North Korean Cyber Support](./pdfs/2017-08-01_USArmy-North_Korean_Cyber_Support.pdf) |
+| 2018-01-01 | [CRS R44912](./pdfs/2018-01-01_CRS-R44912.pdf) |
+| 2018-03-01 | [Fireeye: APT37 The Overlooked North Korean Actor](./pdfs/2018-03-01_Fireeye_APT37-The-Overlooked-North-Korean-Actor.pdf) |
+| 2018-06-08 | [⭐ USA v PARK JIN HYOK](./pdfs/2018-06-08_USA-v-PARK-JIN-HYOK.pdf) |
+| 2018-10-01 | [North Korea CEEW](./pdfs/2018-10-01_North-Korea_CEEW.pdf) |
+| 2019-01-01 | [How DPRK Created Most Effective Cyber Forces](./pdfs/2019-01-01_How-DPRK-Created-Most-Effective-Cyber-Forces.pdf) |
+| 2019-01-29 | [ATA SFR SSCI](./pdfs/2019-01-29_ATA-SFR-SSCI.pdf) |
+| 2019-08-30 | [UN Security Council: s/2019/691](./pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf) |
+| 2020-01-01 | [Recorded Future: Internet](./pdfs/2020-01-01_Recorded-Future_Internet.pdf) |
+| 2020-02-01 | [North Korea Cyber Operations](./pdfs/2020-02-01_North-Korea_Cyber-Operations.pdf) |
+| 2020-02-05 | [USA v FTB](./pdfs/2020-02-05_USA-v-FTB.pdf) |
+| 2020-02-19 | [Lexfo The Lazarus Constellation](./pdfs/2020-02-19_Lexfo-The_Lazarus_Constellation.pdf) |
+| 2020-03-02 | [⭐ USA v 113 Virtual Currency Accounts - YINYIN Complaint CV-606](./pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf) |
+| 2020-06-01 | [CryptoCore Group](./pdfs/2020-06-01_CryptoCore-Group.pdf) |
+| 2020-06-25 | [USA v Abbas - Complaint](./pdfs/2020-06-25_Abbas_Complaint.pdf) |
+| 2020-07-01 | [ATP7 100 2](./pdfs/2020-07-01_ATP7-100-2.pdf) |
+| 2020-08-27 | [⭐ USA v 280 Virual Currency Accounts - Complaint CV-2396](./pdfs/2020-08-27_USA-v-280_complaint_cv-2396.pdf) |
+| 2020-11-17 | [USA v Ghaleb Alaumary CR-00576.1](./pdfs/2020-11-17_USA-v-ghaleb-alaumary_cr-00576.1.pdf) |
+| 2020-11-17 | [USA v Ghaleb Alaumary CR-00576.5](./pdfs/2020-11-17_USA-v-ghaleb-alaumary_cr-00576.5.pdf) |
+| 2020-12-08 | [⭐ USA v JON CHANG HYOK PARK JIN HYOK CR-00614](./pdfs/2020-12-08_USA-v-JON-CHANG-HYOK_PARK-JIN-HYOK_cr-00614.pdf) |
+| 2021-01-01 | [North Korea Military Power](./pdfs/2021-01-01_North-Korea_Military-Power.pdf) |
+| 2021-03-01 | [North Korea IB](./pdfs/2021-03-01_North-Korea-IB.pdf) |
+| 2021-03-04 | [UN Security Council: s/2021/211](./pdfs/2021-03-04_UN-Security-Council_s-2021-211.pdf) |
+| 2021-04-09 | [ATA 2021 Unclassified Report](./pdfs/2021-04-09_ATA-2021-Unclassified-Report.pdf) |
+| 2021-09-02 | [North Korean Cyberattacks](./pdfs/2021-09-02_North-Korean-Cyberattacks.pdf) |
+| 2022-03-01 | [UN Security Counsil: N2225209](./pdfs/2022-03-01_UN-Security-Report_N2225209.pdf) |
+| 2022-05-16 | [OFAC IT Workers Advisory](./pdfs/2022-05-16_OFAC_IT-Workers-Advisory.pdf) |
+| 2022-12-01 | [WithSecure Lazarus No Pineapple Threat Intelligence Report 2023](./pdfs/2022-12-01_WithSecure-Lazarus-No-Pineapple-Threat-Intelligence-Report-2023.pdf) |
+| 2022-12-31 | [DPRK Overseas IT Workers](./pdfs/2022-12-31_DPRK-Overseas-Workers.pdf) |
+| 2023-03-04 | [Mandiant: APT43 Report](./pdfs/2023-03-04_Mandiant_APT43-Report.pdf) |
+| 2023-03-07 | [UN Security Council: N2303794](./pdfs/2023-03-07_UN-Security-Report_N2303794.pdf) |
+| 2023-04-18 | [⭐ USA v SIM HYON SOP et al Indictment CR-00129](./pdfs/2023-04-18_USA-v-sim-hyon-sop_et_al_indictment_cr-00129.pdf) |
+| 2023-04-18 | [⭐ USA v SIM HYON SOP Indictment CR-00128](./pdfs/2023-04-18_USA-v-sim-hyon-sop_indictment_cr-00128.pdf) |
+| 2023-06-05 | [SEC v Binance](./pdfs/2023-06-05_SEC-v-Binance.pdf) |
+| 2023-06-22 | [Recorded Future: NK Cyber Strategy](./pdfs/2023-06-22_Recorded-Future-NK-Cyber-Strategy.pdf) |
+| 2023-09-12 | [UN Security Council: s/2023/656](./pdfs/2023-09-12_UN-Security-Council_s-2023-656.pdf) |
+| 2023-10-18 | [⭐ USA v DPRK IT Workers 1134350](./pdfs/2023-10-18_USA-IT-Workers_1134350_redacted.pdf) |
+| 2023-10-18 | [USA v DPRK IT Workers 12 Domain Names](./pdfs/2023-10-18_USA-IT-Workers_12_domain_names_redacted.pdf) |
+| 2023-10-18 | [USA v DPRK IT Workers 397674](./pdfs/2023-10-18_USA-IT-Workers_397674_redacted.pdf) |
+| 2023-10-18 | [USA v DPRK IT Workers 5 Domain Names](./pdfs/2023-10-18_USA-IT-Workers_5_domain_names_redacted.pdf) |
+| 2023-11-01 | [NCSC: 3CX IOCs](./pdfs/2023-11-01_NCSC-3CX-IOCs.pdf) |
+| 2023-11-01 | [USA v Binance](./pdfs/2023-11-01_USA-v-Binance.pdf) |
+| 2023-11-20 | [FinCEN v Binance Consent Order](./pdfs/2023-11-20_FinCEN-Binance_Consent-Order.pdf) |
+| 2023-11-23 | [Kim Jong Un's New Maybach](./pdfs/2023-11-23_Kim-Jong-Un-New-Maybach.pdf) |
+| 2023-11-30 | [Recorded Future: Crypto Country](./pdfs/2023-11-30_Recorded-Future-Crypto-Country.pdf) |
+| 2024-03-07 | [UN Security Council: s/2024/215](./pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf) |
 
 
 
