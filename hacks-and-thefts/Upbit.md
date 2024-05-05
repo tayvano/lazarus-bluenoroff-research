@@ -14,8 +14,6 @@ Rumors swirled that this was an Inside Job as the stolen crypto had allegedly be
 
 South Korea Crypto exchange Upbit announced that 342,000 ETH worth about $50 million were sent to an unknown wallet in a suspected hack. The exchange has pledged to protect user assets, stating that the 342,000 ETH (roughly $50 million by press time) will be covered by corporate assets. It has already moved all crypto assets held in its hot wallet to cold storage. Announcing the news on Wednesday, UPbit said 342,000 ETH (currently worth nearly $50 million) were transferred from its ethereum “hot” wallet to an unknown wallet
 
-The Exchange 3, a South Korea-based virtual currency exchange, had approximately 342,000 ETH ($48.5 million) stolen from it. 
-
 Thankfully, Upbit promised to cover the losses. However, the story doesn’t end here. The stolen crypto has been on the move.  As of January 2020, Upbit has completed a major security update after a brief suspension of services. 
 
 The Upbit hack is currently the most recent one as the company announced in a blog post that on November 27, 2019 it lost 58 billion won – $49.2 million at the time – worth of ETH to hackers as they transferred the funds out of Upbit’s hot wallet to an unknown wallet.
@@ -25,13 +23,13 @@ In response, Upbit immediately moved all of its funds to cold wallets and also d
 
 ## Attribution
 
-- "Exchange 3" in [US v 113](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf)
+> The Exchange 3, a South Korea-based virtual currency exchange, had approximately 342,000 ETH ($48.5 million) stolen from it. 
 
-- "Exchange 2" in [US v 280](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-08-27_USA-v-280_complaint_cv-2396.pdf)
+- "Exchange 3" in [US v 113](../pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf)
 
-- [2019 Panel of Experts Report](http://undocs.org/S/2019/691): The Coinbin aka Youbit aka Yapizon and Bithumb attacks, along with an attack on UpBit on 28 May 2019, used similar tools, codes and attack vectors (including spear phishing and watering holes) to those used in previous cyberattacks on security and defence targets attributed to the Democratic People’s Republic of Korea.34 In addition to the Republic of Korea, the Panel investigated Democratic People’s Republic of Korea attacks on cryptocurrency exchanges in five other countries (see annex 21 B)."
+- "Exchange 2" in [US v 280](../pdfs/2020-08-27_USA-v-280_complaint_cv-2396.pdf)
 
-- 
+- [2019 Panel of Experts Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf): The Coinbin aka Youbit aka Yapizon and Bithumb attacks, along with an attack on UpBit on 28 May 2019, used similar tools, codes and attack vectors (including spear phishing and watering holes) to those used in previous cyberattacks on security and defence targets attributed to the Democratic People’s Republic of Korea.34 In addition to the Republic of Korea, the Panel investigated Democratic People’s Republic of Korea attacks on cryptocurrency exchanges in five other countries (see annex 21 B)."
 
 
 ## URLs 

@@ -24,7 +24,7 @@ In August 2019, the UN Security Council Panel of Experts indicated DPRK-affiliat
 
 - "Theft of undisclosed amount of Bitcoin (possibly 2.19 million USD) in attack on Coinis. Total of 6.99M USD reported in losses from this and the April 2017 Youbit attack combined"
 
-- Page 29 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691)
+- Page 29 of [UN Security Council's North Korea 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf)
 
 
 ## URLs

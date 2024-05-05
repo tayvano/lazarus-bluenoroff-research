@@ -14,19 +14,32 @@ The best I have ever been able to parse out, the four separate hacks are as foll
 
 - June 19th, 2018 - $31 million - ~2000 BTC - goes to YoBit
 
-- __- "The proceeds of the third attack on Bithumb in June 2018 were transferred through YoBit. 36 By August 2018, less than two months after the attack, the funds were sent to YoBit in a complex series of hundreds of transactions with the aim of converting and cashing out the entirety of the stolen cryptocurrency (as opposed to spending the acquired cryptocurrency directly on goods and services). The above-mentioned cases show a clear evolution from the earlier Democratic People’s Republic of Korea cyberattack on the customers of a Republic of Korea online shopping mall, Interpark, which was designed to generate foreign currency."__
+- "The proceeds of the third attack on Bithumb in June 2018 were transferred through YoBit. 36 By August 2018, less than two months after the attack, the funds were sent to YoBit in a complex series of hundreds of transactions with the aim of converting and cashing out the entirety of the stolen cryptocurrency (as opposed to spending the acquired cryptocurrency directly on goods and services). The above-mentioned cases show a clear evolution from the earlier Democratic People’s Republic of Korea cyberattack on the customers of a Republic of Korea online shopping mall, Interpark, which was designed to generate foreign currency."
 
 - March 29th, 2019 - $20 million
 
-- August 2019: UN Security Council Panel of Experts also indicated DPRK-affiliated actors were behind the theft.
+
+## Details 
 
 Bithumb has said regarding either the June 2018 hack or March 2019 hack that:
 
-- The attackers gained access to an employee’s personal computer. This may be the malicious HWP document researched and documented.
+> The attackers gained access to an employee’s personal computer. This may be the malicious HWP document researched and documented.
 
-- Bithumb believes the hack was an Inside Job and funds might have been moved by individuals associated with the company. 
+> Bithumb believes the hack was an Inside Job and funds might have been moved by individuals associated with the company. 
 
 
+
+The [UN Security Council's 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf) included:
+
+
+> The first two attacks, in February and July 2017, resulted in losses of approximately $7 million each, with subsequent attacks in June 2018 and March 2019 resulting in the loss of $31 million and $20 million, respectively, showing the increased capacity and determination of Democratic People’s Republic of Korea cyber actors. Similarly, Youbit (formerly Yapizon) suffered multiple attacks involving a $4.8 million loss in April 2017 and then 17 per cent of its overall assets in December 2017, forcing the exchange to close. Those attacks, along with an attack on UpBit on 28 May 2019, used similar tools, codes and attack vectors (including spear phishing and watering holes) to those used in previous cyberattacks on security and defenc e targets attributed to the Democratic People’s Republic of Korea.34 In addition to the Republic of Korea, the Panel investigated Democratic People’s Republic of Korea attacks on cryptocurrency exchanges in five other countries (see annex 21 B).
+
+| Date      | Incident   | Details                                                                                                                                                                                                                                                                                                                                                                                        |
+| --------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Feb 2017  | Bithumb #1 | Theft of $7M USD in first attack on Bithumb                                                                                                                                                                                                                                                                                                                                                    |
+| Jul 2017  | Bithumb #2 | Reported theft of more than $7M USD in second attack on Bithumb including: 870,000 USD in Bitcoin and [$7M USD in Bitcoin and Ethereum](https://www.coindesk.com/report-north-korea-targets-south-koreas-bitcoin-exchanges-cyber-attacks). [National Intelligence Services attributed to the DPRK.](https://www.coindesk.com/police-confirm-north-korean-connection-bitcoin-exchange-phishing) |
+| June 2018 | Bithumb #3 | Third attack on Bithumb. Bithumb announced in a since deleted tweet that hackers stole approximately $31 million. Proceeds were laundered through a separate crypto-currency exchange called YoBit.                                                                                                                                                                                            |
+| Mar 2019  | Bithumb #4 | Reported theft of 20M USD in fourth attack on Bithumb (3M EOS and 20 million Ripple coins stolen worth $13.4M USD and 6M USD, respectively)                                                                                                                                                                                                                                                    |
 
 
 

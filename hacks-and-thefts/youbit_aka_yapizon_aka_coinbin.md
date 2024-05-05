@@ -4,7 +4,7 @@
 
 Date:: April 22nd, 2017
 
-Amount Stolen: $4,800,000 (3831 BTC) + "17% of assets"
+Amount Stolen:: $4,800,000 (3831 BTC) + "17% of assets"
 
 ## Incident 2
 
@@ -45,4 +45,4 @@ In the 2023 UN Report, they attributed both the April and December hacks to DPRK
 
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
-- Page 28 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691)
+- Page 28 of [UN Security Council's North Korea 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf)

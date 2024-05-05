@@ -6,7 +6,7 @@ Tags:: Ransomware, ShapeShift, Monero
 
 Amount Stolen:: $200k (52+ BTC)
 
-
+---
 
 ## Details
 
@@ -25,6 +25,13 @@ The assessment attributes WannaCry to North Korea with “moderate confidence,�
 The largest ransomware attack in history, infecting more than 300,000 computers in more than 150 countries and causing more than $4 billion in damage. The attack crippled the United Kingdom’s National Health System, affecting one-third of hospitals providing intensive care and other emergency services and 8 percent of general medical practices.129
 
 
+The [UN Security Council's 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf) included:
+
+> With regard to laundering the proceeds of attacks through cryptocurrency, the worldwide WannaCry ransomware attacks in May 2017, which affected more than 200,000 computers in 150 countries, demanded ransom payments in the Bitcoin cryptocurrency. A Member State investigation found that the cryptocurrency obtained through WannaCry malware had been laundered through multiple virtual currencies and multiple jurisdictions to obfuscate transactions.
+
+> Bitcoin ransom payments made by victims of WannaCry were transferred from a Bitcoin wallet through cryptocurrency exchanges and ultimately converted to Monero, another cryptocurrency, using a Swiss-based cryptocurrency exchange called ShapeShift.35 Monero is an anonymity-enhanced virtual currency and therefore more difficult to trace than standard cryptocurrencies such as Bitcoin, Litecoin or Ethereum, which prolongs attribution. The proceeds of the third attack on Bithumb in June 2018 were transferred through YoBit.36 By August 2018, less than two months after the attack, the funds were sent to YoBit in a complex series of hundreds of transactions with the aim of converting and cashing out the entirety of the stolen cryptocurrency (as opposed to spending the acquired cryptocurrency directly on goods and services). The above-mentioned cases show a clear evolution from the earlier Democratic People’s Republic of Korea cyberattack on the customers of a Republic of Korea online shopping mall, Interpark, which was designed to generate foreign currency.
+
+
 ## On-Chain
 
 
@@ -36,9 +43,6 @@ The largest ransomware attack in history, infecting more than 300,000 computers 
 
 - The "Wannacry 2.0 peeling" wallet was emptied on August 4th at 12:50 UTC with its last transaction to Changelly.
 
-
-
-#### 
 Ransoms paid by victims of WannaCry Version 1 were paid into Bitcoin wallets. On July 20, 2017, a series of transactions occurred that moved all of the ransom payment proceeds from the Bitcoin wallets associated with WannaCry Version 1. After the funds were sent to a currency exchange, the funds were converted to Monero, another cryptocurrency. At least some of the transactions occurred from five IP addresses that have been identified as exit nodes for the TOR network,35 and used the same browser User-Agent string “Mozilla/5.0 (Windows NT 6.1.; rv:52.0.) Gecko/20100101 Firefox/52.0.”
 
 As with Version 1, ransoms paid by victims of WannaCry Version 2 were also paid into Bitcoin wallets. Estimates as of early-August 2017 indicate that approximately 330 victims paid the ransom demanded by WannaCry Version 2 totaling over $140,000. On August 3, 2017, the ransom payments from the victims of the WannaCry Version 2 ransomware were transferred from the original Bitcoin addresses to other cryptocurrency addresses in a series of transactions. As with the laundering of the ransoms associated with Version 1, following the Version 2 ransoms being sent to currency exchanges, the funds were converted to Monero. At least some of those transfers used IP addresses that have been identified as exit nodes for the TOR network, and used the same browser User- Agent string, “Mozilla/5.0 (Windows NT 6.1; rv:52.0) Gecko/20100101 Firefox/52.0.”
@@ -47,7 +51,6 @@ As with Version 1, ransoms paid by victims of WannaCry Version 2 were also paid 
 
 ## URLs
 
-- http://undocs.org/S/2019/691
 - https://medium.com/@nbax/tracing-the-wannacry-2-0-monero-transactions-d8c1e5129dc1
 - https://money.cnn.com/2017/08/03/technology/wannacry-bitcoin-ransom-moved/index.html
 - https://securelist.com/wannacry-and-lazarus-group-the-missing-link/78431/
@@ -69,4 +72,4 @@ As with Version 1, ransoms paid by victims of WannaCry Version 2 were also paid 
 - https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/
 - https://www.wsj.com/articles/u-s-preparing-cases-linking-north-korea-to-theft-at-n-y-fed1490215094.
 - Page 106 [US v PARK JIN HYOK (June 2018)](https://www.justice.gov/opa/press-release/file/1092091/download)
-- Page 29 of [UN Security Council's North Korea 2019 Midterm Report](http://undocs.org/S/2019/691)
+- Page 29 of [UN Security Council's North Korea 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf)
