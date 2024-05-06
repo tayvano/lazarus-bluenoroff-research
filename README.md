@@ -6,7 +6,6 @@
 
 > "The real purpose of the DPRK’s cyber, military, policy, and political aggressiveness is ultimately to **control and subdue its own population and retain power.**"
 
-
 # Really Good Links: Overview & Background
 
 - [North Korean Cyber Attacks](https://www.heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat)
@@ -29,7 +28,6 @@
 - [North Korea's Crypto Hackers Are Paving the Road to Nuclear Armageddon](https://www.cnet.com/culture/features/north-koreas-crypto-hackers-are-paving-the-road-to-nuclear-armageddon/)
 - [Kim Jong Un is directly handling results of new COVID-19 hacking organization's work](https://www.dailynk.com/english/kim-jong-un-directly-handling-results-new-covid-19-hacking-organization-work/)
 
-
 # Really Good Links: DPRK IT Workers
 
 - [Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked)
@@ -43,36 +41,23 @@
 - [re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
 - [re: DPRK IT Workers III](https://twitter.com/tayvano_/status/1777911898845159775)
 
-
-
 # Background
 
 - [https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md)
-
-
 
 # Evolution
 
 - [https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md)
 
-
-
 # Malware & Articles
 
 - [https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-malware-and-ttps.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-malware-and-ttps.md)
-
-
 
 ## Phishing Samples
 
 - https://twitter.com/tayvano_/status/1516225457640787969
 
-
-
-
-
 # Hacks, Thefts, and Total Amounts Stolen
-
 
 |           | **Tay's Totals**   | **Tay's Count** | **Chain's Totals** | **Chain's Count** | **TRM's Totals**   | **TRM's Counts** | **UN Totals**      | **UN Counts** |
 | --------- | ------------------ | --------------- | ------------------ | ----------------- | ------------------ | ---------------- | ------------------ | ------------- |
@@ -84,9 +69,8 @@
 | 2021      | $504,580,000       | 16              | $428,800,000       | 9                 | $250,000,000       | n/a              | $175,600,000       | 6             |
 | 2022      | $753,105,000       | 14              | $1,650,000,000     | 15                | $850,000,000       | n/a              | $991,700,000       | 5             |
 | 2023      | $690,527,146       | 22              | $1,000,000,000     | 20                | $600,000,000       | n/a              | $753,019,000       | 17            |
-| 2024      | $7,958,213         | 10              | n/a                | n/a               | n/a                | n/a              | n/a                | n/a           |
-| **TOTAL** | **$3,015,856,359** | **110**         | **$4,202,300,000** | **73**            | **$2,690,000,000** | **n/a**          | **$2,966,031,000** | **57**        |
-
+| 2024      | $26,335,426        | 12              | n/a                | n/a               | n/a                | n/a              | n/a                | n/a           |
+| **TOTAL** | **$3,034,233,572** | **112**         | **$4,202,300,000** | **73**            | **$2,690,000,000** | **n/a**          | **$2,966,031,000** | **57**        |
 
 ### Chainalysis
 
@@ -100,7 +84,6 @@
 
 ![](./images/TRM-2017_2023.jpg)
 
-
 ### United Nations Security Council
 
 - [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
@@ -109,16 +92,13 @@
 
 ![](./images/UN_2017_2023_2.png)
 
-
-
 # List of Incidents Documented in this Repo
-
 
 |     | Date        | Incident                                                                                         | Amt Stolen        |
 | --- | ----------- | ------------------------------------------------------------------------------------------------ | ----------------- |
 | 👛  | 2016-Oct-13 | [Bitcurex](./hacks-and-thefts/bitcurex.md)                                                       | $1,500,000       |
 | ⭐  | **2016**    | **TOTAL**                                                                                        | **$1,500,000**   |
-| | | | |                                                                                                                                  
+| | | | |
 | 👛  | 2017        | [Youbit aka Yapizon aka Coinbin](./hacks-and-thefts/youbit_aka_yapizon_aka_coinbin.md)           | $7,450,000       |
 | 👛  | 2017        | [Bithumb](./hacks-and-thefts/bithumb.md)                                                         | $14,000,000      |
 | ❓  | 2017-May-12 | [Wannacry](./hacks-and-thefts/wannacry.md)                                                       | $Unknown         |
@@ -127,7 +107,7 @@
 | 👛  | 2017-Sep-23 | [Coinis](./hacks-and-thefts/coinis.md)                                                           | $2,190,000       |
 | 👛  | 2017-Dec-06 | [NiceHash](./hacks-and-thefts/nicehash.md)                                                       | $65,000,000      |
 | ⭐  | 2017        | **TOTAL**                                                                                        | **$88,640,000**  |
-| | | | |                                                                                                                                  
+| | | | |
 | 💼  | 2018        | [Marine Chain](./hacks-and-thefts/marine_chain.md)                                               | $Unknown         |
 | 🔑  | 2018-Mar-18 | [Cypherium](./hacks-and-thefts/cypherium.md)                                                     | $8,500,000       |
 | 👛  | 2018-Apr-12 | [Coinsecure](./hacks-and-thefts/coinsecure.md)                                                   | $3,500,000       |
@@ -146,7 +126,7 @@
 | 🔑  | 2018-Oct-20 | [Trade.io](./hacks-and-thefts/tradeio.md)                                                        | $10,000,000      |
 | 🔑  | 2018-Nov-04 | [Kryptono](./hacks-and-thefts/kryptono.md)                                                       | $270,000         |
 | ⭐  | 2018        | **TOTAL**                                                                                        | **$456,265,000** |
-| | | | |                                                                                                                                  
+| | | | |
 | 🔑  | 2019-Jan-14 | [Cryptopia](./hacks-and-thefts/cryptopia.md)                                                     | $16,000,000      |
 | 👛  | 2019-Mar-?? | [Bithumb](./hacks-and-thefts/bithumb.md)                                                         | $16,000,000      |
 | 👛  | 2019-Mar-23 | [Etbox](./hacks-and-thefts/etbox.md)                                                             | $132,000         |
@@ -158,7 +138,7 @@
 | 🔑  | 2019-Sep-25 | [Algo Capital](./hacks-and-thefts/algo_capital.md)                                               | $2,000,000       |
 | 👛  | 2019-Nov-27 | [Upbit](./hacks-and-thefts/upbit.md)                                                             | $48,500,000      |
 | ⭐  | **2019**    | **TOTAL**                                                                                        | **$207,794,000** |
-| | | | |                                                                                                                                  
+| | | | |
 | ❓  | 2020        | [BTC Changers](./hacks-and-thefts/btc_changers.md)                                               | $Unknown         |
 | 👛  | 2020-Aug-07 | [New York Financial Services Company](./hacks-and-thefts/new_york_financial_services_company.md) | $11,800,000      |
 | 🔑  | 2020-Aug-18 | [Hobocrypt](./hacks-and-thefts/hobocrypt.md)                                                     | $134,000         |
@@ -173,7 +153,7 @@
 | 🔑  | 2020-Nov-13 | [Individual L2](./hacks-and-thefts/l2_theft.md)                                                  | $893,000         |
 | 🔑  | 2020-Dec-14 | [Hugh Karp / Nexus Mutual](./hacks-and-thefts/hugh_karp_nexus_mutual.md)                         | $8,000,000       |
 | ⭐  | **2020**    | **TOTAL**                                                                                        | **$305,487,000** |
-| | | | |                                                                                                                                  
+| | | | |
 | 🔑  | 2021-Jan-22 | [Indodax Account Takeover](./hacks-and-thefts/indodax_ato.md)                                    | $2,830,000       |
 | 💼  | 2021-Mar-05 | [Paid Network](./hacks-and-thefts/paid_network.md)                                               | $160,000,000     |
 | 🔑  | 2021-Apr-02 | [Mudge / Etna / Mokens Deployer](./hacks-and-thefts/mudge_etna_mokens_deployer.md)               | $1,000,000       |
@@ -191,7 +171,7 @@
 | 🔑  | 2021-Nov-01 | [YFETH Admin Key ](./hacks-and-thefts/yfeth_admin_key.md)                                        | $200,000         |
 | 🔑  | 2021-Nov-03 | [bZx](./hacks-and-thefts/bzx.md)                                                                 | $55,000,000      |
 | ⭐  | **2021**    | **TOTAL**                                                                                        | **$504,580,000** |
-| | | | |                                                                                                                                  
+| | | | |
 | 🔑  | 2022-Jan-15 | [Jan 15 2022](./hacks-and-thefts/jan_15_2022_theft.md)                                           | $555,000         |
 | 🔑  | 2022-Jan-27 | [Fantom Allo Receiver / ANKR founder](./hacks-and-thefts/fantom_allocation_receiver.md)          | $1,200,000       |
 | 🔑  | 2022-Feb-10 | [Feb 10 2022](./hacks-and-thefts/feb_10_2022_theft.md)                                           | $300,000         |
@@ -207,7 +187,7 @@
 | 👛  | 2022-Nov-02 | [Deribit](./hacks-and-thefts/deribit.md)                                                         | $28,000,000      |
 | 💼  | 2022        | [Pixelcraft Potential IT Worker](./hacks-and-thefts/pixelcraft_potential_it_worker.md)           | $0               |
 | ⭐  | **2022**    | **TOTAL**                                                                                        | **$753,105,000** |
-| | | | |                                                                                                                                  
+| | | | |
 | 💼  | 2023        | [Various 2023 Rug Pulls](./hacks-and-thefts/various_2023_rug_pulls.md)                           | $350,000         |
 | 💼  | 2023-Apr-10 | [Terraport](./hacks-and-thefts/terraport.md)                                                     | $3,900,000       |
 | 💼  | 2023-Apr-26 | [Merlin DEX](./hacks-and-thefts/merlin_dex.md)                                                   | $1,800,000       |
@@ -231,26 +211,26 @@
 | 💼  | 2023-Dec-28 | [Upwork Developer Jobs Scams](./hacks-and-thefts/upwork_job_scams.md)                            | $550             |
 | 👛  | 2023-Dec-31 | [Orbit Bridge](./hacks-and-thefts/orbit_bridge.md)                                               | $81,000,000      |
 | ⭐  | **2023**    | **TOTAL**                                                                                        | **$690,527,146** |
-| | | | |                                                                                                                                  
+| | | | |
 | 💼  | 2024-Jan-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000       |
-| 💼  | 2023-Jan-27 | [Genius Ventures](./hacks-and-thefts/genius_ventures.md)                                         | $Unknown         |
-| 💼  | 2024-Feb-01 | [Linkedin Developer Jobs Scams](./hacks-and-thefts/linkedin_dev_job_scam.md)                     | $200,000         |
+| 💼  | 2024-Feb-01 | [Linkedin Job Dev Scam](./hacks-and-thefts/linkedin_dev_job_scam.md)                             | $200,000         |
 | 🔑  | 2024-Feb-13 | [Duelbits](./hacks-and-thefts/duelbits.md)                                                       | $4,600,000       |
 | 💼  | 2024-Feb-27 | [Serenity Shield](./hacks-and-thefts/serenity_shield.md)                                         | $586,000         |
 | 💼  | 2024-Feb-28 | [Braintrust Job Dev Scam](./hacks-and-thefts/braintrust_job_dev_scam.md)                         | $100,000         |
 | 💼  | 2024-Mar-05 | [MurAll](./hacks-and-thefts/murall.md)                                                           | $278,000         |
 | 💼  | 2024-Mar-13 | [CloudAI](./hacks-and-thefts/cloudai.md)                                                         | $309,400         |
-| 💼  | 2024-Mar-26 | [Munchables ($62m, returned)](./hacks-and-thefts/munchables.md)                                  | $50,000          |
-| 💼  | 2024-Mar-29 | [Solareum ($1.1m, frozen) ](./hacks-and-thefts/solareum.md)                                      | $114,813         |
-| ⭐  | **2024**    | **TOTAL**                                                                                        | **$7,958,213**   |
-
-
+| 💼  | 2024-Mar-16 | [Wilder World](./hacks-and-thefts/wilder_world.md) (Also Apr 2)                                  | $2,314,583       |
+| 💼  | 2024-Mar-26 | [Munchables](./hacks-and-thefts/munchables.md) ($62m, returned)                                  | $50,000          |
+| 💼  | 2024-Mar-29 | [Solareum](./hacks-and-thefts/solareum.md) ($1.1m, frozen)                                       | $114,813         |
+| 🔑  | 2024-Apr-29 | [CEX Hack](./hacks-and-thefts/cex_apr2024.md)                                                    | $14,800,000      |
+| 💼  | 2024-May-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_venures.md) (Original compromise Jan 25)         | $1,262,630       |
+| ⭐  | **2024**    | **TOTAL**                                                                                        | **$26,335,426**  |
 
 # PDFs - Indictments & Formal Reports
 
 - [https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs](https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs)
 
-### List of all PDFs
+### All PDF Reports
 
 | Date | Document |
 | ---- | ---- |
@@ -302,6 +282,11 @@
 | 2023-11-20 | [FinCEN v Binance Consent Order](./pdfs/2023-11-20_FinCEN-Binance_Consent-Order.pdf) |
 | 2023-11-23 | [Kim Jong Un's New Maybach](./pdfs/2023-11-23_Kim-Jong-Un-New-Maybach.pdf) |
 | 2023-11-30 | [Recorded Future: Crypto Country](./pdfs/2023-11-30_Recorded-Future-Crypto-Country.pdf) |
+
+### UN Security Council Reports
+
+| Date | Document |
+| ---- | ---- |
 | 2017-03-01 | [UN Security Council: 2016 Year End Report](./pdfs/2017-02-27_UN-Security-Council_s_2017_150.pdf) |
 | 2018-03-01 | [UN Security Council: 2017 Year End Report](./pdfs/2018-03-05_UN-Security-Council_s-2018-171.pdf) |
 | 2019-03-01 | [UN Security Council: 2018 Year End Report](./pdfs/2019-03-05_UN-Security-Council_s-2019-171.pdf) |
@@ -315,7 +300,6 @@
 | 2023-03-01 | [UN Security Council: 2022 Year End Report](./pdfs/2023-03-07_UN-Security-Council_s-2023-171.pdf) |
 | 2023-09-01 | [UN Security Council: 2023 Midterm Report ](./pdfs/2023-09-12_UN-Security-Council_s-2023-656.pdf) |
 | 2024-03-01 | [UN Security Council: 2023 Year End Report](./pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf) |
-
 
 ### [US v 113 Virtual Currency Accounts](./pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf) (2020)
 
@@ -340,7 +324,6 @@
 | VCE 11     | Poloniex          | DP 85-90  |
 | VCE 12     | Unknown           | DP 53-54  |
 
-
 ### [USA v 280 Virual Currency Accounts - Complaint CV-2396](./pdfs/2020-08-27_USA-v-280_complaint_cv-2396.pdf) (2020)
 
 | Identifier  | Entity                | Quote                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
@@ -356,7 +339,6 @@
 | Exchange 10 | Algo Capital (Victim) | U.S. Algorand crypto company hacked on September 25, 2019 - Defendant Property 25–130                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Exchange 11 | Binance (Laundry)     | The photos submitted to Exchange 11 were likely stolen during the 2018 hack of a U.S.-based CEX where IDT Victim 1 was a customer.                                                                                                                                                                                                                                                                                                                                                                                             |
 | Exchange 12 | Unknown               | Algo Capital's Binance Account also sent approximately 2.0285 BTC to an account at Exchange 12.                                                                                                                                                                                                                                                                                                                                                                                                                                |
-
 
 ### [USA v PARK JIN HYOK](./pdfs/2018-06-08_USA-v-PARK-JIN-HYOK.pdf) (2018)
 
@@ -391,7 +373,6 @@
 | NiceHash aka Slovenian Cryptocurrency Company     | A crypto-mining company headquartered in Ljubljana, Slovenia                   |
 | Central American Online Casino 1                  | An online casino business headquartered in a Central American country          |
 | Central American Online Casino 2                  | An online casino business headquartered in a Central American country          |
-
 
 ### [UN Security Council's 2019 Midterm Report](./pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf)
 
@@ -434,8 +415,6 @@
 | Mar 2019      | Bithumb #4 <br> ROK                               | Reported theft of 20M USD in fourth attack on Bithumb (3M EOS and 20 million Ripple coins stolen worth $13.4M USD and 6M USD, respectively)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | May 2019      | UpBit <br> ROK                                    | UpBit attacked. No losses reported.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-
-
 # More Random Tweets
 
 - https://twitter.com/tayvano_/status/1668935273047261185
@@ -446,8 +425,6 @@
 
 - https://twitter.com/zachxbt/status/1683747073227624448
 
-
-
 # Spreadsheets
 
 - https://docs.google.com/spreadsheets/d/1n_z0RCCXSfAkhmYAkutqGugUzniLeS7AK_rK3pxS8nc/edit?usp=sharing
@@ -455,8 +432,6 @@
 - https://docs.google.com/spreadsheets/d/1Uh-kQPRhR0GzDMFhrYtU6rrYBWmcMBcQUDI40CtWcAQ/edit?usp=sharing
 
 - https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
-
-
 
 # Purpose
 
