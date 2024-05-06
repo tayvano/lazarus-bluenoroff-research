@@ -223,7 +223,7 @@
 | 💼  | 2024-Mar-26 | [Munchables](./hacks-and-thefts/munchables.md) ($62m, returned)                                  | $50,000          |
 | 💼  | 2024-Mar-29 | [Solareum](./hacks-and-thefts/solareum.md) ($1.1m, frozen)                                       | $114,813         |
 | 🔑  | 2024-Apr-29 | [CEX Hack](./hacks-and-thefts/cex_apr2024.md)                                                    | $14,800,000      |
-| 💼  | 2024-May-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_venures.md) (Original compromise Jan 25)         | $1,262,630       |
+| 💼  | 2024-May-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_ventures.md) (Original compromise Jan 25)         | $1,262,630       |
 | ⭐  | **2024**    | **TOTAL**                                                                                        | **$26,335,426**  |
 
 # PDFs - Indictments & Formal Reports

@@ -45,9 +45,13 @@ Tags:: 💼 IT Workers
 
 ## URLs
 
-- https://twitter.com/zachxbt/status/1767790690426085816
+> I know it will be hard to believe, I wouldn't in your place but our project has been hacked. Both our deployer and treasury account, everything was sent to 0x099616b985d4e71fc6b091d5b3f2ba27003eba57
 
 - https://twitter.com/TheCloudAI/status/1767744677162143929
+
+- https://twitter.com/zachxbt/status/1767790690426085816
+
+__ps: no, no its not hard to believe. you are morons.__
 
 
 ## Connections
