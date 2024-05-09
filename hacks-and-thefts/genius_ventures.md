@@ -59,7 +59,7 @@ The Founder/CEO and project spoke about the exploit a bit on Twitter/X, though g
 
 
 
-## On-chain
+## On-chain - Jan 25
 
 - 0x9249e360dc6f4d2871187acde4fe38d4e13a7703 - Irrigation Protocol: Deployer
 - 0x35ea7aa2b9706a05cc932a7350a5e5a7d80619bf - DiamondCutFacet Contract
@@ -70,9 +70,12 @@ The Founder/CEO and project spoke about the exploit a bit on Twitter/X, though g
 - 0xb540226173a30e290280facadd772425a418a5c7 - Other compromised address of supergnus.eth
 - 0x2265e38c9b446f9d36d3643e7c89984aef56e5b0 - Other compromised address of supergnus.eth
 - 0x2768186eae06c11fee52509fc03d526544b88276 - Other compromised address of supergnus.eth
-- 0xe8dfa9c13cab87e38991961d51fa391aabb8ca9c - Another victim or theft addres?
+- 0xe8dfa9c13cab87e38991961d51fa391aabb8ca9c - Safe address of supergnus.eth
 
 - 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 - Direct Theft from Genius Ventures - Receives from OKX Exploiter 0 & 3
+
+## On-chain - May 5
+
 - 0x1804deca63705e18edf04f242b325bcd54a8b463 - GNUS.ai: Deployer (Malicious)
 - 0x8c10c2867384c87d5a555e4f96c7036336b575c6 - TokenManagerProxy Contract (Malicious)
 
@@ -122,6 +125,16 @@ The Founder/CEO and project spoke about the exploit a bit on Twitter/X, though g
 - 9bDbcpE6FFp49vuGeUpwzF6LY9E4ujnsbfmbwRWhbHHr - SOL, allbridge ss
 - BnGo9dnMaDAhsocF7c6tAdDQBdB8TgXzLTeVNN3CHFRj - SOL, allbridge
 - G284Q3AUCVVuauSo5nN47UjtaUhLsTfevi4FeeyGz189 - SOL, allbridge
+- 2UbUrp3AyWc1USq2m6arETNZqKatwEcQTzzKGomwJmge - SOL, allbridge from BSC
+- omumczRi3okXKpE19tnHf5z8N7BwNHnbMRNWm7d1Scs - SOL, allbridge from BSC
+- ErwaGB5MpkWstxSLsF3A3TRSvLReLRUZT7G4q38fWcXh - SOL, from omum
+- 8LUBPiyMCFKM83qb3vAHjrFxP4tYcjTCSuD82672cBuH - SOL, allbridge from BSC
+- H3LzaZuxS9BfZ8JzLsqhc46aFtF5rNm2sr1Dxw1NekVz - SOL, Lbank Depo
+- 4UiA16jTfsCQBrpfSwBdjqy5hDdiewourLqpYcruUMd4 - SOL, Lbank Depo
+- 96XmfuerVssWLnspGaJj7ZaJNoRPtdwRRTyCqk1b9dks - SOL, from 2UbUrp
+- Hp1Fxs9esqj98qVWBwbwj63xafEfcqA36q2Wd5h9obvX - SOL, from 8LUB, 
+- 7aq2KJ4K3idSSvAFDvAoAfZhG5iUHASNFnXcGQRXGKa4 - SOL, from 5dzS, Unk Service Depo
+- 8NX3rUKskuyNgiYWRsRHXmG9rCPSYrtPdguEMiBHcqtr - SOL, from G284, Bybit Depo
 - TKFJS6HZE9cnXn5ShM7LW9AcaCUTywwVRq - Tron, ss
 
 

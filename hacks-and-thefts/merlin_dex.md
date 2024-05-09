@@ -51,6 +51,8 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 
 - 0x9d852e4b9d8b3609e60a43c56233570073f5fdb9
 
+- 0x2cf37b5ce0c7d914ce272ec7a0c2e7cff7faee76
+
 
 ## URLs
 

@@ -68,9 +68,9 @@
 | 2020      | $305,487,000       | 13              | $300,000,000       | 5                 | $290,000,000       | n/a              | $300,200,000       | 4             |
 | 2021      | $504,580,000       | 16              | $428,800,000       | 9                 | $250,000,000       | n/a              | $175,600,000       | 6             |
 | 2022      | $753,105,000       | 14              | $1,650,000,000     | 15                | $850,000,000       | n/a              | $991,700,000       | 5             |
-| 2023      | $690,527,146       | 22              | $1,000,000,000     | 20                | $600,000,000       | n/a              | $753,019,000       | 17            |
-| 2024      | $26,335,426        | 12              | n/a                | n/a               | n/a                | n/a              | n/a                | n/a           |
-| **TOTAL** | **$3,034,233,572** | **112**         | **$4,202,300,000** | **73**            | **$2,690,000,000** | **n/a**          | **$2,966,031,000** | **57**        |
+| 2023      | $690,727,146       | 23              | $1,000,000,000     | 20                | $600,000,000       | n/a              | $753,019,000       | 17            |
+| 2024      | $26,407,426        | 13              | n/a                | n/a               | n/a                | n/a              | n/a                | n/a           |
+| **TOTAL** | **$3,034,505,572** | **114**         | **$4,202,300,000** | **73**            | **$2,690,000,000** | **n/a**          | **$2,966,031,000** | **57**        |
 
 ### Chainalysis
 
@@ -204,13 +204,14 @@
 | 🔑  | 2023-Oct-26 | [Maverick](./hacks-and-thefts/maverick.md)                                                       | $8,300,000       |
 | 👛  | 2023-Nov-10 | [Poloniex](./hacks-and-thefts/poloniex.md)                                                       | $130,000,000     |
 | 🔑  | 2023-Nov-10 | [Samudai](./hacks-and-thefts/samudai.md)                                                         | $1,100,000       |
+| 💼  | 2023-Nov-10 | [Waygate](./hacks-and-thefts/waygate.md)                                                         | $200,000         |
 | 💼  | 2023-Nov-14 | [UnoRe DAO](./hacks-and-thefts/unoredao.md)                                                      | $219,000         |
 | 👛  | 2023-Nov-22 | [HTX / Heco](./hacks-and-thefts/htx_heco.md)                                                     | $116,000,000     |
 | 🔑  | 2023-Dec-10 | [Degen Reborn](./hacks-and-thefts/degen_reborn.md)                                               | $164,000         |
 | 💼  | 2023-Dec-12 | [OKX Dex](./hacks-and-thefts/okx_dex.md)                                                         | $2,390,976       |
 | 💼  | 2023-Dec-28 | [Upwork Developer Jobs Scams](./hacks-and-thefts/upwork_job_scams.md)                            | $550             |
 | 👛  | 2023-Dec-31 | [Orbit Bridge](./hacks-and-thefts/orbit_bridge.md)                                               | $81,000,000      |
-| ⭐  | **2023**    | **TOTAL**                                                                                        | **$690,527,146** |
+| ⭐  | **2023**    | **TOTAL**                                                                                        | **$690,727,146** |
 | | | | |
 | 💼  | 2024-Jan-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000       |
 | 💼  | 2024-Feb-01 | [Linkedin Job Dev Scam](./hacks-and-thefts/linkedin_dev_job_scam.md)                             | $200,000         |
@@ -222,9 +223,10 @@
 | 💼  | 2024-Mar-16 | [Wilder World](./hacks-and-thefts/wilder_world.md) (Also Apr 2)                                  | $2,314,583       |
 | 💼  | 2024-Mar-26 | [Munchables](./hacks-and-thefts/munchables.md) ($62m, returned)                                  | $50,000          |
 | 💼  | 2024-Mar-29 | [Solareum](./hacks-and-thefts/solareum.md) ($1.1m, frozen)                                       | $114,813         |
+| 💼  | 2024-Apr-11 | [Endblock](./hacks-and-thefts/endblock.md)                                                       | $72,000          |
 | 🔑  | 2024-Apr-29 | [CEX Hack](./hacks-and-thefts/cex_apr2024.md)                                                    | $14,800,000      |
-| 💼  | 2024-May-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_ventures.md) (Original compromise Jan 25)         | $1,262,630       |
-| ⭐  | **2024**    | **TOTAL**                                                                                        | **$26,335,426**  |
+| 💼  | 2024-May-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_ventures.md) (Original compromise Jan 25)        | $1,262,630       |
+| ⭐  | **2024**    | **TOTAL**                                                                                        | **$26,407,426**  |
 
 # PDFs - Indictments & Formal Reports
 

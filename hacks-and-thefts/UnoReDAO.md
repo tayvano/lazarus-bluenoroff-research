@@ -48,15 +48,22 @@ Similarly the team does not recall and has not identified receiving one of the i
 
 ## On-Chain
 
-- Message from Uno Team to Attacker: https://etherscan.io/tx/0x153fa7888fee5641e4bbb622bc6e0a1b56d144b62a658da555aa793e786f6acf
-- Message from Attacker to Uno Team: https://etherscan.io/tx/0x0acdad46f954854acf66f4fc84be2e9ccd3b451139106beaf5b50a7d350f1bc5
-- Uno Deployer (Compromised): 0xb782425e27a88921189a05be7199748ddbdb71bf
-- Primary Attacker: 0x9ada20B835Aa178813A8C174F1F93B1dc1BFA775
+- https://etherscan.io/tx/0x153fa7888fee5641e4bbb622bc6e0a1b56d144b62a658da555aa793e786f6acf - Message from Uno Team to Attacker
+- https://etherscan.io/tx/0x0acdad46f954854acf66f4fc84be2e9ccd3b451139106beaf5b50a7d350f1bc5 - Message from Attacker to Uno Team
+- 0xb782425e27a88921189a05be7199748ddbdb71bf - Uno Deployer (Compromised)
+- 0x9ada20B835Aa178813A8C174F1F93B1dc1BFA775 - Primary Attacker
 - 0x86d49a933d1f6aa1218dfa91250733d9818e36fa
 - 0x73904fa075500920fa381c9393819cbe0304b425
 - 0xf027a4d8cd87a4ed93b6a332025d73435750f7df
 - 0xe4e9b9b6cc9a9c440f932be4a27d4454fe0f6952
-- 0x9ada20b835aa178813a8c174f1f93b1dc1bfa775
+- 0x61D885ae7d491A8dEAC79D27C416caf6057C01FA
+- 0x45e23fd25aab40e0804fe3a030a24629c369aadd
+- 0x5d83c1626ccf39905666379aa71d4a58578bb047
+- 0x0942fd57b556c2410b44eb860ceaff224a5f0992
+- 0x886e620e86489245ac1885fc827fe2e61b02eaad
+- 0x0c1f0233091d6ed371dc84a0ad1602209bca429c
+- 0xC1818eEc6C6aff1bD3c2e067511baB5c5396dd54
+- 0x63bc27d147a21c1dc8e109ff8d655ea3a47fd1cd
 - TYiX9TcqN9vCWh6mffJSKkwpcCkKNEmDpJ
 - TJoLLLMKHyAM4N8ie7L8E3ygG7ZHPFKU7W
 - TGEfB2J6rRXDQxAvuhbK3DPUx559XZtp8X
@@ -71,18 +78,15 @@ Similarly the team does not recall and has not identified receiving one of the i
 - TW6LRz4NnpTxU85CosLdqhg7WPpZwbNeCV
 - TDRz3EKe4QMpAVri7WoWtQjymqPuJ6SHPU
 - TEZzcUF8SfxfvqsWqAzJA145BMTQoCmpmB
-- 0xC1818eEc6C6aff1bD3c2e067511baB5c5396dd54
 - TJZDAAP4QMrtzsPw8R8mRq1feqBUYS6MdH
-- 0x63bc27d147a21c1dc8e109ff8d655ea3a47fd1cd
 - TCaVKwJHAzChyRcUCpKHVUzXpsvGfQe6rZ
 - TFW2F1ZpC54bbs6WeHabg2oQ75F1orbjX4
 - TDATk2SqW9DGfiweXUURHWbrWWbiBZLjp5
 - TGXdX8njwPQXiyGaxNqjV5twSvdF1Zscv9
 - TRNXU4XDvBhBgrUsVVQLoj9E3f3vPxuMZZ
-- 0x61D885ae7d491A8dEAC79D27C416caf6057C01FA
-- 0x45e23fd25aab40e0804fe3a030a24629c369aadd
-- 0x5d83c1626ccf39905666379aa71d4a58578bb047
-- 0x0942fd57b556c2410b44eb860ceaff224a5f0992
+- 0x0c6256ee8e5627e3db68825b563dc483b892dd8f - Dust on BSC
+
+
 
 #### ETH Theft Address 0x86d49a933d1f6aa1218dfa91250733d9818e36fa
 - $230k -> Theft Address 0x73904fa075500920fa381c9393819cbe0304b425

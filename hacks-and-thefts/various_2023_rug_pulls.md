@@ -14,6 +14,7 @@ IT Workers
 - 0x0d8b378203791dd6960e0d77a99bbda68f83bb49   Fashion AI Rug Pull
 
 - 0xd2a984e4f03e2a542804a97cd009a7ee0f028fa8 - RVLT Attacker
+- 0xcbcb15856ad070925bc91ee82c59520c0c6b9be8 - RVLT Attacker Polygon
 - 0x6cd36b9459dfef332479d50bec129932285a1656 - Cult DAO Attacker
 - 0x0d31a41c93e483a69e10d067e353a9c489962f67 - Cult DAO Deployer (Compromised)
 - 0x4c2da9c9612b0ebde13b5eb7675f1d5975c21045 - AstroBot Society Deployer (Compromised)
