@@ -13,12 +13,12 @@ Tags:: 💼 IT Workers
 - The person who invited me used the name “Bill Tinys” and provided me with the job requirements. He also asked me to check out the codebase and try to reproduce the issue that he was facing locally:
 - FreeBling online site: https://app.freebling.io/
 - The codebase - bitbucket.org/juandsuareza/main/src/main/
-- 0xc2f103ce223dae119d04892d412d3484f8dcec1f - Victim
-- 0x8d5a2684330a6b7f791ce6acb5d4a09f53cb5f67 - Theft
-- 0xb3c9effe909a737621b929600c6bd1e5a62f43c5 - Theft
-- 0x8baa40851c5c3a822e9c881103573f5246ead710 - Defiway, BSC, via Stargate
-- 0x77b737bb6c6eb4c717228aa653da2a4f994040a9 - Sends to 0x8baa40851c5c3a822e9c881103573f5246ead710
-- 0xbe1566497c7f581258c14bf297a8f4e747ddf013 - April 2024 Dust Collector
+- 0xc2f103ce223dae119d04892d412d3484f8dcec1f - Braintrust I: Victim
+- 0x8d5a2684330a6b7f791ce6acb5d4a09f53cb5f67 - Braintrust I: Theft
+- 0xb3c9effe909a737621b929600c6bd1e5a62f43c5 - Braintrust I: Theft
+- 0x8baa40851c5c3a822e9c881103573f5246ead710 - Braintrust I: Defiway, BSC, via Stargate
+- 0x77b737bb6c6eb4c717228aa653da2a4f994040a9 - Braintrust I: Sends to 0x8baa40851c5c3a822e9c881103573f5246ead710
+- 0xbe1566497c7f581258c14bf297a8f4e747ddf013 - Braintrust I: April 2024 Dust Collector
 
 ## Details II
 
@@ -33,10 +33,10 @@ Tags:: 💼 IT Workers
 - I don't know how they found it I am always very tight on digital hygiene and the only private key in plaintext was in .env files for my separate dev wallet that only contained $14 of gas tokens.
 - In the current market this stolen crypto is worth roughly $12,600
 - https://www.chainabuse.com/report/dc05e046-8da8-43ca-ab2c-df47b05681ba
-- 0xa9c81d278e1342edc4a73bad65ae80ca04242d6b - Victim
-- 0xd82012324c8a3c2d5721b2444b7ee3d989e65589 - Victim
-- 0x9a4d77a4567706e5ca12ed5ce7020e4a961937d5 - Victim
-- 0xdd39c04f784506b718f4f8e4ba7f4b8d3deafb68 - Theft
-- 0xb3c9effe909a737621b929600c6bd1e5a62f43c5 - Theft
-- 0xbe1566497c7f581258c14bf297a8f4e747ddf013 - April 2024 Dust Collector
+- 0xa9c81d278e1342edc4a73bad65ae80ca04242d6b - Braintrust II: Victim
+- 0xd82012324c8a3c2d5721b2444b7ee3d989e65589 - Braintrust II: Victim
+- 0x9a4d77a4567706e5ca12ed5ce7020e4a961937d5 - Braintrust II: Victim
+- 0xdd39c04f784506b718f4f8e4ba7f4b8d3deafb68 - Braintrust II: Theft
+- 0xb3c9effe909a737621b929600c6bd1e5a62f43c5 - Braintrust II: Theft
+- 0xbe1566497c7f581258c14bf297a8f4e747ddf013 - Braintrust II: April 2024 Dust Collector
 

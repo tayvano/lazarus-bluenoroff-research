@@ -28,9 +28,9 @@ A wallet involved in the Terraport launch was found to have made a series of sus
 
 ## On-Chain
 
-Exploited Address: terra19yrq0mehjfk5cquxn4svjxft4rmhcc9g8t0yma
+terra19yrq0mehjfk5cquxn4svjxft4rmhcc9g8t0yma - Exploited Address
 
-Exploited Address: terra1z5luj6qdtclnt5jnjkrtnlj9zankf654638dq2
+terra1z5luj6qdtclnt5jnjkrtnlj9zankf654638dq2 - Exploited Address
 
 #### Added liquidity:
 

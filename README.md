@@ -228,6 +228,45 @@
 | 💼  | 2024-May-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_ventures.md) (Original compromise Jan 25)        | $1,262,630       |
 | ⭐  | **2024**    | **TOTAL**                                                                                        | **$26,407,426**  |
 
+
+### On-chain Connections - DPRK IT
+
+
+| Chain   | From Label                           | From Address                               |            | To Label                             | To Address                                 | Txn Hash                                                           |
+| ------- | ------------------------------------ | ------------------------------------------ | ---------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------ |
+| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Murall, CloudAI, Wilder World Hacker | 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 | 0x5050716351458db5b1a90d820a345ff8f0654e044ce7c18d8f975f5c8e6ff187 |
+| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Murall, CloudAI, Wilder World Hacker | 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 | 0xbaac7fb8a0095c68d3a5627c1c0df8ba3cec54744465d8216527cbf625f82b4d |
+| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Murall Hacker 2                      | 0xfa715532c453163bdc8611c15d196b2527e689b2 | 0xb61fe770807a5345c2d609004927afdae8869799dd27c305be4a3103976abf9d |
+| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Murall Hacker 1                      | 0x01720163e9385e832ffe3387ba7098be4df303e0 | 0x482cd1e25b03a5946bd1f9f5a4752726b288212d72b8a703b35bfa7c6a3c8252 |
+| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Serenity Shield Hacker               | 0x93a8b27c8dc2089bb071c22491a715dcb381f554 | 0x01fd8832829f605048991bfc332e62bcb4d1f1ffaeb52c86082b0c362a823fc6 |
+| BSC     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | OKX DEX Hacker                       | 0xfd681a9aa555391ef772c53144db8404aec76030 | 0xe200c4b52f9e3f9eff1456379a13bcb34cfc484af713e112f62e9dc2f417fd6d |
+| ETH     | Murall Hacker 4                      | 0x5e440f184aace9e6e85a182c9bb0e134f0a18fb9 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x4d49639166a05bb28f876016afa721931cb449a2c5d11a269fa37a9ff1c0c31d |
+| ETH     | OKX Dex Hacker 3                     | 0x0519eFACB73A1f10b8198871E58D68864e78B8A5 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x4b3282cacea399e4fb7dda332d5f8e6116c944dc81862e0bbc8bd4048bfaeb43 |
+| ETH     | OKX Dex Hacker 1                     | 0xFacf375Af906f55453537ca31fFA99053A010239 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x1189e018ba672b46f21f992520a984d72bf215616d59a6d5d34bc24a42593018 |
+| AVAX    | OKX Team Member (Compromised)        | 0xc82ea2afe1fd1d61c4a12f5ceb3d7000f564f5c6 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0xa7e3fa2707ab632ba61e9cbd998e33614ce23a46da7921785c473fdedd72a20e |
+| ETH     | OKX Team Member (Compromised)        | 0xc82ea2afe1fd1d61c4a12f5ceb3d7000f564f5c6 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x303213f79454700cac5b6aece0f3b72dc4a30028739d3412beaa0206b0025ee5 |
+| AVAX    | UnoReDAO Hacker 1                    | 0x86d49a933d1f6aa1218dfa91250733d9818e36fa | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x7e4a30d9aa9591980156b0029d5e279b7292654cca8841e9b20cd6206b763508 |
+| BSC     | OKX Dex Hacker                       | 0xb2a722870178e92ba681236c77609214265d25d1 | SENDS TO   | Serenity Shield Hacker               | 0x93a8b27c8dc2089bb071c22491a715dcb381f554 | 0xe2c3fee5d623e0e932bf22752c8d70b18910574a6e6536b869df48f7276b83bd |
+| ETH     | OKX Dex Hacker 2                     | 0x1f14e38666cdd8e8975f9acc09e24e9a28fbc42d | SENDS TO   | OKX DEX Hacker                       | 0xfd681a9aa555391ef772c53144db8404aec76030 | 0xacd1ba5bf5df47f713546a35afb94221d28665661e8be8598641eb05f68428f6 |
+| ETH ARB | OKX Dex Hacker 2                     | 0x1f14e38666cdd8e8975f9acc09e24e9a28fbc42d | ETH vs ARB | ConcentricFi Hacker                  | 0x1f14e38666cdd8e8975f9acc09e24e9a28fbc42d | is same address silly                                              |
+| BSC     | OKX Dex Hacker                       | 0x0d1712a7d4eaf64c134701acd672f4904784033b | SENDS TO   | ConcentricFi Hacker                  | 0x232b1f770e7637f2656ce08ed42ec6fb4c84590e | 0xadb78d8923743d180d1a94951b006d80a7c22f362952cf956561c2a33d29b1bd |
+| ETH     | Serenity Shield Hacker               | 0x93a8b27c8dc2089bb071c22491a715dcb381f554 | SENDS TO   | Murall Hacker                        | 0x01720163e9385e832ffe3387ba7098be4df303e0 | 0x0520195f57c3a5fe886aa95778dafe684854b78c252d20f29cbe0c9c4c4bbddd |
+| ETH     | Murall, CloudAI, Wilder World Hacker | 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 | SENDS TO   | Serenity Shield Hacker               | 0x93a8b27c8dc2089bb071c22491a715dcb381f554 | 0x75202ac6ac2a403122feb07ed147947d5d74c6f9a03e70682bfc05ad53217631 |
+| ETH     | Murall Hacker 4                      | 0x5e440f184aace9e6e85a182c9bb0e134f0a18fb9 | SENDS TO   | CloudAI Hacker                       | 0x3c685ad9e63872259b2c3563378a1d92defad517 | 0xb1b02f0a713d60ed752edbca6ba23c58c63d3b2e7f785f4465bcfb700614344e |
+| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Upwork Crypto Developer Job Scam     | 0x89dc4eabade33dcf6b0a1166348802dc24ee16f7 | 0xd8c5b55bd0280929368f2949520c162b233f3dad27032240cad65dda1d05ac95 |
+| BSC     | Spoock Theft / Waygate               | 0x55066e19abdb8cb38f6a98a96186c0b657ce3295 | SENDS TO   | UnoReDAO                             | 0x86d49a933d1f6aa1218dfa91250733d9818e36fa | 0x5098ca1dcf9232058dd2e2a394000a57e460870d1efcbc6aaf5dfcac3f2c4627 |
+| ETH     | UnoReDAO Hacker 2                    | 0x9ada20b835aa178813a8c174f1f93b1dc1bfa775 | SENDS TO   | OKX DEX Exploiter                    | 0xfacf375af906f55453537ca31ffa99053a010239 | 0x372fdb551de2ec82337bf696b05690dc5919fde084e81e710637791475ed34c9 |
+| ETH     | Spoock Theft / Waygate               | 0x55066e19abdb8cb38f6a98a96186c0b657ce3295 | SENDS TO   | UnoReDAO                             | 0x2618eb69b40e6db8ca732ddb2df5416a4d36e7ae | 0x36cb3a9832284a098d711702960f7592a949fefc15ba0a017a927debb81a15d9 |
+| FTM BSC | UnoReDAO Hacker 1                    | 0x86d49a933d1f6aa1218dfa91250733d9818e36fa | BRIDGES TO | CloudAI Hacker                       | 0x3c685ad9e63872259b2c3563378a1d92defad517 | 0x397a14ca24aa1964a6227ca23452ae36500d2a1a56725f5e1dad38ad927ab0e6 |
+
+
+
+
+
+
+
+
+
 # PDFs - Indictments & Formal Reports
 
 - [https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs](https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs)

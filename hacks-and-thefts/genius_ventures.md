@@ -71,14 +71,12 @@ The Founder/CEO and project spoke about the exploit a bit on Twitter/X, though g
 - 0x2265e38c9b446f9d36d3643e7c89984aef56e5b0 - Other compromised address of supergnus.eth
 - 0x2768186eae06c11fee52509fc03d526544b88276 - Other compromised address of supergnus.eth
 - 0xe8dfa9c13cab87e38991961d51fa391aabb8ca9c - Safe address of supergnus.eth
-
 - 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 - Direct Theft from Genius Ventures - Receives from OKX Exploiter 0 & 3
 
 ## On-chain - May 5
 
 - 0x1804deca63705e18edf04f242b325bcd54a8b463 - GNUS.ai: Deployer (Malicious)
 - 0x8c10c2867384c87d5a555e4f96c7036336b575c6 - TokenManagerProxy Contract (Malicious)
-
 - 0x548c63a6a7299ab54762e1bfa6b56c1b94c2a820 - FTM / ETH, primary theft
 - 0x0da5ec61970226a09e1f0b5fb17ebe0d28f01b87 - ETH, direct from theft addr
 - 0x6a713b1f2b06557c87bb4998adbd5991576fa319 - ETH, direct from theft addr

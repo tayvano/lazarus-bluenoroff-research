@@ -22,22 +22,22 @@ Linkedin Persona: "Maria Mercedes Gonzalez"
 - 0xf7a3bbe1711eb43967cdbf58fa61342a25e3c845 - Compromised Murall Team Member
 - 0xCF90AD693aCe601b5B5582C4F95eC7266CDB3eEC - Compromised Murall Deployer (murall.eth)
 
-- 0x01720163e9385e832ffe3387ba7098be4df303e0 - Primary Theft 1 (Funded by Serenity Shield Hacker)
-- 0x0cdb613ec9a07e2afe898f8519a0c0a981032118 - Primary Theft 0
-- 0xfa715532c453163bdc8611c15d196b2527e689b2 - Primary Theft 2
-- 0xE3D86814C1bbf998EB8485b7d203FEE67Fb80C66 - Primary Theft 3 from Team Member 0xf7a
-- 0x5E440F184AaCE9E6e85A182C9BB0e134F0a18fB9 - Primary Theft 4 from Team Member 0xf7a
-- 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 - Receives 50 ETH Murall, also involved in CloudAI Hack
+- 0x01720163e9385e832ffe3387ba7098be4df303e0 - Murall Primary Theft 1 (Funded by Serenity Shield Hacker)
+- 0x0cdb613ec9a07e2afe898f8519a0c0a981032118 - Murall Primary Theft 0
+- 0xfa715532c453163bdc8611c15d196b2527e689b2 - Murall Primary Theft 2
+- 0xE3D86814C1bbf998EB8485b7d203FEE67Fb80C66 - Murall Primary Theft 3 from Team Member 0xf7a
+- 0x5E440F184AaCE9E6e85A182C9BB0e134F0a18fB9 - Murall Primary Theft 4 from Team Member 0xf7a
+- 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 - Murall Receives 50 ETH Murall, also involved in CloudAI Hack
 
-- 0x675c65c60cf0e4fe3443c7daa76aa94cfd59d443
+- 0x675c65c60cf0e4fe3443c7daa76aa94cfd59d443 - 
 - 0xc62a25462a61f02ebab35cd39c5e9651426e760b - from Concentric Finance Exploit
-- 0x8baa40851c5c3a822e9c881103573f5246ead710
-- 0xf66729a7871f83b28762d9d3f05ad95c11d1569f
-- 0xd2fec9850251c4d106500d6122cb58a32cf90637
-- 0x3004da867ca108282b3f0c8c5f75244aefc6a6f0
-- 0x9b4cdabab76a059c6db74ad6dd1fa2c4c352566a
-- 0x28005573e8523c597d55b4cbb211ae955ca8e122
-- 0x35e86afd78b8ba74a2cf8e9057a16d21b7181995 
+- 0x8baa40851c5c3a822e9c881103573f5246ead710 - 
+- 0xf66729a7871f83b28762d9d3f05ad95c11d1569f - 
+- 0xd2fec9850251c4d106500d6122cb58a32cf90637 - 
+- 0x3004da867ca108282b3f0c8c5f75244aefc6a6f0 - 
+- 0x9b4cdabab76a059c6db74ad6dd1fa2c4c352566a - 
+- 0x28005573e8523c597d55b4cbb211ae955ca8e122 - 
+- 0x35e86afd78b8ba74a2cf8e9057a16d21b7181995 - 
 - 0x3c685Ad9E63872259b2C3563378a1d92DEfaD517 - Receives dust from 0x5E4
 
 
