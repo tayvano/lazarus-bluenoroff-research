@@ -30,6 +30,7 @@
 
 # Really Good Links: DPRK IT Workers
 
+- [May 2024: Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://www.justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
 - [Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked)
 - [U.S. DOJ: Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers](https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation)
 - [North Koreans use fake names, scripts to land remote IT work for cash](https://www.reuters.com/technology/north-koreans-use-fake-names-scripts-land-remote-it-work-cash-2023-11-21/)
@@ -323,6 +324,7 @@
 | 2023-11-20 | [FinCEN v Binance Consent Order](./pdfs/2023-11-20_FinCEN-Binance_Consent-Order.pdf) |
 | 2023-11-23 | [Kim Jong Un's New Maybach](./pdfs/2023-11-23_Kim-Jong-Un-New-Maybach.pdf) |
 | 2023-11-30 | [Recorded Future: Crypto Country](./pdfs/2023-11-30_Recorded-Future-Crypto-Country.pdf) |
+| 2024-05-16 | [US v DPRK IT Workers (Chapman et al)](./pdfs/2024-05-16_US-v-IT-Workers_cr-00220.pdf)
 
 ### UN Security Council Reports
 
