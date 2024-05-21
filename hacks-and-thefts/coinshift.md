@@ -1,4 +1,4 @@
-# C8 Theft 
+# Coinshift (aka "C8 theft")
 
 Date:: August 16th, 2023
 
