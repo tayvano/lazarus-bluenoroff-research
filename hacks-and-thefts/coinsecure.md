@@ -1,4 +1,6 @@
-# Coinsecure - CEX Hack - $3.5m (438.318 BTC)
+# Coinsecure
+
+Amount Stolen:: $3,500,000 (438.318 BTC)
 
 Date:: April 12th, 2018
 
