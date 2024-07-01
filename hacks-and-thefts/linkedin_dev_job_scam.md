@@ -2,7 +2,7 @@
 
 Date: February 1st, 2024
 
-Tags:: 💼 IT Workers
+Tags: 🎙️ Contagious Interview
 
 ---
 
@@ -23,3 +23,24 @@ Tags:: 💼 IT Workers
 - 0x7988104620d0D128e3AbEEAF454538B47a44b74f - Linkedin Job Scam
 
 - Sends to Defiway
+
+
+---
+
+# Lucid Chess Malware
+
+Date:: March 1st, 2024
+
+- ETH/BSC
+
+- 0x66Cba8451F72006BDB3eaB739f8b8df439a70A7E
+
+- 0x3f803b6937303158124fb52d19d4c756eef87144
+
+- JD: https://docs.google.com/document/d/16_x69MiEeG5YtwJ1OZDOtl-W7dZnEYDw_uOorsiM65w/edit
+
+- Project Codebase: https://drive.google.com/file/d/1CtogQvlO0tuY2he5J0Fjnu8fCMOKcfNZ/view
+
+- https://www.facebook.com/elsayed.rapy.7?mibextid=ZbWKwL
+
+- +16598672334

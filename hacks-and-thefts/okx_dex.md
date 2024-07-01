@@ -4,7 +4,7 @@ Date: December 12, 2023
 
 Amount Stolen:: $2,390,976 (142k USDT + 475k USDC + 799.77 WETH)
 
-Tags:: 💼 IT Workers
+Tags: 🎙️ Contagious Interview
 
 ---
 

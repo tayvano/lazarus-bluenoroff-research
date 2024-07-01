@@ -4,7 +4,7 @@ Date:: November 10, 2023
 
 Amount Stolen:: $200,000 67 ETH on ETH here 0x0c6256ee8e5627e3db68825b563dc483b892dd8f, Maybe more?
 
-Tags:: 💼 IT Workers
+Tags: 🎙️ Contagious Interview
 
 
 ---
@@ -27,20 +27,10 @@ Tags:: 💼 IT Workers
 - 0xc9ad98c8184b8b43e6749ea2cd38302b16d89b51 - Arbi, FF Depo Addr
 - 0x1a007e7579543ffe0668cedb7240b7f7bd05df19 - Arbi, FF Depo Addr
 - 0x0fe4396e876f6c7b807f8c863d20bc2431c5b310 - Arbi, FF Depo Addr
-- 0x487966de6771dc848a693db38bc186e98a79260e - ARbi, CHN Depo Addr
-- 0xcad4478171bcec0bb53cb0ab20e790519fda59ab - ARbi, CHN Depo Addr
+- 0x487966de6771dc848a693db38bc186e98a79260e - Arbi, CHN Depo Addr
+- 0xcad4478171bcec0bb53cb0ab20e790519fda59ab - Arbi, CHN Depo Addr
 - 0x5a58d1a81c73dc5f1d56ba41e413ee5288c65d7f - ETH Dust goes here
 - 0xeb982159ec32b601b6201a0553a05745a14e8f6c - Arbi Dust goes here
-
-
-
-
-
-
-
-
-
-
 
 
 

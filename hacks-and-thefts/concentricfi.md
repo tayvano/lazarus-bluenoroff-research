@@ -1,13 +1,10 @@
 # ConcentricFi
 
-Amount Stolen: $1,720,000
+Amount Stolen: $1,720,000 (715.7 ETH)
 
 Date: January 22nd, 2024
 
-Tags:: 💼 IT Workers
-
-Amount Stolen:: $1,654,517 (715.7 ETH)
-
+Tags: 🎙️ Contagious Interview
 
 ---
 
@@ -40,9 +37,9 @@ The attacker compromised the private key for the protocol's deployer account and
 - 0xa1804fd8757f2fa2f98169805bbe8add70688b2c - ConcentricFi Laundry 3.1
 - 0x429e9446fec36d0bd91a84637f876d98a663bb3f - ConcentricFi Laundry 3.2 (ETH, from Arbi)
 - 0xf0489360bd2c60964ebbc62dce4d9bc9795ab328 - ConcentricFi Laundry 3.3, to DeFiWay (ETH)
-- 0xb26aaaad941d37a8848966d4e28171bda786d5ca - To Defiway
-- 0x232b1f770e7637f2656ce08ed42ec6fb4c84590e - Dust from 0xb26aaaad941d37a8848966d4e28171bda786d5ca
-- 0x38be86d46c8b8fba115f26231581ff3291bd7122 - Dust from 0x35d0f6a4bbdd035c5371692c90397aaad78cc9c3
+- 0xb26aaaad941d37a8848966d4e28171bda786d5ca - ConcentricFi to Defiway
+- 0x232b1f770e7637f2656ce08ed42ec6fb4c84590e - ConcentricFi Dust from 0xb26aaaad941d37a8848966d4e28171bda786d5ca
+- 0x38be86d46c8b8fba115f26231581ff3291bd7122 - ConcentricFi Dust from 0x35d0f6a4bbdd035c5371692c90397aaad78cc9c3
 
 
 

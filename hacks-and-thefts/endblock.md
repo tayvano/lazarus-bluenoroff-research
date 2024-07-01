@@ -4,7 +4,7 @@ Date:: April 11, 2024
 
 Amount Stolen:: $72k from 0x090c4d36ded5ee2a72bfc5f084725b850717b01a on Polygon 
 
-Tags:: 💼 IT Workers
+Tags: 🎙️ Contagious Interview
 
 ---
 

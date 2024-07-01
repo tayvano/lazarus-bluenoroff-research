@@ -4,7 +4,7 @@ Date:: November 14th, 2023
 
 Amount Stolen:: $219,000 + 32.4M UNO
 
-Tags:: 💼 IT Workers
+Tags: 🎙️ Contagious Interview
 
 ---
 
