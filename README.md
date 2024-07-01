@@ -224,7 +224,11 @@
 
 
 
-# 👛 TraderTraitor
+# Breaking Down / Mapping the Clusters
+
+Note: all my research starts onchain and works backwards from there using victim reports and osint done by those tracking the malware, c2s, etc. I often get it wrong bc the clustering and dynamic nature of DPRK is insane to keep track of.
+
+### 👛 DPRK 1 - ("TraderTraitor")
 
 - The big boys, the insane laundry sessions, fake job offers usually target devs/devops
 
@@ -237,7 +241,9 @@
 - [TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies](https://www.cisa.gov/sites/default/files/publications/AA22-108A-TraderTraitor-North_Korea_APT_Targets_Blockchain_Companies.pdf)
 
 
-# 🔑 SquidSquad
+### 🔑 DPRK 2 - ("SquidSquad") 
+
+- Today this activity is mostly called SquidSquad by onchain trackers. Maps for the most part to Bluenoroff / the original APT38 as you go back in time. However there are some weird things that don't map perfectly, especially over time.
 
 - Today: VC impersonating, Telegram messagers, fake video meet calls, RustBucket, Mac malware, Applescript. Tornado Cash, eXch, Noones, Paxful, Instaswappers.
 
@@ -254,17 +260,19 @@
 - [How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 
 
-# 🎙️ Contagious Interview
+### 🎙️ DPRK 3 - ("Contagious Interview")
 
-- UnoReDAO, OKX Dex, ConcentricFi, Serenity Shield, Wilder World, on and on and on and on and on. Also the Upwork/Braintrust/Linkedin Job Scams. Flickthebean, etc.
+- New onchain cluster / laundry patterns first observed early 2023, fully baked out by late 2023. This may actually map back to some dudes that originally did TraderTraitor or APT38 type stuff like Nexus Mutual but I dunno yet. They certainly Dust Collect like Hugh Karp / EasyFi / etc. but most everything else is different.
+
+- UnoReDAO, OKX Dex, ConcentricFi, Serenity Shield, Wilder World, Hyve, on and on and on and on and on. Also the Upwork/Braintrust/Linkedin Job Scams. Flickthebean, etc.
 
 - Connects af onchain—a real mess. Stargate / Defiway / RhinoFi / Railgun / Dust Collectors. 
 
 - In the cases of protocol exploits, the private keys that have critical access are compromised and used to upgrade the protocol in order to mint an infinite amount of new tokens or drain the protocol of any locked assets. Lots of transferOwnerships.
 
-- On the social engineering side: Developers are either contacted by the attacker, or reach out to the attacker inquiring about a job or some work. The attacker asks them to complete a job interview, skills test, or fix some issues in an existing codebase. Details about the test or code issues are often provided via Google Docs or similar text document. They have much more information and provide actual requirements, as opposed to the conversations seen used in TraderTraitor. The code is typically provided via Github, Bitbucket, or a zip file hosted on Google Drive. They are Javascript / Node JS projects and use npm install / run / build. Often the personal addresses that are active and in unlocked browser extensions or desktop wallets are drained of all assets nearly immediately. Shortly thereafter, these private keys, or additional private keys stored on the developers machine, are further drained of assets and/or used to exploit smart contracts or protocols.
+- On the social engineering side: Developers often reach out to the attacker in response to a job or freelance post. The attacker asks them to complete a job interview, skills test, or fix some issues in an existing codebase. Details about the test or code issues are often provided via Google Docs or similar text document. They have much more information and provide actual requirements, as opposed to the conversations seen used in TraderTraitor. The code is typically provided via Github, Bitbucket, or a zip file hosted on Google Drive. They are Javascript / Node JS projects and use npm install / run / build. Often the personal addresses that are active and in unlocked browser extensions or desktop wallets are drained of all assets nearly immediately. Shortly thereafter, these private keys, or additional private keys stored on the developers machine, are further drained of assets and/or used to exploit smart contracts or protocols.
 
-- There are also cases where the attacker reaches out to a developer or dev shop or asking to hire / contract them to help finish a project. They then grant the dev shop access to a private (malicious repo). The tech lead runs the repo to see what work is required and provide a quote. That tech lead's device is thus compromised, alongside their own wallets/projects or previous clients.
+- There are also cases where the attacker reaches out to a developer or dev shop or asking to hire / contract them to help finish a project. They then grant the dev shop access to a private (malicious) repo. The lead of the dev shop will then run the repo to see what the issue is, what work is required, and provide a quote. That tech lead's device is thus compromised, alongside their own wallets/projects or previous clients.
 
 - Public reporting and first-hand victim reports often make these incidents sound like a malicious employee or insider or new hire is responsible and thus leads to them being tagged as DPRK IT Workers. However, more often it is simply that an employee’s device was compromised and their access was used. The key difference in victim reports is whether they actually hired and paid. For IT Workers, often the team will have and mention resumes, payroll, etc.
 
@@ -285,35 +293,7 @@
 - https://t.me/investigations/97
 
 
-
-# 💼 DPRK IT Workers
-
-- Merlin DEX, Munchables, Solareum, a bunch of unknown others or misidentified shit from contagious interview.
-
-- Have resumes. Get hired. Get paid payroll that goes to DPRK.
-
-- [May 2024: Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://www.justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
-- [Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked)
-- [U.S. DOJ: Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers](https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation)
-- [North Koreans use fake names, scripts to land remote IT work for cash](https://www.reuters.com/technology/north-koreans-use-fake-names-scripts-land-remote-it-work-cash-2023-11-21/)
-- [U.S. Treasury: Additonal Guidance on the DPRK IT Workers](https://www.ic3.gov/Media/Y2023/PSA231018)
-- [U.S. Treasury: Guidance on the DPRK IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
-- [U.S. DOJ: North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies)
-- [re: DPRK IT Workers](https://twitter.com/tayvano_/status/1777911893224808911)
-- [re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
-- [re: DPRK IT Workers III](https://twitter.com/tayvano_/status/1777911898845159775)
-
-
-# 🎙️ / 💼 / ⁉️ Not sure where these fit quite yet
-
-- [Moonstone Sleet emerges as new North Korean threat actor with new bag of tricks](https://www.microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/)
-
-- [Diamond Sleet (prev:ZINC) attacks against security researchers](https://www.microsoft.com/en-us/security/blog/2021/01/28/zinc-attacks-against-security-researchers/)
-
-
-
-
-### On-chain Connections - Contagious Interview
+### 🎙️ DPRK 3 - On-chain Connections
 
 
 | Chain   | From Label                           | From Address                               |            | To Label                             | To Address                                 | Txn Hash                                                           |
@@ -342,6 +322,32 @@
 | ETH     | UnoReDAO Hacker 2                    | 0x9ada20b835aa178813a8c174f1f93b1dc1bfa775 | SENDS TO   | OKX DEX Exploiter                    | 0xfacf375af906f55453537ca31ffa99053a010239 | 0x372fdb551de2ec82337bf696b05690dc5919fde084e81e710637791475ed34c9 |
 | ETH     | Spoock Theft / Waygate               | 0x55066e19abdb8cb38f6a98a96186c0b657ce3295 | SENDS TO   | UnoReDAO                             | 0x2618eb69b40e6db8ca732ddb2df5416a4d36e7ae | 0x36cb3a9832284a098d711702960f7592a949fefc15ba0a017a927debb81a15d9 |
 | FTM BSC | UnoReDAO Hacker 1                    | 0x86d49a933d1f6aa1218dfa91250733d9818e36fa | BRIDGES TO | CloudAI Hacker                       | 0x3c685ad9e63872259b2c3563378a1d92defad517 | 0x397a14ca24aa1964a6227ca23452ae36500d2a1a56725f5e1dad38ad927ab0e6 |
+
+
+
+### 💼 DPRK IT Workers
+
+- Merlin DEX, Munchables, Solareum, a bunch of unknown others or misidentified shit from contagious interview.
+
+- Have resumes. Get hired. Get paid payroll that goes to DPRK.
+
+- [May 2024: Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://www.justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
+- [Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked)
+- [U.S. DOJ: Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers](https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation)
+- [North Koreans use fake names, scripts to land remote IT work for cash](https://www.reuters.com/technology/north-koreans-use-fake-names-scripts-land-remote-it-work-cash-2023-11-21/)
+- [U.S. Treasury: Additonal Guidance on the DPRK IT Workers](https://www.ic3.gov/Media/Y2023/PSA231018)
+- [U.S. Treasury: Guidance on the DPRK IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
+- [U.S. DOJ: North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://www.justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies)
+- [re: DPRK IT Workers](https://twitter.com/tayvano_/status/1777911893224808911)
+- [re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
+- [re: DPRK IT Workers III](https://twitter.com/tayvano_/status/1777911898845159775)
+
+
+### 🎙️ / 💼 / ⁉️ Not sure where these fit quite yet
+
+- [Moonstone Sleet emerges as new North Korean threat actor with new bag of tricks](https://www.microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/)
+
+- [Diamond Sleet (prev:ZINC) attacks against security researchers](https://www.microsoft.com/en-us/security/blog/2021/01/28/zinc-attacks-against-security-researchers/)
 
 
 
