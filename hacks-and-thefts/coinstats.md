@@ -1727,44 +1727,44 @@ Used access to get access to CoinStats AWS where they exported all private kys o
 
 One of the most notable things about this case is that the threat actor reached out to multiple technical employees at the same company simultaneously:
 
-![../images/verity-job-scammer-1.png]
+![](../images/verity-job-scammer-1.png)
 
-![../images/verity-job-scammer-2.png]
+![](../images/verity-job-scammer-2.png)
 
-![../images/verity-job-scammer-3.png]
+![](../images/verity-job-scammer-3.png)
 
-![../images/verity-job-scammer-4.png]
+![](../images/verity-job-scammer-4.png)
 
-![../images/verity-job-scammer-5.png]
+![](../images/verity-job-scammer-5.png)
 
-![../images/verity-job-scammer-6.png]
+![](../images/verity-job-scammer-6.png)
 
-![../images/verity-job-scammer-7.png]
+![](../images/verity-job-scammer-7.png)
 
-![../images/verity-job-scammer-8.png]
+![](../images/verity-job-scammer-8.png)
 
-![../images/verity-job-scammer-9.png]
+![](../images/verity-job-scammer-9.png)
 
-![../images/verity-job-scammer-10.png]
+![](../images/verity-job-scammer-10.png)
 
-![../images/verity-job-scammer-11.png]
+![](../images/verity-job-scammer-11.png)
 
-![../images/verity-job-scammer-12.png]
+![](../images/verity-job-scammer-12.png)
 
-![../images/verity-job-scammer-13.png]
+![](../images/verity-job-scammer-13.png)
 
-![../images/verity-job-scammer-14.png]
+![](../images/verity-job-scammer-14.png)
 
-![../images/verity-job-scammer-15.png]
+![](../images/verity-job-scammer-15.png)
 
-![../images/verity-job-scammer-16.png]
+![](../images/verity-job-scammer-16.png)
 
-![../images/verity-job-scammer-17.png]
+![](../images/verity-job-scammer-17.png)
 
-![../images/verity-job-scammer-18.png]
+![](../images/verity-job-scammer-18.png)
 
-![../images/verity-job-scammer-19.png]
+![](../images/verity-job-scammer-19.png)
 
-![../images/verity-job-scammer-20.png]
+![](../images/verity-job-scammer-20.png)
 
-![../images/verity-job-scammer-21.png]
+![](../images/verity-job-scammer-21.png)
