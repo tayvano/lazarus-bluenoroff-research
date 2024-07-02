@@ -178,13 +178,18 @@ Similarly the team does not recall and has not identified receiving one of the i
 - $212k -> CoinCola TDRz3EKe4QMpAVri7WoWtQjymqPuJ6SHPU
 - $6.6k -> Bitget TEZzcUF8SfxfvqsWqAzJA145BMTQoCmpmB
 
+
+
 ## IoCs
 
 November 15, 2023:
+
 - IP 85.255.176.177
+
 - en-CA,en;q=0.9
-- English
+
 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+
 - Timezone: America/Toronto
 
 

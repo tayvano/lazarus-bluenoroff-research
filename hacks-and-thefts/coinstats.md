@@ -110,9 +110,6 @@ Used access to get access to CoinStats AWS where they exported all private kys o
 - 0x7717f5746335b51344511275aa5afa7f767213d6  ftm
 - 0xf9394f695d6146209c69491fc3a53bb07bd51cb9  ftm
 
-
-
-
 ### Gas Givers
 
 - 0xa8838306db701b3449e68a7b544bdabd6070fa4a
@@ -127,6 +124,54 @@ Used access to get access to CoinStats AWS where they exported all private kys o
 - 0x5a55100dd3e20ad46b71d62dd5b8207b52e8c365
 - 0x57825b83d7fde956d2daf4069150badcc80b3ece
 
+
+
+
+## Conversation
+
+One of the most notable things about this case is that the threat actor reached out to multiple technical employees at the same company simultaneously:
+
+![](../images/verity-job-scammer-1.png)
+
+![](../images/verity-job-scammer-2.png)
+
+![](../images/verity-job-scammer-3.png)
+
+![](../images/verity-job-scammer-4.png)
+
+![](../images/verity-job-scammer-5.png)
+
+![](../images/verity-job-scammer-6.png)
+
+![](../images/verity-job-scammer-7.png)
+
+![](../images/verity-job-scammer-8.png)
+
+![](../images/verity-job-scammer-9.png)
+
+![](../images/verity-job-scammer-10.png)
+
+![](../images/verity-job-scammer-11.png)
+
+![](../images/verity-job-scammer-12.png)
+
+![](../images/verity-job-scammer-13.png)
+
+![](../images/verity-job-scammer-14.png)
+
+![](../images/verity-job-scammer-15.png)
+
+![](../images/verity-job-scammer-16.png)
+
+![](../images/verity-job-scammer-17.png)
+
+![](../images/verity-job-scammer-18.png)
+
+![](../images/verity-job-scammer-19.png)
+
+![](../images/verity-job-scammer-20.png)
+
+![](../images/verity-job-scammer-21.png)
 
 
 ### Victims
@@ -1721,50 +1766,3 @@ Used access to get access to CoinStats AWS where they exported all private kys o
 - 1VSUJcZL1eD3TGRiwjXPU7YwJHJ3xzXW1
 - 1zYDMPPq61tkuDkhEcuwYDog8BtGsuzgv
 
-
-
-## Conversation
-
-One of the most notable things about this case is that the threat actor reached out to multiple technical employees at the same company simultaneously:
-
-![](../images/verity-job-scammer-1.png)
-
-![](../images/verity-job-scammer-2.png)
-
-![](../images/verity-job-scammer-3.png)
-
-![](../images/verity-job-scammer-4.png)
-
-![](../images/verity-job-scammer-5.png)
-
-![](../images/verity-job-scammer-6.png)
-
-![](../images/verity-job-scammer-7.png)
-
-![](../images/verity-job-scammer-8.png)
-
-![](../images/verity-job-scammer-9.png)
-
-![](../images/verity-job-scammer-10.png)
-
-![](../images/verity-job-scammer-11.png)
-
-![](../images/verity-job-scammer-12.png)
-
-![](../images/verity-job-scammer-13.png)
-
-![](../images/verity-job-scammer-14.png)
-
-![](../images/verity-job-scammer-15.png)
-
-![](../images/verity-job-scammer-16.png)
-
-![](../images/verity-job-scammer-17.png)
-
-![](../images/verity-job-scammer-18.png)
-
-![](../images/verity-job-scammer-19.png)
-
-![](../images/verity-job-scammer-20.png)
-
-![](../images/verity-job-scammer-21.png)

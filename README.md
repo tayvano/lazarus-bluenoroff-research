@@ -6,6 +6,9 @@
 
 > "The real purpose of the DPRK’s cyber, military, policy, and political aggressiveness is ultimately to **control and subdue its own population and retain power.**"
 
+
+
+
 # Really Good Links: Overview & Background
 
 - [North Korean Cyber Attacks](https://www.heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat)
@@ -28,21 +31,17 @@
 - [North Korea's Crypto Hackers Are Paving the Road to Nuclear Armageddon](https://www.cnet.com/culture/features/north-koreas-crypto-hackers-are-paving-the-road-to-nuclear-armageddon/)
 - [Kim Jong Un is directly handling results of new COVID-19 hacking organization's work](https://www.dailynk.com/english/kim-jong-un-directly-handling-results-new-covid-19-hacking-organization-work/)
 
-# Background
+
+
+
+# Background, Malware & Articles, Phishing Samples
 
 - [https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md)
-
-# Evolution
-
-- [https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md)
-
-# Malware & Articles
-
 - [https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-malware-and-ttps.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-malware-and-ttps.md)
+- (https://twitter.com/tayvano_/status/1516225457640787969)(https://twitter.com/tayvano_/status/1516225457640787969)
 
-## Phishing Samples
 
-- https://twitter.com/tayvano_/status/1516225457640787969
+
 
 # Hacks, Thefts, and Total Amounts Stolen
 
@@ -214,123 +213,62 @@
 | 🎙️  | 2024-Apr-11 | [Endblock](./hacks-and-thefts/endblock.md)                                                       | $72,000          |
 | 👛  | 2024-Apr-29 | [Rain](./hacks-and-thefts/rain.md)                                                               | $14,800,000      |
 | 🎙️  | 2024-May-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_ventures.md) (Original compromise Jan 25)        | $1,262,630       |
-| 🔑  | 2022-May-15 | [ALEX Labs](./hacks-and-thefts/alex-labs.md)                                                     | $4,300,000|
-| 🎙️  | 2024-May-28 | [HYVE](./hacks-and-thefts/hyve.md)                                                               |       |
-| 🎙️  | 2024-May-29 | [SpaceCatch](./hacks-and-thefts/spacecatch.md)                                                   |        |
+| 🔑  | 2022-May-15 | [ALEX Labs](./hacks-and-thefts/alex-labs.md)                                                     | $4,300,000       |
+| 🎙️  | 2024-May-28 | [HYVE](./hacks-and-thefts/hyve.md)                                                               |                  |
+| 🎙️  | 2024-May-29 | [SpaceCatch](./hacks-and-thefts/spacecatch.md)                                                   | $200,000         |
 | 👛  | 2024-May-30 | [Bitcoin DMM](./hacks-and-thefts/bitcoin_dmm.md)                                                 | $305,800,000     |
-| 👛  | 2022-Jun-22 | [CoinStats](./hacks-and-thefts/coinstats.md)                                                     | $2,300,000 |
-| 🔑  | 2022-Jun-28 | [Theft from Individual C4](./hacks-and-thefts/c4.md)                                             | $400,000 |
-| ⭐  | **2024**    | **TOTAL**                                                                                        | **$$339,207,426**  |
+| 👛  | 2024-Jun-22 | [CoinStats](./hacks-and-thefts/coinstats.md)                                                     | $2,300,000       |
+| 🔑  | 2024-Jun-28 | [Theft from Individual C4](./hacks-and-thefts/c4.md)                                             | $400,000         |
+| ⭐  | **2024**    | **TOTAL**                                                                                        | **$$339,207,426**|
 
 
 
 # Breaking Down / Mapping the Clusters
 
+[https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-evolution.md)
+
 Note: all my research starts onchain and works backwards from there using victim reports and osint done by those tracking the malware, c2s, etc. I often get it wrong bc the clustering and dynamic nature of DPRK is insane to keep track of.
 
-### 👛 DPRK 1 - ("TraderTraitor")
-
+### 👛 DPRK 1 - roughly TraderTraitor / UNC4899 / Jade Sleet / Stardust Chollima
 - The big boys, the insane laundry sessions, fake job offers usually target devs/devops
-
-- Today: Skills tests in python, sql, etc. Personas on Linkedin usually white and impersonating/cloned legit profile. Github repos may be private. Conversation style usually more casual, conversational. More time passes between compromise and theft (at times 6+ months) making it hard to identify intiial social engineering that led to compromise.
-
-- Before: Malicious electron trading apps 
-
-- Ronin, Harmony, Atomic Wallet, Coinex, Coinspaid, Alphapo, Stake, HTX/Heco, Poloniex
-
+- Today: Skills tests in python, sql, etc. Personas on Linkedin usually white and impersonating/cloned legit profile. Github repos may be private. Conversation style usually more casual, conversational, adaptable? 
+- More time passes between compromise and theft (at times 6+ months) making it espeecially hard to identify intiial social engineering that led to compromise.
+- Before: Malicious electron trading apps
+- Ronin, Harmony, Atomic Wallet, Coinex, Coinspaid, Alphapo, Stake, HTX/Heco, Poloniex, Coinstats
 - [TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies](https://www.cisa.gov/sites/default/files/publications/AA22-108A-TraderTraitor-North_Korea_APT_Targets_Blockchain_Companies.pdf)
+- Early 2024 - [North Korean Government-Backed Groups Targeting Brazil](https://cloud.google.com/blog/topics/threat-intelligence/cyber-threats-targeting-brazil#:~:text=In%20early%202024%2C%20PUKCHONG%20(UNC4899)%20targeted%20cryptocurrency%20professionals%20in%20multiple%20regions)
+- March 2024 - [Conversation with malicious recruiter using attacking via malicious "crypto prices" github](./hacks-and-thefts/coinstats.md)
 
-
-### 🔑 DPRK 2 - ("SquidSquad") 
-
+### 🔑 DPRK 2 - roughly SquidSquad / Sapphire Sleet / CryptoCore / DangerousPassword / SnatchCrypto / CryptoMimic
 - Today this activity is mostly called SquidSquad by onchain trackers. Maps for the most part to Bluenoroff / the original APT38 as you go back in time. However there are some weird things that don't map perfectly, especially over time.
-
 - Today: VC impersonating, Telegram messagers, fake video meet calls, RustBucket, Mac malware, Applescript. Tornado Cash, eXch, Noones, Paxful, Instaswappers.
-
-- Before: Google Drive phishing, malicious PDFs, "Fast changes to stablecoin risk.pdf." Tornado Cash, Renbridge, Chipmixer, Noones, Paxful. Dust Collectors.
-
+- Before: Google Drive phishing, malicious PDFs, "Fast changes to stablecoin risk.pdf" Tornado Cash, Renbridge, Chipmixer, Noones, Paxful. Dust Collectors.
 - [Alex Masmej Near Miss](https://x.com/AlexMasmej/status/1731446788136292833)
-
 - [Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
-
 - [Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
-
 - [BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://www.jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
-
 - [How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 
-
-### 🎙️ DPRK 3 - ("Contagious Interview")
-
-- New onchain cluster / laundry patterns first observed early 2023, fully baked out by late 2023. This may actually map back to some dudes that originally did TraderTraitor or APT38 type stuff like Nexus Mutual but I dunno yet. They certainly Dust Collect like Hugh Karp / EasyFi / etc. but most everything else is different.
-
+### 🎙️ DPRK 3 - Contagious Interview
+- New onchain cluster / laundry patterns first observed early 2023, fully baked out by late 2023. This may actually map back to some dudes that originally did TraderTraitor or APT38 type stuff like Nexus Mutual but I dunno yet. They certainly Dust Collect like Hugh Karp / EasyFi / etc. and they certainly love to compromise private keys and pivot to taking over protocols but most everything else is different.
 - UnoReDAO, OKX Dex, ConcentricFi, Serenity Shield, Wilder World, Hyve, on and on and on and on and on. Also the Upwork/Braintrust/Linkedin Job Scams. Flickthebean, etc.
-
 - Connects af onchain—a real mess. Stargate / Defiway / RhinoFi / Railgun / Dust Collectors. 
-
 - In the cases of protocol exploits, the private keys that have critical access are compromised and used to upgrade the protocol in order to mint an infinite amount of new tokens or drain the protocol of any locked assets. Lots of transferOwnerships.
-
-- On the social engineering side: Developers often reach out to the attacker in response to a job or freelance post. The attacker asks them to complete a job interview, skills test, or fix some issues in an existing codebase. Details about the test or code issues are often provided via Google Docs or similar text document. They have much more information and provide actual requirements, as opposed to the conversations seen used in TraderTraitor. The code is typically provided via Github, Bitbucket, or a zip file hosted on Google Drive. They are Javascript / Node JS projects and use npm install / run / build. Often the personal addresses that are active and in unlocked browser extensions or desktop wallets are drained of all assets nearly immediately. Shortly thereafter, these private keys, or additional private keys stored on the developers machine, are further drained of assets and/or used to exploit smart contracts or protocols.
-
+- On the social engineering side: Developers often reach out to the attacker in response to a job or freelance post. The attacker asks them to complete a job interview, skills test, or fix some issues in an existing codebase. Details about the test or code issues are often provided via Google Docs or similar text document. They have much more information and provide actual requirements, as opposed to some of the conversations seen used in TraderTraitor. The code is typically provided via Github, Bitbucket, or a zip file hosted on Google Drive. They are Javascript / Node JS projects and use npm install / run / build. Often the personal addresses that are active and in unlocked browser extensions or desktop wallets are drained of all assets nearly immediately. Shortly thereafter, these private keys, or additional private keys stored on the developers machine, are further drained of assets and/or used to exploit smart contracts or protocols.
 - There are also cases where the attacker reaches out to a developer or dev shop or asking to hire / contract them to help finish a project. They then grant the dev shop access to a private (malicious) repo. The lead of the dev shop will then run the repo to see what the issue is, what work is required, and provide a quote. That tech lead's device is thus compromised, alongside their own wallets/projects or previous clients.
-
 - Public reporting and first-hand victim reports often make these incidents sound like a malicious employee or insider or new hire is responsible and thus leads to them being tagged as DPRK IT Workers. However, more often it is simply that an employee’s device was compromised and their access was used. The key difference in victim reports is whether they actually hired and paid. For IT Workers, often the team will have and mention resumes, payroll, etc.
-
 - 2024 Linkedin Personas from thefts that are connected to the onchain cluster of activity include: “Lucas Sousa Santos”, “Maria Mercedes Gonzalez”, “Juan D Suareza”, “Eduardo Morales Cortés”
-
 - [Palo Alto: Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)
-
-- https://medium.com/@mahitman1/from-opportunity-to-threat-my-encounter-with-a-blockchain-job-scam-9e0457754298
-
-- https://www.reddit.com/r/hacking/comments/18npzcl/comment/kecsptt/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
-
-- https://x.com/unpacker/status/1737993034934169855
-
-- https://x.com/im23pds/status/1782984061369405878
-
-- https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/
-
-- https://t.me/investigations/97
-
-
-### 🎙️ DPRK 3 - On-chain Connections
-
-
-| Chain   | From Label                           | From Address                               |            | To Label                             | To Address                                 | Txn Hash                                                           |
-| ------- | ------------------------------------ | ------------------------------------------ | ---------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------ |
-| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Murall, CloudAI, Wilder World Hacker | 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 | 0x5050716351458db5b1a90d820a345ff8f0654e044ce7c18d8f975f5c8e6ff187 |
-| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Murall, CloudAI, Wilder World Hacker | 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 | 0xbaac7fb8a0095c68d3a5627c1c0df8ba3cec54744465d8216527cbf625f82b4d |
-| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Murall Hacker 2                      | 0xfa715532c453163bdc8611c15d196b2527e689b2 | 0xb61fe770807a5345c2d609004927afdae8869799dd27c305be4a3103976abf9d |
-| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Murall Hacker 1                      | 0x01720163e9385e832ffe3387ba7098be4df303e0 | 0x482cd1e25b03a5946bd1f9f5a4752726b288212d72b8a703b35bfa7c6a3c8252 |
-| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Serenity Shield Hacker               | 0x93a8b27c8dc2089bb071c22491a715dcb381f554 | 0x01fd8832829f605048991bfc332e62bcb4d1f1ffaeb52c86082b0c362a823fc6 |
-| BSC     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | OKX DEX Hacker                       | 0xfd681a9aa555391ef772c53144db8404aec76030 | 0xe200c4b52f9e3f9eff1456379a13bcb34cfc484af713e112f62e9dc2f417fd6d |
-| ETH     | Murall Hacker 4                      | 0x5e440f184aace9e6e85a182c9bb0e134f0a18fb9 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x4d49639166a05bb28f876016afa721931cb449a2c5d11a269fa37a9ff1c0c31d |
-| ETH     | OKX Dex Hacker 3                     | 0x0519eFACB73A1f10b8198871E58D68864e78B8A5 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x4b3282cacea399e4fb7dda332d5f8e6116c944dc81862e0bbc8bd4048bfaeb43 |
-| ETH     | OKX Dex Hacker 1                     | 0xFacf375Af906f55453537ca31fFA99053A010239 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x1189e018ba672b46f21f992520a984d72bf215616d59a6d5d34bc24a42593018 |
-| AVAX    | OKX Team Member (Compromised)        | 0xc82ea2afe1fd1d61c4a12f5ceb3d7000f564f5c6 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0xa7e3fa2707ab632ba61e9cbd998e33614ce23a46da7921785c473fdedd72a20e |
-| ETH     | OKX Team Member (Compromised)        | 0xc82ea2afe1fd1d61c4a12f5ceb3d7000f564f5c6 | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x303213f79454700cac5b6aece0f3b72dc4a30028739d3412beaa0206b0025ee5 |
-| AVAX    | UnoReDAO Hacker 1                    | 0x86d49a933d1f6aa1218dfa91250733d9818e36fa | SENDS TO   | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | 0x7e4a30d9aa9591980156b0029d5e279b7292654cca8841e9b20cd6206b763508 |
-| BSC     | OKX Dex Hacker                       | 0xb2a722870178e92ba681236c77609214265d25d1 | SENDS TO   | Serenity Shield Hacker               | 0x93a8b27c8dc2089bb071c22491a715dcb381f554 | 0xe2c3fee5d623e0e932bf22752c8d70b18910574a6e6536b869df48f7276b83bd |
-| ETH     | OKX Dex Hacker 2                     | 0x1f14e38666cdd8e8975f9acc09e24e9a28fbc42d | SENDS TO   | OKX DEX Hacker                       | 0xfd681a9aa555391ef772c53144db8404aec76030 | 0xacd1ba5bf5df47f713546a35afb94221d28665661e8be8598641eb05f68428f6 |
-| ETH ARB | OKX Dex Hacker 2                     | 0x1f14e38666cdd8e8975f9acc09e24e9a28fbc42d | ETH vs ARB | ConcentricFi Hacker                  | 0x1f14e38666cdd8e8975f9acc09e24e9a28fbc42d | is same address silly                                              |
-| BSC     | OKX Dex Hacker                       | 0x0d1712a7d4eaf64c134701acd672f4904784033b | SENDS TO   | ConcentricFi Hacker                  | 0x232b1f770e7637f2656ce08ed42ec6fb4c84590e | 0xadb78d8923743d180d1a94951b006d80a7c22f362952cf956561c2a33d29b1bd |
-| ETH     | Serenity Shield Hacker               | 0x93a8b27c8dc2089bb071c22491a715dcb381f554 | SENDS TO   | Murall Hacker                        | 0x01720163e9385e832ffe3387ba7098be4df303e0 | 0x0520195f57c3a5fe886aa95778dafe684854b78c252d20f29cbe0c9c4c4bbddd |
-| ETH     | Murall, CloudAI, Wilder World Hacker | 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 | SENDS TO   | Serenity Shield Hacker               | 0x93a8b27c8dc2089bb071c22491a715dcb381f554 | 0x75202ac6ac2a403122feb07ed147947d5d74c6f9a03e70682bfc05ad53217631 |
-| ETH     | Murall Hacker 4                      | 0x5e440f184aace9e6e85a182c9bb0e134f0a18fb9 | SENDS TO   | CloudAI Hacker                       | 0x3c685ad9e63872259b2c3563378a1d92defad517 | 0xb1b02f0a713d60ed752edbca6ba23c58c63d3b2e7f785f4465bcfb700614344e |
-| ETH     | GNUS Hacker                          | 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 | SENDS TO   | Upwork Crypto Developer Job Scam     | 0x89dc4eabade33dcf6b0a1166348802dc24ee16f7 | 0xd8c5b55bd0280929368f2949520c162b233f3dad27032240cad65dda1d05ac95 |
-| BSC     | Spoock Theft / Waygate               | 0x55066e19abdb8cb38f6a98a96186c0b657ce3295 | SENDS TO   | UnoReDAO                             | 0x86d49a933d1f6aa1218dfa91250733d9818e36fa | 0x5098ca1dcf9232058dd2e2a394000a57e460870d1efcbc6aaf5dfcac3f2c4627 |
-| ETH     | UnoReDAO Hacker 2                    | 0x9ada20b835aa178813a8c174f1f93b1dc1bfa775 | SENDS TO   | OKX DEX Exploiter                    | 0xfacf375af906f55453537ca31ffa99053a010239 | 0x372fdb551de2ec82337bf696b05690dc5919fde084e81e710637791475ed34c9 |
-| ETH     | Spoock Theft / Waygate               | 0x55066e19abdb8cb38f6a98a96186c0b657ce3295 | SENDS TO   | UnoReDAO                             | 0x2618eb69b40e6db8ca732ddb2df5416a4d36e7ae | 0x36cb3a9832284a098d711702960f7592a949fefc15ba0a017a927debb81a15d9 |
-| FTM BSC | UnoReDAO Hacker 1                    | 0x86d49a933d1f6aa1218dfa91250733d9818e36fa | BRIDGES TO | CloudAI Hacker                       | 0x3c685ad9e63872259b2c3563378a1d92defad517 | 0x397a14ca24aa1964a6227ca23452ae36500d2a1a56725f5e1dad38ad927ab0e6 |
-
-
+- [From Opportunity to Threat: My Encounter with a Blockchain Job Scam](https://medium.com/@mahitman1/from-opportunity-to-threat-my-encounter-with-a-blockchain-job-scam-9e0457754298)
+- [Obfuscated code a "recruiter" sent me](https://www.reddit.com/r/hacking/comments/18npzcl/comment/kecsptt/)
+- [The actor continues with familiar tactics, incorporating a cleverly obfuscated BeaverTail script. The endgame remains the InvisibleFerret script, with the C2 using IP addresses previously employed by the actor: 147.124.212.89:1244/](https://x.com/unpacker/status/1737993034934169855)
+- [Lazarus group appears to be currently reaching out to targets via LinkedIn and steal employee privileges or assets through malware.](https://x.com/im23pds/status/1782984061369405878)
+- [Blockchain dev's wallet emptied in "job interview" using npm package](https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
+- [ZachXBT: The same group just hacked another project one hour ago for $278K](https://t.me/investigations/97)
 
 ### 💼 DPRK IT Workers
-
 - Merlin DEX, Munchables, Solareum, a bunch of unknown others or misidentified shit from contagious interview.
-
 - Have resumes. Get hired. Get paid payroll that goes to DPRK.
-
 - [May 2024: Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://www.justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
 - [Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked)
 - [U.S. DOJ: Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers](https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation)
@@ -342,21 +280,16 @@ Note: all my research starts onchain and works backwards from there using victim
 - [re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
 - [re: DPRK IT Workers III](https://twitter.com/tayvano_/status/1777911898845159775)
 
-
 ### 🎙️ / 💼 / ⁉️ Not sure where these fit quite yet
-
 - [Moonstone Sleet emerges as new North Korean threat actor with new bag of tricks](https://www.microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/)
-
 - [Diamond Sleet (prev:ZINC) attacks against security researchers](https://www.microsoft.com/en-us/security/blog/2021/01/28/zinc-attacks-against-security-researchers/)
-
-
 
 
 
 
 # PDFs - Indictments & Formal Reports
 
-- [https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs](https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs)
+[https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs](https://github.com/tayvano/lazarus-bluenoroff-research/tree/main/pdfs)
 
 ### All PDF Reports
 
