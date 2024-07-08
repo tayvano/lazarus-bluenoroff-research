@@ -11,9 +11,11 @@
 - Before: Malicious electron trading apps
 - Ronin, Harmony, Atomic Wallet, Coinex, Coinspaid, Alphapo, Stake, HTX/Heco, Poloniex, Coinstats
 - TraderTraitor targets blockchain companies through spear-phishing messages. The group sends these messages to employees, particularly those in system administration or software development roles, on various communication platforms, intended to gain access to these start-up and high-tech companies. TraderTraitor may be the work of operators previously responsible for APT38 activity.
+- A suite of malicious applications, including TokenAIS, CryptAIS, CreAI Deck, AlticGO, and Esilet, which are designed to appear as legitimate cryptocurrency trading or portfolio management tools. These applications are often digitally signed with revoked Apple developer certificates to bypass initial security checks
 - [North Korean Government-Backed Groups Targeting Brazil](https://cloud.google.com/blog/topics/threat-intelligence/cyber-threats-targeting-brazil#:~:text=In%20early%202024%2C%20PUKCHONG%20(UNC4899)%20targeted%20cryptocurrency%20professionals%20in%20multiple%20regions)
 - [TraderTraitor](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-108a)
 - [TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies](https://www.cisa.gov/sites/default/files/publications/AA22-108A-TraderTraitor-North_Korea_APT_Targets_Blockchain_Companies.pdf)
+- [TraderTraitor](https://duo.com/decipher/cisa-lazarus-apt-targeting-blockchain-orgs-with-tradertraitor-malware)
 
 
 ## 🔑 DPRK 2 - roughly SquidSquad / Sapphire Sleet / CryptoCore / DangerousPassword / SnatchCrypto / CryptoMimic
@@ -113,6 +115,18 @@
 - [Diamond Sleet (prev:ZINC) attacks against security researchers](https://www.microsoft.com/en-us/security/blog/2021/01/28/zinc-attacks-against-security-researchers/)
 
 
+## UNC3782 - NFT Phishing
+
+- Kevin Rose theft - memes6529[.]xyz
+
+- https://www.prevailion.com/what-wicked-webs-we-unweave/ 
+
+- https://twitter.com/PhantomXSec/status/1566219671057371136
+
+- https://slowmist.medium.com/slowmist-our-in-depth-investigation-of-north-korean-apts-large-scale-phishing-attack-on-nft-users-362117600519
+
+- https://twitter.com/PhantomXSec/status/1566219713600196608
+
 
 ## Operation Dream Job
 
@@ -131,14 +145,6 @@
 - https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-048a
 - [AppleJeus](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-048a)
 - https://securelist.com/operation-applejeus/87553/
-
-
-
-## Naver Phishing Campaign -> DPRK NFTs
-
-- https://twitter.com/PhantomXSec/status/1566219713600196608
-- https://www.prevailion.com/what-wicked-webs-we-unweave/
-- https://slowmist.medium.com/slowmist-our-in-depth-investigation-of-north-korean-apts-large-scale-phishing-attack-on-nft-users-362117600519
 
 
 
@@ -210,13 +216,13 @@
 
 
 ## Andariel / UNC614
-
-- https://global.ahnlab.com/global/upload/download/techreport/%5BAhnLab%5DAndariel_a_Subgroup_of_Lazarus%20\(3\).pdf
+- Known for its broader scope of operations, Andariel targets both government and private sector entities, including financial services and cryptocurrency companies. Their methods include exploiting vulnerabilities in widely used software, such as the Log4j vulnerability, to deploy bespoke malware and gain unauthorized access to sensitive systems
 - This actor targets foreign businesses, government agencies, financial services infrastructure, private corporations, and the defense industry. UNC614 also engages in cyber crime as an extra source of income to fund their operations, including the [ransoming of hospitals](https://advantage.mandiant.com/reports/22-00021780), using their own ransomware malware dubbed [MAUI](https://advantage.mandiant.com/reports/22-00019069). However, their primary focus is on targeting military and government personnel. 
 - This cyber group stands apart from the other DPRK aligned groups and typically does not fall into the blending and targeting that the others may do. Some groups have espionage and financial focuses, but Andariel is tasked to acquire information to “build” the weapons of mass destruction or research and development programs in other targeted fields, like pharmaceuticals. 
 - The targeting trends, such as nuclear, aerospace, high heat molds, etc. and overall successful compromises of this actor make it quite possibly the scariest of all the DPRK affiliated groups.
 - Primary targeting: Defense, Aerospace, Healthcare (when self-funding operations), Nuclear
-
+- https://global.ahnlab.com/global/upload/download/techreport/%5BAhnLab%5DAndariel_a_Subgroup_of_Lazarus%20\(3\).pdf
+- https://securelist.com/lazarus-andariel-mistakes-and-easyrat/110119/
 
 
 ## TEMP.Hermit
@@ -259,7 +265,6 @@
 - https://github.com/JPCERTCC/Lazarus-research/
 - https://blogs.jpcert.or.jp/en/2021/03/Lazarus_malware3.html and YamaBot
 - https://blogs.jpcert.or.jp/en/2022/07/yamabot.html
-- https://securelist.com/lazarus-andariel-mistakes-and-easyrat/110119/
 - https://blog.talosintelligence.com/lazarus-magicrat/
 - https://blog.talosintelligence.com/lazarus-collectionrat/
 - https://blog.talosintelligence.com/lazarus-quiterat/
@@ -288,5 +293,4 @@
 - https://securelist.com/the-lazarus-group-deathnote-campaign/109490/
 - https://securelist.com/gopuram-backdoor-deployed-through-3cx-supply-chain-attack/109344/
 - https://securelist.com/operation-applejeus-sequel/95596/
-- https://securelist.com/lazarus-andariel-mistakes-and-easyrat/110119/
 - https://securelist.com/andariel-deploys-dtrack-and-maui-ransomware/107063/

@@ -1,4 +1,4 @@
-# CEX 
+# Rain 
 
 Date:: April 29, 2024
 
@@ -31,3 +31,10 @@ On May 14-16, 2024 funds were moved and depositted to a mixer:
 - bc1qd3hs38w4m42p395v0czfy57tw4ppcpuxt058lt (35 btc)
 
 - bc1q89za2yjlgzngndvqwpwemkzj7gzkxq82nvzfjv (50 btc)
+
+
+On June 24, 2024, Ethereum was moved to:
+
+- 0x3751aA0D047173d6dAc0a6bA3363c53EC5097f99
+
+- 0x6B0470c7257537674D75b185CDFC358F2Cee9d87
