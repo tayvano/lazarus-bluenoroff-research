@@ -31,8 +31,9 @@ It was determined that on December 4th, 2017, a conspirator sent a spear-phishin
 
 - "Slovenian Crypto Company" [US v 113](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf)
 
-
 - Page 28 of [UN Security Council's North Korea 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf)
+
+- This [comprehensive report on the incident](https://lazarus.day/media/post/files/2023/12/22/Lessons-Learned-from-64-Million-Dollar-Cryptocurrency-Hack-Case-Study.pdf)
 
 ## On-Chain
 
@@ -43,15 +44,16 @@ It was determined that on December 4th, 2017, a conspirator sent a spear-phishin
 
 - https://archive.is/pWTbH
 - https://archive.org/web/20181113211702/ 
+- https://bitcointalk.org/index.php?topic=2535366.0
 - https://coindesk.com/62-million-gone-cryptocurrency-mining-market-nicehash-hacked
 - https://facebook.com/NiceHash/videos/2013146182237851/  
 - https://krebsonsecurity.com/2017/12/former-botmaster-darkode-founder-is-cto-of-hacked-bitcoin-mining-firm-nicehash/
+- https://lazarus.day/media/post/files/2023/12/22/Lessons-Learned-from-64-Million-Dollar-Cryptocurrency-Hack-Case-Study.pdf
 - https://nicehash.com/news/niceHash-security-breach-investigation-update 
+- https://web.archive.org/web/20181113075633/https://www.nicehash.com/news/niceHash-security-breach-investigation-update
 - https://www.cnbc.com/2017/12/07/bitcoin-stolen-in-hack-on-nicehash-cryptocurrencymining-marketplace.html 
 - https://www.coindesk.com/62-million-gone-cryptocurrencymining-market-nicehash-hacked/ 
-- https://www.quadrigainitiative.com/casestudy/nicehashexchangehack.php
-- https://www.wikitribune.com/story/2017/12/11/technology/nicehash-ceo-speaks-outafter-60m-cryptocurrency-hack/27212/ 
 - https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- https://www.quadrigainitiative.com/casestudy/nicehashexchangehack.php
 - https://www.reddit.com/r/NiceHash/comments/7i0s6o/official_press_release_statement_by_nicehash/
-- https://bitcointalk.org/index.php?topic=2535366.0
-- https://web.archive.org/web/20181113075633/https://www.nicehash.com/news/niceHash-security-breach-investigation-update
+- https://www.wikitribune.com/story/2017/12/11/technology/nicehash-ceo-speaks-outafter-60m-cryptocurrency-hack/27212/ 
