@@ -40,3 +40,54 @@ Tags: 🎙️ Contagious Interview
 - 0xb3c9effe909a737621b929600c6bd1e5a62f43c5 - Braintrust II: Theft
 - 0xbe1566497c7f581258c14bf297a8f4e747ddf013 - Braintrust II: April 2024 Dust Collector
 
+
+
+## Details III
+
+> this is so true, I received this one, and almost did it, they claimed that they had urgent issues to fix, and gave me a code with NDA, and I found something weird, this is their site https://app.freebling.io, and when I mention why is she put child_process on the package, she
+
+- https://www.linkedin.com/posts/abhisheksinghsoni_blockchainsecurity-cryptoscamalert-defijobs-activity-7127542067001475073-71xU/
+
+
+## Details IV
+
+- https://www.linkedin.com/pulse/i-got-hacked-what-did-do-after-lokicheck-zuzkc/
+- https://bitbucket.org/juandsuareza/main/src/main/pages/redirect.tsx
+
+
+## Details V
+
+- Recently, I received an invitation for interview on Upwork regarding a job post: https://upwork.com/jobs/~01fb0cb0025d35d158
+- As mentioned in the job post, it's an ongoing project. So, as usual, the client sent me the repo of the project: https://bitbucket.org/juandsuareza/main/src/main/
+- And, sent me a screen-recording (https://drive.google.com/file/d/1uLLOF56mFkVf-GZbTxKXZlHXNAFUkgGy/view?usp=sharing) pointing-out to the bug/issue in the existing project, and asked me whether I'm also facing the same after running the project locally.
+- As, you can see, the repo doesn't look suspicious at all (especially in the eyes of regular devs). So, I cloned the repo and started executing it locally. Once, it started running on localhost, it was opening like a normal Next.js app on browser. Trust me, everything was completely unsuspicious.
+- However, here comes the twist, all of a sudden, it started asking for permissions of accessing browser cache, notes, reminders and what not. And to be very honest, i denied all of them as it started looking a lot suspicious all of a sudden. And I closed and deleted the project completely. Suddenly checked my bank accounts and all using my phone via dedicated banking apps (as I never access any of my bank account via browser or laptop).
+- But then, when I checked my Metamask, all of my funds on all the mainnet accounts were gone. Luckily, I was/am not holding any crypto for investment purposes or so, whatever was there of around $60 was for various testing purposes, mainly in Polygon MATIC. These were the transactions that happened:
+- https://polygonscan.com/tx/0xf0b72d445105d9c4d4d9c47c77f6869130b87c748d61e9de3874a8925cc2cc6f
+- https://etherscan.io/tx/0x44ce9e9a00d802c85875e5a76a65b14236d1e744f9d60ad1a1008ebe7e5dc134
+- Funny enough, in the second transaction, you guys can see the scammer has spent around $4 in transaction fees to transfer $1 worth of Ethereum. Clearly, not an expert scammer for sure!
+
+- Source: https://x.com/syedasadkazmii/status/1769710505953026109?s=20
+
+### On-chain
+
+- 0xd0315144eb80eb3e2d51792c8caaff21df2747f7 - Theft Address (ETH)
+- 0x0cae12f056775cbdd68a3e07e98d2e97baf22234 - Theft / Laundry (ETH), also CloudAI Team Thefts
+- 0xf318d71541a072583ee2f3720b757afb604b4eca - Theft / Laundry (ETH), receives from Blockbusters Tech thefts
+- 0xd0315144eb80eb3e2d51792c8caaff21df2747f7 - Theft Address (MATIC)
+- 0xb49fa6ec7a7c1f7f19c05640cf9f129c142f96ae - Theft / Laundry (MATIC), also receives from Lucid Chess Malware
+- 0xbe1566497c7f581258c14bf297a8f4e747ddf013 - Dust Collector (MATIC)
+
+
+## Details VI
+- https://www.figma.com/design/FtyziR4eHSB68FIarRZw7Y/FreeBling-v2.1.3?node-id=0-1
+- https://bitbucket.org/freebling/landing-web-app/src/main/
+- https://www.linkedin.com/posts/nikhil-jain-385456190_cryptoscam-jobsecurity-walletsecurity-activity-7166506226401329153-wnGJ/
+
+
+
+
+
+
+
+

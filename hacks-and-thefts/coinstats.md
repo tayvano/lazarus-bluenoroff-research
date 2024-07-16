@@ -84,7 +84,7 @@ Used access to get access to CoinStats AWS where they exported all private kys o
 - 0x6bbef38c85e5b1f1ac3f6d3dc5095cfcb8500351  matic
 - 0x2c2d8000e13000e4caddce5d05e6721e5d4ba0ae  matic
 - 0x6297088a3ab655b1727b0decc4ddd12028ecaafa  matic
-- 0x800cee0ca2ecd4b588edee92089f6adae8c39022  matic
+- 0x800cee0ca2ecd4b588edee92089f6adae8c39022  matic eth
 - 0xe43166380f48968b9dd711d4dd2e61b12d6b4089  matic
 - 0x5123a143c802b5e643fd75d0f31e92989cf4413b  avax
 - 0xfd03f78fc2ead3814abc9dc6b7f357415fbbe11d  avax
@@ -97,7 +97,7 @@ Used access to get access to CoinStats AWS where they exported all private kys o
 - 0x838a66952f45166f68176e3f8f7169b78e8aab59  avax
 - 0x2c2d8000e13000e4caddce5d05e6721e5d4ba0ae  avax
 - 0xd83611dc27fe606d85e4fde4aa308c84b71d0604  avax
-- 0xE7feaC2E3c7953ed1962978A4Afb5BCf46Be5698  avax
+- 0xE7feaC2E3c7953ed1962978A4Afb5BCf46Be5698  avax eth
 - 0x8b872344eb9c93ae05930a45bd132a1a0f9b8133  ftm
 - 0xbcb2b8f81aa566d0f29b5d7461693cc99f09dc81  ftm
 - 0x31dda9572ff9cb2e280dc6c39a6191502a506cb8  ftm
@@ -108,7 +108,11 @@ Used access to get access to CoinStats AWS where they exported all private kys o
 - 0xfbbbd4e160d30ab3bb18c1af11d2340dd26365e0  ftm
 - 0xe43166380f48968b9dd711d4dd2e61b12d6b4089  ftm
 - 0x7717f5746335b51344511275aa5afa7f767213d6  ftm
-- 0xf9394f695d6146209c69491fc3a53bb07bd51cb9  ftm
+- 0xf9394f695d6146209c69491fc3a53bb07bd51cb9  ftm eth
+- 0xe0994ed541e6e6dc053fd9eb03a32f3d9a9876c6  eth
+- 0xd1a3aa1e6e4b34d2e0f53fb55fe40e0d81eedb7b  eth
+- 0x4c8342f29dea118604a58c98148d918d39b58b89  eth
+- 0x0b83417319ebda8ab79a878e81de26c9cc69881c  eth
 
 ### Gas Givers
 
