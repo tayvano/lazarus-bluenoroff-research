@@ -1,4 +1,4 @@
-# MNGR
+# mgnr
 
 Date:: October 8th, 2021
 
@@ -48,7 +48,7 @@ Amount Stolen:: $24,100,000
 - 0x2e1155cf5374cba058a04fd03ebd0ba19afe580d - Noones Deposit
 
 
-### Post-TC Cluster (includes mngr, arthur, easyfi, hugh karp, and countless others): 
+### Post-TC Cluster (includes mgnr, arthur, easyfi, hugh karp, and countless others): 
 
 - 0x785b9940eaf44be2b832c61816ff873b97a8ad63
 - 0x2cf79ade61c36925463b02505d7186eabc1d8f2c
@@ -72,4 +72,4 @@ Amount Stolen:: $24,100,000
 
 - https://web.archive.org/web/20211014032211/https://twitter.com/mgnr_io/status/1448489258029703168/
 
-- Some of mngr's addresses are ID'd [here](https://cryptocatvc.medium.com/mgnr-io-maple-finance-7e70241e5f4), however the author makes the fatal mistake of attributing large sweeps / dumps / closing of positions to malicious activity on mngr's part, not the hackers. rip mngr. (and shity sleuths.)
+- Some of mgnr's addresses are ID'd [here](https://cryptocatvc.medium.com/mgnr-io-maple-finance-7e70241e5f4), however the author makes the fatal mistake of attributing large sweeps / dumps / closing of positions to malicious activity on mgnr's part, not the hackers. rip mgnr. (and shity sleuths.)

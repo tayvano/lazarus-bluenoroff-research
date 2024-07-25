@@ -15,7 +15,7 @@ for GERA you have this oct 18 hack
 
 that sends to GERA theft address 0xb25caeb548c40c564d2067a69a913cae14750dc0
 
-bc1qp8k0fd49yw4q88prm5lgu7yjj0uwqcmvtnc06c also sends to bc1qv4u6ax9n7mc8exahxmahtkkufzs4w4uzur26dp which goes to 0x785 via fixedfloat (0x785 is like easyfi mngr and algorand and indodax iirc and is like a 1inch limit order with destination address change hop away from the rest of easyfi et al.)
+bc1qp8k0fd49yw4q88prm5lgu7yjj0uwqcmvtnc06c also sends to bc1qv4u6ax9n7mc8exahxmahtkkufzs4w4uzur26dp which goes to 0x785 via fixedfloat (0x785 is like easyfi mgnr and algorand and indodax iirc and is like a 1inch limit order with destination address change hop away from the rest of easyfi et al.)
 
 
 ## On-chain

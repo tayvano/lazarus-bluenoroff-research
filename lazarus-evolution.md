@@ -122,6 +122,7 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))
 - [May 2024 | Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
 - [Mar 2024 | re: DPRK IT Workers I](https://twitter.com/tayvano_/status/1777911893224808911)
 - [Mar 2024 | re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
@@ -254,7 +255,8 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 
 
 
-## Andariel / UNC614
+## APT45 / Andariel / UNC614
+- [2024 | APT45: North Korea’s Digital Military Machine](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
 - Known for its broader scope of operations, Andariel targets both government and private sector entities, including financial services and cryptocurrency companies. Their methods include exploiting vulnerabilities in widely used software, such as the Log4j vulnerability, to deploy bespoke malware and gain unauthorized access to sensitive systems
 - This actor targets foreign businesses, government agencies, financial services infrastructure, private corporations, and the defense industry. UNC614 also engages in cyber crime as an extra source of income to fund their operations, including the [ransoming of hospitals](https://advantage.mandiant.com/reports/22-00021780), using their own ransomware malware dubbed [MAUI](https://advantage.mandiant.com/reports/22-00019069). However, their primary focus is on targeting military and government personnel. 
 - This cyber group stands apart from the other DPRK aligned groups and typically does not fall into the blending and targeting that the others may do. Some groups have espionage and financial focuses, but Andariel is tasked to acquire information to “build” the weapons of mass destruction or research and development programs in other targeted fields, like pharmaceuticals. 

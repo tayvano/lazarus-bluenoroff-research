@@ -21,7 +21,7 @@ Swaps for 360.73728419 ETH total
 
 - which receives from bondly exploiter 0xc433d50dd0614c81ee314289ec82aa63710d25e8
 
-- sends to mngr hacker 0x11bdc178b06b6f1dcd98ed19ab7bf90331758c5b4f627969de6d7403b0e5b9b8
+- sends to mgnr hacker 0x11bdc178b06b6f1dcd98ed19ab7bf90331758c5b4f627969de6d7403b0e5b9b8
 
 - sends to bondly finance exploiter 0xbe9da60a420bb46b320badaea846df6938616e35247d4bd0f860cd9e201cf8c8
 
