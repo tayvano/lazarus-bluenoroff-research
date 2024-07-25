@@ -26,12 +26,17 @@ DAO Maker, an encryption incubator, issued an announcement stating that at aroun
 
 - 0x0Eba461D9829C4e464A68D4857350476CFb6F559 - EOA wallet, admin (legit)
 
-- 0x1C93290202424902a5e708b95f4ba23A3F2F3Cee - attacker malicious contract
+- 0x41B856701BB8c24CEcE2Af10651BfAfEbb57cf49 - DAO Maker
 
-- 0x41B856701BB8c24CEcE2Af10651BfAfEbb57cf49 - Exploiter
+- 0x1C93290202424902a5e708b95f4ba23A3F2F3Cee - Exploiter Contract
+
+- 0xd8428836ed2a36bd67cd5b157b50813b30208f50 - Exploiter, Direct Theft
+
+- 0xef9427bf15783fb8e6885f9b5f5da1fba66ef931 - Laundry / TC
+
+- 0x895d7ba5fb4043722214042e43d7fde4c3449307 - TC, donates just to Gitcoin:TC address
 
 - 0x26aa86261c834e837f6be93b2d589724ed5ae644bc8f4b8af2207e6bd70828f9
-
 
 
 
@@ -84,3 +89,60 @@ DAO Maker, an encryption incubator, issued an announcement stating that at aroun
 - legit... so Private Key Compromise?
 - yes
 - https://t.me/c/1372269197/38260
+
+
+
+
+---
+
+
+
+# DAO Maker #2
+
+Date:: September 3rd, 2021
+
+Amount Stolen:: $4,000,000
+
+Tags:: Unprotected init
+
+
+DaoMaker was exploited for ~$4m. They left the `init` function unprotected. The attacker re-initialized the contract with malicious data and then called `emergencyExit` to get away with the funds.
+
+On 3rd of September 2021, around 10:00 PM UTC, DAO Maker, a decentralized finance platform on the Ethereum blockchain that enables startups to raise funds, was hacked for almost $4 million (although the true realized cost to DAO Maker is far greater). A collection of altcoins were stolen; DeRace Token (DERC), Capsule Coin (CAPS) Showcase (SHO) and Coinspaid (CPD). Evidently, the hacker was preparing for the recent crypto market rout as the stolen tokens were swapped to the stablecoin Dai using DEX aggregators 1inch and Metamask. The attacker is still holding the Dai on the same Ethereum blockchain address the stolen tokens were initially sent to.Updated 6/5/22: 300 ERTH was sent to [[Tornado Cash]] by the exploiter via an intermediary address
+
+They left the `init` function unprotected. The attacker re-initialized the contract with malicious data and then called `emergencyExit` to get away with the funds.
+
+Attacker was able to reinitialize the token and empty funds
+
+The source code is not public and some messaging by DaoMaker is questionable
+
+They called the required functions one by one rather than creating a contract to do it in a single transaction. They also used [[1inch]] for a swap.
+
+All of this points to the attacker being not very technical. 
+
+However, the source code of the contract was not public. You need deep technical knowledge to find this vulnerability without the source code. This makes one wonder how the attacker knew about this vulnerability.
+
+
+### On-chain
+
+- 0x2708cace7b42302af26f1ab896111d87faeff92f - Primary Theft
+
+- 0x0b7894e365a0f8a7e3e294ea6562071497da2f83
+
+- 0xd08c13ee849d7e7936a57cc60cecab46c7e3b743
+
+- 0xbe70cf6749d97df054f4edbe51a3c63634f77eba
+
+- 0xa79e633bd0f735abe64657d4a6208efdc674dfb0
+
+
+### URLs
+
+- https://drive.google.com/file/d/1tPRMktnros6ifJLfvQkrT6mAmEJvUufT/view
+- https://www.web3rekt.com/hacksandscams/dao-maker-251
+- https://rekt.news/daomaker-rekt/
+- https://www.rekt.news/daomaker-rekt/
+- https://slowmist.medium.com/intelligence-of-slowmist-zone-dao-makers-vesting-system-was-hacked-5825e4828969
+- https://www.quadrigainitiative.com/casestudy/daomakerinsufficientauthentication.php
+- https://twitter.com/Mudit__Gupta/status/1434059922774237185
+- -https://twitter.com/Mudit__Gupta/status/1434059922774237185
