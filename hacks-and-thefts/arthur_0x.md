@@ -6,11 +6,11 @@ Amount Stolen:: $1,700,000
 
 Laundered Via:: Tornado Cash - March 24th, 2022 - 5x100 8x10 8x1 
 
+Tags:: 🔑 DangerousPassword SquidSquad (Protected)
 
 ---
 
 ## Details
-
 
 Arthur_0x, founder of DeFiance Capital, lost $1.76M as a result of a spear Phishing campaign with a wallet stealing malware
 
@@ -58,3 +58,6 @@ Kenetic Capital - jehan@kenetic.capital is the email that phished Arthur_0x - he
 - https://twitter.com/Arthur_0x/status/1506109296701890563
 - https://twitter.com/Arthur_0x/status/1506167899437686784
 - https://twitter.com/cr0ssETH/status/1506086576601849857
+
+![image](https://github.com/user-attachments/assets/7d6013a8-1c31-491e-a0ab-8aa05b7d0a7c)
+
