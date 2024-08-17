@@ -32,7 +32,6 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 - **OneDev0411** describes himself as a "Full Stack Web Engineer"[7]. He put together an impressive 7,116 contributions through Github in 2022[8].
 
 - **DotNetStar82** describes himself as "A Full-stack .Net & Blockchain Developer". He is "ready to start your project anytime" with an extensive list of skills advertised on his Github[9].
-- About Me
 - Like to make a development document with developing content to use that in the future.
 - Delivering perfect results at any time.
 - Keeping good communication and work on the client's time zone.
@@ -40,6 +39,7 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 - Looking for an opportunity to build a long-term relationship with great clients all over the world.
 
 - **sallamy2580**
+
 
 ## On-chain
 
@@ -52,6 +52,23 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 - 0x9d852e4b9d8b3609e60a43c56233570073f5fdb9
 
 - 0x2cf37b5ce0c7d914ce272ec7a0c2e7cff7faee76
+
+- 0x47c94d97b170e8301b38a2c161eb4a8a65465b93
+
+- 0x0b8a3ef6307049aa0ff215720ab1fc885007393d Gnosis Safe
+
+- 0x1512d031e3f66ac0f8cc3a7bb115d1b48a8aca8d
+- 0x2cf37b5ce0c7d914ce272ec7a0c2e7cff7faee76
+- 0xce4ee0e01bb729c1c5d6d2327bb0f036fa2ce7e2
+- 0xde1ca237291a47d849aac8b2982d0f6912124174
+
+- 0xf851ceccdaa8b0d8f9cba63550cfe591f0d85b6e - ETH, after Pancake Swap w Diff Desty Addy (to BSC via Synapse Bridge)
+- 0x9934b2be6f65f3ebf293de508f2a09fadc53aebb - ETH, after Pancake Swap w Diff Desty Addy (to BSC via Synapse Bridge)
+- 0x51ea97f204c14f7e4a29ac3cbd8e72e0819d7030 - ETH, after Pancake Swap w Diff Desty Addy (to BSC via Synapse Bridge)
+- 0xa517bcde8de6edb898f2552e3783ed57e7150381 - ETH, after Pancake Swap w Diff Desty Addy (to BSC via Synapse Bridge)
+- 0x1b18933675737ac377855a377769d36a9d1276b3 - BSC, after Pancake Swap w Diff Desty Addy (to SideShift)
+- 0xd9c908fbf194463edb7a9152b5cafb54c7abd430 - BSC, after Pancake Swap w Diff Desty Addy (to SideShift)
+- 0x4eaf7b39122614530dec0aa4f5bc5c146732fda6 - BSC, after Pancake Swap w Diff Desty Addy (to SideShift)
 
 
 ## URLs

@@ -58,6 +58,15 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 - 0x418e337774d26365efeaa4700e889a9746330c4e
 - 0x639f61ca3e0e3fdcd654dc4a22579e7382debea3
 
+### Theft (DPRK) Addresses
+
+- 0xcf49bc040f204eed8c5620b5ba325ad0a0cc811c
+- 0xfd152bc1a8d47eb8f87700637c89ad0e7db47182
+- 0xe2ebb51705a45221547dcc10b782801f1b62a95a
+- 0xb125e60890db32596094e874500bfb9913bb4d37
+- 0xa41a6b3996a6cbb75fe2d7c67220d7012bb1487e
+- 0xff7493efe724557ad99b4986d74af75c4f24750d
+
 
 ## URLs
 

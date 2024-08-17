@@ -2,7 +2,9 @@
 
 Amount Stolen:: $14,000,000
 
-Date: July 13, 2021
+Date: December 16 2020
+
+Laundered: July 13, 2021, May 2022
 
 
 - 3FitbPvdcCWsFzJeD1uG2nkkr2U6AQ18Pr - Primary Theft
@@ -43,6 +45,14 @@ Date: July 13, 2021
 - bc1qm5ncjuvm0wcmlcx6dwr9x5leyna8vtr0g6fqrh - Post-Chip Laundry
 - 0x13a7184dab50ee54d798053a5ba80a6e44f7dfaa - TC Withdrawal 800
 - 36pYGr24oCtBmAzbSXQDeKDBhHKDBQd17N - MEXC Deposit
+- 0x504436b4ee84725501cf5953f87274be99965dd3
+- 0xba40550e93554a7ebea65683200f558b58d50a36
+- 0xd24f810e87154db6185404ee49e76eeffa4ed253
+- 0x5ef9d55659c8ec595a356a3340ada6b4910ed819
+
+  
+
+
 
 
 https://x.com/dmalpsar/status/1357360150894551041
