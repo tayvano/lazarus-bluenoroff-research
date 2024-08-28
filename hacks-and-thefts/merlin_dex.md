@@ -51,14 +51,12 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 
 - 0x9d852e4b9d8b3609e60a43c56233570073f5fdb9
 
-- 0x2cf37b5ce0c7d914ce272ec7a0c2e7cff7faee76
 
 - 0x47c94d97b170e8301b38a2c161eb4a8a65465b93
 
 - 0x0b8a3ef6307049aa0ff215720ab1fc885007393d Gnosis Safe
 
 - 0x1512d031e3f66ac0f8cc3a7bb115d1b48a8aca8d
-- 0x2cf37b5ce0c7d914ce272ec7a0c2e7cff7faee76
 - 0xce4ee0e01bb729c1c5d6d2327bb0f036fa2ce7e2
 - 0xde1ca237291a47d849aac8b2982d0f6912124174
 
@@ -69,6 +67,14 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 - 0x1b18933675737ac377855a377769d36a9d1276b3 - BSC, after Pancake Swap w Diff Desty Addy (to SideShift)
 - 0xd9c908fbf194463edb7a9152b5cafb54c7abd430 - BSC, after Pancake Swap w Diff Desty Addy (to SideShift)
 - 0x4eaf7b39122614530dec0aa4f5bc5c146732fda6 - BSC, after Pancake Swap w Diff Desty Addy (to SideShift)
+
+- **0x2cf37b5ce0c7d914ce272ec7a0c2e7cff7faee76**
+
+- 0x3d48818034904cd7a979f7e544a478dd8eac14f6 - BKEX depo address
+
+- 0xee6b664d81263e4d6f084bbd8ec86e24f49d8102 - Smart Contract
+
+- 0xf4a0fc2ff3520e3a0a0725d0f4fc951249527741 - also interacts with 0xee6 contract
 
 
 ## URLs
