@@ -17,6 +17,7 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - May be the work of operators previously responsible for broader APT38 activity
 - Express VPN, occasional leak of Ryugyong-dong IPs
 - Example applications (all designed to appear as legitimate cryptocurrency trading or portfolio management tools): TokenAIS, CryptAIS, CreAI Deck, AlticGO, and Esilet
+- [Aug 2024 | North Korean threat actor Citrine Sleet exploiting Chromium zero-day (CVE-2024-7971)](https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/)
 - [Jul 2024 | TraderTraitor's Recent Social Engineering - Raw Convos, Takeaways](https://twitter-thread.com/t/1810455262320570416)
 - [Jun 2024 | North Korean Government-Backed Groups Targeting Brazil](https://cloud.google.com/blog/topics/threat-intelligence/cyber-threats-targeting-brazil#:~:text=In%20early%202024%2C%20PUKCHONG%20(UNC4899)%20targeted%20cryptocurrency%20professionals%20in%20multiple%20regions)
 - [Jul 2023 | Social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/)
@@ -78,6 +79,7 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - [Dec 2023 | /r/hacking: Obfuscated code a "recruiter" sent me](https://reddit.com/r/hacking/comments/18npzcl/comment/kecsptt/)
 - [Dec 2023 | Blockchain dev's wallet emptied in "job interview" using npm package](https://bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
 - [May 2024 | 针对区块链从业者的招聘陷阱：疑似Lazarus（APT-Q-1）窃密行动分析](https://mp.weixin.qq.com/s/84lUaNSGo4lhQlpnCVUHfQ)
+- [Aug 2024 | North Korea Still Attacking Developers via npm](https://blog.phylum.io/north-korea-still-attacking-developers-via-npm/)
 - https://x.com/dimitribest/status/1782609281897902426 
 - https://x.com/asdasd13asbz/status/1782951380568936481 
 - https://linkedin.com/posts/abhisheksinghsoni_blockchainsecurity-cryptoscamalert-defijobs-activity-7127542067001475073-71xU/
