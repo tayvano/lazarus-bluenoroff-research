@@ -2,6 +2,8 @@
 
 Date:: January 25, 2024
 
+Amount Stolen:: $3,580,000
+
 Tags:: 🎙️ Contagious Interview
 
 ---
@@ -14,6 +16,8 @@ Hackers were able to exploit a vulnerability in the staking contract for WallStr
 The attackers were able to siphon 769 million $WSM from the contract, which was notionally worth around $7 million. However, the token lacks liquidity to support swapping hundreds of millions of tokens without depressing the price, and the token price dropped around 35% in the wake of the attack as the thief began to cash out over several days.
 
 Meanwhile, WSM announced that they would be issuing a new token to replace the stolen tokens, and "renew[ing] the liquidity pool"... somehow.
+
+
 
 # Addresses
 
@@ -70,6 +74,20 @@ Meanwhile, WSM announced that they would be issuing a new token to replace the s
 
 ## URLs
 
+- https://wallstreetmemes.medium.com/important-security-update-fa4dedbc8f25
+- https://coinedition.com/wall-street-memes-plummets-35-as-hacker-sells-over-368m-tokens/
+- https://coinmarketcap.com/currencies/wall-street-memes/
+- https://en.coin-turk.com/wall-street-memes-cryptocurrency-hit-by-hackers-price-plummets/
+- https://etherscan.io/token/0xb62e45c3df611dce236a6ddc7a493d79f9dfadef
 - https://platform.spotonchain.ai/en/entity/1858
-
+- https://quadrigainitiative.com/casestudy/wallstreetmemesstakingcontractexploited.php
+- https://twitter.com/aivaras_i/status/1750773669679292810
+- https://twitter.com/blossomsguru/status/1750843661590352376
+- https://twitter.com/wallstmemes
+- https://twitter.com/wallstmemes/status/1750824813390598260
+- https://twitter.com/wallstmemes/status/1750831024450245076
 - https://web.archive.org/web/20240126043903/https://wallstreetmemes.medium.com/important-security-update-fa4dedbc8f25
+- https://www.cryptotimes.io/2024/01/25/wall-street-memes-faces-coordinated-attack-on-wsm-network/
+- https://www.cryptotimes.io/2024/01/26/wall-street-memes-token-plunges-35-after-hack/
+- https://www.youtube.com/watch?v=QTvMxv50rDY
+- https://www.youtube.com/watch?v=lW60njetwyg

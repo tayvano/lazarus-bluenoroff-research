@@ -45,18 +45,20 @@
 
 # Hacks, Thefts, and Total Amounts Stolen
 
-|           | **Tay's Totals**   | **Tay's Count** | **Chain's Totals** | **Chain's Count** | **TRM's Totals**   | **TRM's Counts** | **UN Totals**      | **UN Counts** |
-| --------- | ------------------ | --------------- | ------------------ | ----------------- | ------------------ | ---------------- | ------------------ | ------------- |
-| 2016      | $1,500,000         | 1               | $1,500,000         | 1                 | 0                  | n/a              | 0                  | 0             |
-| 2017      | $88,640,000        | 7               | $29,000,000        | 4                 | $100,000,000       | n/a              | $88,640,000        | 6             |
-| 2018      | $456,265,000       | 17              | $522,000,000       | 10                | $400,000,000       | n/a              | $447,600,000       | 11            |
-| 2019      | $207,794,000       | 10              | $271,000,000       | 9                 | $200,000,000       | n/a              | $209,272,000       | 8             |
-| 2020      | $305,487,000       | 13              | $300,000,000       | 5                 | $290,000,000       | n/a              | $300,200,000       | 4             |
-| 2021      | $511,580,000       | 16              | $428,800,000       | 9                 | $250,000,000       | n/a              | $175,600,000       | 6             |
-| 2022      | $753,105,000       | 14              | $1,650,000,000     | 15                | $850,000,000       | n/a              | $991,700,000       | 5             |
-| 2023      | $635,727,146       | 23              | $1,000,000,000     | 20                | $600,000,000       | n/a              | $753,019,000       | 17            |
-| 2024      | $402,357,426       | 20              | n/a                | n/a               | n/a                | n/a              | n/a                | n/a           |
-| **TOTAL** | **$3,292,305,572** | **118**         | **$4,202,300,000** | **73**            | **$2,690,000,000** | **n/a**          | **$2,966,031,000** | **57**        |
+|            | Tay's Totals       | Tay's Count | Chain's Totals     | Chain's Count | TRM's Totals       | TRM's Counts | UN Totals          | UN Counts |
+| ---------  | ------------------ | ----------- | ------------------ | ------------- | ------------------ | ------------ | ------------------ | --------- |
+| 2016       | $1,500,000         | 1           | $1,500,000         | 1             | 0                  | n/a          | 0                  | 0         |
+| 2017       | $88,640,000        | 7           | $29,000,000        | 4             | $100,000,000       | n/a          | $88,640,000        | 6         |
+| 2018       | $456,265,000       | 17          | $522,000,000       | 10            | $400,000,000       | n/a          | $447,600,000       | 11        |
+| 2019       | $207,794,000       | 10          | $271,000,000       | 9             | $200,000,000       | n/a          | $209,272,000       | 8         |
+| 2020       | $305,487,000       | 13          | $300,000,000       | 5             | $290,000,000       | n/a          | $300,200,000       | 4         |
+| 2021       | $511,580,000       | 17          | $428,800,000       | 9             | $250,000,000       | n/a          | $175,600,000       | 6         |
+| 2022       | $753,105,000       | 14          | $1,650,000,000     | 15            | $850,000,000       | n/a          | $991,700,000       | 5         |
+| 2023       | $636,164,146       | 24          | $1,000,000,000     | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
+| 2024       | $732,457,426       | 24          | n/a                | n/a           | n/a                | n/a          | n/a                | n/a       |
+| **TOTAL**  | **$3,692,992,572** | **127**     | **$4,202,300,000** | **73**        | **$2,690,000,000** | **n/a**      | **$2,966,031,000** | **57**    |
+
+
 
 ### Chainalysis
 
@@ -66,9 +68,14 @@
 
 ![](./images/chainalysis-2016_2024.png)
 
+
+
 ### TRM
 
 ![](./images/TRM-2017_2023.jpg)
+
+
+
 
 ### United Nations Security Council
 
@@ -77,6 +84,8 @@
 ![](./images/UN_2017_2023_1.png)
 
 ![](./images/UN_2017_2023_2.png)
+
+
 
 # List of Incidents Documented in this Repo
 
@@ -199,9 +208,8 @@
 | 🎙️  | 2023-Dec-12 | [OKX Dex](./hacks-and-thefts/okx_dex.md)                                                         | $2,390,976       |
 | 🎙️  | 2023-Dec-28 | [Upwork Developer Jobs Scams](./hacks-and-thefts/upwork_job_scams.md)                            | $550             |
 | ⭐  | **2023**    | **TOTAL**                                                                                        | **$635,727,146** |
-| | | | |
 | 🎙️  | 2024-Jan-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000       |
-| 🎙️  | 2024-Jan-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   |       |
+| 🎙️  | 2024-Jan-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   |                  |
 | 🎙️  | 2024-Feb-01 | [Linkedin Job Dev Scam](./hacks-and-thefts/linkedin_dev_job_scam.md)                             | $200,000         |
 | 👛  | 2024-Feb-13 | [Duelbits](./hacks-and-thefts/duelbits.md)                                                       | $4,600,000       |
 | 🎙️  | 2024-Feb-27 | [Serenity Shield](./hacks-and-thefts/serenity_shield.md)                                         | $586,000         |
@@ -209,18 +217,25 @@
 | 🎙️  | 2024-Mar-05 | [MurAll](./hacks-and-thefts/murall.md)                                                           | $278,000         |
 | 🎙️  | 2024-Mar-13 | [CloudAI](./hacks-and-thefts/cloudai.md)                                                         | $309,400         |
 | 🎙️  | 2024-Mar-16 | [Wilder World](./hacks-and-thefts/wilder_world.md) (Also Apr 2)                                  | $2,314,583       |
-| 💼  | 2024-Mar-26 | [Munchables](./hacks-and-thefts/munchables.md) ($62m, returned)                                  | $50,000          |
-| 💼  | 2024-Mar-29 | [Solareum](./hacks-and-thefts/solareum.md) ($1.1m, frozen)                                       | $114,813         |
+| 🔑  | 2024-Mar-20 | [Huge March 2024 Theft](./hacks-and-thefts/huge_march_2024_theft.md)                             | $90,000,000      |
+| 💼  | 2024-Mar-26 | [Munchables](./hacks-and-thefts/munchables.md) ($62m, returned)                                  | $62,000,000      |
+| 💼  | 2024-Mar-29 | [Solareum](./hacks-and-thefts/solareum.md) ($1.1m, frozen)                                       | $1,114,813       |
 | 🎙️  | 2024-Apr-11 | [Endblock](./hacks-and-thefts/endblock.md)                                                       | $72,000          |
 | 👛  | 2024-Apr-29 | [Rain](./hacks-and-thefts/rain.md)                                                               | $14,800,000      |
 | 🎙️  | 2024-May-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_ventures.md) (Original compromise Jan 25)        | $1,262,630       |
-| 🔑  | 2022-May-15 | [ALEX Labs](./hacks-and-thefts/alex-labs.md)                                                     | $4,300,000       |
+| 🔑  | 2024-May-15 | [ALEX Labs](./hacks-and-thefts/alex-labs.md)                                                     | $4,300,000       |
 | 🎙️  | 2024-May-28 | [HYVE](./hacks-and-thefts/hyve.md)                                                               |                  |
 | 🎙️  | 2024-May-29 | [SpaceCatch](./hacks-and-thefts/spacecatch.md)                                                   | $200,000         |
 | 👛  | 2024-May-30 | [Bitcoin DMM](./hacks-and-thefts/bitcoin_dmm.md)                                                 | $305,800,000     |
+| 🔑  | 2024-Jun-11 | [Theft from Individual C7](./hacks-and-thefts/c7.md)                                             | $4,200,000       |
 | 👛  | 2024-Jun-22 | [CoinStats](./hacks-and-thefts/coinstats.md)                                                     | $2,300,000       |
 | 🔑  | 2024-Jun-28 | [Theft from Individual C4](./hacks-and-thefts/c4.md)                                             | $400,000         |
-| ⭐  | **2024**    | **TOTAL**                                                                                        | **$$339,207,426**|
+| 👛  | 2024-Jul-18 | [Wazirx](./hacks-and-thefts/wazirx.md)                                                           | $230,000,000     |
+| 🔑  | 2024-Jul-22 | [Theft from Individual I4](./hacks-and-thefts/i4.md)                                             | $1,500,000       |
+| 🎙️  | 2024-Aug-07 | [Nexera](./hacks-and-thefts/nexera.md)                                                           | $1,900,000       |
+| 🔑  | 2024-Aug-16 | [Theft from Individual A4](./hacks-and-thefts/a4.md)                                             | $2,500,000       |
+|     | **2024**    | **TOTAL**                                                                                        | **$732,457,426** |
+
 
 
 

@@ -1,4 +1,4 @@
-# Wazirx
+# WazirX
 
 Date:: July 18th, 2024
 
@@ -8,9 +8,63 @@ Tags:: 👛 Trader Traitor
 
 --
 
-## Details
+
+## Details 
+
+*Note: mostly from [Rekt](https://rekt.news/wazirx-rekt/)*
+
+According to a technical breakdown provided by Mudit Gupta, the attackers began laying the groundwork at least 8 days before the main event, conducting small test transactions to set the stage.
+
+Their target? WazirX's multisig wallet, which had six signatories, five from WazirX and one from Liminal, their custody provider. This was confirmed by WazirX in their preliminary report of the exploit.
+
+Instead of a straightforward drain, the hackers opted for a more insidious approach. They set out to upgrade the multisig wallet to a malicious version under their control.
+
+To achieve this, they needed to overcome WazirX's security measures, which included Ledger Hardware Wallets for signatories and a whitelist policy for destination addresses.
+
+~~The attackers likely compromised two of the four required private keys directly. For the remaining two, they employed signature phishing, tricking signers into approving what appeared to be a normal USDT transfer.~~
+
+This deception extended to Liminal's interface, where WazirX suspects a discrepancy between the displayed data and the actual transaction contents allowed the payload to be replaced.
+
+Minutes before the hack, a legitimate USDT transfer failed, a red flag that went unnoticed.
+
+Two of the four signatures were actually for upgrading the safe to the malicious contract, not for the USDT transfer.
+
+With all pieces in place, the hackers executed their exploit.
+
+Using the two compromised keys and the two phished signatures, they successfully upgraded the multisig to their malicious contract.
+
+Critically, one of the phished signatures came from Liminal Custody, the co-signer responsible for final checks.
+
+This suggests a significant failure in Liminal's verification process, a vulnerability the attackers exploited to devastating effect.
+
+(Note: The attackers used phished signatures for 3/4 and Liminal signed the 4/4 automatically upon request)
 
 
+
+## URLs
+
+- https://rekt.news/wazirx-rekt/
+- https://www.liminalcustody.com/blog/update-on-wazirx-incident/
+- https://twitter.com/0xVazi/status/1813865773213077752
+- https://twitter.com/liminalcustody/status/1813889131338199186
+- https://twitter.com/liminalcustody/status/1813889133968056660
+- https://twitter.com/liminalcustody/status/181388914378266631
+- https://twitter.com/liminalcustody/status/1814280472614383819
+- https://twitter.com/zachxbt/status/1813896332022882686
+- https://twitter.com/zachxbt/status/1813896342894465091
+- https://twitter.com/zachxbt/status/1813896353296322987
+- https://twitter.com/zachxbt/status/1813896362674782375
+- https://twitter.com/zachxbt/status/1813896371659067620
+- https://twitter.com/zachxbt/status/181389637559749017
+- https://twitter.com/tayvano_/status/1813867117240021120
+- https://twitter.com/moo9000/status/1814155634180526303
+- https://twitter.com/tayvano_/status/1813885359174099192
+- https://twitter.com/Mudit__Gupta/status/1813881385800913327
+- https://twitter.com/CyversAlerts/status/1813834131165286464
+- https://twitter.com/WazirXIndia/status/1813843289940058446
+- https://twitter.com/ArkhamIntel/status/1813887774191231337
+
+  
 
 ## On-chain
 
@@ -238,32 +292,6 @@ Prior to the hack, the attackers withdrew GALA for nearly 2 hours straight until
 | 2024-07-18 4:08:23 | 0x9a638c0d1a40086d61584aa8861a4828440045c2 | -78517       | 110,152.30   | $1,992     | GALA (0xd1d2eb1b1e90b638588728b4130137d262c87cae) | 0xc26efc9151e09938135b9b04147c9dce93ec35d52b8e4b0493e360e4022b8b08 |
 | 2024-07-18 4:19:59 | 0x9a638c0d1a40086d61584aa8861a4828440045c2 | -78517       | 31,635.30    | $1,992     | GALA (0xd1d2eb1b1e90b638588728b4130137d262c87cae) | 0xc8f80fa828360c4adc238094630d7afb469c4e2700acc23708dbeff05fac97bd |
 | 2024-07-18 4:22:11 | 0x9a638c0d1a40086d61584aa8861a4828440045c2 | -30000       | 1,635.30     | $761       | GALA (0xd1d2eb1b1e90b638588728b4130137d262c87cae) | 0xb1acdd66083f4cd132c5c5be6b60c341d926751c1fb8eb0e794f9be77bfee57e |
-
-
-
-
-## URLs
-
-- https://www.liminalcustody.com/blog/update-on-wazirx-incident/
-- https://x.com/0xVazi/status/1813865773213077752
-- https://x.com/liminalcustody/status/1813889131338199186
-- https://x.com/liminalcustody/status/1813889133968056660
-- https://x.com/liminalcustody/status/181388914378266631
-- https://x.com/liminalcustody/status/1814280472614383819
-- https://x.com/zachxbt/status/1813896332022882686
-- https://x.com/zachxbt/status/1813896342894465091
-- https://x.com/zachxbt/status/1813896353296322987
-- https://x.com/zachxbt/status/1813896362674782375
-- https://x.com/zachxbt/status/1813896371659067620
-- https://x.com/zachxbt/status/181389637559749017
-
-
-### Analysis
-
-- https://twitter.com/tayvano_/status/1813867117240021120
-- https://twitter.com/moo9000/status/1814155634180526303
-- https://twitter.com/tayvano_/status/1813885359174099192
-- https://twitter.com/Mudit__Gupta/status/1813881385800913327
 
 
 

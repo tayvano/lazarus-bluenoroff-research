@@ -10,13 +10,12 @@ Tags:: 🎙️ Contagious Interview
 
 ---
 
+
 ## Details
 
 On August 7, 2024, Nexera Fundrs experienced an exploit that led to the unauthorized transfer of 47.24 million NXRA tokens from its smart contracts, with approximately 14.75 million tokens sold, valued at around $449,000.
 
-
 The incident occurred when an external actor gained unauthorized access to the credentials for managing Nexera Fundrs’ smart contracts. Utilizing this access, the attacker transferred NXRA tokens from the Fundrs staking contracts on Ethereum and accessed the vesting contract on Avalanche. Despite the breach, the attackers were unable to access NXRA tokens stored in users' wallets. Upon detecting the incident, the Nexera team promptly paused the NXRA token contract, halting all on-chain transactions. They also removed the remaining 32.5 million NXRA tokens from the attacker’s wallet, mitigating further potential losses. The attackers exploited BeaverTail malware, a method consistent with state-backed threat actors, to deploy the attack.
-
 
 ~47.2 million NXRA tokens or approximately $1.9m
 
