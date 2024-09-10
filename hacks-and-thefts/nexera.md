@@ -2,9 +2,7 @@
 
 Date:: August 7th, 2024
 
-Time:: 5:00 UTC
-
-Amount Stolen:: $1.9m
+Amount Stolen:: $1,900,000
 
 Tags:: 🎙️ Contagious Interview
 
@@ -24,6 +22,34 @@ Token price crashed 40%
 Nexera's proxy contract at root of exploit
 
 ~448k USDT to BSC via the StarGate
+
+
+## Persona
+
+Request for Assistance via Linkedin 
+
+> it seems like that you are very technical in the field of smart contract.
+
+> we are going to integrate solidity smart contract functions into chat room page of this project.
+
+> if you can, please help us to analysis current project status and give us technical estimate.
+
+> then we can go with your document and get more funds.
+
+> we will pay $100 for 1 hour project checking & document work
+
+> and we can work hourly from next week.
+
+> https://github.com/newbee96422/MetaWar_ver_4
+
+> This is the project
+
+> Check this please
+
+> If you are interested, please get back to me soon
+
+> https://www.linkedin.com/in/aline-santoro-2a2029215
+
 
 
 ### On-chain
@@ -57,3 +83,6 @@ Nexera's proxy contract at root of exploit
 > https://zapper.xyz/bundle/0xe697949817a45446776376db203c04d31b580a10,0x6bd33c8256f7a37336b2b8fe967321e25540337b?id=0xab5640e604766596c91d77c26b52bdd0e0181b81&label=nexera&icon=%F0%9F%92%B0
 
 —[zachxbt](https://t.me/investigations/148)
+
+
+

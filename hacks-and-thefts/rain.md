@@ -38,3 +38,21 @@ On June 24, 2024, Ethereum was moved to:
 - 0x3751aA0D047173d6dAc0a6bA3363c53EC5097f99
 
 - 0x6B0470c7257537674D75b185CDFC358F2Cee9d87
+
+
+
+On August 7, 2024, 0x6B0470c7257537674D75b185CDFC358F2Cee9d87 depositted into Tornado Cash.
+
+- 11x100 ETH
+- 5x10 ETH
+- 5x1 ETH
+- Total: 1155 ETH in 21 Deposits
+
+
+
+On August 9, 2024, 0x3751aA0D047173d6dAc0a6bA3363c53EC5097f99 depositted into Tornado Cash.
+
+- 7x100 ETH
+- 2x10 ETH
+- 6x1 ETH
+- Total: 726 ETH in 15 Deposits

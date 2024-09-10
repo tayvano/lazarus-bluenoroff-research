@@ -19,9 +19,11 @@
 - [Why is North Korea so Interested in Bitcoin? (2017)](https://www.mandiant.com/resources/blog/why-north-korea-interested-in-bitcoin)
 - [Exposing the Financial Footprints of North Korea’s Hackers](https://www.cnas.org/publications/reports/exposing-the-financial-footprints-of-north-koreas-hackers)
 - [Tracking Internet Use Out of North Korea Reveal The Adaptable and Innovative Ruling Elite](https://www.recordedfuture.com/north-korea-internet-usage/)
-- [Organizational Map of DPRK](https://www.mandiant.com/resources/mapping-dprk-groups-to-government)
-- [Lazarus Group Deep Dive 1](https://blog.bushidotoken.net/2020/02/deep-dive-lazarus-group.html?m=1)
-- [Lazarus Group Deep Dive 2](https://blog.bushidotoken.net/2021/08/the-lazarus-heist-where-are-they-now.html?m=1)
+- [Organizational Map of DPRK Cyber Operations (2022)](https://www.mandiant.com/resources/mapping-dprk-groups-to-government)
+- [Update to the Organizational Map of DPRK Cyber Operations (2023)](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-cyber-structure-alignment-2023)
+- [Update to the Organizational Map of DPRK Cyber Operations (2024)](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
+- [Lazarus Group Deep Dive: 1](https://blog.bushidotoken.net/2020/02/deep-dive-lazarus-group.html?m=1)
+- [Lazarus Group Deep Dive: 2](https://blog.bushidotoken.net/2021/08/the-lazarus-heist-where-are-they-now.html?m=1)
 - [Lazarus: Under The Hood](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf)
 - [Spotlight On Lazarus](https://www.cybersecurity-help.cz/blog/2511.html)
 - [The All-Purpose Sword: North Korea’s Cyber Operations and Strategies (2019)](https://ccdcoe.org/uploads/2019/06/Art_08_The-All-Purpose-Sword.pdf)
@@ -38,7 +40,7 @@
 
 - [https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md)
 - [https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-malware-and-ttps.md](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-malware-and-ttps.md)
-- (https://twitter.com/tayvano_/status/1516225457640787969)(https://twitter.com/tayvano_/status/1516225457640787969)
+- [https://twitter.com/tayvano_/status/1516225457640787969](https://twitter.com/tayvano_/status/1516225457640787969)
 
 
 
