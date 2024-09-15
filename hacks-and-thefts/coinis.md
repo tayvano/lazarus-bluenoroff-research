@@ -31,7 +31,7 @@ In August 2019, the UN Security Council Panel of Experts indicated DPRK-affiliat
 
 - https://medium.com/ionia-io/crypto-the-case-of-hacking-on-the-exchange-in-korea-db912917317c
 
-- https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
+- https://justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
 
 - https://documentcloud.org/documents/4834226-2018-09-06-PARK-COMPLAINT-UNSEALED.html
 

@@ -4,7 +4,7 @@ Date:: November 19th, 2023
 
 Amount Stolen:: $26,000,000 (13,007 ETH)
 
-Tags:: 🔑
+Tags:: ⁉️
 
 ---
 
@@ -28,9 +28,9 @@ WOO_X temporarily paused trading across WOO X to protect users positions from a 
 
 ## URls
 
-- https://www.web3rekt.com/hacksandscams/kronos-research-1809
-- https://www.certik.com/resources/blog/7elJn5O4i4jkLXFySlKwRY-kronos-research-incident-analysis
+- https://web3rekt.com/hacksandscams/kronos-research-1809
+- https://certik.com/resources/blog/7elJn5O4i4jkLXFySlKwRY-kronos-research-incident-analysis
 - https://twitter.com/ResearchKronos/status/1726013733888041376
 - https://twitter.com/zachxbt/status/1726016901770367372
-- https://www.rekt.news/kronos-rekt
-- https://www.coindesk.com/markets/2023/11/28/crypto-trading-firm-kronos-research-offers-10-bounty-to-hacker/
+- https://rekt.news/kronos-rekt
+- https://coindesk.com/markets/2023/11/28/crypto-trading-firm-kronos-research-offers-10-bounty-to-hacker/

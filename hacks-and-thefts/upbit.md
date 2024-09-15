@@ -4,8 +4,10 @@ Date:: November 27th, 2019
 
 Amount Stolen:: $48,500,000 (342,000 ETH)
 
-Tags:: CEX Hack, Private Key Compromise, "Inside Job"
+Tags:: 👛CEX Hack, Private Key Compromise, "Inside Job"
 
+
+---
 
 
 ## Details
@@ -41,14 +43,14 @@ In response, Upbit immediately moved all of its funds to cold wallets and also d
 - https://cryptoxdirectory.com/hacked_2019
 - https://hacked.slowmist.io/en/?c=Exchange
 - https://wsj.com/articles/two-chinese-nationals-indicted-in-alleged-north-korean-bitcoin-hack-11583170682
-- https://www.coindesk.com/upbit-is-the-sixth-major-crypto-exchange-hack-of-2019
-- https://www.heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat
-- https://www.quadrigainitiative.com/casestudy/upbithotwallethack.php
-- https://www.thecoinrepublic.com/2020/01/21/south-korean-government-under-fire-as-3-more-crypto-platforms-hacked/
-- https://www.web3rekt.com/hacksandscams/upbit-555
-- https://www.youniversitytv.com/crypto-blockchain/korean-self-regulatory-crypto-industry-body-under-question-after-12-crypto-exchanges-approved/
+- https://coindesk.com/upbit-is-the-sixth-major-crypto-exchange-hack-of-2019
+- https://heritage.org/asia/report/north-korean-cyberattacks-dangerous-and-evolving-threat
+- https://quadrigainitiative.com/casestudy/upbithotwallethack.php
+- https://thecoinrepublic.com/2020/01/21/south-korean-government-under-fire-as-3-more-crypto-platforms-hacked/
+- https://web3rekt.com/hacksandscams/upbit-555
+- https://youniversitytv.com/crypto-blockchain/korean-self-regulatory-crypto-industry-body-under-question-after-12-crypto-exchanges-approved/
 - https://cointelegraph.com/news/upbit-hack-stolen-eth-worth-millions-on-the-move-to-unknown-wallets
 - https://cointelegraph.com/news/crypto-exchange-upbit-finishes-security-update-in-response-to-2019-hack
 - https://blog.chainalysis.com/reports/lazarus-group-kucoin-exchange-hack/
-- http://assetforfeiturelaw.us/wp-content/uploads/2020/08/113-Virtual-Currency-Accounts-Affidavit.pdf
-- https://www.hackread.com/upbit-cryptocurrency-exchange-hacked-ether-stolen/
+- https://assetforfeiturelaw.us/wp-content/uploads/2020/08/113-Virtual-Currency-Accounts-Affidavit.pdf
+- https://hackread.com/upbit-cryptocurrency-exchange-hacked-ether-stolen/

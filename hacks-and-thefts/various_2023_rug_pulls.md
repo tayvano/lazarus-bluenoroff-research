@@ -1,6 +1,9 @@
 # Various 2023 Rug Pulls
 
-IT Workers
+Tags:: 🎙️ Contagious Interview?
+
+
+---
 
 
 ## On-Chain 
@@ -50,7 +53,7 @@ https://wearecultdao.medium.com/0xblock-exploited-5da3d0bbc00e#:~:text=It%20is%2
 - 0x8a60f91178da2F9de3D7a825380B7CE03933724F - "ARBI Token Rug Pull" on Etherscan
 - 0x6cd36b9459dfef332479d50bec129932285a1656 - receives from [ARBI Token Rug Pull](0x8a60f91178da2F9de3D7a825380B7CE03933724F) and [Cult DAO Deployer](0x0d31a41c93e483a69e10d067e353a9c489962f67). Sends to [LunaFi Hacker](0x0a0ed79f9fbbcc6b44a054d2608031818e391b3b)
 - 0x86d49a933d1f6aa1218dfa91250733d9818e36fa
-- https://www.coindesk.com/tech/2023/03/02/arbitrum-dex-arbiswap-rug-pulls-users-for-over-100k/
+- https://coindesk.com/tech/2023/03/02/arbitrum-dex-arbiswap-rug-pulls-users-for-over-100k/
 
 
 

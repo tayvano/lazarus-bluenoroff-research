@@ -6,12 +6,12 @@ Amount Stolen:: $275,000,000
 
 Time:: 06:49:18 PM +UTC
 
-Tags:: Singapore, CEX Hack, DPRK, Wasabi, Tornado Cash, ChipMixer
+Laundered Via:: Wasabi, Tornado Cash, ChipMixer
 
+Tags:: 👛 
 
 
 ---
-
 
 
 ## Details
@@ -48,6 +48,7 @@ Harvest Finance, leading to speculation that Lazarus Group may have carried out 
 
 
 ## On-Chain
+
 - 15mC7zKbLyErSKzGRHpy6gyqS7GyRpWjEi
 - 0x00600423c03ec4b46F9b8a28c66d42bdd1b19c36
 - 0x1a98fcebebfea4ffbded5bf5e4650d71344F52ab
@@ -78,12 +79,12 @@ Harvest Finance, leading to speculation that Lazarus Group may have carried out 
 
 Interstingly, DPRK set up their own relayers for their first forray into using Tornado Cash and thus their withdrawals are insanely easy to find as they are the only withdrawals for these relayers lol.
 
-Relayers / Callers:
+**Relayers / Callers:**
 
 - 0x23156749a0acefc8f07b9954d181d50084c1519e
 - 0x82e6b31b0fe94925b9cd1473d05894c86f277398
 
-Withdrawals:
+**Withdrawals:**
 
 - 0xe2667fdd51e97d68d45acfc62447326cff7ba667
 - 0x0f8fe1792bde3df726dd6852853a54e98f39e16a
@@ -128,11 +129,11 @@ Withdrawals:
 - https://blog.chainalysis.com/reports/kucoin-hack-2020-defi-uniswap/
 - https://research.oxt.me/china-and-north-korea/2/preview
 - https://weijiek.medium.com/deanonymising-the-kucoin-hacker-418fa5e9911d
-- https://www.breadcrumbs.app/reports/243
-- https://www.coindesk.com/markets/2020/09/26/over-280m-drained-in-kucoin-crypto-exchange-hack/
-- https://www.kucoin.com/news/en-kucoin-security-incident-update
-- https://www.quadrigainitiative.com/casestudy/kucoinhotwalletbreach.php
-- https://www.reuters.com/article/usnorthkorea-sanctions-cyber/u-n-experts-point-finger-atnorth-korea-for-281-million-cyber-theft-kucoin-likely-victim-idUSKBN2AA00Q
-- https://www.web3rekt.com/hacksandscams/kucoin-460
-- https://www.cnas.org/publications/reports/following-the-crypto
+- https://breadcrumbs.app/reports/243
+- https://coindesk.com/markets/2020/09/26/over-280m-drained-in-kucoin-crypto-exchange-hack/
+- https://kucoin.com/news/en-kucoin-security-incident-update
+- https://quadrigainitiative.com/casestudy/kucoinhotwalletbreach.php
+- https://reuters.com/article/usnorthkorea-sanctions-cyber/u-n-experts-point-finger-atnorth-korea-for-281-million-cyber-theft-kucoin-likely-victim-idUSKBN2AA00Q
+- https://web3rekt.com/hacksandscams/kucoin-460
+- https://cnas.org/publications/reports/following-the-crypto
 - https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/BlockchainAnalysisEES.pdf?mtime=20220216090240&focal=none

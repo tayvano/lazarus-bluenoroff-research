@@ -34,7 +34,7 @@ The private key of the hot storage was compromised and was released online. Sinc
 
 - https://coinsecure.in/
 - https://cryptoxdirectory.com/coinsecure
-- https://www.financemagnates.com/cryptocurrency/news/indian-bitcoin-exchangecoinsecure-claims-%E2%80%8E3-5-million-%E2%80%8Elost-insider-hack/ 
-- https://www.zdnet.com/article/coinsecure-not-so-secure-millions-in-cryptocurrencystolen-cso-branded-as-thief/ 
-- https://www.quadrigainitiative.com/casestudy/coinsecureexchangehack.php
+- https://financemagnates.com/cryptocurrency/news/indian-bitcoin-exchangecoinsecure-claims-%E2%80%8E3-5-million-%E2%80%8Elost-insider-hack/ 
+- https://zdnet.com/article/coinsecure-not-so-secure-millions-in-cryptocurrencystolen-cso-branded-as-thief/ 
+- https://quadrigainitiative.com/casestudy/coinsecureexchangehack.php
 - https://cointelegraph.com/news/indian-crypto-exchange-reports-loss-of-35-mln-in-btc-blames-exec

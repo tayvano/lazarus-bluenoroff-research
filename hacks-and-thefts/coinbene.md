@@ -100,9 +100,9 @@ The wallet address took part in this money laundering process
 ## URLs
 
 - https://zdnet.com/article/cryptocurrency-platforms-dragonex-and-coinbene-disclose-hacks/ 
-- https://www.quadrigainitiative.com/casestudy/coinbenehackcoverup.php
+- https://quadrigainitiative.com/casestudy/coinbenehackcoverup.php
 - https://peckshield.medium.com/coinbene-incident-investigation-report-6d4a3ed3b715
-- https://www.web3rekt.com/hacksandscams/coinbene-638
+- https://web3rekt.com/hacksandscams/coinbene-638
 - https://cryptoxdirectory.com/coinbene
-- https://www.coinbene.com
+- https://coinbene.com
 - https://cointelegraph.com/news/over-100-million-missing-coinbene-claims-maintenance-a-month-of-questions-point-toward-a-hack

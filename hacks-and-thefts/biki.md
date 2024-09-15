@@ -8,6 +8,7 @@ Time:: 00:08:23
 
 Tags:: CEX Hack, Sim Swap
 
+---
 
 
 ## Details
@@ -23,17 +24,15 @@ BiKi.com will bear the full amount of the loss
 The Chinese security service provider 360 Security has issued a warning that a large number of crypto exchanges have been targeted by the North Korean hacker group Lazarus and that the number is still rising after the recent hacks of crypto exchanges DragonEx, Etbox and BiKi.
 
 
-
-
 ## On-Chain
 
 
 
 ## URLs
 
-- https://www.biki.com/
+- https://biki.com/
 - https://cryptoxdirectory.com/biki
 - https://bitcoinmagazine.com/articles/lazarus-hacker-group-continues-target-crypto-using-faked-trading-software
-- https://www.quadrigainitiative.com/casestudy/bikipasswordtampering.php
-- https://www.web3rekt.com/hacksandscams/biki-639
+- https://quadrigainitiative.com/casestudy/bikipasswordtampering.php
+- https://web3rekt.com/hacksandscams/biki-639
 

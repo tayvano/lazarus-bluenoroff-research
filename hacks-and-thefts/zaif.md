@@ -11,11 +11,7 @@ Attribution: High Confidence
 Time: 8:00-10:00 UTC
 
 
-
-## On-Chain
-
-Zaif Hacker: 1FmwHh6pgkf4meCMoqo8fHH3GNRF571f9w
-
+---
 
 
 ## Details 
@@ -41,7 +37,7 @@ All services were resumed, and the exchange refunded the users their stolen hold
 
 https://cryptobriefing.com/japanese-crypto-exchange-sues-binance-role-63-million-bitcoin-hack/
 
-https://www.coindesk.com/japan-cryptocurrency-exchange-zaif-fisco-binance-laundering-hack
+https://coindesk.com/japan-cryptocurrency-exchange-zaif-fisco-binance-laundering-hack
 
 Seven counts have been lanced at Binance in the United States District Court of California concerning the hack in 2018.
 
@@ -64,14 +60,17 @@ The case filing also cites that in 2019, the exchange facilitated the laundering
 The amount of damages is relatively small for Binance, which is reported to have crossed $1 billion in cumulative profits within the first three years of its launch. However, the questions raised are troubling for cryptocurrency users.
 
 
+## On-Chain
+
+Zaif Hacker: 1FmwHh6pgkf4meCMoqo8fHH3GNRF571f9w
+
+
+
 ## URLs
 
-- https://www.quadrigainitiative.com/casestudy/zaifhackingtheft.php
-
-- https://www.coindesk.com/crypto-exchange-zaif-hacked-in-60-million-6000-bitcoin-theft
-
+- https://quadrigainitiative.com/casestudy/zaifhackingtheft.php
+- https://coindesk.com/crypto-exchange-zaif-hacked-in-60-million-6000-bitcoin-theft
 - https://zaif.jp/
-
 - https://cryptoxdirectory.com/zaif
 
 

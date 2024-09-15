@@ -7,9 +7,7 @@ Amount Stolen:: $91,000,000 (107 BTC, 9M TRON, 11M XRP, $60M in ERC-20s)
 Tags:: "Inside Job"
 
 
-
 ---
-
 
 
 ## Details
@@ -23,6 +21,8 @@ As a result, approximately $91.35M in cryptoassets was laundered At the end of t
 They immediately swapped stolen USDT-on-TRON to TRON within a matter of minutes using a DEX The quick swaps may be a result of lessons learned from the Poly.Network attack, in which stolen USDT was frozen almost immediately by Tether. The hacker also converted ERC-20 tokens into native ETH at a rapid pace 
 
 Whoever hacked Liquid seems to have had a thorough plan in place prior to acting, and is executing that plan with ruthless efficiency.
+
+
 
 ## On-Chain
 
@@ -58,6 +58,8 @@ Whoever hacked Liquid seems to have had a thorough plan in place prior to acting
 - 16EjYD8gUJLAUvgzRhU9uwFh9zq1efLpzm
 - 14NXJVqJbZg1Li2eruq8CdT38QenUeX13H
 
+
+
 ### TC Outputs:
 - 0xd8ce2fe2ba0092eb40c58b9e6b2e6e74a2542a1d
 - 0x3171a131559ab3916334e352579cebf8357126d3
@@ -72,14 +74,15 @@ Whoever hacked Liquid seems to have had a thorough plan in place prior to acting
 - 0x24d97e138afb957ed2d752b93e48a6e00b4a6723
 - 0x6ec415c5ac76393594384f24bc870bb1ce571b54
 
-## URLs
 
-- https://www.trmlabs.com/post/liquid-hack-the-second-time-around
-- https://www.quadrigainitiative.com/casestudy/liquidwarmwalletliquidated.php
-- https://www.coindesk.com/business/2021/08/21/liquid-exchange-hacker-covers-tracks-by-sending-20m-to-eth-mixer/
+
+## URLs
+- https://trmlabs.com/post/liquid-hack-the-second-time-around
+- https://quadrigainitiative.com/casestudy/liquidwarmwalletliquidated.php
+- https://coindesk.com/business/2021/08/21/liquid-exchange-hacker-covers-tracks-by-sending-20m-to-eth-mixer/
 - https://medium.com/sentinel-protocol/tracking-the-stolen-assets-from-the-liquid-exchange-hacking-acd94e01c762
-- https://www.web3rekt.com/hacksandscams/liquid-265
+- https://web3rekt.com/hacksandscams/liquid-265
 - https://twitter.com/Liquid_Global/status/1428208832463794179
 - https://blog.liquid.com/warm-wallet-incident
-- https://www.coindesk.com/business/2022/03/29/ex-employee-claims-liquid-global-exchange-scapegoated-her-for-90m-hack/
+- https://coindesk.com/business/2022/03/29/ex-employee-claims-liquid-global-exchange-scapegoated-her-for-90m-hack/
 - attribution: https://go.chainalysis.com/rs/503-FAP-074/images/Crypto-Crime-Report-2022.pdf

@@ -12,7 +12,7 @@ Amount Stolen: $200,000
 
 > "On August 24th, 2020, "there were no withdrawals processed from Coinberry's hot wallet for about 17 hours." It "[h]asn't been publicly reported yet. 8.33 BTC stolen from Coinberry's hot wallet & sent to 1KcTk7kJMjYaCV3FXo5bzpjaZs2aK18ntz. I guess they can't say they've never been hacked anymore."
 
-- [Source](https://www.quadrigainitiative.com/casestudy/nothinghappenedatcoinberry.php)
+- [Source](https://quadrigainitiative.com/casestudy/nothinghappenedatcoinberry.php)
 
 > "So another Canadian exchange appears to have been hacked a couple months ago. Hasn't been publicly reported yet. 8.33 BTC stolen from Coinberry's hot wallet & sent to 1KcTk7kJMjYaCV3FXo5bzpjaZs2aK18ntz. I guess they can't say they've never been hacked anymore #coinberry #quadriga"
 
@@ -73,11 +73,11 @@ Amount Stolen: $200,000
 ## URLs
 
 - https://financialpost.com/fp-finance/cryptocurrency/software-glitch-allowed-users-to-acquire-3-million-in-bitcoin-without-paying-coinberry-alleges-in-lawsuit
-- https://www.coindesk.com/business/2022/09/08/canadian-crypto-exchange-coinberry-files-lawsuit-against-50-users-after-losing-120-btc/
+- https://coindesk.com/business/2022/09/08/canadian-crypto-exchange-coinberry-files-lawsuit-against-50-users-after-losing-120-btc/
 - https://biz.crast.net/coinberry-loses-3m-due-to-software-glitch-files-suit-for-recovery/
 - https://news.bitcoin.com/canadian-crypto-exchange-sues-users-for-return-of-bitcoin-misappropriated-during-software-glitch/
 - https://protos.com/glitch-sees-users-pinch-3m-in-bitcoin-from-crypto-exchange-coinberry__trashed/
 - https://techstory.in/coinberry-sued-its-users-for-stealing-bitcoins/
 - https://crypto.news/coinberry-crypto-exchange-files-lawsuit-after-losing-3-million-in-software-glitch/
 - https://cryptopotato.com/coinberrys-software-blunder-costs-3m-in-bitcoin-report/
-- https://www.quadrigainitiative.com/casestudy/nothinghappenedatcoinberry.php
+- https://quadrigainitiative.com/casestudy/nothinghappenedatcoinberry.php

@@ -185,20 +185,14 @@ Similarly the team does not recall and has not identified receiving one of the i
 November 15, 2023:
 
 - IP 85.255.176.177
-
 - en-CA,en;q=0.9
-
 - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-
 - Timezone: America/Toronto
 
 
 ## URLs
 
 - https://twitter.com/unoreinsure/status/1724537541267697878
-
-- https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation
-
-- https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked
-
-- https://www.ic3.gov/Media/Y2023/PSA231018
+- https://justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation
+- https://zetter-zeroday.com/p/how-north-korean-workers-tricked
+- https://ic3.gov/Media/Y2023/PSA231018

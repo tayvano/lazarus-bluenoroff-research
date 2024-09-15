@@ -47,7 +47,7 @@ The Founder/CEO and project spoke about the exploit a bit on Twitter/X, though g
 – [X:SuperGeniusEth (CEO/Founder) - May 5, 2025 17:07 UTC](https://twitter.com/SuperGeniusEth/status/1787167358706196758)
 
 
-> It turns out that the http://GNUS.ai contract wasn't hacked/compromised.
+> It turns out that the https://GNUS.ai contract wasn't hacked/compromised.
 > The Axelar Management contract was duplicated on the FTM network. The deployer wallet may have been compromised so that it could be deployed to the same contract address.  
 > But I'm also analyzing everything to make sure there isn't a way to deploy on Fantom using an exploit similar to this:
 > https://medium.com/@solidity101/100daysofsolidity-081-deploying-different-contracts-at-the-same-address-a-solidity-deep-dive-3a954d0c3709#:~:text=To%20deploy%20different%20contracts%20at,address%20for%20multiple%20contract%20deployments. 

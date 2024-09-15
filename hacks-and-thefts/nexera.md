@@ -48,16 +48,14 @@ Request for Assistance via Linkedin
 
 > If you are interested, please get back to me soon
 
-> https://www.linkedin.com/in/aline-santoro-2a2029215
+> https://linkedin.com/in/aline-santoro-2a2029215
 
 
 
 ### On-chain
 
 - Burns tokens after: https://etherscan.io/tx/0xbb89f990344d0d0bd7dea0676ddd58089c2d4ebd398bde1965f14057eb3b5154
-
 - 0xe697949817a45446776376db203c04d31b580a10 - Sitting
-
 - 0x6bd33c8256f7a37336b2b8fe967321e25540337b - Sitting
 
 
@@ -65,13 +63,9 @@ Request for Assistance via Linkedin
 ### URLs
 
 - https://github.com/newbee96422/MetaWar_ver_4
-
-- https://www.linkedin.com/in/aline-santoro-2a2029215
-
+- https://linkedin.com/in/aline-santoro-2a2029215
 - https://x.com/nexera_official/status/1821079381831512315
-
 - https://archive.ph/SFeBd
-
 - https://t.me/investigations/148
 
 

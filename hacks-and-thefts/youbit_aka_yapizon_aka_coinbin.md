@@ -12,6 +12,7 @@ Date:: December 19th, 2017
 
 Amount Stolen:: $2,650,000
 
+---
 
 ## Details
 
@@ -29,6 +30,9 @@ Youbit said that it beefed up its security policies following the April hack and
 
 According to the announcement, the exchange has marked down customer assets to 75 percent of their market value, and customers can withdraw them immediately. The company said it will repay the remainder of the funds at the conclusion of the bankruptcy proceedings, by which time it will have filed an insurance claim and sold the company’s operating rights.
 
+
+
+
 ### Attribution
 
 As far as I can tell, only the "17% of assets" aka the December 2017 hack is attributed to DPRK.
@@ -43,6 +47,6 @@ In the 2023 UN Report, they attributed both the April and December hacks to DPRK
 
 - https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf
 
-- https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- https://justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
 - Page 28 of [UN Security Council's North Korea 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf)

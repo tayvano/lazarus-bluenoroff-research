@@ -46,19 +46,17 @@ In early 2019, US$17 million in Ethereum and ERC-20 tokens were stolen from the 
 
 
 
-
-
 ## URLs
 
 - https://peckshield.medium.com/follow-the-money-tracking-the-asset-movements-of-cryptopia-hack-1485ff202985
 - [https://twitter.com/Cryptopia_NZ/status/1085084168852291586](https://twitter.com/Cryptopia_NZ/status/1085084168852291586)
-- https://www.coindesk.com/markets/2019/01/15/new-zealand-crypto-exchange-cryptopia-goes-offline-citing-hack/
-- https://www.coindesk.com/markets/2019/01/16/new-zealand-police-keeping-open-mind-on-cryptopia-hack/
-- https://www.coindesk.com/markets/2019/02/27/hacked-exchange-cryptopia-discloses-estimate-of-stolen-crypto/
-- https://www.coindesk.com/markets/2019/03/20/cryptopia-exchange-resumes-crypto-trading-amid-banking-issues/
-- https://www.coindesk.com/markets/2019/05/15/hacked-cryptocurrency-exchange-cryptopia-goes-into-liquidation/
-- https://www.coindesk.com/markets/2019/05/27/hacked-crypto-exchange-cryptopia-files-for-us-bankruptcy-protection/
-- https://www.coindesk.com/markets/2019/08/21/cryptopia-exchange-kept-users-cryptos-in-pooled-wallet-liquidator/
-- https://www.grantthornton.co.nz/cryptopia-limited/https://twitter.com/cryptopia_n- 
-- https://www.quadrigainitiative.com/casestudy/cryptopiaexchangeerc20hack.php
-- https://www.web3rekt.com/hacksandscams/cryptopia-690
+- https://coindesk.com/markets/2019/01/15/new-zealand-crypto-exchange-cryptopia-goes-offline-citing-hack/
+- https://coindesk.com/markets/2019/01/16/new-zealand-police-keeping-open-mind-on-cryptopia-hack/
+- https://coindesk.com/markets/2019/02/27/hacked-exchange-cryptopia-discloses-estimate-of-stolen-crypto/
+- https://coindesk.com/markets/2019/03/20/cryptopia-exchange-resumes-crypto-trading-amid-banking-issues/
+- https://coindesk.com/markets/2019/05/15/hacked-cryptocurrency-exchange-cryptopia-goes-into-liquidation/
+- https://coindesk.com/markets/2019/05/27/hacked-crypto-exchange-cryptopia-files-for-us-bankruptcy-protection/
+- https://coindesk.com/markets/2019/08/21/cryptopia-exchange-kept-users-cryptos-in-pooled-wallet-liquidator/
+- https://grantthornton.co.nz/cryptopia-limited/https://twitter.com/cryptopia_n- 
+- https://quadrigainitiative.com/casestudy/cryptopiaexchangeerc20hack.php
+- https://web3rekt.com/hacksandscams/cryptopia-690

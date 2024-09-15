@@ -55,7 +55,7 @@ https://x.com/anciliainc/status/1795888012720746588
 
 "Myron Manuirirangi" - persona who initially reached out to team.
 
-"Eduardo Morales Cortes" - https://github.com/eduales99/eduales99 - https://www.linkedin.com/in/eduardo-morales-cort%C3%A9s-3263761a2/ - also a member of the malicous github and a developer Myron wanted to introduce the team to.
+"Eduardo Morales Cortes" - https://github.com/eduales99/eduales99 - https://linkedin.com/in/eduardo-morales-cort%C3%A9s-3263761a2/ - also a member of the malicous github and a developer Myron wanted to introduce the team to.
 
 Day 1: "Myron" contacted two technical members of the team via Linkedin separately to ask for development work to be done for him.
 

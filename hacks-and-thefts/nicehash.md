@@ -25,7 +25,9 @@ It was determined that on December 4th, 2017, a conspirator sent a spear-phishin
 
 > “The threat actor performed a technically flawless compromise of the NiceHash systems, and with military precision executed the transfer of bitcoins. This attack was targeted, and the threat actor was highly skilled, organized and acted with high speed”, commented Ondrej Krehel, CEO of LIFARS.
 
-- [NiceHash security breach investigation update](https://web.archive.org/web/20181113075633/https://www.nicehash.com/news/niceHash-security-breach-investigation-update)
+- [NiceHash security breach investigation update](https://web.archive.org/web/20181113075633/https://nicehash.com/news/niceHash-security-breach-investigation-update)
+
+
 
 ## Attribution
 
@@ -34,6 +36,8 @@ It was determined that on December 4th, 2017, a conspirator sent a spear-phishin
 - Page 28 of [UN Security Council's North Korea 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf)
 
 - This [comprehensive report on the incident](https://lazarus.day/media/post/files/2023/12/22/Lessons-Learned-from-64-Million-Dollar-Cryptocurrency-Hack-Case-Study.pdf)
+
+
 
 ## On-Chain
 
@@ -50,10 +54,10 @@ It was determined that on December 4th, 2017, a conspirator sent a spear-phishin
 - https://krebsonsecurity.com/2017/12/former-botmaster-darkode-founder-is-cto-of-hacked-bitcoin-mining-firm-nicehash/
 - https://lazarus.day/media/post/files/2023/12/22/Lessons-Learned-from-64-Million-Dollar-Cryptocurrency-Hack-Case-Study.pdf
 - https://nicehash.com/news/niceHash-security-breach-investigation-update 
-- https://web.archive.org/web/20181113075633/https://www.nicehash.com/news/niceHash-security-breach-investigation-update
-- https://www.cnbc.com/2017/12/07/bitcoin-stolen-in-hack-on-nicehash-cryptocurrencymining-marketplace.html 
-- https://www.coindesk.com/62-million-gone-cryptocurrencymining-market-nicehash-hacked/ 
-- https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
-- https://www.quadrigainitiative.com/casestudy/nicehashexchangehack.php
-- https://www.reddit.com/r/NiceHash/comments/7i0s6o/official_press_release_statement_by_nicehash/
-- https://www.wikitribune.com/story/2017/12/11/technology/nicehash-ceo-speaks-outafter-60m-cryptocurrency-hack/27212/ 
+- https://web.archive.org/web/20181113075633/https://nicehash.com/news/niceHash-security-breach-investigation-update
+- https://cnbc.com/2017/12/07/bitcoin-stolen-in-hack-on-nicehash-cryptocurrencymining-marketplace.html 
+- https://coindesk.com/62-million-gone-cryptocurrencymining-market-nicehash-hacked/ 
+- https://justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- https://quadrigainitiative.com/casestudy/nicehashexchangehack.php
+- https://reddit.com/r/NiceHash/comments/7i0s6o/official_press_release_statement_by_nicehash/
+- https://wikitribune.com/story/2017/12/11/technology/nicehash-ceo-speaks-outafter-60m-cryptocurrency-hack/27212/ 

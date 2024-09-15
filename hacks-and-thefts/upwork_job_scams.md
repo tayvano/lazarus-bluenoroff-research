@@ -21,32 +21,19 @@ The following is related to exploits with SPooCK, OKX Dex, UnoRe DAO, Arbi, Terr
 
 ## URLs
 
-https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/
-
-victim: https://x.com/muratctp/status/1739224777955369420
-
-https://www.upwork.com/freelance-jobs/apply/Fix-bugs-and-resopnsiveness-website_~01e7bfe7f458e327b1/
-
-https://github.com/vadym110/web3_nextjs
-
-https://github.com/vadym110/web3_nextjs_backend
-
-calls to: https://urlscan.io/domain/flickthebean.onrender.com
-
-from api calls: https://urlscan.io/result/5d971262-b610-4a57-8ede-b639b44ab1a3
-
-https://github.com/vitalii-nesenenko
-
-https://github.com/vitalii-nesenenko/web3-coin-flip-game
-
-https://github.com/saadfrhan/fullstack-nextjs-marketplace.git
-
-https://vxtwitter.com/vidor_solflare/status/1721986206479589597
-
-Google search term: "pythonDev110" git
-
-https://dragon.hybrid-analysis.com/sample/e27a5b7818be3a5942d57c0984f904f3cdd5c9d3500ca85f4c59498eb01c901c
-
-https://urlscan.io/search/#domain:%22flickthebean.onrender.com%22
+- https://bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/
+- victim: https://x.com/muratctp/status/1739224777955369420
+- https://upwork.com/freelance-jobs/apply/Fix-bugs-and-resopnsiveness-website_~01e7bfe7f458e327b1/
+- https://github.com/vadym110/web3_nextjs
+- https://github.com/vadym110/web3_nextjs_backend
+- calls to: https://urlscan.io/domain/flickthebean.onrender.com
+- from api calls: https://urlscan.io/result/5d971262-b610-4a57-8ede-b639b44ab1a3
+- https://github.com/vitalii-nesenenko
+- https://github.com/vitalii-nesenenko/web3-coin-flip-game
+- https://github.com/saadfrhan/fullstack-nextjs-marketplace.git
+- https://vxtwitter.com/vidor_solflare/status/1721986206479589597
+- Google search term: "pythonDev110" git
+- https://dragon.hybrid-analysis.com/sample/e27a5b7818be3a5942d57c0984f904f3cdd5c9d3500ca85f4c59498eb01c901c
+- https://urlscan.io/search/#domain:%22flickthebean.onrender.com%22
 
 

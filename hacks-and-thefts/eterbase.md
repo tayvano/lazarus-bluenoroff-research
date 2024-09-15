@@ -33,8 +33,8 @@ After the hack, Eterbase stopped its operations and later filed for bankruptcy. 
 
 ## URLs
 
-- https://www.web3rekt.com/hacksandscams/eterbase-470
+- https://web3rekt.com/hacksandscams/eterbase-470
 
-- https://www.reuters.com/investigates/special-report/fintech-crypto-binance-dirtymoney/
+- https://reuters.com/investigates/special-report/fintech-crypto-binance-dirtymoney/
 
-- https://www.quadrigainitiative.com/casestudy/eterbasehotwalletsbreached.php
+- https://quadrigainitiative.com/casestudy/eterbasehotwalletsbreached.php

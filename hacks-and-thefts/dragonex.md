@@ -75,9 +75,9 @@ Employing the HODL technique, these hackers waited to sell a large proportion of
 - https://cryptoxdirectory.com/dragonex
 - https://news.8btc.com/dragonex-hacked-investigation-is-undergoing
 - https://tokenpost.com/Crypto-exchange-DragonEx-lost-7M-in-hack-announces-compensation-plan-1568
-- https://www.quadrigainitiative.com/casestudy/dragonexhackingtheft.php
-- https://www.secrss.com/articles/9511
-- https://www.theblockcrypto.com/linked/17243/dragonex-crypto-exchange-hacked
-- https://www.web3rekt.com/hacksandscams/dragonex-641
-- https://www.cnas.org/publications/reports/following-the-crypto
+- https://quadrigainitiative.com/casestudy/dragonexhackingtheft.php
+- https://secrss.com/articles/9511
+- https://theblockcrypto.com/linked/17243/dragonex-crypto-exchange-hacked
+- https://web3rekt.com/hacksandscams/dragonex-641
+- https://cnas.org/publications/reports/following-the-crypto
 - https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/BlockchainAnalysisEES.pdf?mtime=20220216090240&focal=none

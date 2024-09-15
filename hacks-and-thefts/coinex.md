@@ -93,11 +93,11 @@ The cryptocurrency exchange CoinEx suffered a hacker attack. The cause of the in
 
 ## URLs
 
-- https://www.web3rekt.com/hacksandscams/coinex-1745
+- https://web3rekt.com/hacksandscams/coinex-1745
 - https://twitter.com/coinexcom/status/1701662057496731975
 - https://twitter.com/coinexcom/status/1701888744872354128
 - https://twitter.com/coinexcom/status/1702333287816171877
-- https://www.elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics
+- https://elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics
 - https://twitter.com/zachxbt/status/1701905899034390574
 - Page 545 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
 - https://twitter.com/zachxbt/status/1701910623175553247

@@ -4,7 +4,7 @@ Date:: March 5th, 2021
 
 Amount Stolen:: $160,000,000
 
-Tags:: Private Key Compromise
+Tags:: 🔑 Private Key Compromise
 
 
 
@@ -90,7 +90,7 @@ FTX deposit: 0xbec1b7dAFa723a19eD6c44A21B436d95d5869a91
 
 Kraken outbound txn: 0xa398eac176707a75775b6eac7f1bb91988f26d0c38f7bb7b5966ab5abb085c69 0x81df2fcc8a0e45df9c003fa51c5523489783bc72ddfcb9933e4327eafa3e5758
 
-ChainAbuse report: https://www.chainabuse.com/report/fd685c77-cf02-4e77-b942-2d261b95e756
+ChainAbuse report: https://chainabuse.com/report/fd685c77-cf02-4e77-b942-2d261b95e756
 
 
 ## Paid Network Theft Transaction Mint 59,471,745.571 PAID Tokens
@@ -108,9 +108,9 @@ Function:: mint(address _owner, uint256 _amount)
 https://paidnetwork.medium.com/paid-network-attack-postmortem-march-7-2021-9e4c0fef0e07
 https://slowmist.medium.com/slow-mist-analysis-of-paid-networks-hacked-event-b13a44415131
 https://rekt.news/paid-rekt/
-https://www.quadrigainitiative.com/casestudy/paidnetworkhack.php
-https://www.web3rekt.com/hacksandscams/paid-network-382
-https://www.theblockcrypto.com/linked/97411/paid-network-token-minting-exploit-eth
+https://quadrigainitiative.com/casestudy/paidnetworkhack.php
+https://web3rekt.com/hacksandscams/paid-network-382
+https://theblockcrypto.com/linked/97411/paid-network-token-minting-exploit-eth
 https://twitter.com/paid_network/status/1368424463147003912
 
 
@@ -136,4 +136,4 @@ Reported Addresses
 - 0x11C23ac03B32823B186CcB00cE351bc36b1D7453
 - 0x97B1043ABD9E6FC31681635166d430a458D14F9C
 
-https://www.chainabuse.com/report/fd685c77-cf02-4e77-b942-2d261b95e756
+https://chainabuse.com/report/fd685c77-cf02-4e77-b942-2d261b95e756

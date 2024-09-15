@@ -2,7 +2,7 @@
 
 Date:: August 5, 2022
 
-Google Docs Phishing
+Tags:: 🔑 - Google Docs Phishing
 
 
 ---
@@ -58,5 +58,5 @@ TL;DR: Never open email attachments without verifying the sender’s full email 
 ## URLs
 
 - https://twitter.com/AlexSmirnov__/status/1555586334378676225
-- https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-crypto-experts-with-fake-coinbase-job-offers/
-- https://www.bleepingcomputer.com/news/security/debridge-finance-crypto-platform-targeted-by-lazarus-hackers/
+- https://bleepingcomputer.com/news/security/north-korean-hackers-target-crypto-experts-with-fake-coinbase-job-offers/
+- https://bleepingcomputer.com/news/security/debridge-finance-crypto-platform-targeted-by-lazarus-hackers/

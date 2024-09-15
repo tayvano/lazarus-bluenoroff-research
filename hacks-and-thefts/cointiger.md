@@ -152,10 +152,10 @@ The file type was a Korean word processor file related to exploits used by North
 
 ## URLs
 
-- https://www.web3rekt.com/hacksandscams/cointiger-576
+- https://web3rekt.com/hacksandscams/cointiger-576
 
-- https://www.justice.gov/usao-dc/pr/united-states-files-complaint-forfeit-280-cryptocurrency-accounts-tied-hacks-two
+- https://justice.gov/usao-dc/pr/united-states-files-complaint-forfeit-280-cryptocurrency-accounts-tied-hacks-two
 
-- https://www.quadrigainitiative.com/casestudy/cointigerpttcoldwalletbreach.php
+- https://quadrigainitiative.com/casestudy/cointigerpttcoldwalletbreach.php
 
-- https://www.justice.gov/usao-dc/press-release/file/1310411/download
+- https://justice.gov/usao-dc/press-release/file/1310411/download

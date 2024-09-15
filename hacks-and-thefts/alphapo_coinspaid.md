@@ -4,6 +4,7 @@ Date:: July 22nd, 2023
 
 Amount Stolen:: $37,000,000 from Coinspaid, $60,000,000 from Alphapo?
 
+Tags:: 👛
 
 ---
 
@@ -87,13 +88,13 @@ This unfortunate incident provided some valuable experiences and insights for Co
 
 - https://rekt.news/alphapo-rekt/
 
-- https://www.theblock.co/post/241607/lazarus-group-suspected-by-coinspaid-of-37-million-hack
+- https://theblock.co/post/241607/lazarus-group-suspected-by-coinspaid-of-37-million-hack
 
-- https://www.fbi.gov/news/press-releases/fbi-identifies-cryptocurrency-funds-stolen-by-dprk
+- https://fbi.gov/news/press-releases/fbi-identifies-cryptocurrency-funds-stolen-by-dprk
 
 - https://coinspaid.com/tpost/0zx28tmj51-coinspaid-is-back-to-processing-after-be
 
-- https://www.elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics
+- https://elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics
 
 - https://twitter.com/tayvano_/status/1701955484885098881
 
@@ -103,7 +104,7 @@ This unfortunate incident provided some valuable experiences and insights for Co
 
 - https://news.bloomberglaw.com/crypto/crypto-firm-coinspaid-reports-37-million-hack-to-estonia-police
 
-- https://www.dlnews.com/articles/defi/how-north-korea-lazarus-group-stole-crypto-from-coinspaid/
+- https://dlnews.com/articles/defi/how-north-korea-lazarus-group-stole-crypto-from-coinspaid/
 
 - https://twitter.com/tayvano_/status/1686916598899281920
 

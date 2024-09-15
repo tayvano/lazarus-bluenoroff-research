@@ -4,7 +4,7 @@ Date:: May 17th, 2021
 
 Amount Stolen:: $7,000,000
 
-Tags:: "Inside Job"
+Tags:: 🔑 Admin Key Compromise, "Inside Job"
 
 
 ---
@@ -29,6 +29,7 @@ According to community feedback and data on the chain, the token FNX of the on-c
 - 0x714ba5cd1fd5176c2d206e5be5a972f734026661 - Deployed by
 - 0xf4ace6ae2df8ef5dbccb3a118f072f8a80868fc7 - connect FinNexus <> bZx <> MetaPlay
 
+
 ## URLs
 
 - https://atozmarkets.com/news/latest-defi-hack-finnexus-protocol-exploited/
@@ -43,9 +44,9 @@ According to community feedback and data on the chain, the token FNX of the on-c
 - https://medium.com/finnexus/a-new-start-finnexus-compensation-and-security-enhancement-plan-3b693b581596
 - https://medium.com/finnexus/finnexus-statement-regarding-the-may-2021-hack-d69e1b7617dc
 - https://medium.com/phoenix-finance/a-new-start-finnexus-compensation-and-security-enhancement-plan-3b693b581596
-- https://www.bsc.news/post/finnexus-contract-deployer-exploited-sending-token-in-a-90-spiral
-- https://www.certik.org/
-- https://www.quadrigainitiative.com/casestudy/finnexusfinished.php
+- https://bsc.news/post/finnexus-contract-deployer-exploited-sending-token-in-a-90-spiral
+- https://certik.org/
+- https://quadrigainitiative.com/casestudy/finnexusfinished.php
 - https://twitter.com/FrankResearcher/status/1394313296749076480
 - https://twitter.com/fin_nexus/status/1394319411947864069
 - https://twitter.com/fin_nexus/status/1396429323091865603

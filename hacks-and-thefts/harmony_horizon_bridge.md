@@ -82,13 +82,13 @@ The security of the bridge is currently predicated on a multisig wallet. It has 
 - https://techcrunch.com/2022/06/24/harmony-blockchain-crypto-hack/
 - https://twitter.com/harmonyprotocol/status/1540110924400324608
 - https://web.archive.org/web/20220625080214/
-- https://www.certik.com/resources/blog/2QRuMEEZAWHx0f16kz43uC-harmony-incident-analysis
-- https://www.cnbc.com/2022/06/24/hackers-steal-100-million-in-crypto-from-harmonys-horizon-bridge.html
-- https://www.elliptic.co/blog/money-laundering-through-dexs-and-mixers
-- https://www.web3rekt.com/hacksandscams/harmony-protocol-946
-- https://www.fbi.gov/news/press-releases/fbi-confirms-lazarusgroup-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft
-- https://www.elliptic.co/resources/harmony-horizon-bridge-hack?__hstc=267712218.21e06302b0c8a6c1010f61d5730ea527.1691653429604.1694703469263.1694710745963.18&__hssc=267712218.1.1694710745963&__hsfp=225461551
-- https://www.dlnews.com/articles/defi/harmony-execs-mismanaged-funds-and-bullied-workers-ex-staff-claim/
+- https://certik.com/resources/blog/2QRuMEEZAWHx0f16kz43uC-harmony-incident-analysis
+- https://cnbc.com/2022/06/24/hackers-steal-100-million-in-crypto-from-harmonys-horizon-bridge.html
+- https://elliptic.co/blog/money-laundering-through-dexs-and-mixers
+- https://web3rekt.com/hacksandscams/harmony-protocol-946
+- https://fbi.gov/news/press-releases/fbi-confirms-lazarusgroup-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft
+- https://elliptic.co/resources/harmony-horizon-bridge-hack?__hstc=267712218.21e06302b0c8a6c1010f61d5730ea527.1691653429604.1694703469263.1694710745963.18&__hssc=267712218.1.1694710745963&__hsfp=225461551
+- https://dlnews.com/articles/defi/harmony-execs-mismanaged-funds-and-bullied-workers-ex-staff-claim/
 
 ## Tweets
 
@@ -125,8 +125,8 @@ The group added Railgun, a privacy system, to their arsenal to obfuscate stolen 
 - https://twitter.com/zachxbt/status/1614771861266792449
 - https://twitter.com/tayvano_/status/1668935301430136834
 - https://twitter.com/zachxbt/status/1619489550233133056
-- https://www.fbi.gov/news/press-releases/fbi-confirms-lazarus-group-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft
-- https://www.coindesk.com/business/2023/01/23/harmony-hackers-cover-tracks-by-bridging-portion-of-100m-loot-to-avalanche-ethereum-and-tron/
+- https://fbi.gov/news/press-releases/fbi-confirms-lazarus-group-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft
+- https://coindesk.com/business/2023/01/23/harmony-hackers-cover-tracks-by-bridging-portion-of-100m-loot-to-avalanche-ethereum-and-tron/
 
 ## On-Chain
 

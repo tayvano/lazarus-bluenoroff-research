@@ -24,7 +24,7 @@ Theory: Get RAT's installed on two employees machines (each had a signing key) -
 
 ## URLs
 
-- https://www.elliptic.co/blog/dmm-bitcoin-loses-308-million-in-unauthorized-leak
+- https://elliptic.co/blog/dmm-bitcoin-loses-308-million-in-unauthorized-leak
 
 - https://x.com/CryptoEvgen/status/1806831622848922014
 
@@ -67,7 +67,7 @@ Theory: Get RAT's installed on two employees machines (each had a signing key) -
 
 ## More On-chain (Zach's Work)
 
-- https://www.chainabuse.com/report/7a1ce276-3347-43d2-8b16-c1a7cf2bfaf3
+- https://chainabuse.com/report/7a1ce276-3347-43d2-8b16-c1a7cf2bfaf3
 
 - https://x.com/zachxbt/status/1812466959109521649
 

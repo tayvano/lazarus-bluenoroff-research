@@ -12,13 +12,13 @@ Tags: Unknown, DPRK IT Workers?
 
 ## URLs
 
-- https://www.dlnews.com/articles/defi/mysterious-27-million-withdrawal-from-hector-network-leaves-investors-perplexed/
+- https://dlnews.com/articles/defi/mysterious-27-million-withdrawal-from-hector-network-leaves-investors-perplexed/
 
-- https://www.dlnews.com/articles/defi/hector-network-dao-rage-quits-after-draining-100m-treasury/
+- https://dlnews.com/articles/defi/hector-network-dao-rage-quits-after-draining-100m-treasury/
 
 - https://web.archive.org/web/20230614233915/https://medium.com/@Hector_Network/community-update-addressing-recent-security-incidents-at-hector-network-2fcf4d5c12a2
 
-- https://web.archive.org/web/20240117234900/https://www.dlnews.com/articles/defi/hector-network-dao-rage-quits-after-draining-100m-treasury/
+- https://web.archive.org/web/20240117234900/https://dlnews.com/articles/defi/hector-network-dao-rage-quits-after-draining-100m-treasury/
 
 
 ## On-Chain

@@ -11,9 +11,9 @@ Amount Stolen:: $81,000,000
 
 ## Details
 
-"The year ended with a massive $81M Orbit Bridge compromise. The exploit involved a private key compromise of one of the validators similar to [Harmony Horizon Bridge hack](https://www.certik.com/resources/blog/2QRuMEEZAWHx0f16kz43uC-harmony-incident-analysis). However, it required an additional validation bypass in the withdrawal function to bypass minimum approval threshold. The compromise makes for an interesting case study on monitoring: Attacker performed several small test transactions on December 30th and December 31st exploiting the validator bypass vulnerability. Mass draining started on December 31st and lasted about 18 minutes. The bridge was deactivated one hour after the last exploit transaction." [Source](https://newsletter.blockthreat.io/p/blockthreat-week-52-2023)
+"The year ended with a massive $81M Orbit Bridge compromise. The exploit involved a private key compromise of one of the validators similar to [Harmony Horizon Bridge hack](https://certik.com/resources/blog/2QRuMEEZAWHx0f16kz43uC-harmony-incident-analysis). However, it required an additional validation bypass in the withdrawal function to bypass minimum approval threshold. The compromise makes for an interesting case study on monitoring: Attacker performed several small test transactions on December 30th and December 31st exploiting the validator bypass vulnerability. Mass draining started on December 31st and lasted about 18 minutes. The bridge was deactivated one hour after the last exploit transaction." [Source](https://newsletter.blockthreat.io/p/blockthreat-week-52-2023)
 
-"A former security officer had allegedly weakened firewall settings weeks prior to exiting the company. Ozys is also exploring the possibility of North Korea’s Lazarus Group being behind the attack." [Source](https://www.theblock.co/post/274411/orbit-bridge-firewall-sabotage-exploit)
+"A former security officer had allegedly weakened firewall settings weeks prior to exiting the company. Ozys is also exploring the possibility of North Korea’s Lazarus Group being behind the attack." [Source](https://theblock.co/post/274411/orbit-bridge-firewall-sabotage-exploit)
 
 - ## On-Chain
 
@@ -41,10 +41,10 @@ Amount Stolen:: $81,000,000
 
 - ## URLs
 - https://newsletter.blockthreat.io/p/blockthreat-week-52-2023
-- https://www.theblock.co/post/274411/orbit-bridge-firewall-sabotage-exploit
+- https://theblock.co/post/274411/orbit-bridge-firewall-sabotage-exploit
 - https://my.trmlabs.com/graph-visualizer?graphId=155683
 - https://rekt.news/orbit-bridge-rekt/
-- https://www.theblock.co/post/269809/orbit-chains-bridge-reportedly-hacked-for-81-5-million
+- https://theblock.co/post/269809/orbit-chains-bridge-reportedly-hacked-for-81-5-million
 - https://twitter.com/0xArhat/status/1741625896291975372
 - https://twitter.com/Orbit_Chain/status/1741725778956730778
 - https://twitter.com/tayvano_/status/1741646766779552061

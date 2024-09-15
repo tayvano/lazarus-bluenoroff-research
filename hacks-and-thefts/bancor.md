@@ -10,6 +10,11 @@ Time:: 00:00 UTC
 
 Laundered Via:: Changelly
 
+
+---
+
+
+
 ## Details
 
 Wallet used to upgrade smart contracts used to steal $23M
@@ -50,21 +55,13 @@ A Bancor wallet got hacked and that wallet has the ability to steal coins out of
 
 ## URLs
 
-- https://www.quadrigainitiative.com/casestudy/bancordecentralizedexchangehack.php
-
+- https://quadrigainitiative.com/casestudy/bancordecentralizedexchangehack.php
 - https://blog.bancor.network/the-road-ahead-e773dcbf7603
-
-- http://hibusiness.ca/2018/07/09/bancor-crypto-exchange-shuts-down-for-maintenance-after-hack/
-
+- https://hibusiness.ca/2018/07/09/bancor-crypto-exchange-shuts-down-for-maintenance-after-hack/
 - https://ciphertrace.com/q3-2018-cryptocurrency-anti-money-laundering-report/
-
 - https://cointelegraph.com/news/bancor-urges-industry-players-to-collaborate-after-23-5-million-hack
-
 - https://times.getnuo.com/2018/07/09/breaking-crypto-exchange-bancor-reports-security-breach-12-5-million-worth-eth-stolen/
-
 - https://twitter.com/Bancor/status/1016420621666963457
-
 - https://twitter.com/Bancor/status/1017012630639259654
-
 - https://twitter.com/SatoshiLite/status/1016499756158234624
 

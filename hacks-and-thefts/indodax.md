@@ -7,7 +7,6 @@ Amount Stolen:: $24,900,000
 Attribution:: U.S. DOJ, UN 2019 Midterm Report
 
 
-
 ---
 
 
@@ -19,4 +18,4 @@ I suspect this must be and undisclosed hack of Indodax,  as they are likely the 
 
 ## URLs
 
-- https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- https://justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and

@@ -6,6 +6,8 @@ Amount Stolen:: $81,000,000
 
 Time:: 10:36:56 AM +UTC
 
+Tags:: 🔑
+
 ---
 
 ## Details
@@ -92,9 +94,9 @@ The token was upgraded to ‘EZ 2.0’ four days later, making the hacker’s ex
 - https://medium.com/easify-network/easyfi-security-incident-66c02a277a91
 - https://medium.com/easify-network/easyfi-security-incident-pre-post-mortem-33f2942016e9
 - https://rekt.news/easyfi-rekt/
-- https://www.quadrigainitiative.com/casestudy/easyfi'seasyfinishing.php
+- https://quadrigainitiative.com/casestudy/easyfi'seasyfinishing.php
 - https://newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army
 - https://thedefiant.io/compound-finance-fork-easyfi-loses-over-60m-in-admin-key-hack/
-- https://www.businessinsider.in/investment/news/biggest-crypto-hacks-of-2021-over-4-billion-stolen/slidelist/88560280.cms#slideid=88560401
-- https://www.coindesk.com/defi-protocol-easyfi-reports-hack
-- https://www.web3rekt.com/hacksandscams/easyfi-367
+- https://businessinsider.in/investment/news/biggest-crypto-hacks-of-2021-over-4-billion-stolen/slidelist/88560280.cms#slideid=88560401
+- https://coindesk.com/defi-protocol-easyfi-reports-hack
+- https://web3rekt.com/hacksandscams/easyfi-367

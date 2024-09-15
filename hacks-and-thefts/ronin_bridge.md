@@ -6,6 +6,7 @@ Amount Stolen:: $620,000,000
 
 Laundered Via:: Tornado Cash, FTX, Huobi and Crypto.com
 
+Tags:: 👛
 
 ---
 
@@ -48,7 +49,7 @@ The gaming-focused Ronin Network announced Tuesday a loss of over $625 million i
 
 > An April blog post on the incident from blockchain analysis firm Elliptic explains: “Funds can be moved out if five of the nine validators approve it. The attacker managed to get hold of the private cryptographic keys belonging to five of the validators, which was enough to steal the cryptoassets.”
 
-https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game
+https://theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game
 
 
 
@@ -58,7 +59,7 @@ https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-mo
 
 > The attacker managed to get hold of the private cryptographic keys belonging to five of the validators, which was enough to steal the cryptoassets. The post mortem claims that “all evidence points to this attack being socially engineered, rather than a technical flaw”.
 
-https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge
+https://elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge
 
 
 
@@ -73,6 +74,62 @@ The U.S.Treasury department has added the crypto wallet that received the stolen
 The wallet still contains around 150,000 ETH, valued at around $445 million, but has been slowly siphoning it out to various other wallets, exchanges, and tumblers over the past weeks.
 
 Validator Security Breach US Treasury Department has sanctioned the address that received the stolen funds.  
+
+
+
+
+## URLs
+
+- https://blog.mollywhite.net/axie-hack/
+- https://bridge.roninchain.com/
+- https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220414
+- https://rekt.news/ronin-rekt/ 
+- https://roninblockchain.substack.com/p/community-alert-ronin-validator
+- https://roninblockchain.substack.com/p/community-alert-ronin-validators
+- https://twitter.com/blocksearch/status/1514685894619549703
+- https://twitter.com/CertiKAlert/status/1521397324601249794
+- https://twitter.com/Ronin_Network/status/1530076035345453056
+- https://twitter.com/TheBlock__/status/1544684472704159747
+- https://coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/
+- https://elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge
+- https://fbi.gov/news/press-releases/fbi-statement-on-attribution-of-malicious-cyber-activity-posed-by-the-democratic-peoples-republic-of-korea
+- https://theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game
+- https://theverge.com/2022/7/6/23196713/axie-infinity-ronin-blockchain-hack-phishing-linkedin-job-offer
+- https://web3rekt.com/hacksandscams/ronin-network-12
+
+## Commentary
+
+> "The Ronin bridge has been exploited for 173,600 Ethereum and 25.5M USDC. The Ronin bridge and Katana Dex have been halted." – @Ronin_Network
+- [https://twitter.com/Ronin_Network/status/1508828722085867521](https://twitter.com/Ronin_Network/status/1508828722085867521)
+
+> "Imagine stealing 600 million 6 days ago and depositing money on FTX" – Igor Igamberdiev
+- [https://twitter.com/FrankResearcher/status/1508832517826174989/photo/1](https://twitter.com/FrankResearcher/status/1508832517826174989/photo/1)
+
+> "there had to have been someone who noticed the 600M exploit on chain, 50x lev shorted Axie Infinity and Ronin, then got liquidated because.. no one else realized for six days"
+- [https://twitter.com/ExaltedFoks/status/1508836040894828544](https://twitter.com/ExaltedFoks/status/1508836040894828544)
+
+> We discovered the attack this morning after a report from a user being unable to withdraw 5k ETH from the bridge." 173600 ETH went out and they notice this 5 days after lmao
+- [https://twitter.com/Sleapy31/status/1508832156512137223](https://twitter.com/Sleapy31/status/1508832156512137223)
+
+> Ronin's multisig holders. https://pbs.twimg.com/media/FPB-ipBXIAM5MP6.jpg
+- [https://twitter.com/dogetoshi/status/1508845086137884676](https://twitter.com/dogetoshi/status/1508845086137884676)
+
+> This even tops the Wormhole Bridge hack. They forgot to mention the money he stole from the Validators themselves in addition to the bridge (an additional ~8500ETH)
+- [https://twitter.com/siegerhino2/status/1508842734416707584](https://twitter.com/siegerhino2/status/1508842734416707584)
+
+> Our team is in touch with Axie Infinity team providing assistance in tracking this issue.  –CZ
+- [https://twitter.com/cz_binance/status/1508869326916530176](https://twitter.com/cz_binance/status/1508869326916530176)
+
+> "Important announcement regarding a security breach on the Ronin Network." – Axie Infinity
+- [https://twitter.com/Ronin_Network/status/1508828719711879168](https://twitter.com/Ronin_Network/status/1508828719711879168)
+
+> "So the biggest #play to earn game all this time was the @Ronin_Network itself?" – @chainyoda
+- [https://twitter.com/chainyoda/status/1508864824867966978](https://twitter.com/chainyoda/status/1508864824867966978)
+
+> By the way, @0xPolygon is secured by a 5-of-9 multisig. Just like @Ronin_Network. And they've refused many, many, many times to answer any questions about how those keys are secured. Do you think that what happened to Ronin's bridge could ever happen to Polygon's bridge? Hmm?
+- [https://twitter.com/Mudit__Gupta/status/1508884826987843584](https://twitter.com/Mudit__Gupta/status/1508884826987843584)
+
+
 
 
 ## On-Chain
@@ -863,56 +920,3 @@ Most notably, there were no deposits or withdrawals between 2022-04-16 and 2022-
 | |0x5cc6251edbf8340d1b4f77f9dc33fe2138e0eda4|7|700|2022-05-19 19:27|2022-05-20 3:46|
 | |0xc57e6183b92efef742eca7b55a07a69582ed7146|6|600|2022-05-19 19:50|2022-05-20 0:12|
 | |0x6e2a555bfad1d9944d1a39e823ce5fead73220ac|6|600|2022-05-19 20:03|2022-05-20 4:04|
-
-
-## URLs
-
-- https://blog.mollywhite.net/axie-hack/
-- https://bridge.roninchain.com/
-- https://home.treasury.gov/policy-issues/financial-sanctions/recent-actions/20220414
-- https://rekt.news/ronin-rekt/ 
-- https://roninblockchain.substack.com/p/community-alert-ronin-validator
-- https://roninblockchain.substack.com/p/community-alert-ronin-validators
-- https://twitter.com/blocksearch/status/1514685894619549703
-- https://twitter.com/CertiKAlert/status/1521397324601249794
-- https://twitter.com/Ronin_Network/status/1530076035345453056
-- https://twitter.com/TheBlock__/status/1544684472704159747
-- https://www.coindesk.com/tech/2022/03/29/axie-infinitys-ronin-network-suffers-625m-exploit/
-- https://www.elliptic.co/blog/540-million-stolen-from-the-ronin-defi-bridge
-- https://www.fbi.gov/news/press-releases/fbi-statement-on-attribution-of-malicious-cyber-activity-posed-by-the-democratic-peoples-republic-of-korea
-- https://www.theblock.co/post/156038/how-a-fake-job-offer-took-down-the-worlds-most-popular-crypto-game
-- https://www.theverge.com/2022/7/6/23196713/axie-infinity-ronin-blockchain-hack-phishing-linkedin-job-offer
-- https://www.web3rekt.com/hacksandscams/ronin-network-12
-
-## Commentary
-
-> "The Ronin bridge has been exploited for 173,600 Ethereum and 25.5M USDC. The Ronin bridge and Katana Dex have been halted." – @Ronin_Network
-- [https://twitter.com/Ronin_Network/status/1508828722085867521](https://twitter.com/Ronin_Network/status/1508828722085867521)
-
-> "Imagine stealing 600 million 6 days ago and depositing money on FTX" – Igor Igamberdiev
-- [https://twitter.com/FrankResearcher/status/1508832517826174989/photo/1](https://twitter.com/FrankResearcher/status/1508832517826174989/photo/1)
-
-> "there had to have been someone who noticed the 600M exploit on chain, 50x lev shorted Axie Infinity and Ronin, then got liquidated because.. no one else realized for six days"
-- [https://twitter.com/ExaltedFoks/status/1508836040894828544](https://twitter.com/ExaltedFoks/status/1508836040894828544)
-
-> We discovered the attack this morning after a report from a user being unable to withdraw 5k ETH from the bridge." 173600 ETH went out and they notice this 5 days after lmao
-- [https://twitter.com/Sleapy31/status/1508832156512137223](https://twitter.com/Sleapy31/status/1508832156512137223)
-
-> Ronin's multisig holders. https://pbs.twimg.com/media/FPB-ipBXIAM5MP6.jpg
-- [https://twitter.com/dogetoshi/status/1508845086137884676](https://twitter.com/dogetoshi/status/1508845086137884676)
-
-> This even tops the Wormhole Bridge hack. They forgot to mention the money he stole from the Validators themselves in addition to the bridge (an additional ~8500ETH)
-- [https://twitter.com/siegerhino2/status/1508842734416707584](https://twitter.com/siegerhino2/status/1508842734416707584)
-
-> Our team is in touch with Axie Infinity team providing assistance in tracking this issue.  –CZ
-- [https://twitter.com/cz_binance/status/1508869326916530176](https://twitter.com/cz_binance/status/1508869326916530176)
-
-> "Important announcement regarding a security breach on the Ronin Network." – Axie Infinity
-- [https://twitter.com/Ronin_Network/status/1508828719711879168](https://twitter.com/Ronin_Network/status/1508828719711879168)
-
-> "So the biggest #play to earn game all this time was the @Ronin_Network itself?" – @chainyoda
-- [https://twitter.com/chainyoda/status/1508864824867966978](https://twitter.com/chainyoda/status/1508864824867966978)
-
-> By the way, @0xPolygon is secured by a 5-of-9 multisig. Just like @Ronin_Network. And they've refused many, many, many times to answer any questions about how those keys are secured. Do you think that what happened to Ronin's bridge could ever happen to Polygon's bridge? Hmm?
-- [https://twitter.com/Mudit__Gupta/status/1508884826987843584](https://twitter.com/Mudit__Gupta/status/1508884826987843584)
-

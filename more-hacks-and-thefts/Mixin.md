@@ -39,12 +39,12 @@ The database of Mixin Network's cloud service provider was attacked by hackers, 
 
 - https://archive.ph/bvRy4
 
-- https://www.bloomberg.com/news/articles/2023-09-25/defi-project-mixin-suspends-services-after-200-million-hack
+- https://bloomberg.com/news/articles/2023-09-25/defi-project-mixin-suspends-services-after-200-million-hack
 
-- https://www.bloomberg.com/news/articles/2023-10-06/north-korea-suspected-in-massive-hack-of-defi-project-mixin?leadSource=uverify%20wall
+- https://bloomberg.com/news/articles/2023-10-06/north-korea-suspected-in-massive-hack-of-defi-project-mixin?leadSource=uverify%20wall
 
-- https://www.theblock.co/post/252716/mixin-network-founder-says-just-half-users-assets-are-safe-after-200-million-hack
+- https://theblock.co/post/252716/mixin-network-founder-says-just-half-users-assets-are-safe-after-200-million-hack
 
 - https://watcher.guru/news/hong-kongs-mixin-network-hack-leads-to-200-million-loss
 
-- https://www.coindesk.com/tech/2023/09/25/mixin-network-losses-nearly-200m-in-hack/
+- https://coindesk.com/tech/2023/09/25/mixin-network-losses-nearly-200m-in-hack/

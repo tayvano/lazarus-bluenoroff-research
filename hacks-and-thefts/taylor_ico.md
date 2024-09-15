@@ -6,7 +6,7 @@ Amount Stolen:: $1,700,000 (2,578.98 ETH)
 
 Laundered Via:: IDEX 
 
-Tags:: Account Takeover, Private Key Compromise, "Inside Job", 1Password, ICO Theft, DPRK
+Tags:: 🔑 Account Takeover, Private Key Compromise, "Inside Job", 1Password, ICO Theft
 
 ---
 
@@ -70,7 +70,7 @@ The only tokens that were not stolen are the ones from the Founders’ and Advis
 
 - https://medium.com/smarttaylor/taylor-phoenix-rising-from-the-ashes-743bab57545e
 
-- https://www.quadrigainitiative.com/casestudy/taylorethereumhack.php
+- https://quadrigainitiative.com/casestudy/taylorethereumhack.php
 
-- https://www.zdnet.com/article/all-of-cryptocurrency-trading-app-taylors-funds-have-been-stolen/
+- https://zdnet.com/article/all-of-cryptocurrency-trading-app-taylors-funds-have-been-stolen/
 

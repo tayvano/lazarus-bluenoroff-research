@@ -68,7 +68,6 @@ Meanwhile, WSM announced that they would be issuing a new token to replace the s
 ## IoCs
 
 - 147.124.212.146
-
 - 2002:2d3d:83da::2d3d:83da
 
 
@@ -87,7 +86,7 @@ Meanwhile, WSM announced that they would be issuing a new token to replace the s
 - https://twitter.com/wallstmemes/status/1750824813390598260
 - https://twitter.com/wallstmemes/status/1750831024450245076
 - https://web.archive.org/web/20240126043903/https://wallstreetmemes.medium.com/important-security-update-fa4dedbc8f25
-- https://www.cryptotimes.io/2024/01/25/wall-street-memes-faces-coordinated-attack-on-wsm-network/
-- https://www.cryptotimes.io/2024/01/26/wall-street-memes-token-plunges-35-after-hack/
-- https://www.youtube.com/watch?v=QTvMxv50rDY
-- https://www.youtube.com/watch?v=lW60njetwyg
+- https://cryptotimes.io/2024/01/25/wall-street-memes-faces-coordinated-attack-on-wsm-network/
+- https://cryptotimes.io/2024/01/26/wall-street-memes-token-plunges-35-after-hack/
+- https://youtube.com/watch?v=QTvMxv50rDY
+- https://youtube.com/watch?v=lW60njetwyg

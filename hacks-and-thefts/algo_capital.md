@@ -9,6 +9,8 @@ Time:: 12:29 p.m. PDT
 Tags:: Investment Fund, "Inside Job"
 
 
+---
+
 
 ## Details
 
@@ -91,10 +93,10 @@ IP addresses logging into this Domain Registrar 1 account resolve to a VPN servi
 
 ## URLs
 
-- https://www.coindesk.com/markets/2019/10/05/algo-capital-loses-crypto-funds-after-ctos-phone-is-hacked/
+- https://coindesk.com/markets/2019/10/05/algo-capital-loses-crypto-funds-after-ctos-phone-is-hacked/
 - https://cointelegraph.com/news/algo-capital-ex-cto-takes-full-responsibility-for-hot-wallet-breach
 - https://medium.com/algo-capital/statement-from-algo-capital-on-the-recent-security-breach-9114968b7883
-- https://www.crowdfundinsider.com/2019/10/152492-algorands-venture-arm-algo-capital-loses-millions-in-crypto-wallet-security-breach/
+- https://crowdfundinsider.com/2019/10/152492-algorands-venture-arm-algo-capital-loses-millions-in-crypto-wallet-security-breach/
 - https://eng.ambcrypto.com/algo-capitals-managing-partner-speaks-out-after-2-million-usdt-hack-hits-firm/
 - https://web.archive.org/web/20191225213958/https://medium.com/@pipaman/algo-capital-security-breach-aedccf9e33c2
 

@@ -64,6 +64,6 @@ https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabiliti
 https://generalbytes.atlassian.net/l/cp/rVRVe1x9
 https://generalbytes.atlassian.net/wiki/spaces/ESD/pages/2885222430/Security+Incident+March+17-18th+2023
 https://twitter.com/generalbytes/status/1637192687160897537
-https://www.bleepingcomputer.com/news/security/general-bytes-bitcoin-atms-hacked-using-zero-day-15m-stolen/
-https://www.bleepingcomputer.com/news/security/hackers-steal-crypto-from-bitcoin-atms-by-exploiting-zero-day-bug/
-https://www.web3rekt.com/hacksandscams/general-bytes-1511
+https://bleepingcomputer.com/news/security/general-bytes-bitcoin-atms-hacked-using-zero-day-15m-stolen/
+https://bleepingcomputer.com/news/security/hackers-steal-crypto-from-bitcoin-atms-by-exploiting-zero-day-bug/
+https://web3rekt.com/hacksandscams/general-bytes-1511

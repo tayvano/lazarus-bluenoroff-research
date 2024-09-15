@@ -18,7 +18,7 @@ Well...maybe some are. 🫠
 - https://wired.com/2014/08/isp-bitcoin-theft/
 
 ### 2014-08-15: BTER/Gate.io - $1.65m in NXT has been stolen
-- Freeworm continued his post by providing the address containing the [stolen 51,670,000 NXT](http://www.mynxt.info/blockexplorer/details.php?action=ac&ac=1244396688755618309), and detailing how it would seek to enlist the help of the NXT community in its effort to recover its funds.
+- Freeworm continued his post by providing the address containing the [stolen 51,670,000 NXT](https://mynxt.info/blockexplorer/details.php?action=ac&ac=1244396688755618309), and detailing how it would seek to enlist the help of the NXT community in its effort to recover its funds.
 
 ### 2014-12-10: Blockchain.com - johoe Returns 225 BTC Taken from Blockchain Wallets
 
@@ -28,15 +28,15 @@ Well...maybe some are. 🫠
 - The Slovenia-based company said Monday that fraudsters made off with 18,000 BTC
 - > On 4 November 2014, Mr Merlak [CTO of Bitstamp] was contacted by Skype account punk.rock.holiday from IP address (94.185.85.171). The gambit for this phishing attack was to offer Mr Merlak free tickets to Punk Rock Holiday 2015. (Merlak is keen on punk rock and has played in a band.) ... Over a period of approximately five weeks, four more Bitstamp employees received similar highly targeted phishing attacks, each tailored to individual interests. (Bitstamp Incident Report)
 - https://github.com/miohtama/opsec/blob/master/source/incidences/bitstamp.rst
-- https://www.coindesk.com/markets/2015/07/01/details-of-5-million-bitstamp-hack-revealed/
+- https://coindesk.com/markets/2015/07/01/details-of-5-million-bitstamp-hack-revealed/
 
 ### 2015-01-28: 796 - Chinese Exchange Gets 'Goxed' for 1,000 bitcoins
 - 796: Not much information available, other than the victim stating that the hacker was putting a lot of effort towards their attack. We have been constantly monitoring the hacking activities on our servers and 3 months back then we took the precautionary step to migrate our servers to a highly secured cloud site. Unfortunately, that didn’t stop the incident from happening last night. In the last 24 hours, our security team worked around the clock to trace back the codes and processes. At this moment, we have a pretty good idea of exactly how they did it. This was not a generalized attack. The hacker’s strategy was precisely calculated and well targeted to compromise a certain weakness on our server.
 - https://cointelegraph.com/news/chinese-exchange-suffers-1000-btc-loss-in-uncertain-service-compromise
 
 ### 2015-02-13: BTER/Gate.io - $1.75 Million in Bitcoin Stolen in Cold Wallet Hack
-- https://www.coindesk.com/markets/2015/02/15/bter-claims-175-million-in-bitcoin-stolen-in-cold-wallet-hack/
-- https://www.blockchain.com/btc/tx/f5b0363f03e1ed8bb812c135361ea93590c831ce9f13a3750be1b93575baccc6
+- https://coindesk.com/markets/2015/02/15/bter-claims-175-million-in-bitcoin-stolen-in-cold-wallet-hack/
+- https://blockchain.com/btc/tx/f5b0363f03e1ed8bb812c135361ea93590c831ce9f13a3750be1b93575baccc6
 
 ### 2015-04-01: Coinbase: SendGrid Employee Account Hacked, Used to Steal Customer Coinbase Credentials
 - https://krebsonsecurity.com/2015/04/sendgrid-employee-account-hacked-used-to-steal-customer-credentials/
@@ -58,7 +58,7 @@ Well...maybe some are. 🫠
 - While reported as Laz, it really doesn't look like it...far more like Gox than Laz
 - Unidentified assailants stole 523M NEM coins (about $534M) from the exchange's hot wallet
 - According to Coincheck, NEM coins are kept on a single-signature hot wallet instead of a more secure multi-signature wallet, and the stolen coins are confirmed to be Coincheck customers.
-- https://www.forbes.com/sites/daveywinder/2018/12/31/how-hackers-stole-1b-from-cryptocurrency-exchanges-in-2018/?sh=7f0a14ef4d87
+- https://forbes.com/sites/daveywinder/2018/12/31/how-hackers-stole-1b-from-cryptocurrency-exchanges-in-2018/?sh=7f0a14ef4d87
 
 ### 2018-Feb: BitGrail CEX Hack - $120M
 - Nano Stolen June 2017, July 2017, October 2017, ???
@@ -68,7 +68,7 @@ Well...maybe some are. 🫠
 - Italian investigations do say the actual hackers of Nano are unknown but this is secondary point to how fraudulent the founder was generally.
 - Bitgrail was a small Italian exchange trading in lesser-known cryptos, such as Nano (XRB). In February 2018, just as the price of XRB skyrocketed from a few cents to $33, the exchange was hacked. Nano wallets had been targeted with at least 17M coins stolen (the equivalent of around $150M). Many users started to comment that they had noticed issues with the exchange before the attack (significantly lower withdrawal limits and transaction problems). Investigations also revealed that the coins had been stolen from cold wallets, not hot wallets, suggesting an inside job. Investigations have continued over the last few years with Italian police recently accusing the man who owned Bitgrail to be behind the attacks (either directly involved or was aware/took no action to prevent further theft once the first attack had been carried out).
 - https://cointelegraph.com/news/bitgrail-s-founder-contributed-to-150m-loss-italian-authorities-allege
-- https://www.commissariatodips.it/notizie/articolo/identificato-dalla-polizia-postale-l-autore-del-piu-grande-attacco-cyber-finanziario-in-italia/index.html
+- https://commissariatodips.it/notizie/articolo/identificato-dalla-polizia-postale-l-autore-del-piu-grande-attacco-cyber-finanziario-in-italia/index.html
 
 ### 2018-May: Satori Botnet targeting exposed Ethereum miners
 - In May 2018, reports emerged of [Satori Botnet](https://bitcoinist.com/watchout-satori-botnet-targets-exposed-ethereum-miners/) targeting exposed Ethereum miners. 
@@ -80,8 +80,8 @@ Well...maybe some are. 🫠
 - https://wccn.com/another-ico-hacked-kickico-loses-8-million-after-smart-contract-breach/
 
 ### 2018-Oct: Gate.io aka BTER - StatCounter - Supply Chain Attack - Alters User Withdrawal Addresses ⛓️
-- https://www.zdnet.com/article/hackers-breach-statcounter-to-hijack-bitcoin-transactions-on-gate-io-exchange/
-- https://www.welivesecurity.com/2018/11/06/supply-chain-attack-cryptocurrency-exchange-gate-io/
+- https://zdnet.com/article/hackers-breach-statcounter-to-hijack-bitcoin-transactions-on-gate-io-exchange/
+- https://welivesecurity.com/2018/11/06/supply-chain-attack-cryptocurrency-exchange-gate-io/
 
 ## 2019
 
@@ -172,9 +172,9 @@ Well...maybe some are. 🫠
 - 1Fx1bhbCwp5LU2gHxfRNiSHi1QSHwZLf7q 
 - 1JW1tcBXp1vZ6KGEirFNSXb5RgZSaL63Av 
 - 1KNkqryYzeCX36qGhREAsCenowSQqZaKuf 
-- https://www.trmlabs.com/post/liquid-hack-the-second-time-around
+- https://trmlabs.com/post/liquid-hack-the-second-time-around
 - https://blog.liquid.com/warm-wallet-incident
-- https://www.businessinsider.in/investment/news/hackers-raided-a-japanese-crypto-exchange-and-seized-up-to-74-million-in-assets-report-says/articleshow/85452714.cms
+- https://businessinsider.in/investment/news/hackers-raided-a-japanese-crypto-exchange-and-seized-up-to-74-million-in-assets-report-says/articleshow/85452714.cms
 - https://blog.liquid.com/ja/20210819-important-notice
 - https://twitter.com/SBF_FTX/status/1430609287223693314
 
@@ -198,10 +198,10 @@ Well...maybe some are. 🫠
 - PeckShield, a blockchain security firm identified the single biggest loss, of 896 Bitcoin from one wallet, which is worth $44M at current prices. 
 - The DAO had suspended activity upon learning of the attack, but completed its investigation in a week and returned to normal operation. 
 - The Badger community is considering plans to recover lost funds, and solutions for[reimbursing losses](https://badger.com/exploit/updates).
-- The crypto lending platform[BadgerDAO](https://www.businessinsider.in/investment/news/hackers-steal-120-million-from-defi-protocol-badgerdao-platform-hits-indefinite-pause-on-all-smart-contract-activity/articleshow/88068762.cms)is a decentralized autonomous organization (DAO), initially setup by Celsius Network, which is a Centralised Finance (CeFi) for loans on crypto assets.
+- The crypto lending platform[BadgerDAO](https://businessinsider.in/investment/news/hackers-steal-120-million-from-defi-protocol-badgerdao-platform-hits-indefinite-pause-on-all-smart-contract-activity/articleshow/88068762.cms)is a decentralized autonomous organization (DAO), initially setup by Celsius Network, which is a Centralised Finance (CeFi) for loans on crypto assets.
 
 ### 2021-Dec: AscendEX – $77.7M
-- Hackers broke into the [hot wallet of AscendEX](https://www.businessinsider.in/investment/news/ascendex-hack-wipes-out-77-7-million-ethereum-eth-polygon-matic-and-bsc-tokens-take-the-biggest-hit/articleshow/88255556.cms), a Singapore-based cryptocurrency exchange. 
+- Hackers broke into the [hot wallet of AscendEX](https://businessinsider.in/investment/news/ascendex-hack-wipes-out-77-7-million-ethereum-eth-polygon-matic-and-bsc-tokens-take-the-biggest-hit/articleshow/88255556.cms), a Singapore-based cryptocurrency exchange. 
 - According to the blockchain security firm [PeckShield](https://twitter.com/peckshield/status/1469915194004766722), almost 77% of the total loss consisted of assets based on the Ethereum blockchain.
 - The exchange confirmed that their cold wallets were not affected, and that any affected users will be “[covered completely](https://twitter.com/AscendEX_Global/status/1469886844787691528).” Deposit and withdrawal services were suspended for a security review, but trading services had resumed in a week. 
 - The company announced on December 23 that [deposits and withdrawals had resumed](https://twitter.com/AscendEX_Global/status/1473850853899579393)for most major currencies.
@@ -221,8 +221,8 @@ Well...maybe some are. 🫠
 ### 2021-Dec: BitMart CEX Hack – $196M
 - A stolen private key enabled hackers to breach security of two hot wallets.
 - Announcing the discovery of this loss [on Twitter](https://twitter.com/sheldonbitmart/status/1467316252855226368), the company said $100M of the loss was on the Ethereum blockchain.
-- The [exchange froze](https://www.businessinsider.in/investment/news/bitmart-suspends-withdrawals-after-hackers-drained-almost-200-million-in-cryptocurrencies-using-a-stolen-private-key/articleshow/88125721.cms) deposit and withdrawal for a couple of days, during which time they announced a [security upgrade](https://support.bmx.fund/hc/en-us/articles/4412257835035--Important-Notice-BitMart-Security-Upgrade-New-Deposit-Addresses). 
-- BitMart’s CEO Sheldon Xia announced they would talk to crypto project teams [to identify solutions](https://www.businessinsider.in/investment/news/bitmart-says-its-resumed-crypto-withdrawals-three-days-after-hackers-stole-almost-200-million-in-funds/articleshow/88169039.cms), and use the company’s [own funding](https://twitter.com/sheldonbitmart/status/1467722582845702149)to compensate affected users.
+- The [exchange froze](https://businessinsider.in/investment/news/bitmart-suspends-withdrawals-after-hackers-drained-almost-200-million-in-cryptocurrencies-using-a-stolen-private-key/articleshow/88125721.cms) deposit and withdrawal for a couple of days, during which time they announced a [security upgrade](https://support.bmx.fund/hc/en-us/articles/4412257835035--Important-Notice-BitMart-Security-Upgrade-New-Deposit-Addresses). 
+- BitMart’s CEO Sheldon Xia announced they would talk to crypto project teams [to identify solutions](https://businessinsider.in/investment/news/bitmart-says-its-resumed-crypto-withdrawals-three-days-after-hackers-stole-almost-200-million-in-funds/articleshow/88169039.cms), and use the company’s [own funding](https://twitter.com/sheldonbitmart/status/1467722582845702149)to compensate affected users.
 - tps://rekt.news/bitmart-rekt/
 
 ## 2022
@@ -234,7 +234,7 @@ Well...maybe some are. 🫠
 - https://rekt.news/dego-finance-rekt/
 
 ### 2022-Mar: Pirate X Pirate - Private Key Compromised - $83k  
-- https://www.quadrigainitiative.com/casestudy/piratexpirateprivatekeyleak.php 
+- https://quadrigainitiative.com/casestudy/piratexpirateprivatekeyleak.php 
 
 ## 2023
 

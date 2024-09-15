@@ -8,6 +8,10 @@ Theft via custom MetaMask to steal funds off Ledger
 
 Time:: 9:40am UTC
 
+Tags:: 🔑 Keys Not Compromised, Ledger
+
+--
+
 
 ## Details
 
@@ -32,11 +36,14 @@ On December 14, Hugh Karp, the CEO of DeFi insurer Nexus Mutual, lost the equiva
 Fortunately, no other members have been attacked, and, according to a Nexus Mutual tweet, “The mutual is not impacted; the pool of funds and all systems are safe.” However, after the attack was exposed, the price of Nexus Mutual wrapped tokens dropped 14% on the cryptocurrency exchange Huobi. A portion of the stolen funds were located on 1inch.exchange, a decentralized exchange aggregator.
 
 
+
+
 ## On the KYC Details
 
 > The official said that this is a targeted attack, only the official name, Karp used a hardware wallet, the attacker obtained remote access to his computer, and modified the wallet plug-in MetaMask, deceived him to sign the transaction, the attacker Completed KYC 11 days ago, and then changed to a new address on December 3
 
 This ended up being another DPRK victim in Singapore who had multiple wallets emptied just prior to the Hugh Karp attack. This theft, along with Fetch.ai and other unknown / unreported thefts from the Fall 2020 all co-mingle on chain.
+
 
 
 ## On-Chain
@@ -75,7 +82,6 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 ### Tornado Cash
 
 - 0x0784051d5136a5ccb47ddb3a15243890f5268482 - Deposit 
-
 - 0x78a9903af04c8e887df5290c91917f71ae028137 - Withdrawals
 
 ## URLs
@@ -84,6 +90,6 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 - https://medium.com/@hugh_karp/nxm-hack-update-72c5c017b48 
 - https://twitter.com/HughKarp/status/1341063567408328705
 - https://twitter.com/NexusMutual/status/1338441875326427137
-- https://www.breadcrumbs.app/reports/0x09923e35f19687a524bbca7d42b92b6748534f25/1/10/10
-- https://www.quadrigainitiative.com/casestudy/nexusmutualfounderhacked.php
-- https://www.web3rekt.com/hacksandscams/nexus-mutual-425
+- https://breadcrumbs.app/reports/0x09923e35f19687a524bbca7d42b92b6748534f25/1/10/10
+- https://quadrigainitiative.com/casestudy/nexusmutualfounderhacked.php
+- https://web3rekt.com/hacksandscams/nexus-mutual-425

@@ -22,7 +22,7 @@ Tags: 🎙️ Contagious Interview
 
 > The stolen assets were transferred to EOA 0x6584A486F711eB8aC47aBf78A5C8e218Ee758fa9. Despite Wilder World issuing a message to the exploiter to return funds the assets were swapped for ETH and transferred to EOA 0x7f0756D3aAAa6E8A34d29e6E8A7a78617d8fF662, where all 515 ETH was deposited into Tornado Cash.
 
-–[Cerik](https://www.certik.com/resources/blog/private-key-compromises)
+–[Cerik](https://certik.com/resources/blog/private-key-compromises)
 
 
 ## Details - April 2, 2024
@@ -146,7 +146,7 @@ Also on April 2, 2024 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 (which also rec
 
 ## URLs
 
-- https://www.certik.com/resources/blog/private-key-compromises
+- https://certik.com/resources/blog/private-key-compromises
 
 
 

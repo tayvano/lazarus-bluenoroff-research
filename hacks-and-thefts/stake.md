@@ -4,7 +4,7 @@ Date:: September 4th, 2023
 
 Amount Stolen:: $41,000,000
 
-Tags:: CEX Hack
+Tags:: 👛 CEX Hack
 
 
 ---
@@ -58,8 +58,8 @@ An attack in which approximately $41 million in virtual currency was stolen, pos
 
 
 ## URLs
-- https://www.fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom
-- https://www.elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics
+- https://fbi.gov/news/press-releases/fbi-identifies-lazarus-group-cyber-actors-as-responsible-for-theft-of-41-million-from-stakecom
+- https://elliptic.co/blog/how-the-lazarus-group-is-stepping-up-crypto-hacks-and-changing-its-tactics
 - https://twitter.com/tayvano_/status/1698713232532467837
 - https://twitter.com/peckshield/status/1698697721342042621
 - https://twitter.com/zachxbt/status/1698712407177150729

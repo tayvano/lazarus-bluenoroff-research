@@ -6,6 +6,9 @@ Amount Stolen:: $9m-$11m
 
 Tags: CEX Hack, "Inside Job"
 
+---
+
+
 ## Details
 
 Trade.io, a Swiss blockchain company that advertises itself as a “next-generation financial institution”, has been hacked. According to an announcement from the firm, 50 million Trade Tokens (TIO), which is the company’s own cryptocurrency, have been stolen. These are worth approximately $7.5 million at the current price, but closer to $11 million at the time of the hack a few hours ago.
@@ -38,5 +41,5 @@ Trade.io states: “We use industry recommended cold storage which are maintaine
 ## URLs
 
 - https://cryptoxdirectory.com/trade.io
-- https://www.zdnet.com/article/trade-io-loses-7-5mil-worth-of-cryptocurrency-in-mysterious-cold-wallet-hack/
-- https://www.quadrigainitiative.com/casestudy/tradeio.php
+- https://zdnet.com/article/trade-io-loses-7-5mil-worth-of-cryptocurrency-in-mysterious-cold-wallet-hack/
+- https://quadrigainitiative.com/casestudy/tradeio.php

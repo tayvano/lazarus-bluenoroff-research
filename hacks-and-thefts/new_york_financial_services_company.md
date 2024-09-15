@@ -19,6 +19,6 @@ Amount Stolen:: $11,800,000
 
 ## URLs
 
-- https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- https://justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
 
-- https://www.justice.gov/d9/press-releases/attachments/2021/02/17/dprk_hacking_-_indictment_0_0.pdf
+- https://justice.gov/d9/press-releases/attachments/2021/02/17/dprk_hacking_-_indictment_0_0.pdf

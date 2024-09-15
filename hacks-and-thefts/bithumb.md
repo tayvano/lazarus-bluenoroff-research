@@ -19,6 +19,8 @@ The best I have ever been able to parse out, the four separate hacks are as foll
 - March 29th, 2019 - $20 million
 
 
+---
+
 ## Details 
 
 Bithumb has said regarding either the June 2018 hack or March 2019 hack that:
@@ -37,7 +39,7 @@ The [UN Security Council's 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-C
 | Date      | Incident   | Details                                                                                                                                                                                                                                                                                                                                                                                        |
 | --------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Feb 2017  | Bithumb #1 | Theft of $7M USD in first attack on Bithumb                                                                                                                                                                                                                                                                                                                                                    |
-| Jul 2017  | Bithumb #2 | Reported theft of more than $7M USD in second attack on Bithumb including: 870,000 USD in Bitcoin and [$7M USD in Bitcoin and Ethereum](https://www.coindesk.com/report-north-korea-targets-south-koreas-bitcoin-exchanges-cyber-attacks). [National Intelligence Services attributed to the DPRK.](https://www.coindesk.com/police-confirm-north-korean-connection-bitcoin-exchange-phishing) |
+| Jul 2017  | Bithumb #2 | Reported theft of more than $7M USD in second attack on Bithumb including: 870,000 USD in Bitcoin and [$7M USD in Bitcoin and Ethereum](https://coindesk.com/report-north-korea-targets-south-koreas-bitcoin-exchanges-cyber-attacks). [National Intelligence Services attributed to the DPRK.](https://coindesk.com/police-confirm-north-korean-connection-bitcoin-exchange-phishing) |
 | June 2018 | Bithumb #3 | Third attack on Bithumb. Bithumb announced in a since deleted tweet that hackers stole approximately $31 million. Proceeds were laundered through a separate crypto-currency exchange called YoBit.                                                                                                                                                                                            |
 | Mar 2019  | Bithumb #4 | Reported theft of 20M USD in fourth attack on Bithumb (3M EOS and 20 million Ripple coins stolen worth $13.4M USD and 6M USD, respectively)                                                                                                                                                                                                                                                    |
 
@@ -48,7 +50,7 @@ The [UN Security Council's 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-C
 
 Laundered Via:: YoBit
 
-Attribution:: UN Security Council - August 30th, 2019 2019 Midterm Report - http://undocs.org/S/2019/691 - https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf)
+Attribution:: UN Security Council - August 30th, 2019 2019 Midterm Report - https://undocs.org/S/2019/691 - https://securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf)
 
 ## Details
 
@@ -84,13 +86,13 @@ The entire 1,993 BTC was moved into YoBit over 68 transactions, between August 2
 
 https://cybersecurity.att.com/blogs/labs-research/malicious-documents-from-lazarus-group-targeting-south-korea
 
-https://www.elliptic.co/blog/following-money-from-bithumb-hack
+https://elliptic.co/blog/following-money-from-bithumb-hack
 
-https://www.quadrigainitiative.com/casestudy/bithumbprivacyphishinghack.php
+https://quadrigainitiative.com/casestudy/bithumbprivacyphishinghack.php
 
-http://assetforfeiturelaw.us/wp-content/uploads/2020/08/113-Virtual-Currency-Accounts-Affidavit.pdf
+https://assetforfeiturelaw.us/wp-content/uploads/2020/08/113-Virtual-Currency-Accounts-Affidavit.pdf
 
-https://www.forbes.com/sites/daveywinder/2018/12/31/how-hackers-stole-1b-from-cryptocurrency-exchanges-in-2018/?sh=7f0a14ef4d87
+https://forbes.com/sites/daveywinder/2018/12/31/how-hackers-stole-1b-from-cryptocurrency-exchanges-in-2018/?sh=7f0a14ef4d87
 
 https://cointelegraph.com/news/bithumb-details-still-sketchy-after-30-mln-hack
 
@@ -128,14 +130,14 @@ Update (09:30 UTC, April 1, 2019): According to a report from CoinDesk Korea, Bi
 
 ## URLs
 
-https://www.coindesk.com/markets/2018/06/20/bithumb-31-million-crypto-exchange-hack-what-we-know-and-dont/
+https://coindesk.com/markets/2018/06/20/bithumb-31-million-crypto-exchange-hack-what-we-know-and-dont/
 
-https://www.coindesk.com/markets/2019/03/30/crypto-exchange-bithumb-hacked-for-13-million-in-suspected-insider-job/
+https://coindesk.com/markets/2019/03/30/crypto-exchange-bithumb-hacked-for-13-million-in-suspected-insider-job/
 
-https://www.web3rekt.com/hacksandscams/bithumb-635
+https://web3rekt.com/hacksandscams/bithumb-635
 
 https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
 
-https://www.quadrigainitiative.com/casestudy/bithumbeosxrphack.php
+https://quadrigainitiative.com/casestudy/bithumbeosxrphack.php
 
-https://www.web3rekt.com/hacksandscams/bithumb-632
+https://web3rekt.com/hacksandscams/bithumb-632

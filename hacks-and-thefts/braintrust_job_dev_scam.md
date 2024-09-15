@@ -32,7 +32,7 @@ Tags: 🎙️ Contagious Interview
 - All my crypto funds in my crypto wallet have been drained to the attacker by their malware as it has found and transmitted my private keys/seed phrase.
 - I don't know how they found it I am always very tight on digital hygiene and the only private key in plaintext was in .env files for my separate dev wallet that only contained $14 of gas tokens.
 - In the current market this stolen crypto is worth roughly $12,600
-- https://www.chainabuse.com/report/dc05e046-8da8-43ca-ab2c-df47b05681ba
+- https://chainabuse.com/report/dc05e046-8da8-43ca-ab2c-df47b05681ba
 - 0xa9c81d278e1342edc4a73bad65ae80ca04242d6b - Braintrust II: Victim
 - 0xd82012324c8a3c2d5721b2444b7ee3d989e65589 - Braintrust II: Victim
 - 0x9a4d77a4567706e5ca12ed5ce7020e4a961937d5 - Braintrust II: Victim
@@ -46,12 +46,12 @@ Tags: 🎙️ Contagious Interview
 
 > this is so true, I received this one, and almost did it, they claimed that they had urgent issues to fix, and gave me a code with NDA, and I found something weird, this is their site https://app.freebling.io, and when I mention why is she put child_process on the package, she
 
-- https://www.linkedin.com/posts/abhisheksinghsoni_blockchainsecurity-cryptoscamalert-defijobs-activity-7127542067001475073-71xU/
+- https://linkedin.com/posts/abhisheksinghsoni_blockchainsecurity-cryptoscamalert-defijobs-activity-7127542067001475073-71xU/
 
 
 ## Details IV
 
-- https://www.linkedin.com/pulse/i-got-hacked-what-did-do-after-lokicheck-zuzkc/
+- https://linkedin.com/pulse/i-got-hacked-what-did-do-after-lokicheck-zuzkc/
 - https://bitbucket.org/juandsuareza/main/src/main/pages/redirect.tsx
 
 
@@ -80,9 +80,9 @@ Tags: 🎙️ Contagious Interview
 
 
 ## Details VI
-- https://www.figma.com/design/FtyziR4eHSB68FIarRZw7Y/FreeBling-v2.1.3?node-id=0-1
+- https://figma.com/design/FtyziR4eHSB68FIarRZw7Y/FreeBling-v2.1.3?node-id=0-1
 - https://bitbucket.org/freebling/landing-web-app/src/main/
-- https://www.linkedin.com/posts/nikhil-jain-385456190_cryptoscam-jobsecurity-walletsecurity-activity-7166506226401329153-wnGJ/
+- https://linkedin.com/posts/nikhil-jain-385456190_cryptoscam-jobsecurity-walletsecurity-activity-7166506226401329153-wnGJ/
 
 
 

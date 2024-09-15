@@ -4,6 +4,8 @@ Date:: July 14th, 2021
 
 Amount Stolen:: $5,900,000
 
+Tags:: 🔑
+
 
 ---
 
@@ -76,8 +78,8 @@ The password account contained a mnemonic recovery phrase for his hardware walle
 - https://rekt.news/bondly-rekt/
 - https://bondlyfinance.medium.com/bondly-attack-july-14th-2021-postmortem-beb7cf02e9ba
 - https://cointelegraph.com/news/bondly-finance-urges-users-to-stop-trading-following-alleged-exploit
-- https://www.quadrigainitiative.com/casestudy/bondlyfinanceadminwalletcompromise.php
-- https://www.web3rekt.com/hacksandscams/bondly-finance-293
+- https://quadrigainitiative.com/casestudy/bondlyfinanceadminwalletcompromise.php
+- https://web3rekt.com/hacksandscams/bondly-finance-293
 - https://forj.medium.com/bondly-attack-july-14th-2021-postmortem-beb7cf02e9ba
 - https://twitter.com/BondSmithB/status/1415511611482198021
 - https://forj.medium.com/bondly-statement-to-our-community-dac8e4801fcb

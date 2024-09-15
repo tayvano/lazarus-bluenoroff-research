@@ -68,7 +68,7 @@ Sincerely,
 
 SPooCK
 
-[Submitted on Aug 27, 2023 By SPooCK](https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070)
+[Submitted on Aug 27, 2023 By SPooCK](https://chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070)
 
 
 
@@ -105,14 +105,14 @@ I don't think, I know, their ENS name is public, and interreacted with the hacke
 - https://twitter.com/bunhouth
 - https://stackoverflow.com/users/4710358/bun-houth
 - https://gist.github.com/BunHouth
-- https://www.upwork.com/en-gb/freelancers/~018bdf05f7fd7414dc
+- https://upwork.com/en-gb/freelancers/~018bdf05f7fd7414dc
 - bunhouth.eth
 - https://etherscan.io/tx/0xfafc480c16bc6d71d0f1c03f9c1a65d5f89015971f0da4374380abadf9b76671
 
 "Victim" 2:
 
 - https://twitter.com/iafhurtado
-- https://www.upwork.com/freelancers/~01b830b8c51f54f474
+- https://upwork.com/freelancers/~01b830b8c51f54f474
 - https://portfolio-iafhurtado.vercel.app/#contact
 - jaibo.eth
 - https://etherscan.io/tx/0x18af51f6042562db8171d799a6a09ae205e936846375dd962b52c47b7ce06708
@@ -120,5 +120,5 @@ I don't think, I know, their ENS name is public, and interreacted with the hacke
 
 ## URLs
 
-- https://www.chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070
+- https://chainabuse.com/report/481298c5-e74b-4791-aaee-1a2909e0a070
 

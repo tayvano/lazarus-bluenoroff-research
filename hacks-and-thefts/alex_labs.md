@@ -72,7 +72,7 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 
 - https://x.com/ALEXLabBTC/status/1790611871986331855
 
-- https://www.certik.com/resources/blog/alex
+- https://certik.com/resources/blog/alex
 
 - https://x.com/ALEXLabBTC/status/1791020176332230988
 

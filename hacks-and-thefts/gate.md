@@ -97,9 +97,9 @@ e.g. 3GHUDLzk1VjYAxZC5rV3T5aAgEWCA7QmF7
 
 ## URLs
 
-- http://assetforfeiturelaw.us/wp-content/uploads/2020/08/113-Virtual-Currency-Accounts-Affidavit.pdf
+- https://assetforfeiturelaw.us/wp-content/uploads/2020/08/113-Virtual-Currency-Accounts-Affidavit.pdf
 
-- https://www.cnas.org/publications/reports/following-the-crypto
+- https://cnas.org/publications/reports/following-the-crypto
 
 - https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/BlockchainAnalysisEES.pdf?mtime=20220216090240&focal=none
 

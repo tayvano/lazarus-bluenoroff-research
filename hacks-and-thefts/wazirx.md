@@ -4,7 +4,7 @@ Date:: July 18th, 2024
 
 Amount Stolen:: $230,000,000
 
-Tags:: 👛 Trader Traitor
+Tags:: 👛 Trader Traitor, Keys Not Compromised
 
 --
 
@@ -44,7 +44,7 @@ This suggests a significant failure in Liminal's verification process, a vulnera
 ## URLs
 
 - https://rekt.news/wazirx-rekt/
-- https://www.liminalcustody.com/blog/update-on-wazirx-incident/
+- https://liminalcustody.com/blog/update-on-wazirx-incident/
 - https://twitter.com/0xVazi/status/1813865773213077752
 - https://twitter.com/liminalcustody/status/1813889131338199186
 - https://twitter.com/liminalcustody/status/1813889133968056660

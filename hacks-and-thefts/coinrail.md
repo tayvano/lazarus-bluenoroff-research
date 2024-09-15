@@ -4,6 +4,7 @@ Date:: June 9th, 2018
 
 Amount Stolen:: $37,000,000 (1927 ETH)
 
+Laundered Via:: IDEX, EtherDelta
 
 ---
 
@@ -18,8 +19,6 @@ South Korea
 
 Despite the fact that Coinrail was a relatively small cryptocurrency exchange, it did a lot of business which drew the attention of hackers. Exact details of the attack are still unclear, and the exchange lost an estimated $40 million.
 
-Tokens sent to IDEX and ETHERDELTA to trade
-
 
 
 ## On-Chain
@@ -32,11 +31,7 @@ Tokens sent to IDEX and ETHERDELTA to trade
 ## URLs
 
 - https://twitter.com/Coinrail_Korea/status/1005650529773486080
-
-- https://www.quadrigainitiative.com/casestudy/coinrailexchangehack.php
-
-- https://www.bleepingcomputer.com/news/security/south-korean-cryptocurrency-exchange-coinrail-gets-hacked/
-
+- https://quadrigainitiative.com/casestudy/coinrailexchangehack.php
+- https://bleepingcomputer.com/news/security/south-korean-cryptocurrency-exchange-coinrail-gets-hacked/
 - https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf
-
 - https://oxtresearch.com/the-north-korean-connection/

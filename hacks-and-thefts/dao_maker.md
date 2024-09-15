@@ -9,6 +9,8 @@ Tags:: 💼 Admin Key Compromise
 
 ---
 
+## Details
+
 CEO Christoph Zaknun said hackers were able to remove roughly $7 million in USD Coin USDC from 5,251 user accounts.
 
 DAO Maker, an encryption incubator, issued an announcement stating that at around 1:00 UTC on August 12th, hackers maliciously used a DAO Maker wallet and obtained administrator rights. After initially testing this vulnerability and successfully stealing 10,000 USDC, the cybercriminal made another 15 transactions quietly. In this way, hackers embezzled approximately $7 million before the security team was able to track, control, and prevent the outflow of funds. A total of 5,251 users were affected, and each user lost an average of $1250. Fortunately, users who hold up to $900 in funds are not affected at all
@@ -19,25 +21,16 @@ DAO Maker, an encryption incubator, issued an announcement stating that at aroun
 
 
 
-
 ### On-chain
 
 - 0x054e71D5f096a0761dba7dBe5cEC5E2Bf898971c - the original deployer (legit)
-
 - 0x0Eba461D9829C4e464A68D4857350476CFb6F559 - EOA wallet, admin (legit)
-
 - 0x41B856701BB8c24CEcE2Af10651BfAfEbb57cf49 - DAO Maker
-
 - 0x1C93290202424902a5e708b95f4ba23A3F2F3Cee - Exploiter Contract
-
 - 0xd8428836ed2a36bd67cd5b157b50813b30208f50 - Exploiter, Direct Theft
-
 - 0xef9427bf15783fb8e6885f9b5f5da1fba66ef931 - Laundry / TC
-
 - 0x895d7ba5fb4043722214042e43d7fde4c3449307 - TC, donates just to Gitcoin:TC address
-
 - 0x26aa86261c834e837f6be93b2d589724ed5ae644bc8f4b8af2207e6bd70828f9
-
 
 
 ### URLs
@@ -50,9 +43,9 @@ DAO Maker, an encryption incubator, issued an announcement stating that at aroun
 - https://medium.com/daomaker/dao-maker-compensation-plan-b7a76a312c30
 - https://medium.com/daomaker/dao-maker-statement-thursday-12th-of-august-2c3bb0d1bb69
 - https://medium.com/daomaker/dear-users-and-supporters-of-dao-maker-e00a5f3a3883
-- https://www.certik.com/projects/daomaker
-- https://www.quadrigainitiative.com/casestudy/daomakerexploit.php
-- https://www.web3rekt.com/hacksandscams/dao-maker-270
+- https://certik.com/projects/daomaker
+- https://quadrigainitiative.com/casestudy/daomakerexploit.php
+- https://web3rekt.com/hacksandscams/dao-maker-270
 - https://twitter.com/peckshield/status/1425778230968135684
 - https://twitter.com/PeckShieldAlert/status/1532936259877732358
 
@@ -126,23 +119,18 @@ However, the source code of the contract was not public. You need deep technical
 ### On-chain
 
 - 0x2708cace7b42302af26f1ab896111d87faeff92f - Primary Theft
-
 - 0x0b7894e365a0f8a7e3e294ea6562071497da2f83
-
 - 0xd08c13ee849d7e7936a57cc60cecab46c7e3b743
-
 - 0xbe70cf6749d97df054f4edbe51a3c63634f77eba
-
 - 0xa79e633bd0f735abe64657d4a6208efdc674dfb0
 
 
 ### URLs
 
 - https://drive.google.com/file/d/1tPRMktnros6ifJLfvQkrT6mAmEJvUufT/view
-- https://www.web3rekt.com/hacksandscams/dao-maker-251
+- https://web3rekt.com/hacksandscams/dao-maker-251
 - https://rekt.news/daomaker-rekt/
-- https://www.rekt.news/daomaker-rekt/
 - https://slowmist.medium.com/intelligence-of-slowmist-zone-dao-makers-vesting-system-was-hacked-5825e4828969
-- https://www.quadrigainitiative.com/casestudy/daomakerinsufficientauthentication.php
+- https://quadrigainitiative.com/casestudy/daomakerinsufficientauthentication.php
 - https://twitter.com/Mudit__Gupta/status/1434059922774237185
 - -https://twitter.com/Mudit__Gupta/status/1434059922774237185

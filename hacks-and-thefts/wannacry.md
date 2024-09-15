@@ -54,22 +54,22 @@ As with Version 1, ransoms paid by victims of WannaCry Version 2 were also paid 
 - https://medium.com/@nbax/tracing-the-wannacry-2-0-monero-transactions-d8c1e5129dc1
 - https://money.cnn.com/2017/08/03/technology/wannacry-bitcoin-ransom-moved/index.html
 - https://securelist.com/wannacry-and-lazarus-group-the-missing-link/78431/
-- https://www.bloomberg.com/news/articles/2017-12-19/u-s-blames-north-korea-for-cowardly-wannacry-cyberattack
-- https://www.cbsnews.com/news/wannacry-ransomware-attacks-wannacry-virus-losses/
-- https://www.cnbc.com/2017/05/23/symantec-says-highly-likely-north-korea-group-behind-ransomware-attacks.html
-- https://www.cnbc.com/2017/08/03/hackers-havecashed-out-on-143000-of-Bitcoin-from-the-massive-wannacry-ransomware-attack.html
-- https://www.eyerys.com/articles/timeline/wannacry-infecting-more-230000-computers-99-countries#event-a-href-articles-timeline-namewreck-exposes-hundreds-millions-iot-devices-security-risks039-name-wreck039-exposes-hundreds-of-millions-of-iot-devices-to-security-risks-a
-- https://www.fortinet.com/blog/threat-research/wannacry-evolving-history-from-beta-to-2-0
-- https://www.justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
-- https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
-- https://www.justice.gov/opa/press-release/file/1367701/download
-- https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html
-- https://www.nao.org.uk/report/investigation-wannacry-cyber-attack-and-the-nhs/
-- https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf
-- https://www.technologyreview.com/2020/01/24/276082/lazarus-group-dragonex-chainalysis/ 
-- https://www.theatlantic.com/technology/archive/2017/05/shadow-brokers/527778/
-- https://www.whitehouse.gov/briefings-statements/press-briefing-on-the-attribution-of-the-wannacry-malware-attack-to-north-korea-121917/
-- https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/
-- https://www.wsj.com/articles/u-s-preparing-cases-linking-north-korea-to-theft-at-n-y-fed1490215094.
-- Page 106 [US v PARK JIN HYOK (June 2018)](https://www.justice.gov/opa/press-release/file/1092091/download)
+- https://bloomberg.com/news/articles/2017-12-19/u-s-blames-north-korea-for-cowardly-wannacry-cyberattack
+- https://cbsnews.com/news/wannacry-ransomware-attacks-wannacry-virus-losses/
+- https://cnbc.com/2017/05/23/symantec-says-highly-likely-north-korea-group-behind-ransomware-attacks.html
+- https://cnbc.com/2017/08/03/hackers-havecashed-out-on-143000-of-Bitcoin-from-the-massive-wannacry-ransomware-attack.html
+- https://eyerys.com/articles/timeline/wannacry-infecting-more-230000-computers-99-countries#event-a-href-articles-timeline-namewreck-exposes-hundreds-millions-iot-devices-security-risks039-name-wreck039-exposes-hundreds-of-millions-of-iot-devices-to-security-risks-a
+- https://fortinet.com/blog/threat-research/wannacry-evolving-history-from-beta-to-2-0
+- https://justice.gov/opa/pr/north-korean-regime-backed-programmer-charged-conspiracy-conduct-multiple-cyber-attacks-and
+- https://justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+- https://justice.gov/opa/press-release/file/1367701/download
+- https://malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html
+- https://nao.org.uk/report/investigation-wannacry-cyber-attack-and-the-nhs/
+- https://securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/S_2019_691.pdf
+- https://technologyreview.com/2020/01/24/276082/lazarus-group-dragonex-chainalysis/ 
+- https://theatlantic.com/technology/archive/2017/05/shadow-brokers/527778/
+- https://whitehouse.gov/briefings-statements/press-briefing-on-the-attribution-of-the-wannacry-malware-attack-to-north-korea-121917/
+- https://wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/
+- https://wsj.com/articles/u-s-preparing-cases-linking-north-korea-to-theft-at-n-y-fed1490215094.
+- Page 106 [US v PARK JIN HYOK (June 2018)](https://justice.gov/opa/press-release/file/1092091/download)
 - Page 29 of [UN Security Council's North Korea 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf)

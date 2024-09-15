@@ -6,9 +6,10 @@ Amount Stolen:: $500,000?
 
 Tags:: Sim Swap
 
+---
+
 
 ## Details
-
 
 Bitcoin Norway has shut down all operations according to its website and posts on Facebook. Bitcoin Norway is a cryptocurrency exchange that claims to have served over 25,000 Norwegians since 2013.  On Monday last week, the customers of Bitcoins Norway’s crypto exchange were told that their crypto currency would be forcibly sold at a significantly lower price due to an alleged attack on the supplier AlphaPoint. 
 
@@ -31,6 +32,6 @@ The FBI is the sole and appropriate law enforcement entity to investigate this c
 ## URLs
 
 - https://cryptoxdirectory.com/bitcoins%20norway
-- https://www.crowdfundinsider.com/2019/07/149439-bitcoin-norway-shuts-down-due-to-theft-via-sim-swap-hack-and-sophisticated-spear-phishing-techniques/
-- https://www.web3rekt.com/hacksandscams/bitcoin-norway-alphapoint-596
-- https://www.quadrigainitiative.com/casestudy/bitcoinsnorwayalphapointattack.php
+- https://crowdfundinsider.com/2019/07/149439-bitcoin-norway-shuts-down-due-to-theft-via-sim-swap-hack-and-sophisticated-spear-phishing-techniques/
+- https://web3rekt.com/hacksandscams/bitcoin-norway-alphapoint-596
+- https://quadrigainitiative.com/casestudy/bitcoinsnorwayalphapointattack.php

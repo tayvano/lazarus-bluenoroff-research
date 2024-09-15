@@ -6,7 +6,7 @@ Tags: 🎙️ Contagious Interview
 
 ---
 
-- https://www.linkedin.com/in/lucas-sousa-santos-54148a2a5
+- https://linkedin.com/in/lucas-sousa-santos-54148a2a5
 
 - Malicious File: https://drive[.]google[.]com/file/d/1MeOvMRShcG0BqvT3iLm84-MAIZN12-w0/view?usp=sharing
 
@@ -41,6 +41,6 @@ Date:: March 1st, 2024
 
 - Project Codebase: https://drive.google.com/file/d/1CtogQvlO0tuY2he5J0Fjnu8fCMOKcfNZ/view
 
-- https://www.facebook.com/elsayed.rapy.7?mibextid=ZbWKwL
+- https://facebook.com/elsayed.rapy.7?mibextid=ZbWKwL
 
 - +16598672334
