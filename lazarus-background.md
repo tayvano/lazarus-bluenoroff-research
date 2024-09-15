@@ -45,6 +45,8 @@
 
 # Interesting Quotes
 
+
+
 > Lazarus is not just another APT actor The scale of Lazarus operations is shocking. It has been on a growth spike since 2011 and activities didn't disappear after Novetta published the results of its Operation Blockbuster research.
 
 > All those hundreds of samples that were collected give the impression that Lazarus is operating a factory of malware, which produces new samples via multiple independent conveyors.  We have seen it using various code obfuscation techniques, rewriting its own algorithms, applying commercial software protectors, and using its own and underground packers. Lazarus knows the value of quality code, which is why we normally see rudimentary backdoors being pushed during the first stage of infection. 
@@ -67,10 +69,34 @@
 
 > To date, the Lazarus/Bluenoroff group has been one of the most successful in large scale operations against financial industry.  We believe that it will remain one of the biggest threats to the banking sector, finance and trading companies as well as casinos, for years to come.
 
-> “Lazarus is a rather unusual nation state sponsored group. On one hand, as many other similar groups do, it focuses on conducting cyberespionage or sabotage operations. Yet on the other hand, it has also been found to influence attacks that are clearly aimed at stealing money. The latter is quite unique for such a high profile threat actor because generally, other actors do not have financial motivations in their operations” - Konstantin Zykov security researcher, Kaspersky Global Research and Analysis Team.
+— [Lazarus Under The Hood, 2017](https://securelist.com/lazarus-under-the-hood/77908/)
+
+
+
+
+> “Lazarus is a rather unusual nation state sponsored group. On one hand, as many other similar groups do, it focuses on conducting cyberespionage or sabotage operations. Yet on the other hand, it has also been found to influence attacks that are clearly aimed at stealing money. The latter is quite unique for such a high profile threat actor because generally, other actors do not have financial motivations in their operations”
 
 > “The vast amount of samples we found demonstrate how Lazarus is one of the most active APT groups, constantly developing and evolving threats in a bid to affect large-scale industries. Their successful execution of these RATs proves that even when a threat seems to disappear, it can be resurrected in a different guise to attack new targets.
 
+- [Konstantin Zykov security researcher, Kaspersky Global Research and Analysis Team](https://usa.kaspersky.com/about/press-releases/dtrack-previously-unknown-spy-tool-hits-financial-institutions-and-research-centers)
+
+
+
 > We have discovered an asset-backed crypto scam called Marine Chain operated by North Korea enablers in Singapore & at least one other scam coin called HOLD/HUZU
 
+—[Shifting Patterns in Internet Use Reveal Adaptable and Innovative North Korean Ruling Elite, Recorded Future, 2018](https://www.recordedfuture.com/north-korea-internet-usage/)
+
+
+
+
+
 > In December 2019, Lazarus Group had 470 separate cryptocurrency addresses at its top 20 exchanges that had received at least $1,000 worth of stolen cryptocurrency. By the end of December 2020, that number had risen to 2,078. This suggests that Lazarus Group is spreading its funds around more to mitigate the risk of any one address being identified and frozen. It also fits a pattern of adaptability on the part of Lazarus Group — each year, their money laundering strategy changes as services improve their security efforts.
+
+—[The 2021 Crypto Crime Report, Chainalysis, 2021](https://safewayconsultoria.com/wp-content/uploads/2021/09/Chainalysis-Crypto-Crime-2021.pdf)
+
+Note:
+
+- Lazrus used over 3,248 distinct EVM addresses to launder Atomic Wallet between June 3, 2023—August 3, 2023
+
+- They used over 1,000 addresses just for the Tornado Cash laundering of Poloniex on Ethereum in Spring 2024
+
