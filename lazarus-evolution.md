@@ -2,22 +2,60 @@
 
 ![](./images/mandiant-2023-dprk-cyber-org.jpg)
 
-Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 2023](https://mandiant.com/resources/blog/north-korea-cyber-structure-alignment-2023)
+- [Organizational Map of DPRK Cyber Operations (2022)](https://mandiant.com/resources/mapping-dprk-groups-to-government)
+
+- [Update to the Organizational Map of DPRK Cyber Operations (2023)](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-cyber-structure-alignment-2023)
+
+- [Update to the Organizational Map of DPRK Cyber Operations (2024)](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
 
 
-## 👛 TraderTraitor aka Jade Sleet / UNC4899
 
+## 🔑 SquidSquad / Sapphire Sleet / DangerousPassword
+
+- aka: CryptoCore, APT38, Bluenoroff, Alluring Pisces, Leery Turtle, SnatchCrypto, CryptoMimic, UNC1069, Black Alicanto
+- This group has targeted financial institutions, cryptocurrency businesses and ATMs. It has also conducted significant cyber heists.
+- 2023/2024 activity usually referred to as SquidSquad by on-chain folks
+- Today: VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript. Tornado Cash, eXch, Noones, Paxful, Instaswappers.
+- Before: Google Drive phishing, malicious PDFs, "Fast changes to stablecoin risk.pdf", `Password.txt.lnk`, Tornado Cash, Renbridge, Chipmixer, Noones, Paxful. Dust Collectors!
+- May include individuals or units previously tracked as APT38. Has minor overlaps with APT43 but operates distinctly
+- UNC1069 has targeted a variety of financial services firms and cryptocurrency exchanges, commonly employing spear-phishing techniques that result in LONEJOGGER (and other) malware infections
+- Appears to maintain a revenue generation priority, like its overarching APT38 subunits, however on a much smaller financial scale.
+- Past Attacks: A4 (Founder/CEO), I4 (Founder/CEO of DeFi Thing), C4 (defi media person), C7 (CEO of blockchain infra company), ALEX Labs, Samudai Founder, Maverick Founder, Fantom Foundation CEO, Coinshift C-Level, Steadefi, GERA Coin, deBridge (Attempt), Wonderhero, Arthur_0x, bZx, YFETH Admin Key, Metaplay / Polyplay, MNGR, Bondly Finance, Tower Capital, NAOs Finance, FinNexus Admin Key, 990.1 BTC, EasyFi Founder, Mudge / Etna / Mokens Deployer, Indodax ATO, Hugh Karp / Nexus Mutual, L2 Theft (crypto investor), LEAD Wallet Token, CoinMetro, Unibright, Tap Global, Coinberry, Fetch.ai
+- On-chain Laundry Observes: Express VPN, occasional leak Ryugyong-dong IPs
+- [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
+- [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
+- [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
+- [Dec 2023 | Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
+- [Nov 2023 | jamf: BlueNoroff strikes again with new macOS malware](https://jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/)
+- [May 2023 | Attack Trends Related to DangerousPassword](https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html)
+- [Apr 2023 | BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
+- [Dec 2022 | BlueNoroff introduces new methods bypassing MoTW](https://securelist.com/bluenoroff-methods-bypass-motw/108383/)
+- [Jan 2022 | The BlueNoroff cryptocurrency hunt is still on](https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/)
+- [Jan 2022 | VBA Downloads, Bypassing MOTW, Bumblebee](https://proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world)
+- [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea](https://clearskysec.com/cryptocore-lazarus-attribution/)
+- [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea (PDF)](https://clearskysec.com/wp-content/uploads/2021/05/CryptoCore-Lazarus-Clearsky.pdf)
+- [Oct 2020 | Unveiling The Cryptomimic](https://vblocalhost.com/uploads/VB2020-Takai-etal.pdf)
+- [Jun 2020 | CryptoCore: A Threat Actor Targetting Crypto Exchanges](https://clearskysec.com/wp-content/uploads/2020/06/CryptoCore_Group.pdf)
+- [Jun 2019 | JPCert: VBScript, `Password.txt.lnk`](https://blogs.jpcert.or.jp/en/2019/07/spear-phishing-against-cryptocurrency-businesses.html)
+- [Jan 2018 | Proofpoint: Analyzing CHM Files, Malicious LNKs, VBScript Macros, Microsoft Office Docs, PowerShell implants, Gh0st RAT](https://proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug-180129.pdf)
+
+
+
+
+## 👛 TraderTraitor / Jade Sleet
+
+- aka: UNC4899, Slow Pisces
+- This group has targeted blockchain and cryptocurrency companies. It was also involved in a supply chain attack targeting a U.S.-based software platform and is known for distributing a series of malicious applications called TraderTraitor.
 - The big boys, the insane on-chain laundry sessions
 - Targets blockchain companies through spear-phishing messages, fake job offers
 - Messages employees, particularly those in system administration or software development roles, on various communication platforms, intended to gain access to these start-up and high-tech companies
 - Today: Job offers and/or skills tests in python, sql, etc. Github, malicious npm packages are utilized. Personas on Linkedin usually white and impersonating/cloned legit profile. Github repos may be private. Conversation style usually more casual, conversational, adaptable? 
 - Before: Same except ultimately deliverered malicious electron trading apps
-- Coinstats, Poloniex, HTX/Heco, Stake, Coinex, Alphapo, Coinspaid, Atomic Wallet, JumpCloud, 3CX, Harmony, Ronin
+- WazriX, DMM Bitcoin, Poloniex, HTX/Heco, Stake, Coinex, Alphapo, Coinspaid, Atomic Wallet, JumpCloud, 3CX, Harmony, Ronin
 - More time passes between compromise and theft (at times 6+ months) making it especially hard to identify intiial social engineering that led to compromise.
 - May be the work of operators previously responsible for broader APT38 activity
-- Express VPN, occasional leak of Ryugyong-dong IPs
+- On-chain Observations: Express VPN, occasional leak of Ryugyong-dong IPs
 - Example applications (all designed to appear as legitimate cryptocurrency trading or portfolio management tools): TokenAIS, CryptAIS, CreAI Deck, AlticGO, and Esilet
-- [Aug 2024 | North Korean threat actor Citrine Sleet exploiting Chromium zero-day (CVE-2024-7971)](https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/)
 - [Jul 2024 | TraderTraitor's Recent Social Engineering - Raw Convos, Takeaways](https://twitter-thread.com/t/1810455262320570416)
 - [Jun 2024 | North Korean Government-Backed Groups Targeting Brazil](https://cloud.google.com/blog/topics/threat-intelligence/cyber-threats-targeting-brazil#:~:text=In%20early%202024%2C%20PUKCHONG%20(UNC4899)%20targeted%20cryptocurrency%20professionals%20in%20multiple%20regions)
 - [Jul 2023 | Social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/)
@@ -28,32 +66,57 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - [Apr 2022 | TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies (Web)](https://cisa.gov/news-events/cybersecurity-advisories/aa22-108a)
 
 
+## 👛 Applejeus / Citrine Sleet
+- aka: Gleaming Pisces, Labyrinth Chollima, UNC4736, Hidden Cobra, DEV-0139
+- Note: in this repo these are all tagged 👛. I'll untangle them later but not today.
+- A threat group that has been active since at least 2018
+- This group performed attacks targeting the cryptocurrency industry and is known for its association with the AppleJeus campaign.
+- Primarily targets: financial institutions, particularly organizations and individuals managing cryptocurrency, for financial gain.
+- Has conducted extensive reconnaissance of the cryptocurrency industry and individuals associated with it
+- Creates fake websites masquerading as legitimate cryptocurrency trading platforms and uses them to distribute fake job applications or lure targets into downloading a weaponized cryptocurrency wallet or trading application based on legitimate applications
+- Most commonly infects targets with the unique trojan malware it developed, AppleJeus, which collects information necessary to seize control of the targets’ cryptocurrency assets
+- The FudModule rootkit described in [this blog](https://microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/) has now been tied to Citrine Sleet as shared tooling with Diamond Sleet.
+- Like TraderTraitor, this crypto-focused group appeared to emerge after the notoriety that came with the Bangladesh heist and issues with stealing and laundering traditional currency. 
+- This group’s tools overlap with TEMP.Hermit, but is not focused on the same targeting profiles, potentially indicating shared resources.
+- Known Attacks: 
+    - 2018 Gate.io Hack (Celas Trade Pro)
+    - 2019 DragonEx Hack (WorldBit-Bot)
+- "One of the most successful fake personas used by the Lazarus Group was Waliy Darwish—a man who supposedly worked for a cryptocurrency company, based in Michigan, called Celas L.L.C." —[The Incredible Rise of North Korea’s Hacking Army](https://newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
+- [Aug 2024 | North Korean threat actor Citrine Sleet exploiting Chromium zero-day (CVE-2024-7971)](https://microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/)
+- [Apr 2021 | AppleJeus](https://cisa.gov/news-events/cybersecurity-advisories/aa21-048a)
+- [Feb 2021 | CISA: AppleJeus: Celas Trade Pro](https://cisa.gov/news-events/analysis-reports/ar21-048a)
+- [Feb 2021 | AppleJeus – Celas Trade Pro](https://us-cert.gov/ncas/analysis-reports/ar21-048a)
+- [Feb 2021 | AppleJeus – JMT Trading](https://us-cert.gov/ncas/analysis-reports/ar21-048b)
+- [Feb 2021 | AppleJeus – Union Crypto](https://us-cert.gov/ncas/analysis-reports/ar21-048c)
+- [Feb 2021 | AppleJeus – Kupay Wallet](https://us-cert.gov/ncas/analysis-reports/ar21-048d)
+- [Feb 2021 | AppleJeus – CoinGoTrade](https://us-cert.gov/ncas/analysis-reports/ar21-048e)
+- [Feb 2021 | AppleJeus – Dorusio](https://us-cert.gov/ncas/analysis-reports/ar21-048f)
+- [Feb 2021 | AppleJeus – Ants2Whale](https://us-cert.gov/ncas/analysis-reports/ar21-048g)
+- [Aug 2018 | Operation AppleJeus: Lazarus hits cryptocurrency exchange with fake installer and macOS malware](https://securelist.com/operation-applejeus/87553/)
 
 
-## 🔑 SquidSquad aka Sapphire Sleet / CryptoCore / DangerousPassword / SnatchCrypto / CryptoMimic / UNC1069
 
-- Today this activity is mostly called SquidSquad by on-chain trackers
-- Maps for the most part to Bluenoroff / some original APT38 as you go back in time. However there are some weird things that don't map perfectly, especially over time.
-- Today: VC impersonating, Telegram messagers, fake video meet calls, RustBucket, Mac malware, Applescript. Tornado Cash, eXch, Noones, Paxful, Instaswappers.
-- Before: Google Drive phishing, malicious PDFs, "Fast changes to stablecoin risk.pdf", Tornado Cash, Renbridge, Chipmixer, Noones, Paxful. Dust Collectors!
-- May include individuals or units previously tracked as APT38. Has minor overlaps with APT43 but operates distinctly
-- UNC1069 has targeted a variety of financial services firms and cryptocurrency exchanges, commonly employing spear-phishing techniques that result in LONEJOGGER (and other) malware infections
-- Appears to maintain a revenue generation priority, like its overarching APT38 subunits, however on a much smaller financial scale.
-- CoinBerry, Unibright, CoinMetro, Geracoin, Darshan, Nexus Mutual, EasyFi, Bondly, Arthur_0x, MGNR, PolyPlay, bZx, Steadefi, CoinShift, Maverick, Samudai, Fantom Foundation
-- Express VPN, occasional leak Ryugyong-dong IPs
-- [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
-- [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
-- [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
-- [Dec 2023 | Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
-- [May 2023 | Attack Trends Related to DangerousPassword](https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html)
-- [Apr 2023 | BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
-- [Jan 2022 | VBA Downloads, Bypassing MOTW, Bumblebee](https://proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world)
-- [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea](https://clearskysec.com/cryptocore-lazarus-attribution/)
-- [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea (PDF)](https://clearskysec.com/wp-content/uploads/2021/05/CryptoCore-Lazarus-Clearsky.pdf)
-- [Oct 2020 | Unveiling The Cryptomimic](https://vblocalhost.com/uploads/VB2020-Takai-etal.pdf)
-- [Jun 2020 | CryptoCore: A Threat Actor Targetting Crypto Exchanges](https://clearskysec.com/wp-content/uploads/2020/06/CryptoCore_Group.pdf)
-- [Jun 2019 | JPCert: VBScript, `Password.txt.lnk`](https://blogs.jpcert.or.jp/en/2019/07/spear-phishing-against-cryptocurrency-businesses.html)
-- [Jan 2018 | Proofpoint: Analyzing CHM Files, Malicious LNKs, VBScript Macros, Microsoft Office Docs, PowerShell implants, Gh0st RAT](https://proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug-180129.pdf)
+## 💼 DPRK IT Workers
+
+- Merlin DEX, Munchables, Solareum, a bunch of unknown others or misidentified shit from Contagious Interview.
+- Have resumes. Get hired. Get paid payroll that goes to DPRK.
+- Primarily fall under the KWP’s Munitions Industry Department
+- Made up of thousands of highly skilled IT workers from North Korea
+- Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
+- Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
+- Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))
+- [May 2024 | Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
+- [Mar 2024 | re: DPRK IT Workers I](https://twitter.com/tayvano_/status/1777911893224808911)
+- [Mar 2024 | re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
+- [Mar 2024 | re: DPRK IT Workers III](https://twitter.com/tayvano_/status/1777911898845159775)
+- [Nov 2023 | North Koreans use fake names, scripts to land remote IT work for cash](https://reuters.com/technology/north-koreans-use-fake-names-scripts-land-remote-it-work-cash-2023-11-21/)
+- [Oct 2023 | Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://zetter-zeroday.com/p/how-north-korean-workers-tricked)
+- [Oct 2023 | U.S. DOJ: Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of DPRK IT Workers](https://justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation)
+- [Oct 2023 | U.S. Treasury: Additonal Guidance on the DPRK IT Workers](https://ic3.gov/Media/Y2023/PSA231018)
+- [Apr 2023 | U.S. DOJ: North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies)
+- [May 2022 | U.S. Treasury: Guidance on the DPRK IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
+
 
 
 ## 🎙️ Contagious Interview
@@ -115,36 +178,50 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 
 
 
-## 💼 DPRK IT Workers
+## 👛 / ⁉️ 
 
-- Merlin DEX, Munchables, Solareum, a bunch of unknown others or misidentified shit from Contagious Interview.
-- Have resumes. Get hired. Get paid payroll that goes to DPRK.
-- Primarily fall under the KWP’s Munitions Industry Department
-- Made up of thousands of highly skilled IT workers from North Korea
-- Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
-- Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
-- Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
-- [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))
-- [May 2024 | Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
-- [Mar 2024 | re: DPRK IT Workers I](https://twitter.com/tayvano_/status/1777911893224808911)
-- [Mar 2024 | re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
-- [Mar 2024 | re: DPRK IT Workers III](https://twitter.com/tayvano_/status/1777911898845159775)
-- [Nov 2023 | North Koreans use fake names, scripts to land remote IT work for cash](https://reuters.com/technology/north-koreans-use-fake-names-scripts-land-remote-it-work-cash-2023-11-21/)
-- [Oct 2023 | Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://zetter-zeroday.com/p/how-north-korean-workers-tricked)
-- [Oct 2023 | U.S. DOJ: Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of DPRK IT Workers](https://justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation)
-- [Oct 2023 | U.S. Treasury: Additonal Guidance on the DPRK IT Workers](https://ic3.gov/Media/Y2023/PSA231018)
-- [Apr 2023 | U.S. DOJ: North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies)
-- [May 2022 | U.S. Treasury: Guidance on the DPRK IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
-
-
-
+- [Sep 2024 | Fake recruiter coding tests target devs with malicious Python packages (Duelbits)](https://reversinglabs.com/blog/fake-recruiter-coding-tests-target-devs-with-malicious-python-packages)
+- Python_Skill_Assessment.zip and Python_Skill_Test.zip
+- Altered pyperclip and pyrebase modules
 
 
 ## 🎙️ / 💼 / ⁉️ 
 
 - [Microsoft: Moonstone Sleet emerges as new North Korean threat actor with new bag of tricks](https://microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/)
-- [Microsoft: Diamond Sleet (prev:ZINC) attacks against security researchers](https://microsoft.com/en-us/security/blog/2021/01/28/zinc-attacks-against-security-researchers/)
 
+
+
+
+
+## Andariel / APT45 / Onyx Sleep / UNC614 / Jumpy Pisces
+- This group has primarily conducted cyberespionage, but it has also conducted ransomware activity.
+- Known for its broader scope of operations, Andariel targets both government and private sector entities, including financial services and cryptocurrency companies. Their methods include exploiting vulnerabilities in widely used software, such as the Log4j vulnerability, to deploy bespoke malware and gain unauthorized access to sensitive systems
+- This actor targets foreign businesses, government agencies, financial services infrastructure, private corporations, and the defense industry. UNC614 also engages in cyber crime as an extra source of income to fund their operations, including the [ransoming of hospitals](https://advantage.mandiant.com/reports/22-00021780), using their own ransomware malware dubbed [MAUI](https://advantage.mandiant.com/reports/22-00019069). However, their primary focus is on targeting military and government personnel. 
+- This cyber group stands apart from the other DPRK aligned groups and typically does not fall into the blending and targeting that the others may do. Some groups have espionage and financial focuses, but Andariel is tasked to acquire information to “build” the weapons of mass destruction or research and development programs in other targeted fields, like pharmaceuticals. 
+- The targeting trends, such as nuclear, aerospace, high heat molds, etc. and overall successful compromises of this actor make it quite possibly the scariest of all the DPRK affiliated groups.
+- Primary targeting: Defense, Aerospace, Healthcare (when self-funding operations), Nuclear
+- [2024 | APT45: North Korea’s Digital Military Machine](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
+- https://global.ahnlab.com/global/upload/download/techreport/%5BAhnLab%5DAndariel_a_Subgroup_of_Lazarus%20\(3\).pdf
+- https://securelist.com/lazarus-andariel-mistakes-and-easyrat/110119/
+
+
+
+
+## TEMP.Hermit / Diamond Sleet
+- aka: UNC2970, Selective Pisces, ZINC, Labyrinth Chollima
+- This group has targeted media, defense and IT organizations. It focuses on espionage, financial gain and network destruction.
+- Mandiant said the threat cluster shares "multiple overlaps" with a long-running operation dubbed "Dream Job" that employs job recruitment lures in email messages to trigger the infection sequence.
+- TEMP.Hermit, is an actor that has been active since at least 2013. Their operations since that time are representative of Pyongyang's efforts to collect strategic intelligence to benefit North Korean interests. This actor targets government, defense, telecommunications, and financial institutions worldwide and the term “Lazarus Group” refers most often to this cluster of activities. AppleJeus maintains overlap with this organization, but TEMP.Hermit’s targeting continues to focus on espionage related activities and not cryptocurrency as its primary focus.
+- Applejeus/Citrine Sleet's tools overlap with TEMP.Hermit, but is not focused on the same targeting profiles, potentially indicating shared resources.
+- The actor that Microsoft tracks as Diamond Sleet (formerly ZINC) is a North Korea-based activity group known to target media, defense, and IT industries globally. Diamond Sleet focuses on espionage, theft of personal and corporate data, financial gain, and corporate network destruction.
+- Diamond Sleet is known to use a variety of custom malware that is exclusive to the group. Recent Diamond Sleet malware is described in Microsoft’s reporting of the group’s weaponization of open source software and exploitation of N-day vulnerabilities. Diamond Sleet overlaps with activity tracked by other security companies as Temp.Hermit and Labyrinth Chollima.
+- Primary targeting: Government, Defense, Telecommunications
+- [Nov 2023 | Diamond Sleet supply chain compromise distributes a modified CyberLink installer](https://microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/)
+- [Mar 2023 | Stealing the LIGHTSHOW (Part One) — North Korea's UNC2970](https://cloud.google.com/blog/topics/threat-intelligence/lightshow-north-korea-unc2970)
+- [Mar 2023 | North Korean UNC2970 Hackers Expands Operations with New Malware Families)(https://thehackernews.com/2023/03/north-korean-unc2970-hackers-expands.html)
+- [Mar 2023 | Mandiant: Stealing the LIGHTSHOW (Part Two) — LIGHTSHIFT and LIGHTSHOW](https://cloud.google.com/blog/topics/threat-intelligence/lightshift-and-lightshow/)
+- [Sep 2022 | North Korean Hackers Spreading Trojanized Versions of PuTTY Client Application](https://thehackernews.com/2022/09/north-korean-hackers-spreading.html)
+- [Jan 2021 | Microsoft: Diamond Sleet (prev:ZINC) attacks against security researchers](https://microsoft.com/en-us/security/blog/2021/01/28/zinc-attacks-against-security-researchers/)
 
 
 
@@ -164,16 +241,6 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - https://blog.google/threat-analysis-group/countering-threats-north-korea/
 - https://sentinelone.com/blog/lazarus-operation-interception-targets-macos-users-dreaming-of-jobs-in-crypto/
 - https://finbold.com/lazarus-hackers-target-macos-users-luring-them-with-crypto-dream-job-offers/
-
-
-
-## AppleJeus / UNC1720
-
-- A threat group that has been active since at least 2018
-- It is assessed to primarily target the cryptocurrency industry with the goal of stealing digital assets to fund the regime’s priorities. The group uses a variety of tactics, including spear-phishing emails and fake cryptocurrency trading software, to infiltrate target systems and steal cryptocurrency. Like TraderTraitor, this crypto-focused group appeared to emerge after the notoriety that came with the Bangladesh heist and issues with stealing and laundering traditional currency. This group’s tools overlap with TEMP.Hermit, but is not focused on the same targeting profiles, potentially indicating shared resources.
-- https://cisa.gov/news-events/cybersecurity-advisories/aa21-048a
-- [AppleJeus](https://cisa.gov/news-events/cybersecurity-advisories/aa21-048a)
-- https://securelist.com/operation-applejeus/87553/
 
 
 ## APT37
@@ -205,9 +272,10 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 
 - APT38 is a financially motivated group, known for significant financial compromises and its use of destructive malware against financial institutions. The group has been attributed to sophisticated compromises targeting [Interbank Fund Transfer Systems](https://mandiant.com/resources/blog/apt38-details-on-new-north-korean-regime-backed-threat-group) to steal millions of dollars at a time across multiple countries worldwide. 
 - Current activity from this group is conducted by associated subgroups. Mandiant identified a long hiatus of activity attributed to APT38, which may be indicative of modifications and regrouping of APT38 operators to other units aligned with new priorities and needs.
+- APT38 is characterized by long planning, extended periods of access to compromised victim environments preceding any attempts to steal money, fluency across mixed operating system environments, the use of custom developed tools, and a constant effort to thwart investigations capped with a willingness to completely destroy compromised machines afterwards.
 - Primary targeting: Financials
-- https://mandiant.com/resources/blog/apt38-details-on-new-north-korean-regime-backed-threat-group
-- https://services.google.com/fh/files/misc/apt38-un-usual-suspects.pdf
+- [Aug 2023 | APT38: Un-usual Suspects](https://mandiant.com/resources/reports/apt38-un-usual-suspects)
+- [Oct 2018 | APT38: Details on New North Korean Regime-Backed Threat Group](https://mandiant.com/resources/blog/apt38-details-on-new-north-korean-regime-backed-threat-group)
 - https://urlscan.io/result/284a064b-63bc-4e6e-aa06-21cf86b7f6fe
 - https://twitter.com/jaydinbas/status/1598660262751604738
 - https://youtube.com/watch?v=BOZecjABjSk&t=1343s
@@ -215,13 +283,15 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - https://i.blackhat.com/USA-22/Thursday/US-22-Wikoff-Talent-Need-Not-Apply.pdf
 - https://cisa.gov/uscert/ncas/analysis-reports/ar20-045c
 - https://content.fireeye.com/apt/rpt-apt38
-- https://mandiant.com/sites/default/files/2021-09/rpt-apt38-2018-web_v5-1.pdf
+- [APT38: Un-usual Suspects(https://mandiant.com/sites/default/files/2021-09/rpt-apt38-2018-web_v5-1.pdf)
 - https://welivesecurity.com/wp-content/uploads/2022/03/eset_wsliknkvm.pdf
 - https://welivesecurity.com/2022/03/28/under-hood-wslink-multilayered-virtual-machine/
 
 
-## APT43
+## APT43 / Emerald Sleet / Kimsuky
 
+- aka: THALLIUM
+-  This group conducts intelligence collection and has used cybercrime to fund espionage.
 - APT43 is a prolific cyber operator that directly supports intelligence gathering interests of the North Korean regime. The group combines moderately sophisticated technical capabilities with aggressive social engineering tactics, especially against South Korean and US-based government organizations, academics, and think tanks focused on Korean peninsula geopolitical issues. 
 - This organization acts as an intelligence arm and seeming embassy replacement for the RGB and DPRK leadership writ large.
 - Primary targeting: Governments, Nuclear, Foreign Relations
@@ -233,11 +303,6 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - https://mandiant.com/resources/blog/apt43-north-korea-cybercrime-espionage
 - https://blog.google/threat-analysis-group/how-were-protecting-users-from-government-backed-attacks-from-north-korea/
 - https://blog.virustotal.com/2023/04/apt43-investigation-into-north-korean.html
-
-
-
-## Kimsuky
-
 - https://reuters.com/article/us-nuclear-southkorea-northkorea-idUSKBN0MD0GR20150317/
 - https://netscout.com/blog/asert/stolen-pencil-campaign-targets-academia
 - https://global.ahnlab.com/global/upload/download/techreport/%5BAnalysis_Report%5DOperation%20Kabar%20Cobra.pdf
@@ -254,25 +319,6 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - https://asec.ahnlab.com/ko/58231/
 - https://bleepingcomputer.com/news/security/us-govt-sanctions-north-koreas-kimsuky-hacking-group/
 - https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html
-
-
-
-## APT45 / Andariel / UNC614
-- [2024 | APT45: North Korea’s Digital Military Machine](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
-- Known for its broader scope of operations, Andariel targets both government and private sector entities, including financial services and cryptocurrency companies. Their methods include exploiting vulnerabilities in widely used software, such as the Log4j vulnerability, to deploy bespoke malware and gain unauthorized access to sensitive systems
-- This actor targets foreign businesses, government agencies, financial services infrastructure, private corporations, and the defense industry. UNC614 also engages in cyber crime as an extra source of income to fund their operations, including the [ransoming of hospitals](https://advantage.mandiant.com/reports/22-00021780), using their own ransomware malware dubbed [MAUI](https://advantage.mandiant.com/reports/22-00019069). However, their primary focus is on targeting military and government personnel. 
-- This cyber group stands apart from the other DPRK aligned groups and typically does not fall into the blending and targeting that the others may do. Some groups have espionage and financial focuses, but Andariel is tasked to acquire information to “build” the weapons of mass destruction or research and development programs in other targeted fields, like pharmaceuticals. 
-- The targeting trends, such as nuclear, aerospace, high heat molds, etc. and overall successful compromises of this actor make it quite possibly the scariest of all the DPRK affiliated groups.
-- Primary targeting: Defense, Aerospace, Healthcare (when self-funding operations), Nuclear
-- https://global.ahnlab.com/global/upload/download/techreport/%5BAhnLab%5DAndariel_a_Subgroup_of_Lazarus%20\(3\).pdf
-- https://securelist.com/lazarus-andariel-mistakes-and-easyrat/110119/
-
-
-## TEMP.Hermit
-
-- TEMP.Hermit, is an actor that has been active since at least 2013. Their operations since that time are representative of Pyongyang's efforts to collect strategic intelligence to benefit North Korean interests. This actor targets government, defense, telecommunications, and financial institutions worldwide and the term “Lazarus Group” refers most often to this cluster of activities. AppleJeus maintains overlap with this organization, but TEMP.Hermit’s targeting continues to focus on espionage related activities and not cryptocurrency as its primary focus.
-- Primary targeting: Government, Defense, Telecommunications
-- https://thehackernews.com/2023/03/north-korean-unc2970-hackers-expands.html
 
 
 
@@ -314,20 +360,11 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - https://blog.talosintelligence.com/lazarus_new_rats_dlang_and_telegram/
 
 
-
-## CISA 
-
-- [Celas Trade Pro](https://cisa.gov/news-events/analysis-reports/ar21-048a)
-- [North Korea Cyber Threat Overview and Advisories](https://cisa.gov/topics/cyber-threats-and-advisories/advanced-persistent-threats/north-korea)
-
-
-
 ## Kaspersky
 
-- https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/
+
 - https://securelist.com/lazarus-under-the-hood/77908/
 - https://securelist.com/cryptocurrency-businesses-still-being-targeted-by-lazarus/90019/
-- https://securelist.com/bluenoroff-methods-bypass-motw/108383/
 - https://securelist.com/operation-daybreak/75100/
 - https://securelist.com/scarcruft-continues-to-evolve-introduces-bluetooth-harvester/90729/
 - https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
@@ -336,3 +373,59 @@ Source: [Mandiant: Assessed Cyber Structure and Alignments of North Korea in 202
 - https://securelist.com/gopuram-backdoor-deployed-through-3cx-supply-chain-attack/109344/
 - https://securelist.com/operation-applejeus-sequel/95596/
 - https://securelist.com/andariel-deploys-dtrack-and-maui-ransomware/107063/
+
+
+
+## Rustbucket
+
+- MacOS Malware
+- Malware type: Backdoor
+- Group: SquidSquad / Sapphire Sleet
+- First seen: 2023
+- RustBucket is macOS malware first reported in 2023. Since then, multiple variants of the malware have been observed in the wild. Most RustBucket infections are composed of three stages.
+- The first stage usually is an AppleScript file contained inside an application or inside a ZIP archive masquerading as a legitimate file. This AppleScript file is responsible for retrieving the second stage downloader.
+- The second stage downloader masquerades as a PDF viewer application. Some variants of this second stage downloader are written in Swift, while others are written in Objective-C.
+- The third stage is the final payload retrieved by the second stage downloader. Figure 2 shows an alert from Cortex XDR that blocks a RustBucket sample from downloading the next stage of malware.
+- The third stage payloads are Mach-O binaries written in Rust, hence the name RustBucket. Later variants of stage three employ persistence via a LaunchAgent, a feature that did not exist in older variants. 
+- Stage three has two main commands: Download and execute a file and self-terminate the malware
+- https://unit42.paloaltonetworks.com/threat-assessment-north-korean-threat-groups-2024/
+- [Apr 2023 | BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
+
+
+
+## Kandykorn
+- macOS
+- Malware type: Backdoor
+- Group: SquidSquad / Sapphire Sleet
+- First seen: 2023
+- First discovered in 2023, KANDYKORN is the payload of a five-stage infection chain targeting macOS systems. Known infections of KANDYKORN start with social engineering, tricking the victim into downloading a malicious ZIP archive containing a malicious Python script. If the victim executes the Python file, it downloads stage two of the infection, which is a second Python script that is saved into a folder named _log.
+- The second stage of the infection involves two additional Python scripts. The first Python script saved to the _log directory downloads another script saved to the /Users/Shared/ directory, which in turn downloads a stage three file, saving it as /Users/shared/.sld.
+- Stage three of the infection is a downloader and loader dubbed SUGARLOADER. For persistence, SUGARLOADER saves itself as /Users/shared/.log.
+- Upon execution, SUGARLOADER checks for the existence of a configuration file at /Library/Caches/com.apple.safari.ck. If that configuration file is missing, SUGARLOADER downloads it using a default IP address provided in the command line.
+- The configuration file at /Library/Caches/com.apple.safari.ck contains the location to download the next stage from. In Figure 3, we see part of a Cortex XDR alert that reveals the installation of this configuration file.
+
+
+
+## SmoothOperator
+- macOs
+- Malware type: Backdoor
+- Group: Undetermined, under RGB
+- First seen: 2023
+- In the beginning of 2023, multiple vendors discovered Trojanized macOS installers for the legitimate 3CX client application known as [3CXDesktopApp](https://3cx.com/user-manual/installation-windows/). These Trojanized installers contained multi-staged malware called [SmoothOperator](https://sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/).
+- SmoothOperator can execute payloads and extract data related to 3CX from infected hosts. It is written in Objective-C and targets 64-bit Intel-based macOS users.
+- The Trojanized component of SmoothOperator inside the 3CXDesktopApp application is a module called libffmpeg.dylib, which is a legitimate dependency that appears to have been altered or tampered with by the threat actors. The main purpose of this tampered libffmpeg.dylib file is to collect the infected device’s environment information and to deliver additional payloads.
+- When downloading an additional payload, the module writes the payload into a file named UpdateAgent and executes it. Below, Figure 7 shows disassembled code from a tampered libffmpeg.dylib file related to saving the follow-up payload as UpdateAgent.
+- UpdateAgent collects the victim's 3CX account information, then it removes itself. The relatively limited capabilities of UpdateAgent likely prevent it from deploying a wide variety of payloads, and we have only noted SmoothOperator as the final payload from this infection chain. Figure 8 shows a Cortex XDR alert detecting a 3CX desktop app for SmoothOperator.
+
+
+## ObjCShellz
+- Malware type: Backdoor
+- Group: SquidSquad / Sapphire Sleet
+- First seen: 2023
+- OS type: macOS
+- ObjCShellz is a relatively simple backdoor [Jamf Threat Labs discovered and named in November 2023](https://jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/). It serves as a remote shell and allows an attacker to execute arbitrary commands. Attackers reportedly deliver ObjCShellz as a second stage payload to an already compromised system.
+- Like other macOS malware, ObjCShellz is written in Objective-C. Jamf Threat Labs reported attackers using it as a part of the RustBucket campaign. Figure 9 below shows a Cortex XDR alert detecting a sample of ObjCShellz.
+- [Nov 2023 | jamf: BlueNoroff strikes again with new macOS malware](https://jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/)
+
+
+
