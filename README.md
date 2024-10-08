@@ -299,6 +299,9 @@ Note: all my research starts onchain and works backwards from there using victim
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [Sep 2024 | UNC5267 - Staying a Step Ahead: Mitigating the DPRK IT Worker Threat](https://cloud.google.com/blog/topics/threat-intelligence/mitigating-dprk-it-worker-threat)
+- [Sep 2024 | Dozens of Fortune 100 companies have unwittingly hired North Korean IT workers, according to report](https://therecord.media/major-us-companies-unwittingly-hire-north-korean-remote-it-workers)
+- [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))
 - [May 2024 | Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://www.justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
 - [Mar 2024 | re: DPRK IT Workers I](https://twitter.com/tayvano_/status/1777911893224808911)
 - [Mar 2024 | re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)

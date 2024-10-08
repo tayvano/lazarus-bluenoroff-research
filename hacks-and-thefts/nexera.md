@@ -55,9 +55,19 @@ Request for Assistance via Linkedin
 ### On-chain
 
 - Burns tokens after: https://etherscan.io/tx/0xbb89f990344d0d0bd7dea0676ddd58089c2d4ebd398bde1965f14057eb3b5154
-- 0xe697949817a45446776376db203c04d31b580a10 - Sitting
-- 0x6bd33c8256f7a37336b2b8fe967321e25540337b - Sitting
-
+- 0xe697949817a45446776376db203c04d31b580a10 - Direct Theft
+- 0x6bd33c8256f7a37336b2b8fe967321e25540337b - Direct Theft
+- 0x8856eb9b59d7e68ca7fcb2c76ff67e9a70fe9141 - Theft/Laundry
+- 0xadb7482d62d771e696ffbba07259fd0abd5d9190 - Theft/Laundry
+- 0xd138ae2013bd501ba42f1b5d914e3a0afd3fcf92 - Theft/Laundry
+- 0x1e6cb086100b264e5fcb02dfccd5f4aff6385efc - Theft/Laundry
+- 0xf8d02d8bc8cfb3b50ee8fd21a1e21e0154fcee0b - Theft/Laundry
+- 0xa736a6cf4239f3919740d9a434be358593f03fbc - Theft/Laundry
+- 0x75fd76edc59a68c4de14ce248fa499b333d577f5 - Theft/Laundry
+- 0xcfefd927aaa992c931809401dc36b6ca9a1d5cf4 - Dust
+- TCVgK96xZbZFu1sNPvX2RAThZ4gzkAcC4c - Theft/Laundry
+- TFTiEEaV4Kc8nb5TJKmXM238EQBLZMGE89 - Theft/Laundry
+- TS33JwYCvEMiioh2hYuqPZCiyYdb416KBj - Theft/Laundry
 
 
 ### URLs
@@ -80,3 +90,10 @@ Request for Assistance via Linkedin
 
 
 
+### Other victim - August 28, 2024
+
+0x1046726f5311e721e1d532c9a59d654b339433a2
+
+https://chainabuse.com/address/0x1046726f5311e721e1d532c9a59d654b339433a2?chain=ETH
+
+> I've got contacted by Vlad Martsenyuk on Likendin, that he is a recruiter for Peru-based crypto-exchange TOTExchange and they're looking for senior blockchain developers. We stayed in contact and discussed details. He sent me a google form where was the job description and application process, so I applied for it. They wanted from me my CV, my Github and some basic contact information. After some hours, they have invited me to a Github repo under user TOTExchange-dev, where they told me is the MVP version of their new website and that I should give them feedback. The website was written in Typescript and in the evening hours I was lazy to open the source codes, so just cloned the repo, installed all dependencies through sudo yarn install. After that I just changed the install term for "start" so I put in terminal sudo yarn start. The website started but Terminal asked for a permission to my hard drive (I clicked allow) and the website was shown, however it was with some error and also the website stated Happy365Global, so obvious fake web, in that moment, I just closed everything, deleted repo and went to bed disappointed (I was really tired). In the morning I found out, that all my crypto wallets in any browser got dumped out to one address and I have nearly zero balance everywhere. That was the moment, when I realized I got robbed :( I just quickly opened the source codes (I still haev them, so can provide the whole code for investigation) and after some time found out, that there are IP addresses, API calls and also some wss call to ngrok app (of course already down). And that's the place I think where hackers have hidden some malicious code which got to my computer through websockets and download my Metamask seed phrases from browser storage, maybe also my passwords from Keychain.

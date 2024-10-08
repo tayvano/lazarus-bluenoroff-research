@@ -2,6 +2,8 @@
 
 Date:: July 18th, 2024
 
+Time:: 06:19 UTC – 14:48 UTC
+
 Amount Stolen:: $230,000,000
 
 Tags:: 👛 Trader Traitor, Keys Not Compromised
@@ -38,6 +40,8 @@ Critically, one of the phished signatures came from Liminal Custody, the co-sign
 This suggests a significant failure in Liminal's verification process, a vulnerability the attackers exploited to devastating effect.
 
 (Note: The attackers used phished signatures for 3/4 and Liminal signed the 4/4 automatically upon request)
+
+
 
 
 
@@ -168,7 +172,11 @@ test delegate txn:
 
 ## Exploit Multisig Transactions
 
-see: https://safe-transaction-mainnet.safe.global/api/v1/safes/0x27fD43BABfbe83a81d14665b1a6fB8030A60C9b4/multisig-transactions/
+- **Note: READ THIS for everything txns, signatures, safes: https://paragraph.xyz/@ayc/recover-safe-wallet-signers**
+
+- https://safe-transaction-mainnet.safe.global/api/v1/safes/0x27fD43BABfbe83a81d14665b1a6fB8030A60C9b4/multisig-transactions/
+
+- https://safe-transaction-mainnet.safe.global/api/v1/multisig-transactions/0x4e82121a3bc2fb62c0b06ab5fff5ca965ceab4f51cc949c6e50d85ed63e6aa70/confirmations/
 
 ### Example of a good / legit transaction from Jul 15 2024
 

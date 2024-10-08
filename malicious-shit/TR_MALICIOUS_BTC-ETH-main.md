@@ -104,9 +104,9 @@ Previously, coinhar was indobit:
 
 - https://www.virustotal.com/gui/ip-address/146.70.88.126
 
-- 2024-03-22 api.indobit[.]io
+- 2024-03-22 `api.indobit[.]io`
 
-- 2024-03-20 3/94 146.70.88[.]126
+- 2024-03-20 3/94 `146.70.88[.]126`
 
 - M247 Europe SRL
 
@@ -119,7 +119,9 @@ Previously, coinhar was indobit:
 
 🚨🚨🚨🚨🚨🚨🚨🚨🚨
 
-🚨🚨🚨🚨🚨🚨 [Malicious repo that was downloaded from Github as a zip and renamed.](./TR_MALICIOUS_BTC-ETH-main.zip) (zip is fine, running will rekt you. Don't do it!) 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+**[Malicious repo](./TR_MALICIOUS_BTC-ETH-main.zip)**
+
+(zip is fine, running will rekt you. Don't do it!)
 
 🚨🚨🚨🚨🚨🚨🚨🚨🚨
 

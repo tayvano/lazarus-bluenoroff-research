@@ -12,8 +12,9 @@
 - [Update to the Organizational Map of DPRK Cyber Operations (2024)](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
 
 
-### Unit42: [Threat Assessment: North Korean Threat Groups](https://unit42.paloaltonetworks.com/threat-assessment-north-korean-threat-groups-2024/)
+### Unit42: 
 
+- [Threat Assessment: North Korean Threat Groups](https://unit42.paloaltonetworks.com/threat-assessment-north-korean-threat-groups-2024/)
 - These groups have been reportedly [active as early as 2007 [PDF]](https://www.usna.edu/CyberCenter/_files/documents/Operation-Blockbuster-Report.pdf). Activity under the RGB can be categorized into at least six threat groups:
 - Alluring Pisces (aka [APT38 [PDF]](https://services.google.com/fh/files/misc/apt38-un-usual-suspects.pdf), [Bluenoroff](https://apt.securelist.com/apt/bluenoroff), [Sapphire Sleet](https://x.com/MsftSecIntel/status/1722316021841764414)): This group has targeted financial institutions, cryptocurrency businesses and ATMs. It has also conducted significant cyber heists.
 - Gleaming Pisces (aka [Citrine Sleet](https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/)): This group performed attacks targeting the cryptocurrency industry and is known for its association with the [AppleJeus](https://www.cisa.gov/news-events/analysis-reports/ar21-048e) campaign.
@@ -122,6 +123,8 @@
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [Sep 2024 | UNC5267 - Staying a Step Ahead: Mitigating the DPRK IT Worker Threat](https://cloud.google.com/blog/topics/threat-intelligence/mitigating-dprk-it-worker-threat)
+- [Sep 2024 | Dozens of Fortune 100 companies have unwittingly hired North Korean IT workers, according to report](https://therecord.media/major-us-companies-unwittingly-hire-north-korean-remote-it-workers)
 - [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))
 - [May 2024 | Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
 - [Mar 2024 | re: DPRK IT Workers I](https://twitter.com/tayvano_/status/1777911893224808911)
@@ -210,7 +213,7 @@
 
 
 
-## Andariel / APT45 / Onyx Sleep / UNC614 / Jumpy Pisces
+## Andariel / APT45 / Onyx Sleet / UNC614 / Jumpy Pisces
 - This group has primarily conducted cyberespionage, but it has also conducted ransomware activity.
 - Known for its broader scope of operations, Andariel targets both government and private sector entities, including financial services and cryptocurrency companies.
 - Their methods include exploiting vulnerabilities in widely used software, such as the Log4j vulnerability, to deploy bespoke malware and gain unauthorized access to sensitive systems
@@ -226,16 +229,19 @@
 
 
 
-## TEMP.Hermit / Diamond Sleet
+## TEMP.Hermit / Diamond Sleet / UNC2970
 - aka: UNC2970, Selective Pisces, ZINC, Labyrinth Chollima
 - This group has targeted media, defense and IT organizations
 - Prioritizes espionage, data theft, financial gain, and network destruction
 - Mandiant said the threat cluster shares "multiple overlaps" with a long-running operation dubbed "Dream Job" that employs job recruitment lures in email messages to trigger the infection sequence.
 - TEMP.Hermit, is an actor that has been active since at least 2013. Their operations since that time are representative of Pyongyang's efforts to collect strategic intelligence to benefit North Korean interests. This actor targets government, defense, telecommunications, and financial institutions worldwide and the term “Lazarus Group” refers most often to this cluster of activities. AppleJeus maintains overlap with this organization, but TEMP.Hermit’s targeting continues to focus on espionage related activities and not cryptocurrency as its primary focus.
+- ZINC is a highly operational, destructive, and sophisticated nation-state activity group. Active since 2009, the activity group gained further public notoriety in 2014 following their successful attack against Sony Pictures Entertainment. ZINC is known to use a variety of custom remote access tools (RATs) as part of their arsenal, including those detected by Microsoft as FoggyBrass and PhantomStar.  
 - Applejeus/Citrine Sleet's tools overlap with TEMP.Hermit, but is not focused on the same targeting profiles, potentially indicating shared resources.
 - The actor that Microsoft tracks as Diamond Sleet (formerly ZINC) is a North Korea-based activity group known to target media, defense, and IT industries globally. Diamond Sleet focuses on espionage, theft of personal and corporate data, financial gain, and corporate network destruction.
 - Diamond Sleet is known to use a variety of custom malware that is exclusive to the group. Recent Diamond Sleet malware is described in Microsoft’s reporting of the group’s weaponization of open source software and exploitation of N-day vulnerabilities. Diamond Sleet overlaps with activity tracked by other security companies as Temp.Hermit and Labyrinth Chollima.
 - Primary targeting: Government, Defense, Telecommunications
+- Mandiant Managed Defense has reported similar activity in 2022 attributed to UNC4034, which later got merged into UNC2970.
+- [Sep 2024 | An Offer You Can Refuse: UNC2970 Backdoor Deployment Using Trojanized PDF Reader](https://cloud.google.com/blog/topics/threat-intelligence/unc2970-backdoor-trojanized-pdf-reader/)
 - [Nov 2023 | Diamond Sleet supply chain compromise distributes a modified CyberLink installer](https://microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/)
 - [Mar 2023 | Stealing the LIGHTSHOW (Part One) — North Korea's UNC2970](https://cloud.google.com/blog/topics/threat-intelligence/lightshow-north-korea-unc2970)
 - [Mar 2023 | North Korean UNC2970 Hackers Expands Operations with New Malware Families)(https://thehackernews.com/2023/03/north-korean-unc2970-hackers-expands.html)

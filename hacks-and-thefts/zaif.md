@@ -62,7 +62,17 @@ The amount of damages is relatively small for Binance, which is reported to have
 
 ## On-Chain
 
-Zaif Hacker: 1FmwHh6pgkf4meCMoqo8fHH3GNRF571f9w
+- BTC 1FmwHh6pgkf4meCMoqo8fHH3GNRF571f9w (5960 BTC / $40m) Sep 14, 2018 8:33 AM
+
+- 3MyE8PRRitpLxy54chtf9pdpjf5NZgTfbZ
+
+- 1PKeMDSNFg9mgGHTeBmJSjGrD2cv2TFpvP
+
+- 1DGsZgFTPbQ8PmuMucRa8shasWBkFXpDu9
+
+- BCH: qpyh6tw42h5pyl84py4c3ukqamsz0ucyly04nyz8u7 (42k BCH / $19m) Sep 14, 2018 11:10 AM
+
+- qz8yltmsl2temttutmzlkt7yqk3gaq9nwcfjz8sdtw
 
 
 

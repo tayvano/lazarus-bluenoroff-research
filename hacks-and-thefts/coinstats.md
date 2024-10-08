@@ -18,13 +18,58 @@ Linkedin Persona: Verity
 
 Someone contacts one of our CoinStats Employees on LinkedIn and asks to help with some script. 
 
-Used access to get access to CoinStats AWS where they exported all private kys of users that were in Venly
+Used access to get access to CoinStats AWS where they exported all private kys of users that were in Venly.
 
+This particular example of Lazarus social engineering is notable because we have records of **two** separate convos.
+
+Same threat actor, using the same Linkedin persona, reaching out to technical employees at the same company...at the same time. 😳
+
+And, even though Team Member #2 declined the initial message, the attacker continued right along with the first team member.
+
+They quickly added that individual to a private Github repo, asked him to make sure he could successfully run the build, and then asked for help resolving an error.
+
+This team member's device was compromised as soon as he built the code (~4:46pm)
+
+However, the attacker never let on and continued to talk and ask questions.
+
+Through it all, the employee’s wallets were not drained. In fact, the attacker offered to pay him for his help.
+
+Not only that, but she actually tells him she will pay “in an hour” and then, exactly 59 minutes later, she actually sends him $100 USDT on Tron for his help. Just as he requested. 🤯
+
+From there, the fake persona “keeps connecting” (🤦‍♀️) with the target.
+
+As it turns out, this team member had actually left the company shortly before. He no longer had access to any systems—a fact the attacker may have determined on their own between ~4:46pm and ~6:40pm.
+And with that, the conversation wraps up with Team Member #1. They'll never speak again.
+
+Only moments later though, the attacker will return to Team Member #2 and start all over again.
+
+The conversation is the same the second time around except that:
+
+1. The repo is now public (no waiting around to accept the invite?)
+
+2. The conversation is cut short when he asks about the legitimate profile of the person that this attacker was impersonating (awkward! 😬)
+
+The employee clearly felt something about this person/interaction was sus. But he never realized that they had already landed the malware. Which makes sense—it's a seemingly benign interaction, nothing crazy happened, and no theft would occur for over a month.
 
 
 ## URLs
 
+- https://x.com/tayvano_/status/1810455262320570416
+
 - https://platform.arkhamintelligence.com/explorer/entity/e022cbe3-3a84-424e-a5f0-09ad23551a76
+
+
+
+## Malware & IoCs
+
+- [A variant of the repo and malware dropped on March 25, 2024 to compromise the exchange was later found on Github, likely cloned by another target/victim.](../malicious-shit/TR_MALICIOUS_BTC-ETH-main.md)
+
+- Interesting this malware hits 5 legitimate CEX API endpoints to get the price with 1/5 being a DPRK-controlled C2 impersonating the legitimate CEX.
+
+- Variant 1: ["Binance", "Kucoin", "Wazirx", "Indodax", **"Indobit"**] - `api.coinhar[.]io`
+
+- Variant 2: ["Binance", "Kucoin", "Wazirx", **"Coinhar"**, "Indodax"] - `api.indobit[.]io`
+
 
 
 ## On-chain
@@ -135,47 +180,47 @@ Used access to get access to CoinStats AWS where they exported all private kys o
 
 One of the most notable things about this case is that the threat actor reached out to multiple technical employees at the same company simultaneously:
 
-![](../images/verity-job-scammer-1.png)
+![](../images/2024-03-25_verity-job-scammer-1.png)
 
-![](../images/verity-job-scammer-2.png)
+![](../images/2024-03-25_verity-job-scammer-2.png)
 
-![](../images/verity-job-scammer-3.png)
+![](../images/2024-03-25_verity-job-scammer-3.png)
 
-![](../images/verity-job-scammer-4.png)
+![](../images/2024-03-25_verity-job-scammer-4.png)
 
-![](../images/verity-job-scammer-5.png)
+![](../images/2024-03-25_verity-job-scammer-5.png)
 
-![](../images/verity-job-scammer-6.png)
+![](../images/2024-03-25_verity-job-scammer-6.png)
 
-![](../images/verity-job-scammer-7.png)
+![](../images/2024-03-25_verity-job-scammer-7.png)
 
-![](../images/verity-job-scammer-8.png)
+![](../images/2024-03-25_verity-job-scammer-8.png)
 
-![](../images/verity-job-scammer-9.png)
+![](../images/2024-03-25_verity-job-scammer-9.png)
 
-![](../images/verity-job-scammer-10.png)
+![](../images/2024-03-25_verity-job-scammer-10.png)
 
-![](../images/verity-job-scammer-11.png)
+![](../images/2024-03-25_verity-job-scammer-11.png)
 
-![](../images/verity-job-scammer-12.png)
+![](../images/2024-03-25_verity-job-scammer-12.png)
 
-![](../images/verity-job-scammer-13.png)
+![](../images/2024-03-25_verity-job-scammer-13.png)
 
-![](../images/verity-job-scammer-14.png)
+![](../images/2024-03-25_verity-job-scammer-14.png)
 
-![](../images/verity-job-scammer-15.png)
+![](../images/2024-03-25_verity-job-scammer-15.png)
 
-![](../images/verity-job-scammer-16.png)
+![](../images/2024-03-25_verity-job-scammer-16.png)
 
-![](../images/verity-job-scammer-17.png)
+![](../images/2024-03-25_verity-job-scammer-17.png)
 
-![](../images/verity-job-scammer-18.png)
+![](../images/2024-03-25_verity-job-scammer-18.png)
 
-![](../images/verity-job-scammer-19.png)
+![](../images/2024-03-25_verity-job-scammer-19.png)
 
-![](../images/verity-job-scammer-20.png)
+![](../images/2024-03-25_verity-job-scammer-20.png)
 
-![](../images/verity-job-scammer-21.png)
+![](../images/2024-03-25_verity-job-scammer-21.png)
 
 
 ### Victims
