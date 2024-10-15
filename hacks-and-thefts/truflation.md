@@ -1,4 +1,4 @@
-# Truflation
+# Truflation CEO
 
 Date:: September 25th, 2024
 
@@ -10,10 +10,15 @@ Tags:: DPRK IT, SquidSquad
 
 ## Details
 
-Another company that had hired multiple IT workers. Then founder keys were compromised.
+Another company that had hired multiple IT workers. 
 
-Express VPN.
+Then founder's keys were compromised.
 
+Express VPN with Korea language settings.
+
+All funds consolidated @ 0xb1CF7880351E6D16313C03a6686B4c8a5bA6372a on Ethereum inititally.
+
+Telegram, Twitter, Facebook were taken over by the threat actors at the time of the theft. However there has not (yet) been any indication of them being used to do anything (?).
 
 
 ## On-chain
