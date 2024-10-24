@@ -10,16 +10,59 @@ Tags:: 👛 Trader Traitor
 
 ## Details
 
-BitcoinDMM wasn't address poisoning.  The attacker maybe wanted it to look that way. Vector of this attack looks much more likely to be a private key compromise
 
-0.1 BTC fee on the theft tx - a hot/cold transfer DMM makes would never use a $7k fee.  The attacker wanted to expedite confirmations
+LOL no DMM wasn't address poisoning.
 
-The theft txn was pre-constructed based on an assumption that the wallet balance would be at least 4500 BTC for a window, and each input could be as much as 500 BTC to maximize the take.
+I get why people are saying it but the vector of this attack looks much more like a private key or system compromise.
 
-Attacker had the two required signatures for a short window of time - they probably expected it would be detected immediately.
+1. That 0.1 BTC fee on the theft txn. No way. They would never (and had never) before. The attacker wanted to expedite confirmations / didnt give a fuck.
 
-Theory: Get RAT's installed on two employees machines (each had a signing key) -> get their key -> pre-construct the tx from analysis of the potential unspent outputs available, maximizing the take and minimizing the chance the transfer would fail because one of the inputs was already spent, bump the fee to 0.1 BTC to expedite confirmations...
+2. That suspect address poisoner (1B6rJRfjTXwEy36SCs5zofGMmdv2kdZw7P) wasn't even on-chain prior to the attack.
 
+3. They would still need to want to send 4503 BTC for some reason and just fucked up the address portion. Based on history, this makes no sense.
+
+The weirdest thing that points to maybe not your classic key / system compromise is the fact the full balance was not taken. 343 BTC were recovered from the compromised wallet by DMM only 50 short minutes after the theft.
+
+### Looking at the theft txn and prior transactions:
+
+- That big April 4, 2024 txn was probably the transfer that gave the attacker an idea of what the balance was on the wallet. 
+
+- The theft transaction could’ve been pre-constructed based on the assumption that the wallet balance would be at least 4500 BTC and each input could be as much as 500 BTC.
+
+- Which then enabled DMM to be able to salvage outputs from that txn that the attacker couldn't be sure were not already spent (even those that weren’t actually spent)
+
+    - For example: DMM salvaged one of 10 BTC outputs that was unspent. But another 10 BTC output had already been spent.
+
+    - It’s plausible that the attacker noticed this and formed their theft transaction to simply exclude the 10 BTCs.
+
+    - Or they didn’t see it but still decided to just take the 500s + one 503 BTC output that they knew wasn't already spent. Basically, choose to eat the 10s or whatever to increase the chance of getting the 500s.
+
+- Further, the 343 BTC transfer to salvage the remaining funds was co-spent with an internal change address that was also on the multisig key. But the theft transaction did not require co-spending from that change address.
+
+
+### Theories:
+
+- It’s possible they got the raw keys and figured they had one shot to shoot and so they constructed the transaction in that way, I guess?
+
+- It’s also possible, I guess, that they didn't have 2/3 correct signatures for that exact 343 portion of the balance in that wallet. Like if there were two 2/3 multisig configs??
+
+- They had access to both signers but not the actual key. They trick each signer to sign.
+
+    - This assumes they were secure and used hardware. As they’ve been around for a while + Japan, this is actually a pretty reasonable assumption.
+
+- They got access to one signer but not the other. Then they…
+
+    - Pre-constructed the transaction -> signed it with signer key 1 -> submitted it for signing to signer 2. Race is on bc if real signer 1 comes online and is like “?????” then attackers could be rugged. But so long as signer 2 signs & sends….
+
+    - Pre-constructed the txn -> somehow tricked signer 1 to sign -> real signer 1 sends to signer 2 for signing. Only once it's in the mempool do alarms go off.
+
+Regardless, for some reason they couldn’t or didn’t have 100% confidence in what all funds were / would be available and were making an educated guess.
+
+They had to pre-construct the txn for whatever reason. They didn’t just have full, unfettered access to everything they needed.
+
+The attacker had those two required signatures for a short window of time—they probably expected it would be detected immediately for whatever reason.
+
+So they construct the largest, lowest-risk txn they could figure, crank the fee to 0.1 BTC to expedite confirmations and….rip.
 
 
 ## URLs

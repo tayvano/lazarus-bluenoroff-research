@@ -1,12 +1,10 @@
 # Indodax 2024
 
-Date:: 2024-09-10 
+Date:: September 10th, 2024
 
 Time:: 19:43 UTC — 23:47 UTC
 
 Amount Stolen:: $20m
-
-
 
 
 ----

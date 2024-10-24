@@ -1,10 +1,10 @@
 # BingX
 
-Date:: September 18, 2024
+Date:: September 19, 2024
 
 Time:: 2024-09-19 22:11 UTC – 2024-09-20 12:15 UTC
 
-Amount Stolen:: $45m
+Amount Stolen:: $45,000,000
 
 ---
 
