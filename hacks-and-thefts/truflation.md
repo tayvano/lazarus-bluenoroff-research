@@ -1,8 +1,8 @@
-# Truflation CEO
+# Truflation
 
 Date:: September 25th, 2024
 
-Amount Stolen:: ~$5m
+Amount Stolen:: ~$5,000,000
 
 Tags:: DPRK IT, SquidSquad
 
