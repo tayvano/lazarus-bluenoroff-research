@@ -27,7 +27,7 @@ Laundered Via:: Stargate Bridge, Tornado Cash
 ## Links
 
 - https://twitter.com/AstraSecAI/status/1742785398592659903
-- https://x.com/PeckShieldAlert/status/1742753372334399513
+- https://twitter.com/PeckShieldAlert/status/1742753372334399513
 - https://twitter.com/bryptobricks/status/1742765269708357700
 - https://twitter.com/PeckShieldAlert/status/1742776791339511840
 - https://twitter.com/shoucccc/status/1742765618984829326

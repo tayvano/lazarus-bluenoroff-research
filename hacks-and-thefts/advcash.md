@@ -55,7 +55,7 @@ Laundered: July 13, 2021, May 2022
 
 
 
-https://x.com/dmalpsar/status/1357360150894551041
+https://twitter.com/dmalpsar/status/1357360150894551041
 
 
 

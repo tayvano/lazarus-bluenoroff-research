@@ -7,10 +7,6 @@ Amount Stolen: $14,800,000
 
 ---
 
-Losses on BTC, LTC, DOGE, XRP, SOL, ETH
-
-Directly following initial thefts, all assets swapped for BTC and ETH via ChangeNOW, Whitebit, and using Exodus's in-app swaps.
-
 ## Details
 
 > It appears the crypto exchange Rain was likely exploited for $14.8M on April 29, 2024 after their BTC, ETH, SOL, and XRP wallets saw suspicious outflows. Funds were quickly transferred to instant exchanges and swapped for BTC and ETH.
@@ -23,6 +19,12 @@ Directly following initial thefts, all assets swapped for BTC and ETH via Change
 
 –[zachxbt](https://t.me/investigations/122)
 
+
+Losses on BTC, LTC, DOGE, XRP, SOL, ETH
+
+Directly following initial thefts, all assets swapped for BTC and ETH via ChangeNOW, Whitebit, and using Exodus's in-app swaps.
+
+AWS, VPN interface, VULTR, Bitgo, Exodus in-app swaps
 
 ## On-chain
 

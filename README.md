@@ -50,18 +50,19 @@
 
 # Hacks, Thefts, and Total Amounts Stolen
 
-|            | Tay's Totals       | Tay's Count | Chain's Totals     | Chain's Count | TRM's Totals       | TRM's Counts | UN Totals          | UN Counts |
-| ---------  | ------------------ | ----------- | ------------------ | ------------- | ------------------ | ------------ | ------------------ | --------- |
-| 2016       | $1,500,000         | 1           | $1,500,000         | 1             | 0                  | n/a          | 0                  | 0         |
-| 2017       | $88,640,000        | 7           | $29,000,000        | 4             | $100,000,000       | n/a          | $88,640,000        | 6         |
-| 2018       | $456,265,000       | 17          | $522,000,000       | 10            | $400,000,000       | n/a          | $447,600,000       | 11        |
-| 2019       | $207,794,000       | 10          | $271,000,000       | 9             | $200,000,000       | n/a          | $209,272,000       | 8         |
-| 2020       | $305,487,000       | 13          | $300,000,000       | 5             | $290,000,000       | n/a          | $300,200,000       | 4         |
-| 2021       | $511,580,000       | 17          | $428,800,000       | 9             | $250,000,000       | n/a          | $175,600,000       | 6         |
-| 2022       | $753,105,000       | 14          | $1,650,000,000     | 15            | $850,000,000       | n/a          | $991,700,000       | 5         |
-| 2023       | $636,164,146       | 24          | $1,000,000,000     | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
-| 2024       | $732,457,426       | 24          | n/a                | n/a           | n/a                | n/a          | n/a                | n/a       |
-| **TOTAL**  | **$3,692,992,572** | **127**     | **$4,202,300,000** | **73**        | **$2,690,000,000** | **n/a**      | **$2,966,031,000** | **57**    |
+
+|           | Tay's Totals       | Tay's Count | Chain's Totals     | Chain's Count | TRM's Totals       | TRM's Counts | UN Totals          | UN Counts |
+| --------- | ------------------ | ----------- | ------------------ | ------------- | ------------------ | ------------ | ------------------ | --------- |
+| 2016      | $1,500,000         | 1           | $1,500,000         | 1             | 0                  | n/a          | 0                  | 0         |
+| 2017      | $88,640,000        | 7           | $29,000,000        | 4             | $100,000,000       | n/a          | $88,640,000        | 6         |
+| 2018      | $456,265,000       | 17          | $522,000,000       | 10            | $400,000,000       | n/a          | $447,600,000       | 11        |
+| 2019      | $207,794,000       | 10          | $271,000,000       | 9             | $200,000,000       | n/a          | $209,272,000       | 8         |
+| 2020      | $305,487,000       | 13          | $300,000,000       | 5             | $290,000,000       | n/a          | $300,200,000       | 4         |
+| 2021      | $511,580,000       | 17          | $428,800,000       | 9             | $250,000,000       | n/a          | $175,600,000       | 6         |
+| 2022      | $753,105,000       | 14          | $1,650,000,000     | 15            | $850,000,000       | n/a          | $991,700,000       | 5         |
+| 2023      | $654,164,146       | 26          | $1,000,000,000     | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
+| 2024      | $870,457,426       | 31          | n/a                | n/a           | n/a                | n/a          | n/a                | n/a       |
+| **TOTAL** | **$3,848,992,572** | **136**     | **$4,202,300,000** | **73**        | **$2,690,000,000** | **n/a**      | **$2,966,031,000** | **57**    |
 
 
 
@@ -194,12 +195,14 @@
 | 💼  | 2023-Apr-26 | [Merlin DEX](./hacks-and-thefts/merlin_dex.md)                                                   | $1,800,000       |
 | 👛  | 2023-Jun-03 | [Atomic Wallet](./hacks-and-thefts/atomic_wallet.md)                                             | $121,000,000     |
 | ❓  | 2023-Jun-11 | [A Large Theft / Investment Platform](./hacks-and-thefts/a_large_theft.md)                       | $17,600,000      |
+| ❓  | 2023-Jul-01 | [PolyNetwork](./hacks-and-thefts/polynetwork.md)                                                 | $10,000,000      |
 | 👛  | 2023-Jul-22 | [Alphapo + Coinspaid](./hacks-and-thefts/alphapo_coinspaid.md)                                   | $97,000,000      |
 | 🔑  | 2023-Aug-07 | [Steadefi](./hacks-and-thefts/steadefi.md)                                                       | $1,140,000       |
 | 🔑  | 2023-Aug-16 | [Coinshift](./hacks-and-thefts/coinshift.md)                                                     | $2,900,000       |
 | 🎙️  | 2023-Aug-17 | [SPooCK](./hacks-and-thefts/spoock.md)                                                           | $38,032          |
 | 👛  | 2023-Sep-04 | [Stake](./hacks-and-thefts/stake.md)                                                             | $41,000,000      |
 | 👛  | 2023-Sep-12 | [CoinEx](./hacks-and-thefts/coinex.md)                                                           | $54,000,000      |
+| 👛  | 2023-Sep-24 | [HTX Theft](./hacks-and-thefts/htx.md) Returned                                                  | $8,000,000       |
 | ❓  | 2023-Sep-28 | [Unidentified Company](./hacks-and-thefts/unidentified_company.md)                               | $3,000,000       |
 | 🔑  | 2023-Oct-17 | [Fantom Foundation](./hacks-and-thefts/fantom_foundation.md)                                     | $7,624,588       |
 | 🔑  | 2023-Oct-26 | [Maverick](./hacks-and-thefts/maverick.md)                                                       | $8,300,000       |
@@ -212,7 +215,8 @@
 | 🔑  | 2023-Dec-10 | [Degen Reborn](./hacks-and-thefts/degen_reborn.md)                                               | $164,000         |
 | 🎙️  | 2023-Dec-12 | [OKX Dex](./hacks-and-thefts/okx_dex.md)                                                         | $2,390,976       |
 | 🎙️  | 2023-Dec-28 | [Upwork Developer Jobs Scams](./hacks-and-thefts/upwork_job_scams.md)                            | $550             |
-| ⭐  | **2023**    | **TOTAL**                                                                                        | **$635,727,146** |
+| ⭐  | **2023**    | **TOTAL**                                                                                        | **$654,164,146** |
+| | | | |
 | 🎙️  | 2024-Jan-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000       |
 | 🎙️  | 2024-Jan-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   |                  |
 | 🎙️  | 2024-Feb-01 | [Linkedin Job Dev Scam](./hacks-and-thefts/linkedin_dev_job_scam.md)                             | $200,000         |
@@ -239,7 +243,14 @@
 | 🔑  | 2024-Jul-22 | [Theft from Individual I4](./hacks-and-thefts/i4.md)                                             | $1,500,000       |
 | 🎙️  | 2024-Aug-07 | [Nexera](./hacks-and-thefts/nexera.md)                                                           | $1,900,000       |
 | 🔑  | 2024-Aug-16 | [Theft from Individual A4](./hacks-and-thefts/a4.md)                                             | $2,500,000       |
-|     | **2024**    | **TOTAL**                                                                                        | **$732,457,426** |
+| 🔑  | 2024-Sep-25 | [Truflation](./hacks-and-thefts/Truflation.md)                                                   | $5,000,000       |
+| 👛  | 2024-Sep-10 | [Indodax](./hacks-and-thefts/indodax_2024.md)                                                    | $20,000,000      |
+| 👛  | 2024-Sep-19 | [BingX](./hacks-and-thefts/bingx.md)                                                             | $45,000,000      |
+| ❓  | 2024-Oct-16 | [Radiant](./hacks-and-thefts/radiant.md)                                                         | $50,000,000      |
+| 🎙️  | 2024-Oct-18 | [Tapioca](./hacks-and-thefts/tapioca.md)                                                         | $4,700,000       |
+| 🔑  | 2024-Oct-18 | [Fake Hack VC Thefts](./malicious-shit/SQ_MALICIOUS_dangerous-password_20241023)                 | $300,000         |
+| 👛  | 2024-Oct-31 | [M2](./hacks-and-thefts/m2.md)                                                                   | $13,000,000      |
+|     | **2024**    | **TOTAL**                                                                                        | **$870,457,426** |
 
 
 
@@ -262,7 +273,7 @@ Note: all my research starts onchain and works backwards from there using victim
 - Past Attacks: A4 (Founder/CEO), I4 (Founder/CEO of DeFi Thing), C4 (defi media person), C7 (CEO of blockchain infra company), ALEX Labs, Samudai Founder, Maverick Founder, Fantom Foundation CEO, Coinshift C-Level, Steadefi, GERA Coin, deBridge (Attempt), Wonderhero, Arthur_0x, bZx, YFETH Admin Key, Metaplay / Polyplay, MNGR, Bondly Finance, Tower Capital, NAOs Finance, FinNexus Admin Key, 990.1 BTC, EasyFi Founder, Mudge / Etna / Mokens Deployer, Indodax ATO, Hugh Karp / Nexus Mutual, L2 Theft (crypto investor), LEAD Wallet Token, CoinMetro, Unibright, Tap Global, Coinberry, Fetch.ai
 - [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 - [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
-- [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
+- [Dec 2023 | Alex Masmej's Near Miss Story](https://twitter.com/AlexMasmej/status/1731446788136292833)
 - [Dec 2023 | Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
 - [Apr 2023 | BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://www.jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
 
@@ -328,8 +339,8 @@ Note: all my research starts onchain and works backwards from there using victim
 - Astrill, Russia TTK observed.
 - [Nov 2023 | Palo Alto: Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)
 - [May 2024 | From Opportunity to Threat: My Encounter with a Blockchain Job Scam](https://medium.com/@mahitman1/from-opportunity-to-threat-my-encounter-with-a-blockchain-job-scam-9e0457754298)
-- [Apr 2024 | SlowMist's im23pds: "Lazarus group appears to be currently reaching out to targets via LinkedIn and steal employee privileges or assets through malware"](https://x.com/im23pds/status/1782984061369405878)
-- [Dec 2023 | Seongsu Park: "The actor continues with familiar tactics, incorporating a cleverly obfuscated BeaverTail script. The endgame remains the InvisibleFerret script, with the C2 using IP addresses previously employed by the actor: 147.124.212.89:1244"](https://x.com/unpacker/status/1737993034934169855)
+- [Apr 2024 | SlowMist's im23pds: "Lazarus group appears to be currently reaching out to targets via LinkedIn and steal employee privileges or assets through malware"](https://twitter.com/im23pds/status/1782984061369405878)
+- [Dec 2023 | Seongsu Park: "The actor continues with familiar tactics, incorporating a cleverly obfuscated BeaverTail script. The endgame remains the InvisibleFerret script, with the C2 using IP addresses previously employed by the actor: 147.124.212.89:1244"](https://twitter.com/unpacker/status/1737993034934169855)
 - [Dec 2023 | Blockchain dev's wallet emptied in "job interview" using npm package](https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
 
 

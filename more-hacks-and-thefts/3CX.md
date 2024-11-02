@@ -20,7 +20,7 @@ The incident is as bad as it gets, primarily because of the popularity of 3CX so
 
 The company's products include hosted and on-premise telephony VoIP IPBX servers. Employees in companies with 3CX VoIP IPBX servers can either use a VoIP phone or install the 3CX softphone on their devices to make and receive calls or host video conferences via a desktop or mobile app. It's these macOS and Windows desktop apps that were trojanized.
 
-It's unclear how many users downloaded the trojanized desktop clients or how many received the malicious update for existing clients, but 3CX's customer base is huge. The company claims on its website to serve more than 600,000 companies and more than 12 million daily users. Per its [website](https://3cx.com/company/customers/), 3CX serves some of today's largest corporations.
+It's unclear how many users downloaded the trojanized desktop clients or how many received the malicious update for existing clients, but 3CX's customer base is huge. The company claims on its website to serve more than 600,000 companies and more than 12 million daily users. Per its [website](https://3ctwitter.com/company/customers/), 3CX serves some of today's largest corporations.
 
 A [Shodan search](https://shodan.io/search?query=http.favicon.hash%3A970132176) returns more than 245,000 3CX VoIP IPBX servers, just to give you an idea of how popular the 3CX system is.
 
@@ -58,7 +58,7 @@ This is the first time Mandiant has seen a software supply chain attack lead to 
 - https://crn.com/news/security/3cx-supply-chain-attack-big-questions-remain
 - https://securelist.com/gopuram-backdoor-deployed-through-3cx-supply-chain-attack/109344
 - https://securelist.com/operation-applejeus-sequel/95596
-- https://3cx.com/blog/news/mandiant-initial-results
+- https://3ctwitter.com/blog/news/mandiant-initial-results
 - https://krebsonsecurity.com/2023/04/3cx-breach-was-a-double-supply-chain-compromise
 - https://explore.avertium.com/resource/lazarus-and-the-3cx-double-supply-chain-attack
 - https://sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/

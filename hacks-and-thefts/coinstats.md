@@ -54,7 +54,7 @@ The employee clearly felt something about this person/interaction was sus. But h
 
 ## URLs
 
-- https://x.com/tayvano_/status/1810455262320570416
+- https://twitter.com/tayvano_/status/1810455262320570416
 
 - https://platform.arkhamintelligence.com/explorer/entity/e022cbe3-3a84-424e-a5f0-09ad23551a76
 

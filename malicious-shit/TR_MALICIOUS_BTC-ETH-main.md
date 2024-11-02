@@ -10,7 +10,7 @@ Archive: https://archive.ph/AHYS7
 
 Archive of `price.py`: https://archive.ph/6AVOM
 
-See also: https://x.com/tayvano_/status/1810455262320570416
+See also: https://twitter.com/tayvano_/status/1810455262320570416
 
 See also: [Coinstats](../hacks-and-thefts/coinstats.md)
 
@@ -66,13 +66,13 @@ e.g. `for company in ["Binance", "Kucoin", "Wazirx", "Coinhar", "Indodax"]`
 
 - Kucoin endpoint: `https://api.kucoin.com/api/v1/market/stats?symbol=ETH-BTC`
 
-- Wazirx endpoint: `https://api.wazirx.com/sapi/v1/ticker/24hr?symbol=ethbtc`
+- Wazirx endpoint: `https://api.wazirtwitter.com/sapi/v1/ticker/24hr?symbol=ethbtc`
 
 - Coinhar [sic] endpoint: `https://api.coinhar.io/api/v3/ticker?symbol=ETHBTC`
 
-- Indodax: `https://indodax.com/api/ticker/ethidr`
+- Indodax: `https://indodatwitter.com/api/ticker/ethidr`
 
-- Indodax: `https://indodax.com/api/ticker/btcidr`
+- Indodax: `https://indodatwitter.com/api/ticker/btcidr`
 
 Previously, coinhar was indobit:
 

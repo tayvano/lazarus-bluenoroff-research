@@ -14,9 +14,9 @@ Tags: 🎙️ Contagious Interview
 
 ## URLs
 
-- https://x.com/spacecatch_io/status/1796227563628400847
+- https://twitter.com/spacecatch_io/status/1796227563628400847
 
-- https://x.com/spacecatch_io/status/1795916568112554472
+- https://twitter.com/spacecatch_io/status/1795916568112554472
 
 
 

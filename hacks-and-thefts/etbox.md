@@ -23,6 +23,6 @@ The Chinese security service provider 360 Security has issued a warning that a l
 - https://bitcoinmagazine.com/articles/lazarus-hacker-group-continues-target-crypto-using-faked-trading-software
 - https://cryptoxdirectory.com/etbox
 - https://cryptoxdirectory.com/hacked_2019
-- https://etbox.com/index
+- https://etbotwitter.com/index
 - https://quadrigainitiative.com/casestudy/etboxwallethacked.php
 - https://web3rekt.com/hacksandscams/etbox-640

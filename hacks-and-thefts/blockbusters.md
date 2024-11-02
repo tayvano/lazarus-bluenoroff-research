@@ -66,6 +66,6 @@ Tags:: 💼 IT Workers
 
 ## URLs
 
-- https://x.com/BlockBustersTch/status/1709975061841523127
+- https://twitter.com/BlockBustersTch/status/1709975061841523127
 
-- https://x.com/BlockBustersTch/status/1710278735432466549
+- https://twitter.com/BlockBustersTch/status/1710278735432466549

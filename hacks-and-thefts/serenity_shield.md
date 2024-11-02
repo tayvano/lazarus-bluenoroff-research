@@ -38,7 +38,7 @@ Interestingly it is connected on-chain to the recent OKX Dex & Concentric hacks 
 
 - https://t.me/investigations/95
 
-- https://x.com/serenityshield_/status/1762486674729132388
+- https://twitter.com/serenityshield_/status/1762486674729132388
 
 
 

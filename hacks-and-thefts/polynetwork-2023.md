@@ -2,21 +2,45 @@
 
 Date:: July 1, 2023
 
+Amount Stolen: ~$10,000,000 (shitcoins theoretical value puts this theft at about $34 billion though lol)
 
+Tags:: AppleJeus??????????
 
+---
+
+## Details
+
+It appears they were able to manipulate one of the core pieces of logic that all the relayers/signers use called `side-voter`
+
+https://www.virustotal.com/gui/file/471a086b71271ff8ad203f4c9330354a0900f56dbf68dffa192f3ce48f95afd0/details
+
+This may or may not be where [the code shown in the screenshot here](https://polynetwork.medium.com/the-poly-network-exploit-analysis-b0a77aff6078) comes from.
+
+It is also referenced in this code though so unclear if this is the side-voter code or where the code where they found `side-voter` referenced
+
+It's unclear to me how exactly they did this as the repo itself is private / gone?
+
+I was able to find what I assume is a clone of said repo here https://github.com/polynetwork/ont-voter (given the install instructions)
+
+However this was many months after the attack so that really only sheds light on what the original side-voter code did and what all it may access etc
+
+The screenshot included in their post-mortem is compiled code which means that the malicious code was either inserted via a malicious, targeted package or via code written directly to that codebase itself
+
+I suspect it may be the former simply bc the code has both reference to an external c2 and a few layers of obfuscation, both of which are easily detectable if there is any code review whatsoever. 
+
+However, its obviously possible they were allowing folks to push without basic peer review.
+
+Looking a bit closer at the malware, it appears that the package requires a second piece of info in order to run/execute/whatever. This is a very familiar tactic they use for evasion, most usually seen associated with DangerousPassword/SquidSquad shit.
+
+One of the observed IPs relating to this theft is a Russia TTK which has also been previously seen with DP/SQSQ.
 
 
 ## Signers
 
 - 0x4c46e1f946362547546677Bfa719598385ce56f2
-
 - 0x3dFcCB7b8A6972CDE3B695d3C0c032514B0f3825
-
 - 0x51b7529137D34002c4ebd81A2244F0ee7e95B2C0
-
 - 0xf81f676832f6dfec4a5d0671bd27156425fcef98 (not used)
-
-
 
 
 ## Attackers

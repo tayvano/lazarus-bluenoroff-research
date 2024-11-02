@@ -31,7 +31,7 @@ Addresses which were used to pay salary
 
 # 🚨 Swamps Security Incident Detailed Report 🚨
 
-https://x.com/Swamps_L2/status/1793662825178538058
+https://twitter.com/Swamps_L2/status/1793662825178538058
 
 Yesterday, a significant security breach was executed by a former developer, leading to unauthorized access and transactions within our network. We are committed to full transparency in our community and will detail each step of the exploit:
 

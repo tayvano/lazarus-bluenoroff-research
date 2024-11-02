@@ -16,7 +16,7 @@
 
 - [Threat Assessment: North Korean Threat Groups](https://unit42.paloaltonetworks.com/threat-assessment-north-korean-threat-groups-2024/)
 - These groups have been reportedly [active as early as 2007 [PDF]](https://www.usna.edu/CyberCenter/_files/documents/Operation-Blockbuster-Report.pdf). Activity under the RGB can be categorized into at least six threat groups:
-- Alluring Pisces (aka [APT38 [PDF]](https://services.google.com/fh/files/misc/apt38-un-usual-suspects.pdf), [Bluenoroff](https://apt.securelist.com/apt/bluenoroff), [Sapphire Sleet](https://x.com/MsftSecIntel/status/1722316021841764414)): This group has targeted financial institutions, cryptocurrency businesses and ATMs. It has also conducted significant cyber heists.
+- Alluring Pisces (aka [APT38 [PDF]](https://services.google.com/fh/files/misc/apt38-un-usual-suspects.pdf), [Bluenoroff](https://apt.securelist.com/apt/bluenoroff), [Sapphire Sleet](https://twitter.com/MsftSecIntel/status/1722316021841764414)): This group has targeted financial institutions, cryptocurrency businesses and ATMs. It has also conducted significant cyber heists.
 - Gleaming Pisces (aka [Citrine Sleet](https://www.microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/)): This group performed attacks targeting the cryptocurrency industry and is known for its association with the [AppleJeus](https://www.cisa.gov/news-events/analysis-reports/ar21-048e) campaign.
 - Jumpy Pisces (aka [Andariel](https://www.justice.gov/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us-hospitals), [Hidden Cobra](https://www.justice.gov/opa/pr/three-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and), [Onyx Sleet](https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/)): This group has primarily conducted cyberespionage, but it has also conducted ransomware activity.
 - Selective Pisces (aka [Diamond Sleet](https://www.microsoft.com/en-us/security/security-insider/diamond-sleet), [TEMP.Hermit [PDF]](https://www.mandiant.com/sites/default/files/2021-09/rpt-apt38-2018-web_v5-1.pdf), [ZINC](https://www.microsoft.com/en-us/security/blog/2022/09/29/zinc-weaponizing-open-source-software/)): This group has targeted media, defense and IT organizations. It focuses on espionage, financial gain and network destruction.
@@ -41,9 +41,9 @@
 - On-chain Laundry Observes: Express VPN, occasional leak Ryugyong-dong IPs
 - [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 - [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
-- [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
+- [Dec 2023 | Alex Masmej's Near Miss Story](https://twitter.com/AlexMasmej/status/1731446788136292833)
 - [Dec 2023 | Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
-- [Nov 2023 | Sapphire Sleet, which overlaps with threat actors tracked by other researchers as BlueNoroff, CageyChameleon, and CryptoCore, is a nation-state sponsored threat actor based in North Korea and has targeted organizations in the cryptocurrency sector.](https://x.com/MsftSecIntel/status/1722316021841764414)
+- [Nov 2023 | Sapphire Sleet, which overlaps with threat actors tracked by other researchers as BlueNoroff, CageyChameleon, and CryptoCore, is a nation-state sponsored threat actor based in North Korea and has targeted organizations in the cryptocurrency sector.](https://twitter.com/MsftSecIntel/status/1722316021841764414)
 - [Nov 2023 | jamf: BlueNoroff strikes again with new macOS malware](https://jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/)
 - [May 2023 | Attack Trends Related to DangerousPassword](https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html)
 - [Apr 2023 | BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
@@ -155,16 +155,16 @@
 - [Jul 2024 | Patrick Wardle: This Meeting Should Have Been an Email - A DPRK stealer, dubbed BeaverTail, targets users via a trojanized meeting app](https://objective-see.org/blog/blog_0x7A.html)
 - [Nov 2023 | Palo Alto: Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)
 - [May 2024 | From Opportunity to Threat: My Encounter with a Blockchain Job Scam](https://medium.com/@mahitman1/from-opportunity-to-threat-my-encounter-with-a-blockchain-job-scam-9e0457754298)
-- [Apr 2024 | SlowMist's im23pds: "Lazarus group appears to be currently reaching out to targets via LinkedIn and steal employee privileges or assets through malware"](https://x.com/im23pds/status/1782984061369405878)
+- [Apr 2024 | SlowMist's im23pds: "Lazarus group appears to be currently reaching out to targets via LinkedIn and steal employee privileges or assets through malware"](https://twitter.com/im23pds/status/1782984061369405878)
 - [Mar 2024 | ZachXBT: "Same group just hacked another project one hour ago for $278K"](https://t.me/investigations/97)
 - [Feb 2024 | Fake Developer Jobs Laced With Malware](https://blog.phylum.io/smuggling-malware-in-test-code/)
-- [Dec 2023 | Seongsu Park: "The actor continues with familiar tactics, incorporating a cleverly obfuscated BeaverTail script. The endgame remains the InvisibleFerret script, with the C2 using IP addresses previously employed by the actor: 147.124.212.89:1244"](https://x.com/unpacker/status/1737993034934169855)
+- [Dec 2023 | Seongsu Park: "The actor continues with familiar tactics, incorporating a cleverly obfuscated BeaverTail script. The endgame remains the InvisibleFerret script, with the C2 using IP addresses previously employed by the actor: 147.124.212.89:1244"](https://twitter.com/unpacker/status/1737993034934169855)
 - [Dec 2023 | /r/hacking: Obfuscated code a "recruiter" sent me](https://reddit.com/r/hacking/comments/18npzcl/comment/kecsptt/)
 - [Dec 2023 | Blockchain dev's wallet emptied in "job interview" using npm package](https://bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
 - [May 2024 | 针对区块链从业者的招聘陷阱：疑似Lazarus（APT-Q-1）窃密行动分析](https://mp.weixin.qq.com/s/84lUaNSGo4lhQlpnCVUHfQ)
 - [Aug 2024 | North Korea Still Attacking Developers via npm](https://blog.phylum.io/north-korea-still-attacking-developers-via-npm/)
-- https://x.com/dimitribest/status/1782609281897902426 
-- https://x.com/asdasd13asbz/status/1782951380568936481 
+- https://twitter.com/dimitribest/status/1782609281897902426 
+- https://twitter.com/asdasd13asbz/status/1782951380568936481 
 - https://linkedin.com/posts/abhisheksinghsoni_blockchainsecurity-cryptoscamalert-defijobs-activity-7127542067001475073-71xU/
 - https://github.com/0x50D4/0x50d4.github.io/blob/main/_posts/2024-04-03-python-malware.md
 
@@ -437,7 +437,7 @@
 - Malware type: Backdoor
 - Group: Undetermined, under RGB
 - First seen: 2023
-- In the beginning of 2023, multiple vendors discovered Trojanized macOS installers for the legitimate 3CX client application known as [3CXDesktopApp](https://3cx.com/user-manual/installation-windows/). These Trojanized installers contained multi-staged malware called [SmoothOperator](https://sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/).
+- In the beginning of 2023, multiple vendors discovered Trojanized macOS installers for the legitimate 3CX client application known as [3CXDesktopApp](https://3ctwitter.com/user-manual/installation-windows/). These Trojanized installers contained multi-staged malware called [SmoothOperator](https://sentinelone.com/blog/smoothoperator-ongoing-campaign-trojanizes-3cx-software-in-software-supply-chain-attack/).
 - SmoothOperator can execute payloads and extract data related to 3CX from infected hosts. It is written in Objective-C and targets 64-bit Intel-based macOS users.
 - The Trojanized component of SmoothOperator inside the 3CXDesktopApp application is a module called libffmpeg.dylib, which is a legitimate dependency that appears to have been altered or tampered with by the threat actors. The main purpose of this tampered libffmpeg.dylib file is to collect the infected device’s environment information and to deliver additional payloads.
 - When downloading an additional payload, the module writes the payload into a file named UpdateAgent and executes it. Below, Figure 7 shows disassembled code from a tampered libffmpeg.dylib file related to saving the follow-up payload as UpdateAgent.

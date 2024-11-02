@@ -6,7 +6,7 @@ from Brevo/Sendinblue
 
 45.61.128.122
 
-Source: https://x.com/gametheorizing/status/1841529988895670668
+Source: https://twitter.com/gametheorizing/status/1841529988895670668
 
 ---
 
@@ -21,6 +21,6 @@ Source: https://x.com/gametheorizing/status/1841529988895670668
 
 - https://search.censys.io/hosts/45.61.128.122
 
-Source: https://x.com/eastside_nci/status/1836605224020033548
+Source: https://twitter.com/eastside_nci/status/1836605224020033548
 
 

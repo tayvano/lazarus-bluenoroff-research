@@ -20,7 +20,7 @@
 
 
 ### `buy2x[.]com` (`23.254.253[.]75`)
-- https://www.virustotal.com/gui/domain/buy2x.com
+- https://www.virustotal.com/gui/domain/buy2twitter.com
 - https://www.virustotal.com/gui/ip-address/23.254.253.75
 - 2024-07-17 buy2x[.]com
 - 2024-06-28 www[.]sendmailed[.]com
@@ -29,7 +29,7 @@
 - 2024-06-07 www[.]dourolab[.]xyz
 - 2024-06-07 www[.]prismlab[.]xyz
 - https://drive.usercontent.google.com/download?id=1xflBpAVQrwIS3UQqynb8iEj6gaCIXczo
-- https://buy2x.com/OcMySY5QNkY/ABcTDInKWw/4SqSYtx%2B/EKfP7saoiP/BcA%3D%3D
+- https://buy2twitter.com/OcMySY5QNkY/ABcTDInKWw/4SqSYtx%2B/EKfP7saoiP/BcA%3D%3D
 
 
 

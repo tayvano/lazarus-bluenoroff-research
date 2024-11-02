@@ -40,7 +40,7 @@ Capital One Technical Interview - Python Skills test
 
 - https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/
 
-- https://x.com/CertiKAlert/status/1757681640384381238
+- https://twitter.com/CertiKAlert/status/1757681640384381238
 
 ## IoCs
 

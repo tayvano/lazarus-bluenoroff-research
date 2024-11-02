@@ -74,7 +74,7 @@ Request for Assistance via Linkedin
 
 - https://github.com/newbee96422/MetaWar_ver_4
 - https://linkedin.com/in/aline-santoro-2a2029215
-- https://x.com/nexera_official/status/1821079381831512315
+- https://twitter.com/nexera_official/status/1821079381831512315
 - https://archive.ph/SFeBd
 - https://t.me/investigations/148
 

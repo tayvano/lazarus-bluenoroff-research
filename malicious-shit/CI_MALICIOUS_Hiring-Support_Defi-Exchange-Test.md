@@ -11,7 +11,7 @@ Date:: July 24th, 2024
 
 > Few days ago i was asked to test my coding skills for a job. Hit npm run and got drained    
 
-—[Source](https://x.com/AjSam0x/status/1816558439578910978)
+—[Source](https://twitter.com/AjSam0x/status/1816558439578910978)
     
 Malicious Job on Linkedin:
 

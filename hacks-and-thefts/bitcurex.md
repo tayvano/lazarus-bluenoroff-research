@@ -10,7 +10,7 @@ The 2016 hack that Chainalysis has in it's data
 
 The problems began in October when users started having trouble logging in. Later, the company managing the exchange issued a statement.
 
-> On October 13, 2016, as a result of the actions of third parties, the IT systems of the website www.bitcurex.com / www.bitcurex.com were damaged by external interference in the automatic collection and processing of IT data. The consequence of these actions is the loss of part of the assets managed by bitcurex.com / www.dashcurex.com
+> On October 13, 2016, as a result of the actions of third parties, the IT systems of the website www.bitcuretwitter.com / www.bitcuretwitter.com were damaged by external interference in the automatic collection and processing of IT data. The consequence of these actions is the loss of part of the assets managed by bitcuretwitter.com / www.dashcuretwitter.com
 
 https://next.gazeta.pl/next/7,151243,21314325,najstarsza-polska-gielda-bitcoin-zniknela-spolka-ktora-nia.html
 

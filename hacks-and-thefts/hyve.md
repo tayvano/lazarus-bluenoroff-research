@@ -45,7 +45,7 @@ Tags: 🎙️ Contagious Interview
 
 ## URLs
 
-https://x.com/anciliainc/status/1795888012720746588
+https://twitter.com/anciliainc/status/1795888012720746588
 
 
 

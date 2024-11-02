@@ -162,14 +162,52 @@ Add'l Signers:
 
 - https://rekt.news/radiant-capital-rekt2/
 
-- https://x.com/hackenclub/status/1846624373161013388
+- https://twitter.com/hackenclub/status/1846624373161013388
 
-- https://x.com/bantg/status/1847120310618767633
+- https://twitter.com/bantg/status/1847120310618767633
 
-- https://x.com/AnciliaInc/status/1846605867753591002
+- https://twitter.com/AnciliaInc/status/1846605867753591002
 
-- https://x.com/danielvf/status/1847023591117795708
+- https://twitter.com/danielvf/status/1847023591117795708
 
-- https://x.com/AnciliaInc/status/1846606649009885515
+- https://twitter.com/AnciliaInc/status/1846606649009885515
 
-- https://x.com/RDNTCapital/status/1846634050100039881
+- https://twitter.com/RDNTCapital/status/1846634050100039881
+
+
+
+
+## Relevant Bridges via Chainge Finance
+
+
+| Timestamp           | Chain | Value         | Value USD | From                                               | To                                                 | Txn Hash                                                           |
+| ------------------- | ----- | ------------- | --------- | -------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------ |
+| 2024-07-20 8:42:59  | ETH   | 5             | $17,448   | 0x26bb9df242112940eb5ef0e61c494030351fc9ff         | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0xc62fe16ad1252d295e211b6734e33312c977341024284cad8407b369cdaeedcd |
+| 2024-07-20 8:43:56  | BSC   | 29.49260828   | $17,443   | CHAINGE 0x99a57ac044e6ce44b7e161a07af0d3e693a75b54 | 0x94187bd7d88448585ef291fd3bea03ae67f9179a         | 0x0e8d2b708996fff8510039fd4c98486f7be24636e6b6a34c509c08239d4b681e |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-07-20 8:52:59  | ETH   | 0.1           | $349      | 0x26bb9df242112940eb5ef0e61c494030351fc9ff         | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0x07234af92353451924a3fee5240378f5a73b99f400c939b4fcfbe0e8e4e668a1 |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-10-14 2:45:32  | ARB   | 0.0099        | $24       | 0x9ee08404dafd085fc6dc678183164cf474b81f85         | CHAINGE 0xf422ec7591e83612a39dbdf94563f20133ef2d9f | 0xb16e6be2c86ae429cb158b311c66814cf13c7f396e6ab21d4dc6ab014c66f3ac |
+| 2024-10-14 3:07:09  | BSC   | 0.04063936068 | $24       | CHAINGE 0x99a57ac044e6ce44b7e161a07af0d3e693a75b54 | 0xa0e768a68ba1bfffb9f4366dfc8d9195ee7217d1         | 0x4c9f998f2b6f2338e002efcd7a10a0430245abf1d4cb81e4f4e1c4e43eef9665 |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-10-14 2:39:47  | ETH   | 2.43          | $5,970    | 0xdb0d54c00ee259ce6588bb426889466d1e471655         | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0x71b9d69c8dd3f2c3514d9b9e774769496b14c7d2c6283f4330eb7f0c956893dc |
+| 2024-10-14 3:34:18  | BSC   | 10.40161841   | $6,108    | CHAINGE 0x99a57ac044e6ce44b7e161a07af0d3e693a75b54 | 0xf4e49bd4d560b036dd6fe43850daad3b4f7b7849         | 0xb79f580876fd8c327a901d535206b424fc8ecde8426b9020a73575bfb65fd631 |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-10-14 2:43:44  | ARB   | 60.28         | $148,105  | 0x9ee08404dafd085fc6dc678183164cf474b81f85         | CHAINGE 0xf422ec7591e83612a39dbdf94563f20133ef2d9f | 0x2b31728ceab537453fb8e11b37cf104aec15d953fdfa58ab4c6cb3e4d8cce133 |
+| 2024-10-14 3:34:33  | BSC   | 257.8505452   | $151,410  | CHAINGE 0x99a57ac044e6ce44b7e161a07af0d3e693a75b54 | 0x9ee08404dafd085fc6dc678183164cf474b81f85         | 0xaa83b070ff301966ca53b2840833838fcb8b13d92a7c6e4df28266a78fc3a3ee |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-10-14 6:41:03  | BSC   | 6.06          | $3,558    | 0x25e49c69cb60022968a4cbd11144ec8a34e01cf3         | CHAINGE 0x99a57ac044e6ce44b7e161a07af0d3e693a75b54 | 0xd55b96d36977a8ab62f7881ffdae39907bf8092219170a30e45eb6a2d43f4431 |
+| 2024-10-14 6:42:59  | ETH   | 1.381645604   | $3,395    | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0x25e49c69cb60022968a4cbd11144ec8a34e01cf3         | 0x862f0ef743c5f236fdf31265aeb48825f510f44e7fda7c90f5e411c26b32e1b1 |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-10-14 7:11:11  | ETH   | 3.04          | $7,469    | 0xf5e4ad3811821430690535ef7af7719ffe6ee9bc         | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0xe51c3089767bba8b2b24b7b2c6d5faa999a011c58456eb6cae2dd386c7bf145f |
+| 2024-10-14 7:30:12  | BSC   | 13.1424395    | $7,717    | CHAINGE 0x99a57ac044e6ce44b7e161a07af0d3e693a75b54 | 0x767ec1183eab2d3c90162d95bb9f1d282d65fc71         | 0xf6f9552f294a10dfaccddc4fa86356857d7324831832087a30bc7b5ce94769a8 |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-10-14 12:03:45 | BSC   | 42.12         | $24,733   | 0x23bf9a40b16e1b4e7ec3a18ee639649350eb34cd         | CHAINGE 0x99a57ac044e6ce44b7e161a07af0d3e693a75b54 | 0x1fe9a261b92e17a57c4958d82c33d731e8175b12d9f6f0533b74734e8d4a80ff |
+| 2024-10-14 12:32:11 | ETH   | 9.597849915   | $23,581   | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0x767ec1183eab2d3c90162d95bb9f1d282d65fc71         | 0xb9c74edcca600822e4102c0f59c44678e535851f8be32d7bfb58dec895a0439c |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-10-15 1:14:47  | BSC   | 73.29         | $43,214   | 0x8071bc1ccdfbfd098b91fc86fb21f2cb9d3cc221         | CHAINGE 0x99a57ac044e6ce44b7e161a07af0d3e693a75b54 | 0xb172d190e03480f4a9bc7ff686baa7198a0941119022847b4f7c912552365aea |
+| 2024-10-15 2:37:47  | ETH   | 16.43382488   | $43,082   | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0x767ec1183eab2d3c90162d95bb9f1d282d65fc71         | 0x002a8d5026f4cbd1867fc4ec91a4a7d74cdfa6ff12ef1710b47d7e6e2c79c091 |
+|                     |       |               |           |                                                    |                                                    |                                                                    |
+| 2024-10-16 14:12:05 | ARB   | 2.58          | $6,706    | 0xce22d25a8b37d85c82fa84073816e9ff2bb5ca73         | CHAINGE 0xf422ec7591e83612a39dbdf94563f20133ef2d9f | 0xe42f131294ad48fee78eda18e9dd822b7ed15acda7d63c1c9a1f0184d9969989 |
+| 2024-10-16 14:12:59 | ETH   | 2.57550988    | $6,695    | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0x0547cc38b8c121de761d394042c45166a811d0ff         | 0x0ec4c13d0683ba30b2fd6c3c2ec867353f02779236728fd6b62810a561c4df03 |

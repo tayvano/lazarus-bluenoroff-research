@@ -67,7 +67,7 @@ Tags: 🎙️ Contagious Interview
 - https://etherscan.io/tx/0x44ce9e9a00d802c85875e5a76a65b14236d1e744f9d60ad1a1008ebe7e5dc134
 - Funny enough, in the second transaction, you guys can see the scammer has spent around $4 in transaction fees to transfer $1 worth of Ethereum. Clearly, not an expert scammer for sure!
 
-- Source: https://x.com/syedasadkazmii/status/1769710505953026109?s=20
+- Source: https://twitter.com/syedasadkazmii/status/1769710505953026109?s=20
 
 ### On-chain
 

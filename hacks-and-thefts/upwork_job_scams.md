@@ -22,7 +22,7 @@ The following is related to exploits with SPooCK, OKX Dex, UnoRe DAO, Arbi, Terr
 ## URLs
 
 - https://bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/
-- victim: https://x.com/muratctp/status/1739224777955369420
+- victim: https://twitter.com/muratctp/status/1739224777955369420
 - https://upwork.com/freelance-jobs/apply/Fix-bugs-and-resopnsiveness-website_~01e7bfe7f458e327b1/
 - https://github.com/vadym110/web3_nextjs
 - https://github.com/vadym110/web3_nextjs_backend

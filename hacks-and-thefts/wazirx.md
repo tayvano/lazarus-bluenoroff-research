@@ -67,7 +67,7 @@ This suggests a significant failure in Liminal's verification process, a vulnera
 - https://twitter.com/CyversAlerts/status/1813834131165286464
 - https://twitter.com/WazirXIndia/status/1813843289940058446
 - https://twitter.com/ArkhamIntel/status/1813887774191231337
-
+- https://twitter.com/CyversAlerts/status/1851239095730602136
   
 
 ## On-chain

@@ -70,11 +70,11 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 
 ## URLs
 
-- https://x.com/ALEXLabBTC/status/1790611871986331855
+- https://twitter.com/ALEXLabBTC/status/1790611871986331855
 
 - https://certik.com/resources/blog/alex
 
-- https://x.com/ALEXLabBTC/status/1791020176332230988
+- https://twitter.com/ALEXLabBTC/status/1791020176332230988
 
 
 ## Connections
@@ -85,7 +85,7 @@ https://dailycoin.com/alex-lab-blames-north-koreas-lazarus-group-for-4m-exploit/
 > Dear ALEX Community,
 > We wish to share an important update on the ALEX incident investigation from last month, which resulted in unauthorized access and the loss of funds. We understand the severity of this issue and are committed to full transparency in our ongoing response.
 > **Potential Identification of the Attacker**
-> After extensive forensic analysis and investigations facilitated by blockchain analyst [@Zachxbt](https://x.com/Zachxbt) who provided critical assistance on transaction tracing, there is substantial transaction evidence linking the attack to the Lazarus Group, a notorious hacker collective believed to be associated with the North Korean government.
+> After extensive forensic analysis and investigations facilitated by blockchain analyst [@Zachxbt](https://twitter.com/Zachxbt) who provided critical assistance on transaction tracing, there is substantial transaction evidence linking the attack to the Lazarus Group, a notorious hacker collective believed to be associated with the North Korean government.
 > **Detailed Transaction Evidence**
 > The following blockchain addresses and transactions were crucial in tracing the culprits and the flow of stolen assets:
 > 1. Initial Exploit Link: Address 0x418e337774d26365efeaa4700e889a9746330c4e was directly linked to the

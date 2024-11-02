@@ -49,11 +49,11 @@ Tags:: 🎙️ Contagious Interview
 
 - https://www.theblock.co/post/322061/tapioca-dao-stops-1000-eth-worth-2-7-million-from-being-stolen-following-exploit-that-drains-majority-of-its-funds
 
-- https://x.com/0xTeun/status/1847235350915145888
+- https://twitter.com/0xTeun/status/1847235350915145888
 
-- https://x.com/zachxbt/status/1847249205720408138
+- https://twitter.com/zachxbt/status/1847249205720408138
 
-- https://x.com/tapioca_dao/status/1847330264139145361
+- https://twitter.com/tapioca_dao/status/1847330264139145361
 
 - https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/
 

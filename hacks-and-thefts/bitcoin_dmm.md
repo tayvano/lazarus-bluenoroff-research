@@ -69,11 +69,11 @@ So they construct the largest, lowest-risk txn they could figure, crank the fee 
 
 - https://elliptic.co/blog/dmm-bitcoin-loses-308-million-in-unauthorized-leak
 
-- https://x.com/CryptoEvgen/status/1806831622848922014
+- https://twitter.com/CryptoEvgen/status/1806831622848922014
 
 - https://rekt.news/dmm-rekt/
 
-- https://x.com/zachxbt/status/1812466959109521649
+- https://twitter.com/zachxbt/status/1812466959109521649
 
 
 
@@ -112,7 +112,7 @@ So they construct the largest, lowest-risk txn they could figure, crank the fee 
 
 - https://chainabuse.com/report/7a1ce276-3347-43d2-8b16-c1a7cf2bfaf3
 
-- https://x.com/zachxbt/status/1812466959109521649
+- https://twitter.com/zachxbt/status/1812466959109521649
 
 - TXNdzqFtG6P6rgC1QRTUkCinJFkPV5ghti
 - TLk8xMroBtfktfhbEQRjukAYiKfpZZZZZZ
