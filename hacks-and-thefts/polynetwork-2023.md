@@ -30,8 +30,6 @@ I suspect it may be the former simply bc the code has both reference to an exter
 
 However, its obviously possible they were allowing folks to push without basic peer review.
 
-Looking a bit closer at the malware, it appears that the package requires a second piece of info in order to run/execute/whatever. This is a very familiar tactic they use for evasion, most usually seen associated with DangerousPassword/SquidSquad shit.
-
 One of the observed IPs relating to this theft is a Russia TTK which has also been previously seen with DP/SQSQ.
 
 
@@ -222,3 +220,6 @@ One of the observed IPs relating to this theft is a Russia TTK which has also be
 - https://polynetwork.medium.com/the-poly-network-exploit-analysis-b0a77aff6078
 
 - https://www.serial-coder.com/post/poly-network-in-depth-analysis-of-the-biggest-heist-in-defi-history/
+
+
+
