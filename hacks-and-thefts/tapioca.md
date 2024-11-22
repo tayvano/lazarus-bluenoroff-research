@@ -21,9 +21,9 @@ Tags:: 🎙️ Contagious Interview
 
 ## On-chain
 
-- 0x69d91e56ca80f2a4d7b808b59053ea5c5505ffe2
-
 - 0x70285a11489bed93686410ebc727057cafb8129d
+
+- 0x69d91e56ca80f2a4d7b808b59053ea5c5505ffe2
 
 - TAP Vesting Contract: https://arbiscan.io/address/0x2997c5ddd3070a46e9938261ce0a16a237121cb0#code
 
