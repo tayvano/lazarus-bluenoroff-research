@@ -12,48 +12,40 @@ Amount Stolen:: $77,000
 ## Known Targets - October 2024
 
 
-- Oct 21 - Ben 
+- Oct 21 - B 
     - `hack-vc.video-meets.site/roundtable-talk-with-hack-vc-team/roomID=3570947&meetingID=0673660`
     - ![](../images/2024-10-21_SQSQ_01.jpg)
 
-- Oct 21 - Ben 
+- Oct 21 - B 
     - `support.video-meets.site/troubleshoot-issue-282825`
     - ![](../images/2024-10-21_SQSQ_02.jpg)
 
-- Oct 22 - Alex  
+- Oct 22 - A  
     - https://x.com/alexpiHQ/status/1848371521598693747
 
-- Oct 22 - Josh 
+- Oct 22 - J 
     - `hack-vc.video-meets.xyz/roundtable-talk-with-hack-vc-team/roomID=3570947&meetingID=94474406`
     - ![](../images/2024-10-22_SQSQ_01.png)
 
 - Oct 24 - Unknown 
     - `hack-vc.online-meets.xyz/roundtable-talk-with-hack-vc-team/roomID=3570947&meetingID=51095058`
 
-- Oct 24 - YJ 
+- Oct 24 - Y 
     - unknown
 
-- Terrence 
+- T 
     - `hack-vc.video-meets.site/roundtable-talk-with-hack-vc-team/roomID=3570947&meetingID=3824330`
     - ![](../images/2024-10-24_SQSQ_01.jpg)
     
-- Jay 
+- J2 
     - `hack-vc.video-meets.pro/roundtable-talk-with-hack-vc-team/roomID=3570947&meetingID=44873848`
     - ![](../images/2024-10-25_SQSQ_00-02-32.jpg)
 
 ## Known Targets - November 2024
 
-- Sam
+- S
     - `foresight.online-meets.site` - possibly a longer subdomain like `foresight-ventures`
     - Fake Telegram: @Oxmin3 ID 7024096322
-
-### Foresight Ventures
-- Fake Min (Foresight Ventures)
-- Fake "Iris Lo" (Foresight Ventures)
-https://x.com/0xmin3/status/1857334233758658891
-https://x.com/0xmin3/status/1851101969189847075
-https://x.com/0xmin3/status/1856138297065746925
-https://x.com/ForesightVen/status/1851084770861846927
 
 
 
@@ -84,3 +76,16 @@ https://x.com/ForesightVen/status/1851084770861846927
 - acceptLanguage : en-US,en;q=0.9,ko;q=0.8 
 
 
+
+
+
+### Foresight Ventures
+
+- Fake Min (Foresight Ventures)
+- Fake "Iris Lo" (Foresight Ventures)
+- https://x.com/0xmin3/status/1857334233758658891
+- https://x.com/0xmin3/status/1851101969189847075
+- https://x.com/0xmin3/status/1856138297065746925
+- https://x.com/ForesightVen/status/1851084770861846927
+
+- 0x589761dbfc4cd374e7e4da72f2cbd08eca3141f7 - Theft (25 ETH)

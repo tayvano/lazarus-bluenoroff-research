@@ -4,7 +4,7 @@ Date:: May 15th, 2024
 
 Amount Stolen:: $4,300,000
 
-Tags:: 🔑
+Tags:: 🔑 SquidSquad
 
 ---
 
