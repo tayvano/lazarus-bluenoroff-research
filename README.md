@@ -43,7 +43,7 @@
 
 - [Human Readable Background and Stuff](https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/lazarus-background.md)
 
-- [Collection of crypto-themed lures, many of which are Lazarus](https://twitter.com/tayvano_/status/1516225457640787969)
+- [Collection of crypto-themed lures, many of which are Lazarus](https://x.com/tayvano_/status/1516225457640787969)
 
 
 
@@ -282,7 +282,7 @@ Note: all my research starts onchain and works backwards from there using victim
 - Past Attacks: A4 (Founder/CEO), I4 (Founder/CEO of DeFi Thing), C4 (defi media person), C7 (CEO of blockchain infra company), ALEX Labs, Samudai Founder, Maverick Founder, Fantom Foundation CEO, Coinshift C-Level, Steadefi, GERA Coin, deBridge (Attempt), Wonderhero, Arthur_0x, bZx, YFETH Admin Key, Metaplay / Polyplay, MNGR, Bondly Finance, Tower Capital, NAOs Finance, FinNexus Admin Key, 990.1 BTC, EasyFi Founder, Mudge / Etna / Mokens Deployer, Indodax ATO, Hugh Karp / Nexus Mutual, L2 Theft (crypto investor), LEAD Wallet Token, CoinMetro, Unibright, Tap Global, Coinberry, Fetch.ai
 - [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 - [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
-- [Dec 2023 | Alex Masmej's Near Miss Story](https://twitter.com/AlexMasmej/status/1731446788136292833)
+- [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
 - [Dec 2023 | Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
 - [Apr 2023 | BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://www.jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
 
@@ -323,9 +323,9 @@ Note: all my research starts onchain and works backwards from there using victim
 - [Sep 2024 | Dozens of Fortune 100 companies have unwittingly hired North Korean IT workers, according to report](https://therecord.media/major-us-companies-unwittingly-hire-north-korean-remote-it-workers)
 - [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))
 - [May 2024 | Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://www.justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
-- [Mar 2024 | re: DPRK IT Workers I](https://twitter.com/tayvano_/status/1777911893224808911)
-- [Mar 2024 | re: DPRK IT Workers II](https://twitter.com/tayvano_/status/1777911896508887178)
-- [Mar 2024 | re: DPRK IT Workers III](https://twitter.com/tayvano_/status/1777911898845159775)
+- [Mar 2024 | re: DPRK IT Workers I](https://x.com/tayvano_/status/1777911893224808911)
+- [Mar 2024 | re: DPRK IT Workers II](https://x.com/tayvano_/status/1777911896508887178)
+- [Mar 2024 | re: DPRK IT Workers III](https://x.com/tayvano_/status/1777911898845159775)
 - [Nov 2023 | North Koreans use fake names, scripts to land remote IT work for cash](https://www.reuters.com/technology/north-koreans-use-fake-names-scripts-land-remote-it-work-cash-2023-11-21/)
 - [Oct 2023 | Zero Day: How North Korean Workers Tricked U.S. Companies into Hiring Them and Secretly Funneled Their Earnings into Weapons Programs](https://www.zetter-zeroday.com/p/how-north-korean-workers-tricked)
 - [Oct 2023 | U.S. DOJ: Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of DPRK IT Workers](https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation)
@@ -348,8 +348,8 @@ Note: all my research starts onchain and works backwards from there using victim
 - Astrill, Russia TTK observed.
 - [Nov 2023 | Palo Alto: Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)
 - [May 2024 | From Opportunity to Threat: My Encounter with a Blockchain Job Scam](https://medium.com/@mahitman1/from-opportunity-to-threat-my-encounter-with-a-blockchain-job-scam-9e0457754298)
-- [Apr 2024 | SlowMist's im23pds: "Lazarus group appears to be currently reaching out to targets via LinkedIn and steal employee privileges or assets through malware"](https://twitter.com/im23pds/status/1782984061369405878)
-- [Dec 2023 | Seongsu Park: "The actor continues with familiar tactics, incorporating a cleverly obfuscated BeaverTail script. The endgame remains the InvisibleFerret script, with the C2 using IP addresses previously employed by the actor: 147.124.212.89:1244"](https://twitter.com/unpacker/status/1737993034934169855)
+- [Apr 2024 | SlowMist's im23pds: "Lazarus group appears to be currently reaching out to targets via LinkedIn and steal employee privileges or assets through malware"](https://x.com/im23pds/status/1782984061369405878)
+- [Dec 2023 | Seongsu Park: "The actor continues with familiar tactics, incorporating a cleverly obfuscated BeaverTail script. The endgame remains the InvisibleFerret script, with the C2 using IP addresses previously employed by the actor: 147.124.212.89:1244"](https://x.com/unpacker/status/1737993034934169855)
 - [Dec 2023 | Blockchain dev's wallet emptied in "job interview" using npm package](https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
 
 
@@ -550,10 +550,10 @@ Note: all my research starts onchain and works backwards from there using victim
 
 # More Random Tweets
 
-- https://twitter.com/tayvano_/status/1668935273047261185
-- https://twitter.com/tayvano_/status/1686916598899281920
-- https://twitter.com/zachxbt/status/1686327312843780097
-- https://twitter.com/zachxbt/status/1683747073227624448
+- https://x.com/tayvano_/status/1668935273047261185
+- https://x.com/tayvano_/status/1686916598899281920
+- https://x.com/zachxbt/status/1686327312843780097
+- https://x.com/zachxbt/status/1683747073227624448
 
 
 
