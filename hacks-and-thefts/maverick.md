@@ -4,6 +4,9 @@ Date:: October 26th, 2023
 
 Amount Stolen:: $8,300,000
 
+Tags:: 🔑 SquidSquad
+
+---
 
 Email Subject: Fwd: Huge Risk for Stablecoin
 
@@ -47,6 +50,10 @@ Email Subject: Fwd: Huge Risk for Stablecoin
 - 0xf6e2fd6faa5d1b9a759fddfae4840799b042a389
 - 0xfc46ae5a0b54c6d77b64abe047b0cecfa7a6c8c0
 - 0xff3bb2f6ea4bd8936b6f06a082a9213503f13a89
+- 0x27b86e3764dd46ad1c0275bdbfd307eafbe6f302
+- 0x346812666347b9548ab2e21f5370a071a0551efe
+- 0x16718ff0dfc4a376f9eab0e8c0e5bdf6c94c1691 - exch depo
+- 0x3b9beab2b1926f6c913cde167e1bcec58142b22d - fixedfloat depo
 
 
 ## Laundering Addresses:
@@ -60,7 +67,6 @@ Email Subject: Fwd: Huge Risk for Stablecoin
 - 0x33e069100d01c722970f2cfb747c0eb14bcd2179
 - 0x33f55db997b65829ed3f7e3ba8d67c0d62ef6a92
 - 0x3620a168fe6859a095eae9081bb85321cb51d624
-- 0x3b9beab2b1926f6c913cde167e1bcec58142b22d
 - 0x42439a5d3047e7259ce7584056e9e13dfd71e1bd
 - 0x4ecf094577c1c953b616d947f179553c651617cc
 - 0x6d3d471a8630041df4e1a6f1c0531d676d6602e5
@@ -81,6 +87,21 @@ Email Subject: Fwd: Huge Risk for Stablecoin
 - bc1qu6p60gnnmfrj6tszq6pqe6hche6ylfpd234dvw
 - bc1qy0mxhm90f9v9azameywjeddn8v5exxsmqvf8h0
 - TGeWe1f7Kz6mAJrD8eCnUzTGTBpE7AKXJD
+
+
+# Interesting
+
+On December 13th, 2023, one of the larger theft addresses 0xba10192a4939edb3f74345878bc379b7f89b4b28 send it's dust to another address: 0x7ab0fad50169e05d6d688c832c9c9103216a94b4
+
+Txn: 0x14d91788d045b31cca74a867ae4f70626a99c06fe48f4a864b9aa9af279eea84
+
+That address interacts with:
+
+- 0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974 (Alex Labs Test Address)
+
+
+
+---
 
 
 ## Laundering IPs Observed:

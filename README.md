@@ -251,7 +251,7 @@
 | 🎙️  | 2024-Sep-19 | [NiiFi](./hacks-and-thefts/NiiFi.md)                                                      |                  |
 | 👛  | 2024-Sep-19 | [BingX](./hacks-and-thefts/bingx.md)                                                      | $45,000,000      |
 | 🔑  | 2024-Sep-20 | [Dexnet](./hacks-and-thefts/dexnet.md)                                                    | $459,484         |
-| 🔑  | 2024-Sep-25 | [Truflation](./hacks-and-thefts/Truflation.md)                                            | $5,000,000       |
+| 🔑  | 2024-Sep-25 | [Truflation](./hacks-and-thefts/truflation.md)                                            | $5,000,000       |
 | ❓  | 2024-Oct-16 | [Radiant](./hacks-and-thefts/radiant.md)                                                  | $50,000,000      |
 | 🎙️  | 2024-Oct-18 | [Tapioca](./hacks-and-thefts/tapioca.md)                                                  | $4,700,000       |
 | 🔑  | 2024-Oct-18 | [Fake Hack VC Thefts](./hacks-and-thefts/hack-vc.md)                                      | $77,000          |
