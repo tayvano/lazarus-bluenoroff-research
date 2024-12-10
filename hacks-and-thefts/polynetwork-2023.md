@@ -4,7 +4,7 @@ Date:: July 1, 2023
 
 Amount Stolen: ~$10,000,000 (shitcoins theoretical value puts this theft at about $34 billion though lol)
 
-Tags:: AppleJeus??????????
+Tags:: 🍎 Applejeus
 
 ---
 

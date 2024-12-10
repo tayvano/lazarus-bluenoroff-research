@@ -4,6 +4,8 @@ Date:: November 2nd, 2022
 
 Amount Stolen:: $28,000,000
 
+Tags:: 🍎 Applejeus
+
 
 ---
 

@@ -4,13 +4,18 @@ Date:: October 16th, 2024
 
 Amount Stolen:: $50,000,000
 
-Tags:: AppleJeus??????????
+Tags:: 🍎 Applejeus
 
 ---
 
 ## Details
 
 Radiant Capital posted on X acknowledging issues with its lending markets on BNB Chain and Arbitrum. Trading on Base and Mainnet markets has been paused. According to SlowMist’s security team analysis, the incident occurred after the Radiant attacker illegally gained control of 3 multisig permissions and upgraded to a malicious contract to steal funds.
+
+> Within the ZIP file, the attackers delivered a sophisticated piece of malware — INLETDRIFT — contained within Penpie_Hacking_Analysis_Report.zip. It established a persistent macOS backdoor while displaying a legitimate-looking PDF to the user. It employed a malicious AppleScript to communicate with the domain atokyonews[.]com.
+
+> Mandiant attributes this attack to UNC4736, commonly referred to as AppleJeus or Citrine Sleet. Mandiant assesses with high-confidence that UNC4736 has a Democratic People’s Republic of Korea (DPRK) nexus. Specifically, this group is aligned with DPRK’s Reconnaissance General Bureau (RGB) and has close ties with TEMP.Hermit.
+
 
 
 Add'l Signers: 
@@ -148,17 +153,25 @@ Add'l Signers:
 
 
 ### Victim addresses (keys not compromised though)
-
 - 0x111CEEee040739fD91D29C34C33E6B3E112F2177 (Safe)
-
 - 0x20340c2a71055FD2887D9A71054100FF7F425BE5
-
 - 0x83434627e72d977af18F8D2F26203895050eF9Ce
-
 - 0xbB67c265e7197A7c3Cd458F8F7C1d79a2fb04d57
 
 
+### Hyperliquid Depositors (Arbitrum)
+- 0x9e045ef8712607c1d8d04e2eaa9a2781149d5cf8 
+- 0x2de7f660ebb78252f7cc243bb2e35c558e43b58e
+- 0x7997e80f4bd9563d61ee4d06108f7d6ceb23ab21
+- 0x60aba279e49e5a05dc7e3c84f2204a6afb032119
+- 0x348fc4dfdcd3427d8a4b43ad965b4443d55cf955
+- 0x34aa91e574aa963675107011dcf0392c5521005a
+- 0x00E1559184Bf1da0256a495ae9BAec11BCA60eb7
+
+
 ## URLs
+
+- https://medium.com/@RadiantCapital/radiant-capital-incident-update-e56d8c23829e
 
 - https://rekt.news/radiant-capital-rekt2/
 

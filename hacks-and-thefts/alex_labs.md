@@ -64,6 +64,8 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 - 0xa41a6b3996a6cbb75fe2d7c67220d7012bb1487e
 - 0xff7493efe724557ad99b4986d74af75c4f24750d
 - 0x5b70ef457f1ffcd5b1c9566725f23c23cb8c4ced
+- 0x948d92ddc99af3fc18f4f71c6e9961ff440ed55a
+- 0x47da8f829feb4175cdcab942e1a9265d655718cc
 - 0x9906b7e5df58ca2038cb0e3818137af8986b39ea
 - 0xc597682e15b9576f4f57be6837a8eb7a135abd99
 - 0xc0a0ec4dbf170611cc76f31a9df910ad79bc2266 - to railgun

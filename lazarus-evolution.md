@@ -83,9 +83,9 @@
 - [Apr 2022 | TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies (Web)](https://cisa.gov/news-events/cybersecurity-advisories/aa22-108a)
 
 
-## 👛 Applejeus / Citrine Sleet
+## 🍎 Applejeus / Citrine Sleet
+
 - aka: Gleaming Pisces, Labyrinth Chollima, UNC4736, Hidden Cobra, DEV-0139
-- Note: in this repo these are all tagged 👛. I'll untangle them later but not today.
 - A threat group that has been active since at least 2018
 - This group performed attacks targeting the cryptocurrency industry and is known for its association with the AppleJeus campaign.
 - Primarily targets: financial institutions, particularly organizations and individuals managing cryptocurrency, for financial gain.
@@ -95,13 +95,23 @@
 - The FudModule rootkit described in [this blog](https://microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/) has now been tied to Citrine Sleet as shared tooling with Diamond Sleet.
 - Like TraderTraitor, this crypto-focused group appeared to emerge after the notoriety that came with the Bangladesh heist and issues with stealing and laundering traditional currency. 
 - This group’s tools overlap with TEMP.Hermit, but is not focused on the same targeting profiles, potentially indicating shared resources.
-- Known Attacks: 
-    - 2018 Gate.io Hack (Celas Trade Pro)
-    - 2019 DragonEx Hack (WorldBit-Bot)
+- **Known Attacks:** 
+    - 2018 [Gate.io Hack (Celas Trade Pro)](./hacks-and-thefts/gate.md)
+    - 2019 [DragonEx Hack (WorldBit-Bot)](./hacks-and-thefts/dragonex.md)
+    - 2021 [990.1 BTC from Derbit Acct](./hacks-and-thefts/990_btc.md)
+    - 2021 [Tower Capital](./hacks-and-thefts/tower_capital.md)
+    - 2021 [Advcash](./hacks-and-thefts/advcash.md)
+    - 2022 [Deribit](./hacks-and-thefts/deribit.md)
+    - 2023 [Polynetwork](./hacks-and-thefts/polynetwork-2023.md)
+    - 2024 [Radiant](./hacks-and-thefts/radiant.md)
 - "One of the most successful fake personas used by the Lazarus Group was Waliy Darwish—a man who supposedly worked for a cryptocurrency company, based in Michigan, called Celas L.L.C." —[The Incredible Rise of North Korea’s Hacking Army](https://newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
-- [Aug 2024 | North Korean threat actor Citrine Sleet exploiting Chromium zero-day (CVE-2024-7971)](https://microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/)
+- [Aug 2024 | CVE-2024-7971: North Korean threat actor Citrine Sleet exploiting Chromium zero-day](https://microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/)
+- [Mar 2022 | CVE-2022-1096: Chrome Update Released - type confusion V8]
+- [Apr 2023 | Linux malware strengthens links between Lazarus and the 3CX supply-chain attack](https://www.welivesecurity.com/2023/04/20/linux-malware-strengthens-links-lazarus-3cx-supply-chain-attack/)
 - [Dec 2022 | DEV-0139 launches targeted attacks against the cryptocurrency industry](https://microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/)
 - [Dec 2022 | ₿uyer ₿eware: Fake Cryptocurrency Applications Serving as Front for AppleJeus Malware](https://volexity.com/blog/2022/12/01/buyer-beware-fake-cryptocurrency-applications-serving-as-front-for-applejeus-malware/)
+- [Mar 2022 | Countering threats from North Korea](https://blog.google/threat-analysis-group/countering-threats-north-korea/)
+- [Oct 2021 | Multi-Universe Of Adversary: Multiple Campaigns Of Lazarus Group](https://vblocalhost.com/uploads/VB2021-Park.pdf)
 - [Apr 2021 | AppleJeus](https://cisa.gov/news-events/cybersecurity-advisories/aa21-048a)
 - [Feb 2021 | CISA: AppleJeus: Celas Trade Pro](https://cisa.gov/news-events/analysis-reports/ar21-048a)
 - [Feb 2021 | AppleJeus – Celas Trade Pro](https://us-cert.gov/ncas/analysis-reports/ar21-048a)
@@ -111,7 +121,15 @@
 - [Feb 2021 | AppleJeus – CoinGoTrade](https://us-cert.gov/ncas/analysis-reports/ar21-048e)
 - [Feb 2021 | AppleJeus – Dorusio](https://us-cert.gov/ncas/analysis-reports/ar21-048f)
 - [Feb 2021 | AppleJeus – Ants2Whale](https://us-cert.gov/ncas/analysis-reports/ar21-048g)
+- [Jan 2021 | New campaign targeting security researchers](https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/)
+- [Aug 2020 | Operation Dream Job](https://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf)
+- [Jan 2020 | Operation AppleJeus Sequel](https://securelist.com/operation-applejeus-sequel/95596/)
+- [Oct 2019 | AppleJeus - JMT Trading](https://www.bleepingcomputer.com/news/security/attackers-create-elaborate-crypto-trading-scheme-to-install-malware/)
 - [Aug 2018 | Operation AppleJeus: Lazarus hits cryptocurrency exchange with fake installer and macOS malware](https://securelist.com/operation-applejeus/87553/)
+
+
+
+
 
 
 ## 💼 DPRK IT Workers
