@@ -2,10 +2,51 @@
 # SquidSquad - Fake Telegram VCs
 
 
-
 ## Fake Hashkey 
 
 - August–November 2023
+
+- https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b
+
+- https://krebsonsecurity.com/2024/02/calendar-meeting-links-used-to-spread-mac-malware/
+
+- https://x.com/0x_nico0/status/1856701908104409177
+
+- https://x.com/0xmin3/status/1855144730767814922
+
+- https://x.com/0xmin3/status/1856138297065746925
+
+- https://x.com/0xmin3/status/1857334233758658891
+
+- https://x.com/AlexMasmej/status/1731446788136292833
+
+- https://x.com/alexpiHQ/status/1848371521598693747
+
+- https://x.com/emmacui/status/1819402141934723132
+
+- https://x.com/fatimarizwan/status/1831285768633077899
+
+- https://x.com/ForestBai1/status/1856566543913758799
+
+- https://x.com/hashkey_capital/status/1693496931878949275
+
+- https://x.com/HashKey_Capital/status/1730154873797455872
+
+- https://x.com/HashKey_Capital/status/1731674777092272155
+
+- https://x.com/ingalandia/status/1704336878541893872
+
+- https://x.com/myxmarkz/status/1851550166760968473
+
+- https://x.com/PaulRBerg/status/1704388093019848972
+
+- https://x.com/Signum_Capital/status/1763467578087719166
+
+- https://x.com/wkhosrowshahi1/status/1833519766931190159
+
+- https://x.com/0xmin3/status/1851101969189847075
+
+- https://x.com/Adot_web3/status/1837489227938123856
 
 - [Image 1](./2023-08-01_SQSQ_Fake-Hashkey_01.jpeg) - [Image 2](./2023-08-01_SQSQ_Fake-Hashkey_02.jpeg) - [Image 3](./2023-08-01_SQSQ_Fake-Hashkey_03.jpeg) - [Image 4](./2023-08-01_SQSQ_Fake-Hashkey_04.jpeg) - [Image 5](./2023-09-17_SQSQ_Fake-Hashkey_05.jpeg) - [Image 6](./2023-09-17_SQSQ_Fake-Hashkey_06.png) - [Image 7](./2023-09-17_SQSQ_Fake-Hashkey_07.jpeg) - [Image 8](./2023-09-17_SQSQ_Fake-Hashkey_08.png) - [Image 9](./2023-09-17_SQSQ_Fake-Hashkey_09.jpeg) - [Image 10](./2023-09-17_SQSQ_Fake-Hashkey_10.jpeg) - [Image 11](./2023-09-19_SQSQ_Fake-Hashkey_11.jpeg) - [Image 12](./2023-09-19_SQSQ_Fake-Hashkey_12.jpeg) - [Image 13](./2023-09-19_SQSQ_Fake-Hashkey_13.jpeg) - [Image 14](./2023-11-30_SQSQ_Fake-Hashkey_14.png) - [Image 15](./2023-11-30_SQSQ_Fake-Hashkey_15.jpeg) - [Image 16](./2023-11-30_SQSQ_Fake-Hashkey_16.jpeg) - [Image 17](./2023-11-30_SQSQ_Fake-Hashkey_17.png) - [Image 18](./2023-11-30_SQSQ_Fake-Hashkey_18.png)
 
@@ -101,13 +142,11 @@
 
 - October 2024
 
-- [Image 1](./2024-10-21_SQSQ_Fake-Hack-VC_01.jpg) - [Image 2](./2024-10-21_SQSQ_Fake-Hack-VC_02.jpg) - [Image 3](./2024-10-21_SQSQ_Fake-Hack-VC_03.jpg) - [Image 4](./2024-10-22_SQSQ_Fake-Hack-VC_04.png) - [Image 5](./2024-10-22_SQSQ_Fake-Hack-VC_05.png) - [Image 6](./2024-10-22_SQSQ_Fake-Hack-VC_06.jpg) - [Image 7](./2024-10-24_SQSQ_Fake-Hack-VC_07.jpg) - [Image 8](./2024-10-25_SQSQ_Fake-Hack-VC_08.jpg) - [Image 9](./2024-11-06_SQSQ_Fake-Hack-VC.jpg)
+- [Image 1](./2024-10-21_SQSQ_Fake-Hack-VC_01.jpg) - [Image 2](./2024-10-21_SQSQ_Fake-Hack-VC_02.jpg) - [Image 4](./2024-10-22_SQSQ_Fake-Hack-VC_04.png) - [Image 5](./2024-10-22_SQSQ_Fake-Hack-VC_05.png) - [Image 6](./2024-10-22_SQSQ_Fake-Hack-VC_06.jpg) - [Image 7](./2024-10-24_SQSQ_Fake-Hack-VC_07.jpg) - [Image 8](./2024-10-25_SQSQ_Fake-Hack-VC_08.jpg) - [Image 9](./2024-10-25_SQSQ_Fake-Hack-VC_09.jpg) - [Image 10](./2024-11-06_SQSQ_Fake-Hack-VC.jpg)
 
 ![](./2024-10-21_SQSQ_Fake-Hack-VC_01.jpg)
 
 ![](./2024-10-21_SQSQ_Fake-Hack-VC_02.jpg)
-
-![](./2024-10-21_SQSQ_Fake-Hack-VC_03.jpg)
 
 ![](./2024-10-22_SQSQ_Fake-Hack-VC_04.png)
 
@@ -115,9 +154,11 @@
 
 ![](./2024-10-22_SQSQ_Fake-Hack-VC_06.jpg)
 
-![](./2024-10-24_SQSQ_Fake-Hack-VC_07.jpg)
+![](./2024-10-24_SQSQ_Fake-Hack-VC_07.png)
 
 ![](./2024-10-25_SQSQ_Fake-Hack-VC_08.jpg)
+
+![](./2024-10-25_SQSQ_Fake-Hack-VC_09.jpg)
 
 ![](./2024-11-06_SQSQ_Fake-Hack-VC.jpg)
 
@@ -140,21 +181,29 @@
 
 ## Fake VCs - November 2024 
 
-- November 11th, 2024 thru November 19th, 2024
-
 - [Fake Emma](./2024-07-31_SQSQ_Fake-Emma-Cui.jpeg)
 
 - [Fake Foresight 1](./2024-11-11_SQSQ_Fake-Foresight.jpeg) - [Fake Foresight 2](./2024-11-19_SQSQ_Fake-Foresight.jpeg)
 
 - [Fake Comma3](./2024-11-12_SQSQ_Fake-Comma3.jpeg)
 
+- [Fake 7xv](./2024-11-05_SQSQ_Fake-7xv.jpg)
+
+- [Fake Foresight - Ian](./2024-11-26_SQSQ_fake-ian-foresight.jpg)
+
 ![](./2024-07-31_SQSQ_Fake-Emma-Cui.jpeg)
+
+![](./2024-11-05_SQSQ_Fake-7xv.jpg)
 
 ![](./2024-11-11_SQSQ_Fake-Foresight.jpeg)
 
 ![](./2024-11-19_SQSQ_Fake-Foresight.jpeg)
 
 ![](./2024-11-12_SQSQ_Fake-Comma3.jpeg)
+
+![](./2024-11-26_SQSQ_fake-ian-foresight.jpg)
+
+
 
 
 
@@ -167,7 +216,7 @@
 
 
 
-#### Rapid Change of Stablecoin (Protected)
+## Rapid Change of Stablecoin (Protected)
 
 - October 5th, 2021
 
@@ -177,7 +226,7 @@
 
 
 
-#### A Huge Risk of Stablecoin (Protected)
+## A Huge Risk of Stablecoin (Protected)
 
 - March 12th, 2022
 
@@ -187,7 +236,7 @@
 
 
 
-#### Potential Risk of USDT (Shared)
+## Potential Risk of USDT (Shared)
 
 - June 9th, 2022
 
@@ -197,7 +246,7 @@
 
 
 
-#### Fast Changes on NFT Price (Protected)
+## Fast Changes on NFT Price (Protected)
 
 - May 10th, 2023
 
@@ -207,7 +256,7 @@
 
 
 
-#### Huge Risk for Stablecoin (Protected)
+## Huge Risk for Stablecoin (Protected)
 
 - May 23rd, 2023
 
@@ -217,7 +266,7 @@
 
 
 
-#### New Era For Stablecoins And DeFi (Protected)
+## New Era For Stablecoins And DeFi (Protected)
 
 - July 14th, 2024
 
@@ -226,7 +275,7 @@
 ![](./2024-07-14_New-Era-For-Stablecoins-And-DeFi-(Protected).jpg)
 
 
-#### Urgent Predicting Bitcoin and Altcoin Prices (Date)
+## Urgent Predicting Bitcoin and Altcoin Prices (Date)
 
 - July 17th, 2024
 
@@ -235,7 +284,7 @@
 ![](./2024-07-17_Urgent-Predicting-Bitcoin-and-Altcoin-Prices-(Date).jpg)
 
 
-#### New Era for Stablecoins and DeFi CeFi (Protected)
+## New Era for Stablecoins and DeFi CeFi (Protected)
 
 - July 31th, 2024
 
@@ -245,22 +294,40 @@
 
 
 
-#### Potential Risks of Multisig in Stablecoins (Solana)
+## Potential Risks of Multisig in Stablecoins (Solana)
 
 - October 2nd, 2024
+
 - Sent Wed, 02 Oct 2024 10:15:31 -0700 (PDT)
+
 - from Brevo/Sendinblue
+
 - 45.61.128.122
+
 - meet[.]caladangroup[.]xyz
+
 - meet[.]selinicapital[.]xyz
+
 - meeting[.]sellinicapital[.]com
+
 - meet[.]selinicapital[.]online
+
 - https://search.censys.io/hosts/45.61.128.122
+
 - https://twitter.com/gametheorizing/status/1841529988895670668
+
 - https://twitter.com/eastside_nci/status/1836605224020033548
+
 - [Image](./2024-10-02_Potential-Risks-of-Multisig-in-Stablecoin-(Solana).jpg)
 
 ![](./2024-10-02_Potential-Risks-of-Multisig-in-Stablecoin-(Solana).jpg)
+
+
+
+
+
+
+
 
 
 
@@ -274,6 +341,7 @@
 - June 12th, 2024
 
 - [Image](./2024-06-12_TRTR_lure.jpg)
+
 ![](./2024-06-12_TRTR_lure.jpg)
 
 
@@ -284,23 +352,23 @@
 
 - [Image 01](./2024-03-25_TRTR_verity-job-scammer-01.png) -  [Image 02](./2024-03-25_TRTR_verity-job-scammer-02.png) -  [Image 03](./2024-03-25_TRTR_verity-job-scammer-03.png) -  [Image 04](./2024-03-25_TRTR_verity-job-scammer-04.png) -  [Image 05](./2024-03-25_TRTR_verity-job-scammer-05.png) -  [Image 06](./2024-03-25_TRTR_verity-job-scammer-06.png) -  [Image 07](./2024-03-25_TRTR_verity-job-scammer-07.png) -  [Image 08](./2024-03-25_TRTR_verity-job-scammer-08.png) -  [Image 09](./2024-03-25_TRTR_verity-job-scammer-09.png) -  [Image 10](./2024-03-25_TRTR_verity-job-scammer-10.png) -  [Image 11](./2024-03-25_TRTR_verity-job-scammer-11.png) -  [Image 12](./2024-03-25_TRTR_verity-job-scammer-12.png) -  [Image 13](./2024-03-25_TRTR_verity-job-scammer-13.png) -  [Image 14](./2024-03-25_TRTR_verity-job-scammer-14.png) -  [Image 15](./2024-03-25_TRTR_verity-job-scammer-15.png) -  [Image 16](./2024-03-25_TRTR_verity-job-scammer-16.png) -  [Image 17](./2024-03-25_TRTR_verity-job-scammer-17.png) -  [Image 18](./2024-03-25_TRTR_verity-job-scammer-18.png) -  [Image 19](./2024-03-25_TRTR_verity-job-scammer-19.png) -  [Image 20](./2024-03-25_TRTR_verity-job-scammer-20.png) -  [Image 21](./2024-03-25_TRTR_verity-job-scammer-21.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-01.png)
+![](./2024-03-25_TRTR_verity-job-scammer-1.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-02.png)
+![](./2024-03-25_TRTR_verity-job-scammer-2.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-03.png)
+![](./2024-03-25_TRTR_verity-job-scammer-3.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-04.png)
+![](./2024-03-25_TRTR_verity-job-scammer-4.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-05.png)
+![](./2024-03-25_TRTR_verity-job-scammer-5.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-06.png)
+![](./2024-03-25_TRTR_verity-job-scammer-6.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-07.png)
+![](./2024-03-25_TRTR_verity-job-scammer-7.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-08.png)
+![](./2024-03-25_TRTR_verity-job-scammer-8.png)
 
-![](./2024-03-25_TRTR_verity-job-scammer-09.png)
+![](./2024-03-25_TRTR_verity-job-scammer-9.png)
 
 ![](./2024-03-25_TRTR_verity-job-scammer-10.png)
 
@@ -375,6 +443,28 @@
 ![](./2024-10-06_CI_future-maker.jpg)
 
 
+
+## December 12th, 2024
+
+[Image 1](./2024-12-12_01_CI_Willo.png) - [Image 2](./2024-12-12_02_CI_Willo.png) - [Image 3](./2024-12-12_03_CI_Willo.png) - [Image 4](./2024-12-12_04_CI_Willo.png) - [Image 5](./2024-12-12_05_CI_Willo.png) - [Image 6](./2024-12-12_06_CI_Willo.png) - [Image 7](./2024-12-12_07_CI_Willo.png) - [Image 8](./2024-12-12_08_CI_Willo.png) - [Image 9](./2024-12-12_09_CI_Willo.png)
+
+![](./2024-12-12_01_CI_Willo.png)
+
+![](./2024-12-12_02_CI_Willo.png)
+
+![](./2024-12-12_03_CI_Willo.png)
+
+![](./2024-12-12_04_CI_Willo.png)
+
+![](./2024-12-12_05_CI_Willo.png)
+
+![](./2024-12-12_06_CI_Willo.png)
+
+![](./2024-12-12_07_CI_Willo.png)
+
+![](./2024-12-12_08_CI_Willo.png)
+
+![](./2024-12-12_09_CI_Willo.png)
 
 
 

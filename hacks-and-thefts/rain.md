@@ -4,6 +4,7 @@ Date:: April 29, 2024
 
 Amount Stolen: $14,800,000
 
+Tags:: 🔐 DangerousPassword
 
 ---
 
@@ -58,3 +59,16 @@ On August 9, 2024, 0x3751aA0D047173d6dAc0a6bA3363c53EC5097f99 depositted into To
 - 2x10 ETH
 - 6x1 ETH
 - Total: 726 ETH in 15 Deposits
+
+
+
+
+
+## IoCs
+
+
+- Asia/Yakutsk timezone
+
+- Mullvad VPN
+
+- ko language setting

@@ -33,16 +33,8 @@
 - This group has targeted financial institutions, cryptocurrency businesses and ATMs. It has also conducted significant cyber heists.
 - Revenue generation priority, like its overarching APT38 subunits, however on a much smaller financial scale.
 - 2023/2024 activity usually referred to as **SquidSquad** by on-chain folks
-- Today: VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript. Tornado Cash, eXch, Noones, Paxful, Instaswappers.
-- Before: Google Drive phishing, malicious PDFs, "Fast changes to stablecoin risk.pdf", `Password.txt.lnk`, Tornado Cash, Renbridge, Chipmixer, Noones, Paxful. Dust Collectors!
 - May include individuals or units previously tracked as APT38. Has minor overlaps with APT43 but operates distinctly
 - UNC1069 has targeted a variety of financial services firms and cryptocurrency exchanges, commonly employing spear-phishing techniques that result in LONEJOGGER (and other) malware infections
-- Past Attacks: A4 (Founder/CEO), I4 (Founder/CEO of DeFi Thing), C4 (defi media person), C7 (CEO of blockchain infra company), ALEX Labs, Samudai Founder, Maverick Founder, Fantom Foundation CEO, Coinshift C-Level, Steadefi, GERA Coin, deBridge (Attempt), Wonderhero, Arthur_0x, bZx, YFETH Admin Key, Metaplay / Polyplay, MNGR, Bondly Finance, Tower Capital, NAOs Finance, FinNexus Admin Key, 990.1 BTC, EasyFi Founder, Mudge / Etna / Mokens Deployer, Indodax ATO, Hugh Karp / Nexus Mutual, L2 Theft (crypto investor), LEAD Wallet Token, CoinMetro, Unibright, Tap Global, Coinberry, Fetch.ai
-- On-chain Laundry Observes: Express VPN, occasional leak Ryugyong-dong IPs
-- [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
-- [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
-- [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
-- [Dec 2023 | Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
 - [Nov 2023 | Sapphire Sleet, which overlaps with threat actors tracked by other researchers as BlueNoroff, CageyChameleon, and CryptoCore, is a nation-state sponsored threat actor based in North Korea and has targeted organizations in the cryptocurrency sector.](https://x.com/MsftSecIntel/status/1722316021841764414)
 - [Nov 2023 | jamf: BlueNoroff strikes again with new macOS malware](https://jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/)
 - [May 2023 | Attack Trends Related to DangerousPassword](https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html)
@@ -50,13 +42,65 @@
 - [Dec 2022 | BlueNoroff introduces new methods bypassing MoTW](https://securelist.com/bluenoroff-methods-bypass-motw/108383/)
 - [Jan 2022 | The BlueNoroff cryptocurrency hunt is still on](https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/)
 - [Jan 2022 | VBA Downloads, Bypassing MOTW, Bumblebee](https://proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world)
-- [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea](https://clearskysec.com/cryptocore-lazarus-attribution/)
 - [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea (PDF)](https://clearskysec.com/wp-content/uploads/2021/05/CryptoCore-Lazarus-Clearsky.pdf)
 - [Oct 2020 | Unveiling The Cryptomimic](https://vblocalhost.com/uploads/VB2020-Takai-etal.pdf)
 - [Jun 2020 | CryptoCore: A Threat Actor Targetting Crypto Exchanges](https://clearskysec.com/wp-content/uploads/2020/06/CryptoCore_Group.pdf)
 - [Jun 2019 | JPCert: VBScript, `Password.txt.lnk`](https://blogs.jpcert.or.jp/en/2019/07/spear-phishing-against-cryptocurrency-businesses.html)
 - [Jan 2018 | Proofpoint: Analyzing CHM Files, Malicious LNKs, VBScript Macros, Microsoft Office Docs, PowerShell implants, Gh0st RAT](https://proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug-180129.pdf)
 
+### 🔑 SquidSquad - Fake VC Shit
+- Today: VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript. Tornado Cash, eXch, Noones, Paxful, Instaswappers.
+- Before: Google Drive phishing, malicious PDFs, "Fast changes to stablecoin risk.pdf", `Password.txt.lnk`, Tornado Cash, Renbridge, Chipmixer, Noones, Paxful. Dust Collectors!
+- On-chain Laundry Observes: Express VPN, occasional leak Ryugyong-dong IPs
+- RustBucket, SwiftBucket, AppleScripts
+- Known Attacks 2023-2024:
+    - [Fantom Foundation](./hacks-and-thefts/fantom_foundation.md)
+    - [Maverick](./hacks-and-thefts/maverick.md)
+    - [Samudai](./hacks-and-thefts/samudai.md)
+    - [Degen Reborn](./hacks-and-thefts/degen_reborn.md)
+    - [ALEX Labs](./hacks-and-thefts/alex-labs.md)
+    - [Theft from Individual C7](./hacks-and-thefts/c7.md)
+    - [Theft from Individual C4](./hacks-and-thefts/c4.md)                                     
+    - [Theft from Individual I4](./hacks-and-thefts/i4.md)
+    - [Theft from Individual A4](./hacks-and-thefts/a4.md)
+    - [Fake Hack VC Thefts](./hacks-and-thefts/hack-vc.md)
+    - [TON Dude](./hacks-and-thefts/ton-dude.md)
+- Known Attacks 2020-2022
+    - Fetch.ai (Holder)
+    - Coinberry
+    - Tap Global
+    - CoinMetro
+    - L2 Theft
+    - Hugh Karp / Nexus Mutual
+    - EasyFi Founder
+    - FinNexus
+    - NAOs Finance
+    - Bondly Finance
+    - MNGR
+    - Metaplay / Polyplay
+    - YFETH Admin Key
+    - bZx
+    - Arthur_0x
+    - GERA Coin
+    - Darshan
+- [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
+- [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
+- [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
+- [Dec 2023 | Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
+
+
+### 🔐 DangerousPassword / Job Shit
+- Onchain laundry: Astrill, Mullvad. Tornado Cash to Wormhole or eXch. Gets lost in Tornado with all the other DPRK shit.
+- KANDYKORN, Python script, 
+- Known Attacks:
+    - Kronos - API keys compromised, Astrill+Mullvad, didnt look like DPRK
+    - Duelbits - Capital One Python Skills Test.
+    - Rain - Atrill+Mullvad w/ Yakutsk timezone. Didnt look like DPRK. Vultr C2. Sat in their VPN thing to get at Bitgo.
+    - Transak - Rookery Capital Python Skills Test
+    - M2 - same victim profile as Rain. Sat in their VPN thing to get at Fireblocks.
+- [Sept 2024 | Fake recruiter coding tests target devs with malicious Python packages](https://www.reversinglabs.com/blog/fake-recruiter-coding-tests-target-devs-with-malicious-python-packages)
+- [Sept 2024 | Is Rookery Capital a scam?](https://www.reddit.com/r/Scams/comments/1f30stp/is_rookery_capital_limited_a_scam/)
+- [Aug 2024 | VMConnect: Malicious PyPI packages imitate popular open source modules](https://www.reversinglabs.com/blog/vmconnect-malicious-pypi-packages-imitate-popular-open-source-modules)
 
 
 ## 👛 TraderTraitor / Jade Sleet

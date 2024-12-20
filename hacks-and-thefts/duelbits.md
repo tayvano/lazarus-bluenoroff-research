@@ -4,7 +4,7 @@ Amount Stolen:: $4,600,000
 
 Date:: February 13th, 2024
 
-Tags:: 🔑 👛
+Tags:: 🔐 Dangerous Password
 
 ---
 

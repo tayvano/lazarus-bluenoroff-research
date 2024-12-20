@@ -149,7 +149,6 @@ Add'l Signers:
 - 0xcd69d20b41fddbf1c37e51a590628367a742d50f From BSC, Oct 22
 
 
-
 ### Victim addresses (keys not compromised though)
 - 0x111CEEee040739fD91D29C34C33E6B3E112F2177 (Safe)
 - 0x20340c2a71055FD2887D9A71054100FF7F425BE5
@@ -158,13 +157,14 @@ Add'l Signers:
 
 
 ### Hyperliquid Depositors (Arbitrum)
-- 0x9e045ef8712607c1d8d04e2eaa9a2781149d5cf8 
-- 0x2de7f660ebb78252f7cc243bb2e35c558e43b58e
-- 0x7997e80f4bd9563d61ee4d06108f7d6ceb23ab21
-- 0x60aba279e49e5a05dc7e3c84f2204a6afb032119
-- 0x348fc4dfdcd3427d8a4b43ad965b4443d55cf955
-- 0x34aa91e574aa963675107011dcf0392c5521005a
-- 0x00E1559184Bf1da0256a495ae9BAec11BCA60eb7
+- 0x00E1559184Bf1da0256a495ae9BAec11BCA60eb7 $533,589 (still long)
+- 0x2de7f660ebb78252f7cc243bb2e35c558e43b58e  $13,525
+- 0x7997e80f4bd9563d61ee4d06108f7d6ceb23ab21 $141,752
+- 0x348fc4dfdcd3427d8a4b43ad965b4443d55cf955 $118,503
+- 0x34aa91e574aa963675107011dcf0392c5521005a  $10,192
+- 0x60aba279e49e5a05dc7e3c84f2204a6afb032119  $26,498
+- 0x9e045ef8712607c1d8d04e2eaa9a2781149d5cf8  $25,727
+**Total P&L:  $869,787**
 
 
 ## URLs
@@ -177,6 +177,7 @@ Add'l Signers:
 - https://twitter.com/danielvf/status/1847023591117795708
 - https://twitter.com/AnciliaInc/status/1846606649009885515
 - https://twitter.com/RDNTCapital/status/1846634050100039881
+- https://x.com/patrickwardle/status/1866586260049105409
 
 
 
