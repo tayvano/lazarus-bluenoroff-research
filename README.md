@@ -482,7 +482,10 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2023-11-20 | [FinCEN v Binance Consent Order](./pdfs/2023-11-20_FinCEN-Binance_Consent-Order.pdf) |
 | 2023-11-23 | [Kim Jong Un's New Maybach](./pdfs/2023-11-23_Kim-Jong-Un-New-Maybach.pdf) |
 | 2023-11-30 | [Recorded Future: Crypto Country](./pdfs/2023-11-30_Recorded-Future-Crypto-Country.pdf) |
-| 2024-05-16 | [US v DPRK IT Workers (Chapman et al)](./pdfs/2024-05-16_US-v-IT-Workers_cr-00220.pdf)
+| 2024-05-16 | [US v DPRK IT Workers (Chapman Laptop Farm)](./pdfs/2024-05-16_US-v-IT-Workers_cr-00220.pdf)
+| 2024-08-08 | [US v DPRK IT Workers (Nashville Laptop Farm)](./pdfs/2024-08-08_US-v-DPRK-IT-Laptop-Farm-Nashville.pdf)
+| 2024-10-04 | [US Forfeiture - Ronin Funds](./pdfs/2024-10-04_24-cv-02826_Ronin-Hack.pdf)
+| 2024-10-04 | [US Forfeiture - Derbit Funds](./pdfs/2024-10-04_24-cv-02828_Derbit-Hack.pdf)
 
 ### UN Security Council Reports
 

@@ -16,6 +16,9 @@ Tags:: 🎙️ Contagious Interview
 
 - `https://willointerview.com/invite/halliday`
 
+
+- 0xdb874f638bacc20cb2e00d2eeedff10eddc2fd1f - Victim 1
+- 5fYNK7XmGDVTTXajNVFdEYtyUgHwtA8aTqsNgxh3VNih - Victim 1
 - BCPKcYy6GQFVMLpdFq8iLwYjHE4GEXvwM1jCpUrg6mU4 - Theft from Victim 1, SOL
 - 0x66fe228806e3ce9fd06c8dbb9698014e8dc6ae56 - Theft from Victim 1, ETH BASE
 - 0x2ecf64c21bba725a0ea4389a5c63b203806c84f5 - Theft from Victim 1, BSC
@@ -35,7 +38,7 @@ Tags:: 🎙️ Contagious Interview
 - CFGUeyEFusERXKxNoXz3KhKku5tBKcBRSuGHQ7o8toG3 - Victim 2
 - Fu9YWHCTX5pw1furkAXoceGje7GbFiV5Cik8WmhbRX5N - Victim 2
 - ynpQ7Rwa4o6DifA699ojVmMKq5J3r642KwBqMUX2LZq - Victim 2
-- 7Mgi54ZagHM5oQY1ymJBMneHznsT3cy8PXJNNx7SwDe3 - Victim 2
+- 7Mgi54ZagHM5oQY1ymJBMneHznsT3cy8PXJNNx7SwDe3 - Theft from Victim 2
 - 0x03598ca1d28d6254aca2b734e5b8edac54bb5ac9 - Theft from Victim 2
 
 
@@ -45,6 +48,7 @@ Tags:: 🎙️ Contagious Interview
 - Linkedin / Kraken impersonation
 - 8s625QRcb8q349p1evDsyzYJ7Npwkh9KfHY1s3XSztVF - Theft from Victim 3
 - 0xbd848d23d3fce0acef833dfe43b6cb6e23d8f5c2 - Theft from Victim 3
+- 0x62264db0e2cccd5f6895d5af407f395ac9334530 - Theft from Victim 3
 
 
 ## Details - Near Miss
@@ -71,6 +75,27 @@ Tags:: 🎙️ Contagious Interview
 - https://x.com/criptolawyer/status/1866572688271036485/video/1
 
 
+
+## Details - Victims 5 + 6
+
+- 0xf8b838f83f355f940e2489bf1cebe366d40b8304 - Victim Dec 13
+- 0x688911c3d5c84cf9b9a13e8eb12682c059c462f7 - Victim Dec 18
+- 0x532bbd2ebf638fa90d9f58a9660502f493713cbf - Victim Nov 28
+- 0xb418b0687f89a44eb58ce40683fbde4d25f829de - Victim Dec 19 
+- 0xfd5021b332fdec8d3c7454e518fca81a3cf5d74d - Victim 5 Dec 19
+- 0x4838f0e6e93dfd14f8c25a49656457af208a225c - Victim 5 Dec 19
+- 0x2107b55fac26916f048f355b4f3d3746dc20fc0e - Victim 5 Dec 19
+- 0xb0270b52a656d59dc5633d849e8fbe9ed91f13f0 - Victim 6 Dec 11
+- 0x91fd3c7e11e7f53a3a556b702100b55970e55c3c - Victim 6 Dec 11
+- 0xced0009d09a0b94a8a0281fc69ea7b2381b644d6 - Victim 6 Dec 11
+- 0x8eb9c24e487aecbccb44518be091fc9361eb5061 - Victim 6 Dec 11
+- 0xf23da27550ca4dab19a2dcab1dba36d036d0c38e - Theft from Victim 5 + 6
+
+
+## Details - Jan 9 Theft
+
+- 0x22c979e7adb5be446100dcf4d36ccd2f301ad80b - Victim
+- 0x6adfed1472744c2ca01f571c3d7c7ebde66a6d9e - Theft
 
 
 ## Hunting

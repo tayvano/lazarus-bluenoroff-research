@@ -86,3 +86,17 @@ Whoever hacked Liquid seems to have had a thorough plan in place prior to acting
 - https://blog.liquid.com/warm-wallet-incident
 - https://coindesk.com/business/2022/03/29/ex-employee-claims-liquid-global-exchange-scapegoated-her-for-90m-hack/
 - attribution: https://go.chainalysis.com/rs/503-FAP-074/images/Crypto-Crime-Report-2022.pdf
+
+
+
+## October 2024 Forfeiture
+
+- August 2021 - $90m - COMPANY-1, a Japan-based virtual currency exchange. ([Liquid Global aka Quoine Pte Ltd](./hacks-and-thefts/liquid_global.md))
+
+- March 2022 - $615m - foreign-based COMPANY-2 ([Ronin Bridge](./hacks-and-thefts/ronin_bridge.md))
+
+- June 2022 - $105m - COMPANY-3, a U.S.-based company ([Harmony Bridge](./hacks-and-thefts/harmony_horizon_bridge.md))
+
+- September 4, 2023 - $41m from COMPANY-4 ([Stake](./hacks-and-thefts/stake.md))
+
+- [US Forfeiture - Oct 4 2024](../pdfs/2024-10-04_24-cv-02826_Ronin-Hack.pdf)

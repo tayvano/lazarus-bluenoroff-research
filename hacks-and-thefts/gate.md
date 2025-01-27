@@ -89,6 +89,8 @@ e.g. 3GHUDLzk1VjYAxZC5rV3T5aAgEWCA7QmF7
 
 - ETH 0xff8e0c9cf3d7c0239ab157ec2d56bc1cfcd80757
 
+- ETH 0xbee7853cb00b240929d75f923c7b8d62bb8d6673
+
 - LTC LdAdThWd1oEmRbDKBk1o7Ve7hxrLxUPfvo
 
 - zachxbt, Feb 2023: ["Dormant funds left over from the April 2018 Gate $230m hack by North Korea began to move after over 4.5 years. 0xff8E0c9Cf3d7C0239aB157eC2D56bC1cFcD80757"](https://twitter.com/zachxbt/status/1628481264909942785)

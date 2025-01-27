@@ -97,6 +97,20 @@ Validator Security Breach US Treasury Department has sanctioned the address that
 - https://theverge.com/2022/7/6/23196713/axie-infinity-ronin-blockchain-hack-phishing-linkedin-job-offer
 - https://web3rekt.com/hacksandscams/ronin-network-12
 
+
+## October 2024 Forfeiture
+
+- August 2021 - $90m - COMPANY-1, a Japan-based virtual currency exchange. ([Liquid Global aka Quoine Pte Ltd](./hacks-and-thefts/liquid_global.md))
+
+- March 2022 - $615m - foreign-based COMPANY-2 ([Ronin Bridge](./hacks-and-thefts/ronin_bridge.md))
+
+- June 2022 - $105m - COMPANY-3, a U.S.-based company ([Harmony Bridge](./hacks-and-thefts/harmony_horizon_bridge.md))
+
+- September 4, 2023 - $41m from COMPANY-4 ([Stake](./hacks-and-thefts/stake.md))
+
+- [US Forfeiture - Oct 4 2024](../pdfs/2024-10-04_24-cv-02826_Ronin-Hack.pdf)
+
+
 ## Commentary
 
 > "The Ronin bridge has been exploited for 173,600 Ethereum and 25.5M USDC. The Ronin bridge and Katana Dex have been halted." – @Ronin_Network

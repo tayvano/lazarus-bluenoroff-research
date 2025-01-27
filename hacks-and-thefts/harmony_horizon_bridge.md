@@ -128,6 +128,14 @@ The group added Railgun, a privacy system, to their arsenal to obfuscate stolen 
 - https://fbi.gov/news/press-releases/fbi-confirms-lazarus-group-cyber-actors-responsible-for-harmonys-horizon-bridge-currency-theft
 - https://coindesk.com/business/2023/01/23/harmony-hackers-cover-tracks-by-bridging-portion-of-100m-loot-to-avalanche-ethereum-and-tron/
 
+
+## October 2024 Forfeiture
+- August 2021 - $90m - COMPANY-1, a Japan-based virtual currency exchange. ([Liquid Global aka Quoine Pte Ltd](./hacks-and-thefts/liquid_global.md))
+- March 2022 - $615m - foreign-based COMPANY-2 ([Ronin Bridge](./hacks-and-thefts/ronin_bridge.md))
+- June 2022 - $105m - COMPANY-3, a U.S.-based company ([Harmony Bridge](./hacks-and-thefts/harmony_horizon_bridge.md))
+- September 4, 2023 - $41m from COMPANY-4 ([Stake](./hacks-and-thefts/stake.md))
+- [US Forfeiture - Oct 4 2024](../pdfs/2024-10-04_24-cv-02826_Ronin-Hack.pdf)
+
 ## On-Chain
 
 - 13bKZmMtLoCu3o1oUiGsqyCz3yWsbaDkp8 - Harmony Laundry 2 CEX Withdrawals

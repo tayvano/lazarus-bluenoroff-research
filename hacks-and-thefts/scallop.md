@@ -4,6 +4,8 @@ Date:: October 31, 2024
 
 Tags:: 🎙️ Contagious Interview
 
+Amount Stolen:: $165,000
+
 
 ---
 
@@ -20,7 +22,9 @@ Tags:: 🎙️ Contagious Interview
 
 - 0xb787a7bce056c65690fcc4682ba276bbbb323241 - Theft
 
+- 0x9ace57f5032ae4b99cdf4c7ba46c29b3ab2fa495 - Dust
 
+- 0x41310947b49423fbd6f749fc321557908a69e05c - Dust
 
 TransferOwnership
 
