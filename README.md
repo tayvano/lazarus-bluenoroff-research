@@ -272,8 +272,8 @@
 | 👛  | 2024-Nov-28 | [XT](./hacks-and-thefts/xt.md)                                                            | $1,700,000       |
 | 🔑  | 2024-Nov-25 | [TON Dude](./hacks-and-thefts/ton-dude.md)                                                | $14,000,000      |
 | 🎙️ | 2024-Dec-12 | [Willo Campaign](./hacks-and-thefts/willo.md)                                             | $64,020          |
-| 🔑  | 2024-Dec-18 | [Fake Foresight](./hacks-and-thefts/fake-foresight.md)                                    | $1,600,000       |
-|     | **2024**    | **TOTAL**                                                                                 | **$904,770,112** |
+| 🔑  | 2024-Dec-18 | [Fake Foresight](./hacks-and-thefts/fake_foresight.md)                                    | $2,490,000       |
+|     | **2024**    | **TOTAL**                                                                                 | **$919,435,112** |
 
 
 
@@ -486,6 +486,11 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2024-08-08 | [US v DPRK IT Workers (Nashville Laptop Farm)](./pdfs/2024-08-08_US-v-DPRK-IT-Laptop-Farm-Nashville.pdf)
 | 2024-10-04 | [US Forfeiture - Ronin Funds](./pdfs/2024-10-04_24-cv-02826_Ronin-Hack.pdf)
 | 2024-10-04 | [US Forfeiture - Derbit Funds](./pdfs/2024-10-04_24-cv-02828_Derbit-Hack.pdf)
+| 2025-01-01 | [Joint Statement on Cryptocurrency Thefts by the Democratic People’s Republic of Korea and
+Public-Private Collaboration](./pdfs/2025-01-01_Joint-Statement-on-Cryptocurrency-Theft-by-DPRK.pdf)
+| 2025-01-25 | [US Forfeiture - Solareum - US v 942,462.845 USDT](./pdfs/2025-01-25_cv-00173_US-v-942462-USDT.pdf)
+
+
 
 ### UN Security Council Reports
 

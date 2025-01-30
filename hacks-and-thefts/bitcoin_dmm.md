@@ -10,6 +10,21 @@ Tags:: 👛 Trader Traitor
 
 ## Details
 
+### FBI, DC3, and NPA Identification of North Korean Cyber Actors, Tracked as TraderTraitor, Responsible for Theft of $308 Million USD from Bitcoin.DMM.com
+
+https://www.fbi.gov/news/press-releases/fbi-dc3-and-npa-identification-of-north-korean-cyber-actors-tracked-as-tradertraitor-responsible-for-theft-of-308-million-from-bitcoindmmcom
+
+> The Federal Bureau of Investigation, Department of Defense Cyber Crime Center, and National Police Agency of Japan are alerting the public to the theft of cryptocurrency worth $308 million U.S. dollars from the Japan-based cryptocurrency company DMM by North Korean cyber actors in May 2024. The theft is affiliated with TraderTraitor threat activity, which is also tracked as Jade Sleet, UNC4899, and Slow Pisces. TraderTraitor activity is often characterized by targeted social engineering directed at multiple employees of the same company simultaneously.
+
+> In late March 2024, a North Korean cyber actor, masquerading as a recruiter on LinkedIn, contacted an employee at Ginco, a Japan-based enterprise cryptocurrency wallet software company. The threat actor sent the target, who maintained access to Ginco’s wallet management system, a URL linked to a malicious Python script under the guise of a pre-employment test located on a GitHub page. The victim copied the Python code to their personal GitHub page and was subsequently compromised. 
+
+> After mid-May 2024, TraderTraitor actors exploited session cookie information to impersonate the compromised employee and successfully gained access to Ginco’s unencrypted communications system. In late-May 2024, the actors likely used this access to manipulate a legitimate transaction request by a DMM employee, resulting in the loss of 4,502.9 BTC, worth $308 million at the time of the attack. The stolen funds ultimately moved to TraderTraitor-controlled wallets.  
+
+> The FBI, National Police Agency of Japan, and other U.S. government and international partners will continue to expose and combat North Korea’s use of illicit activities—including cybercrime and cryptocurrency theft—to generate revenue for the regime. 
+
+
+
+### Theories:
 
 LOL no DMM wasn't address poisoning.
 
@@ -39,9 +54,6 @@ The weirdest thing that points to maybe not your classic key / system compromise
 
 - Further, the 343 BTC transfer to salvage the remaining funds was co-spent with an internal change address that was also on the multisig key. But the theft transaction did not require co-spending from that change address.
 
-
-### Theories:
-
 - It’s possible they got the raw keys and figured they had one shot to shoot and so they constructed the transaction in that way, I guess?
 
 - It’s also possible, I guess, that they didn't have 2/3 correct signatures for that exact 343 portion of the balance in that wallet. Like if there were two 2/3 multisig configs??
@@ -63,6 +75,8 @@ They had to pre-construct the txn for whatever reason. They didn’t just have f
 The attacker had those two required signatures for a short window of time—they probably expected it would be detected immediately for whatever reason.
 
 So they construct the largest, lowest-risk txn they could figure, crank the fee to 0.1 BTC to expedite confirmations and….rip.
+
+
 
 
 ## URLs
