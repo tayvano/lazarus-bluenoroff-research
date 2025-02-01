@@ -1,4 +1,4 @@
-# mgnr
+# MGNR
 
 Date:: October 8th, 2021
 
@@ -32,19 +32,12 @@ Amount Stolen:: $24,100,000
 ## On-Chain
 
 - 0x57737d6f8ea0099c30c96754a436e46d4dd3fa80 - Primary Attacker
-
 - 0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc
-
 - 0x1398db28ca00d9f943355d6b57ab28a61110bfef
-
 - 0xefdd66340b2988bc8c90147318066e9816e9ab86
-
 - 0xf49193605dcbccc6b8c2ea4b22795ec1ef090ee0
-
 - 0x246569f8b420c8d850c475c53d0d59973b3f08fc - Paxful Deposit
-
 - 0x593dc5e1ad81667bbfc90739dd2c09c926920e3b - Paxful Deposit
-
 - 0x2e1155cf5374cba058a04fd03ebd0ba19afe580d - Noones Deposit
 
 
@@ -65,11 +58,9 @@ Amount Stolen:: $24,100,000
 ## URLs
 
 - https://twitter.com/0xwordcel/status/1448497088627503108
-
 - https://twitter.com/mgnr_io/status/1448489258029703168/
-
 - https://twitter.com/mgnr_io/status/1448489258029703168/photo/1
-
 - https://web.archive.org/web/20211014032211/https://twitter.com/mgnr_io/status/1448489258029703168/
-
 - Some of mgnr's addresses are ID'd [here](https://cryptocatvc.medium.com/mgnr-io-maple-finance-7e70241e5f4), however the author makes the fatal mistake of attributing large sweeps / dumps / closing of positions to malicious activity on mgnr's part, not the hackers. rip mgnr. (and shity sleuths.)
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)
+

@@ -4,20 +4,15 @@ Date:: April 21, 2018
 
 Amount Stolen:: $234,000,000
 
-BTC 10,777 
+- BTC 10,777 
+- ETH 218,790 
+- Zcash 3,783 
+- Dogecoin 99,999,000 
+- Ripple 3,043,268 
+- LTC 11,000 
+- ETC 175,866
 
-ETH 218,790 
-
-Zcash 3,783 
-
-Dogecoin 99,999,000 
-
-Ripple 3,043,268 
-
-LTC 11,000 
-
-ETC 175,866
-
+Tags:: 🍎
 
 ---
 
@@ -106,3 +101,7 @@ e.g. 3GHUDLzk1VjYAxZC5rV3T5aAgEWCA7QmF7
 - https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/BlockchainAnalysisEES.pdf?mtime=20220216090240&focal=none
 
 - https://twitter.com/zachxbt/status/1628481264909942785
+
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)
+
+

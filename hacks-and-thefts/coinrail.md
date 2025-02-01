@@ -35,3 +35,4 @@ Despite the fact that Coinrail was a relatively small cryptocurrency exchange, i
 - https://bleepingcomputer.com/news/security/south-korean-cryptocurrency-exchange-coinrail-gets-hacked/
 - https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/pdfs/2020-03-02_USA-v-113_yinyin_complaint-cv-606.pdf
 - https://oxtresearch.com/the-north-korean-connection/
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)

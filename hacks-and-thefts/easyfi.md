@@ -100,3 +100,4 @@ The token was upgraded to ‘EZ 2.0’ four days later, making the hacker’s ex
 - https://businessinsider.in/investment/news/biggest-crypto-hacks-of-2021-over-4-billion-stolen/slidelist/88560280.cms#slideid=88560401
 - https://coindesk.com/defi-protocol-easyfi-reports-hack
 - https://web3rekt.com/hacksandscams/easyfi-367
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)

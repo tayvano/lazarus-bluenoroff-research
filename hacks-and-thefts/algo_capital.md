@@ -99,7 +99,7 @@ IP addresses logging into this Domain Registrar 1 account resolve to a VPN servi
 - https://crowdfundinsider.com/2019/10/152492-algorands-venture-arm-algo-capital-loses-millions-in-crypto-wallet-security-breach/
 - https://eng.ambcrypto.com/algo-capitals-managing-partner-speaks-out-after-2-million-usdt-hack-hits-firm/
 - https://web.archive.org/web/20191225213958/https://medium.com/@pipaman/algo-capital-security-breach-aedccf9e33c2
-
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)
 
 
 

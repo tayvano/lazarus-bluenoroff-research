@@ -62,3 +62,9 @@ Most losses were on Polygon and Binance Smart Chain (BSC)
 - https://bzx.network/blog/bzx-community-update
 - https://bzx.network/blog/bzx-compensation-plan
 - https://web.archive.org/web/20211105125919/https://twitter.com/bZxHQ/status/1456603269355094021
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)
+
+
+
+
+

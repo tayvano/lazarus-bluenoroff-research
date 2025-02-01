@@ -51,3 +51,4 @@ According to community feedback and data on the chain, the token FNX of the on-c
 - https://twitter.com/fin_nexus/status/1394319411947864069
 - https://twitter.com/fin_nexus/status/1396429323091865603
 - https://twitter.com/fin_nexus/status/1394389850447482880
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)

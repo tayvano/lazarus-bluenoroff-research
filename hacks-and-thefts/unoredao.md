@@ -196,3 +196,6 @@ November 15, 2023:
 - https://justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation
 - https://zetter-zeroday.com/p/how-north-korean-workers-tricked
 - https://ic3.gov/Media/Y2023/PSA231018
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)
+
+

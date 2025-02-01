@@ -82,6 +82,6 @@ The amount of damages is relatively small for Binance, which is reported to have
 - https://coindesk.com/crypto-exchange-zaif-hacked-in-60-million-6000-bitcoin-theft
 - https://zaif.jp/
 - https://cryptoxdirectory.com/zaif
-
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)
 
 

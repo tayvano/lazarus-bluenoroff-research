@@ -41,6 +41,8 @@ Min contribution was 20th hence why lots of ~20ETH TX to this.
 
 ## URLs
 
-https://web.archive.org/web/20180318135412/https://twitter.com/city19akro/status/975342278146428928
+- https://web.archive.org/web/20180318135412/https://twitter.com/city19akro/status/975342278146428928
 
-https://bitcointalk.org/index.php?topic=3038295.0;prev_next=prev
+- https://bitcointalk.org/index.php?topic=3038295.0;prev_next=prev
+
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)

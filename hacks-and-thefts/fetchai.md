@@ -1,8 +1,12 @@
 # Fetch.ai Theft
 
-Date:: August 21, 2020
+Date:: June 7th, 2021
 
 Amount Stolen:: $2,600,000
+
+Tags:: 🔑
+
+---
 
 
 ## On-Chain
@@ -33,5 +37,4 @@ Source: https://chainabuse.com/report/0494e103-1a74-4dd9-aa5b-a2354c33c100
 - https://web3rekt.com/hacksandscams/fetch-ai-268
 - https://cointelegraph.com/news/london-court-orders-binance-to-trace-hackers-behind-2-6m-fetch-ai-attack
 - https://bailii.org/ew/cases/EWHC/Comm/2021/2254.html
-
-
+- [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)
