@@ -5,13 +5,46 @@ Amount Stolen:: $2,000,000
 Date: August-September 2021
 
 
-## Some of the thefts
 
-- 2021-Aug-06 LINA holder - $750,000
+## SpookySwap LP
 
-- 2021-Sep-02 TECH holder - $145,000
+Date:: September 25th, 2021
 
-- 2021-Sep-25 SpookySwap LP - $Unknown (Links into Finnexus, et al.)
+Links into Finnexus, et al.
+
+
+
+## TECH Holder
+Date:: September 2nd, 2021
+Amount Stolen:: $146,000
+
+- 0xc35a06d02471acc48e552e99d8b860bac73cbe9d
+
+- 0x5271b379f3e1954e20791142d734596a3de28efd
+
+
+
+
+## LINA Hack
+Date:: August 6th, 2021
+Amount Stolen:: $935,000
+
+- 0x1c29d38f6669acf0ba49c837e3188f9ab2a0f374 - Victim
+
+- 0x5271b379f3e1954e20791142d734596a3de28efd - Direct Theft
+
+- 0x40d7b7a55dd51ee94a9a4788311e39cb362fe1ea
+
+
+
+## Adjancent Dust
+
+- 0x190b71ecffeb8bcde68be86bc959e06baddaea6a - BSC
+
+- 0x190b71ecffeb8bcde68be86bc959e06baddaea6a - ETH
+- 0xb1ce2ec002801ec2d8d16c261eef4332c5bb45ee - ETH
+- 0xaa87866248dda3f73076b26334a18b253c2f8195 - ETH
+- 0x190b71ecffeb8bcde68be86bc959e06baddaea6a - BASE December 2024
 
 
 
@@ -29,15 +62,10 @@ Date: August-September 2021
 
 
 ## Onchain
-
 - 0x5271b379f3e1954e20791142d734596a3de28efd - Theft
-
 - 0xc35a06d02471acc48e552e99d8b860bac73cbe9d - Theft
-
 - 0x40d7b7A55dd51ee94A9a4788311e39CB362Fe1Ea - Theft
-
 - 0x5b24da735fd5835ec5afb5abf9f3e89270e609c8 - TC Output
-
 - 0x246569f8b420c8d850c475c53d0d59973b3f08fc - Paxful Deposit
 
 

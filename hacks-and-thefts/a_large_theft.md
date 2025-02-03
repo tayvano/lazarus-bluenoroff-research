@@ -1,8 +1,12 @@
 # A Large Theft / Investment Platform
 
-Date:: June 11, 2023
+Date:: June 11th, 2023
 
 Amount Stolen:: $17,600,000
+
+Laundered Via:: Tornado Cash
+
+---
 
 
 ### Onchain

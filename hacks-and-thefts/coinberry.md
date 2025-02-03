@@ -55,6 +55,8 @@ Tags:: 🔑
 - 0xe1c also sends to September 2023 Dust Collector 0x99739fa525c0a98384430235d278fd08938997f9
 - 0xe1c also sends $5.8m to 0x7026b25422821473f7856ec03b0a3d58fee10100 which sends to 0x31499e03303dd75851a1738e88972cd998337403 (direct and via a back-and-forth Ren Bridge) which interacts with EasyFi exploiter 0x83a2eb63b6cc296529468afa85dbde4a469d8b37
 
+
+
 ### Laundry
 
 Funds from thefts such as CoinMetro, CoinBerry, Unibright, and individuals were transferred through intermediary wallets before consolidating in `0x0864b5ef4d8086cd0062306f39adea5da5bd2603` in early January 2021.

@@ -4,6 +4,10 @@ Date:: April 7, 2022
 
 Amount Stolen:: $1,025,000
 
+Laundered Via:: Tornado Cash
+
+Tags:: 🔑 SquidSquad, Infinite Mint, Dust Collectors
+
 
 ---
 
@@ -17,11 +21,24 @@ Amount Stolen:: $1,025,000
 > A thorough investigation will be done and details will be updated.
 
 
+> On-chain the incident is also connected to other hacks such as mgnr.io, Polyplay, Wonderhero and ANKR founder as dust leftover in theft addresses was swept to a single address in February 2022.
+
+- https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE
+
+
 ## On-chain
 
 - https://bscscan.com/tx/0x20dabda59dd46d45a7b6b5b324830159fb108cd2119232d7f0056d8085de17e1
 - https://bscscan.com/tx/0x776fd6f2b265be782c862d05ecf225ace6fa2268b9028ca3df3c65aeed2677a1
-- 0x67dbb7020af3ae92a6d0e136e4e693a35bbb0db2
+- 0x67dbb7020af3ae92a6d0e136e4e693a35bbb0db2 - Direct Theft -> Tornado Cash on BSC
+- 0x613ded514d4df7fedaf345537c1503981682223f - ETH, BASE Dec 2024
+- 0x01b9ccca267496b073428a5c84a15d391db5d94e
+- 0x2d7554062664050294640891a122019a68ac5a2b Dust
+
+### 2024
+
+- 0x613ded514d4df7fedaf345537c1503981682223f - on BASE
+- 0xABf21fAb0811FB8A5A1F3421e33FAbc49FD82e25 - Gnosis Safe
 
 
 ## URLs

@@ -111,3 +111,12 @@ Telegram, Twitter, Facebook were taken over by the threat actors at the time of 
 - bc1qsfvfk7fumhy76pmmdkjt85e3t5pqmphvml450t eXch Oct 31
 - bc1q62nkmedywrfma6d9zxn0v3ck038s5afqfem90c eXch Oct 31
 - bc1q94sw4tlgxheux7uycvxw8u9h9c9gt00p8rvvnu eXch Oct 31
+
+
+### URLs
+
+- https://t.me/investigations/159
+
+- https://x.com/truflation/status/1839043719124889963
+
+- https://x.com/truflation/status/1839071754196759002
