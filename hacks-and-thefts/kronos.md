@@ -4,7 +4,7 @@ Date:: November 19th, 2023
 
 Amount Stolen:: $26,000,000 (13,007 ETH)
 
-Tags:: 🔐 DangerousPassword
+Tags:: 🔐
 
 ---
 

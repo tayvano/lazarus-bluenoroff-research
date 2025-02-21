@@ -4,7 +4,7 @@ Date:: April 29, 2024
 
 Amount Stolen: $16,130,000
 
-Tags:: 🔐 DangerousPassword / TraderTraitor
+Tags:: 🔐
 
 ---
 
