@@ -148,7 +148,7 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 
 ### Railgun June 30-July 1
 - 0xe381680d05057e20ac54978ddb3a345acc7bb42a - To Railgun June 30-July 1 - $1.55m
-- 0xa20d83d25bcaacd5f8174b54367b9958ac02ee44 - Fro RG
+- 0xa20d83d25bcaacd5f8174b54367b9958ac02ee44 - From RG
 
 ### Personal/Test Wallets
 
