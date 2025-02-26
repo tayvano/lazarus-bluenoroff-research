@@ -1,0 +1,122 @@
+{
+  "count": 2,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "safe": "0x1Db92e2EeBC8E0c075a02BeA49a2935BcD2dFCF4",
+      "to": "0x96221423681A6d52E184D440a8eFCEbB105C7242",
+      "value": "0",
+      "data": "0xa9059cbb000000000000000000000000bdd077f651ebe7f7b3ce16fe5f2b025be29695160000000000000000000000000000000000000000000000000000000000000000",
+      "operation": 1,
+      "gasToken": "0x0000000000000000000000000000000000000000",
+      "safeTxGas": 45746,
+      "baseGas": 0,
+      "gasPrice": "0",
+      "refundReceiver": "0x0000000000000000000000000000000000000000",
+      "nonce": 71,
+      "executionDate": "2025-02-21T14:13:35Z",
+      "submissionDate": "2025-02-21T14:13:35Z",
+      "modified": "2025-02-21T14:13:35Z",
+      "blockNumber": 21895238,
+      "transactionHash": "0x46deef0f52e3a983b67abf4714448a41dd7ffd6d32d32da69d62081c68ad7882",
+      "safeTxHash": "0xb3476d061aeb8fc1d605a873c483a2402d88a68a9cdd1a8b47655dd55ba004f8",
+      "proposer": null,
+      "proposedByDelegate": null,
+      "executor": "0x0fa09C3A328792253f8dee7116848723b72a6d2e",
+      "isExecuted": true,
+      "isSuccessful": true,
+      "ethGasPrice": "10000000000",
+      "maxFeePerGas": null,
+      "maxPriorityFeePerGas": null,
+      "gasUsed": 70224,
+      "fee": "702240000000000",
+      "origin": "{}",
+      "dataDecoded": null,
+      "confirmationsRequired": 3,
+      "confirmations": [
+        {
+          "owner": "0x1F4EB0a903619ac168b19A82F1a6e2e426522211",
+          "submissionDate": "2025-02-21T14:13:35Z",
+          "transactionHash": null,
+          "signature": "0xd0afef78a52fd504479dc2af3dc401334762cbd05609c7ac18db9ec5abf4a07a5cc09fc86efd3489707b89b0c729faed616459189cb50084f208d03b201b001f1f",
+          "signatureType": "ETH_SIGN"
+        },
+        {
+          "owner": "0x3Cc3A225769900e003E264dd4CB43E90896BC21A",
+          "submissionDate": "2025-02-21T14:13:35Z",
+          "transactionHash": null,
+          "signature": "0x0f62ad358d6b319d3c1221d44456080068fe02ae5b1a39b4afb1e6721ca7f9903ac523a801533f265231cd35fc2dfddc3bd9a9563b51315cf9d5ff23dc6d2c221f",
+          "signatureType": "ETH_SIGN"
+        },
+        {
+          "owner": "0xe3dF2cCEAc61B1aFA311372ecC5B40A3A6585a9E",
+          "submissionDate": "2025-02-21T14:13:35Z",
+          "transactionHash": null,
+          "signature": "0xdf9e4b878877a8dbeee951a4a31ddbf1d3b71e127d5eda44b4730030114baba52e06dd23da37cd2a07a6e84f9950db867374a0f77558f42adf4409bfd569673c1f",
+          "signatureType": "ETH_SIGN"
+        }
+      ],
+      "trusted": true,
+      "signatures": "0xd0afef78a52fd504479dc2af3dc401334762cbd05609c7ac18db9ec5abf4a07a5cc09fc86efd3489707b89b0c729faed616459189cb50084f208d03b201b001f1f0f62ad358d6b319d3c1221d44456080068fe02ae5b1a39b4afb1e6721ca7f9903ac523a801533f265231cd35fc2dfddc3bd9a9563b51315cf9d5ff23dc6d2c221fdf9e4b878877a8dbeee951a4a31ddbf1d3b71e127d5eda44b4730030114baba52e06dd23da37cd2a07a6e84f9950db867374a0f77558f42adf4409bfd569673c1f"
+    },
+    {
+      "safe": "0x1Db92e2EeBC8E0c075a02BeA49a2935BcD2dFCF4",
+      "to": "0x88a1493366D48225fc3cEFbdae9eBb23E323Ade3",
+      "value": "30000000000000000000000",
+      "data": null,
+      "operation": 0,
+      "gasToken": "0x0000000000000000000000000000000000000000",
+      "safeTxGas": 45745,
+      "baseGas": 0,
+      "gasPrice": "0",
+      "refundReceiver": "0x0000000000000000000000000000000000000000",
+      "nonce": 71,
+      "executionDate": null,
+      "submissionDate": "2025-02-21T05:42:39Z",
+      "modified": "2025-02-21T14:11:39.370597Z",
+      "blockNumber": null,
+      "transactionHash": null,
+      "safeTxHash": "0x9d89e67333f99c136537be74029c44592985a4855172f4c2d0d942029868f98e",
+      "proposer": "0x1F4EB0a903619ac168b19A82F1a6e2e426522211",
+      "proposedByDelegate": null,
+      "executor": null,
+      "isExecuted": false,
+      "isSuccessful": true,
+      "ethGasPrice": null,
+      "maxFeePerGas": null,
+      "maxPriorityFeePerGas": null,
+      "gasUsed": null,
+      "fee": null,
+      "origin": "{}",
+      "dataDecoded": null,
+      "confirmationsRequired": 3,
+      "confirmations": [
+        {
+          "owner": "0x1F4EB0a903619ac168b19A82F1a6e2e426522211",
+          "submissionDate": "2025-02-21T05:42:40.788469Z",
+          "transactionHash": null,
+          "signature": "0xd0afef78a52fd504479dc2af3dc401334762cbd05609c7ac18db9ec5abf4a07a5cc09fc86efd3489707b89b0c729faed616459189cb50084f208d03b201b001f1f",
+          "signatureType": "ETH_SIGN"
+        },
+        {
+          "owner": "0xe3dF2cCEAc61B1aFA311372ecC5B40A3A6585a9E",
+          "submissionDate": "2025-02-21T13:44:22.889083Z",
+          "transactionHash": null,
+          "signature": "0xdf9e4b878877a8dbeee951a4a31ddbf1d3b71e127d5eda44b4730030114baba52e06dd23da37cd2a07a6e84f9950db867374a0f77558f42adf4409bfd569673c1f",
+          "signatureType": "ETH_SIGN"
+        },
+        {
+          "owner": "0x3Cc3A225769900e003E264dd4CB43E90896BC21A",
+          "submissionDate": "2025-02-21T14:11:40.728213Z",
+          "transactionHash": null,
+          "signature": "0x0f62ad358d6b319d3c1221d44456080068fe02ae5b1a39b4afb1e6721ca7f9903ac523a801533f265231cd35fc2dfddc3bd9a9563b51315cf9d5ff23dc6d2c221f",
+          "signatureType": "ETH_SIGN"
+        }
+      ],
+      "trusted": true,
+      "signatures": "0xd0afef78a52fd504479dc2af3dc401334762cbd05609c7ac18db9ec5abf4a07a5cc09fc86efd3489707b89b0c729faed616459189cb50084f208d03b201b001f1f0f62ad358d6b319d3c1221d44456080068fe02ae5b1a39b4afb1e6721ca7f9903ac523a801533f265231cd35fc2dfddc3bd9a9563b51315cf9d5ff23dc6d2c221fdf9e4b878877a8dbeee951a4a31ddbf1d3b71e127d5eda44b4730030114baba52e06dd23da37cd2a07a6e84f9950db867374a0f77558f42adf4409bfd569673c1f"
+    }
+  ],
+  "countUniqueNonce": 72
+}
