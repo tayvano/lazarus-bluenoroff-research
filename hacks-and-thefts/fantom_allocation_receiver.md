@@ -5,6 +5,8 @@ Date:: January 27, 2022 (or Jan 17???)
 Amount Stolen:: $1,247,228 (599,385 FTM)
 
 
+---
+
 ## On-Chain
 
 - Victim: 0x9c1b3c73f0113ebffeb3c7f18429bee66232a059
@@ -19,35 +21,40 @@ Amount Stolen:: $1,247,228 (599,385 FTM)
 
 - Dust on Fantom to: 0x0b43e585894afdd781eb7216fea510c2f9a096ea
 
-
 - Theft? 0x20cd6d3d0b588740380e37ecf065d3c278f26534
 
 
+---
+
+
+- 2022-01-17 18:02:55
+- Claim Vested Token
+- 336,222 Prosper (PROS) 
+- ->
+- Transfer OUT to 0x20cd6d3D0b588740380e37EcF065d3c278f26534
 
 
 
-2022-01-17 18:02:55
-Claim Vested Token
-336,222 Prosper (PROS) 
-->
-Transfer OUT to 0x20cd6d3D0b588740380e37EcF065d3c278f26534
+- 2022-01-17 18:54:37
+- 599,400 FTM
+- IN from Multichain
+- ->
+- 599,400 FTM
+- OUT to FTM Token Contract
 
-2022-01-17 18:54:37
-599,400 FTM
-IN from Multichain
-->
-599,400 FTM
-OUT to FTM Token Contract
 
-2022-01-17 19:05:24
-230,849.919 USDC
-IN from Multichain: Fantom Bridge
-->
-OUT to 0x20cd6d3D0b588740380e37EcF065d3c278f26534
 
-2022-01-27 4:54:16
-599,385 FTM
-IN from Fantom: Foundation Wallet 15
-->
-599,385 FTM 
-OUT to 0x95A94af4418a23B06f029AF55E7C2fb06B9a2AD7
+- 2022-01-17 19:05:24
+- 230,849.919 USDC
+- IN from Multichain: Fantom Bridge
+- ->
+- OUT to 0x20cd6d3D0b588740380e37EcF065d3c278f26534
+
+
+
+- 2022-01-27 4:54:16
+- 599,385 FTM
+- IN from Fantom: Foundation Wallet 15
+- ->
+- 599,385 FTM 
+- OUT to 0x95A94af4418a23B06f029AF55E7C2fb06B9a2AD7

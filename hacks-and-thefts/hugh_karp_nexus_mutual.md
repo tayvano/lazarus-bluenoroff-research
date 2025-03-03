@@ -92,3 +92,7 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 - https://breadcrumbs.app/reports/0x09923e35f19687a524bbca7d42b92b6748534f25/1/10/10
 - https://quadrigainitiative.com/casestudy/nexusmutualfounderhacked.php
 - https://web3rekt.com/hacksandscams/nexus-mutual-425
+
+## Malicious MetaMask
+
+- payload diff https://gist.github.com/banteg/53a62b1f5eab56c8d4841786fc94d3ca
