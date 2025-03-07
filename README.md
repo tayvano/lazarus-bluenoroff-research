@@ -420,14 +420,15 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔑 | 2025-Nov-29 | [MAK / Metacene](./hacks-and-thefts/metacene.md)                                                 | $2,056,995         |
 | 🎙️ | 2024-Dec-05 | [Fake UltraX Dex Job Scam](./hacks-and-thefts/ultrax-dex.md)                                     | $110,000           |
 | 🎙️ | 2024-Dec-12 | [Willo Campaign](./hacks-and-thefts/willo.md)                                                    | $64,020            |
-| 🔑 | 2024-Dec-18 | [Fake Foresight](./hacks-and-thefts/fake-foresight.md)                                           | $2,490,000         |
+| 🔑 | 2024-Dec-16 | [SyFu](./hacks-and-thefts/syfu.md)                                                               | $890,000           |
+| 🔑 | 2024-Dec-18 | [R3](./hacks-and-thefts/r3.md)                                                                   | $1,600,000         |
 |    | **2024**    | **TOTAL**                                                                                        | **$931,592,107**   |
 |    |             |                                                                                                  |                    |
 | 🔑 | 2025-Jan-20 | [Unknown - Jan 20 2025](./hacks-and-thefts/jan2025.md)                                           | $1,700,000         |
 | 👛 | 2025-Jan-23 | [Phemex](./hacks-and-thefts/phemex.md)                                                           | $85,085,704        |
 | 🔐 | 2025-Feb-17 | [Ripio](./hacks-and-thefts/ripio.md)                                                             | $7,800,000         |
 | 👛 | 2025-Feb-21 | [Bybit](./hacks-and-thefts/bybit.md)                                                             | $1,500,000,000     |
-| 🔑 | 2025-Feb-28 | [Fake Mythical Games](./hacks-and-thefts/fake-mythical-games.md)                                 | $410,000           |
+| 🔑 | 2025-Feb-28 | [A6](./hacks-and-thefts/a6.md)                                                                   | $410,000           |
 | 🔑 | 2025-Mar-01 | [Unknown - March 1 2025](./hacks-and-thefts/march2025.md)                                        | $3,200,000         |
 |    | **2024**    | **TOTAL**                                                                                        | **$1,598,195,704** |
 

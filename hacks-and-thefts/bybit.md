@@ -33,9 +33,9 @@ Tags:: 👛 TraderTraitor
 
 ## Reports 
 
-- [Bybit Incident Investigation Preliminary Report - Verichains](./pdfs/2025-02-24_Bybit-Incident-Investigation_Preliminary-Report_Verichains.pdf)
+- [Bybit Incident Investigation Preliminary Report - Verichains](../pdfs/2025-02-24_Bybit-Incident-Investigation_Preliminary-Report_Verichains.pdf)
 
-- [Bybit Interim Investigation Report - Sygnia](./pdfs/2025-02-24_Bybit-Interim-Investigation-Report_Sygnia.pdf)
+- [Bybit Interim Investigation Report - Sygnia](../pdfs/2025-02-24_Bybit-Interim-Investigation-Report_Sygnia.pdf)
 
 
 

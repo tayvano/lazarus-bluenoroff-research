@@ -34,7 +34,7 @@ Collectively, they identified addresses received an estimated 4,927.34 SOL (~$92
 
 ### Forfeiture Order
 
-[US Forfeiture - Solareum - US v 942,462.845 USDT](./pdfs/2025-01-25_cv-00173_US-v-942462-USDT.pdf)
+[US Forfeiture - Solareum - US v 942,462.845 USDT](../pdfs/2025-01-25_cv-00173_US-v-942462-USDT.pdf)
 
 The FBI attributed the U.S. Company 1 theft to North Korean IT workers based on, among other things, distinctive tactics, techniques, and procedures observed in this heist and other virtual currency heists linked to North Korea IT workers. For example, the FBI has observed North Korea actors using Internet Protocol (IP) addresses hosted by the Russian telecommunications company TransTeleCom (TTK) service in other North Korea IT worker investigations. According to open-source information, the North Korean government began leasing internet access from TTK in or about October 2017; TTK is assigned autonomous system (AS) 20485. In the other IT worker investigations, TTK IP addresses associated with AS 20485 have been observed logging into command-and-control servers, logging into operational accounts, and conducting spear phishing attacks. In this case, as described in greater detail below, a TTK IP addresses assigned AS 20485 initiated the transfer of stolen funds from users of the U.S. Company 1 to threat-actor-controlled wallets.
 
