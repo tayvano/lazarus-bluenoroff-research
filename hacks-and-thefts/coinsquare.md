@@ -10,8 +10,6 @@ Tags:: 👛
 
 Unknown anything except that it was like TraderTraitor
 
-Laundered October 2024
-
 Comingled with a bunch of other shit e.g. WazirX, Indodax, BingX, Ronin, etc.
 
 
@@ -66,7 +64,7 @@ Demix:
 
 ## Other Incidents
 
-In 2018-2019, Coinsquare was accused of wash trading:
+#### In 2018-2019, Coinsquare was accused of wash trading:
 
 > In June, online publication Vice reported it had obtained leaked correspondence that showed the involvement of Diamond in wash trades at the exchange.
 
@@ -75,7 +73,7 @@ In 2018-2019, Coinsquare was accused of wash trading:
 Source: https://financialpost.com/news/fp-street/osc-alleges-market-manipulation-at-cryptocurrency-exchange-coinsquare
 
 
-In 2019, 5000+ user records were stolen by skiddies/swappers:
+#### In 2019, 5000+ user records were stolen by skiddies/swappers:
 
 > The hacker provided Motherboard with a version of the data stolen from Coinsquare. It includes just over 5,000 rows of users’ email addresses, phone numbers, and in some cases physical addresses. The data also contains a column titled “total $ funded first 6 months,” which could represent the dollar amount put into a user’s Coinsquare account in that period, and whether Coinsquare marks the user as a “high value client.” The data does not appear to include passwords.
 
@@ -87,7 +85,7 @@ In 2019, 5000+ user records were stolen by skiddies/swappers:
 
 Source: https://www.vice.com/en/article/hackers-coinsquare-data-bitcoin-sim-swapping/
 
-In 2022, more customer information was breached:
+#### In 2022, more customer information was breached:
 
 > According to the email, the breach exposed “customer names, email addresses, residential addresses, phone numbers, dates of birth, device IDs, public wallet addresses, transaction history, and account balances.” Although the email was sent Friday, Coinsquare discovered the breach last week and notified customers via Twitter.
 

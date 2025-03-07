@@ -68,11 +68,17 @@ Tags:: 👛 TraderTraitor
 - Unchained w/ Mudit Gupta (Feb 28 2025) - https://x.com/laurashin/status/1895474240813433094
 
 
+
+
+
 ## Dune Dashboards
 
 - https://dune.com/tayvano/bybit-thorchain-shitshow
 
 - https://dune.com/beetle/bybit-hack-tracing
+
+
+
 
 
 ## Onchain
@@ -101,7 +107,9 @@ Tags:: 👛 TraderTraitor
 
 - 0x1542368a03ad1f03d96d51b414f4738961cf4443 - Withdrawing cmETH
 
-- 0x47666Fab8bd0Ac7003bce3f5C3585383F09486E2 - Direct Theft (401,346 ETH + 90,375 stETH)
+- 0x47666Fab8bd0Ac7003bce3f5C3585383F09486E2 - Theft - 401,346 ETH + 90,375 stETH
+- 0xa4b2fd68593b6f34e51cb9edb66e71c1b4ab449e - Theft - 90,375 stETH + 8,000 meth + 1 ETH
+- 0xdD90071D52F20e85c89802e5Dc1eC0A7B6475f92 - Theft - 98,048 ETH Moved Feb 21 to Tranches - Remaining 8,048 Balance moved Mar 03 for laundry
 
 - 0x36ed3c0213565530c35115d93a80f9c04d94e4cb - Moved Feb 22 (10,000.00 ETH)
 - 0xaf620e6d32b1c67f3396ef5d2f7d7642dc2e6ce9 - Moved Feb 22 (10,066.60 ETH)
@@ -150,11 +158,8 @@ Tags:: 👛 TraderTraitor
 - 0x723a7084028421994d4a7829108d63ab44658315 - Moved Mar 03 (10,207.50 ETH) - stETH
 - 0x1512fcb09463a61862b73ec09b9b354af1790268 - Moved Mar 03 (9,997.09 ETH) - stETH
 - 0xeb0baa3a556586192590cad296b1e48df62a8549 - Moved Mar 03 (232.07 ETH) - stETH
-
-- 0xa4b2fd68593b6f34e51cb9edb66e71c1b4ab449e - 90,375 stETH + 8,000 meth + 1 ETH
-- 0xdD90071D52F20e85c89802e5Dc1eC0A7B6475f92 - 98,048 ETH (moved feb 21) (8,048 ETH Balance)
-- 0x55CCa2f5eB07907696afe4b9Db5102bcE5feB734 - 10,000 ETH
-- 0xf03AfB1c6A11A7E370920ad42e6eE735dBedF0b1 - 10,000 ETH
+- 0xf03AfB1c6A11A7E370920ad42e6eE735dBedF0b1 - Moved Mar 03 (10,000 ETH) - stETH
+- 0x55CCa2f5eB07907696afe4b9Db5102bcE5feB734 - Moved Mar 03 (10,000 ETH) - stETH
 
 
 

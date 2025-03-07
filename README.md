@@ -443,6 +443,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | ---- | ---- |
 | 2007       | [CHRG 109shrg28241](./pdfs/2007_CHRG-109shrg28241.pdf) |
 | 2019       | [North Koreas Cyber Threat: The All Purpose Sword](./pdfs/2019_North-Koreas-Cyber-The-All-Purpose-Sword.pdf) |
+| 2010-03-01 | [Criminal Sovereignty Understanding North Korea](./pdfs/2010-03-01_Criminal_Sovereignty_Understanding_North_Korea.pdf) |
 | 2014-02-01 | [KEI aps mansourov](./pdfs/2014-02-01_KEI_aps_mansourov.pdf) |
 | 2014-12-01 | [HPSR Security Briefing North Korea](./pdfs/2014-12-01_HPSR_Security-Briefing_NorthKorea.pdf) |
 | 2015-12-16 | [CSIS North Koreas Cyber Operations](./pdfs/2015-12-16_CSIS_NorthKoreasCyberOperations.pdf) |
@@ -451,11 +452,13 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2017-05-30 | [GroupIB: Lazarus Arisen](./pdfs/2017-05-30_GroupIB_Lazarus-Arisen.pdf) |
 | 2017-08-01 | [US Army: North Korean Cyber Support](./pdfs/2017-08-01_USArmy-North_Korean_Cyber_Support.pdf) |
 | 2018-01-01 | [CRS R44912](./pdfs/2018-01-01_CRS-R44912.pdf) |
+| 2018-01-01 | [How DPRK Created The World’s Most Effective Cyber Force](./pdfs/2018-01-01_RIAC-How-DPRK-Created-Worlds-Most-Effective-Cyber-Force.pdf) |
 | 2018-03-01 | [Fireeye: APT37 The Overlooked North Korean Actor](./pdfs/2018-03-01_Fireeye_APT37-The-Overlooked-North-Korean-Actor.pdf) |
 | 2018-06-08 | [⭐ USA v PARK JIN HYOK](./pdfs/2018-06-08_USA-v-PARK-JIN-HYOK.pdf) |
 | 2018-10-01 | [North Korea CEEW](./pdfs/2018-10-01_North-Korea_CEEW.pdf) |
 | 2019-01-01 | [How DPRK Created Most Effective Cyber Forces](./pdfs/2019-01-01_How-DPRK-Created-Most-Effective-Cyber-Forces.pdf) |
 | 2019-01-29 | [ATA SFR SSCI](./pdfs/2019-01-29_ATA-SFR-SSCI.pdf) |
+| 2019-11-21 | [Demystifying the “DangerousPassword” of the APT Organization](./pdfs/2019-11-21_Demystifying-DangerousPassword.pdf) |
 | 2020-01-01 | [Recorded Future: Internet](./pdfs/2020-01-01_Recorded-Future_Internet.pdf) |
 | 2020-02-01 | [North Korea Cyber Operations](./pdfs/2020-02-01_North-Korea_Cyber-Operations.pdf) |
 | 2020-02-05 | [USA v FTB](./pdfs/2020-02-05_USA-v-FTB.pdf) |
@@ -465,6 +468,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2020-06-25 | [USA v Abbas - Complaint](./pdfs/2020-06-25_Abbas_Complaint.pdf) |
 | 2020-07-01 | [ATP7 100 2](./pdfs/2020-07-01_ATP7-100-2.pdf) |
 | 2020-08-27 | [⭐ USA v 280 Virual Currency Accounts - Complaint CV-2396](./pdfs/2020-08-27_USA-v-280_complaint_cv-2396.pdf) |
+| 2020-09-30 | [Unveiling the Cryptomimic](./pdfs/2020-09-30_Unveiling-the-Cryptomimic.pdf) |
 | 2020-11-17 | [USA v Ghaleb Alaumary CR-00576.1](./pdfs/2020-11-17_USA-v-ghaleb-alaumary_cr-00576.1.pdf) |
 | 2020-11-17 | [USA v Ghaleb Alaumary CR-00576.5](./pdfs/2020-11-17_USA-v-ghaleb-alaumary_cr-00576.5.pdf) |
 | 2020-12-08 | [⭐ USA v JON CHANG HYOK PARK JIN HYOK CR-00614](./pdfs/2020-12-08_USA-v-JON-CHANG-HYOK_PARK-JIN-HYOK_cr-00614.pdf) |
@@ -480,10 +484,12 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2023-04-18 | [⭐ USA v SIM HYON SOP Indictment CR-00128](./pdfs/2023-04-18_USA-v-sim-hyon-sop_indictment_cr-00128.pdf) |
 | 2023-06-05 | [SEC v Binance](./pdfs/2023-06-05_SEC-v-Binance.pdf) |
 | 2023-06-22 | [Recorded Future: NK Cyber Strategy](./pdfs/2023-06-22_Recorded-Future-NK-Cyber-Strategy.pdf) |
-| 2023-10-18 | [⭐ USA v DPRK IT Workers 1134350](./pdfs/2023-10-18_USA-IT-Workers_1134350_redacted.pdf) |
+| 2023-10-04 | [Lazarus Campaigns and Backdoors](./pdfs/2023-10-04_Lazarus-campaigns-and-backdoors.pdf) |
 | 2023-10-18 | [USA v DPRK IT Workers 12 Domain Names](./pdfs/2023-10-18_USA-IT-Workers_12_domain_names_redacted.pdf) |
 | 2023-10-18 | [USA v DPRK IT Workers 397674](./pdfs/2023-10-18_USA-IT-Workers_397674_redacted.pdf) |
 | 2023-10-18 | [USA v DPRK IT Workers 5 Domain Names](./pdfs/2023-10-18_USA-IT-Workers_5_domain_names_redacted.pdf) |
+| 2023-10-18 | [⭐ USA v DPRK IT Workers 1134350](./pdfs/2023-10-18_USA-IT-Workers_1134350_redacted.pdf) |
+| 2023-10-13 | [Operation Dream Magic](./pdfs/2023-10-13_Lazarus-Operation-Dream-Magic.pdf) |
 | 2023-11-01 | [NCSC: 3CX IOCs](./pdfs/2023-11-01_NCSC-3CX-IOCs.pdf) |
 | 2023-11-01 | [USA v Binance](./pdfs/2023-11-01_USA-v-Binance.pdf) |
 | 2023-11-20 | [FinCEN v Binance Consent Order](./pdfs/2023-11-20_FinCEN-Binance_Consent-Order.pdf) |
@@ -491,12 +497,15 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2023-11-30 | [Recorded Future: Crypto Country](./pdfs/2023-11-30_Recorded-Future-Crypto-Country.pdf) |
 | 2024-05-16 | [US v DPRK IT Workers (Chapman Laptop Farm)](./pdfs/2024-05-16_US-v-IT-Workers_cr-00220.pdf) |
 | 2024-08-08 | [US v DPRK IT Workers (Nashville Laptop Farm)](./pdfs/2024-08-08_US-v-DPRK-IT-Laptop-Farm-Nashville.pdf) |
-| 2024-10-04 | [US Forfeiture - Ronin Funds](./pdfs/2024-10-04_24-cv-02826_Ronin-Hack.pdf) |
 | 2024-10-04 | [US Forfeiture - Derbit Funds](./pdfs/2024-10-04_24-cv-02828_Derbit-Hack.pdf) |
+| 2024-10-04 | [US Forfeiture - Ronin Funds](./pdfs/2024-10-04_24-cv-02826_Ronin-Hack.pdf) |
 | 2025-01-01 | [Joint Statement on Cryptocurrency Thefts by the Democratic People’s Republic of Korea and Public-Private Collaboration](./pdfs/2025-01-01_Joint-Statement-on-Cryptocurrency-Theft-by-DPRK.pdf) | 
 | 2025-01-25 | [US Forfeiture - Solareum - US v 942,462.845 USDT](./pdfs/2025-01-25_cv-00173_US-v-942462-USDT.pdf) |
 | 2025-02-24 | [Bybit Incident Investigation Preliminary Report - Verichains](./pdfs/2025-02-24_Bybit-Incident-Investigation_Preliminary-Report_Verichains.pdf) |
 | 2025-02-24 | [Bybit Interim Investigation Report - Sygnia](./pdfs/2025-02-24_Bybit-Interim-Investigation-Report_Sygnia.pdf) |
+| 2025-03-06 | [Garantex Indictment](./pdfs/2025-03-05_garantex_indictment.pdf) |
+
+
 
 
 
@@ -504,7 +513,9 @@ Note: all my research starts onchain and works backwards from there using victim
 
 | Date | Document |
 | ---- | ---- |
+| 2016-02-24 | [UN Security Council: 2015 Year End Report](./pdfs/2016-02-24_UN-Security-Council_s_2016_157.pdf) |
 | 2017-03-01 | [UN Security Council: 2016 Year End Report](./pdfs/2017-02-27_UN-Security-Council_s_2017_150.pdf) |
+| 2017-09-05 | [UN Security Council: 2017 Midterm Report](./pdfs/2017-09-05_UN-Security-Council_s_2017_742.pdf) |
 | 2018-03-01 | [UN Security Council: 2017 Year End Report](./pdfs/2018-03-05_UN-Security-Council_s-2018-171.pdf) |
 | 2019-03-01 | [UN Security Council: 2018 Year End Report](./pdfs/2019-03-05_UN-Security-Council_s-2019-171.pdf) |
 | 2019-09-01 | [UN Security Council: 2019 Midterm Report ](./pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf) |
