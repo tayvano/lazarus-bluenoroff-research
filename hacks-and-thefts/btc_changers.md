@@ -31,7 +31,7 @@ The address 1DjyE7WUCz9DLabw5EWAuJVpUzXfN4evta was not active during the Lazarus
 - https://blog.group-ib.com/btc_changer
 
 
-## On-Chain
+## Onchain
 
 - 0x460ab1c34e4388704c5e56e18D904Ed117D077CC
 

@@ -24,7 +24,7 @@ Most losses were on Polygon and Binance Smart Chain (BSC)
 "The company worked with Kaspersky, who believe the hackers were the Lazarus Group with links to North Korea."
 
 
-## On-chain
+## Onchain
 
 - 0x0ACC0e5faA09Cb1976237c3a9aF3D3d4b2f35FA5 - Primary Theft on BSC 
 - 0x74487eed1e67f4787e8c0570e8d5d168a05254d4 - Primary Theft on ETH - 10M BZRX, $4m ETH

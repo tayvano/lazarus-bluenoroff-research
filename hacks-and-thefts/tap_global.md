@@ -10,11 +10,11 @@ Date:: August 29th, 2020
 
 > The hacker appears to have stolen funds from Tap[.]global just a few days later as well on 8/29
 
-> It's also the same actor that funds from Coinmetro. That's just based on the on-chain evidence we can see after a 2 minute peek. The reality is the majority of custodial exchanges & services don't take their security services, at least not until after they're hacked.
+> It's also the same actor that funds from Coinmetro. That's just based on the Onchain evidence we can see after a 2 minute peek. The reality is the majority of custodial exchanges & services don't take their security services, at least not until after they're hacked.
 
 - https://twitter.com/cipher_blade/status/1321862599433089025
 
-## On-chain
+## Onchain
 
 - 1KcTk7kJMjYaCV3FXo5bzpjaZs2aK18ntz - Coinberry Theft
 

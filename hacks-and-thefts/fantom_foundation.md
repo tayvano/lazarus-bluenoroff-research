@@ -13,7 +13,7 @@ Date:: October 17, 2023
 
 - A total of approximately $7m was stolen in this single incident. The likely cause is, again, complete device pwnage due to DPRK malware. Most likely employee is Fantom CEO Michael Kong.
 
-- DPRK attribution comes, in part, from observations on DPRK-controlled C2s as well as on-chain laundering and timing matching other thefts that occuring the same week.
+- DPRK attribution comes, in part, from observations on DPRK-controlled C2s as well as Onchain laundering and timing matching other thefts that occuring the same week.
 
 
 
@@ -58,7 +58,7 @@ The stolen cryptocurrency was converted into Ether (ETH) using services such as 
 
 
 
-## On-Chain
+## Onchain
 
 - 0x1bffb3a232e06e06a5d9e93c8df3321f768197c2 - Victim Foundation Wallet 1 
 - 0x48f7572cfbc4f246600cf816c668271034d81f8f - Victim Foundation Wallet 16 

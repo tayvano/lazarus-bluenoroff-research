@@ -26,7 +26,7 @@ The attacker(s) stole the funds in two transactions, in total withdrawing 9.7 mi
 
 A wallet involved in the Terraport launch was found to have made a series of suspicious changes to the code of three important smart contracts related to the liquidity pools, several hours before the heist was effected.
 
-## On-Chain
+## Onchain
 
 terra19yrq0mehjfk5cquxn4svjxft4rmhcc9g8t0yma - Exploited Address
 

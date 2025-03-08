@@ -18,7 +18,7 @@ Crypto exchange, CoinBene, was reported to be hacked, although the exchange deni
 Back in March 2019, the CoinBene cryptocurrency exchange denied that it suffered a hack but claimed to be undergoing maintenance, despite losing 109 ERC-20 tokens worth about $105 million. Crypptocurrency expert Nick Schteringard said on Twitter yesterday, that the hacker appears to have stolen roughly $6 million in Coinbene Coin and $39 million in Maximine Coin, which it later dumped on the market
 
 
-## On-Chain
+## Onchain
 
 - The funds seized from Coinbene on March 25 were 107 types of cryptocurrencies, total KRW 5.8 billion.
 

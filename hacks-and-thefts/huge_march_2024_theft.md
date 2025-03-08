@@ -23,7 +23,7 @@ Tags:: 🔑 SquidSquad
 Moved December 2024
 
 
-## On-chain
+## Onchain
 
 - 23bfae249ec266f903bd8315103ea6472109bacf83a0bb3ebabc25b90d3b849c Largest hw theft
 

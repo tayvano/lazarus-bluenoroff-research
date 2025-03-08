@@ -125,14 +125,14 @@ Tags:: 🎙️ Contagious Interview
 
 ## Details
 
-> Theft is tied on-chain to other recent hacks such as Nexera, Concentric, Masa, SpaceCatch, Reach, Serenity Shield, MurAll, etc I have previously covered which were the result of fake job scams (contagious interview)
+> Theft is tied Onchain to other recent hacks such as Nexera, Concentric, Masa, SpaceCatch, Reach, Serenity Shield, MurAll, etc I have previously covered which were the result of fake job scams (contagious interview)
 
 > Stolen funds from this incident were bridged from Arbitrum to BSC where ~$4.7M currently sits.
 
 - [ZachXBT](https://t.me/investigations/167)
 
 
-## On-chain
+## Onchain
 
 - 0x70285a11489bed93686410ebc727057cafb8129d
 

@@ -50,7 +50,7 @@ Amount Stolen:: $935,000
 
 ## Details
 
-"August and September 2021 saw multiple individuals hacked for $2M likely due to private key compromise. Indicators of the thefts include on-chain connections to known hacks such as FinNexus, assets transferred out from victims wallets and immediately sold for ETH, and activity in victims wallets stop after transfers were made."
+"August and September 2021 saw multiple individuals hacked for $2M likely due to private key compromise. Indicators of the thefts include Onchain connections to known hacks such as FinNexus, assets transferred out from victims wallets and immediately sold for ETH, and activity in victims wallets stop after transfers were made."
 
 "Funds from the multiple thefts consolidated in 0x5271 before 581 ETH was deposited to Tornado Cash on September 15, 2021 beginning at 10:13 am UTC."
 

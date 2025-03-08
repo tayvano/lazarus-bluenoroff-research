@@ -14,14 +14,14 @@ Tags:: 🔑 Admin Key Compromise, "Inside Job"
 
 Private Key Compromise, Modified owner of contract
 
-According to community feedback and data on the chain, the token FNX of the on-chain option agreement FinNexus has been minted, transferred or sold in a large amount in a short period of time, involving more than 300 million FNX tokens (approximately US$7 million) in BSC and Ethereum , Some users reported that the owner authority of the project contract was previously modified
+According to community feedback and data on the chain, the token FNX of the Onchain option agreement FinNexus has been minted, transferred or sold in a large amount in a short period of time, involving more than 300 million FNX tokens (approximately US$7 million) in BSC and Ethereum , Some users reported that the owner authority of the project contract was previously modified
 
 It called it a smart contract hack but industry experts have refuted the claim, suggesting it was a stolen private key for the administrator account. 
 
-According to community feedback and data on the chain, the token FNX of the on-chain option agreement FinNexus has been minted, transferred or sold in a large amount in a short period of time, involving more than 300 million FNX tokens (approximately US$7 million) in BSC and Ethereum , Some users reported that the owner authority of the project contract was previously modified.
+According to community feedback and data on the chain, the token FNX of the Onchain option agreement FinNexus has been minted, transferred or sold in a large amount in a short period of time, involving more than 300 million FNX tokens (approximately US$7 million) in BSC and Ethereum , Some users reported that the owner authority of the project contract was previously modified.
 
 
-## On-Chain 
+## Onchain 
 
 - 0x961918dcc6f1f78f93e357182614c791041f401e - Original Contract Owner
 - 0x5ebc7d1ff1687a75f76c3edfabcde89d1c09cd5f - Exploiter

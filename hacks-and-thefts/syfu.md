@@ -11,7 +11,7 @@ Tags:: 🔑 SquidSquad
 
 ### Onchain
 
-- 0x7d7505f4919e05d687f0c508149deb12fae16d90 - Theft/Consolidation
+- 0x7d7505f4919e05d687f0c508149deb12fae16d90 - Theft
 - 0x29592e5ebf005e1a1d6d8c286ba6b1e419d68222 - Theft/Holding (Dec 16 2024 & Dec 18 2024)
 - 0xb4a8ff9207adce578038a62dcc3c67637c2e320c - eXch Depo (Jan 15 2025)
 - 0xbfe2cdd6dd148511ee6995968daaeaf623eb821a - eXch Depo (Jan 15 2025)

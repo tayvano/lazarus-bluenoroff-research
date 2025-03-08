@@ -11,7 +11,7 @@ Amount Stolen:: $2,830,000 (88 BTC)
 
 
 
-## On-chain
+## Onchain
 
 - 1HmXdQx3TCVibvjPAp3BrR7awbe6Gtbz6A - Primary Theft
 - bc1q379d6e9lrns0hev9lnlwpu5ze9k4flclk884vg - Theft to ChipMixer

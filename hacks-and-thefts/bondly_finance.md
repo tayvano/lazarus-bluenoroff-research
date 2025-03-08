@@ -26,7 +26,7 @@ The password account contained a mnemonic recovery phrase for his hardware walle
 
 
 
-## On-Chain
+## Onchain
 
 - 0xbcea5abcb1b446b971eb67b6dd69736e68d273097774284ca5f257df2a31c3c7
 - 0xc2b339468b23cc8b98d6d4534e87d8ec3b85a0d26f8c169a22efe14d221cfaae

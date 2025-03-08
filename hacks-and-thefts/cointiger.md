@@ -29,7 +29,7 @@ On August 21st, the Proton Chain (PTT) official website issued a comprehensive w
 At the same time, CoinTiger directly asked the project side to upgrade the contract, hoping to create a new currency, and then map the 260 million PTT that had been frozen to the new currency. We ask that the return is not to let the project party pay for our mistakes, but to ask the ‘return to the original owner’.
 
 
-## On-chain - US v. 280 Virtual Currency Accounts
+## Onchain - US v. 280 Virtual Currency Accounts
 
 ### 17,829,785 PlayGame (“PXG”) tokens were sent:
 

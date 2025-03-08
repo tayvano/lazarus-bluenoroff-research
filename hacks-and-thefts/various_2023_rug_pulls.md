@@ -6,7 +6,7 @@ Tags:: 🎙️ Contagious Interview?
 ---
 
 
-## On-Chain 
+## Onchain 
 
 - 2023-Mar-02 ARBI Token Rug Pull - $100,000
 - 2023-Apr-22 Fashion AI Rug Pull
@@ -59,7 +59,7 @@ https://wearecultdao.medium.com/0xblock-exploited-5da3d0bbc00e#:~:text=It%20is%2
 
 ## LunaFi
 - May 22nd, 2023
-- The root cause is pretty simple: there is no time lock for the user 'staking' amount(balance).  There are multiple other issues in the contract. Highly encourage the project owner to do an audit before put it on-chain.
+- The root cause is pretty simple: there is no time lock for the user 'staking' amount(balance).  There are multiple other issues in the contract. Highly encourage the project owner to do an audit before put it Onchain.
 - LunaFI, a Polygon-based project, was exploited resulting in the loss of 1,500,000 $LFI tokens worth around 36,362 $USD.
 - LunaFi is a betting platform running on Polygon. LunaFI's vLFI contract rewarding system was exploited. The attacker found an issue with the Claim Rewards function that allowed them to repeatedly claim LFI tokens. As a result of this exploit, approximately 1,500,000 $LFI tokens were stolen which is equivalent to around 36,362 $USD at current market value. After stealing these tokens from multiple users' wallets on the Polygon network using this method they swapped them for around 20 $ETH and transferred it to their initial address.
 - 0x11576cb3d8d6328cf319e85b10e09a228e84a8de - Attacker

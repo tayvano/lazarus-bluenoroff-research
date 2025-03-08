@@ -16,7 +16,7 @@ The attacker compromised the private key for the protocol's deployer account and
 
 
 
-## On-chain
+## Onchain
 
 - 0xeaf6e2a3d22a9775a1cc692b207b7d8dd6a4944c - ConcentricFi Compromised ConcentricFi Deployer
 - 0x3f06d41f7a7b0fce0b4cd201fa6a207363a2317d - ConcentricFi Malicious, Ownership Transfered Here

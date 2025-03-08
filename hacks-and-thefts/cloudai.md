@@ -8,7 +8,7 @@ Tags: 🎙️ Contagious Interview
 
 ---
 
-## On-chain
+## Onchain
 
 - 0x163697bd5f735f605c0b2220d08af1f4b8234302 - Compromised CloudAI Deployer
 - 0x38604d52d3a89b16a90053ae0c6d009504a9a5b8 - Compromised CloudAI Token Contract

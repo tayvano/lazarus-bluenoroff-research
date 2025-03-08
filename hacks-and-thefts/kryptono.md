@@ -12,7 +12,7 @@ Tags:: CEX Hack
 
 
 
-## On-Chain
+## Onchain
 
 - Victim: 0xE8A0E282e6a3E8023465acCd47FaE39dD5Db010b (Kryptono)
 

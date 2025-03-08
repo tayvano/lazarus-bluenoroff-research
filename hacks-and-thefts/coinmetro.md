@@ -13,7 +13,7 @@ Tags:: 🔑
 On October 6, 2020 the CoinMetro team observed unauthorized transfers of $750K worth of crypto assets from its hot wallets due to a security breach. As a result of the incident the Parsiq team made the decision to hard fork its token in an effort to prevent the attacker from further selling PRQ tokens and further protect users funds.
 
 
-## On-chain
+## Onchain
 
 - 0x044bf69ae74fcd8d1fc11da28adbad82bbb42351 - Direct Theft
 - 1GVjvbVEYPkjCYCwJkC29t5pBWAQQd1g32 - Laundry (Connects to L2 and other known DPRK thefts)

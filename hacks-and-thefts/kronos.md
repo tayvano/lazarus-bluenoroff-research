@@ -19,7 +19,7 @@ WOO_X temporarily paused trading across WOO X to protect users positions from a 
 Some went Wormhole -> CEX, others maybe to eXch?
 
 
-## On-chain
+## Onchain
 
 - 0x2b0502fdab4e221dcd492c058255d2073d50a3ae
 - 0x7e1a22655e2a46a5dd8aec2905c298f1d06b8597

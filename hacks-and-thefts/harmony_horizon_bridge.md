@@ -26,7 +26,7 @@ The multisig owner called the submitTransaction(), then to confirm owner calls c
 The executeTransaction() function has made an external call with input that will call the unlockEth() function in the Ethmanager contract. The input specifies the amount, recipient, and receiptId to be passed to the unlockEth() function.
 The following steps were repeated with different ids.
 
-## On-Chain
+## Onchain
 Beginning at 11:06 UTC, the hacker sent 13.1k ETH 0x2dCCDB493827E15a5dC8f8b72147E6c4A5620857 from the ETH Bridge to the exploiter’s address 0x44256bb81181bcaf7b5662614c7ee5f6c30d14e1c8239f006f84864a9cda9f77, [5.5M BUSD] from the BUSD Bridge and drained the [following assets](https://etherscan.io/tokentxns?a=0x0d043128146654c7683fbf30ac98d7b2285ded00) from the ERC20 Bridge: ETH, USDC, WBTC, USDT, DAI, BUSD, AAG, FXS, SUSHI, AAVE, WETH, and FRAX. The ONE token was not affected by this attack.
 640K BUSD: https://bscscan.com/tx/0x4ed7941394725e49e7423e56553901c4ce841792c70e87adeee282cd78500668
 Attacker draining bridge for ERC20 tokens: 0x0d043128146654c7683fbf30ac98d7b2285ded00#tokentxns
@@ -136,7 +136,7 @@ The group added Railgun, a privacy system, to their arsenal to obfuscate stolen 
 - September 4, 2023 - $41m from COMPANY-4 ([Stake](./hacks-and-thefts/stake.md))
 - [US Forfeiture - Oct 4 2024](../pdfs/2024-10-04_24-cv-02826_Ronin-Hack.pdf)
 
-## On-Chain
+## Onchain
 
 - 13bKZmMtLoCu3o1oUiGsqyCz3yWsbaDkp8 - Harmony Laundry 2 CEX Withdrawals
 - 13dcTUUhGbZHxxxQRDfb6Q6TrWejxWzhAt - Harmony Laundry 2 CEX Withdrawals

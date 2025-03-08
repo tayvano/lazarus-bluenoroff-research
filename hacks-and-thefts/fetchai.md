@@ -9,7 +9,7 @@ Tags:: 🔑
 ---
 
 
-## On-Chain
+## Onchain
 
 Source: https://chainabuse.com/report/0494e103-1a74-4dd9-aa5b-a2354c33c100
 

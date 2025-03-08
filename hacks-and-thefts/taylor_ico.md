@@ -25,7 +25,7 @@ Not only the balance in ETH (2,578.98 ETH), but also the TAY tokens from the Tea
 The only tokens that were not stolen are the ones from the Founders’ and Advisors’ pools, because there’s a vesting contract making them inaccessible for now.
 
 
-## On-chain
+## Onchain
 
 - 0x94f20ccff70d82d1579d8b11f2985f8de9b287cf - Taylor ICO Exploiter
 

@@ -32,7 +32,7 @@ A Bancor wallet got hacked and that wallet has the ability to steal coins out of
 
 
 
-## On-Chain
+## Onchain
 
 - Heist executed via private key to the `BancorConverter` contract: 0x009bb5e9fcf28e5e601b7d0e9e821da6365d0a9c
 - Bancor Hacker - 0x33ed22f4b6b05f8a5faac4701550d52286bd735a

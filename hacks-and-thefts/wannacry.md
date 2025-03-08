@@ -32,7 +32,7 @@ The [UN Security Council's 2019 Midterm Report](../pdfs/2019-08-30_UN-Security-C
 > Bitcoin ransom payments made by victims of WannaCry were transferred from a Bitcoin wallet through cryptocurrency exchanges and ultimately converted to Monero, another cryptocurrency, using a Swiss-based cryptocurrency exchange called ShapeShift.35 Monero is an anonymity-enhanced virtual currency and therefore more difficult to trace than standard cryptocurrencies such as Bitcoin, Litecoin or Ethereum, which prolongs attribution. The proceeds of the third attack on Bithumb in June 2018 were transferred through YoBit.36 By August 2018, less than two months after the attack, the funds were sent to YoBit in a complex series of hundreds of transactions with the aim of converting and cashing out the entirety of the stolen cryptocurrency (as opposed to spending the acquired cryptocurrency directly on goods and services). The above-mentioned cases show a clear evolution from the earlier Democratic People’s Republic of Korea cyberattack on the customers of a Republic of Korea online shopping mall, Interpark, which was designed to generate foreign currency.
 
 
-## On-Chain
+## Onchain
 
 
 - On August 3, 2017, the ransom payments from the victims of the WannaCry Version 2 ransomware were transferred from the original Bitcoin addresses to other cryptocurrency addresses in a series of transactions. 

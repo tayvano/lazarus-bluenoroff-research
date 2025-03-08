@@ -7,7 +7,7 @@ Amount Stolen:: $1,247,228 (599,385 FTM)
 
 ---
 
-## On-Chain
+## Onchain
 
 - Victim: 0x9c1b3c73f0113ebffeb3c7f18429bee66232a059
 

@@ -40,13 +40,13 @@ The IP 85.255.176.177 was observed during initial laundering. Tactics and indica
 
 It's highly likely this incident is similar to the one experienced by Terraport and that initial access was gained or significantly aided by one or more DPRK IT workers who were unknowingly employed and/or contracted by the UNO Re DAO.
 
-For this reason, IoCs, on-chain flows, and other elements differ from the DPRK private key compromises that you are likely more familiar with. e.g. The attacker in this instance responded to the team's on-chain messages with a message of their own which rarely, if ever, occurs with DPRK hacks.
+For this reason, IoCs, Onchain flows, and other elements differ from the DPRK private key compromises that you are likely more familiar with. e.g. The attacker in this instance responded to the team's Onchain messages with a message of their own which rarely, if ever, occurs with DPRK hacks.
 
 Similarly the team does not recall and has not identified receiving one of the infamous Google Docs "Risks of DeFi/Stablecoins(Protected)" that have been especially prevelant and damaging during Q3/Q4 2023.
 
 
 
-## On-Chain
+## Onchain
 
 - https://etherscan.io/tx/0x153fa7888fee5641e4bbb622bc6e0a1b56d144b62a658da555aa793e786f6acf - Message from Uno Team to Attacker
 - https://etherscan.io/tx/0x0acdad46f954854acf66f4fc84be2e9ccd3b451139106beaf5b50a7d350f1bc5 - Message from Attacker to Uno Team

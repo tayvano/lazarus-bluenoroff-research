@@ -68,7 +68,7 @@ In 2019, DPRK cyber actors shifted focus to targeting cryptocurrency exchanges. 
 
 Reports within South Korea have suggested the the thefts from Bithumb started with malicious HWP files earlier in May and June. They also mentioned they are linked to previous attacks by Lazarus, and involved faked resumes.
 
-## On-Chain
+## Onchain
 
 Bithumb - > YoBit - 1,993 BTC was moved from Bithumb Hackers to YoBit over 68 transactions
 

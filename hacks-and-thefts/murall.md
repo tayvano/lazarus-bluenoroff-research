@@ -17,7 +17,7 @@ Linkedin Persona: "Maria Mercedes Gonzalez"
 
 "The same group just hacked another project one hour ago for $278K"
 
-## On-chain
+## Onchain
 
 - 0xf7a3bbe1711eb43967cdbf58fa61342a25e3c845 - Compromised Murall Team Member
 - 0xCF90AD693aCe601b5B5582C4F95eC7266CDB3eEC - Compromised Murall Deployer (murall.eth)

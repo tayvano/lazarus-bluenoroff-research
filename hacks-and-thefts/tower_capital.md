@@ -6,7 +6,7 @@ Tags:: Applejues
 
 ---
 
-## On-Chain
+## Onchain
 
 Overlaps with Advcash, and 990.1 BTC Theft.
 

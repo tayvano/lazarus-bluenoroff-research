@@ -15,7 +15,7 @@ Sends to Dust Collector 0x2d7554062664050294640891a122019a68ac5a2b
 Sends to Fantom Allocation Receiver Theft 0x95a94af4418a23b06f029af55e7c2fb06b9a2ad7
 
 
-## On-Chain
+## Onchain
 
 - 0x0b02be717622c8dc3911122b4ee1b0bd43ff3a02 - Victim
 

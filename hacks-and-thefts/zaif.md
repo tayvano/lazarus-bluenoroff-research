@@ -60,7 +60,7 @@ The case filing also cites that in 2019, the exchange facilitated the laundering
 The amount of damages is relatively small for Binance, which is reported to have crossed $1 billion in cumulative profits within the first three years of its launch. However, the questions raised are troubling for cryptocurrency users.
 
 
-## On-Chain
+## Onchain
 
 - BTC 1FmwHh6pgkf4meCMoqo8fHH3GNRF571f9w (5960 BTC / $40m) Sep 14, 2018 8:33 AM
 

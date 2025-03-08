@@ -4,7 +4,7 @@ Date:: April 19th, 2018
 
 Amount Stolen: $5,000,000 (8,346 ETH)
 
-## On-Chain
+## Onchain
 
 - 0xbc3175b1054214acea52127f3de1b7b243844670
 

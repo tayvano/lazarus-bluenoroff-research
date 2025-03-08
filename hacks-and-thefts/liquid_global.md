@@ -24,7 +24,7 @@ Whoever hacked Liquid seems to have had a thorough plan in place prior to acting
 
 
 
-## On-Chain
+## Onchain
 
 - 0x11cf04ee89c9ef56d9ef6126e914286770b8571f
 - 0x262feb0550F3b6927ee5CBaa2fcfF77c1D270dbe

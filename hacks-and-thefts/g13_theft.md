@@ -12,7 +12,7 @@ Individuals self-custodial wallets were compromisd by likely malware. His centra
 
 
 
-## On-Chain
+## Onchain
 
 - Theft - Bitblender Deposit - 163JhvtTzXFZeAs4c28vUbLuyZnvtx2GSY
 

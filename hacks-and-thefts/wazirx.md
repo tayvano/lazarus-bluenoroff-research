@@ -70,7 +70,7 @@ This suggests a significant failure in Liminal's verification process, a vulnera
 - https://twitter.com/CyversAlerts/status/1851239095730602136
   
 
-## On-chain
+## Onchain
 
 - delegate call to malicious contract
 - 0xfbffef83b1c172fe3bc86c1ccb036ab9f3efcaf2
@@ -844,7 +844,7 @@ test delegate txn:
 - 0x9AF78003CecC2383d9D576A49c0C6b17fc34Ae34 - Wazirx Team Member 2/4
 
 
-### Failed On-chain USDT Txn
+### Failed Onchain USDT Txn
 
 txn hash: 0x8b99ae634e1e7180b3fcc66e8fe5d076351477077051a7bbf5ec626a9d0588ef
 msg hash: 0x50a9ff81d06bd812f55d3447c4c48c291f2386f57341a4f21c4e584d07f5943f

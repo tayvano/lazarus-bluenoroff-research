@@ -69,7 +69,7 @@ While we saw automation and other obfuscation techniques such as peeling chains 
 e.g. 3GHUDLzk1VjYAxZC5rV3T5aAgEWCA7QmF7
 
 
-## On-Chain
+## Onchain
 
 
 - BCH qrzdz534lpzgad7tdmj5decxgq9kczt7dyphxhm7g4

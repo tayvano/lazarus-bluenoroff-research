@@ -10,7 +10,7 @@ Tags: 🎙️ Contagious Interview
 ---
 
 
-## On-chain
+## Onchain
 
 - 0x010c3822547c028c8D0B1F3B855D8813E7002B7A - Waygate Deployer (Compromised)
 - 0x0c6256ee8e5627e3db68825b563dc483b892dd8f - Primary Attacker

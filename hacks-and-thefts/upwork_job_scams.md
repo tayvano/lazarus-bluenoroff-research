@@ -11,7 +11,7 @@ Tags: 🎙️ Contagious Interview
 
 The following is related to exploits with SPooCK, OKX Dex, UnoRe DAO, Arbi, Terraport, etc. etc.
 
-## On-Chain
+## Onchain
 
 - 0xde14bf6088bf7320687910c657aa78883dbd47c2 (Victim)
 - 0x964891e39275280f731ccf9f3f42ab72e86739ad

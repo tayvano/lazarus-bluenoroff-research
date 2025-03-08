@@ -47,7 +47,7 @@ We were able to attribute this hack to Lazarus Group due in part to the KuCoin h
 Harvest Finance, leading to speculation that Lazarus Group may have carried out that attack as well. However, this is still unconfirmed.
 
 
-## On-Chain
+## Onchain
 
 - 15mC7zKbLyErSKzGRHpy6gyqS7GyRpWjEi
 - 0x00600423c03ec4b46F9b8a28c66d42bdd1b19c36

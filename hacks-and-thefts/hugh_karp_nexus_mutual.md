@@ -46,7 +46,7 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 
 
 
-## On-Chain
+## Onchain
 
 - https://etherscan.io/tx/0xfe2910c24e7bab5c96015fb1090aa52b4c0f80c5b5c685e4da1b85c5f648558a 
 - 0x09923e35f19687a524bbca7d42b92b6748534f25 - Theft

@@ -18,7 +18,7 @@ The stolen tokens were intended to be used as a project’s liquidity pool. Ther
 Trade.io states: “We use industry recommended cold storage which are maintained in safety deposit boxes in banks, along with all corresponding materials. We have confirmed that the safety deposit boxes were not compromised.””
 
 
-## On-Chain
+## Onchain
 
 - 0x893001aac4ba054ef5f183602bd7883c3542314c is DPRK's 2018-era dust collector
 - 0x724012dcfdafa04fc2a345ab9f0cc2a5bf397391 is where stolen Trade.io funds went

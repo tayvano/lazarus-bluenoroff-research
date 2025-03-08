@@ -13,7 +13,7 @@ Unknown anything except that it was like TraderTraitor
 Comingled with a bunch of other shit e.g. WazirX, Indodax, BingX, Ronin, etc.
 
 
-## On-chain
+## Onchain
 
 Stolen Funds
 - 1N9L3VyxPqxayZkufZksw2ky4mgzZEEJ2J

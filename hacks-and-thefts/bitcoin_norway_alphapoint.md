@@ -24,7 +24,7 @@ The FBI is the sole and appropriate law enforcement entity to investigate this c
 > "[3/20/23 1:58 PM] The CEO, CTO or someone high up there got SIM'd. then DPRK comes along a week later and hacks all their customers"
 
 
-## On-Chain
+## Onchain
 
 - Laundry: 1DCcX4tceemSUyJRp6QNfXrybARBS6xt8H
 

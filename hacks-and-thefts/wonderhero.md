@@ -21,12 +21,12 @@ Tags:: 🔑 SquidSquad, Infinite Mint, Dust Collectors
 > A thorough investigation will be done and details will be updated.
 
 
-> On-chain the incident is also connected to other hacks such as mgnr.io, Polyplay, Wonderhero and ANKR founder as dust leftover in theft addresses was swept to a single address in February 2022.
+> Onchain the incident is also connected to other hacks such as mgnr.io, Polyplay, Wonderhero and ANKR founder as dust leftover in theft addresses was swept to a single address in February 2022.
 
 - https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE
 
 
-## On-chain
+## Onchain
 
 - https://bscscan.com/tx/0x20dabda59dd46d45a7b6b5b324830159fb108cd2119232d7f0056d8085de17e1
 - https://bscscan.com/tx/0x776fd6f2b265be782c862d05ecf225ace6fa2268b9028ca3df3c65aeed2677a1

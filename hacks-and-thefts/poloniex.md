@@ -18,7 +18,7 @@ Amount Stolen:: $130,000,000
 - https://platform.arkhamintelligence.com/explorer/entity/893f9614-ccae-4b56-bf6e-6b072b297b5c
 
 
-## On-Chain
+## Onchain
 
 - https://etherscan.io/tx/0xcbf1547119ae869604585997b11d118bb423f32ae75c2fe055b7eb8d79d3ae77
 - TKK6d1YALy8HCSoCSWWd1ZJhyC9NPPx4wa

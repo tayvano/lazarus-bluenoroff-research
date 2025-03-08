@@ -21,7 +21,7 @@ Despite the fact that Coinrail was a relatively small cryptocurrency exchange, i
 
 
 
-## On-Chain
+## Onchain
 
 - 0xf6884686a999f5ae6c1af03db92bab9c6d7dc8de
 

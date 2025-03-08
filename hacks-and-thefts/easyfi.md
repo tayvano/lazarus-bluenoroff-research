@@ -41,7 +41,7 @@ Ankitt Gaur, founder and CEO of Layer 2 DeFi lending protocol EasyFi (EASY), sai
 The token was upgraded to ‘EZ 2.0’ four days later, making the hacker’s existing EASY holdings useless .
 
 
-## On-Chain
+## Onchain
 - 0x0c08D0fE35515f191fC8f0811CAdCfC6B2615b74 - Victim / Compromised
 - 0x83a2EB63B6Cc296529468Afa85DbDe4A469d8B37 - Theft
 - 0x437147da920714fec4822f0666d940945f9c972b - Primary Theft

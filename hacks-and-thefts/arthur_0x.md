@@ -38,7 +38,7 @@ Kenetic Capital - jehan@kenetic.capital is the email that phished Arthur_0x - he
 
 
 
-## On-Chain
+## Onchain
 
 - Compromised: 0xc8acf47df30286159220e8d58467a614dc07bc72
 

@@ -72,7 +72,7 @@ SPooCK
 
 
 
-## On-Chain
+## Onchain
 
 - 0xec448cc26a97ff84339c27ec754320f1d52f7566 - Victim
 - 0x92c42f41c2a2104b5fc468859c20ea2d186a1a17 - Victim

@@ -9,7 +9,7 @@ Amount Stolen:: $165,000
 
 ---
 
-## On-chain
+## Onchain
 
 
 - 0xF2c96E402c9199682d5dED26D3771c6B192c01af - Victim SCOP token

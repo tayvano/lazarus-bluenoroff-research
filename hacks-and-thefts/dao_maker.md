@@ -21,7 +21,7 @@ DAO Maker, an encryption incubator, issued an announcement stating that at aroun
 
 
 
-### On-chain
+### Onchain
 
 - 0x054e71D5f096a0761dba7dBe5cEC5E2Bf898971c - the original deployer (legit)
 - 0x0Eba461D9829C4e464A68D4857350476CFb6F559 - EOA wallet, admin (legit)
@@ -116,7 +116,7 @@ All of this points to the attacker being not very technical.
 However, the source code of the contract was not public. You need deep technical knowledge to find this vulnerability without the source code. This makes one wonder how the attacker knew about this vulnerability.
 
 
-### On-chain
+### Onchain
 
 - 0x2708cace7b42302af26f1ab896111d87faeff92f - Primary Theft
 - 0x0b7894e365a0f8a7e3e294ea6562071497da2f83

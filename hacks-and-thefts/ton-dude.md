@@ -16,16 +16,16 @@ Initial compromise likely on November 19th, 2024.
 
 Likely fake Min aka Chichi A-Team and an extension of the fake Hack VC rampage.
 
-- Telegram handle: @min_xue
+Telegram handle: @min_xue
 
-- https://calendly.com/min-xue/30min
+https://calendly.com/min-xue/30min
 
 Missed a lot of NFTs. Also failed to take over the victims Telegram account.
 
 Our best guess is they don't know how @usernames, anon phone numbers work.
 
 
-## On-chain
+## Onchain
 
 - TP27mP5frRLsmRUMwq9CQPuUTuktiZDebG - Theft
 - 0x23d7e378fcdc42efe4e55b2fbeb48b3fd85f5277 - Theft
@@ -52,13 +52,12 @@ Our best guess is they don't know how @usernames, anon phone numbers work.
 - 0x947426555747dfa659e958d93f2357e3c26689a5 - Consolidation
 
 - 0xfe0d4ec6025ae8c86d7e1e6407b3717da9240e09 - Theft ($354k Gate, $371k Kucoin)
-- 0x21a3caa677102ed073cdc809c42be5f97d8bfb6b - (ETH) - Theft ($200k Gate, $1.26m Bitget, $146k MEXC)
-- 0x21a3caa677102ed073cdc809c42be5f97d8bfb6b - (BSC) - $42k Bitget
+- 0x21a3caa677102ed073cdc809c42be5f97d8bfb6b - Theft ($200k Gate, $1.26m Bitget, $146k MEXC)
+- 0x21a3caa677102ed073cdc809c42be5f97d8bfb6b - Int.  ($42k Bitget)
 - 0x9f244994e2961ca811a35cf50d521cf01e4b8fda - Consolidation
 
 - bc1qsnc09xkv8sewzty9dh3y8ne0240w502fsqz7k6 - Theft
 - bc1qtmr7m4a0ljsa6th6afq9euwpa85r4esggk4sqr - Consolidation
-
 
 - 0x531c54061f220601d4494791a284e3d825b42571 exch depo
 - 0xf80227fb1ff872005f0442699e0293b9dbdfc224 exch depo

@@ -17,7 +17,7 @@ Tags:: 💼 IT Workers
 —[@safemoon_knight](https://twitter.com/safemoon_knight/status/1710422140271403094)
 
 
-## On-chain
+## Onchain
 
 - transferOwnership https://bscscan.com/tx/0x197e93cb6c67d0a38dead02aae48be82cb52d80eb26d04be52f7a05bffe7c72e
 

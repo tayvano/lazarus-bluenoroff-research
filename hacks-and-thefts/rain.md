@@ -27,7 +27,7 @@ Directly following initial thefts, all assets swapped for BTC and ETH via Change
 
 AWS, VPN interface, VULTR, Bitgo, Exodus in-app swaps
 
-## On-chain
+## Onchain
 
 On May 14-16, 2024 funds were moved and depositted to a mixer:
 

@@ -17,7 +17,7 @@ Around $43M of assets were transferred from CoinEx hotwallet addresses to EOAs a
 
 The cryptocurrency exchange CoinEx suffered a hacker attack. The cause of the incident was initially determined to be the leakage of hot wallet private keys. The damage caused is estimated to have reached US$70 million, and the impact has affected multiple blockchains. CoinEx tweeted that it had identified and quarantined suspicious wallet addresses related to the hack and that deposit and withdrawal services had been suspended. On September 13, SlowMist found during the analysis process that CoinEx hackers were related to Stake.com hackers and Alphapo hackers. CoinEx hackers may be the North Korean hacker group Lazarus Group.
 
-## On-Chain
+## Onchain
 
 - ETH 0x483d88278cbc0c9105c4807d558e06782aeff584  Theft 1
 - ETH 0x1a61df134d766f1e240fbfaee79bbecc04195f62  Theft 1b
@@ -81,7 +81,7 @@ The cryptocurrency exchange CoinEx suffered a hacker attack. The cause of the in
 - TFp4V3S9JqJyQAMMCewyn4aAaLueJwzS7H  CoinEx  Hot Wallet
 - https://eosflare.io/account/coinexhot111    CoinEx  Hot Wallet
 
-## On-Chain Theft IoCs
+## Onchain Theft IoCs
 
 - 174.128.251.99
 

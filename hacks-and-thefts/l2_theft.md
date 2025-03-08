@@ -9,7 +9,7 @@ Amount Stolen: $893,000
 Malware suspected, never found
 
 
-## On-Chain
+## Onchain
 
 - Victim: 0x832cb06491a4b625c11ae763779eb238eace3acd
 

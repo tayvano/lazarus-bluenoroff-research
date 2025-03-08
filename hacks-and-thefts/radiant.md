@@ -26,7 +26,7 @@ Add'l Signers:
 - 0xBc565990D1b406C0cB6f458B60aD29a8ebd0CE52 (New)
 - 0x28a664Bd3962eec459B6f3477E0EeADC1fa0B926 (New)
 
-## On-chain
+## Onchain
 
 ### SAFE Transactions
 

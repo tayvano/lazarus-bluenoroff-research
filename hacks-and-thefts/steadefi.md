@@ -21,7 +21,7 @@ Steadefi, a DeFi service built on Avalanche and Arbitrum, faced a $1.14M hack. T
 
 "The exploiter has also paused the farms contract, which means that if you (and the majority of everyone is) has your svTokens or ibTokens deposited in the farms, you will not be able to withdraw them as well. However, the exploiter is also unable to withdraw them."
 
-An on-chain message was sent to the exploiter's wallet address for negotiation: https://etherscan.io/tx/0xdfc31c31e07f9007a15680e9c98a4d523cc440d4349515cebf22196086c889d4
+An Onchain message was sent to the exploiter's wallet address for negotiation: https://etherscan.io/tx/0xdfc31c31e07f9007a15680e9c98a4d523cc440d4349515cebf22196086c889d4
 
 > Steadefi would like to discuss a bounty with any parties who were involved in the recent Steadefi exploit. We are offering a 10% bounty of any funds stolen, which are yours to keep if you return the remaining 90%.
 
@@ -43,7 +43,7 @@ An on-chain message was sent to the exploiter's wallet address for negotiation: 
 - This attack is likely part of a broader Lazarus Group campaign of spearphishing on Telegram, targeting the cryptocurrency industry (see figure 11 and see para. 188).
 
 
-## On-Chain
+## Onchain
 
 - 0x9cf71f2ff126b9743319b60d2d873f0e508810dc Exploiter 1 
 

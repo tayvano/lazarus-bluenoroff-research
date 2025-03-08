@@ -59,7 +59,7 @@ The Founder/CEO and project spoke about the exploit a bit on Twitter/X, though g
 
 
 
-## On-chain - Jan 25
+## Onchain - Jan 25
 
 - 0x9249e360dc6f4d2871187acde4fe38d4e13a7703 - Irrigation Protocol: Deployer
 - 0x35ea7aa2b9706a05cc932a7350a5e5a7d80619bf - DiamondCutFacet Contract
@@ -73,7 +73,7 @@ The Founder/CEO and project spoke about the exploit a bit on Twitter/X, though g
 - 0xe8dfa9c13cab87e38991961d51fa391aabb8ca9c - Safe address of supergnus.eth
 - 0x1db4d664d818d4c710d0aeb2d7d6b3ad885a8f19 - Direct Theft from Genius Ventures - Receives from OKX Exploiter 0 & 3
 
-## On-chain - May 5
+## Onchain - May 5
 
 - 0x1804deca63705e18edf04f242b325bcd54a8b463 - GNUS.ai: Deployer (Malicious)
 - 0x8c10c2867384c87d5a555e4f96c7036336b575c6 - TokenManagerProxy Contract (Malicious)

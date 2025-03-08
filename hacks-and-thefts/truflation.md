@@ -21,7 +21,7 @@ All funds consolidated @ 0xb1CF7880351E6D16313C03a6686B4c8a5bA6372a on Ethereum 
 Telegram, Twitter, Facebook were taken over by the threat actors at the time of the theft. However there has not (yet) been any indication of them being used to do anything (?).
 
 
-## On-chain
+## Onchain
 
 
 ### Victim / Compromised

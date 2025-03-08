@@ -7,7 +7,7 @@ Date:: August 9th, 2018
 Tags: Unreported, Private Key Compromise, ICO Theft
 
 
-## On-Chain
+## Onchain
 
 - Found via reused 0xbdca33ff9466035bb8938772bba6c91d72c7444d 0x40f389cba4ee49e67fac6425989b793eeeea1fe1 0xb478537c7962ec42c1e005682a750a79d86960cf addresses
 - Victim: 0x0da98b846476641bd38d0776eeb98f30c6d61a39

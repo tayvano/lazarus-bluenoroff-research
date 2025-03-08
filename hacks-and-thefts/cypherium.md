@@ -25,7 +25,7 @@ Min contribution was 20th hence why lots of ~20ETH TX to this.
 
 
 
-## On-Chain
+## Onchain
 
 - 0x3d6498f3b4d2a5f6fe5b859e98e4cbdf155f52d6
 

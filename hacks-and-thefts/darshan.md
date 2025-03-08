@@ -12,7 +12,7 @@ Tags:: 🔑
 ## Details
 
 
-## On-chain
+## Onchain
 
 
 ## Connections

@@ -15,7 +15,7 @@ Tags:: 👛 CEX Hack
 An attack in which approximately $41 million in virtual currency was stolen, possibly as a result of a stolen private key. The FBI issued a press release on September 6th confirming that the Lazarus Group was behind this attack.
 
 
-## On-Chain
+## Onchain
 - ETH: 0x3130662aece32f05753d00a7b95c0444150bcd3c
 - ETH: 0x94f1b9b64e2932f6a2db338f616844400cd58e8a
 - ETH: 0xba36735021a9ccd7582ebc7f70164794154ff30e

@@ -34,7 +34,7 @@ Also on April 2, 2024 0x7829afa127494ca8b4ceef4fb81b78fee9d0e471 transfers the o
 Also on April 2, 2024 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 (which also receives funds from both the Cloud AI and Murall exploits) receives $276k MEOW Token from 0xc33f704415384d63765e9200cbcfccf3536fe137
 
 
-## On-chain - March 16
+## Onchain - March 16
 
 - 0xd393224e6ebbfb46c6a09a6fd8acc596f6392402 - Compromised Contract
 - 0x956234670110d154abb591fb46fc3b5a455a3c97 - Compromised Contract
@@ -51,7 +51,7 @@ Also on April 2, 2024 0xee2e4fbe10a437e1b1561687d4e5133dd397ab96 (which also rec
 - 0x7f0756D3aAAa6E8A34d29e6E8A7a78617d8fF662 - Theft -> Tornado Cash (515.5 ETH)
 
 
-## On-chain - April 2
+## Onchain - April 2
 
 - 0x7f3a152f09324f2aee916ce069d3908603449173 - Compromised
 - 0x621863fd50cad605f832c5f4989ada63b536b180 - Compromised

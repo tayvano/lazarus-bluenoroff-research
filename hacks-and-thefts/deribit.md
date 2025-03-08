@@ -25,7 +25,7 @@ The total funds lost are:
 Client assets and cold addresses were not affected, and the loss will be paid by the company said on official Twitter.
 
 
-## On-Chain
+## Onchain
 
 ### Theft Addresses:
 

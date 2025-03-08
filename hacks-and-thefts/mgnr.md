@@ -29,7 +29,7 @@ Amount Stolen:: $24,100,000
 > we thank all exchange / venture / trading partners for being patient during this time and can assure everyone that we'll be back up and running soon (tm)
 
 
-## On-Chain
+## Onchain
 
 - 0x57737d6f8ea0099c30c96754a436e46d4dd3fa80 - Primary Attacker
 - 0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc

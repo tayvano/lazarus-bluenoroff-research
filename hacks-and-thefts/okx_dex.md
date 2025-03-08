@@ -40,7 +40,7 @@ The proxy admin owner upgraded the DEX proxy contract to a new implementation co
 - https://cointelegraph.com/news/okx-dex-2-7-m-exploit-proxy-admin-contract-upgrade
 
 
-## On-Chain
+## Onchain
 - 0x70cbb871e8f30fc8ce23609e9e0ea87b6b222f58 - OKX DEX Contract (Victim)
 - 0xf85f008fe404d4d2cc2196175e1328545f47b8cd - OKX DEX Compromised Key
 - 0x0d8fd76cedccc2b386972cad7fa567daa1fd70a1 - OKX DEX Compromised Key

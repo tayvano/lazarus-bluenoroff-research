@@ -25,7 +25,7 @@ The PAID attacker took advantage of poor Private Key Compromise practices at PAI
 
 
 
-## On-Chain
+## Onchain
 
 0x18738290af1aaf96f0acfa945c9c31ab21cd65be
 

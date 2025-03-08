@@ -67,19 +67,15 @@ Amount Stolen:: $77,000
 - 2024-Oct-19 07:31 - One more consolidation
 - 2024-Nov-11 00:42 - to eXch
 
-- userIp : 50.114.45.115
-
-- timeZone : Asia/Tokyo (GMT+0900)
-
-- userAgent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-
-- acceptLanguage : en-US,en;q=0.9,ko;q=0.8 
-
-
-
+- 50.114.45.115
+- Asia/Tokyo
+- Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+- en-US,en;q=0.9,ko;q=0.8 
 
 
 ### Foresight Ventures
+
+- 0x589761dbfc4cd374e7e4da72f2cbd08eca3141f7 - Theft (25 ETH)
 
 - Fake Min (Foresight Ventures)
 - Fake "Iris Lo" (Foresight Ventures)
@@ -88,4 +84,3 @@ Amount Stolen:: $77,000
 - https://x.com/0xmin3/status/1856138297065746925
 - https://x.com/ForesightVen/status/1851084770861846927
 
-- 0x589761dbfc4cd374e7e4da72f2cbd08eca3141f7 - Theft (25 ETH)

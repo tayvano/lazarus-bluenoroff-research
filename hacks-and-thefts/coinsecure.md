@@ -19,7 +19,7 @@ According to a statement on the company’s website, the funds were lost as a re
 The private key of the hot storage was compromised and was released online. Since all data log has been removed from the system, the root cause of the hacking was not identified. CSO of the exchange allegedly claimed that the theft was due to the cyberattack. However, CEO of the exchange blamed the CSO for the incident, since he was the only person who managed the private key.
 
 
-## On-Chain
+## Onchain
 
 - Primary Theft Address: 1BaEJquitskdXcTj53Uy6PuUtJ5a8ETWpA
 

@@ -8,10 +8,10 @@ It appears an individual had multiple keys compromised and drained, including at
 
 Based on laundering and co-mingling with other identified thefts, including the Steadefi hack, it's likely the result of malware via malicious Google Drive phishing.
 
-Individual appears to be a long-time leader in the same, founding his own Web3 company and active both on-chain and on-Twitter prior to the theft and since the theft.
+Individual appears to be a long-time leader in the same, founding his own Web3 company and active both Onchain and on-Twitter prior to the theft and since the theft.
 
 
-## On-Chain
+## Onchain
 
 ### Compromised (Victim) Addresses:
 - 0x9e68d31fa10ab3702495c77bb2fb5263975b2625

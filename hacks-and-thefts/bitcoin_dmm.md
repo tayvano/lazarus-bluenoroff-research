@@ -32,7 +32,7 @@ I get why people are saying it but the vector of this attack looks much more lik
 
 1. That 0.1 BTC fee on the theft txn. No way. They would never (and had never) before. The attacker wanted to expedite confirmations / didnt give a fuck.
 
-2. That suspect address poisoner (1B6rJRfjTXwEy36SCs5zofGMmdv2kdZw7P) wasn't even on-chain prior to the attack.
+2. That suspect address poisoner (1B6rJRfjTXwEy36SCs5zofGMmdv2kdZw7P) wasn't even Onchain prior to the attack.
 
 3. They would still need to want to send 4503 BTC for some reason and just fucked up the address portion. Based on history, this makes no sense.
 
@@ -91,7 +91,7 @@ So they construct the largest, lowest-risk txn they could figure, crank the fee 
 
 
 
-## On-chain
+## Onchain
 
 - 975ec405ac9dc9fa5ab8009d94d6a1fe31dff8a8127ea90d023104e52754e4d7 - Theft Txn
 
@@ -122,7 +122,7 @@ So they construct the largest, lowest-risk txn they could figure, crank the fee 
 
 
 
-## More On-chain (Zach's Work)
+## More Onchain (Zach's Work)
 
 - https://chainabuse.com/report/7a1ce276-3347-43d2-8b16-c1a7cf2bfaf3
 

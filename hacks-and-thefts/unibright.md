@@ -35,7 +35,7 @@ ON September 11, 2020 the Unbright team noticed unauthorized transfers of $400K 
 
 
 
-## On-chain
+## Onchain
 
 - 0x6c6357f30fcc3517c2e7876bc609e6d7d5b0df43 - Theft
 

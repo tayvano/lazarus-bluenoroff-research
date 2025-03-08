@@ -29,7 +29,7 @@ It is not clear how Cryptopia was hacked, but investigators discovered in August
 
 
 
-## On-Chain
+## Onchain
 
 - 0xc8b759860149542a98a3eb57c14aadf59d6d89b9
 - 0xaa923cd02364bb8a4c3d6f894178d2e12231655c
