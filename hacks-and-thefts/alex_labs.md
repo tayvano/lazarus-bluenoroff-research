@@ -16,6 +16,7 @@ Bitcoin DeFi application ALEX Lab was drained of over $4.3 million in various to
 Hackers transferred over $300,000 USD worth of BTC, $3.3 million USD worth of stablecoins, and $75,000 USD worth of Sugar Kingdom (SKO) tokens.
 
 An attacker tried to pull off what could have been a ~$12 million heist from ALEX Lab's XLink bridge after a private key was compromised. However, the sloppy work by the attacker enabled an apparent whitehat hacker to step in.
+
 The attacker was successfully able to transfer around 13.8 million STX (~$2 million) on the Stack BTC layer-2 chain. However, their attempts to steal assets notionally worth around $4.3 million from the project's BNB Chain implementation failed when they upgraded the project contract to a malicious version, but failed to prevent other people from calling the withdraw function. The attacker's first transactions to withdraw the funds themself failed, and an apparent whitehat hacker was able to step in and complete the withdrawal ahead of the exploiter. They later negotiated a deal for the funds' return, after offering a 10% "bounty".
 
 The exploiter had also tried, and failed, to steal assets notionally worth around $5 million on the Ethereum blockchain, but failed to do so. ALEX Lab later announced they were able to recover or secure around $4.5 million of those assets.
@@ -23,7 +24,7 @@ The exploiter had also tried, and failed, to steal assets notionally worth aroun
 On 14th May, CertiK’s internal alerting system detected a suspicious transfer of $4.3 million worth of assets to a wallet on the Binance Smart Chain, with an additional 13.7 million STX worth $2 million that was transferred to a malicious address. The incident was due to a private key compromise of the project’s deployer which has been confirmed by the project since the attack. The funds that were affected on BSC were front run by a wallet who has begun negotiations to return the assets to the project. At the time of writing, the funds affected total $6.3 million.
 
 
-### On-chain
+### Onchain
 
 - 0xb3955302E58FFFdf2da247E999Cd9755f652b13b Victim Proxy Contract
 - 0x3e8C9490687dFC26c5621dd63CE9C3d415b405ed Attacker
@@ -152,20 +153,20 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 
 ### Personal/Test Wallets
 
+**0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974** is the personal wallet of one of the guys, clearly.
+
+
 Nov 26 2023 withdraws 10x100 from TC:
 - 0x1ac089a4135feed394a2985dadaed14994498f85
 - 0x4509e930fd366bacd9e6cc64be4e706765046248
 
-Dec 1 2023 sends $635k / Dec 3 2023 sends $1.48m to
+Dec 1 2023 sends $635k / Dec 3 2023 sends $1.48m and is immediately laundered:
 - 0xd110a4f0a80b774eca0a6eac1552fff20dadd0a3
 - 0x81a4869e941ca22d1a0ecff934abf87976d4578a
-
-Is immediately laundered.
 
 Dec 15 2023 0x81a4869e941ca22d1a0ecff934abf87976d4578a sends leftover $1.7k to:
 - 0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974
 
-**0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974** is the personal wallet of one of the guys, clearly.
 
 - May 10, 2024 7:57:35 AM: ALEX Stuff
 
@@ -179,9 +180,7 @@ Dec 15 2023 0x81a4869e941ca22d1a0ecff934abf87976d4578a sends leftover $1.7k to:
 ## URLs
 
 - https://twitter.com/ALEXLabBTC/status/1790611871986331855
-
 - https://certik.com/resources/blog/alex
-
 - https://twitter.com/ALEXLabBTC/status/1791020176332230988
 
 
