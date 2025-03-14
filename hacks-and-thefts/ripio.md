@@ -23,6 +23,10 @@ Tags:: 🔐
 - 0x13c7f319bda68014dc62213139701e26b9a0023e - Victim
 
 - 0x0c539212cc49c1fac1e9e06e27a9fb3ca4a369b0 - Direct Theft
+- 157pQuxaT1J1oGaNZScBt2RTJmvqPfh1ZX - Direct Theft
+
+- bc1q98ru749pphj7ptpr04lekg40ljhv25z29xk6az
+- bc1qch8ghltxu63nqq7hd6al40kthwk5c6k657668m
 
 
 
