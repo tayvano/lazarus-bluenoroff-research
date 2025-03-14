@@ -429,7 +429,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔐 | 2025-Feb-17 | [Ripio](./hacks-and-thefts/ripio.md)                                                             | $7,800,000         |
 | 👛 | 2025-Feb-21 | [Bybit](./hacks-and-thefts/bybit.md)                                                             | $1,500,000,000     |
 | 🔑 | 2025-Feb-28 | [Theft from CEO of A6](./hacks-and-thefts/a6.md)                                                 | $410,000           |
-| 🔑 | 2025-Mar-01 | [Unknown - March 1 2025](./hacks-and-thefts/march2025.md)                                        | $3,200,000         |
+| 🔑 | 2025-Mar-01 | [Unknown - March 1 2025](./hacks-and-thefts/mar2025.md)                                          | $3,200,000         |
 | 🔑 | 2025-Mar-07 | [Theft from CEO of B3](./hacks-and-thefts/b3.md)                                                 | $3,186,200         |
 |    | **2025**    | **TOTAL**                                                                                        | **$1,601,381,904** |
 
