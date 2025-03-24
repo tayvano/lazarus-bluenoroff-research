@@ -43,13 +43,14 @@ https://x.com/hackenclub/status/1903153015818781150
 
 #### Source of Funds - March 14
 
-- 0x8ffeffe3979eee91cda24e4b7ca8b26dfe40074b - Zoth SOF - CEX Output
-- 0x47cb5f94e6f4aac5029960d99ddc4f0d54a0c760 - Zoth SOF - CEX Output
-- 0x8d6e8f7aa6c7c8db835186787bbaf4afc29c8c72 - Zoth SOF - CEX Output
-- 0xdf7a16f3b556131f99262eec535e58cd1f365bf0 - Zoth SOF - Consolidation
-- 0xfe2c5c752ecd03d4c644e9492cf1827952d1b950 - Zoth SOF - Allbridge to TRON
+
+- 0x8d6e8f7aa6c7c8db835186787bbaf4afc29c8c72 - Zoth SOF - CEX Output $330k (Jan 13, 2025 12:26 AM)
+- 0x47cb5f94e6f4aac5029960d99ddc4f0d54a0c760 - Zoth SOF - CEX Output $371k (Jan 13, 2025 1:34 AM)
+- 0x8ffeffe3979eee91cda24e4b7ca8b26dfe40074b - Zoth SOF - CEX Output $368k (Jan 13, 2025 2:50 AM)
+- 0xdf7a16f3b556131f99262eec535e58cd1f365bf0 - Zoth SOF - Consolidation (Jan 13, 2025 5:52 AM)
+- 0xfe2c5c752ecd03d4c644e9492cf1827952d1b950 - Zoth SOF - Allbridge to TRON $932k (Mar 14 6:38 AM)
 - TFwR6PHFRdkbz2eKmZHagNjWJ6PAYNvFst - from Allbridge
-- TRGXGdEcC9Mr7UGJeJcfmfKpYPmw8CnwyT - ChangeNow Depo (Mar 14 2025)
+- TRGXGdEcC9Mr7UGJeJcfmfKpYPmw8CnwyT - ChangeNow Depo (Mar 14 2025 12:47)
 - 0x3b33c5cd948be5863b72cb3d6e9c0b36e67d01e5 - ChangeNOW Output  (Mar 14 2025)
 
 
