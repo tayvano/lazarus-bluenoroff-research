@@ -151,6 +151,60 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 - 0xe381680d05057e20ac54978ddb3a345acc7bb42a - To Railgun June 30-July 1 - $1.55m
 - 0xa20d83d25bcaacd5f8174b54367b9958ac02ee44 - From RG
 
+
+### More from STX Laundry - Dec 18-20 2024 - $2,500,000
+
+- $2,087,000 via Coinbase
+- $168k via OKX
+- $96k via Gate
+- $81k via Kraken
+- $42k via CoinW
+- $21k via Whitebit
+
+- SP3BYYEWFEAZX3A4HM0B9E0MAZFGHP62BVQ46MHMA From Initial Stolen Funds
+
+- SPM0HTDM7G3JN3ETDH7W0F0STD4EHQ5268X4EF8C 1 Hop Tranches
+- SP2Y56NCZT05CJX1GWFFYZ9KB0Z44GHE65461Z6NR 1 Hop Tranches
+- SP2GZ3TPYCHYK7NH8JWKPG69X8ND9DFX9XNY4C3T2 1 Hop Tranches
+
+- insert 4 more hops and hundreds of addresses here
+
+- SP2EFY5Z69FH1WXSWDV1M8F6E4F1340TNTB5Z74NY Deposit Address (Coinbase)
+- SP3M4AG92Q3FQWHYQPG98FVCRBT2X59JJFEGS1ED0 Deposit Address (Coinbase)
+- SP276V832XBDG0Z9ECQ6RZ2TA25AB6WJY8GN12G7J Deposit Address (Coinbase)
+- SP1A93SCBPWCTT9YQRRWV30H03309PD9NSY0NYSW2 Deposit Address (Coinbase)
+- SP2N9DJA05H43CE946ZEKCM7CP6ME8MP9C49PYNMA Deposit Address (Coinbase)
+
+- 0xae76ba497c211a7e1c33dadc8863c0b3e1210622 Withdrawal Addresses (Coinbase)
+- 0xf5e80cedb44d2dcdf9ec76b4fa46daebeb1eb5ef Withdrawal Addresses (Coinbase)
+- 0x1fe03a31338795d3249a8dc64b4faf944b1390db Withdrawal Addresses (Coinbase)
+- 0x5e097095c8dbc1485f70e975d39ee3f84b5b99d8 Withdrawal Addresses (Coinbase)
+- 0xec6ae1038a2f6822abd52b625508f44ed30948bd Withdrawal Addresses (Coinbase, Kraken, CoinW, OKX, FixedFloat)
+- 0xaa92124c4805476f09b1445e72ee1d190f7eb34d Withdrawal Addresses (Coinbase)
+- 0xec79fb56d8ca400e951778caa3d63babf2522109 Withdrawal Addresses (Coinbase)
+- 0x54719ed916b80942660623c598ccf385143697bc Withdrawal Addresses (OKX)
+- 0xdaf996a586eaf6d0fee5ce175683cb1d58c28fa2 Withdrawal Addresses (OKX, FixedFloat)
+- 0x5b5b892b56e45c262bcb2f363cb173f0c8fc2e02 Withdrawal Addresses (Gate, FixedFloat)
+- 0x12c4a5cc80624118170804b4c17c2d3f2968262a Withdrawal Addresses (Gate, FixedFloat)
+
+- 0x48b886a7b6f5dcdaf1dd0f070126a946869f5334 Consolidation of the above
+
+- TXxAihDJVezZ7s8tx8n9ysnMAvjCnrbq9K from Consolidation vs Allbridge
+- TJcbNZZkzJgp6XcEbpEBx32TAuMkwuGZzL from Consolidation vs Allbridge
+- TLsUeBvdy2NNJpxo83U7xtnYmSsFMFSVLz from Consolidation vs Allbridge
+
+- Note: FixedFloats for gas from TLDEPVvBSjcQq2tc7HixdSkuE9F5kqW9hg, per usual
+
+
+
+
+
+
+
+
+
+
+
 ### Personal/Test Wallets
 
 **0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974** is the personal wallet of one of the guys, clearly.
@@ -176,6 +230,12 @@ Dec 15 2023 0x81a4869e941ca22d1a0ecff934abf87976d4578a sends leftover $1.7k to:
 - 0x5b70ef457f1ffcd5b1c9566725f23c23cb8c4ced receives dust from 0x3b7c7f075c597ad2aa763526b32fbc285432dd73 on June 27 2024
 - 0x3b7c7f075c597ad2aa763526b32fbc285432dd73 received launderd STX from Bitget on June 17 2024
 - 0x3b7c7f075c597ad2aa763526b32fbc285432dd73 also sends to 0x4927f5848a85738210f08262fd04e568e0a34fab, which is another peronsal wallet 
+
+
+
+
+
+
 
 ## URLs
 
