@@ -44,7 +44,7 @@ The Founder/CEO and project spoke about the exploit a bit on Twitter/X, though g
 > There is also roughly another $500k in fees locked until February 2025. we can add back in.
 > We will then focus on bridging in the future and just work on the AI processing
 
-– [X:SuperGeniusEth (CEO/Founder) - May 5, 2025 17:07 UTC](https://twitter.com/SuperGeniusEth/status/1787167358706196758)
+– [X:SuperGeniusEth (CEO/Founder) - May 5, 2024 17:07 UTC](https://twitter.com/SuperGeniusEth/status/1787167358706196758)
 
 
 > It turns out that the https://GNUS.ai contract wasn't hacked/compromised.

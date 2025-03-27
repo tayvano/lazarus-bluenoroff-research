@@ -4,7 +4,7 @@ Amount Stolen:: $110,000
 
 December 5th, 2024
 
-Tags:: Contagious Interview
+Tags:: 🎙️ Contagious Interview
 
 ---
 
@@ -90,9 +90,6 @@ Amount Stolen:: ~$100k from numerous victims
 - 0xb2633de13370d628e7dff1aba2ae07317f350ecc 
 - 0x55d398326f99059ff775485246999027b3197955 
 - 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913 
-
-
-
 
 
 https://www.chainabuse.com/report/dca4bb04-3e13-4460-b609-5cecaf7ba87d?context=search-address&a=0x505b8abf47bbc62d4f51d67ce8dcd0e20d26d43a&chain=ETH

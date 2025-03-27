@@ -29,7 +29,6 @@ https://medium.com/@MetaCene_Official/important-message-for-metacene-community-5
 0x794e8912a90fe1c0fd1dd1ee17e3c6b4fff3c495 - Victim
 0x2cd68787646544b8a97488c32cd0455f4bd4fe01 - Victim
 0x164d4223b6e62359f13651bfe87a7c8e0d0c57f9 - Victim
-
 0x00ffe80a61098d72f74475fb5064012a2f2931fe - Theft (primary)
 0x789c6d26ae775d92f6a9e7d790dcfd4326300377 - Theft
 0x91657e4d4146efc6713e699a267bc8176f633fe4 - Theft
@@ -47,18 +46,14 @@ https://medium.com/@MetaCene_Official/important-message-for-metacene-community-5
 0x857c1ca2ae0fe3a064be3ae435b2c172ba43c475 - Theft
 0x92e5bbecf200ec49ceeec6fa3972d64ba123c817 - Theft
 0xc3b9d350d7df8dd602ec4874819e4d17fd159e79 - Theft
-
 0x7433112c5f3a9f517c404b7f1cd69a988930305a - Bitget Depo (27,067,095 MAK)
 0x90c53b24be852cf2af46490c5484c23fd7bb0b79 - Bitget Depo  (7,888,888 MAK)
 0x6df206112578a9304c6e4b7a479192e4b976fea7 - Bitget Depo (14,855,579 MAK)
 0x7552ffe139f95c705b96a2016475bb8503f2c2de - Gate.io Depo (4,111,111 MAK)
 0xf60e1d2b5bf50d95380176fd8bd04a9572dd996d - Kucoin Depo  (5,169,566 MAK, shared with prior thefts)
-
 0xca14d964c33042ef57b4f523e1b9d69e5a7f4d6d - Withdraws from Bitget
 0xd0ee0a55383f6e90a9d608860b802f60fa2cb1e9 - Withdraws from Bitget
 0x0db4a9390e72360e422ae281fd46159a6a0f8ba5 - Withdraws from Bitget
-
-
 0xa555eeb54a0ef5e5999531167876d98ba5826955 - Cryptomus Depo        4.8 ETH              $17,169
 0x3826ea84f5fdb5e6f27bd0a4b8c0341036f424a6 - FixedFloat Depo       12 ETH               $42,924
 0xfa2ec0b4eeab43437a5a439fc894ee044cb6fd8d - FixedFloat Depo       10 ETH               $35,770

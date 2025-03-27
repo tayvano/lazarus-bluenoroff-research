@@ -32,7 +32,6 @@ Tags:: 🔑 SquidSquad
 - 0x4b984d51c168e29f05edcd85299f98c58bb8f444 - Victim
 - 0x618bb5466c13747049af8f3b237f929c95de5d7e - Victim BSC
 - 0x6b4679c15762da4b0fb5eafbde6ae81578aa23c2 - Victim BSC
-- 0x76ddee8d2a59deeb64025850b6313718f0112858 - Victim
 - 0x886d0bdb4e0f27c215548ce6b53ae99456d2e5e5 - Victim ARB BSC
 - 0xa23a69cb8ae1259937f1e6b51e76a53f3deaa988 - Victim BSC
 - 0xab2234d610a8396323ba1cfe38f17f995aed27f0 - Victim BSC

@@ -4,6 +4,8 @@ Date:: March 21st, 2025
 
 Amount Stolen:: $8,361,915
 
+Time:: 8:46 AM
+
 Tags:: 🔑
 
 ---
@@ -41,20 +43,10 @@ https://x.com/hackenclub/status/1903153015818781150
 - 0x54a34ac0cef536f791197cc7209dbba0bee916a8 - Zoth Tester 3
 - 0x16b936e9be1d840198c57d9a3a4d70639bec474e - Zoth Tester 4 (Feb 7-Mar 20)
 
-#### Source of Funds - March 14
 
 
-- 0x8d6e8f7aa6c7c8db835186787bbaf4afc29c8c72 - Zoth SOF - CEX Output $330k (Jan 13, 2025 12:26 AM)
-- 0x47cb5f94e6f4aac5029960d99ddc4f0d54a0c760 - Zoth SOF - CEX Output $371k (Jan 13, 2025 1:34 AM)
-- 0x8ffeffe3979eee91cda24e4b7ca8b26dfe40074b - Zoth SOF - CEX Output $368k (Jan 13, 2025 2:50 AM)
-- 0xdf7a16f3b556131f99262eec535e58cd1f365bf0 - Zoth SOF - Consolidation (Jan 13, 2025 5:52 AM)
-- 0xfe2c5c752ecd03d4c644e9492cf1827952d1b950 - Zoth SOF - Allbridge to TRON $932k (Mar 14 6:38 AM)
-- TFwR6PHFRdkbz2eKmZHagNjWJ6PAYNvFst - from Allbridge
-- TRGXGdEcC9Mr7UGJeJcfmfKpYPmw8CnwyT - ChangeNow Depo (Mar 14 2025 12:47)
-- 0x3b33c5cd948be5863b72cb3d6e9c0b36e67d01e5 - ChangeNOW Output  (Mar 14 2025)
 
-
-#### Source of Funds - Feb 7
+#### Source of Funds - Feb 7, 2025
 
 - bc1qkc3lgyql6ww4u8qxshvl6h9f5nqswjppwtyfza - Sep 05 2022–Apr 21 2024 (Bondly, EasyFi, etc.)
 - bc1q4980rejn62a49g8la2fg35lw4anv07qtadwu59 - Apr 21 2023-Nov 24 2023
@@ -72,6 +64,18 @@ https://x.com/hackenclub/status/1903153015818781150
 
 
 
+
+#### Source of Funds - Mar 14, 2025
+
+
+- 0x8d6e8f7aa6c7c8db835186787bbaf4afc29c8c72 - Zoth SOF - CEX Output $330k (Jan 13, 2025 12:26 AM)
+- 0x47cb5f94e6f4aac5029960d99ddc4f0d54a0c760 - Zoth SOF - CEX Output $371k (Jan 13, 2025 1:34 AM)
+- 0x8ffeffe3979eee91cda24e4b7ca8b26dfe40074b - Zoth SOF - CEX Output $368k (Jan 13, 2025 2:50 AM)
+- 0xdf7a16f3b556131f99262eec535e58cd1f365bf0 - Zoth SOF - Consolidation (Jan 13, 2025 5:52 AM)
+- 0xfe2c5c752ecd03d4c644e9492cf1827952d1b950 - Zoth SOF - Allbridge to TRON $932k (Mar 14 6:38 AM)
+- TFwR6PHFRdkbz2eKmZHagNjWJ6PAYNvFst - from Allbridge
+- TRGXGdEcC9Mr7UGJeJcfmfKpYPmw8CnwyT - ChangeNow Depo (Mar 14 2025 12:47)
+- 0x3b33c5cd948be5863b72cb3d6e9c0b36e67d01e5 - ChangeNOW Output  (Mar 14 2025)
 
 
 
