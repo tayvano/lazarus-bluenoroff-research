@@ -104,6 +104,7 @@ Also associated with:
 | 2024-Jan-30 | MIM/Spell                                                       |                                                                 |
 | 2024-Feb-01 | Affine DeFi                                                     | Retweet                                                         |
 | 2024-Feb-02 | Unknown 0xde46 (funded by Pine Protocol Exploiter)              |                                                                 |
+| 2024-Feb-02 | Uniswap Frontend (got blocked lolol)                            | Also retweets Micah's uncensored Uniswap frontend lol           |
 | 2024-Feb-04 | Burned Finance                                                  |                                                                 |
 | 2024-Feb-04 | Reservoir Finance                                               | Retweet                                                         |
 | 2024-Feb-05 | Compound Forks like Onyx, Hundred                               |                                                                 |
@@ -113,6 +114,7 @@ Also associated with:
 | 2024-Feb-13 | ERC404 AZUMA Token                                              |                                                                 |
 | 2024-Feb-13 | Synthetix                                                       |                                                                 |
 | 2024-Feb-14 | Minerercx                                                       | Retweet                                                         |
+| 2024-Feb-14 | SEAL (Announcement post)                                        | "What's this project for"                                       |
 | 2024-Feb-17 | Something Aave                                                  | "not a hacking tx"                                              |
 | 2024-Feb-20 | LeagueDAO                                                       |                                                                 |
 | 2024-Feb-21 | ERC404 / DN404                                                  |                                                                 |
