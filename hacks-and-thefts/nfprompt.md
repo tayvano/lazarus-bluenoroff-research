@@ -32,7 +32,6 @@ https://x.com/nfprompt/status/1768558658697433464
 - 0x388617a47f9ed66ef58b55e1f8cbad4eba13d9e1 - Gnosis Safe
 - 0x47fe9c383e74d8976e0da0ff933a55fbf430f27c - Gnosis Safe
 - 0x5a7834db0dceee1d6ce756701b039bc27098a3ab - Theft
-- 0xb6860256adc6e27ba14dc89da9895a609380b404 - Theft March 2024
 - 0x5651563fb6350b3a22360bff42306ccbeb5ca66a - Theft March 2024
 - 0xe47499a3a11c4004c7af76a5c1ef47a0b1217e61 - Theft May 2024
 - 0x9ae032d2267172298dc5b9f16841c74fcd83df69 - Theft Nov 2024

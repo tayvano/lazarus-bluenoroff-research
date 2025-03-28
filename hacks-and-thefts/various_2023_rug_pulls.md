@@ -69,3 +69,8 @@ https://wearecultdao.medium.com/0xblock-exploited-5da3d0bbc00e#:~:text=It%20is%2
 - 0x0a0ed79f9FBbCc6b44A054d2608031818e391B3b
 - Hacker address: 0x11576cB3D8d6328cf319E85B10e09A228e84A8De
 - https://twitter.com/AnciliaInc/status/1660767088699666433
+
+
+
+
+
