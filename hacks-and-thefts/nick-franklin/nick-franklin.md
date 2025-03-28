@@ -1,44 +1,52 @@
 # Nick L. Franklin
 
-## Usernames
+# Usernames
 
-Discord: nicklfranklin 1202789307694448700
+- Discord: nicklfranklin 1202789307694448700
 
-TG:      defi_sec 6513796713 (banned by TG on Oct 15 2024) 
+- TG:      defi_sec 6513796713 (banned by TG on Oct 15 2024) 
 
-TG:      defi_sec 7656235284
+- TG:      defi_sec 7656235284
 
-TG:      nick_frank 7059003641 (now "John", used to be @defi_sec, sent the malware on Mar 26 2025)
+- TG:      nick_frank 7059003641 (now "John", used to be @defi_sec, sent the malware on Mar 26 2025)
 
-TG GC:   nick_security 2169234048
+- TG GC:   nick_security 2169234048
 
-X:       0xNickLFranklin https://x.com/0xNickLFranklin 2024-02-04
+- X:       0xNickLFranklin https://x.com/0xNickLFranklin 2024-02-04
 
-Github:  NickLFranklin 159243151 Created on: 2024-02-07 08:54
-
-
-## Details
-
-https://hackmd.io/@pcaversaccio/1inch-analysis-app-a-dprk-trojan-horse
-
-https://x.com/tayvano_/status/1904942559673397335
-
-https://x.com/tanuki42_/status/1905003047572361581
-
-https://x.com/blackbigswan/status/1905216069813285189
+- Github:  NickLFranklin 159243151 Created on: 2024-02-07 08:54
 
 
+# Context
 
-## Addressses
+- https://hackmd.io/@pcaversaccio/1inch-analysis-app-a-dprk-trojan-horse
+
+- https://x.com/tayvano_/status/1904942559673397335
+
+- https://x.com/tanuki42_/status/1905003047572361581
+
+- https://x.com/blackbigswan/status/1905216069813285189
+
+- https://x.com/danielvf/status/1905645327035564110
+
+
+
+# Addressses
 
 - 0xece8ebb0f1c31be085c1dd899299f01c0aec95a1 - asked for sepolia testnet eth, also radiant multisig signer tester
+
 - 0xccfe10cbc381dd6752fa34253a17e7e7c0cf7951 - radiant multiisg signer tester
+
 - 0xe8573455bdd31d1e2245bcc7ed64983818e0fcf6 - another nick franklin address
 
 
-## AQUA
+
+
+
+# AQUA
 
 ### github.com/techaqualoan
+
 - 183092826
 - 2024-09-27 12:56
 - Aqualoan
@@ -72,12 +80,263 @@ Also associated with:
 
 
 
-## Twitter Archives
+
+
+
+
+
+
+
+# Twitter
+
+## Archives
 
 - https://github.com/cipher-rc5/data/blob/main/nick-franklin-tweets_2024-04-15.json
 
+- https://t.me/dprkmember
 
-## Website Archives
+
+## Projects Mentioned
+
+
+| Date        | Incident                                                        | Notes                                                           |
+| ----------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
+| 2024-Jan-30 | MIM/Spell                                                       |                                                                 |
+| 2024-Feb-01 | Affine DeFi                                                     | Retweet                                                         |
+| 2024-Feb-02 | Unknown 0xde46 (funded by Pine Protocol Exploiter)              |                                                                 |
+| 2024-Feb-04 | Burned Finance                                                  |                                                                 |
+| 2024-Feb-04 | Reservoir Finance                                               | Retweet                                                         |
+| 2024-Feb-05 | Compound Forks like Onyx, Hundred                               |                                                                 |
+| 2024-Feb-05 | Raft, Radiant, MIM                                              |                                                                 |
+| 2024-Feb-06 | Reentrancy like TheDAO, Fei Protocol, Revest                    |                                                                 |
+| 2024-Feb-12 | 0x52d6 GAME                                                     |                                                                 |
+| 2024-Feb-13 | ERC404 AZUMA Token                                              |                                                                 |
+| 2024-Feb-13 | Synthetix                                                       |                                                                 |
+| 2024-Feb-14 | Minerercx                                                       | Retweet                                                         |
+| 2024-Feb-17 | Something Aave                                                  | "not a hacking tx"                                              |
+| 2024-Feb-20 | LeagueDAO                                                       |                                                                 |
+| 2024-Feb-21 | ERC404 / DN404                                                  |                                                                 |
+| 2024-Feb-22 | Blueberry                                                       |                                                                 |
+| 2024-Feb-22 | GAIN Token                                                      |                                                                 |
+| 2024-Feb-23 | Cult DAO                                                        |                                                                 |
+| 2024-Feb-23 | Not Zoomer Coin                                                 | "unverified contract was exploited"                             |
+| 2024-Feb-23 | Woo Fi                                                          |                                                                 |
+| 2024-Feb-25 | Same victim as "not zoomer" again                               |                                                                 |
+| 2024-Feb-27 | Puffer Finance                                                  |                                                                 |
+| 2024-Feb-28 | SHIDO Token                                                     | "rug pull"                                                      |
+| 2024-Feb-28 | Adderss Poisoning                                               | Retweet                                                         |
+| 2024-Feb-28 | Seneca                                                          | Retweet                                                         |
+| 2024-Feb-29 | Fake Discord Verification Scam                                  |                                                                 |
+| 2024-Mar-01 | Unverified Contract 0x5551                                      |                                                                 |
+| 2024-Mar-04 | Atlantis Loans                                                  | Quote tweet "revoke approvals"                                  |
+| 2024-Mar-05 | Ant God Share Coin and Home Gould Mine (HGM)                    | "I don't think this is hacking. Maybe this is rug pull"         |
+| 2024-Mar-05 | Woo Fi                                                          |                                                                 |
+| 2024-Mar-08 | Unizen                                                          |                                                                 |
+| 2024-Mar-13 | HTX/HECO Laundry                                                | Retweet                                                         |
+| 2024-Mar-13 | NFT Drainer Phishing                                            | Retweet                                                         |
+| 2024-Mar-13 | ScamSniffer                                                     | Quote tweet "a good and necessary tool."                        |
+| 2024-Mar-14 | IT Token                                                        |                                                                 |
+| 2024-Mar-14 | MO Token                                                        |                                                                 |
+| 2024-Mar-15 | Something with birdgeViaLifi?                                   | "not hacking due to contract vulnerability. Maybe rug-pull"     |
+| 2024-Mar-16 | TGBS Token                                                      | "maybe this is rug pull"                                        |
+| 2024-Mar-20 | ParaSwap                                                        |                                                                 |
+| 2024-Mar-21 | Airdao                                                          |                                                                 |
+| 2024-Mar-23 | Ark                                                             | Retweet                                                         |
+| 2024-Mar-25 | ZongZi                                                          |                                                                 |
+| 2024-Mar-25 | Contract 0xf77002b                                              | "revoke approvals"                                              |
+| 2024-Mar-26 | Munchables                                                      | [Nick: "why aren't you supporting Blast chain?"  Nick: "Have you analyzed root cause of this hacking?"  https://x.com/tayvano_/status/1905693266286391736 |
+| 2024-Mar-26 | Contract 0x634847 approvals to 0x0f77002                        |                                                                 |
+| 2024-Mar-26 | AstrAstro                                                       | "Maybe rugpull or private key leak."                            |
+| 2024-Mar-28 | Prisma Finance                                                  | "Everybody says they detected PrimsaFi hacking very fast, by why nobody analyze that?"  |
+| 2024-Mar-29 | Open Leverage                                                   |                                                                 |
+| 2024-Mar-29 | Uknown market 0x7746872                                         |                                                                 |
+| 2024-Apr-01 | ATM token hacking                                               |                                                                 |
+| 2024-Apr-02 | FixedFloat                                                      | Retweet                                                         |
+| 2024-Apr-05 | MEV Frontrunner Yoink                                           |                                                                 |
+| 2024-Apr-08 | UPS Token                                                       | ⭐ (this shit gets hacked like 10 times?????)                   |
+| 2024-Apr-08 | UPS Token                                                       | bskapo119 @bskapo1197135 "sync is called before skim"           |
+| 2024-Apr-08 | SQUID Crypto Coin                                               |                                                                 |
+| 2024-Apr-09 | lolwut                                                          | Nick: "You're welcome, \| just want peaceful blockchain ecosystem."  |
+| 2024-Apr-10 | Big Bang Swap                                                   | "This is arbitrage, not hacking."                               |
+| 2024-Apr-11 | Old unverified contract                                         |                                                                 |
+| 2024-Apr-14 | SQUID Crypto Coin hacked again                                  |                                                                 |
+| 2024-Apr-15 | Chainge Finance                                                 | Nick: "Oh, my god!", Radiant Hacker used this A LOT https://github.com/tayvano/lazarus-bluenoroff-research/blob/main/hacks-and-thefts/radiant.md  |
+| 2024-Apr-15 | Sumer Money                                                     | orange @Orange12306: "Hello brother, did you manually restore the code in Figure 2? What I see in the logic contract of this smart contract is different"  Nick L. Franklin: "Hey, you'd better not say like that!"  orange @Orange12306 "You are right. I finally found the error code yesterday."  Nick: Good. Happy to hear that. |
+| 2024-Apr-15 | GFA Token Exploit                                               |                                                                 |
+| 2024-Apr-16 | SATX Token                                                      |                                                                 |
+| 2024-Apr-16 | MARS Token                                                      |                                                                 |
+| 2024-Apr-17 | Mooniswap                                                       |                                                                 |
+| 2024-Apr-17 | Old unverified contract                                         |                                                                 |
+| 2024-Apr-19 | Hedgey Finance                                                  |                                                                 |
+| 2024-Apr-22 | Z123 Token                                                      |                                                                 |
+| 2024-Apr-22 | lolwut                                                          | "Hi, VitalikButerin , how do you think about me?"               |
+| 2024-Apr-23 | Yiedlai                                                         |                                                                 |
+| 2024-Apr-24 | XBridge                                                         |                                                                 |
+| 2024-Apr-25 | NGFS Token                                                      |                                                                 |
+| 2024-Apr-27 | PlayEmberSword                                                  |                                                                 |
+| 2024-Apr-28 | X-413 Token                                                     |                                                                 |
+| 2024-Apr-28 | lolwut                                                          | Nick @WangCha43989297 "Can we establish a TG group so that we can easily conduct event analysis with wild web3 security researchers"  Nick: "sure, if others agree."  |
+| 2024-Apr-28 | Pike Finance                                                    |                                                                 |
+| 2024-Apr-29 | Yield                                                           |                                                                 |
+| 2024-Apr-29 | Elastic Swap                                                    |                                                                 |
+| 2024-May-05 | OSN Token                                                       |                                                                 |
+| 2024-May-06 | GNUS Token / Genius                                             | DPRK-CI, "This is not hacking due to vulnerability"             |
+| 2024-May-08 | GPU Token                                                       | "How lucky hacker is!"                                          |
+| 2024-May-09 | GalaxyFoxToken                                                  |                                                                 |
+| 2024-May-09 | Saturn Token hacking                                            |                                                                 |
+| 2024-May-11 | Unclear                                                         | "Good analysis!"                                                |
+| 2024-May-14 | Sonne Finance                                                   |                                                                 |
+| 2024-May-14 | Predy Finance                                                   |                                                                 |
+| 2024-May-16 | TCH Token                                                       | "Maybe private key leak or rug pull."                           |
+| 2024-May-16 | lolwut                                                          | Beverly Miller @ miller_bev3097 "I think same so."  Nick: "lol" |
+| 2024-May-21 | Burner contract (?)                                             | "Burner contract drained because of sandwhich attack."          |
+| 2024-May-22 | YON Token                                                       | "awful token. who made this token?"                             |
+| 2024-May-26 | Unknown Redkeys Game                                            |                                                                 |
+| 2024-May-27 | BTC Token                                                       |                                                                 |
+| 2024-May-27 | Normie Token                                                    |                                                                 |
+| 2024-May-28 | Scroll Token                                                    |                                                                 |
+| 2024-May-28 | Trade On Orion                                                  |                                                                 |
+| 2024-May-29 | MetaDragonDao                                                   |                                                                 |
+| 2024-Jun-06 | STM Token                                                       |                                                                 |
+| 2024-Jun-08 | YYS Token                                                       |                                                                 |
+| 2024-Jun-10 | JokInTheBoxStaking                                              |                                                                 |
+| 2024-Jun-13 | UwU Lend                                                        |                                                                 |
+| 2024-Jun-14 | Holograph                                                       | "maybe private key leak or rug pull." ref: https://x.com/tayvano_/status/1905702917740580979  |
+| 2024-Jun-17 | Dyson Money                                                     |                                                                 |
+| 2024-Jun-26 | Unclear                                                         | "Why did he transfer all LP tokens into pair?"                  |
+| 2024-Jun-28 | WILL Tokens                                                     |                                                                 |
+| 2024-Jul-02 | 0x452E253 27.3 ETH                                              |                                                                 |
+| 2024-Jul-02 | MintRisesPrices $MRP                                            | "This is hacking!"                                              |
+| 2024-Jul-03 | lolwut                                                          | "If any crypto whale following me, please DM."                  |
+| 2024-Jul-04 | Certik Q2 Hack Report                                           | "I think loss due to exploit is decreasing. Good!"              |
+| 2024-Jul-04 | lolwut                                                          | smithbot_eth: "Hacker is on vacation, wait for devs.  Nick: "Maybe."  |
+| 2024-Jul-05 | DefiPlaza                                                       |                                                                 |
+| 2024-Jul-08 | LW Token / Linking the World                                    |                                                                 |
+| 2024-Jul-09 | lolwut                                                          | "Which Defi project is the best to run nowadays? DEX, Lending, Bridge...? Please give me some advice via DM.  |
+| 2024-Jul-11 | Smart_Bank                                                      |                                                                 |
+| 2024-Jul-11 | Unclean BSC Hack (QT of Cyvers)                                 |                                                                 |
+| 2024-Jul-12 | lolwut                                                          | "Hi, nice to meet you, are you CTO of Risk Labs?                |
+| 2024-Jul-12 | Dough Finance                                                   |                                                                 |
+| 2024-Jul-16 | lolwut                                                          | Reply to ptj_official "Is @ptj_official on telegram your account?"  |
+| 2024-Jul-16 | Approvals to 0x1231deb                                          | "How do you think about my posts?"                              |
+| 2024-Jul-16 | Sus transactions to 0x1231deb                                   |                                                                 |
+| 2024-Jul-16 | Reentrance lendRUSDY                                            |                                                                 |
+| 2024-Jul-16 | Minterest                                                       |                                                                 |
+| 2024-Jul-18 | $BANANA?                                                        | "Hi, can you give me some advice about token prices?"           |
+| 2024-Jul-19 | Rho Markers                                                     | "In my opinion, this is private key leak."                      |
+| 2024-Jul-22 | DDONALD Token Rug Pull                                          | reply to @pennysplayer "Right! You know well!"                  |
+| 2024-Jul-22 | UPS Token                                                       | again???                                                        |
+| 2024-Jul-29 | Hyperliquid                                                     | Reply to Hyperintern "I want to discuss about partnership with Hyperliquid"  |
+| 2024-Jul-31 | DN404 Hacker                                                    | "gained 0.004 ETH"                                              |
+| 2024-Aug-01 | Convergence Finance                                             |                                                                 |
+| 2024-Aug-03 | Unclear                                                         | "Lol, hacker gained 0.023 eth"                                  |
+| 2024-Aug-05 | OCF Staking Contract                                            |                                                                 |
+| 2024-Aug-06 | OMPX Sale Contract                                              |                                                                 |
+| 2024-Aug-12 | iVest token hacking                                             |                                                                 |
+| 2024-Aug-13 | Vowcurrency                                                     |                                                                 |
+| 2024-Aug-16 | Old lending defi hacked                                         |                                                                 |
+| 2024-Aug-19 | uniswapV3Callback (MEV?)                                        |                                                                 |
+| 2024-Aug-21 | MUSKITO token                                                   |                                                                 |
+| 2024-Aug-23 | HFLH exploit                                                    |                                                                 |
+| 2024-Aug-24 | lolwut                                                          | "I decided to launch my own Defi, what kind of Defi will be the best?"  |
+| 2024-Aug-28 | Aave                                                            | "Oh, no , Even aave hacked?"                                    |
+| 2024-Sep-02 | SPythia                                                         |                                                                 |
+| 2024-Sep-02 | Unverified Contract uniswapV2Call                               |                                                                 |
+| 2024-Sep-02 | lolwut                                                          | "Which lending project do users like better? Aave or Compound?"  |
+| 2024-Sep-03 | Pen... reentrancy                                               |                                                                 |
+| 2024-Sep-10 | CUT token                                                       |                                                                 |
+| 2024-Sep-13 | Unclear project on Base                                         | "Private Key leak or rug pull?"                                 |
+| 2024-Sep-15 | MintStakeShare                                                  |                                                                 |
+| 2024-Sep-16 | DeltaPrime #1                                                   |                                                                 |
+| 2024-Sep-17 | WXETA token exploit                                             |                                                                 |
+| 2024-Sep-23 | Bankroll Network                                                |                                                                 |
+| 2024-Sep-24 | InfernoBullWin                                                  |                                                                 |
+| 2024-Sep-26 | Onyx Protocol                                                   | Retweet                                                         |
+| 2024-Sep-26 | lolwut                                                          | Cybertron @loophe19141 "you are more faster"  Nick: "😄, thanks."  |
+| 2024-Sep-26 | Onyx                                                            | Gowtham Naidu Ponnana @gowtham_ponn... "Interesting hack i would say"  Nick: "I agree."  |
+| 2024-Oct-01 | Fire token                                                      |                                                                 |
+| 2024-Oct-03 | Unknown Lending Project hacked due to price oracle manipulation |                                                                 |
+| 2024-Oct-05 | Unverified contract WBNB<>EGA                                   |                                                                 |
+| 2024-Oct-05 | AIZPT Token                                                     |                                                                 |
+| 2024-Oct-06 | Sasha token                                                     |                                                                 |
+| 2024-Oct-11 | P719 Token again                                                |                                                                 |
+| 2024-Oct-17 | BULL Token Rug Pull                                             |                                                                 |
+| 2024-Oct-17 | Radiant Capital                                                 | "is this private key leak or rug pull"                          |
+| 2024-Oct-22 | ndxfi                                                           | "is this private key leak?"                                     |
+| 2024-Oct-24 | Unknown project on Base                                         |                                                                 |
+| 2024-Oct-24 | Unverified NAS Contract 0x5d608                                 |                                                                 |
+| 2024-Oct-24 | Ramses Exchange                                                 |                                                                 |
+| 2024-Oct-30 | Unclear (quote of deleted tweet)                                | "Maybe Private Key Compromised"                                 |
+| 2024-Nov-07 | CowSwap contract                                                |                                                                 |
+| 2024-Nov-10 | BGM                                                             |                                                                 |
+| 2024-Nov-14 | vETH token                                                      |                                                                 |
+| 2024-Nov-14 | DeltaPrime #2                                                   |                                                                 |
+| 2024-Nov-18 | Polter finance                                                  |                                                                 |
+| 2024-Nov-18 | BTB Token                                                       |                                                                 |
+| 2024-Nov-21 | AI Code Poisoning Attack / ChatGPT                              | comment, not incident                                           |
+| 2024-Nov-22 | Phalncon                                                        | comment, not incident                                           |
+| 2024-Nov-24 | DCF Token and DCT Token                                         |                                                                 |
+| 2024-Dec-03 | BYC token                                                       |                                                                 |
+| 2024-Dec-04 | Vestra DAO                                                      |                                                                 |
+| 2024-Dec-09 | GAGAW token                                                     |                                                                 |
+| 2024-Dec-10 | CloberDex                                                       |                                                                 |
+| 2024-Dec-17 | Labubu Token                                                    |                                                                 |
+| 2024-Dec-17 | bnbs token                                                      |                                                                 |
+| 2024-Dec-17 | DCF token                                                       |                                                                 |
+| 2024-Dec-17 | SOLO protocol                                                   | comment, not incident                                           |
+| 2024-Dec-18 | SlurpyCoin on BSC                                               | Retweet                                                         |
+| 2024-Dec-24 | Compound Fork Moonwell Moonhacker                               |                                                                 |
+| 2024-Dec-27 | Nani finance                                                    |                                                                 |
+| 2024-Dec-30 | FEG Token                                                       | Retweet                                                         |
+| 2025-Jan-07 | Mosca on BSC                                                    |                                                                 |
+| 2025-Jan-07 | IPC Token                                                       | Retweet                                                         |
+| 2025-Jan-07 | Sorra staking                                                   |                                                                 |
+| 2025-Jan-07 | LAURA Token                                                     |                                                                 |
+| 2025-Jan-07 | BIZNESS on Base                                                 |                                                                 |
+| 2025-Jan-08 | Moby                                                            | Retweet, "This is private key leak, bro."                       |
+| 2025-Jan-10 | Fortune Wheel                                                   |                                                                 |
+| 2025-Jan-11 | Remedy CTF                                                      |                                                                 |
+| 2025-Jan-12 | Unilend Pool                                                    |                                                                 |
+| 2025-Jan-14 | Theldols NFT                                                    | Retweet                                                         |
+| 2025-Jan-14 | BIGO Token                                                      |                                                                 |
+| 2025-Jan-16 | Unverified 0x8341                                               | Retweet                                                         |
+| 2025-Jan-21 | AST Token                                                       |                                                                 |
+| 2025-Jan-22 | Unverified Base                                                 |                                                                 |
+| 2025-Feb-04 | Ionic Finance                                                   |                                                                 |
+| 2025-Feb-07 | Unverified 0x2d70d62                                            | Retweet                                                         |
+| 2025-Feb-07 | XSD Token                                                       |                                                                 |
+| 2025-Feb-08 | Peapods finance                                                 |                                                                 |
+| 2025-Feb-10 | Four Meme Token                                                 |                                                                 |
+| 2025-Feb-14 | Unverified tokens                                               |                                                                 |
+| 2025-Feb-18 | BOLT Token                                                      |                                                                 |
+| 2025-Feb-20 | Unknown Contract 0x9823 on BSC                                  |                                                                 |
+| 2025-Feb-20 | StepHeroNFTs                                                    |                                                                 |
+| 2025-Feb-23 | Odos Protocol                                                   |                                                                 |
+| 2025-Feb-27 | Bybit                                                           |                                                                 |
+| 2025-Mar-01 | Hegic                                                           |                                                                 |
+| 2025-Mar-04 | TAGAIFUN, GROK, PEPE, TEST Tokens                               |                                                                 |
+| 2025-Mar-07 | 1inch                                                           |                                                                 |
+| 2025-Mar-15 | MIM/Spell                                                       |                                                                 |
+| 2025-Mar-15 | Unverified 0x4ff2e95c                                           |                                                                 |
+| 2025-Mar-15 | wkeyDAO                                                         |                                                                 |
+| 2025-Mar-15 | H20 Token                                                       |                                                                 |
+| 2025-Mar-19 | Vicuna Finance                                                  |                                                                 |
+| 2025-Mar-21 | Zoth #2                                                         | Retweet, DPRK-SQ                                                |
+
+
+
+
+
+
+
+
+
+
+
+# Website (nickfranklin.site)
+
+
+## Archives of Main Pages
 
 - https://archive.ph/3po00 - Page 1
 - https://archive.ph/ULnQ6 - Page 2
@@ -87,6 +346,89 @@ Also associated with:
 - https://archive.ph/gXZ91 - Page 6
 - https://archive.ph/pjifz - Page 7
 - https://archive.ph/R4BG0 - Page 8
+
+
+## Index
+
+- 2025-03-19 - Page 1 - Vicuna Finance
+- 2025-03-16 - Page 1 - H20 token
+- 2025-03-16 - Page 1 - wkeyDao token
+- 2025-03-03 - Page 1 - Zoth #1
+- 2025-03-01 - Page 1 - Hegic Options
+- 2025-02-21 - Page 1 - StepHeroNFTs
+- 2025-02-19 - Page 1 - BOLT token
+- 2025-02-14 - Page 1 - Unverified Contracts
+- 2025-02-09 - Page 1 - Peapods finance
+
+- 2025-02-07 - Page 2 - XSD token
+- 2025-02-05 - Page 2 - Ionic Finance
+- 2025-01-24 - Page 2 - Odos router
+- 2025-01-22 - Page 2 - Call Injection
+- 2025-01-22 - Page 2 - AST token
+- 2025-01-14 - Page 2 - BIGO token
+- 2025-01-13 - Page 2 - Unilend
+- 2025-01-11 - Page 2 - Sandwich attack
+- 2025-01-08 - Page 2 - Mosca
+
+- 2025-01-08 - Page 3 - Sorra staking
+- 2025-01-08 - Page 3 - LAURA token
+- 2025-01-08 - Page 3 - BIZNESS
+- 2024-12-28 - Page 3 - Nani finance
+- 2024-12-24 - Page 3 - Moonwell
+- 2024-12-17 - Page 3 - LABUBU token
+- 2024-12-17 - Page 3 - bnbs token
+- 2024-12-17 - Page 3 - Decentralized Finance (DCF)
+- 2024-12-10 - Page 3 - CloberDex
+
+- 2024-12-10 - Page 4 - GAGAW token
+- 2024-12-05 - Page 4 - Vestra DAO
+- 2024-12-03 - Page 4 - BYC token
+- 2024-11-25 - Page 4 - DCF token
+- 2024-11-18 - Page 4 - BTB token
+- 2024-11-18 - Page 4 - Polter finance
+- 2024-11-14 - Page 4 - vETH token
+- 2024-11-11 - Page 4 - DeltaPrime
+- 2024-11-11 - Page 4 - BGM token
+
+- 2024-11-07 - Page 5 - CowSwap contract
+- 2024-10-25 - Page 5 - Unverified lending
+- 2024-10-24 - Page 5 - Ramses Exchange
+- 2024-10-17 - Page 5 - Radiant Capital
+- 2024-10-06 - Page 5 - SASHA token
+- 2024-10-06 - Page 5 - Unverified contract lost $280k due to sandwich attack
+- 2024-10-05 - Page 5 - AIZPT token
+- 2024-10-03 - Page 5 - Unknown lending project hacked due to price oracle manipulation
+- 2024-10-02 - Page 5 - Fire token
+
+- 2024-11-27 - Page 6 - Bedrock
+- 2024-11-26 - Page 6 - Onyx Protocol
+- 2024-11-25 - Page 6 - Unverified contract(0xff2481) hacked by reentrancy attack
+- 2024-11-24 - Page 6 - InfernoBullWin drained $440k through hundreds of transactions
+- 2024-11-23 - Page 6 - Bankroll Network
+- 2024-11-17 - Page 6 - WXETA token exploit
+- 2024-11-16 - Page 6 - MintStakeShare
+- 2024-11-13 - Page 6 - OTSea Staking
+- 2024-11-10 - Page 6 - CUT token hacking
+
+- 2024-11-04 - Page 7 - Penpie
+- 2024-11-03 - Page 7 - iVest token hacking
+- 2024-11-03 - Page 7 - Vowcurrency
+- 2024-11-03 - Page 7 - An unknown router contract
+- 2024-11-03 - Page 7 - An old lending defi
+- 2024-11-03 - Page 7 - Unverified contract hacked because of callback function
+- 2024-11-03 - Page 7 - MUSKITO token
+- 2024-11-03 - Page 7 - HFLH exploit
+- 2024-11-03 - Page 7 - Reentrancy attack!
+
+- 2024-11-03 - Page 8 - Aave Repay Adapter contract
+- 2024-11-03 - Page 8 - An unverified contract lost $4k
+- 2024-11-03 - Page 8 - SPythia lost 21 ETH
+
+
+
+### Individual Pages
+
+
 - https://archive.ph/BXIbw - Radiant
 - https://archive.ph/e09Wg
 - https://archive.ph/Z7aIc
@@ -157,7 +499,73 @@ Also associated with:
 
 
 
-## TG Messages
+# Telegram
+
+## Project Telegrams he was active in
+
+- Allbridge
+- Avail
+- BENQI
+- Coingecko
+- JPEGD
+- Kinza Finance
+- Loopring
+- Mantle
+- Mapped Swap
+- Pandaly
+- Paradigm reth
+- Radiant Capital
+- Resolv
+- Sepolia Testnet Faucet
+- SOFAorg
+- Stakefish
+- Synapse
+
+## Security Telegrams he was active in
+
+- Beosin
+- BlockSecTeam
+- Ethdenver
+- ETHSecurity
+- peckshield
+- Rekt_HQ
+- scamsniffer
+- web3developerschat
+
+
+## Projects Engaged With
+
+
+
+| Date                                                                                                                                                                                                    | Project          | Links                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2024-Mar-22 14:04                                                                                                                                                                                       | stakefish        | https://t.me/stakefish/27832 <br> https://t.me/stakefish/27833                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| 2024-Mar-23 01:10                                                                                                                                                                                       | stakefish        | https://t.me/stakefish/27838                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 2024-Mar-25 00:33                                                                                                                                                                                       | stakefish        | https://t.me/stakefish/27887 <br> https://t.me/stakefish/27889 <br> https://t.me/stakefish/27891 <br> https://t.me/stakefish/27892 <br> https://t.me/stakefish/27894 <br> https://t.me/stakefish/27896 <br> https://t.me/stakefish/27898 <br> https://t.me/stakefish/27900                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2024-Apr-22 06:03 <br> 2024-Apr-22 15:05                                                                                                                                                                  | Loopring <br>    | https://t.me/loopring_en/321679 <br> https://t.me/loopring_en/321713                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| 2024-May-15 15:15                                                                                                                                                                                       | Kinza Finance    | https://t.me/kinza_finance/52131                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 2024-May-21 01:07                                                                                                                                                                                       | MappedSwap       | https://t.me/mappedswapofficial/13536                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 2024-May-29 02:05                                                                                                                                                                                       | Allbridge        | https://t.me/allbridge_official/144227                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 2024-Jun-24 09:28                                                                                                                                                                                       | SOFA             | https://t.me/SOFAorg/21530 <br> https://t.me/SOFAorg/21533 <br> https://t.me/SOFAorg/21536 <br> https://t.me/SOFAorg/21538 <br> https://t.me/SOFAorg/21540 <br> https://t.me/SOFAorg/21542                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2024-Jul-10 06:08                                                                                                                                                                                       | Avail Community  | https://t.me/AvailCommunity/96112                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 2024-Jul-11 10:41                                                                                                                                                                                       | Synapse Protocol | https://t.me/synapseprotocol/119237                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 2024-Jul-24 02:26 <br> 2024-Jul-24 09:41 <br> 2024-Jul-24 11:01 <br> 2024-Jul-25 00:15 <br> 2024-Jul-25 02:37                                                                                             | Mantle           | https://t.me/mantlenetwork/237223 <br> https://t.me/mantlenetwork/237225 <br> https://t.me/mantlenetwork/237227 <br> https://t.me/mantlenetwork/237230 <br> https://t.me/mantlenetwork/237231 <br> https://t.me/mantlenetwork/237232 <br> https://t.me/mantlenetwork/237302 <br> https://t.me/mantlenetwork/237304 <br> https://t.me/mantlenetwork/237305 <br> https://t.me/mantlenetwork/237311 <br> https://t.me/mantlenetwork/237319 <br> https://t.me/mantlenetwork/237321 <br> https://t.me/mantlenetwork/237323 <br> https://t.me/mantlenetwork/237326 <br> https://t.me/mantlenetwork/237332 <br> https://t.me/mantlenetwork/237335 <br> https://t.me/mantlenetwork/237336 <br> https://t.me/mantlenetwork/237338 <br> https://t.me/mantlenetwork/237341 <br> https://t.me/mantlenetwork/237342 <br> https://t.me/mantlenetwork/237343 <br> https://t.me/mantlenetwork/237350 <br> https://t.me/mantlenetwork/237353 <br> https://t.me/mantlenetwork/237357 <br> https://t.me/mantlenetwork/237358 <br> https://t.me/mantlenetwork/237361 <br> https://t.me/mantlenetwork/237362 <br> https://t.me/mantlenetwork/237363 <br> https://t.me/mantlenetwork/237365 <br> https://t.me/mantlenetwork/237366 <br> https://t.me/mantlenetwork/237369 <br> https://t.me/mantlenetwork/237535 <br> https://t.me/mantlenetwork/237535 <br> https://t.me/mantlenetwork/237539 <br> https://t.me/mantlenetwork/237550 <br> https://t.me/mantlenetwork/237551                                                                                                                                     |
+| 2024-Jul-29 13:20                                                                                                                                                                                       | Mantle           | https://t.me/mantledevs/13373 <br> https://t.me/mantledevs/13375                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 2024-Aug-02 15:11 <br> 2024-Aug-03 01:36 <br> 2024-Aug-03 02:58 <br> 2024-Aug-03 05:39                                                                                                                    | BENQI            | https://t.me/BENQIFinance/179899 <br> https://t.me/BENQIFinance/179901 <br> https://t.me/BENQIFinance/179903 <br> https://t.me/BENQIFinance/179904 <br> https://t.me/BENQIFinance/179905 <br> https://t.me/BENQIFinance/179907 <br> https://t.me/BENQIFinance/179909 <br> https://t.me/BENQIFinance/179922 <br> https://t.me/BENQIFinance/179923 <br> https://t.me/BENQIFinance/179924                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 2024-Aug-16 01:36                                                                                                                                                                                       | BENQI            | https://t.me/BENQIFinance/180146                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 2024-Aug-22 00:43 <br> 2024-Aug-22 01:10 <br> 2024-Aug-22 02:00 <br> 2024-Aug-22 12:54 <br> 2024-Aug-23 00:12 <br> 2024-Aug-23 01:16 <br> 2024-Aug-23 06:12 <br> 2024-Aug-23 15:51 <br> 2024-Aug-24 06:49 | Radiant Capital  | https://t.me/radiantcapitalofficial/152493 <br> https://t.me/radiantcapitalofficial/152494 <br> https://t.me/radiantcapitalofficial/152497 <br> https://t.me/radiantcapitalofficial/152501 <br> https://t.me/radiantcapitalofficial/152502 <br> https://t.me/radiantcapitalofficial/152503 <br> https://t.me/radiantcapitalofficial/152506 <br> https://t.me/radiantcapitalofficial/152541 <br> https://t.me/radiantcapitalofficial/152549 <br> https://t.me/radiantcapitalofficial/152550 <br> https://t.me/radiantcapitalofficial/152554 <br> https://t.me/radiantcapitalofficial/152555 <br> https://t.me/radiantcapitalofficial/152556 <br> https://t.me/radiantcapitalofficial/152559 <br> https://t.me/radiantcapitalofficial/152561 <br> https://t.me/radiantcapitalofficial/152563 <br> https://t.me/radiantcapitalofficial/152565 <br> https://t.me/radiantcapitalofficial/152566 <br> https://t.me/radiantcapitalofficial/152568 <br> https://t.me/radiantcapitalofficial/152569 <br> https://t.me/radiantcapitalofficial/152572 <br> https://t.me/radiantcapitalofficial/152574 <br> https://t.me/radiantcapitalofficial/152577 <br> https://t.me/radiantcapitalofficial/152605 <br> https://t.me/radiantcapitalofficial/152606 <br> https://t.me/radiantcapitalofficial/152609 <br> https://t.me/radiantcapitalofficial/152628 <br> https://t.me/radiantcapitalofficial/152629 <br> https://t.me/radiantcapitalofficial/152631 <br> https://t.me/radiantcapitalofficial/152703 <br> https://t.me/radiantcapitalofficial/152704 <br> https://t.me/radiantcapitalofficial/152727 |
+| 2024-Aug-22 01:29                                                                                                                                                                                       | Reth             | https://t.me/paradigm_reth/32584 <br> https://t.me/paradigm_reth/32586 <br> https://t.me/paradigm_reth/32587 <br> https://t.me/paradigm_reth/32592 <br> https://t.me/paradigm_reth/32594                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 2024-Aug-23 02:38                                                                                                                                                                                       | Synapse Protocol | https://t.me/synapseprotocol/122358                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 2024-Sep-05 15:38                                                                                                                                                                                       | Radiant Capital  | https://t.me/radiantcapitalofficial/153914                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2024-Oct-15 01:50 <br> 2024-Oct-15 03:33 <br> 2024-Oct-25 00:35                                                                                                                                           | Radiant Capital  | https://t.me/radiantcapitalofficial/155634 <br> https://t.me/radiantcapitalofficial/155639 <br> https://t.me/radiantcapitalofficial/159143 <br> https://t.me/radiantcapitalofficial/159146                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 2024-Dec-20 02:33                                                                                                                                                                                       | JPEG’D DAO       | https://t.me/jpegd/39332                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 2025-Jan-17 16:17                                                                                                                                                                                       | Resolv           | https://t.me/Resolv_Community/9296 <br> https://t.me/Resolv_Community/9299 <br> https://t.me/Resolv_Community/9301 <br> https://t.me/Resolv_Community/9302 <br> https://t.me/Resolv_Community/9306                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 2025-Feb-25 09:12                                                                                                                                                                                       | Resolv           | https://t.me/Resolv_Community/13408                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+
+
+
+## All Telegram Messages
 
 
 | TG ID      | TG LOGS           | UTC               |                                        |                                                                                          |                                                                                                                                                                                                                                                                  |
@@ -204,8 +612,8 @@ Also associated with:
 | 6513796713 | 2024-Feb-07 11:43 | 2024-Feb-07 08:43 | BlockSec                               | [https://t.me/BlockSecTeam/6414](https://t.me/BlockSecTeam/6414)                         | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-Feb-07 11:44 | 2024-Feb-07 08:44 | Beosin Official                        | [https://t.me/beosin/97737](https://t.me/beosin/97737)                                   | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-Feb-07 11:44 | 2024-Feb-07 08:44 | PeckShield                             | [https://t.me/peckshield/41677](https://t.me/peckshield/41677)                           | Another security tip for smart contract developers:https://twitter.com/0xNickLFranklin/status/1755148734076420248                                                                                                                                                |
-| 6513796713 | 2024-Feb-07 12:07 | 2024-Feb-07 09:07 | Web3 & Solidity Developer \| Codercyan | [https://t.me/web3developerschat/3848](https://t.me/web3developerschat/3848)             | [Web link]                                                                                                                                                                                                                                                       |
-| 6513796713 | 2024-Feb-07 12:07 | 2024-Feb-07 09:07 | Web3 & Solidity Developer \| Codercyan | [https://t.me/web3developerschat/3849](https://t.me/web3developerschat/3849)             | [Web link]                                                                                                                                                                                                                                                       |
+| 6513796713 | 2024-Feb-07 12:07 | 2024-Feb-07 09:07 | Web3 & Solidity Developer Codercyan    | [https://t.me/web3developerschat/3848](https://t.me/web3developerschat/3848)             | [Web link]                                                                                                                                                                                                                                                       |
+| 6513796713 | 2024-Feb-07 12:07 | 2024-Feb-07 09:07 | Web3 & Solidity Developer Codercyan    | [https://t.me/web3developerschat/3849](https://t.me/web3developerschat/3849)             | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-Feb-13 02:37 | 2024-Feb-12 23:37 | BlockSec                               | [https://t.me/BlockSecTeam/6478](https://t.me/BlockSecTeam/6478)                         | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-Feb-13 18:03 | 2024-Feb-13 15:03 | BlockSec                               | [https://t.me/BlockSecTeam/6481](https://t.me/BlockSecTeam/6481)                         | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-Feb-13 18:03 | 2024-Feb-13 15:03 | Rekt News - RektHQ                     | [https://t.me/Rekt_HQ/83922](https://t.me/Rekt_HQ/83922)                                 | I've analysed Synthetix hacking, how to upload this?                                                                                                                                                                                                             |
@@ -504,10 +912,10 @@ Also associated with:
 | 6513796713 | 2024-May-21 17:30 | 2024-May-21 14:30 | BlockSec                               | [https://t.me/BlockSecTeam/7303](https://t.me/BlockSecTeam/7303)                         | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-May-21 17:30 | 2024-May-21 14:30 | Rekt News - RektHQ                     | [https://t.me/Rekt_HQ/85425](https://t.me/Rekt_HQ/85425)                                 | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-May-21 17:30 | 2024-May-21 14:30 | ETHSecurity Community                  | [https://t.me/ETHSecurity/98139](https://t.me/ETHSecurity/98139)                         | [Web link]                                                                                                                                                                                                                                                       |
-| 6513796713 | 2024-May-27 17:41 | 2024-May-27 14:41 | ETHSecurity Community                  | [https://t.me/ETHSecurity/98922](https://t.me/ETHSecurity/98922)                         | [https://x.com/0xNickLFranklin/status/1795102946515882185](https://x.com/0xNickLFranklin/status/1795102946515882185)                                                                                                                                             |
-| 6513796713 | 2024-May-27 17:41 | 2024-May-27 14:41 | Beosin Official                        | [https://t.me/beosin/98999](https://t.me/beosin/98999)                                   | [https://x.com/0xNickLFranklin/status/1795102946515882185](https://x.com/0xNickLFranklin/status/1795102946515882185)                                                                                                                                             |
-| 6513796713 | 2024-May-27 17:41 | 2024-May-27 14:41 | BlockSec                               | [https://t.me/BlockSecTeam/7339](https://t.me/BlockSecTeam/7339)                         | [https://x.com/0xNickLFranklin/status/1795102946515882185](https://x.com/0xNickLFranklin/status/1795102946515882185)                                                                                                                                             |
-| 6513796713 | 2024-May-27 17:42 | 2024-May-27 14:42 | Rekt News - RektHQ                     | [https://t.me/Rekt_HQ/85479](https://t.me/Rekt_HQ/85479)                                 | [https://x.com/0xNickLFranklin/status/1795102946515882185](https://x.com/0xNickLFranklin/status/1795102946515882185)                                                                                                                                             |
+| 6513796713 | 2024-May-27 17:41 | 2024-May-27 14:41 | ETHSecurity Community                  | [https://t.me/ETHSecurity/98922](https://t.me/ETHSecurity/98922)                         | [https://x.com/0xNickLFranklin/https://x.com/0xNickLFranklin/status/1795102946515882185                                                                                                                                             |
+| 6513796713 | 2024-May-27 17:41 | 2024-May-27 14:41 | Beosin Official                        | [https://t.me/beosin/98999](https://t.me/beosin/98999)                                   | [https://x.com/0xNickLFranklin/https://x.com/0xNickLFranklin/status/1795102946515882185                                                                                                                                             |
+| 6513796713 | 2024-May-27 17:41 | 2024-May-27 14:41 | BlockSec                               | [https://t.me/BlockSecTeam/7339](https://t.me/BlockSecTeam/7339)                         | [https://x.com/0xNickLFranklin/https://x.com/0xNickLFranklin/status/1795102946515882185                                                                                                                                             |
+| 6513796713 | 2024-May-27 17:42 | 2024-May-27 14:42 | Rekt News - RektHQ                     | [https://t.me/Rekt_HQ/85479](https://t.me/Rekt_HQ/85479)                                 | [https://x.com/0xNickLFranklin/https://x.com/0xNickLFranklin/status/1795102946515882185                                                                                                                                             |
 | 6513796713 | 2024-May-28 06:08 | 2024-May-28 03:08 | Beosin Official                        | [https://t.me/beosin/99005](https://t.me/beosin/99005)                                   | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-May-28 06:08 | 2024-May-28 03:08 | BlockSec                               | [https://t.me/BlockSecTeam/7342](https://t.me/BlockSecTeam/7342)                         | [Web link]                                                                                                                                                                                                                                                       |
 | 6513796713 | 2024-May-28 06:09 | 2024-May-28 03:09 | Rekt News - RektHQ                     | [https://t.me/Rekt_HQ/85489](https://t.me/Rekt_HQ/85489)                                 | [Web link]                                                                                                                                                                                                                                                       |
