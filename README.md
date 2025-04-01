@@ -206,11 +206,11 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2019 | $207,794,000       | 10          | $271,000,000        | 9                  | $271,000,000        | 9      | $200,000,000       | n/a          | $209,272,000       | 8         |
 | 2020 | $313,387,000       | 13          | $300,000,000        | 5                  | $300,000,000        | 5      | $290,000,000       | n/a          | $300,200,000       | 4         |
 | 2021 | $536,800,000       | 19          | $506,000,000        | 11                 | $428,800,000        | 9      | $250,000,000       | n/a          | $175,600,000       | 6         |
-| 2022 | $760,605,000       | 14          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
+| 2022 | $760,649,228       | 13          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,164,146       | 25          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
-| 2024 | $931,592,107       | 47          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $1,601,381,904     | 7           |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,544,129,157** | **161**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2024 | $932,092,107       | 49          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
+| 2025 | $1,610,963,819     | 10          |                     |                    |                     |        |                    |              |                    |           |
+|      | **$5,554,255,300** | **164**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -245,8 +245,9 @@ Note: all my research starts onchain and works backwards from there using victim
 # Tay's List (Incidents Documented in this Repo)
 
 
-| 📁  | Date        | Incident                                                                                        | Amt Stolen         |
-| --- | ----------- | ----------------------------------------------------------------------------------------------- | ------------------ |
+
+| 📁 | Date        | Incident                                                                                         | Amt Stolen         |
+| -- | ----------- | ------------------------------------------------------------------------------------------------ | ------------------ |
 | 👛 | 2016-Oct-13 | [Bitcurex](./hacks-and-thefts/bitcurex.md)                                                       | $1,500,000         |
 |    | **2016**    | **TOTAL**                                                                                        | **$1,500,000**     |
 |    |             |                                                                                                  |                    |
@@ -317,7 +318,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🍎 | 2021-Jul-13 | [Tower Capital](./hacks-and-thefts/tower_capital.md)                                             | $Unknown           |
 | 🍎 | 2021-Jul-13 | [Advcash](./hacks-and-thefts/advcash.md)                                                         | $14,000,000        |
 | 🔑 | 2021-Jul-14 | [Bondly Finance](./hacks-and-thefts/bondly_finance.md)                                           | $8,500,000         |
-| 🔑 | 2021-Aug-01 | [Misc August-September 2021 Hacks](./hacks-and-thefts/misc_august_september_2021.md)             | $2,000,000         |
+| 🔑 | 2021-Aug-01 | [Aug Sept Oct 2021 Hacks](./hacks-and-thefts/2021-sept.md)                                       | $2,000,000         |
 | 💼 | 2021-Aug-12 | [DAO Maker](./hacks-and-thefts/dao_maker.md)                                                     | $7,000,000         |
 | 👛 | 2021-Aug-18 | [Liquid Global](./hacks-and-thefts/liquid_global.md)                                             | $91,000,000        |
 | 🔑 | 2021-Oct-08 | [MGNR](./hacks-and-thefts/mgnr.md)                                                               | $24,100,000        |
@@ -326,8 +327,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔑 | 2021-Nov-03 | [bZx](./hacks-and-thefts/bzx.md)                                                                 | $55,000,000        |
 |    | **2021**    | **TOTAL**                                                                                        | **$536,800,000**   |
 |    |             |                                                                                                  |                    |
-| 🔑 | 2022-Jan-15 | [Jan 15 2022 Theft](./hacks-and-thefts/jan_15_2022_theft.md)                                     | $555,000           |
-| 🔑 | 2022-Jan-27 | [Fantom Allo Receiver / ANKR founder](./hacks-and-thefts/fantom_allocation_receiver.md)          | $1,200,000         |
+| 🔑 | 2022-Jan-27 | [ANKR founder](./hacks-and-thefts/ankr-founder.md)                                               | $1,799,228         |
 | 🔑 | 2022-Feb-10 | [Feb 10 2022 Theft](./hacks-and-thefts/feb_10_2022_theft.md)                                     | $300,000           |
 | 🔑 | 2022-Mar-22 | [Arthur_0x](./hacks-and-thefts/arthur_0x.md)                                                     | $1,700,000         |
 | 🔑 | 2022-Apr-07 | [Wonderhero](./hacks-and-thefts/wonderhero.md)                                                   | $1,025,000         |
@@ -340,7 +340,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔑 | 2022-Oct-31 | [Oct 31 2022 Theft](./hacks-and-thefts/oct_31_2022_theft.md)                                     | $183,000           |
 | 🍎 | 2022-Nov-02 | [Deribit](./hacks-and-thefts/deribit.md)                                                         | $28,000,000        |
 | 💼 | 2022        | [Pixelcraft Potential IT Worker](./hacks-and-thefts/pixelcraft_potential_it_worker.md)           | $0                 |
-|    | **2022**    | **TOTAL**                                                                                        | **$760,605,000**   |
+|    | **2022**    | **TOTAL**                                                                                        | **$760,649,228**   |
 |    |             |                                                                                                  |                    |
 | 💼 | 2023        | [Various 2023 Rug Pulls](./hacks-and-thefts/various_2023_rug_pulls.md)                           | $350,000           |
 | 💼 | 2023-Apr-10 | [Terraport](./hacks-and-thefts/terraport.md)                                                     | $3,900,000         |
@@ -355,7 +355,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🎙️ | 2023-Aug-17 | [SPooCK](./hacks-and-thefts/spoock.md)                                                           | $38,032            |
 | 👛 | 2023-Sep-04 | [Stake](./hacks-and-thefts/stake.md)                                                             | $41,000,000        |
 | 👛 | 2023-Sep-12 | [CoinEx](./hacks-and-thefts/coinex.md)                                                           | $54,000,000        |
-| ❓ | 2023-Sep-24 | [HTX Theft](./hacks-and-thefts/htx.md) (Returned)                                                |                    |
+| ❓ | 2023-Sep-24 | [HTX Theft](./hacks-and-thefts/htx.md) Returned                                                  |                    |
 | ❓ | 2023-Sep-28 | [Unidentified Company](./hacks-and-thefts/unidentified_company.md)                               | $3,000,000         |
 | 💼 | 2023-Oct-5  | [Blockbusters Tech](./hacks-and-thefts/blockbusters.md)                                          |                    |
 | 🔑 | 2023-Oct-17 | [Fantom Foundation](./hacks-and-thefts/fantom_foundation.md)                                     | $7,624,588         |
@@ -419,20 +419,23 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔑 | 2024-Nov-25 | [TON Dude](./hacks-and-thefts/ton-dude.md)                                                       | $14,000,000        |
 | 🔑 | 2025-Nov-29 | [MAK / Metacene](./hacks-and-thefts/metacene.md)                                                 | $2,056,995         |
 | 🎙️ | 2024-Dec-05 | [Fake UltraX Dex Job Scam](./hacks-and-thefts/ultrax-dex.md)                                     | $110,000           |
+| 🔑 | 2024-Dec-11 | [O6](./hacks-and-thefts/o6.md)                                                                   | $500,000           |
 | 🎙️ | 2024-Dec-12 | [Willo Campaign](./hacks-and-thefts/willo.md)                                                    | $64,020            |
 | 🔑 | 2024-Dec-16 | [SyFu](./hacks-and-thefts/syfu.md)                                                               | $890,000           |
 | 🔑 | 2024-Dec-18 | [R3](./hacks-and-thefts/r3.md)                                                                   | $1,600,000         |
-|    | **2024**    | **TOTAL**                                                                                        | **$931,592,107**   |
+|    | **2024**    | **TOTAL**                                                                                        | **$932,092,107**   |
 |    |             |                                                                                                  |                    |
-| 🔑 | 2025-Jan-20 | [Unknown - Jan 20 2025](./hacks-and-thefts/jan2025.md)                                           | $1,700,000         |
+| 🔑 | 2025-Jan-20 | [Unknown Jan 2025](./hacks-and-thefts/jan2025.md)                                                | $1,700,000         |
 | 👛 | 2025-Jan-23 | [Phemex](./hacks-and-thefts/phemex.md)                                                           | $85,085,704        |
+| 🔑 | 2025-Feb-05 | [Russell](./hacks-and-thefts/russell.md)                                                         | $610,000           |
+| 🔑 | 2025-Feb-05 | [Unknown Feb 2025](./hacks-and-thefts/feb2025.md)                                                | $610,000           |
 | 🔐 | 2025-Feb-17 | [Ripio](./hacks-and-thefts/ripio.md)                                                             | $7,800,000         |
 | 👛 | 2025-Feb-21 | [Bybit](./hacks-and-thefts/bybit.md)                                                             | $1,500,000,000     |
-| 🔑 | 2025-Feb-28 | [Theft from CEO of A6](./hacks-and-thefts/a6.md)                                                 | $410,000           |
-| 🔑 | 2025-Mar-01 | [Unknown - March 1 2025](./hacks-and-thefts/mar2025.md)                                          | $3,200,000         |
-| 🔑 | 2025-Mar-07 | [Theft from CEO of B3](./hacks-and-thefts/b3.md)                                                 | $3,186,200         |
-|    | **2025**    | **TOTAL**                                                                                        | **$1,601,381,904** |
-
+| 🔑 | 2025-Feb-28 | [CEO of A6](./hacks-and-thefts/a6.md)                                                            | $410,000           |
+| 🔑 | 2025-Mar-01 | [Unknown Mar 2025](./hacks-and-thefts/mar2025.md)                                                | $3,200,000         |
+| 🔑 | 2025-Mar-07 | [CEO of B3](./hacks-and-thefts/b3.md)                                                            | $3,186,200         |
+| 🔑 | 2025-Mar-21 | [Zoth](./hacks-and-thefts/zoth.md)                                                               | $8,361,915         |
+|    | **2025**    | **TOTAL**                                                                                        | **$1,610,963,819** |
 
 
 # PDFs - Indictments & Formal Reports

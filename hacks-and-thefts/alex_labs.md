@@ -201,10 +201,6 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 
 
 
-
-
-
-
 ### Personal/Test Wallets
 
 **0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974** is the personal wallet of one of the guys, clearly.
@@ -218,20 +214,26 @@ Dec 1 2023 sends $635k / Dec 3 2023 sends $1.48m and is immediately laundered:
 - 0xd110a4f0a80b774eca0a6eac1552fff20dadd0a3
 - 0x81a4869e941ca22d1a0ecff934abf87976d4578a
 
+Dec 20 2023 + June 7 2024
+- Key Compromiser 0x3e8c9490687dfc26c5621dd63ce9c3d415b405ed sends to 0xc51d1237dc91f4d844d69b80e1ed52a2612f3e05
+
 Dec 15 2023 0x81a4869e941ca22d1a0ecff934abf87976d4578a sends leftover $1.7k to:
 - 0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974
 
 
-- May 10, 2024 7:57:35 AM: ALEX Stuff
+May 10, 2024 7:57:35 AM: ALEX Stuff
 
-- July 2024: Paying for something via Bybit, WazirX, Coingate, Cryptomus
+July 2024: Paying for something via Bybit, WazirX, Coingate, Cryptomus
 
-- June 3, 2024: sends to 0x5b70ef457f1ffcd5b1c9566725f23c23cb8c4ced
+June 3, 2024: sends to 0x5b70ef457f1ffcd5b1c9566725f23c23cb8c4ced
 - 0x5b70ef457f1ffcd5b1c9566725f23c23cb8c4ced receives dust from 0x3b7c7f075c597ad2aa763526b32fbc285432dd73 on June 27 2024
 - 0x3b7c7f075c597ad2aa763526b32fbc285432dd73 received launderd STX from Bitget on June 17 2024
 - 0x3b7c7f075c597ad2aa763526b32fbc285432dd73 also sends to 0x4927f5848a85738210f08262fd04e568e0a34fab, which is another peronsal wallet 
+- 0xc51d1237dc91f4d844d69b80e1ed52a2612f3e05 sends to 0x4927f5848a85738210f08262fd04e568e0a34fab
+- 0x76b30d808e98ab6f896c449d1a8f677231d40f0c sends to 0x4927f5848a85738210f08262fd04e568e0a34fab
 
-
+July 18 2024: Deploys Gnosis Safe
+- 0x82715798af6f2194c615e2ad235ad5f6dced5315 
 
 
 

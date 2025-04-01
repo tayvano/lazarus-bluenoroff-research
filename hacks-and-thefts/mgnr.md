@@ -4,6 +4,8 @@ Date:: October 8th, 2021
 
 Amount Stolen:: $24,100,000
 
+Tags:: 🔑 SquidSquad
+
 
 ---
 
@@ -31,14 +33,37 @@ Amount Stolen:: $24,100,000
 
 ## Onchain
 
+
+- 0xe79bc301e7dfaeb5eb0a3cc3be3ab71cf721ae6f - Victim
+- 0x4a6f894ccfe3f8dcb578a05c47f509346fbf8a20 - Victim
+- 0x931057b79ff539db5a2813bcb3a3ca5b5242e82c - Victim
+- 0x9614f88a1f0f791d255a2c50ae73900fd5b64f29 - Victim
+- 0x291084b4e82e1087a310cf2cf05612ca19f9e567 - Victim
+- 0x3e0cf96ed4dcd16a800bf0a54f9ff791814a8a4e - Victim
+- 0xbcb0faadb5c61baf075233d61b983da147fcdae5 - Victim
+- 0x44059c8fbcab0f03c7433ec99017662983b074e8 - Victim
+- 0x89509a50e75d20836d9d77dea23b91549771be95 - Victim
 - 0x57737d6f8ea0099c30c96754a436e46d4dd3fa80 - Primary Attacker
-- 0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc
-- 0x1398db28ca00d9f943355d6b57ab28a61110bfef
-- 0xefdd66340b2988bc8c90147318066e9816e9ab86
-- 0xf49193605dcbccc6b8c2ea4b22795ec1ef090ee0
+- 0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc - Theft
+- 0x1398db28ca00d9f943355d6b57ab28a61110bfef - Theft
+- 0xefdd66340b2988bc8c90147318066e9816e9ab86 - Theft
+- 0xf49193605dcbccc6b8c2ea4b22795ec1ef090ee0 - Theft
+- 0xd6897f53b7120054be1afd8c47d68740fcadab7d - Theft
+- 0xfb26b00f5bde7e466034b54bf11794421be53d6e - Theft
+- 0xdc2620681fa67331230ec708278b4dac79193557 - Theft
+- 0x6fd6dc99efd74786b76cfb2f776f38aaa509eea0 - Theft - to TC (4x1, 5x10, 6x100)
+- 0xe14c547a5c63d21f94ee002672bb0d2d13988efc - Theft
+- 0x68ab84971a26f0d14a2e014c956b4dbadee9075e - Theft
+- 0x6ac2e36a0439978942194697446836117e5c4249 - Theft
+- 0x68f3be7637b2bcc84caebd8c873f1ffc2bba01e3 - Theft
+- 0xd6291f9ad99d6f11c1100d614317b549fdbed1a6 - Theft
+- 0x072422f1b6946740e43da4e2003f565a582a8e89 - Theft
 - 0x246569f8b420c8d850c475c53d0d59973b3f08fc - Paxful Deposit
 - 0x593dc5e1ad81667bbfc90739dd2c09c926920e3b - Paxful Deposit
 - 0x2e1155cf5374cba058a04fd03ebd0ba19afe580d - Noones Deposit
+- 0x134357c0371b681ce02030a4c8f56abc3cc86b14 - Dust Collector Apr 2023
+- 0x00f8dcd0b71ec7f1f131988d4134fbca0367cc1d - Dust Apr 2023
+- bc1qa8ct4krhc4lycat0sq5sdahznv3aqahdqxgfzc - Dust Apr 2023
 
 
 ### Post-TC Cluster (includes mgnr, arthur, easyfi, hugh karp, and countless others): 
