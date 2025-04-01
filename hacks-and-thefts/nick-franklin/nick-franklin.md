@@ -79,9 +79,66 @@ Also associated with:
 - 0x5F46259b980e6921656E8dCB46EF9281A401ed69 - AQUA
 
 
+## Connections on TG 
+
+When going through all of "Nick's TG History I noticed some repeated names showing up lol
+
+### [Loopring Chat](https://t.me/loopring_en/321713)
+
+- 7089289228 Shadowcrest @devwhale_Lin "I build UI, smart contracts and web3️ work. My excellency is high speed and quality. I prefer full time/contract jobs. Does anyone need?"
+- 7059003641 Nick "How much do you need?"
+- 7038998690 Pro Eliot @proeliot25 "if you are looking for a blockchain & web dev, let me know!"
+- 6616968320 Deleted Account "I am very proficient with fullstack and blockchain technology. If you have any wℯb or software dvℯl○pmℯnt need, let's contact me."
+- 6485642880 Deleted Account "👋👋"
+- 7182937038 Victor @crypt0_f4n "Hi, Loopring team, Who is responsible for partnership in this group?"
 
 
+### [Kinza Finance](https://t.me/kinza_finance/52131)
 
+- 7182937038 Victor @crypt0_f4n "Hi, Kinza team, I have some questions about your project. Who do I need to contact?"
+- 6513796713 Nick: "Hi, @farseekkinza , I want to give you some advice for security of Kinza. I'm Nick L Franklin-leading blockchain security engineer."
+
+
+### 7182937038 Victor
+
+- 🆔 ID: 7182937038
+- 👤 Type: User
+- 🏷 Title: Victor
+- 📧 Username: @crypt0_f4n @n1c014s @ivan_mak 
+- 📧 Old username: @T0P_TR4DER 
+- 🌍 DC: 4
+- @elixir_network Elixir - The Lounge
+- @BerachainEco Berachain Ecosystem
+- @polaris_devs Polaris Devs
+- @bsquared_chat B² Network Official Chat
+- @StakeStone StakeStone
+- @BinanceCrpto Binance
+- @radiantcapitalofficial Radiant Capital
+- @ApeXdex ApeX Community
+- @ETHSecurity ETHSecurity Community
+- @stakefish stakefish
+- @iexec_rlc_official iExec RLC Official Discussion _ NO PRICE TALK
+- @wazirx_discuss WazirX Discuss
+- @loopring_en Loopring English Community
+- @indodaxroom INDODAX - Indonesia Bitcoin & Crypto Exchange Official Group
+- @angelinvestorcommunity Angel Investors Community
+
+
+### 7128441011 David | Aqualoan
+- 🆔 ID: 7128441011
+- 👤 Type: User
+- 🏷 Title: David | Aqualoan
+- 📧 Username: @aqualoan_bd @david_ven @CRYPT0_F4N 
+- 🌏 DC: 5
+- @StakeStone StakeStone
+- @sentioxyz Sentio User Group
+- @radiantcapitalofficial Radiant Capital
+- @ListaDAO Lista DAO [Official Channel]
+- @deepcoin_english Deepcoin English
+- @staderlabs Stader Labs Official Community
+- @SonicBuilders Sonic Builders
+- @stakewise_io StakeWise
+- @BENQIFinance BENQI Finance - Official
 
 
 
@@ -138,8 +195,7 @@ Also associated with:
 | 2024-Mar-13 | NFT Drainer Phishing                                            | Retweet                                                         |
 | 2024-Mar-13 | ScamSniffer                                                     | Quote tweet "a good and necessary tool."                        |
 | 2024-Mar-14 | IT Token                                                        |                                                                 |
-| 2024-Mar-14 | MO Token                                                        |                                                                 |
-| 2024-Mar-15 | Something with birdgeViaLifi?                                   | "not hacking due to contract vulnerability. Maybe rug-pull"     |
+| 2024-Mar-15 | Mozaic Finance                                                  | "not hacking due to contract vulnerability. Maybe rug-pull"     |
 | 2024-Mar-16 | TGBS Token                                                      | "maybe this is rug pull"                                        |
 | 2024-Mar-20 | ParaSwap                                                        |                                                                 |
 | 2024-Mar-21 | Airdao                                                          |                                                                 |
