@@ -209,8 +209,8 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2022 | $760,649,228       | 13          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,164,146       | 25          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $932,092,107       | 49          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $1,610,963,819     | 10          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,554,255,300** | **164**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2025 | $1,611,479,519     | 10          |                     |                    |                     |        |                    |              |                    |           |
+|      | **$5,554,771,000** | **164**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -391,15 +391,15 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🎙️ | 2024-May-28 | [HYVE](./hacks-and-thefts/hyve.md)                                                               | $100,000           |
 | 🎙️ | 2024-May-29 | [SpaceCatch](./hacks-and-thefts/spacecatch.md)                                                   | $200,000           |
 | 👛 | 2024-May-31 | [Bitcoin DMM](./hacks-and-thefts/bitcoin_dmm.md)                                                 | $305,800,000       |
-| 🔑 | 2024-Jun-11 | [Theft from Individual C7](./hacks-and-thefts/c7.md)                                             | $4,200,000         |
+| 🔑 | 2024-Jun-11 | [Individual C7](./hacks-and-thefts/c7.md)                                                        | $4,200,000         |
 | 👛 | 2024-Jun-22 | [CoinStats](./hacks-and-thefts/coinstats.md)                                                     | $2,300,000         |
-| 🔑 | 2024-Jun-28 | [Theft from Individual C4](./hacks-and-thefts/c4.md)                                             | $400,000           |
+| 🔑 | 2024-Jun-28 | [Individual C4](./hacks-and-thefts/c4.md)                                                        | $400,000           |
 | 👛 | 2024-Jul-01 | [Kyrrex](./hacks-and-thefts/kyrrex.md)                                                           | $13,500,000        |
 | 👛 | 2024-Jul-18 | [Wazirx](./hacks-and-thefts/wazirx.md)                                                           | $230,000,000       |
-| 🔑 | 2024-Jul-22 | [Theft from Individual I4](./hacks-and-thefts/i4.md)                                             | $1,500,000         |
+| 🔑 | 2024-Jul-22 | [Founder/CEO of I4](./hacks-and-thefts/i4.md)                                                    | $1,500,000         |
 | 🔐 | 2024-Jul-24 | [T6](./hacks-and-thefts/t6.md)                                                                   | $400,000           |
 | 🎙️ | 2024-Aug-07 | [Nexera](./hacks-and-thefts/nexera.md)                                                           | $1,900,000         |
-| 🔑 | 2024-Aug-16 | [Theft from Individual A4](./hacks-and-thefts/a4.md)                                             | $2,500,000         |
+| 🔑 | 2024-Aug-16 | [Individual A4](./hacks-and-thefts/a4.md)                                                        | $2,500,000         |
 | 🔑 | 2024-Aug-30 | [Metaschool](./hacks-and-thefts/metaschool.md)                                                   | $212,182           |
 | 👛 | 2024-Sep-10 | [Indodax](./hacks-and-thefts/indodax_2024.md)                                                    | $22,000,000        |
 | 🔑 | 2024-Sep-13 | [Adot](./hacks-and-thefts/adot.md)                                                               | $300,000           |
@@ -410,7 +410,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🍎 | 2024-Oct-16 | [Radiant](./hacks-and-thefts/radiant.md)                                                         | $58,000,000        |
 | 🎙️ | 2024-Oct-18 | [Tapioca](./hacks-and-thefts/tapioca.md)                                                         | $4,700,000         |
 | 🔑 | 2024-Oct-18 | [Fake Hack VC Thefts](./hacks-and-thefts/hack-vc.md)                                             | $77,000            |
-| 🔑 | 2024-Jul-06 | [Theft from Individual M4](./hacks-and-thefts/m4.md)                                             | $1,400,000         |
+| 🔑 | 2024-Jul-06 | [Individual M4](./hacks-and-thefts/m4.md)                                                        | $1,400,000         |
 | 🎙️ | 2024-Oct-30 | [Bitbucket Dev Scam](./hacks-and-thefts/gglab-mvp--v1.md)                                        |                    |
 | 🎙️ | 2024-Oct-31 | [Scallop](./hacks-and-thefts/scallop.md)                                                         | $165,000           |
 | 🔐 | 2024-Oct-31 | [M2](./hacks-and-thefts/m2.md)                                                                   | $13,000,000        |
@@ -427,13 +427,13 @@ Note: all my research starts onchain and works backwards from there using victim
 |    |             |                                                                                                  |                    |
 | 🔑 | 2025-Jan-20 | [Unknown Jan 2025](./hacks-and-thefts/jan2025.md)                                                | $1,700,000         |
 | 👛 | 2025-Jan-23 | [Phemex](./hacks-and-thefts/phemex.md)                                                           | $85,085,704        |
-| 🔑 | 2025-Feb-05 | [Russell](./hacks-and-thefts/russell.md)                                                         | $610,000           |
+| 🔑 | 2025-Feb-05 | [Russell](./hacks-and-thefts/russell.md)                                                         | $1,125,700         |
 | 🔑 | 2025-Feb-05 | [Unknown Feb 2025](./hacks-and-thefts/feb2025.md)                                                | $610,000           |
 | 🔐 | 2025-Feb-17 | [Ripio](./hacks-and-thefts/ripio.md)                                                             | $7,800,000         |
 | 👛 | 2025-Feb-21 | [Bybit](./hacks-and-thefts/bybit.md)                                                             | $1,500,000,000     |
-| 🔑 | 2025-Feb-28 | [CEO of A6](./hacks-and-thefts/a6.md)                                                            | $410,000           |
+| 🔑 | 2025-Feb-28 | [Founder/CEO of A6](./hacks-and-thefts/a6.md)                                                    | $410,000           |
 | 🔑 | 2025-Mar-01 | [Unknown Mar 2025](./hacks-and-thefts/mar2025.md)                                                | $3,200,000         |
-| 🔑 | 2025-Mar-07 | [CEO of B3](./hacks-and-thefts/b3.md)                                                            | $3,186,200         |
+| 🔑 | 2025-Mar-07 | [Founder/CEO of B3](./hacks-and-thefts/b3.md)                                                    | $3,186,200         |
 | 🔑 | 2025-Mar-21 | [Zoth](./hacks-and-thefts/zoth.md)                                                               | $8,361,915         |
 |    | **2025**    | **TOTAL**                                                                                        | **$1,610,963,819** |
 
