@@ -1,5 +1,7 @@
 # Lazarus / DPRK / Cryptocurrency / Web3 / Etc
 
+
+
 > “If the Internet is like a gun, cyberattacks are like atomic bombs.” – Kim Jon Il
 
 > “Cyberwarfare is an all-purpose sword that guarantees the North Korean People’s Armed Forces ruthless striking capability, along with nuclear weapons and missiles.” – Kim Jong-un
@@ -86,7 +88,8 @@ Note: all my research starts onchain and works backwards from there using victim
 - May be the work of operators previously responsible for broader APT38 activity
 - On-chain Observations: Express VPN, occasional leak of Ryugyong-dong IPs
 - Example applications (all designed to appear as legitimate cryptocurrency trading or portfolio management tools): TokenAIS, CryptAIS, CreAI Deck, AlticGO, and Esilet
-- Past Attacks: WazriX, DMM Bitcoin, Poloniex, HTX/Heco, Stake, Coinex, Alphapo, Coinspaid, Atomic Wallet, JumpCloud, 3CX, Harmony, Ronin
+- Past Attacks: Bybit/Safe, Phemex, XT, Indodax, WazriX, DMM Bitcoin, Poloniex, HTX/Heco, Stake, Coinex, Alphapo, Coinspaid, Atomic Wallet, JumpCloud, 3CX, Harmony, Ronin
+- [Feb 2025 | Cryptocurrency APT Intelligence: Unveiling Lazarus Group’s Intrusion Techniques](https://slowmist.medium.com/cryptocurrency-apt-intelligence-unveiling-lazarus-groups-intrusion-techniques-a1a6efda7d34)
 - [Jul 2024 | Recent Social Engineering - Raw Convos, Takeaways](https://twitter-thread.com/t/1810455262320570416)
 - [Jun 2024 | North Korean Government-Backed Groups Targeting Brazil](https://cloud.google.com/blog/topics/threat-intelligence/cyber-threats-targeting-brazil#:~:text=In%20early%202024%2C%20PUKCHONG%20(UNC4899)%20targeted%20cryptocurrency%20professionals%20in%20multiple%20regions)
 - [Jul 2023 | Social engineering campaign targets technology industry employees](https://github.blog/2023-07-18-security-alert-social-engineering-campaign-targets-technology-industry-employees/)
@@ -97,9 +100,9 @@ Note: all my research starts onchain and works backwards from there using victim
 - [Apr 2022 | TraderTraitor: North Korean State-Sponsored APT Targets Blockchain Companies (Web)](https://cisa.gov/news-events/cybersecurity-advisories/aa22-108a)
 
 
-## 🍎 Applejeus / Citrine Sleet
+## 🍎 Applejeus / Citrine Sleet / UNC4736
 
-- aka: Gleaming Pisces, Labyrinth Chollima, UNC4736, Hidden Cobra, DEV-0139
+- aka: Gleaming Pisces, Labyrinth Chollima, Hidden Cobra, DEV-0139
 - A threat group that has been active since at least 2018
 - This group performed attacks targeting the cryptocurrency industry and is known for its association with the AppleJeus campaign.
 - Primarily targets: financial institutions, particularly organizations and individuals managing cryptocurrency, for financial gain.
@@ -114,8 +117,11 @@ Note: all my research starts onchain and works backwards from there using victim
     - 2022 [Deribit](./hacks-and-thefts/deribit.md)
     - 2023 [Polynetwork](./hacks-and-thefts/polynetwork-2023.md)
     - 2024 [Radiant](./hacks-and-thefts/radiant.md)
+    - 2025 [Nick Franklin Attempt on 1inch](./hacks-and-thefts/nick-franklin/index.md)
+
+- [Mar 2025 | Nick Franklin attempts to hit 1inch Team Member](https://hackmd.io/@pcaversaccio/1inch-analysis-app-a-dprk-trojan-horse)
 - [Aug 2024 | CVE-2024-7971: North Korean threat actor Citrine Sleet exploiting Chromium zero-day](https://microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/)
-- [Mar 2022 | CVE-2022-1096: Chrome Update Released - type confusion V8]
+- [Mar 2022 | CVE-2022-1096: Chrome Update Released - type confusion V8](https://thehackernews.com/2022/12/google-rolls-out-new-chrome-browser.html)
 - [Apr 2023 | Linux malware strengthens links between Lazarus and the 3CX supply-chain attack](https://www.welivesecurity.com/2023/04/20/linux-malware-strengthens-links-lazarus-3cx-supply-chain-attack/)
 - [Dec 2022 | DEV-0139 launches targeted attacks against the cryptocurrency industry](https://microsoft.com/en-us/security/blog/2022/12/06/dev-0139-launches-targeted-attacks-against-the-cryptocurrency-industry/)
 - [Dec 2022 | ₿uyer ₿eware: Fake Cryptocurrency Applications Serving as Front for AppleJeus Malware](https://volexity.com/blog/2022/12/01/buyer-beware-fake-cryptocurrency-applications-serving-as-front-for-applejeus-malware/)
@@ -140,6 +146,8 @@ Note: all my research starts onchain and works backwards from there using victim
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [Apr 2025 | DPRK IT Workers Expanding in Scope and Scale](https://cloud.google.com/blog/topics/threat-intelligence/dprk-it-workers-expanding-scope-scale)
+- [Dec 2024 | Fourteen North Korean Nationals Indicted for Carrying Out Multi-Year Fraudulent Information Technology Worker Scheme and Related Extortions](https://www.justice.gov/archives/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information)
 - [Sep 2024 | UNC5267 - Staying a Step Ahead: Mitigating the DPRK IT Worker Threat](https://cloud.google.com/blog/topics/threat-intelligence/mitigating-dprk-it-worker-threat)
 - [Sep 2024 | Dozens of Fortune 100 companies have unwittingly hired North Korean IT workers, according to report](https://therecord.media/major-us-companies-unwittingly-hire-north-korean-remote-it-workers)
 - [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))

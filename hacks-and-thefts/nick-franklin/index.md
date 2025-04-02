@@ -29,6 +29,8 @@
 
 - https://x.com/danielvf/status/1905645327035564110
 
+- https://x.com/tayvano_/status/1905761068741459974
+
 
 
 # Addressses
