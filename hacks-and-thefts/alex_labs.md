@@ -203,6 +203,24 @@ On 14th May, CertiK’s internal alerting system detected a suspicious transfer 
 
 ### Personal/Test Wallets
 
+- 0x2bd8a5310f2b62aee6c1fde782a1bb02e23ef9c1 A
+- 0x474ae2bedc010e746f26723c508a83ca09d18029 A
+- 0x7ab0fad50169e05d6d688c832c9c9103216a94b4 A
+- 0x76b30d808e98ab6f896c449d1a8f677231d40f0c A
+- 0x5b70ef457f1ffcd5b1c9566725f23c23cb8c4ced A
+- 0xc51d1237dc91f4d844d69b80e1ed52a2612f3e05 A
+- 0x55adc85fb2ba51d045d09d0695b1ab88e5502334 A
+- 0x736b2a990033b3138c484a86a333cf96131f2b0a A
+- 0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974 A
+- 0x5d90955cd3b04bdc48eb68ce3a9aac04132571f4 A - Receives from Oct 31, 2023  Swingby Skybridge user that goes to peelchain
+- 0x4927f5848a85738210f08262fd04e568e0a34fab A
+- 0x55adc85fb2ba51d045d09d0695b1ab88e5502334 A + W + Frax
+- 0xc4562666d8e5c38cd46788e8b13e6edbcfadd10b W
+- 0xe3d830249711b3f6f59297719f17e4b8d5bdc9a4 Zoth
+- 0xc771d698673fb72e6e5e0599323b45c445d99eaa Zoth
+- 0x54a34ac0cef536f791197cc7209dbba0bee916a8 Zoth
+- 0x16b936e9be1d840198c57d9a3a4d70639bec474e Zoth
+
 **0x47e12e7bc11abedd1e1cfe2bf8725ad6e2014974** is the personal wallet of one of the guys, clearly.
 
 
@@ -222,6 +240,13 @@ Dec 15 2023 0x81a4869e941ca22d1a0ecff934abf87976d4578a sends leftover $1.7k to:
 
 
 May 10, 2024 7:57:35 AM: ALEX Stuff
+
+June 05 2024 + June 13 2024: Frax Transfer Froms
+- 0x2b42614380a51e5e2bd9dbb8fd4724be53f063228fcb7d0300b195a6cb3b83cb
+- 0x1b9f5ce14aea9752bcdd887e07b52bc1941e892d7bfdcf4b54a9b6274ec7cbbd
+- From: 0x55ADc85fb2bA51D045d09D0695B1AB88E5502334
+- TransferFrom: 0x736b2A990033B3138c484a86a333CF96131F2b0A
+- To: 0x5d90955cD3B04bdc48EB68cE3a9AAC04132571f4
 
 July 2024: Paying for something via Bybit, WazirX, Coingate, Cryptomus
 

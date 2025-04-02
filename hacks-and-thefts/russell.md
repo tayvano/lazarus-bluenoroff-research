@@ -1,12 +1,12 @@
 ## Russell Feb 2025 Theft
 
-
 Date:: February 4th, 2025 
 
 Time:: 2:30 AM
 
 Amount Stolen:: $1,125,700 (minus the $390k they paid themselves for the open loan?)
 
+Tags:: 🔑 SquidSquad
 
 --
 
@@ -71,8 +71,6 @@ Feb 1 07:56 whoops
 - 0x16c9449129366d3f98da5a578eeb12be12d17d6c - Most Likely Outputs
 - 0xe9f98c5c413e7b8e63b1994bf84aae4d70f235d0 - Most Likely Outputs
 - 0xdd8da56ce53d9d6dd9575916726433c7e5a5ca5b - Consolidation (Mar 19)
-
-
 
 
 - 0xb85a02bf1c8ed7ad3daca62d52d1607e6f920bcf1a8453d3d7b6a839f8251b9f
