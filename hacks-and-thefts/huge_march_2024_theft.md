@@ -110,7 +110,8 @@ Tags:: 🔑 SquidSquad
 
 ### EVM Theft/Laundry
 
-
+- 0xa36c5180d1c53d3759ffcb82c9e53e6495813ae8 - Victim
+- 0x44a910eb0a15235808e7201c9c422a672a7e0118 - Victim
 - 0xa719b70ea2855242678018a40f9be26adf49e6de - Dormant
 - 0x890466cfbbb9ce01672edcdf5c823daf4c15612f - Theft/Laundry
 - 0x9d2297c4df32f4b2c8a6a4bcf7951ac643a934ee - Theft/Laundry

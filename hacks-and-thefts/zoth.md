@@ -43,7 +43,19 @@ https://x.com/hackenclub/status/1903153015818781150
 - 0x54a34ac0cef536f791197cc7209dbba0bee916a8 - Zoth Tester 3
 - 0x16b936e9be1d840198c57d9a3a4d70639bec474e - Zoth Tester 4 (Feb 7-Mar 20)
 
-
+- 0xcb03931637cbc8d486df81f4226955f80e1acd45 - eXch Depo
+- 0x2128e6b2a8adabb00450fee4a65a660233735c4f - eXch Depo
+- 0x7cC8eF645C698aF7c9A49d76d13a2fF441005d6D - eXch Depo
+- 0xa7e659fcef6ddc51e2b2509800b8686667b59d8f - eXch Depo
+- 0xc20350b94750e221868651165cb35457e748502b - eXch Depo
+- 0x82de40535a8834970b82376a8a4df1b97e2105b4 - eXch Depo
+- 0x1a7edda77ff5e5be8f09d6be299fd34daa967544 - eXch Depo
+- 0x0eb7ebc4d7be50a7b9c1a3dd82fa38dc0a04630e - eXch Depo
+- 0x594275d9d7afd503b03a3ff425be19167008da36 - eXch Depo
+- 0x0947aaecc84e2d705944f703d6b01974738ec52f - eXch Depo
+- 0xe5334345e405e5a37de186e2223d6d5ecd05f260 - eXch Depo
+- 0xa15ba59c11cce34eda66bca0dbad3608fb4c876f - eXch Depo
+- 0x341fa72282aba71a66e37335f011b82a28ff49ba - eXch Depo
 
 
 #### Source of Funds - Feb 7, 2025
