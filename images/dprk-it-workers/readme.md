@@ -235,21 +235,25 @@
 - ![](1913269301244793211-02.png)
 
 
+### 139.5.157[.]128 and 212.91.193[.]27
 
+- https://x.com/Narcass3/status/1916191078631289200
+
+- ![](1916191078631289200.png)
 
 
 
 
 ## Raw Sources
 
-- https://news.myseldon.com/ru/news/index/308437863?requestId=4ef53e39-af00-4e6b-94a7-647f53d39e85
+### https://news.myseldon.com/ru/news/index/308437863?requestId=4ef53e39-af00-4e6b-94a7-647f53d39e85
 
 - ![](./ice-skating-01.jpg)
 
 - ![](./ice-skating-02.jpg)
 
 
-- https://chollima-group.io/posts/tracking-a-north-korean-it-worker-cell/
+### https://chollima-group.io/posts/tracking-a-north-korean-it-worker-cell/
 
 - ![](naoki.png)
 
