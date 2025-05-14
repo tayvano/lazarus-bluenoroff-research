@@ -146,6 +146,7 @@ Note: all my research starts onchain and works backwards from there using victim
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [May 2025 | Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
 - [Apr 2025 | DPRK IT Workers Expanding in Scope and Scale](https://cloud.google.com/blog/topics/threat-intelligence/dprk-it-workers-expanding-scope-scale)
 - [Dec 2024 | Fourteen North Korean Nationals Indicted for Carrying Out Multi-Year Fraudulent Information Technology Worker Scheme and Related Extortions](https://www.justice.gov/archives/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information)
 - [Sep 2024 | UNC5267 - Staying a Step Ahead: Mitigating the DPRK IT Worker Threat](https://cloud.google.com/blog/topics/threat-intelligence/mitigating-dprk-it-worker-threat)
@@ -517,6 +518,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2025-02-24 | [Bybit Incident Investigation Preliminary Report - Verichains](./pdfs/2025-02-24_Bybit-Incident-Investigation_Preliminary-Report_Verichains.pdf) |
 | 2025-02-24 | [Bybit Interim Investigation Report - Sygnia](./pdfs/2025-02-24_Bybit-Interim-Investigation-Report_Sygnia.pdf) |
 | 2025-03-06 | [Garantex Indictment](./pdfs/2025-03-05_garantex_indictment.pdf) |
+| 2025-05-14 | [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](./pdfs/2025-05-14_DTEX-Exposing-DPRK-Cyber-Syndicate-and-Hidden-IT-Workforce.pdf) |
 
 
 
