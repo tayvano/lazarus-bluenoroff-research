@@ -217,9 +217,9 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2021 | $536,800,000       | 19          | $506,000,000        | 11                 | $428,800,000        | 9      | $250,000,000       | n/a          | $175,600,000       | 6         |
 | 2022 | $760,649,228       | 13          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,164,146       | 25          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
-| 2024 | $932,092,107       | 49          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $1,611,479,519     | 10          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,554,771,000** | **164**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2024 | $933,092,107       | 50          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
+| 2025 | $1,613,777,519     | 15          |                     |                    |                     |        |                    |              |                    |           |
+|      | **$5,554,771,000** | **170**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -430,11 +430,14 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🎙️ | 2024-Dec-05 | [Fake UltraX Dex Job Scam](./hacks-and-thefts/ultrax-dex.md)                                     | $110,000           |
 | 🔑 | 2024-Dec-11 | [O6](./hacks-and-thefts/o6.md)                                                                   | $500,000           |
 | 🎙️ | 2024-Dec-12 | [Willo Campaign](./hacks-and-thefts/willo.md)                                                    | $64,020            |
+| 🔑 | 2024-Dec-16 | [Uknown Dec 2024 Theft](./hacks-and-thefts/2024-dec-unknown.md)                                  | $1,000,000         |
 | 🔑 | 2024-Dec-16 | [SyFu](./hacks-and-thefts/syfu.md)                                                               | $890,000           |
 | 🔑 | 2024-Dec-18 | [R3](./hacks-and-thefts/r3.md)                                                                   | $1,600,000         |
-|    | **2024**    | **TOTAL**                                                                                        | **$932,092,107**   |
+|    | **2024**    | **TOTAL**                                                                                        | **$933,092,107**   |
 |    |             |                                                                                                  |                    |
 | 🔑 | 2025-Jan-20 | [Unknown Jan 2025](./hacks-and-thefts/jan2025.md)                                                | $1,700,000         |
+| 🎙️ | 2025-Jan-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
+| 🎙️ | 2025-Feb-15 | [Misc CI Thefts](./hacks-and-thefts/2025-misc-ci.md)                                             |                    |
 | 👛 | 2025-Jan-23 | [Phemex](./hacks-and-thefts/phemex.md)                                                           | $85,085,704        |
 | 🔑 | 2025-Feb-05 | [Russell](./hacks-and-thefts/russell.md)                                                         | $1,125,700         |
 | 🔑 | 2025-Feb-05 | [Unknown Feb 2025](./hacks-and-thefts/feb2025.md)                                                | $610,000           |
@@ -444,7 +447,13 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔑 | 2025-Mar-01 | [Unknown Mar 2025](./hacks-and-thefts/mar2025.md)                                                | $3,200,000         |
 | 🔑 | 2025-Mar-07 | [Founder/CEO of B3](./hacks-and-thefts/b3.md)                                                    | $3,186,200         |
 | 🔑 | 2025-Mar-21 | [Zoth](./hacks-and-thefts/zoth.md)                                                               | $8,361,915         |
-|    | **2025**    | **TOTAL**                                                                                        | **$1,610,963,819** |
+| 🎙️ | 2024-Apr-23 | [Oxya Admin Key Mint](./hacks-and-thefts/oxya.md)                                                |                    |
+| 🔑 | 2025-Apr-23 | [Unknown April 2025 Theft](./hacks-and-thefts/2025-apr-unknown.md)                               | $525,000           |
+| 🎙️ | 2025-Apr-25 | [Malicious Du-store Repo](./hacks-and-thefts/du-store.md)                                        |                    |
+| 🔑 | 2025-May-08 | [Individual DD](./hacks-and-thefts/dd.md)                                                        | $0                 |
+| 🔑 | 2025-May-19 | [Individual from M11](./hacks-and-thefts/m11.md)                                                 | $560,000           |
+| 🔑 | 2025-May-20 | [Individual M6](./hacks-and-thefts/m6.md)                                                        | $1,200,000         |
+|    | **2025**    | **TOTAL**                                                                                        | **$1,613,777,519** |
 
 
 # PDFs - Indictments & Formal Reports
