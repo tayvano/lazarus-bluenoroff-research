@@ -185,32 +185,98 @@
 
 
 
+### Naoki Murano
+
+- naokimurano
+
+- muranox.eth
+
+- supermutecx
+
+- 0xdpta
+
+- naokimurano@outlook.com
+
+- github.com/supermutecx (archive.ph/96QVA)
+
+- 0x85e0504fcd7981baa68774431099c5e2dcf074dd
+
+- 0x6188a9e76794e7cb337b8e5a2b91808ce34fc6d1
+
+- 0x44A33a4a822194d3C8402629932dd88B0FF49b09
+
+- 0xe6c2d1d7f6ee9e4ee9f8b865d9b5931c06c9c7d1
+
+- 0xc8ad881deb9c02039795c111f2e661894b026ab0 (maybe?)
+
+- 0xf9b9e7209d7297ae58d1c87636957015e3259651 (maybe?)
+
+- https://x.com/aptwhatnow/status/1913292580248314278
+
+- https://x.com/Narcass3/status/1913362337089650798
+
+- ![](1913292580248314278.jpeg)
+
+- ![](1913362337089650798.jpeg)
+
+- ![](naoki.png)
+
+- ![](jenson-naoki-01.png)
+
+- ![](jenson-naoki-02.png)
+
+- ![](naoki-02.png)
+
+
 
 
 
 ### Kazune Takeda
 
+> Direct reach out to the CEO, no freelancer platform. VERY pushy.
+
+> Kazune contacted our former lead dev more than 1 year ago. When that dev left, Kazune started sending CEO messages at a regular basis. So, we spent over 1 year of discussion; a sort of confidence has been built; so, as he seemed good.
+
 - Greg Takeo
+
+- Joe Hisaishi
 
 - mtfuji25 
 
-- kazune.takeda@yahoo.com
+- borrdd34
 
 - kazunetakeda25
 
+- kazune.takeda@yahoo.com
+
+- https://www.npmjs.com/~kazunetakeda25
+
+- 0xba4c58cf3f601ea8297bf9c08058bb1a4bd62921
+
+- 0xdB600c22dfC1D59E5C2B515E8EB37895A6537B2C
+
 - https://x.com/blackbigswan/status/1913312344760873365
-
-
-
-
-
-
-
-### Joe Hisaishi
 
 - https://x.com/Narcass3/status/1913330812709200150
 
+- https://x.com/bunzzdev/status/1636664986708725761
+
 - ![](1913312344760873365.jpeg)
+
+- ![](kazune-takeda-01.jpg)
+
+- ![](kazune-takeda-02.jpg)
+
+- ![](kazune-takeda-03.jpg)
+
+- ![](kazune-takeda-04.jpg)
+
+- ![](kazune-takeda-05.jpg)
+
+- ![](kazune-takeda-06.jpg)
+
+(note black background in these is same as Naoki's background)
+
 
 - ![](1913330812709200150-01.jpeg)
 
@@ -219,6 +285,89 @@
 - ![](1913330812709200150-03.jpeg)
 
 - ![](1913330812709200150-04.jpeg)
+
+- ![](1916191078631289200.png)
+
+
+
+
+
+### zhmolly / David Adachi
+
+- 0x210888f2624d01f9cbc71de5bf4caf5b6dc9fa7f
+
+- GUrBkpnjmxz6ZLBjkd8jMkkrShsYXKropKSes8UCWdqw
+
+- AVXF5qTa937CZ9nuL2M9J2MieYRL5bw8DEXr5QnvwN9L
+
+- LAcNUB7p2VYNA8gEkmPSTdsrDBSwBjzymw5Dbt7UMvB
+
+- gigazh
+
+- zhmoly
+
+- zhmolly
+
+- dainmoly
+
+- davidlucas0402
+
+- jwtradera
+
+- zhmolly@proton.me
+
+- zhmolly@gigadao.io
+
+- github.com/gigazh 
+
+- github.com/zhmoly
+
+- github.com/zhmolly (archive.ph/80EYH)
+
+- github.com/dainmoly
+
+- dainsm@proton.me
+
+- TG @jjmolIy 1968323567
+
+- David Adachi
+
+- davidadachi56@gmail.com
+
+- John Wilhelmsson 
+
+- jwtradera
+
+- zhmolly <jwtradera@outlook.com>
+
+- John Wilhelmsson <jwtradera@outlook.com>
+
+- Sadao Murano <jwtradera@outlook.com>
+
+- David Lucas 
+
+- github.com/davidlucas0402 
+
+- davidlucas0402@outlook.com 
+
+
+### Pham Trung
+
+- Referred by zhmolly so probably zhmolly alt
+
+- pham0315
+
+- github.com/pham0315
+
+- pham.t.35
+
+- pham.t.35@outlook.com
+
+- pt.trung0315
+
+- pt.trung0315@gmail.com
+
+- ZW4HoVLVCc1m2y9ej7RTyCmXMCHDkdpotiB5ELF9fX2
 
 
 
@@ -394,40 +543,6 @@
 
 
 
-### Naoki Murano
-
-- naokimurano
-
-- muranox.eth
-
-- supermutecx
-
-- 0xdpta
-
-- naokimurano@outlook.com
-
-- github.com/supermutecx (archive.ph/96QVA)
-
-- 0x85e0504fcd7981baa68774431099c5e2dcf074dd
-
-- 0x6188a9e76794e7cb337b8e5a2b91808ce34fc6d1
-
-- 0x44A33a4a822194d3C8402629932dd88B0FF49b09
-
-- 0xe6c2d1d7f6ee9e4ee9f8b865d9b5931c06c9c7d1
-
-- 0xc8ad881deb9c02039795c111f2e661894b026ab0 (maybe?)
-
-- 0xf9b9e7209d7297ae58d1c87636957015e3259651 (maybe?)
-
-- https://x.com/aptwhatnow/status/1913292580248314278
-
-- https://x.com/Narcass3/status/1913362337089650798
-
-- ![](1913292580248314278.jpeg)
-
-- ![](1913362337089650798.jpeg)
-
 
 
 
@@ -464,86 +579,6 @@
 
 
 
-
-
-
-
-### zhmolly / David Adachi
-
-- 0x210888f2624d01f9cbc71de5bf4caf5b6dc9fa7f
-
-- GUrBkpnjmxz6ZLBjkd8jMkkrShsYXKropKSes8UCWdqw
-
-- AVXF5qTa937CZ9nuL2M9J2MieYRL5bw8DEXr5QnvwN9L
-
-- LAcNUB7p2VYNA8gEkmPSTdsrDBSwBjzymw5Dbt7UMvB
-
-- gigazh
-
-- zhmoly
-
-- zhmolly
-
-- dainmoly
-
-- davidlucas0402
-
-- jwtradera
-
-- zhmolly@proton.me
-
-- zhmolly@gigadao.io
-
-- github.com/gigazh 
-
-- github.com/zhmoly
-
-- github.com/zhmolly (archive.ph/80EYH)
-
-- github.com/dainmoly
-
-- dainsm@proton.me
-
-- TG @jjmolIy 1968323567
-
-- David Adachi
-
-- davidadachi56@gmail.com
-
-- John Wilhelmsson 
-
-- jwtradera
-
-- zhmolly <jwtradera@outlook.com>
-
-- John Wilhelmsson <jwtradera@outlook.com>
-
-- Sadao Murano <jwtradera@outlook.com>
-
-- David Lucas 
-
-- github.com/davidlucas0402 
-
-- davidlucas0402@outlook.com 
-
-
-### Pham Trung
-
-- Referred by zhmolly so probably zhmolly alt
-
-- pham0315
-
-- github.com/pham0315
-
-- pham.t.35
-
-- pham.t.35@outlook.com
-
-- pt.trung0315
-
-- pt.trung0315@gmail.com
-
-- ZW4HoVLVCc1m2y9ej7RTyCmXMCHDkdpotiB5ELF9fX2
 
 
 
