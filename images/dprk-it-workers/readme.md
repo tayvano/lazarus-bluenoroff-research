@@ -170,6 +170,8 @@
 
 - ![](1913291280911921598.jpeg)
 
+- [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](./pdfs/2025-05-14_DTEX-Exposing-DPRK-Cyber-Syndicate-and-Hidden-IT-Workforce.pdf)
+
 
 
 
@@ -215,6 +217,8 @@
 
 - https://x.com/Narcass3/status/1913362337089650798
 
+- [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](./pdfs/2025-05-14_DTEX-Exposing-DPRK-Cyber-Syndicate-and-Hidden-IT-Workforce.pdf)
+
 - ![](1913292580248314278.jpeg)
 
 - ![](1913362337089650798.jpeg)
@@ -226,6 +230,10 @@
 - ![](jenson-naoki-02.png)
 
 - ![](naoki-02.png)
+
+- ![](naoki-collins.png)
+
+
 
 
 
