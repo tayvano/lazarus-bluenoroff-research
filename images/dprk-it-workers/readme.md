@@ -241,10 +241,6 @@
 
 ### Kazune Takeda
 
-> Direct reach out to the CEO, no freelancer platform. VERY pushy.
-
-> Kazune contacted our former lead dev more than 1 year ago. When that dev left, Kazune started sending CEO messages at a regular basis. So, we spent over 1 year of discussion; a sort of confidence has been built; so, as he seemed good.
-
 - Greg Takeo
 
 - Joe Hisaishi
@@ -255,6 +251,10 @@
 
 - kazunetakeda25
 
+- TG: @ETHFuji
+
+- 3 Chome Kojiyahoncho, Adachi City, Tokyo, Japan 〒121-0832
+
 - kazune.takeda@yahoo.com
 
 - https://www.npmjs.com/~kazunetakeda25
@@ -262,6 +262,10 @@
 - 0xba4c58cf3f601ea8297bf9c08058bb1a4bd62921
 
 - 0xdB600c22dfC1D59E5C2B515E8EB37895A6537B2C
+
+> Direct reach out to the CEO, no freelancer platform. VERY pushy.
+
+> Kazune contacted our former lead dev more than 1 year ago. When that dev left, Kazune started sending CEO messages at a regular basis. So, we spent over 1 year of discussion; a sort of confidence has been built; so, as he seemed good.
 
 - https://x.com/blackbigswan/status/1913312344760873365
 
@@ -284,7 +288,6 @@
 - ![](kazune-takeda-06.jpg)
 
 (note black background in these is same as Naoki's background)
-
 
 - ![](1913330812709200150-01.jpeg)
 

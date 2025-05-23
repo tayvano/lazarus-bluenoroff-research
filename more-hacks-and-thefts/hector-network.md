@@ -204,3 +204,31 @@ Tags: Unknown, DPRK IT Workers?
 - mikhaylovqweasdzxc
 - alexlu0917.dev@gmail.com
 - mikhaylovqweasdzxc@gmail.com
+
+
+## More TODO (Unconfirmed)
+
+Fugi.eth aka Kazune Takeda's resume lists Hector Network as a place he worked:
+
+> Hector Network
+
+> Senior Solidity Engineer, Backend Engineer
+
+> Remote Full Time
+
+> Jun 2023 - Nov 2023
+
+> Hector Network offers DeFi financial services. (Closed)
+
+> Developed smart contracts and optimized protocol features.
+
+> Implemented cross-chain capabilities to improve interoperability.
+
+
+
+
+
+
+
+
+
