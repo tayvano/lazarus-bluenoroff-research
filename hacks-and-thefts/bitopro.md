@@ -5,8 +5,6 @@ Date:: May 9, 2025
 Amount Stolen:: $12,300,000
 
 
-
-
 ---
 
 ## Details
@@ -32,15 +30,25 @@ https://www.facebook.com/BitoGroup/posts/pfbid02SgsySubD6Df1ngQnavsaWHQGnJv3WhBt
 https://www.bitopro.com/ns/en-US/announcements/1226
 
 
+
+
+
 ## Onchain
 
 
-- 0x2453933c98b6e55397103f7c1081626e0a02d2c9
+- 0x2453933c98b6e55397103f7c1081626e0a02d2c9 - Theft
 
-- 0x454cf3892a949c94569ab2663090ecdca811a6f0
+- 0x454cf3892a949c94569ab2663090ecdca811a6f0 - Theft
 
-- bc1qcwzxklr3tr7zjhvql7pqtg57rkvm55vcz8ydul
+- bc1qcwzxklr3tr7zjhvql7pqtg57rkvm55vcz8ydul - Theft
 
-- G1bdPViZztqV5ptH3mVyXdAKYRm1jBhGiGvdDx9LmaCd
+- G1bdPViZztqV5ptH3mVyXdAKYRm1jBhGiGvdDx9LmaCd - Theft
 
-- TRoLEoNiiod5m8TSdmSR4iW17yQCfc2YJV
+- TRoLEoNiiod5m8TSdmSR4iW17yQCfc2YJV - Theft
+
+- 0xc545dd3fc70fa4358d761ba22a59e88e8a01c742 - Victim? $600k o2meta.io?
+
+
+
+
+
