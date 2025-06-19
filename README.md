@@ -55,6 +55,7 @@ Note: all my research starts onchain and works backwards from there using victim
 - UNC1069 has targeted a variety of financial services firms and cryptocurrency exchanges, commonly employing spear-phishing techniques that result in LONEJOGGER (and other) malware infections
 - Past Attacks: A4 (Founder/CEO), I4 (Founder/CEO of DeFi Thing), C4 (defi media person), C7 (CEO of blockchain infra company), ALEX Labs, Samudai Founder, Maverick Founder, Fantom Foundation CEO, Coinshift C-Level, Steadefi, GERA Coin, deBridge (Attempt), Wonderhero, Arthur_0x, bZx, YFETH Admin Key, Metaplay / Polyplay, MNGR, Bondly Finance, Tower Capital, NAOs Finance, FinNexus Admin Key, 990.1 BTC, EasyFi Founder, Mudge / Etna / Mokens Deployer, Indodax ATO, Hugh Karp / Nexus Mutual, L2 Theft (crypto investor), LEAD Wallet Token, CoinMetro, Unibright, Tap Global, Coinberry, Fetch.ai
 - On-chain Laundry Observes: Express VPN, occasional leak Ryugyong-dong IPs
+- [Jun 2025 | Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis)
 - [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 - [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
 - [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
@@ -147,10 +148,13 @@ Note: all my research starts onchain and works backwards from there using victim
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
 - [May 2025 | Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
+- [Apr 2025 | Video Example](https://x.com/blackbigswan/status/1912647965505736753)
 - [Apr 2025 | DPRK IT Workers Expanding in Scope and Scale](https://cloud.google.com/blog/topics/threat-intelligence/dprk-it-workers-expanding-scope-scale)
+- [Feb 2025 | Chollima Group's Tracking of the Laos -> Vladivostok Guys](https://chollima-group.io/posts/tracking-a-north-korean-it-worker-cell/)
 - [Dec 2024 | Fourteen North Korean Nationals Indicted for Carrying Out Multi-Year Fraudulent Information Technology Worker Scheme and Related Extortions](https://www.justice.gov/archives/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information)
 - [Sep 2024 | UNC5267 - Staying a Step Ahead: Mitigating the DPRK IT Worker Threat](https://cloud.google.com/blog/topics/threat-intelligence/mitigating-dprk-it-worker-threat)
 - [Sep 2024 | Dozens of Fortune 100 companies have unwittingly hired North Korean IT workers, according to report](https://therecord.media/major-us-companies-unwittingly-hire-north-korean-remote-it-workers)
+- [Aug 2025 | Zach Thread on IT Workers](https://x.com/zachxbt/status/1824047425822310580)
 - [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))
 - [May 2024 | Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
 - [Mar 2024 | re: DPRK IT Workers I](https://x.com/tayvano_/status/1777911893224808911)
@@ -215,11 +219,11 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2019 | $207,794,000       | 10          | $271,000,000        | 9                  | $271,000,000        | 9      | $200,000,000       | n/a          | $209,272,000       | 8         |
 | 2020 | $313,387,000       | 13          | $300,000,000        | 5                  | $300,000,000        | 5      | $290,000,000       | n/a          | $300,200,000       | 4         |
 | 2021 | $536,800,000       | 19          | $506,000,000        | 11                 | $428,800,000        | 9      | $250,000,000       | n/a          | $175,600,000       | 6         |
-| 2022 | $760,649,228       | 13          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
+| 2022 | $763,349,228       | 14          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,164,146       | 25          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $933,092,107       | 50          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $1,613,777,519     | 15          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,554,771,000** | **170**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2025 | $1,632,110,967     | 20          |                     |                    |                     |        |                    |              |                    |           |
+|      | **$5,579,602,448** | **177**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -336,6 +340,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔑 | 2021-Nov-03 | [bZx](./hacks-and-thefts/bzx.md)                                                                 | $55,000,000        |
 |    | **2021**    | **TOTAL**                                                                                        | **$536,800,000**   |
 |    |             |                                                                                                  |                    |
+| 💼 | 2022-Jan-11 | [MetaPlay ITW Theft](./hacks-and-thefts/metaplay.md)                                             | $2,700,000         |
 | 🔑 | 2022-Jan-27 | [ANKR founder](./hacks-and-thefts/ankr-founder.md)                                               | $1,799,228         |
 | 🔑 | 2022-Feb-10 | [Feb 10 2022 Theft](./hacks-and-thefts/feb_10_2022_theft.md)                                     | $300,000           |
 | 🔑 | 2022-Mar-22 | [Arthur_0x](./hacks-and-thefts/arthur_0x.md)                                                     | $1,700,000         |
@@ -349,7 +354,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔑 | 2022-Oct-31 | [Oct 31 2022 Theft](./hacks-and-thefts/oct_31_2022_theft.md)                                     | $183,000           |
 | 🍎 | 2022-Nov-02 | [Deribit](./hacks-and-thefts/deribit.md)                                                         | $28,000,000        |
 | 💼 | 2022        | [Pixelcraft Potential IT Worker](./hacks-and-thefts/pixelcraft_potential_it_worker.md)           | $0                 |
-|    | **2022**    | **TOTAL**                                                                                        | **$760,649,228**   |
+|    | **2022**    | **TOTAL**                                                                                        | **$763,349,228**   |
 |    |             |                                                                                                  |                    |
 | 💼 | 2023        | [Various 2023 Rug Pulls](./hacks-and-thefts/various_2023_rug_pulls.md)                           | $350,000           |
 | 💼 | 2023-Apr-10 | [Terraport](./hacks-and-thefts/terraport.md)                                                     | $3,900,000         |
@@ -444,16 +449,21 @@ Note: all my research starts onchain and works backwards from there using victim
 | 🔐 | 2025-Feb-17 | [Ripio](./hacks-and-thefts/ripio.md)                                                             | $7,800,000         |
 | 👛 | 2025-Feb-21 | [Bybit](./hacks-and-thefts/bybit.md)                                                             | $1,500,000,000     |
 | 🔑 | 2025-Feb-28 | [Founder/CEO of A6](./hacks-and-thefts/a6.md)                                                    | $410,000           |
-| 🔑 | 2025-Mar-01 | [Unknown Mar 2025](./hacks-and-thefts/mar2025.md)                                                | $3,200,000         |
+| 🔑 | 2025-Mar-01 | [Unknown Mar 2025 Fantom Reuse](./hacks-and-thefts/mar2025.md)                                   | $3,200,000         |
 | 🔑 | 2025-Mar-07 | [Founder/CEO of B3](./hacks-and-thefts/b3.md)                                                    | $3,186,200         |
+| 💼 | 2025-May-08 | [LND FI](./hacks-and-thefts/lndfi.md)                                                            | $500,000           |
 | 🔑 | 2025-Mar-21 | [Zoth](./hacks-and-thefts/zoth.md)                                                               | $8,361,915         |
 | 🎙️ | 2024-Apr-23 | [Oxya Admin Key Mint](./hacks-and-thefts/oxya.md)                                                |                    |
 | 🔑 | 2025-Apr-23 | [Unknown April 2025 Theft](./hacks-and-thefts/2025-apr-unknown.md)                               | $525,000           |
 | 🎙️ | 2025-Apr-25 | [Malicious Du-store Repo](./hacks-and-thefts/du-store.md)                                        |                    |
 | 🔑 | 2025-May-08 | [Individual DD](./hacks-and-thefts/dd.md)                                                        | $0                 |
+| ❓ | 2025-May-09 | [BitoPro](./hacks-and-thefts/bitopro.md)                                                         | $12,300,000        |
 | 🔑 | 2025-May-19 | [Individual from M11](./hacks-and-thefts/m11.md)                                                 | $560,000           |
 | 🔑 | 2025-May-20 | [Individual M6](./hacks-and-thefts/m6.md)                                                        | $1,200,000         |
-|    | **2025**    | **TOTAL**                                                                                        | **$1,613,777,519** |
+| 🔑 | 2025-May-24 | [TAO Founder](./hacks-and-thefts/tao-founder.md)                                                 | $5,116,358         |
+| 🎙️ | 2025-Jun-03 | [SpaceM](./hacks-and-thefts/spacem.md)                                                           | $187,090           |
+| 🔑 | 2025-Jun-12 | [Medhi](./hacks-and-thefts/mehdi.md)                                                             | $230,000           |
+|    | 2025        | TOTAL                                                                                            | $1,632,110,967     |
 
 
 # PDFs - Indictments & Formal Reports
@@ -528,8 +538,8 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2025-02-24 | [Bybit Interim Investigation Report - Sygnia](./pdfs/2025-02-24_Bybit-Interim-Investigation-Report_Sygnia.pdf) |
 | 2025-03-06 | [Garantex Indictment](./pdfs/2025-03-05_garantex_indictment.pdf) |
 | 2025-05-14 | [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](./pdfs/2025-05-14_DTEX-Exposing-DPRK-Cyber-Syndicate-and-Hidden-IT-Workforce.pdf) |
-
-
+| 2025-06-05 | [US v. Virtual Currency Associated With North Korean IT Worker Money Laundering And Sanctions Evasion Conspiracies](./pdfs/2025-06-05-DPRK-IT_complaint_25cv1769_0.pdf) |
+| 2025-06-18 | [US v. ~225,364,961 USDT](./pdfs/2025-06-18_complaint_25-cv-1907.pdf) |
 
 
 
@@ -672,19 +682,16 @@ Note: all my research starts onchain and works backwards from there using victim
 
 # More Random Tweets
 
+
 - https://x.com/tayvano_/status/1668935273047261185
+
 - https://x.com/tayvano_/status/1686916598899281920
+
 - https://x.com/zachxbt/status/1686327312843780097
+
 - https://x.com/zachxbt/status/1683747073227624448
 
 
-
-
-# Spreadsheets
-
-- https://docs.google.com/spreadsheets/d/1n_z0RCCXSfAkhmYAkutqGugUzniLeS7AK_rK3pxS8nc/edit?usp=sharing
-- https://docs.google.com/spreadsheets/d/1Uh-kQPRhR0GzDMFhrYtU6rrYBWmcMBcQUDI40CtWcAQ/edit?usp=sharing
-- https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit?usp=sharing
 
 
 

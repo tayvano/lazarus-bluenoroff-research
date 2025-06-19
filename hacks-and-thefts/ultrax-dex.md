@@ -1,6 +1,6 @@
 # Fake UltraX Dex Job Scam
 
-Amount Stolen:: $110,000
+Amount Stolen:: $110,000 + $256,000
 
 December 5th, 2024
 
@@ -172,5 +172,58 @@ I just thought he had bad connection and tried to reach via Linked In but accoun
 When I check my Metamask wallet, that's when I realise my assets were all gone
 
 https://demo-ultrax.vercel.app/#/trade
+
+
+
+
+
+# Report 3
+
+- I was contacted on LinkedIn for a job opportunity by an individual who claimed to be a business representative. 
+
+- They gave me a small development task and later they askewd me to connect my Metamask wallet in order to assess the current website that they have developed (website no longer functional and accessible). 
+
+- I can only assume that they figured out a way to sign transactions via the fake website while I was connected with my wallet. 
+
+- I lost all my assets (around $2500 in the Linea network) due to my naive nature and because I really thought this was an interview process.
+
+- 0xa966427bE2BE59a6D28953359624d1C225948147
+
+- 0xa8a50D3806603B0773dCe4c182AecdeaB7d4593a
+
+
+
+
+
+
+
+
+
+
+
+
+# Report 4
+
+- https://bitbucket[.]org/tune-tf7/dex-staking-platform/src/main/public/
+
+- https://ultra-dex.vercel.app/
+
+- 0x0054d2575820cf60f5b6d350fb8d3d352bb3b6fd Victim
+
+- 0x71336e2f36e16bad088f0c47ee2b89286dffea14 Victim
+
+- 0x4f72f7ca2e909bc64022466b46f12ab328055500 Victim
+
+- 0x79ff328d43927bf0e1b6a32015c44694ec4d25cb Theft
+
+
+
+# Report 5
+
+- $256,000
+
+- 0x317bC6f1384a35836428E0e3ad0C7E356DA99b43 Theft
+
+
 
 

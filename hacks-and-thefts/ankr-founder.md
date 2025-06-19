@@ -4,6 +4,8 @@ Date:: January 27, 2022 (or Jan 17???)
 
 Amount Stolen:: $1,799,228 (167 ETH + 599,385 FTM)
 
+Tags:: 🔑
+
 
 ---
 

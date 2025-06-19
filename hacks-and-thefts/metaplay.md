@@ -35,3 +35,64 @@ Date:: October 28, 2021
 - https://twitter.com/ersinndemirr_/status/1453841463746482182
 
 - https://twitter.com/NickCarlsen1/status/1506768133121478657
+
+
+
+---
+
+
+# Metaplay - Round 2
+
+Date:: January 11, 2022
+
+Amount Stolen: $2,700,000
+
+Tags:: SQ-ITW
+
+- https://bscscan.com/address/0xC43B1f4E7E47bE5D5663C3B26E4FB3fE7e217f90
+
+- Jikun Liao
+
+- We have filed cybercrime report in the US and working on private investigation to see if we can recover the money from the dev @altp! - Jikun Liao
+
+- Our developer Jikun Liao claims that he shared his passwords in GitHub resulting in a hack. Only he, pk, Swapnil had access to this.
+
+- Ultimately, only one person had been logged in recently, Jikun Liao. Therefore, we will be filing a police report in Houston, Texas where he resides. From what we can see, his explanation is an attempted cover up. It's clearly internal rug by the developer.
+
+- This is the absolute worst nightmare. We believed that this Jikun Liao was trust worthy, but his story does not add up and it's clear that we require authorities to investigate this matter.
+
+- jikun
+
+- jliao
+
+- peezenut
+
+- altp
+
+- t.me/altp
+
+- Singapore
+
+- Houston, Texas
+
+- April 12, 1993
+
+- +1-870-761-1092
+
+- +1-314-925-8746
+
+- jikun@mygameswap.com
+
+- jliao@mygameswap.com
+
+- peezenut@gmail.com
+
+- outsourcely.com/profile/373848
+
+- rocketreach.co/jikun-liao-email_233286867
+
+- linkedin.com/in/jikun-liao-794b61162/
+
+- linkedin.com/in/ak-cy-794b61162
+
+

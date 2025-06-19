@@ -99,6 +99,7 @@
     - Arthur_0x
     - GERA Coin
     - Darshan
+- [Jun 2025 | Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis?utm_source=twitter&utm_medium=social&utm_campaign=cy25-06-rr-edr-global-broad-all-rapid_response_bluenoroff)
 - [Apr 2025 | Latest Personas](https://x.com/tayvano_/status/1906900686694146289)
 - [Mar 2025 | Latest Fake Call Iteration](https://x.com/GiulioXdotEth/status/1899704410416230556)
 - [Mar 2025 | Another Fake Call Example](https://x.com/dazhengzhang/status/1899776299725680975)
@@ -227,10 +228,13 @@
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
 - [May 2025 | Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
+- [Apr 2025 | Video Example](https://x.com/blackbigswan/status/1912647965505736753)
 - [Apr 2025 | DPRK IT Workers Expanding in Scope and Scale](https://cloud.google.com/blog/topics/threat-intelligence/dprk-it-workers-expanding-scope-scale)
+- [Feb 2025 | Chollima Group's Tracking of the Laos -> Vladivostok Guys](https://chollima-group.io/posts/tracking-a-north-korean-it-worker-cell/)
 - [Dec 2024 | Fourteen North Korean Nationals Indicted for Carrying Out Multi-Year Fraudulent Information Technology Worker Scheme and Related Extortions](https://www.justice.gov/archives/opa/pr/fourteen-north-korean-nationals-indicted-carrying-out-multi-year-fraudulent-information)
 - [Sep 2024 | UNC5267 - Staying a Step Ahead: Mitigating the DPRK IT Worker Threat](https://cloud.google.com/blog/topics/threat-intelligence/mitigating-dprk-it-worker-threat)
 - [Sep 2024 | Dozens of Fortune 100 companies have unwittingly hired North Korean IT workers, according to report](https://therecord.media/major-us-companies-unwittingly-hire-north-korean-remote-it-workers)
+- [Aug 2025 | Zach Thread on IT Workers](https://x.com/zachxbt/status/1824047425822310580)
 - [Jul 2024 | How a North Korean IT Worker Tried to Infiltrate Us]((https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us))
 - [May 2024 | Charges and Seizures Brought in Fraud Scheme Aimed at Denying Revenue for Workers Associated with North Korea](https://justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north)
 - [Mar 2024 | re: DPRK IT Workers I](https://x.com/tayvano_/status/1777911893224808911)
@@ -242,6 +246,8 @@
 - [Oct 2023 | U.S. Treasury: Additonal Guidance on the DPRK IT Workers](https://ic3.gov/Media/Y2023/PSA231018)
 - [Apr 2023 | U.S. DOJ: North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://justice.gov/opa/pr/north-korean-foreign-trade-bank-representative-charged-crypto-laundering-conspiracies)
 - [May 2022 | U.S. Treasury: Guidance on the DPRK IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
+
+
 
 
 ## 🎙️ Contagious Interview
