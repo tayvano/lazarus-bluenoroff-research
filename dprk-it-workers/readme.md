@@ -78,27 +78,13 @@
 
 - 2021-2025
 
-- aka: Greg Takeo Joe Hisaishi David Adachi / David Lucas Pham Trung Sadao Elichi Charles Lee Gordon / David Tanaka  Eric Soh John Wilhelmson 
+- aka: Greg Takeo Joe Hisaishi mtfuji25 borrdd34 kazunetakeda25
 
-- handles: mtfuji25 borrdd34 kazunetakeda25 zhmolly zhmoly zzmoly jwtradera realhardworkingdeveloper davidtanaka3 ericsoh10
+- associates: David Adachi / David Lucas, Pham Trung, Sadao Eiichi Murano, Sadao Elichi, Charles Lee Gordon / David Tanaka, Eric Soh, John Wilhelmson, zhmolly zhmoly zzmoly jwtradera realhardworkingdeveloper davidtanaka3 ericsoh10
 
 - 0xba4c58cf3f601ea8297bf9c08058bb1a4bd62921
 
 - 0xdB600c22dfC1D59E5C2B515E8EB37895A6537B2C
-
-- 0x210888f2624d01f9cbc71de5bf4caf5b6dc9fa7f
-
-- GUrBkpnjmxz6ZLBjkd8jMkkrShsYXKropKSes8UCWdqw
-
-- AVXF5qTa937CZ9nuL2M9J2MieYRL5bw8DEXr5QnvwN9L
-
-- LAcNUB7p2VYNA8gEkmPSTdsrDBSwBjzymw5Dbt7UMvB
-
-- ZW4HoVLVCc1m2y9ej7RTyCmXMCHDkdpotiB5ELF9fX2
-
-- 2c5gD79Um49VmLCx54a89vVL84kFCiWmj82Zyg8QVVWi
-
-- 5cGRQ3VRkGYtfuCWmgXnesrwbkn11cE9FFArzZ5iSeqV
 
 - https://chollima-group.io/posts/tracking-a-north-korean-it-worker-cell/
 
@@ -178,7 +164,7 @@
 
 
 
-## Kazune - David Adachi / zhmolly
+## David Adachi / zhmolly
 
 - 2024, 2025, Zach's List zachxbt/status/1824047425822310580
 
@@ -220,7 +206,7 @@
 
 
 
-## Kazune - Pham Trung / jwtradera (zhmolly friend)
+## Pham Trung / jwtradera (zhmolly friend)
 
 - 2024-2025 (jwtradera cluster)
 
@@ -242,7 +228,7 @@
 
 
 
-## Kazune - Sadao Elichi / zhmolly
+## Sadao Elichi / zhmolly
 
 - 2025 (jwtradera cluster)
 
@@ -254,6 +240,10 @@
 
 - zzmoly
 
+- 0xmolly
+
+- Moly
+
 - github.com/sadaorome
 
 - github.com/zhmolly
@@ -264,15 +254,19 @@
 
 - t.me/zhmolly
 
+- zhmolly@proton.me
+
 - Fukuoka, Japan
 
 - Sadao Elichi Japan MM6842521
 
 - 2c5gD79Um49VmLCx54a89vVL84kFCiWmj82Zyg8QVVWi
 
+- BrbAo3gtStKPxUbdomd14WUUAFv5QSBnFqp6NRD6TBGC
 
 
-## Kazune - Charles Lee Gordon (zhmolly friend)
+
+## Charles Lee Gordon (zhmolly friend)
 
 - 2025 (jwtradera cluster)
 
@@ -318,9 +312,7 @@
 
 
 
-
-
-## Kazune - Alex Davis (Charles Gordon alt)
+## Alex Davis (Charles Gordon alt)
 
 - 2025
 
@@ -336,7 +328,7 @@
 
 
 
-## Kazune - Eric Soh / zhmolly
+## Eric Soh / zhmolly
 
 - 2025
 
@@ -360,7 +352,7 @@
 
 
 
-## Kazune - John Wilhelmson / zhmolly
+## John Wilhelmson / zhmolly
 
 - 2021
 
@@ -383,6 +375,7 @@
 - linkedin.com/in/john-wilhelmsson-17b3a0219
 
 - Hello everyone! I'm new to this group. Introduce myself, I'm senior blockchain developer. https://www.linkedin.com/in/john-wilhelmsson-17b3a0219/ https://t.me/elvencoin/2139 8/19/2021
+
 
 
 

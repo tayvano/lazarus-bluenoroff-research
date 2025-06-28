@@ -21,7 +21,6 @@ Found onchain because I'm insane and wanted to know when SQSQ first started fuck
 
 The most interesting thing about this theft is I already had bakuchi.eth labeled on a DPRK IT Worker graph from when we were doing all the August 2024 notifications.
 
-
 When cleaning up my ITW notes I realized that one of the developers that was working for [Truflation](./truflation.md) had also been hired by Napier:
 
 > A new member joins the Napier team!

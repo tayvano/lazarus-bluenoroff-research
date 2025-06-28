@@ -132,3 +132,31 @@
 ## Yet another rainbow graph that honestly shouldn't exist and I apologize in advance
 
 ![](./dust-collector-0xae69.png)
+
+
+
+## ifeel.eth / dontsmile.eth
+
+- https://x.com/tokidok30293601/status/1585478194500497408
+
+- https://x.com/tokidok30293601/status/1585525668900532224
+
+- https://t.me/Starlightinu
+
+- $INUL look at this tx: etherscan.com/tx/0x9ca5ceea3a9a3c9ee439f7ff2545015f8713db74f04d2bd4d185e488a9eb1245
+
+- 701.eth received 279 eth from Shiba Inu deployer
+
+- 701.eth linked to dontsmile.eth
+
+- dontsmile.eth linked to ifeel.eth 
+
+- Starlight dev's alt...
+
+- https://archive.ph/Z3uwy
+
+- https://archive.ph/pGOVU
+
+- https://archive.ph/fZ8Lj
+
+- https://archive.ph/HINb3
