@@ -227,6 +227,8 @@
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [Jun 2025 | US v. Joshua Palmer, Bryan Cho, Bong Chee, Peter Xiao](./pdfs/2025-06-30_DPRK-IT_jin_et_al_indictment.pdf)
+- [Jun 2025 | DPRK IT Workers 101 Video](https://www.youtube.com/watch?v=Y7x0gvfFa0Q)
 - [May 2025 | Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
 - [Apr 2025 | Video Example](https://x.com/blackbigswan/status/1912647965505736753)
 - [Apr 2025 | DPRK IT Workers Expanding in Scope and Scale](https://cloud.google.com/blog/topics/threat-intelligence/dprk-it-workers-expanding-scope-scale)

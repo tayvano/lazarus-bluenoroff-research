@@ -147,6 +147,7 @@ Note: all my research starts onchain and works backwards from there using victim
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [Jun 2025 | US v. Joshua Palmer, Bryan Cho, Bong Chee, Peter Xiao](./pdfs/2025-06-30_DPRK-IT_jin_et_al_indictment.pdf)
 - [Jun 2025 | DPRK IT Workers 101 Video](https://www.youtube.com/watch?v=Y7x0gvfFa0Q)
 - [May 2025 | Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
 - [Apr 2025 | Video Example](https://x.com/blackbigswan/status/1912647965505736753)
@@ -545,7 +546,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2025-05-14 | [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](./pdfs/2025-05-14_DTEX-Exposing-DPRK-Cyber-Syndicate-and-Hidden-IT-Workforce.pdf) |
 | 2025-06-05 | [US v. Virtual Currency Associated With North Korean IT Worker Money Laundering And Sanctions Evasion Conspiracies](./pdfs/2025-06-05-DPRK-IT_complaint_25cv1769_0.pdf) |
 | 2025-06-18 | [US v. ~225,364,961 USDT](./pdfs/2025-06-18_complaint_25-cv-1907.pdf) |
-
+| 2025-06-30 | [US v. Joshua Palmer, Bryan Cho, Bong Chee, Peter Xiao](./pdfs/2025-06-30_DPRK-IT_jin_et_al_indictment.pdf) |
 
 
 ### UN Security Council Reports
