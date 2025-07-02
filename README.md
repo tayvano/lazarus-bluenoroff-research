@@ -544,8 +544,10 @@ Note: all my research starts onchain and works backwards from there using victim
 | 2025-02-24 | [Bybit Interim Investigation Report - Sygnia](./pdfs/2025-02-24_Bybit-Interim-Investigation-Report_Sygnia.pdf) |
 | 2025-03-06 | [Garantex Indictment](./pdfs/2025-03-05_garantex_indictment.pdf) |
 | 2025-05-14 | [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](./pdfs/2025-05-14_DTEX-Exposing-DPRK-Cyber-Syndicate-and-Hidden-IT-Workforce.pdf) |
+| 2025-05-26 | [TRM: All Roads Lead to China](./pdfs/2025-05-26_TRM_All-Roads-Lead-to-China.pdf) |
 | 2025-06-05 | [US v. Virtual Currency Associated With North Korean IT Worker Money Laundering And Sanctions Evasion Conspiracies](./pdfs/2025-06-05-DPRK-IT_complaint_25cv1769_0.pdf) |
 | 2025-06-18 | [US v. ~225,364,961 USDT](./pdfs/2025-06-18_complaint_25-cv-1907.pdf) |
+| 2025-06-25 | [US v. more DPRK IT Worker Facilitators](./pdfs/2025-06-26_DPRK-IT_gov.uscourts.mad.286340.1.0.pdf) |
 | 2025-06-30 | [US v. Joshua Palmer, Bryan Cho, Bong Chee, Peter Xiao](./pdfs/2025-06-30_DPRK-IT_jin_et_al_indictment.pdf) |
 
 

@@ -1,9 +1,7 @@
+
 # DPRK IT Workers
 
-
-
 ### Background Literature
-
 
 - https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf
 
@@ -24,14 +22,296 @@
 - https://x.com/bax1337/status/1931484066970276121
 
 
+---
+
+
+## PONYJACKAL CLUSTER
+
+- ![](./ponyjackal-crew.png)
+
+### Benjamin Nguyen
+
+- ponyjackal.eth
+
+- github.com/ponyjackal
+
+- x.com/ponyjackalx
+
+- benguyen0214@gmail.com
+
+- Has JP Morgan Chase account through Rippling in his name
+
+- 0x5c411cb174c2e163f6465252ae895f3e3e5a8792
+
+- 0xdfae024a22713ecd8049784ca0ba4c9e87753493
+
+- ![](./benjamin-nguyen.jpg)
+
+- https://x.com/zachxbt/status/1940388827392344261
+
+### Andy Bell
+
+- bbshark.eth
+
+- github.com/bbshark99
+
+- x.com/kevin83191687
+
+- 0x241d2b20f2c26a2541a0f121d6a33c29cb4cfe69
+
+- ![](./andy-bell.jpg)
+
+- https://x.com/zachxbt/status/1940388827392344261
+
+### Danny Jin
+
+- dannyjin117@gmail.com
+
+- 0xacb8ba726c04408aecacd6794b4c9dc59652203d
+
+- ![](./danny-jin.jpg)
+
+- https://x.com/zachxbt/status/1940388827392344261
+
+### Muhammad Abdullah
+
+- github.com/polartar
+
+- x.com/m_polartar
+
+- 0xf7f89251eaa664993893efea0e55d8ec3306d959
+
+- ![](./muhammad-abdullah.jpg)
+
+- https://x.com/zachxbt/status/1940388827392344261
+
+### Eric Andrade aka Josh Thomas
+
+- gsofter.eth
+
+- github.com/gsofter
+
+- x.com/ggsofter
+
+- 0xfff50b1b9154b0631591dab746c5fc8f41dc44bd
+
+- 0xe2becede47e8cba800b42323117a15399a6b5334
+
+- ![](./eric-andrade.jpg)
+
+- ![](./eric-andrade-2.jpg)
+
+- https://x.com/zachxbt/status/1940388827392344261
+
+### Sandy Nguyen
+
+- xgracias
+
+- smarterdegen.eth
+
+- bullishgopher
+
+- x.com/bullishgopher
+
+- github.com/bullishgopher
+
+- https://linkedin.com/in/tkcong/ (https://x.com/bullishgopher/status/1272680031681155074)
+
+- https://web3.career/@bullishgopher
+
+- https://x.com/browsercookies/status/1937972789497168329
+
+- 0xe1157497de4d4b0780474da85990ece6ccb0ad36
+
+- 0x2a8f7065eccfa6d8ee49ea9a256315fb6374ee2e
+
+- 0x7af7a8e4a0190bf3e48f3a021fb9251ea915e4d8
+
+- 0x5fdd9679b656e48c7f899c65a47503ec8732fc6c
+
+- 0xb2c681b80ca1f35bf379a3fd44b0eaed032c982a
+
+- EW8oTqNfWi2eQZPqDSG6YqJJnGb6rL4DvDukW421Fzc
+
+- 79Jqz5La12SVDZKJD9YRiP9s39W3NEtki7PUdF3CPWzJ
+
+- ![](./1937972789497168329.jpeg)
+
+- ![](./sandy-nguyen.png)
+
+- https://x.com/zachxbt/status/1940388827392344261
+
 
 ---
 
 
+## BRYAN + BONG + JOSHUA + PEMBA CLUSTER
 
-# Workers
+![](./1939767200166158385.jpeg)
+
+![](./1940202426205905291.jpeg)
+
+![](./bong-pemba-joshua.png)
+
+https://www.wsbtv.com/news/local/north-korea-agents-steal-nearly-1-million-cryptocurrency-buckhead-business/XGEVBB7Z4JHPLPPP5XMNMDZ7DA/
+
+https://www.justice.gov/opa/media/1406396/dl?inline
+
+### Joshua Palmer
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- 0xjsmart
+
+- call-by
+
+- jp-smart
+
+- wewecalibrate
+
+- joshupgig
+
+- github.com/call-by
+
+- github.com/wewecalibrate
+
+- github.com/jp-smart [Archive](archive.ph/grqjk)
+
+- joshupgig@gmail.com
+
+- smart.solidity@gmail.com
+
+- 0x06f90983cd2215379e440fc525e441d6a5fc3fba
+
+- 5Jfb3n8eW4JyQrKJktMNBFXnC1zx2YHjRSkzRrTT5QHh
+
+- 0xa6afe0290fb6f2f7ced0a2753de57f9fa7c9c9dd
+
+- 0xfa802d9b33ed74baff62b189875c2b2d192874eb
+
+- 0x7654e18ff3495675606c008a39b6264da5d0e8a7
+
+- https://www.justice.gov/usao-dc/media/1402691/dl
+
+- ![](./joshua-palmer.png)
+
+- ![](./joshua-palmer-wong-shao-onn.png)
+
+- ![](./naoki-joshua-palmer.png)
+
+- ![](./joshua-palmer-id.png)
+
+- ![](./joshua-palmer-primorye.png)
+
+- ![](./1939788412283998212.png)
+
+- ![](./joshua-palmer-wanted.png)
+
+### Bryan Cho / Chris Yu / atroboj
+
+- 2021, 2022, 2023, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- Chris Yu
+
+- Bryan Cho
+
+- atroobj
+
+- bugarnet
+
+- t.me/atroobj
+
+- atroboj@gmail.com
+
+- github.com/atroboj [Archive](archive.ph/x0LMf)
+
+- github.com/bugarnet (2021, Despace)
+
+- 0x3b9a870c24905256de10863cb360f4b93c7cc60f
+
+- 0xc2b2a9c05740eeb7ee7ba7eb3ab11ec8bebcb1d1
+
+- 0x1043efee936903951b88db23551873bb67292e95
+
+- ESSfP3aAcW6Z59ozut9Jkqy9btaX5YTHt25b3Vhs2hsf
+
+- https://www.justice.gov/usao-dc/media/1402691/dl
+
+- https://www.npmjs.com/~atroboj
+
+- https://cryptototem.com/despace-des/
+
+- https://x.com/bestvideosofct/status/1824786325834432776
+
+- ![](./bryan-cho-despace.jpg)
+
+- ![](./bryan-cho-id.jpg)
+
+- ![](./bryan-cho-chris-yu-1.png)
+
+- ![](./bryan-cho-chris-yu-2.png)
+
+- ![](./1940178325307367493.jpeg)
+
+- ![](./bryan-cho-wanted.png)
+
+### Bong Chee Shen / Alex Shen
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Obyte / Byteball
+
+- devneser
+
+- github.com/devneser
+
+- alexzh.dev@gmail.com
+
+- 0x164729e00e8d0f871189160f36dee4398cade1f2
+
+- 0x2efe21f4fef7e737c0a3491c93be7d696038b6f5
+
+- 0x65b4ba828f85ac429d6a02db1304065a819a53f4
+
+- 0xd9054f484ed98a7dd632eb9c09644616db3dea8c
+
+- GrXoxqM2a6QFKSBdZ9RLWJCBVTFvuuH8eCjjsLbjhpiR
+
+- 0x06f90983cd2215379e440fc525e441d6a5fc3fba
+
+- https://stack.money/asset/byteball
+
+- ![](./bong-chee-shen.png)
+
+- ![](./1939838063192285351.jpeg)
+
+- ![](./bong-chee-wanted.png)
+
+### Pemba Sherpa / Pemba Gulu
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- paladin-120
+
+- pemba.sherpa5232
+
+- pemba.gelu5232
+
+- pemba.sherpa5232@gmail.com
+
+- pemba.gelu5232@gmail.com
+
+- github.com/paladin-120 [Archive](archive.ph/nVIz9)
+
+- 0xfb5d591e8216f5d0964286f09b1f61114c16aab0
+
+- https://archive.ph/EM0z1
+
+- ![](./pemba-sherpa-wanted.jpeg)
 
 
+---
+
+
+## LAOS -> VLAD BOYS
 
 ### Jenson Collins
 
@@ -50,8 +330,11 @@
 - https://dune.com/nfbigjc = Ender + TokenFi + Floki
 
 - 0x44c2ab7db5299e008c586d52e9b6b193e4173471 (nonfungiblejc.eth)
+
 - 0xaa166aa0b46fb42fdaafb7ac351a00186d684837
+
 - 0xb1aa3027d1cbf578009bb3c09c84481b76ad43f1 (MAYBE!)
+
 - 0xb402b45dde5e15ce93809404c104c2fc4918c88c (Probably)
 
 - [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
@@ -71,8 +354,6 @@
 - ![](./naoki-collins.png)
 
 - ![](./1916191078631289200.png)
-
-
 
 ### Kazune Takeda
 
@@ -128,10 +409,6 @@
 
 - ![](./ice-skating-05.png)
 
-
-
-
-
 ## Kazune Takeda - mtfuji25
 
 - mtfuji25
@@ -159,10 +436,6 @@
 - 0xba4c58cf3f601ea8297bf9c08058bb1a4bd62921
 
 - 0xdB600c22dfC1D59E5C2B515E8EB37895A6537B2C
-
-
-
-
 
 ## David Adachi / zhmolly
 
@@ -204,8 +477,6 @@
 
 - LAcNUB7p2VYNA8gEkmPSTdsrDBSwBjzymw5Dbt7UMvB
 
-
-
 ## Pham Trung / jwtradera (zhmolly friend)
 
 - 2024-2025 (jwtradera cluster)
@@ -225,8 +496,6 @@
 - pt.trung0315@gmail.com
 
 - ZW4HoVLVCc1m2y9ej7RTyCmXMCHDkdpotiB5ELF9fX2
-
-
 
 ## Sadao Elichi / zhmolly
 
@@ -263,8 +532,6 @@
 - 2c5gD79Um49VmLCx54a89vVL84kFCiWmj82Zyg8QVVWi
 
 - BrbAo3gtStKPxUbdomd14WUUAFv5QSBnFqp6NRD6TBGC
-
-
 
 ## Charles Lee Gordon (zhmolly friend)
 
@@ -310,8 +577,6 @@
 
 - 5cGRQ3VRkGYtfuCWmgXnesrwbkn11cE9FFArzZ5iSeqV
 
-
-
 ## Alex Davis (Charles Gordon alt)
 
 - 2025
@@ -325,8 +590,6 @@
 - dannyboy-820
 
 - alexdavisgender@gmail.com 
-
-
 
 ## Eric Soh / zhmolly
 
@@ -349,8 +612,6 @@
 - trello.com/u/ericsoh10
 
 - medium.com/@esoh0612
-
-
 
 ## John Wilhelmson / zhmolly
 
@@ -375,9 +636,6 @@
 - linkedin.com/in/john-wilhelmsson-17b3a0219
 
 - Hello everyone! I'm new to this group. Introduce myself, I'm senior blockchain developer. https://www.linkedin.com/in/john-wilhelmsson-17b3a0219/ https://t.me/elvencoin/2139 8/19/2021
-
-
-
 
 ### Naoki Murano
 
@@ -439,10 +697,6 @@
 
 - ![](./ice-skating-05.png)
 
-
-
-
-
 ### Satoshi Naoki / Sano / 0xb10ckdev
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -487,8 +741,6 @@
 
 - ![](./astermirac1e.png)
 
-
-
 ### Leon - Leon Lowden (0xl2)
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -513,8 +765,6 @@
 
 - ![](./ice-skating-04.png)
 
-
-
 ### Leon - Leon Lin (mmsys34, 0xhiler)
 
 - 2025
@@ -535,8 +785,6 @@
 
 - 0x64d668978ddd6145d4f192eefb03691b75f65096
 
-
-
 ### Leon - Abe Sinjiro (prodigy205)
 
 - 2024
@@ -552,942 +800,10 @@
 - 0x90a8974ed484da8e209e6db7b2f84c1b5be345d0
 
 
-
-
-
-
-
-### Kei Nakano / smartcoding51
-
-- OneStake Finance, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- aka: Jin Wang
-
-- smartcoding51
-
-- fantasticfullstackdev
-
-- webdevninja
-
-- Jinathin
-
-- kei-tren
-
-- github.com/smartcoding51 [Archive](archive.ph/mo0QZ)
-
-- github.com/kei-tren [Archive](archive.ph/fhKTT)
-
-- keinakano415@gmail.com
-
-- x.com/kn_amm51
-
-- t.me/kn_amm (ID: 1967508345)
-
-- 0x21e5d5a6e40b32cff77cfe77dca034d6d410131d
-
-- 0x452f205c6c3872691fbce7ce8438370466d55f76
-
-- 0xff22be4f00b937dade564bd9659e265f92afa620
-
-- https://cryptototem.com/onestake-finance-ost/
-
-
-
-### Matias Diaz / Kei Nakano
-
-- 2025
-
-- mndiaz27
-
-- 0xdefilover
-
-- github.com/0xdefilover
-
-- 0x9d66bea448eed9bdbb5f1acf032767b11fc78dcf
-
-- 0x961194d781623ebf5ce43087d85d2731cf1e7d1c
-
-
-
-
-
-### Russell Hieu / Shota Nakamura
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- Nakamura Shota
-
-- John Patch
-
-- Helme0315
-
-- johnpatch0502
-
-- 0xRUS38
-
-- 0xdoccer
-
-- russellhieu
-
-- johnpatch0502@outlook.com
-
-- russellhieu@outlook.com
-
-- github.com/Helme0315 [Archive](archive.ph/vgsFX)
-
-- 0x97467ea9BeF1c925E9D8e2E65932d066869b7f13
-
-- 0xFf6d86807b3387e10dDE52697C3BD7f59b6A145f
-
-
-
-### James Zook + Shota Nakamura
-
-- 2025
-
-- aka Russel Hieu
-
-- 0x38037C0fafae5c97D411c0460c5f0Af40F82B7bd   
-
-- 0x4480206854d67338c8b792a1db2a9189ee75d813   
-
-- 0xB5BcB3935e0B3e6A581FBA37F40D0F472CCf378A   
-
-- 0x1cF9a8fc7A5568B6Dca9f5F73200bC1De69e3ecE 
-
-- BaHNYFQYsBKX541kjEB9sgoHCc7NQdwc16S5ZE9bmYYv
-
-
-
-### Joshua Palmer
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- 0xjsmart
-
-- call-by
-
-- jp-smart
-
-- wewecalibrate
-
-- joshupgig
-
-- github.com/call-by
-
-- github.com/wewecalibrate
-
-- github.com/jp-smart [Archive](archive.ph/grqjk)
-
-- joshupgig@gmail.com
-
-- smart.solidity@gmail.com
-
-- 0x06f90983cd2215379e440fc525e441d6a5fc3fba
-
-- 5Jfb3n8eW4JyQrKJktMNBFXnC1zx2YHjRSkzRrTT5QHh
-
-- 0xa6afe0290fb6f2f7ced0a2753de57f9fa7c9c9dd
-
-- 0xfa802d9b33ed74baff62b189875c2b2d192874eb
-
-- 0x7654e18ff3495675606c008a39b6264da5d0e8a7
-
-- https://www.justice.gov/usao-dc/media/1402691/dl
-
-- ![](./joshua-palmer.png)
-
-- ![](./joshua-palmer-wong-shao-onn.png)
-
-- ![](./naoki-joshua-palmer.png)
-
-- ![](./joshua-palmer-id.png)
-
-- ![](./joshua-palmer-primorye.png)
-
-
-
 ---
-
-
-
-### Lucas Wong
-
-- 2025
-
-- cox1118
-
-- superlwclx
-
-- LucasWongC
-
-- github.com/superlwclx
-
-- github.com/LucasWongC
-
-- t.me/cox1118 (ID: 5034927805)
-
-- lucas.wong.1118@gmail.com
-
-- wm111898@gmail.com
-
-- Discord: c__x__
-
-- lucasw.net
-
-- 0xee52717e6dA13499a3C4ba803e4D952CF052704E
-
-- 0x94A8518B76A3c45F5387B521695024379d43d715
-
-- ![](./lucas-wong.jpg)
-
-
-
-### Jannik Villostas
-
-- 2025
-
-- 0xtomoon
-
-- mrcontract17877
-
-- melonman913@gmail.com
-
-- github.com/0xtomoon
-
-- x.com/mrcontract17877
-
-- t.me/janbuidl (ID:7245484067)
-
-- 0x1FEbc069606ABfbA5d021Ed3768cb5D90c9407D5
-
-
-### Janul Azwan
-
-- 2025
-
-- Resume claims Lucidly, Shoebill, Moby, Dodo, LAToken
-
-- 0xtomoon
-
-- melonman913@gmail.com
-
-- github.com/0xtomoon
-
-- linkedin.com/in/janul-azwan-7b1612361/
-
-- immunefi.com/profile/ethprotector/
-
-- t.me/janbuidl (ID:7245484067)
-
-
-
-### Peter Wang
-
-- 2025
-
-- petherwang@gmail.com
-
-- github.com/hapetherw
-
-- x.com/hapetherw
-
-- linkedin.com/in/peter-wang-780259a3
-
-- t.me/pethercap (ID: 2124964775, prev: @baymax586)
-
-- 0x74bc47ea5201a61c7c9a366bb62ecae2713602a1
-
-
-
-### Chai Somsri 
-
-- 2024, 2025, Credbull
-
-- ChaiSomsri96
-
-- George Capraroiu
-
-- george19871205
-
-- x.com/chaisomsri96
-
-- medium.com/@chaisomsri96
-
-- linkedin.com/in/chai-somsri
-
-- github.com/ChaiSomsri96
-
-- t.me/chaisomsri (ID: 7022528006)
-
-- chaisomsri96@gmail.com
-
-- georgecapraroiu1205@gmail.com
-
-- melonman913@gmail.com
-
-- 0xE5a86c150ac44ab8F8B2661c9e8d8b13887360f0
-
-- 0x9ce96e07c091662c2605eaae9180de22aad6e8db
-
-- https://cryptototem.com/credbull-cbl/ https://www.linkedin.com/in/chai-somsri/
-
-
-
-### Milan Zubic / Patrick Kishi
-
-- 2025
-
-- icetrust0212
-
-- icebera
-
-- github.com/icebera
-
-- zaza.liveedu@gmail.com
-
-- 0x35FcB352027cdDc632b7aE8a50A0410C5bf36248
-
-
-
-### Unknown ITW 
-
-- 2025
-
-- Adjacent to Jannik Villostas and Chai Somsri
-
-- 0x146ab113a6d69033cccdb4eaae61c496c2faaf05
-
-
-
----
-
-
-
-### Scott Brown
-
-- 2025 (Scott Brown Cluster)
-
-- aka Kyle Larsen, Sean Day
-
-- breavedev
-
-- nevermindhim
-
-- verytinydever
-
-- scott.brown0629
-
-- scott.brown0629@gmail.com
-
-- what.a.fabulous1@gmail.com
-
-- sct.brown0629@gmail.com
-
-- github.com/breavedev
-
-- github.com/nevermindhim
-
-- github.com/verytinydever
-
-- linkedin.com/in/scott-brown-b947ba29a
-
-- linkedin.com/in/scott-brown-813445279
-
-- dev.to/scott_brown_b611d05a865cf
-
-- www.impaxrecruitment.com/wp-content/uploads/elementor/forms/6786f200b23aa.pdf
-
-- 0x3b8cc82f5d3ec89d88c58504ecfefe4597020840
-
-- 0xa8cb25ddf0a7195bdc3232ac6e1d812c8a4713fe
-
-- 0x368a337dcdec5cf9849a7563538f03b1516a3f7d
-
-- 0xb25a0580ddf68d4aea11d83f1655016e9520f51a
-
-- 0x38a35ab4235ce7c8b5c4733cee7de9e28e348acb
-
-- 0xce0113e71ce0273d0504a7ef1cd4f0e6e4d196bc
-
-
-
-### Artur Dranhoi
-
-- 2025 (Scott Brown Cluster)
-
-- artur.dranhoi1025
-
-- Prince Charming
-
-- princecharming0915
-
-- t.me/incredible823
-
-- artur.dranhoi1025@gmail.com
-
-- https://www.impaxrecruitment.com/candidates/candidate-name-artur-job-name-senior-blockchain-engineer/
-
-- 0xc75bbfc0cef2b93c1965930632ceeda9f055f83e
-
-- 0xa8cb25ddf0a7195bdc3232ac6e1d812c8a4713fe
-
-
-
-### Joel Kursala
-
-- 2025 (Scott Brown Cluster)
-
-- Received payroll to same address as Scott Brown
-
-- 0xa8cB25ddf0A7195BDc3232ac6e1D812c8a4713Fe
-
-
-
-### Anderson Lee
-
-- 2025 (Scott Brown Cluster)
-
-- aleson092325
-
-- good725
-
-- andersonlee111
-
-- smartdev0725
-
-- github.com/good725
-
-- github.com/andersonlee111
-
-- github.com/smartdev0725
-
-- linkedin.com/in/anderson-lee-9550381a5
-
-- linkedin.com/in/anderson-lee-0130801a3
-
-- cetbdb23@gmail.com
-
-- firly.larly0430@gmail.com
-
-- aleson092325@gmail.com
-
-- 0x541fb82d870D6287A9553920A72EDeB0e9877d57
-
-
-
-### Oleksandr Muravskyi (aka Artur Dranhoi)
-
-- 2025 (Scott Brown Cluster)
-
-- oleksandr-muravskyi
-
-- PrinceCharming0115  
-
-- artur.dranhoi@exiod.io
-
-- coolprince0115@gmail.com
-
-- ole.dev300@hotmail.com
-
-- olek.muravskyi@outlook.com
-
-                                             
-
----
-
-
-
-### Solcrazy910
-
-- 2025 - LND Hack
-
-- 0x67AA2F9d362fda4395F53133929E9017b35BE0AE (Payroll)
-
-- 0x5149A7696188F083297281D10293a20476252CDD (Hack)
-
-- 0x82be4fe84c2790023906c1648e0836ada67714d9 (Hack)
-
-- 0x8148c4243f8cb49fe80d9e23df0bafc1c6732f3e (Hack)
-
-- 0x5a94a3a114cf01f6a703dd8b840cf0a97cdf1434 (Hack)
-
-- 0x2446f9528fbf55ccf5b3e7a22fc058bda7a12131 (Hack)
-
-- 0x4b82e3485d33544561cd9a48410a605aa8892fb1 (Hack)
-
-- 0x140592a83052b3a432b6d70fb90764612ce41ab1 (Hack)
-
-- 0x5A94a3a114cf01f6a703dD8b840CF0A97CDf1434 creates contract ETHSnowball in July 2022  - 0x37b9ba525921fb0dac2eca1dbf123e549c086ed8822a1a00b8a8f83d2e4a99d2
-
-
-
-#### solcrazy910 aka Dan Mao
-
-- cryptospaceboy00
-
-- alexwork455
-
-- ananphoon823
-
-- andika.riyan
-
-- billyrowan1980
-
-- blockchainlover2019
-
-- maodan466
-
-- putnikdeveloperbg
-
-- spaceboy00
-
-- topstack2021a
-
-- cryptospaceboy00@gmail.com
-
-- alexwork455@gmail.com
-
-- ananphoon823@gmail.com
-
-- andika.riyan@gmail.com
-
-- billyrowan1980@gmail.com
-
-- blockchainlover2019@gmail.com
-
-- maodan466@gmail.com
-
-- putnikdeveloperbg@gmail.com
-
-- spaceboy00@gmail.com
-
-- topstack2021a@gmail.com
-
-- 0xquantech
-
-- t.me/MaoDan007 (ID: 5089966453)
-
-
-
-#### alek806 aka Aleksandar Jovanovic
-
-- alek806
-
-- truecode112
-
-- masterscent913
-
-- bigforniture1126
-
-- truecoder112
-
-- dar_winpizza
-
-- jaleksandar806
-
-- putnikdeveloperbg
-
-- github.com/truecode112
-
-- github.com/masterscent913
-
-- truecoder112@gmail.com
-
-- dar_winpizza@hotmail.com
-
-- jaleksandar806@gmail.com
-
-- putnikdeveloperbg@gmail.com
-
-- linkedin.com/aleksandar-jovanovic-28bb5023b
-
-- t.me/bigforniture1126 (ID: 6251624532)
-
-- rok.co/@alek806
-
-
-
----
-
-
-
-### Hiroto Iwaki / Taku Yamamoto / Iwaki Hiroto
-
-- mymiracle0118
-
-- iwakihiroto
-
-- noahsflood908
-
-- noahsflood908@gmail.com
-
-- linkedin.com/in/hiroto-iwaki-54b207306
-
-- github.com/mymiracle0118
-
-- iwakihiroto-portfolio.vercel.app
-
-- t.me/iwakihiroto (ID: 7074147770)
-
-- https://x.com/blackbigswan/status/1913290058670416183
-
-- ![](./1913290058670416183-01.jpeg)
-
-- ![](./1913290058670416183-02.png)
-
-
-
-### Motoki Masuo
-
-- aka Hiroto Iwaki
-
-- bestselection18
-
-- noahsflood908
-
-- noahsflood908@gmail.com
-
-- https://x.com/blackbigswan/status/1912647965505736753
-
-- ![](./1912647965505736753.png)
-
-
-
----
-
-
-
-### Andy Hoog
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- toparc077
-
-- andyhoglet 
-
-- andy-hoog
-
-- andyhoogup
-
-- T077
-
-- andyhoogup@gmail.com
-
-- github.com/toparc077 [Archive](archive.ph/7lbnH)
-
-- linkedin.com/in/andy-hoog/
-
-- x.com/andyhoglet
-
-- 0x1043efee936903951b88db23551873bb67292e95
-
-
-
-### Chris Yu / Bryan Cho / atroboj
-
-- 2021, 2022, 2023, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- Chris Yu
-
-- Bryan Cho
-
-- atroobj
-
-- bugarnet
-
-- t.me/atroobj
-
-- atroboj@gmail.com
-
-- github.com/atroboj [Archive](archive.ph/x0LMf)
-
-- github.com/bugarnet (2021, Despace)
-
-- 0x3b9a870c24905256de10863cb360f4b93c7cc60f
-
-- 0xc2b2a9c05740eeb7ee7ba7eb3ab11ec8bebcb1d1
-
-- 0x1043efee936903951b88db23551873bb67292e95
-
-- ESSfP3aAcW6Z59ozut9Jkqy9btaX5YTHt25b3Vhs2hsf
-
-- https://www.justice.gov/usao-dc/media/1402691/dl
-
-- https://x.com/THORChain/status/1150675815924813824/photo/1
-
-- https://www.npmjs.com/~atroboj
-
-- https://cryptototem.com/despace-des/
-
-- ![](./bryan-cho-despace.jpg)
-
-- ![](./bryan-cho-chris-yu-1.png)
-
-- ![](./bryan-cho-chris-yu-2.png)
-
-
-
-### Bong Chee Shen / Alex Shen
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Obyte / Byteball
-
-- devneser
-
-- github.com/devneser
-
-- alexzh.dev@gmail.com
-
-- 0x164729e00e8d0f871189160f36dee4398cade1f2
-
-- 0x2efe21f4fef7e737c0a3491c93be7d696038b6f5
-
-- 0x65b4ba828f85ac429d6a02db1304065a819a53f4
-
-- 0xd9054f484ed98a7dd632eb9c09644616db3dea8c
-
-- GrXoxqM2a6QFKSBdZ9RLWJCBVTFvuuH8eCjjsLbjhpiR
-
-- 0x06f90983cd2215379e440fc525e441d6a5fc3fba
-
-- https://stack.money/asset/byteball
-
-- ![](./bong-chee-shen.png)
-
-
-
-### Bram Chan / Bram Chen
-
-- Q12024, Plethori
-
-- Bram Chan
-
-- Bram Chen
-
-- gejeduck
-
-- github.com/gejeduck
-
-- 0x91689cf1c6cb61aa3d6663ffc74c9f689809af91 (T)
-
-- https://www.justice.gov/usao-dc/media/1402691/dl
-
-- https://medium.com/plethori/plethori-quarterly-progress-update-2566d9e6c172
-
-- ![](./bram-chen.png)
-
-
-
-### Eric Low
-
-- Q12024
-
-- Arkned 
-
-- wooark
-
-- wootark.soft
-
-- https://www.linkedin.com/in/eric-low-a5795033b/
-
-- 0x954f20665bcccf58587b49ffee2e593c19c79267 (T)
-
-
-
-### Gabriel Yiu
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- Gabriel Yiu
-
-- gabrielyiu
-
-- github.com/gabrielyiu [Archive](archive.ph/oGlCc)
-
-- 0xd80614feb54d49cf46cc861fc549fae0a05b3f7e
-
-
-
-### Jack Li
-
-- jackli16
-
-- zeus16
-
-- dream0239
-
-- jacky864
-
-- 0x605ca6fb59211d13b369e54a273a42538b087c36
-
-
-
-### Jordan Lopez
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- fka Nemanja Djordjevic
-
-- firstninja111
-
-- github.com/firstninja111 [Archive](archive.ph/tFeQG)
-
-- cloudrider.m92@gmail.com
-
-- 0x92cd7363c5b1853bc8fe6b5ae269836fc508ca73
-
-
-
-### Mike Willie Lee
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- keizir
-
-- willie.lee226
-
-- github.com/keizir [Archive](https://archive.ph/SjJfK)
-
-- willie.lee226@gmail.com
-
-- 0x97e36fAE76cD7ef7cC1213927A9A4E10a61CdD8d
-
-
-
-### Pemba Gulu
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- paladin-120
-
-- pemba.sherpa5232
-
-- pemba.gelu5232
-
-- pemba.sherpa5232@gmail.com
-
-- pemba.gelu5232@gmail.com
-
-- github.com/paladin-120 [Archive](archive.ph/nVIz9)
-
-- 0xfb5d591e8216f5d0964286f09b1f61114c16aab0
-
-
-
-### Peter Xiao
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- Brian Cho
-
-- assasinooz77
-
-- github.com/assasinooz77
-
-- 0x5d8335834bfdf4c746e277e5100d7c778c807356
-
-
-
-### Benjamin Nguyen
-
-- 2024
-
-- ponyjackal.eth
-
-- github.com/ponyjackal
-
-- x.com/ponyjackalx
-
-- benguyen0214@gmail.com
-
-- Has JP Morgan Chase account through Rippling in his name
-
-- 0x5c411cb174c2e163f6465252ae895f3e3e5a8792
-
-- 0xdfae024a22713ecd8049784ca0ba4c9e87753493
-
-
-
-### Andy Bell
-
-- 2024
-
-- bbshark.eth
-
-- github.com/bbshark99
-
-- x.com/kevin83191687
-
-- 0x241d2b20f2c26a2541a0f121d6a33c29cb4cfe69
-
-
-
-
-
-### Danny Jin
-
-- 2024
-
-- dannyjin117@gmail.com
-
-- 0xacb8ba726c04408aecacd6794b4c9dc59652203d
-
-
-
-### Muhammad Abdullah
-
-- 2024
-
-- github.com/polartar
-
-- x.com/m_polartar
-
-- 0xf7f89251eaa664993893efea0e55d8ec3306d959
-
-
-
-### Eric Andrade
-
-- 2024
-
-- gsofter.eth
-
-- github.com/gsofter
-
-- x.com/ggsofter
-
-- 0xfff50b1b9154b0631591dab746c5fc8f41dc44bd
-
-
-### Wubone
-
-- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
-
-- Wubone
-
-- 0x0db9e27060b7f8258448aa31c36e7c0937fd5fd7
-
-
-
-### Monkey
-
-- 0x57b9f721411fabe61ac61cca8eaf926a726a70cc
-
-
-
-### Jing Zhao
-
-- 0xCf6E6021B8e519c0695CEa6B3541556dc798f0DC
-
-
-
----
-
 
 
 # The OGs
-
-
 
 ### Alex Hong
 
@@ -1518,8 +834,6 @@
 - ![](./alex-hong-despace.jpg)
 
 - ![](./alex-hong.png)
-
-
 
 ### Jason Kwon
 
@@ -1569,8 +883,6 @@
 
 - ![](./jason-kwon-despace.jpg)
 
-
-
 ### Jason Lee
 
 - Kira Network, Metadallion, Party Doge, Yam Finance
@@ -1600,8 +912,6 @@
 - ![](./jason-lee-party-2.png)
 
 - ![](./Jason-Lee-resume.jpg)
-
-
 
 ### Gary Lee / ChienHui Lee / Light Fury / Leech Developer
 
@@ -1653,10 +963,6 @@
 
 - ![](./gary-lee-1292049042562834432.png)
 
-
-
-
-
 ### Jikun Liao - The OG
 
 - MetaPlay (Jan 11, 2022), Gameswap, Obytes, Iotex.io
@@ -1695,10 +1001,6 @@
 
 - ![](./jikun-liao.png)
 
-
-
-
-
 ### Jikun Liao - "James Lee"
 
 - Q12024, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -1710,10 +1012,6 @@
 - 0xb9451049310053b29e5dd98c54bff37a5e38819c
 
 - ![](./james-lee-coindesk.png)
-
-
-
-
 
 ### Jikun Liao - "Justin Lim" / altbee
 
@@ -1747,12 +1045,6 @@
 
 - liaojikundever@gmail.com: Altbee, JL, Jikun Liao, Liao Jikun, altbee, liaojikunwork
 
-
-
-
-
-
-
 ### Quinn Lee
 
 -  Q12024, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Arc Market?, Fastswap?, Grape Finance?
@@ -1776,8 +1068,6 @@
 - 0xf9adac8658e08893fb4e91c1062e471eb11cb6c7 (T)
 
 - 0x9de5d3158b0b83e9211c7444c94ce0c53763f574
-
-
 
 ### Ryuhei Matsuda
 
@@ -1824,10 +1114,6 @@
 - https://www.bydfi.com/en/crypto-price/raze 
 
 - https://x.com/Kylin_Network/status/1344503704142143490 
-
-
-
-
 
 ### Mauro Liu
 
@@ -1909,8 +1195,6 @@
 
 - ![](./magiccraft.png)
 
-
-
 ### Mauro Liu aka Xu Liu
 
 - Napier Finance (2023-2024), Blueberry, Pickle Finance, Harmony
@@ -1957,8 +1241,6 @@
 
 - https://github.com/harmony-one/chrome-extension-wallet/graphs/contributors
 
-
-
 ### Eric Liu
 
 - MagicCraft (2022), Humansdotai? Cosmos stuff?
@@ -2004,8 +1286,6 @@
 - ![](./eric-liu-magiccraft-2.jpeg)
 
 - ![](./magiccraft.png)
-
-
 
 ### Anthony Keller / Daiki Saito
 
@@ -2070,9 +1350,7 @@
 - ![](./1439093300242239490.png)
 
 
-
 ---
-
 
 
 ### Sava Grujic
@@ -2094,8 +1372,6 @@
 - Likely also Anthony Keller
 
 - https://www.coindesk.com/tech/2024/10/02/how-north-korea-infiltrated-the-crypto-industry
-
-
 
 ### Sarawut Sanit
 
@@ -2124,8 +1400,6 @@
 - https://archive.ph/5pNLd
 
 - https://www.coindesk.com/tech/2024/10/02/how-north-korea-infiltrated-the-crypto-industry
-
-
 
 ### Jun Kai
 
@@ -2168,18 +1442,658 @@
 - ![](./jun-kai.jpg)
 
 
+---
+
+
+## MORE WORKERS
+
+### Kei Nakano / smartcoding51
+
+- OneStake Finance, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- aka: Jin Wang
+
+- smartcoding51
+
+- fantasticfullstackdev
+
+- webdevninja
+
+- Jinathin
+
+- kei-tren
+
+- github.com/smartcoding51 [Archive](archive.ph/mo0QZ)
+
+- github.com/kei-tren [Archive](archive.ph/fhKTT)
+
+- keinakano415@gmail.com
+
+- x.com/kn_amm51
+
+- t.me/kn_amm (ID: 1967508345)
+
+- 0x21e5d5a6e40b32cff77cfe77dca034d6d410131d
+
+- 0x452f205c6c3872691fbce7ce8438370466d55f76
+
+- 0xff22be4f00b937dade564bd9659e265f92afa620
+
+- https://cryptototem.com/onestake-finance-ost/
+
+### Matias Diaz / Kei Nakano
+
+- 2025
+
+- mndiaz27
+
+- 0xdefilover
+
+- github.com/0xdefilover
+
+- 0x9d66bea448eed9bdbb5f1acf032767b11fc78dcf
+
+- 0x961194d781623ebf5ce43087d85d2731cf1e7d1c
+
+### Russell Hieu / Shota Nakamura
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- Nakamura Shota
+
+- John Patch
+
+- Helme0315
+
+- johnpatch0502
+
+- 0xRUS38
+
+- 0xdoccer
+
+- russellhieu
+
+- johnpatch0502@outlook.com
+
+- russellhieu@outlook.com
+
+- github.com/Helme0315 [Archive](archive.ph/vgsFX)
+
+- 0x97467ea9BeF1c925E9D8e2E65932d066869b7f13
+
+- 0xFf6d86807b3387e10dDE52697C3BD7f59b6A145f
+
+### James Zook + Shota Nakamura
+
+- 2025
+
+- aka Russel Hieu
+
+- 0x38037C0fafae5c97D411c0460c5f0Af40F82B7bd   
+
+- 0x4480206854d67338c8b792a1db2a9189ee75d813   
+
+- 0xB5BcB3935e0B3e6A581FBA37F40D0F472CCf378A   
+
+- 0x1cF9a8fc7A5568B6Dca9f5F73200bC1De69e3ecE 
+
+- BaHNYFQYsBKX541kjEB9sgoHCc7NQdwc16S5ZE9bmYYv
+
+### Lucas Wong
+
+- 2025
+
+- cox1118
+
+- superlwclx
+
+- LucasWongC
+
+- github.com/superlwclx
+
+- github.com/LucasWongC
+
+- t.me/cox1118 (ID: 5034927805)
+
+- lucas.wong.1118@gmail.com
+
+- wm111898@gmail.com
+
+- Discord: c__x__
+
+- lucasw.net
+
+- 0xee52717e6dA13499a3C4ba803e4D952CF052704E
+
+- 0x94A8518B76A3c45F5387B521695024379d43d715
+
+- ![](./lucas-wong.jpg)
+
+### Jannik Villostas
+
+- 2025
+
+- 0xtomoon
+
+- mrcontract17877
+
+- melonman913@gmail.com
+
+- github.com/0xtomoon
+
+- x.com/mrcontract17877
+
+- t.me/janbuidl (ID:7245484067)
+
+- 0x1FEbc069606ABfbA5d021Ed3768cb5D90c9407D5
+
+### Janul Azwan
+
+- 2025
+
+- Resume claims Lucidly, Shoebill, Moby, Dodo, LAToken
+
+- 0xtomoon
+
+- melonman913@gmail.com
+
+- github.com/0xtomoon
+
+- linkedin.com/in/janul-azwan-7b1612361/
+
+- immunefi.com/profile/ethprotector/
+
+- t.me/janbuidl (ID:7245484067)
+
+### Peter Wang
+
+- 2025
+
+- petherwang@gmail.com
+
+- github.com/hapetherw
+
+- x.com/hapetherw
+
+- linkedin.com/in/peter-wang-780259a3
+
+- t.me/pethercap (ID: 2124964775, prev: @baymax586)
+
+- 0x74bc47ea5201a61c7c9a366bb62ecae2713602a1
+
+### Chai Somsri 
+
+- 2024, 2025, Credbull
+
+- ChaiSomsri96
+
+- George Capraroiu
+
+- george19871205
+
+- x.com/chaisomsri96
+
+- medium.com/@chaisomsri96
+
+- linkedin.com/in/chai-somsri
+
+- github.com/ChaiSomsri96
+
+- t.me/chaisomsri (ID: 7022528006)
+
+- chaisomsri96@gmail.com
+
+- georgecapraroiu1205@gmail.com
+
+- melonman913@gmail.com
+
+- 0xE5a86c150ac44ab8F8B2661c9e8d8b13887360f0
+
+- 0x9ce96e07c091662c2605eaae9180de22aad6e8db
+
+- https://cryptototem.com/credbull-cbl/ https://www.linkedin.com/in/chai-somsri/
+
+### Milan Zubic / Patrick Kishi
+
+- 2025
+
+- icetrust0212
+
+- icebera
+
+- github.com/icebera
+
+- zaza.liveedu@gmail.com
+
+- 0x35FcB352027cdDc632b7aE8a50A0410C5bf36248
+
+### Unknown ITW 
+
+- 2025
+
+- Adjacent to Jannik Villostas and Chai Somsri
+
+- 0x146ab113a6d69033cccdb4eaae61c496c2faaf05
+
 
 ---
 
 
+### Scott Brown
+
+- 2025 (Scott Brown Cluster)
+
+- aka Kyle Larsen, Sean Day
+
+- breavedev
+
+- nevermindhim
+
+- verytinydever
+
+- scott.brown0629
+
+- scott.brown0629@gmail.com
+
+- what.a.fabulous1@gmail.com
+
+- sct.brown0629@gmail.com
+
+- github.com/breavedev
+
+- github.com/nevermindhim
+
+- github.com/verytinydever
+
+- linkedin.com/in/scott-brown-b947ba29a
+
+- linkedin.com/in/scott-brown-813445279
+
+- dev.to/scott_brown_b611d05a865cf
+
+- www.impaxrecruitment.com/wp-content/uploads/elementor/forms/6786f200b23aa.pdf
+
+- 0x3b8cc82f5d3ec89d88c58504ecfefe4597020840
+
+- 0xa8cb25ddf0a7195bdc3232ac6e1d812c8a4713fe
+
+- 0x368a337dcdec5cf9849a7563538f03b1516a3f7d
+
+- 0xb25a0580ddf68d4aea11d83f1655016e9520f51a
+
+- 0x38a35ab4235ce7c8b5c4733cee7de9e28e348acb
+
+- 0xce0113e71ce0273d0504a7ef1cd4f0e6e4d196bc
+
+### Artur Dranhoi
+
+- 2025 (Scott Brown Cluster)
+
+- artur.dranhoi1025
+
+- Prince Charming
+
+- princecharming0915
+
+- t.me/incredible823
+
+- artur.dranhoi1025@gmail.com
+
+- https://www.impaxrecruitment.com/candidates/candidate-name-artur-job-name-senior-blockchain-engineer/
+
+- 0xc75bbfc0cef2b93c1965930632ceeda9f055f83e
+
+- 0xa8cb25ddf0a7195bdc3232ac6e1d812c8a4713fe
+
+### Joel Kursala
+
+- 2025 (Scott Brown Cluster)
+
+- Received payroll to same address as Scott Brown
+
+- 0xa8cB25ddf0A7195BDc3232ac6e1D812c8a4713Fe
+
+### Anderson Lee
+
+- 2025 (Scott Brown Cluster)
+
+- aleson092325
+
+- good725
+
+- andersonlee111
+
+- smartdev0725
+
+- github.com/good725
+
+- github.com/andersonlee111
+
+- github.com/smartdev0725
+
+- linkedin.com/in/anderson-lee-9550381a5
+
+- linkedin.com/in/anderson-lee-0130801a3
+
+- cetbdb23@gmail.com
+
+- firly.larly0430@gmail.com
+
+- aleson092325@gmail.com
+
+- 0x541fb82d870D6287A9553920A72EDeB0e9877d57
+
+### Oleksandr Muravskyi (aka Artur Dranhoi)
+
+- 2025 (Scott Brown Cluster)
+
+- oleksandr-muravskyi
+
+- PrinceCharming0115  
+
+- artur.dranhoi@exiod.io
+
+- coolprince0115@gmail.com
+
+- ole.dev300@hotmail.com
+
+- olek.muravskyi@outlook.com
+
+### Solcrazy910
+
+- 2025 - LND Hack
+
+- 0x67AA2F9d362fda4395F53133929E9017b35BE0AE (Payroll)
+
+- 0x5149A7696188F083297281D10293a20476252CDD (Hack)
+
+- 0x82be4fe84c2790023906c1648e0836ada67714d9 (Hack)
+
+- 0x8148c4243f8cb49fe80d9e23df0bafc1c6732f3e (Hack)
+
+- 0x5a94a3a114cf01f6a703dd8b840cf0a97cdf1434 (Hack)
+
+- 0x2446f9528fbf55ccf5b3e7a22fc058bda7a12131 (Hack)
+
+- 0x4b82e3485d33544561cd9a48410a605aa8892fb1 (Hack)
+
+- 0x140592a83052b3a432b6d70fb90764612ce41ab1 (Hack)
+
+- 0x5A94a3a114cf01f6a703dD8b840CF0A97CDf1434 creates contract ETHSnowball in July 2022  - 0x37b9ba525921fb0dac2eca1dbf123e549c086ed8822a1a00b8a8f83d2e4a99d2
+
+#### solcrazy910 aka Dan Mao
+
+- cryptospaceboy00
+
+- alexwork455
+
+- ananphoon823
+
+- andika.riyan
+
+- billyrowan1980
+
+- blockchainlover2019
+
+- maodan466
+
+- putnikdeveloperbg
+
+- spaceboy00
+
+- topstack2021a
+
+- cryptospaceboy00@gmail.com
+
+- alexwork455@gmail.com
+
+- ananphoon823@gmail.com
+
+- andika.riyan@gmail.com
+
+- billyrowan1980@gmail.com
+
+- blockchainlover2019@gmail.com
+
+- maodan466@gmail.com
+
+- putnikdeveloperbg@gmail.com
+
+- spaceboy00@gmail.com
+
+- topstack2021a@gmail.com
+
+- 0xquantech
+
+- t.me/MaoDan007 (ID: 5089966453)
+
+#### alek806 aka Aleksandar Jovanovic
+
+- alek806
+
+- truecode112
+
+- masterscent913
+
+- bigforniture1126
+
+- truecoder112
+
+- dar_winpizza
+
+- jaleksandar806
+
+- putnikdeveloperbg
+
+- github.com/truecode112
+
+- github.com/masterscent913
+
+- truecoder112@gmail.com
+
+- dar_winpizza@hotmail.com
+
+- jaleksandar806@gmail.com
+
+- putnikdeveloperbg@gmail.com
+
+- linkedin.com/aleksandar-jovanovic-28bb5023b
+
+- t.me/bigforniture1126 (ID: 6251624532)
+
+- rok.co/@alek806
+
+
+---
+
+
+### Hiroto Iwaki / Taku Yamamoto / Iwaki Hiroto
+
+- mymiracle0118
+
+- iwakihiroto
+
+- noahsflood908
+
+- noahsflood908@gmail.com
+
+- linkedin.com/in/hiroto-iwaki-54b207306
+
+- github.com/mymiracle0118
+
+- iwakihiroto-portfolio.vercel.app
+
+- t.me/iwakihiroto (ID: 7074147770)
+
+- https://x.com/blackbigswan/status/1913290058670416183
+
+- ![](./1913290058670416183-01.jpeg)
+
+- ![](./1913290058670416183-02.png)
+
+### Motoki Masuo
+
+- aka Hiroto Iwaki
+
+- bestselection18
+
+- noahsflood908
+
+- noahsflood908@gmail.com
+
+- https://x.com/blackbigswan/status/1912647965505736753
+
+- ![](./1912647965505736753.png)
+
+
+---
+
+
+### Andy Hoog
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- toparc077
+
+- andyhoglet 
+
+- andy-hoog
+
+- andyhoogup
+
+- T077
+
+- andyhoogup@gmail.com
+
+- github.com/toparc077 [Archive](archive.ph/7lbnH)
+
+- linkedin.com/in/andy-hoog/
+
+- x.com/andyhoglet
+
+- 0x1043efee936903951b88db23551873bb67292e95
+
+### Bram Chan / Bram Chen
+
+- Q12024, Plethori
+
+- Bram Chan
+
+- Bram Chen
+
+- gejeduck
+
+- github.com/gejeduck
+
+- 0x91689cf1c6cb61aa3d6663ffc74c9f689809af91 (T)
+
+- https://www.justice.gov/usao-dc/media/1402691/dl
+
+- https://medium.com/plethori/plethori-quarterly-progress-update-2566d9e6c172
+
+- ![](./bram-chen.png)
+
+### Eric Low
+
+- Q12024
+
+- Arkned 
+
+- wooark
+
+- wootark.soft
+
+- https://www.linkedin.com/in/eric-low-a5795033b/
+
+- 0x954f20665bcccf58587b49ffee2e593c19c79267 (T)
+
+### Gabriel Yiu
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- Gabriel Yiu
+
+- gabrielyiu
+
+- github.com/gabrielyiu [Archive](archive.ph/oGlCc)
+
+- 0xd80614feb54d49cf46cc861fc549fae0a05b3f7e
+
+### Jack Li
+
+- jackli16
+
+- zeus16
+
+- dream0239
+
+- jacky864
+
+- 0x605ca6fb59211d13b369e54a273a42538b087c36
+
+### Jordan Lopez
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- fka Nemanja Djordjevic
+
+- firstninja111
+
+- github.com/firstninja111 [Archive](archive.ph/tFeQG)
+
+- cloudrider.m92@gmail.com
+
+- 0x92cd7363c5b1853bc8fe6b5ae269836fc508ca73
+
+### Mike Willie Lee
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- keizir
+
+- willie.lee226
+
+- github.com/keizir [Archive](https://archive.ph/SjJfK)
+
+- willie.lee226@gmail.com
+
+- 0x97e36fAE76cD7ef7cC1213927A9A4E10a61CdD8d
+
+### Peter Xiao
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- Brian Cho
+
+- assasinooz77
+
+- github.com/assasinooz77
+
+- 0x5d8335834bfdf4c746e277e5100d7c778c807356
+
+### Wubone
+
+- 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
+
+- Wubone
+
+- 0x0db9e27060b7f8258448aa31c36e7c0937fd5fd7
+
+### Monkey
+
+- 0x57b9f721411fabe61ac61cca8eaf926a726a70cc
+
+### Jing Zhao
+
+- 0xCf6E6021B8e519c0695CEa6B3541556dc798f0DC
+
+
+---
+
 
 # Munchables
 
-
-
 ### References
-
-
 
 - https://x.com/zachxbt/status/1772843238539325947
 
@@ -2196,8 +2110,6 @@
 - ![](./1784938851603013724.jpeg)
 
 - ![](./1772843238539325947-updated.png)
-
-
 
 ### Nelson Murua / Alberto Mira / Jackson Bill
 
@@ -2237,8 +2149,6 @@
 
 - ![](./munchables-super1114.jpeg)
 
-
-
 ### Kaiming Hong / Warren Sinclair
 
 - devkitty803
@@ -2248,8 +2158,6 @@
 - t.me/devkitty803 (ID: 5102864895)
 
 - 0xf69201AA19C540b74c170A545Fc6d8805e0EE9b1
-
-
 
 ### Paul Martin / Werewolves0493
 
@@ -2266,8 +2174,6 @@
 - ![](./munchables-paul-song-werewolves0493.jpeg)
 
 - ![](./munchables-paul-martin.png)
-
-
 
 ### Paul Song / grudev325
 
@@ -2288,8 +2194,6 @@
 - linkedin.com/in/paul-song-225505224/
 
 - paul-song-cv.herokuapp.com
-
-
 
 ### Paul Martin / cryptopunk / gru1125
 
@@ -2323,8 +2227,6 @@
 
 - ![](./munchables-paul-martin-ivar.png)
 
-
-
 ### Pete Yama / cryptopunk
 
 - Pixelcraft (2022), Munchables (2024)
@@ -2342,8 +2244,6 @@
 - 0x19899A49704c7890febc139b4EFA4dE24D88D425
 
 - ![](./munchables-pete-yama-brightdragon0719.jpeg)
-
-
 
 ### Pete Yama / Abracadabra + Bill Tovitt
 
@@ -2368,16 +2268,28 @@
 - ![](./bill-tovitt-pete-yama.png)
 
 
+---
 
+
+# IFEEL.ETH & CO
+
+- github.com/chainlito (https://archive.ph/wmnFn)
+
+- Previous Githubs:
+
+- horaciogar
+
+- chainreactorik
+
+- teddybran
+
+- https://x.com/blackbigswan/status/1940455109114118199
 
 
 ---
 
 
-
 # Face Pix
-
-
 
 ### 139.5.157.128 and 212.91.193.27
 
@@ -2385,15 +2297,11 @@
 
 - ![](./1916191078631289200.png)
 
-
-
 ### AI Face
 
 - https://x.com/kannthu1/status/1886835017818755170
 
 - ![](./1886835017818755170.png)
-
-
 
 ### James McClung
 
@@ -2401,15 +2309,11 @@
 
 - ![](./1913298431738888490.png)
 
-
-
 ### Jason Rostro
 
 - https://x.com/browsercookies/status/1913265469529985167
 
 - ![](./1913265469529985167.png)
-
-
 
 ### Benjamin and a Patrick / Michael Brown
 
@@ -2421,8 +2325,6 @@
 
 - ![](./1913291827278414205-02.png)
 
-
-
 ### Bryan Edward Irving / Steven Scott Jr
 
 - ![](./1918045802389504304-1.png)
@@ -2431,8 +2333,6 @@
 
 - ![](././1918116050832368050.jpeg)
 
-
-
 ### Daniel Everest
 
 - https://x.com/browsercookies/status/1913269771560489367
@@ -2440,8 +2340,6 @@
 - ![](./1913269771560489367-01.png)
 
 - ![](./1913269771560489367-02.png)
-
-
 
 ### David Ye / David Rose
 
@@ -2455,8 +2353,6 @@
 
 - ![](./1913273419933823407.png)
 
-
-
 ### Eugene Palla
 
 - exppal
@@ -2469,15 +2365,11 @@
 
 - ![](./1913267013046423894.png)
 
-
-
 ### Faraz Q
 
 - https://x.com/browsercookies/status/1913265115954319641
 
 - ![](./1913265115954319641.png)
-
-
 
 ### Harry Pham
 
@@ -2485,15 +2377,11 @@
 
 - ![](./1913291378467258456.png)
 
-
-
 ### Hiroki Hara
 
 - https://x.com/eastside_nci/status/1913309781952971187
 
 - ![](./1913309781952971187.jpeg)
-
-
 
 ### Jacob Haigis
 
@@ -2502,8 +2390,6 @@
 - https://x.com/browsercookies/status/1913268425243459942
 
 - ![](./1913268425243459942.png)
-
-
 
 ### Katashi Fujino / Ronnie Karl / Joshua Fuso
 
@@ -2519,8 +2405,6 @@
 
 - ![](./1913271095253516308.png)
 
-
-
 ### Kevin Chang
 
 - kchang.prof@gmail.com
@@ -2533,15 +2417,11 @@
 
 - ![](./1913267818386305459.png)
 
-
-
 ### Logan Collins
 
 - https://x.com/browsercookies/status/1913268057084170382
 
 - ![](./1913268057084170382.png)
-
-
 
 ### Lucas Lee
 
@@ -2551,15 +2431,11 @@
 
 - ![](./1913288546787504174.png)
 
-
-
 ### Luis Pena
 
 - https://x.com/browsercookies/status/1913269065940189556
 
 - ![](./1913269065940189556.png)
-
-
 
 ### Marko Nicovic / Hua Min Fe / Tom Callaghan
 
@@ -2567,15 +2443,11 @@
 
 - ![](./1913292910805516457.png)
 
-
-
 ### Ondriah Young
 
 - x.com/browsercookies/status/1913267316378550519
 
 - ![](./1913267316378550519.jpeg)
-
-
 
 ### Rami
 
@@ -2587,8 +2459,6 @@
 
 - ![](./1913297923468574948-03.jpeg)
 
-
-
 ### Ryan Hammonds / Ryan Stringfellow
 
 - http://x.com/browsercookies/status/1913302277689057346
@@ -2596,8 +2466,6 @@
 - ![](./1913302277689057346-01.png)
 
 - ![](./1913302277689057346-02.png)
-
-
 
 ### Ryan Sims / Paul Jones / Joseph Jones
 
@@ -2611,8 +2479,6 @@
 
 - ![](./1913311847551549476-02.png)
 
-
-
 ### Thomas Peters / Bryce Hodges
 
 - https://x.com/browsercookies/status/1913269301244793211
@@ -2620,8 +2486,6 @@
 - ![](./1913269301244793211-01.png)
 
 - ![](./1913269301244793211-02.png)
-
-
 
 ### Eugene Tan
 
@@ -2638,8 +2502,6 @@
 - ![](./1923552508875767829-1.png)
 
 - ![](./1923552508875767829-2.png)
-
-
 
 ### William Loy
 
@@ -2665,8 +2527,6 @@
 
 - ![](./1923549354025234903-2.png)
 
-
-
 ### Lovely Developer
 
 - Josue Valdivia
@@ -2682,7 +2542,6 @@
 - ![](./1923539373959897397.png)
 
 - ![](./1923539768849436999.png)
-
 
 ### Aldino Saputra
 
@@ -2712,8 +2571,6 @@
 
 - x.com/SilkenCore59010 (https://x.com/SilkenCore59010/status/1919310534060785800)
 
-
-
 ### Eric Dickerson
 
 - Kartos102
@@ -2726,8 +2583,6 @@
 
 - ![](1934283069101674814-1.png)
 
-
-
 ### Simon
 
 - akira0502
@@ -2737,10 +2592,6 @@
 - https://x.com/browsercookies/status/1934283069101674814
 
 - ![](1934283069101674814-2.png)
-
-
-
-
 
 ### Joseph Anderson
 
@@ -2753,8 +2604,6 @@
 - https://x.com/browsercookies/status/1934283069101674814
 
 - ![](1934283069101674814-3.png)
-
-
 
 ### Kell Daniel
 
@@ -2770,8 +2619,6 @@
 
 - ![](1934283069101674814-4.png)
 
-
-
 ### Hunter Bost
 
 - North Carolina
@@ -2779,8 +2626,6 @@
 - https://x.com/0xzozozo/status/1824117629214130436
 
 - ![](1824117629214130436.jpeg)
-
-
 
 ### Minato Tanaka
 
@@ -2792,8 +2637,6 @@
 
 - ![](1934285777699230194-1.png)
 
-
-
 ### BlueSoft
 
 - t.me/bluesoft2100
@@ -2803,8 +2646,6 @@
 - https://x.com/browsercookies/status/1934285777699230194
 
 - ![](1934285777699230194-2.png)
-
-
 
 ### Dennis DelRosario
 
@@ -2818,8 +2659,6 @@
 
 - ![](1934285777699230194-3.png)
 
-
-
 ### Hayato Suzuki
 
 - t.me/WebTalent0123 (ID: 5131829846)
@@ -2831,10 +2670,6 @@
 - https://x.com/browsercookies/status/1934285777699230194
 
 - ![](1934285777699230194-4.png)
-
-
-
-
 
 ### topcodebeast
 
@@ -2858,10 +2693,6 @@
 
 - ![](1934288397339877730.png)
 
-
-
-
-
 ### TechWizAI
 
 - github.com/TopETH
@@ -2874,8 +2705,6 @@
 
 - ![](1934290466054553751-1.png)
 
-
-
 ### Phillip Masaki
 
 - github.com/bio1oo1
@@ -2885,8 +2714,6 @@
 - https://x.com/browsercookies/status/1934290466054553751
 
 - ![](1934290466054553751-2.png)
-
-
 
 ### Thomas Lin
 
@@ -2899,8 +2726,6 @@
 - https://x.com/browsercookies/status/1934290466054553751
 
 - ![](1934290466054553751-3.png)
-
-
 
 ### Kopp Anatoli
 
@@ -2915,10 +2740,6 @@
 - https://x.com/browsercookies/status/1934290466054553751
 
 - ![](1934290466054553751-4.png)
-
-
-
-
 
 ### Denis Rudink
 
@@ -2936,8 +2757,6 @@
 
 - ![](1934280908103884850-1.png)
 
-
-
 ### Louise Egan
 
 - x.com/PinnacleFTSO
@@ -2952,10 +2771,6 @@
 
 - ![](1934280908103884850-2.png)
 
-
-
-
-
 ### Lover Man
 
 - github.com/itloverman (404)
@@ -2966,8 +2781,6 @@
 
 - ![](1933591202550723029-1.png)
 
-
-
 ### Ninja
 
 - t.me/leonk0804
@@ -2975,8 +2788,6 @@
 - https://x.com/browsercookies/status/1933591202550723029
 
 - ![](1933591202550723029-2.png)
-
-
 
 ### 2401
 
@@ -2987,8 +2798,6 @@
 - https://x.com/browsercookies/status/1933591202550723029
 
 - ![](1933591202550723029-3.png)
-
-
 
 ### ChrisYon
 
@@ -3001,8 +2810,6 @@
 - https://x.com/browsercookies/status/1933591202550723029
 
 - ![](1933591202550723029-4.png)
-
-
 
 ### MISC
 
@@ -3018,10 +2825,6 @@
 
 - https://x.com/browsercookies/status/1933592459621380282
 
-
-
-
-
 ### Ares
 
 - github.com/elitegooddev
@@ -3032,8 +2835,6 @@
 
 - ![](1933686204668784823-1.png)
 
-
-
 ### SolDev
 
 - github.com/evgpan
@@ -3041,8 +2842,6 @@
 - https://x.com/browsercookies/status/1933686204668784823
 
 - ![](1933686204668784823-2.png)
-
-
 
 ### Grin
 
@@ -3056,8 +2855,6 @@
 
 - ![](1933686204668784823-3.png)
 
-
-
 ### BrySky
 
 - github.com/develrocket
@@ -3069,10 +2866,6 @@
 - https://x.com/browsercookies/status/1933686204668784823
 
 - ![](1933686204668784823-4.png)
-
-
-
-
 
 ### Haruto Miura
 
@@ -3097,10 +2890,6 @@
 - ![](1932932373609586853-2.png)
 
 - ![](1932932373609586853-3.jpeg)
-
-
-
-
 
 ### Jin Bang, Primoz Bernard
 
@@ -3130,17 +2919,11 @@
 
 - ![](1932956578090770818-4.png)
 
-
-
-
-
 ### Xun Lee
 
 - https://x.com/browsercookies/status/1934302099258716572
 
 - ![](1934302099258716572.jpeg)
-
-
 
 ### Vladivostok University
 
@@ -3160,7 +2943,6 @@
 
 
 ---
-
 
 
 #  US v. VIRTUAL CURRENCY ASSOCIATED WITH NORTH KOREAN IT WORKER MONEY LAUNDERING AND SANCTIONS EVASION CONSPIRACIES
@@ -3253,8 +3035,6 @@
 
 - 0x1c097e02bCd6cD69946663ace4bc0B115e256bAc - Consolidation
 
-
-
 - ![](./alex-hong.png)
 
 - ![](./bram-chen.png)
@@ -3274,18 +3054,12 @@
 - ![](./sim-2.png)
 
 
-
 ---
-
 
 
 # Ice Skating
 
-
-
 ### February 2024
-
-
 
 - Kevin Li / kevin.solution41@gmail.com
 
@@ -3307,10 +3081,6 @@
 
 - ![](./1931749750090694901.jpeg)
 
-
-
-
-
 ### May 2025
 
 - https://x.com/nknewsorg/status/1926880938069213298
@@ -3324,14 +3094,10 @@
 - ![](./ice-skating-05.png)
 
 
-
 ---
 
 
-
 # Laos House: From Vientiane to Vladivostok
-
-
 
 - https://chollima-group.io/posts/tracking-a-north-korean-it-worker-cell/
 
@@ -3350,7 +3116,7 @@
     - 0xm00neth@gmail.com
 
 - Joshua Charles Palmer
-    
+
     - github.com/call-by
     
     - joshupgig@gmail.com
@@ -3396,7 +3162,7 @@
 - Yamamoto Zirou
     
     - yamamotoziro.0113@gmail.com
-    
+
     - yamamotoziro.0113
     
     - blockchaindeveloper777@gmail.com
@@ -3410,7 +3176,7 @@
     - github.com/neverm25
     
     - denisleedragon@outlook.com
-    
+
     - densyaou@gmail.com
     
     - eliteknightgold@outlook.com
@@ -3443,8 +3209,6 @@
 
 - ![](./1913291280911921598.jpeg)
 
-
-
 #### Onchain Addresses Cluster 1 - Receives from GMO Japan
 
 - 0x9149C1552e663AF9f1b6584857715a39a520a889
@@ -3457,15 +3221,11 @@
 
 - 0x0540dacCfDA70374aDdfcAaCa6D21C35811F8A71 (unused)
 
-
-
 #### Onchain Addresses Cluster 2
 
 - 0xb0e5e8c2E7C89aCB19525234a025D3c27faa6519
 
 - receives from Scott Brown 0x368a337dcdec5cf9849a7563538f03b1516a3f7d
-
-
 
 #### Onchain Addresses Other
 
@@ -3482,14 +3242,10 @@
 - 0xdAC17F958D2ee523a2206206994597C13D831ec7 - USDT Token Contract
 
 
-
 ---
 
 
-
 # Insights from Internal DPRK Chat Logs
-
-
 
 - https://chollima-group.io/posts/insights-from-internal-dprk-chat-logs/
 
@@ -3630,9 +3386,7 @@
 - github.com/evilhanse
 
 
-
 ---
-
 
 
 # Analysis of DPRK IT Worker Logs
@@ -3704,5 +3458,3 @@
 - github.com/fulldev317
 
 - github.com/Zhang-777
-
-
