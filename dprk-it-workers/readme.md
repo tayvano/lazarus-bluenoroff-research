@@ -22,6 +22,15 @@
 - https://x.com/bax1337/status/1931484066970276121
 
 
+### OSINT Interview Videos
+
+- https://x.com/blackbigswan/status/1912647965505736753
+
+- https://x.com/browsercookies/status/1938289068980506721
+
+- https://x.com/browsercookies/status/1938348126756344321
+
+
 ---
 
 
@@ -1011,7 +1020,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xb9451049310053b29e5dd98c54bff37a5e38819c
 
-- ![](./james-lee-coindesk.png)
+- ![](./james-lee-coindesk.jpg)
 
 ### Jikun Liao - "Justin Lim" / altbee
 
