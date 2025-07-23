@@ -324,6 +324,7 @@
 - This cyber group stands apart from the other DPRK aligned groups and typically does not fall into the blending and targeting that the others may do. Some groups have espionage and financial focuses, but Andariel is tasked to acquire information to “build” the weapons of mass destruction or research and development programs in other targeted fields, like pharmaceuticals. 
 - The targeting trends, such as nuclear, aerospace, high heat molds, etc. and overall successful compromises of this actor make it quite possibly the scariest of all the DPRK affiliated groups.
 - Primary targeting: Defense, Aerospace, Healthcare (when self-funding operations), Nuclear
+- [Jul 2025 | Sanctioning Malicious North Korean Cyber Actors - Song Kum Hyok](https://www.state.gov/releases/office-of-the-spokesperson/2025/07/sanctioning-malicious-north-korean-cyber-actors/)
 - [Jul 2024 | North Korean Government Hacker Charged for Involvement in Ransomware Attacks Targeting U.S. Hospitals and Health Care Providers](https://justice.gov/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us-hospitals)
 - [2024 | APT45: North Korea’s Digital Military Machine](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
 - https://global.ahnlab.com/global/upload/download/techreport/%5BAhnLab%5DAndariel_a_Subgroup_of_Lazarus%20\(3\).pdf

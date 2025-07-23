@@ -1284,8 +1284,6 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/Jason07250000
 
-- https://medium.com/@CryptoSavingExpert/in-depth-review-of-five-new-play-to-earn-games-part-9-magic-craft-professionalism-df7bc9c4b2de 
-
 - https://x.com/MagicCraftGame/status/1532587886234652673 
 
 - https://x.com/MagicCraftGame/status/1527876841868087302
@@ -2234,7 +2232,16 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x1caa50f7fc5c02925ad98624b12635d11f281a00
 
+- https://x.com/coderdannn/status/1772826672083153076
+
+- https://x.com/coderdannn/status/1772826478209822924
+
+- https://x.com/coderdannn/status/1772823949791068243
+
+- https://x.com/coderdannn/status/1772826999427682744
+
 - ![](./munchables-paul-martin-ivar.png)
+
 
 ### Pete Yama / cryptopunk
 
@@ -2249,8 +2256,6 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - github.com/bestsilvertiger
 
 - brightdragon0719 [Archive](https://web.archive.org/save/https://github.com/brightdragon0719)
-
-- 0x19899A49704c7890febc139b4EFA4dE24D88D425
 
 - ![](./munchables-pete-yama-brightdragon0719.jpeg)
 

@@ -1,4 +1,6 @@
-# Lazarus / DPRK / Cryptocurrency / Web3 / Etc
+# Lazarus / DPRK / Cryptocurrency / Web3 / Etc.
+
+Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a dumping ground for everything. 😅
 
 
 
