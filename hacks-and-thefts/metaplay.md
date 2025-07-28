@@ -137,13 +137,13 @@ https://t.me/MetaPlayAnn/1502 ([Archive](https://archive.ph/79NGD))
 
 
 MetaPlay Announcements, [2022-01-11 16:07 UTC]
-https://t.me/MetaPlayAnn/1507 ([Archive](https://archive.ph/wip/jbwoq))
+https://t.me/MetaPlayAnn/1507 ([Archive](https://archive.ph/jbwoq))
 
 > Does anyone have contacts to these projects?
 
 
 MetaPlay Announcements, [2022-01-11 17:44 UTC]
-https://t.me/MetaPlayAnn/1508 ([Archive](https://archive.ph/wip/bAafd))
+https://t.me/MetaPlayAnn/1508 ([Archive](https://archive.ph/bAafd))
 
 > We put our blood and sweat into this 16-20 hours a day, and in a single moment Jikun Liao ended everything. Over the past few days we expressed warnings to Jikun about his performance. His friend, alfires was hired to build players and left the project two days prior. 
 > Today, PK and I woke up to solid telling us that we have likely been rugged by our developer as he was the only person with keys. 
@@ -162,7 +162,7 @@ https://t.me/MetaPlayAnn/1508 ([Archive](https://archive.ph/wip/bAafd))
 
 
 MetaPlay Announcements, [2022-01-11 21:55 UTC]
-https://t.me/MetaPlayAnn/1509 ([Archive](https://archive.ph/wip/qt9th))
+https://t.me/MetaPlayAnn/1509 ([Archive](https://archive.ph/qt9th))
 
 > Regarding ownership of  contracts, initially PK had ownership
 > However, after HarmnonyPad and PolyPlay were initially hacked, @altpl - was able to save the polyplay LP, so we could do a successful launch. 
@@ -172,14 +172,14 @@ https://t.me/MetaPlayAnn/1509 ([Archive](https://archive.ph/wip/qt9th))
 
 
 MetaPlay Announcements, [2022-01-11 22:11 UTC]
-https://t.me/MetaPlayAnn/1510 ([Archive](https://archive.ph/wip/ScNT1))
+https://t.me/MetaPlayAnn/1510 ([Archive](https://archive.ph/ScNT1))
 
 > The Turkish Admins - are not part of the core team, they were just helping with operations please do not abuse or send death threats to them. 
 > We have already filed a cyber crime report in the US at 10.00 am EST today. We  talking to multiple authorities to be able to recover the funds, please have patience while we deal with the situation and announce the plan going forward.
 
 
 MetaPlay Announcements, [2022-01-11 23:08 UTC]
-https://t.me/MetaPlayAnn/1511 ([Archive](https://archive.ph/wip/wJ7xr))
+https://t.me/MetaPlayAnn/1511 ([Archive](https://archive.ph/wJ7xr))
 
 > If anyone would like to take over MetaPlay, onep, hbparp, MicroPee and playr they can contact us as they will need to try and contact @altpl to gain access the Staking and LP. 
 > The developer was being compensated very well 500k yr to control those from the start and we will not broker the exchange of details, but we can sign over ownership of MetaPlay contract to someone interested.
@@ -191,7 +191,7 @@ https://t.me/MetaPlayAnn/1511 ([Archive](https://archive.ph/wip/wJ7xr))
 
 
 MetaPlay Announcements, [2022-01-12 14:23 UTC]
-https://t.me/MetaPlayAnn/1512 ([Archive](https://archive.ph/wip/YsLYb))
+https://t.me/MetaPlayAnn/1512 ([Archive](https://archive.ph/YsLYb))
 
 > We will have a detailed plan of a relaunch and roadmap for metaplay investors today based on the all feedback from community. Please wait for the announcement today.
 
@@ -249,13 +249,13 @@ https://t.me/MetaPlayAnn/1514 ([Archive](https://archive.ph/z2Hn6))
 > We fought with SolChicks, ApeSwap, Wizards, Gate, AstroPad blaming them for not working ethically. However, we failed on lot of aspects ourselves, the biggest being trust in our developers. We will do our best to revive and save metaplay investors and its ecosystem and hopefully come out bigger. A lot of crypto companies including Binance have been hacked and they came out to be bigger. Those who stay with us will be part of one big family.
 
 MetaPlay Announcements, [2022-01-12 18:02 UTC]
-https://t.me/MetaPlayAnn/1521 ([Archive](https://archive.ph/wip/2Dp0X))
+https://t.me/MetaPlayAnn/1521 ([Archive](https://archive.ph/2Dp0X))
 
 > The dev who is MIA after rugging us 
 > https://twitter.com/METAPLAYio/status/1481325605463465999?t=csg5ETlBgh849KdwShKGfw&s=09
 
 MetaPlay Announcements, [2022-01-12 18:35 UTC]
-https://t.me/MetaPlayAnn/1522 ([Archive](https://archive.ph/wip/hxpe1))
+https://t.me/MetaPlayAnn/1522 ([Archive](https://archive.ph/hxpe1))
 
 > Let's see what those projects say 
 > https://twitter.com/METAPLAYio/status/1481333882687524866?t=A5yE87iVGYvaDQUrM-DMvg&s=09
@@ -268,7 +268,7 @@ https://t.me/MetaPlayAnn/1523
 
 
 MetaPlay Announcements, [2022-01-12 22:07 UTC]
-https://t.me/MetaPlayAnn/1525 ([Archive](https://archive.ph/wip/W7nS8))
+https://t.me/MetaPlayAnn/1525 ([Archive](https://archive.ph/W7nS8))
 
 > Does anyone work for at&t? We'd like to find out the address on file :)
 
@@ -290,7 +290,7 @@ https://t.me/MetaPlayAnn/1527
 
 
 MetaPlay Announcements, [2022-01-13 06:26 UTC]
-https://t.me/MetaPlayAnn/1528 ([Archive](https://archive.ph/wip/heGaF))
+https://t.me/MetaPlayAnn/1528 ([Archive](https://archive.ph/heGaF))
 
 
 ### Reference URLs 
@@ -308,35 +308,35 @@ https://t.me/MetaPlayAnn/1528 ([Archive](https://archive.ph/wip/heGaF))
 
 - https://t.me/MetaPlayAnn/1502 ([Archive](https://archive.ph/79NGD))
 
-- https://t.me/MetaPlayAnn/1507 ([Archive](https://archive.ph/wip/jbwoq))
+- https://t.me/MetaPlayAnn/1507 ([Archive](https://archive.ph/jbwoq))
 
-- https://t.me/MetaPlayAnn/1508 ([Archive](https://archive.ph/wip/bAafd))
+- https://t.me/MetaPlayAnn/1508 ([Archive](https://archive.ph/bAafd))
 
-- https://t.me/MetaPlayAnn/1509 ([Archive](https://archive.ph/wip/qt9th))
+- https://t.me/MetaPlayAnn/1509 ([Archive](https://archive.ph/qt9th))
 
-- https://t.me/MetaPlayAnn/1510 ([Archive](https://archive.ph/wip/ScNT1))
+- https://t.me/MetaPlayAnn/1510 ([Archive](https://archive.ph/ScNT1))
 
-- https://t.me/MetaPlayAnn/1511 ([Archive](https://archive.ph/wip/wJ7xr))
+- https://t.me/MetaPlayAnn/1511 ([Archive](https://archive.ph/wJ7xr))
 
-- https://t.me/MetaPlayAnn/1512 ([Archive](https://archive.ph/wip/YsLYb))
+- https://t.me/MetaPlayAnn/1512 ([Archive](https://archive.ph/YsLYb))
 
 - https://t.me/MetaPlayAnn/1513 ([Archive](https://archive.ph/gFk2U))
 
 - https://t.me/MetaPlayAnn/1514 ([Archive](https://archive.ph/z2Hn6))
 
-- https://t.me/MetaPlayAnn/1521 ([Archive](https://archive.ph/wip/2Dp0X))
+- https://t.me/MetaPlayAnn/1521 ([Archive](https://archive.ph/2Dp0X))
 
-- https://t.me/MetaPlayAnn/1522 ([Archive](https://archive.ph/wip/hxpe1))
+- https://t.me/MetaPlayAnn/1522 ([Archive](https://archive.ph/hxpe1))
 
 - https://t.me/MetaPlayAnn/1523
 
-- https://t.me/MetaPlayAnn/1525 ([Archive](https://archive.ph/wip/W7nS8))
+- https://t.me/MetaPlayAnn/1525 ([Archive](https://archive.ph/W7nS8))
 
 - https://t.me/MetaPlayAnn/1526 
 
 - https://t.me/MetaPlayAnn/1527
 
-- https://t.me/MetaPlayAnn/1528 ([Archive](https://archive.ph/wip/heGaF))
+- https://t.me/MetaPlayAnn/1528 ([Archive](https://archive.ph/heGaF))
 
 - https://twitter.com/METAPLAYio/status/1481333882687524866
 
