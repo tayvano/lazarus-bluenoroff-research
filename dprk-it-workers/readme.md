@@ -1006,7 +1006,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://rocketreach.co/jikun-liao-email_233286867
 
-- 0xC43B1f4E7E47bE5D5663C3B26E4FB3fE7e217f90 (Metaplay Theft)
+- 0xC43B1f4E7E47bE5D5663C3B26E4FB3fE7e217f90 - See More: [Metaplay Theft](../hacks-and-thefts/metaplay.md)
 
 - ![](./jikun-liao.png)
 
