@@ -10,7 +10,7 @@ Time:: 13:50–15:40 UTC+8 (According to Woo X. The timezone on this is clearly 
 
 Amount Stolen:: $14,038,066
 
-Tags:: 👛 Probably DPRK?
+Tags:: 👛 Maybe!!!!!!!!!!!!
 
 
 
@@ -125,7 +125,7 @@ Source: https://x.com/_woo_x/status/1948400223761342920
 - TUchNtdDgLXzhSSC32QaNnzKVPj2rNg8dX         - Initial Theft / Funds Holder? (7,000,000 TRX)
 
 
-### References
+## Further Reading
 
 - https://x.com/PeckShieldAlert/status/1948559304707244117
 
@@ -137,3 +137,7 @@ Source: https://x.com/_woo_x/status/1948400223761342920
 
 
 
+
+## IoCs
+
+- Nord VPN

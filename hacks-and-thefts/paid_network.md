@@ -103,7 +103,7 @@ Time:: 06:03 PM +UTC
 Function:: mint(address _owner, uint256 _amount)
 
 
-## URLs
+## Further Reading
 
 https://paidnetwork.medium.com/paid-network-attack-postmortem-march-7-2021-9e4c0fef0e07
 https://slowmist.medium.com/slow-mist-analysis-of-paid-networks-hacked-event-b13a44415131

@@ -1,0 +1,27 @@
+# Bunzz
+
+Date:: 2022-2025
+
+Date of Theft:: June 19th, 2025
+
+Tags:: 💼 🎙️
+
+---
+
+## Onchain
+
+- 0x146ab113a6d69033cccdb4eaae61c496c2faaf05 - IT Worker #1
+
+- 0x71843426b5f2dc5aee69c6315bbfa491a9e6e4d9 - IT Worker #2
+
+- https://x.com/BunzzDev/status/1636664986708725761
+
+- 0x71843426b5f2dc5aee69c6315bbfa491a9e6e4d9
+- 0xcc6231d31984d3d1a048c5311ed58fe6304c2337
+- 0x8abb26db2949a3d757c17857fe465d2430ea148c
+- 0x36ccf8bc46478574f169d80d31c819ec18baecd2
+- 0x863503d2b3166f4fecb2abbf6275362e6cffafe6
+- 0x1766f8ffa803eb85b7ef25d03fdb86d7a000b3bb
+- 0x8cf89de4eb4d34c38ba12bfa27cd2d0f799961d8
+- 0x020b8fde62a08855ef429ca89eb1a9a148d41ffb
+- 0x9693dd709e28691ccce70350020556175001cd3c

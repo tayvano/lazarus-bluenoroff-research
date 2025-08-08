@@ -82,7 +82,7 @@ Additionally, in 2021 multiple transfers were made from the 0x9973 address to [W
 - Source: https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE#:~:text=CoinBerry%20Incident%20Summary
 
 
-## URLs
+## Further Reading
 
 - https://financialpost.com/fp-finance/cryptocurrency/software-glitch-allowed-users-to-acquire-3-million-in-bitcoin-without-paying-coinberry-alleges-in-lawsuit
 - https://coindesk.com/business/2022/09/08/canadian-crypto-exchange-coinberry-files-lawsuit-against-50-users-after-losing-120-btc/

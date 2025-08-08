@@ -86,7 +86,7 @@ The token was upgraded to ‘EZ 2.0’ four days later, making the hacker’s ex
 
 
 
-## URLs
+## Further Reading
 
 - https://cointelegraph.com/news/reeling-from-post-hack-price-slump-easyfi-reveals-community-compensation-plan
 - https://easyfi.network/

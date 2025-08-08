@@ -71,7 +71,7 @@ Meanwhile, WSM announced that they would be issuing a new token to replace the s
 - 2002:2d3d:83da::2d3d:83da
 
 
-## URLs
+## Further Reading
 
 - https://wallstreetmemes.medium.com/important-security-update-fa4dedbc8f25
 - https://coinedition.com/wall-street-memes-plummets-35-as-hacker-sells-over-368m-tokens/

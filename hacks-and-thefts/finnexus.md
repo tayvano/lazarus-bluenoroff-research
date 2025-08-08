@@ -30,7 +30,7 @@ According to community feedback and data on the chain, the token FNX of the Onch
 - 0xf4ace6ae2df8ef5dbccb3a118f072f8a80868fc7 - connect FinNexus <> bZx <> MetaPlay
 
 
-## URLs
+## Further Reading
 
 - https://atozmarkets.com/news/latest-defi-hack-finnexus-protocol-exploited/
 - https://cryptoslate.com/defi-tool-finnexus-fnx-plunges-by-90-after-hack-some-allege-an-inside-job/

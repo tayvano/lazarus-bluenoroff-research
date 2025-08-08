@@ -28,7 +28,7 @@ Despite the fact that Coinrail was a relatively small cryptocurrency exchange, i
 
 
 
-## URLs
+## Further Reading
 
 - https://twitter.com/Coinrail_Korea/status/1005650529773486080
 - https://quadrigainitiative.com/casestudy/coinrailexchangehack.php

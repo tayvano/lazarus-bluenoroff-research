@@ -45,7 +45,7 @@ This suggests a significant failure in Liminal's verification process, a vulnera
 
 
 
-## URLs
+## Further Reading
 
 - https://rekt.news/wazirx-rekt/
 - https://liminalcustody.com/blog/update-on-wazirx-incident/

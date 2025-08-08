@@ -55,7 +55,7 @@ Opening the link in the browser won’t give any content, so we tried to simulat
 TL;DR: Never open email attachments without verifying the sender’s full email address, and have an internal protocol for how your team shares attachments!
 
 
-## URLs
+## Further Reading
 
 - https://twitter.com/AlexSmirnov__/status/1555586334378676225
 - https://bleepingcomputer.com/news/security/north-korean-hackers-target-crypto-experts-with-fake-coinbase-job-offers/

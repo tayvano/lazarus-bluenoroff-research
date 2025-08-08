@@ -41,7 +41,7 @@ Tags:: 🔑 SquidSquad, Infinite Mint, Dust Collectors
 - 0xABf21fAb0811FB8A5A1F3421e33FAbc49FD82e25 - Gnosis Safe
 
 
-## URLs
+## Further Reading
 
 - https://wonderhero.medium.com/community-update-wonderhero-bnb-chain-bridging-withdrawal-compromised-84327a4fd79
 - https://vice.com/en/article/3abwj3/play-to-earn-game-token-collapses-after-hacker-cashes-out

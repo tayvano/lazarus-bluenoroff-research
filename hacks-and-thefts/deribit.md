@@ -53,7 +53,7 @@ Client assets and cold addresses were not affected, and the loss will be paid by
 
 
 
-## URLs
+## Further Reading
 
 - https://ft.com/content/09f2cb5a-5e2d-4b5f-96cd-ffed455ae23b
 - https://web3rekt.com/hacksandscams/deribit-1263

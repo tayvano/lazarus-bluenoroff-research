@@ -264,7 +264,7 @@ July 18 2024: Deploys Gnosis Safe
 
 
 
-## URLs
+## Further Reading
 
 - https://twitter.com/ALEXLabBTC/status/1790611871986331855
 - https://certik.com/resources/blog/alex

@@ -32,7 +32,7 @@ Tags:: 🔑
 - 0x2e1155cf5374cba058a04fd03ebd0ba19afe580d - Noones Deposit Address
 
 
-## URLs
+## Further Reading
 
 - https://web.archive.org/web/20211028211901/https://twitter.com/PolyPlayCoin/status/1453833668196249605
 

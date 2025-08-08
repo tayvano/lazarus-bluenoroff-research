@@ -13,7 +13,7 @@ Tags: 🔑
 
 
 
-## URLs
+## Further Reading
 
 https://x.com/nfprompt/status/1768558658697433464
 

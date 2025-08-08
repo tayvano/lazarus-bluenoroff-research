@@ -73,7 +73,7 @@ The password account contained a mnemonic recovery phrase for his hardware walle
 
 
 
-## URLs
+## Further Reading
 
 - https://rekt.news/bondly-rekt/
 - https://bondlyfinance.medium.com/bondly-attack-july-14th-2021-postmortem-beb7cf02e9ba

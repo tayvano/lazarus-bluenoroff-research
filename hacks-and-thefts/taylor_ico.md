@@ -58,7 +58,7 @@ The only tokens that were not stolen are the ones from the Founders’ and Advis
 - 0xbc3175b1054214acea52127f3de1b7b243844670 - Taylor Theft Address 0x94f2 sends and receives from 0xbc3 prior to the Taylor ICO Hack
 
 
-## URLs
+## Further Reading
 
 - https://ccn.com/1-5-million-cryptocurrency-trading-platform-taylor-suffers-2500-eth-hack/
 

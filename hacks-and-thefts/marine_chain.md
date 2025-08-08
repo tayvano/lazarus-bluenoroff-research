@@ -48,7 +48,7 @@ Meanwhile, in Pyongyang, plans are going ahead for an [international blockchain 
 
 
 
-## URLs
+## Further Reading
 
 - https://fullycrypto.com/inside-marine-chain-the-north-korean-scam-ico
 - https://vertic.org/2019/04/the-curious-case-of-marine-chain-the-dprk-cyberscam-behind-a-blockchain-powered-maritime-investment-marketplace/

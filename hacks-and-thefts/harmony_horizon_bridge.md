@@ -72,7 +72,7 @@ The security of the bridge is currently predicated on a multisig wallet. It has 
 - Harmony ERC20 Bridge: 0x2dCCDB493827E15a5dC8f8b72147E6c4A5620857
 - Harmony BUSD Bridge: 0xfd53b1b4af84d59b20bf2c20ca89a6beeaa2c628
 
-## URLs
+## Further Reading
 - https://cointelegraph.com/news/breaking-harmony-one-s-horizon-bridge-hacked-for-100m
 - https://hub.elliptic.co/analysis/the-100-million-horizon-hack-following-the-trail-through-tornado-cash-to-north-korea/
 - https://medium.com/harmony-one/harmonys-horizon-bridge-hack-1e8d283b6d66
@@ -118,7 +118,7 @@ The security of the bridge is currently predicated on a multisig wallet. It has 
 
 The group added Railgun, a privacy system, to their arsenal to obfuscate stolen funds.
 
-## URLs
+## Further Reading
 
 - https://twitter.com/zachxbt/status/1617665005163524097
 - https://twitter.com/tayvano_/status/1668935298045317121

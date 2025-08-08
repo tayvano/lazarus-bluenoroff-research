@@ -15,18 +15,29 @@ The Singapore-based Phemex cryptocurrency exchange's hot wallets were hacked, re
 Some people can't be helped.
 
 
-## URLs
+## Further Reading
+
 
 - https://rekt.news/phemex-rekt/
+
 - https://x.com/Federico0x/status/1882411493280649237
+
 - https://x.com/Federico0x/status/1882492744410492947
+
 - https://x.com/Federico0x/status/1882700089807765668
+
 - https://x.com/Federico0x/status/1882790130743697433
+
 - https://x.com/CyversAlerts/status/1882407857447997803
+
 - https://x.com/Phemex_official/status/1882417902038749317
+
 - https://x.com/CryptooAdy/status/1882754717530607909
+
 - https://x.com/hackenclub/status/1882416215186104730
+
 - https://www.theblock.co/post/336754/north-korea-hack-group-possibly-behind-70-million-phemex-exploit-experts-say
+
 - https://www.web3isgoinggreat.com/?id=phemex-hack
 
 

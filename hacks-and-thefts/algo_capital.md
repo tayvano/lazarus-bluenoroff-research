@@ -91,7 +91,7 @@ IP addresses logging into this Domain Registrar 1 account resolve to a VPN servi
 
 
 
-## URLs
+## Further Reading
 
 - https://coindesk.com/markets/2019/10/05/algo-capital-loses-crypto-funds-after-ctos-phone-is-hacked/
 - https://cointelegraph.com/news/algo-capital-ex-cto-takes-full-responsibility-for-hot-wallet-breach

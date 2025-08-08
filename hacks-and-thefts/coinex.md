@@ -91,7 +91,7 @@ The cryptocurrency exchange CoinEx suffered a hacker attack. The cause of the in
 
 - en-US,en;q=0.9,ko;q=0.8,zh-CN;q=0.7,zh;q=0.6
 
-## URLs
+## Further Reading
 
 - https://web3rekt.com/hacksandscams/coinex-1745
 - https://twitter.com/coinexcom/status/1701662057496731975

@@ -83,7 +83,7 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 - 0x0784051d5136a5ccb47ddb3a15243890f5268482 - Deposit 
 - 0x78a9903af04c8e887df5290c91917f71ae028137 - Withdrawals
 
-## URLs
+## Further Reading
 
 - https://certik.medium.com/nexus-mutual-attack-8-millions-lost-8d3592d14cfa
 - https://medium.com/@hugh_karp/nxm-hack-update-72c5c017b48 

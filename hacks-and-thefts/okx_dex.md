@@ -31,7 +31,7 @@ The proxy admin owner upgraded the DEX proxy contract to a new implementation co
 – [Slowmist](https://twitter.com/SlowMist_Team/status/1734790816806449567)
 
 
-## URLs
+## Further Reading
 
 - https://twitter.com/okxweb3/status/1734794114657657004
 - https://twitter.com/AnciliaInc/status/1734795426572980696

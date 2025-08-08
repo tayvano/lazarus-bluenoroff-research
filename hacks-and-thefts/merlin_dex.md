@@ -77,7 +77,7 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 - 0xf4a0fc2ff3520e3a0a0725d0f4fc951249527741 - also interacts with 0xee6 contract
 
 
-## URLs
+## Further Reading
 
 - https://quadrigainitiative.com/cryptocurrencyhackscamfraudwiki/index.php?title=Merlin_DEX_Liquidity_Pool_Drained
 

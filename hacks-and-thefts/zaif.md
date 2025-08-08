@@ -76,7 +76,7 @@ The amount of damages is relatively small for Binance, which is reported to have
 
 
 
-## URLs
+## Further Reading
 
 - https://quadrigainitiative.com/casestudy/zaifhackingtheft.php
 - https://coindesk.com/crypto-exchange-zaif-hacked-in-60-million-6000-bitcoin-theft

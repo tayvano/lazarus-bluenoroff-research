@@ -78,7 +78,7 @@ Linkedin Persona: "Maria Mercedes Gonzalez"
     - Murall Team Member Renounce Role Txn: 0x3799d41c4a2ba509875391034dcf79a95134592eaa6075f6480151f131650264  
 
 
-## URLs
+## Further Reading
 
 - https://twitter.com/murall_art/status/1765034633480048932
 

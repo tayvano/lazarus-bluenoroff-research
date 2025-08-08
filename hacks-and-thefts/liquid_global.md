@@ -76,7 +76,7 @@ Whoever hacked Liquid seems to have had a thorough plan in place prior to acting
 
 
 
-## URLs
+## Further Reading
 - https://trmlabs.com/post/liquid-hack-the-second-time-around
 - https://quadrigainitiative.com/casestudy/liquidwarmwalletliquidated.php
 - https://coindesk.com/business/2021/08/21/liquid-exchange-hacker-covers-tracks-by-sending-20m-to-eth-mixer/

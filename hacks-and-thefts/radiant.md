@@ -171,7 +171,7 @@ Add'l Signers:
 - 0xf48514487dd161b28109c7b1185b69e11b2dce63
 
 
-## URLs
+## Further Reading
 
 - https://medium.com/@RadiantCapital/radiant-capital-incident-update-e56d8c23829e
 - https://rekt.news/radiant-capital-rekt2/

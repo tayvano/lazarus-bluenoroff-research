@@ -80,7 +80,7 @@ This unfortunate incident provided some valuable experiences and insights for Co
 12. Reduce the funds available for the operation of the company to the necessary minimum.
 
 
-## URLs
+## Further Reading
 
 - https://coinspaid.com/company-updates/the-coinspaid-hack-explained/
 

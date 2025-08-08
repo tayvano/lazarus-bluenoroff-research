@@ -26,7 +26,7 @@ Tags:: 🎙️ Contagious Interview
 
 - 0xd7b28b9a6fc5e40c9c20a5188dee2dfbb9d2e3b2
 
-## URLs
+## Further Reading
 
 - https://x.com/hackenclub/status/1936487416178561457
 

@@ -30,7 +30,7 @@ The private key of the hot storage was compromised and was released online. Sinc
 - also Outputs to 1GX4hZu2iQkoTE5XRLevbPCuFDVj9uZUUL (Sim)
 
 
-## URLs
+## Further Reading
 
 - https://coinsecure.in/
 - https://cryptoxdirectory.com/coinsecure

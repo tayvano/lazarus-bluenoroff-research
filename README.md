@@ -313,8 +313,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 💼 | 2025-Jun-18 | [Chainsaw / Favrr](./hacks-and-thefts/favrr-chainsaw.md)                                         | $1,000,000     |
 | 🎙️ | 2025-Jun-22 | [Hacken HAI Token Mint](./hack-and-thefts/noya-ai.md)                                            | $267,000       |
 | 🎙️ | 2025-Jun-27 | [Noya AI](./hack-and-thefts/noya-ai.md)                                                          | $236,000       |
-| 👛 | 2025-Jul-15 | [BigONE](./hack-and-thefts/bigone.md)                                                            | $27,000,000    |
-| 👛 | 2025-Jul-24 | [WOO X](./hack-and-thefts/woox.md)                                                               | $14,038,066    |
+| 👛 | 2025-Jul-15 | [BigONE - UNCONFIRMED!](./hack-and-thefts/bigone.md)                                             | $27,000,000    |
+| 👛 | 2025-Jul-24 | [WOO X - UNCONFIRMED!](./hack-and-thefts/woox.md)                                                | $14,038,066    |
 |    | **2025**    | **TOTAL**                                                                                        | **$1,678,275,103** |
 
 

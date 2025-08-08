@@ -50,7 +50,7 @@ Kenetic Capital - jehan@kenetic.capital is the email that phished Arthur_0x - he
 
 
 
-## URLs
+## Further Reading
 
 - https://twitter.com/arthur_0x/status/1514890461969731584
 - https://twitter.com/NickCarlsen1/status/1506768133121478657

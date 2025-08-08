@@ -80,7 +80,7 @@ Tags:: 🔑 SquidSquad
 - 0xaaa51a89c7d3342e0c4e6084713aa44248a7a232
 
 
-## URLs
+## Further Reading
 
 - https://twitter.com/0xwordcel/status/1448497088627503108
 - https://twitter.com/mgnr_io/status/1448489258029703168/

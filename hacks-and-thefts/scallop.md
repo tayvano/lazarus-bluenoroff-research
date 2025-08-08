@@ -26,7 +26,7 @@ Amount Stolen:: $165,000
 
 - 0x41310947b49423fbd6f749fc321557908a69e05c - Dust
 
-TransferOwnership
+### TransferOwnership
 
 - 2024-10-30 21:39
 
@@ -37,13 +37,13 @@ TransferOwnership
 - to 0x2330D8DCd2CE4a7B5fEb0740b3a746fe2385705D
 
 
-Theft Txn
+### Theft Txn
 
 - 2024-10-30 21:44
 
 - 0xc9e25828eee930a1d992c081f1bb2e9ae9bff298c17cb1160394c25ac1fc07d2
 
 
-# URLs
+## Further Reading
 
 - https://x.com/HashDit/status/1852041643613999215

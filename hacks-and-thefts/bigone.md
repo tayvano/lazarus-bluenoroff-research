@@ -1,6 +1,6 @@
 # BigONE
 
-Date:: July 15th, 2025 
+Date:: July 15th, 2025
 
 Time:: 17:14–19:51 UTC (Tuesday)
 
@@ -8,7 +8,7 @@ Time:: 02:14–04:51 KST (Wednesday)
 
 Amount Stolen: $27,000,000
 
-Tags:: 👛
+Tags:: 👛 MAYBE!!!!!!!!!!
 
 
 ---
@@ -16,7 +16,7 @@ Tags:: 👛
 
 ## Details
 
-The exchange BigONEexchange was exploited due to a supply chain attack and loss exceeds $27 million. 
+The exchange BigONEexchange was exploited due to a supply chain attack and loss exceeds $27 million.
 
 The production network was compromised, and the operating logic of account and risk control related servers was modified, enabling the attacker to withdraw funds. Notably, the private keys were not leaked.
 
@@ -82,15 +82,21 @@ All private keys remain secure. The attack path has been identified and containe
 
 ## IoCs
 
-- 192.166.246.84
-- 94.156.148.191
-- 91.214.65.209
-- 37.120.197.197
-- 45.86.163.132
-- 103.214.46.201
-- 45.84.139.168
-- 62.3.36.XX        
-- 194.35.235.XX   
-- 192.166.246.XX   
-- 45.84.137.xxx
-- 86.104.21.xxx
+- 103.214.46.xx
+- 192.166.246.xx
+- 194.35.235.xx
+- 37.120.197.xx
+- 45.84.137.xx
+- 45.84.139.xx
+- 45.86.163.xx
+- 62.3.36.xx
+- 86.104.21.xx
+- 91.214.65.xx
+- 94.156.148.xx
+- (Nord VPN)
+
+
+
+
+
+

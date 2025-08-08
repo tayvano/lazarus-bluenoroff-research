@@ -50,7 +50,7 @@ Most losses were on Polygon and Binance Smart Chain (BSC)
 - 0x2d7554062664050294640891a122019a68ac5a2b - Dust Collector 
 
 
-## URLs
+## Further Reading
 
 - https://bzx.network/blog/post-mortem-update
 - https://bzx.network/blog/prelminary-post-mortem

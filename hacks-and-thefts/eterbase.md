@@ -31,7 +31,7 @@ Within around 20 minutes of opening most of the accounts, the hackers passed an 
 After the hack, Eterbase stopped its operations and later filed for bankruptcy. Auxt, the company co-founder, said the losses meant Eterbase could no longer cover its expenses. “The hack killed our business,” he said. Victims of the hack are yet to be reimbursed.
 
 
-## URLs
+## Further Reading
 
 - https://web3rekt.com/hacksandscams/eterbase-470
 

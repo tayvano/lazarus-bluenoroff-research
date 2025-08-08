@@ -82,7 +82,7 @@ These “stolen funds remained dormant in the suspected hacker’s wallet for ov
 
 The entire 1,993 BTC was moved into YoBit over 68 transactions, between August 2nd, 2018 and August 6th, 2018.
 
-## URLs
+## Further Reading
 
 https://cybersecurity.att.com/blogs/labs-research/malicious-documents-from-lazarus-group-targeting-south-korea
 
@@ -128,7 +128,7 @@ The heist came less than a year after another massive hack: $31 million in late 
 
 Update (09:30 UTC, April 1, 2019): According to a report from CoinDesk Korea, Bithumb may have also lost 20.2 million XRP in the recent breach. The XRP, worth $6.2 million at current prices, was moved from Bithumb's wallet on March 29 in transactions that can be seen on XRPSCAN. The exchange is not yet confirming or denying the report. The odds of Bithumb managing to retrieve the stolen funds may be small, according to crypto security expert Cosine Yu, co-founder of security firm SlowMist. The hacker has already managed to “launder” most of the stolen EOS and XRP, Yu said, meaning the assets have been transferred to a large number of addresses that are not necessarily owned by any exchanges
 
-## URLs
+## Further Reading
 
 https://coindesk.com/markets/2018/06/20/bithumb-31-million-crypto-exchange-hack-what-we-know-and-dont/
 

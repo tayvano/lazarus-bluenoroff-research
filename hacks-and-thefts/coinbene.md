@@ -100,7 +100,7 @@ Wallet address related to Binance
 
 
 
-## URLs
+## Further Reading
 
 - https://zdnet.com/article/cryptocurrency-platforms-dragonex-and-coinbene-disclose-hacks/ 
 - https://quadrigainitiative.com/casestudy/coinbenehackcoverup.php

@@ -33,7 +33,7 @@ DAO Maker, an encryption incubator, issued an announcement stating that at aroun
 - 0x26aa86261c834e837f6be93b2d589724ed5ae644bc8f4b8af2207e6bd70828f9
 
 
-### URLs
+### Further Reading
 
 - https://blocksecteam.medium.com/the-analysis-of-the-daomaker-attack-32365c37e7fc
 - https://cointelegraph.com/news/dao-maker-crowdfunding-platform-loses-7m-in-latest-defi-exploit
@@ -125,7 +125,7 @@ However, the source code of the contract was not public. You need deep technical
 - 0xa79e633bd0f735abe64657d4a6208efdc674dfb0
 
 
-### URLs
+### Further Reading
 
 - https://drive.google.com/file/d/1tPRMktnros6ifJLfvQkrT6mAmEJvUufT/view
 - https://web3rekt.com/hacksandscams/dao-maker-251

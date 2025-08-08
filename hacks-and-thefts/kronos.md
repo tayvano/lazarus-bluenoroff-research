@@ -38,7 +38,7 @@ Some went Wormhole -> CEX, others maybe to eXch?
 - express / astrill /  mullvad vpn
 
 
-## URls
+## Further Reading
 
 - https://web3rekt.com/hacksandscams/kronos-research-1809
 - https://certik.com/resources/blog/7elJn5O4i4jkLXFySlKwRY-kronos-research-incident-analysis

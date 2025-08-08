@@ -9,6 +9,6 @@ Date: July 2017?
 ---
 
 
-## URLs
+## Further Reading
 
 - https://techcrunch.com/2017/09/28/nxc-corp-acquires-korbit/

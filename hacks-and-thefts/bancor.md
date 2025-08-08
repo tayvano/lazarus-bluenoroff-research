@@ -53,7 +53,7 @@ A Bancor wallet got hacked and that wallet has the ability to steal coins out of
 
 
 
-## URLs
+## Further Reading
 
 - https://quadrigainitiative.com/casestudy/bancordecentralizedexchangehack.php
 - https://blog.bancor.network/the-road-ahead-e773dcbf7603

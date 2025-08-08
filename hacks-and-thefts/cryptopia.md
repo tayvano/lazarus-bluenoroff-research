@@ -78,7 +78,7 @@ It is not clear how Cryptopia was hacked, but investigators discovered in August
     
 
 
-## URLs
+## Further Reading
 
 - https://coindesk.com/markets/2019/01/15/new-zealand-crypto-exchange-cryptopia-goes-offline-citing-hack/
 - https://coindesk.com/markets/2019/01/16/new-zealand-police-keeping-open-mind-on-cryptopia-hack/

@@ -61,7 +61,7 @@ Additionally, in 2021 multiple transfers were made from the 0x9973 address to [W
 - Source: https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE#:~:text=CoinMetro%20Incident%20Summary
 
 
-## URLs
+## Further Reading
 
 - https://t.me/coinmetroupdates/601
 - https://medium.com/parsiq/transcript-the-crazy-story-behind-the-coinmetro-hack-72091b6f07b8
