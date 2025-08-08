@@ -10,6 +10,8 @@ Tags:: 👛 TraderTraitor
 
 ## Details
 
+The Singapore-based Phemex cryptocurrency exchange's hot wallets were hacked, resulting in a loss of approximately $70 million.
+
 Some people can't be helped.
 
 
@@ -25,6 +27,7 @@ Some people can't be helped.
 - https://x.com/CryptooAdy/status/1882754717530607909
 - https://x.com/hackenclub/status/1882416215186104730
 - https://www.theblock.co/post/336754/north-korea-hack-group-possibly-behind-70-million-phemex-exploit-experts-say
+- https://www.web3isgoinggreat.com/?id=phemex-hack
 
 
 ## Onchain - Initial Theft

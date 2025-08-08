@@ -8,7 +8,7 @@ Time:: 06:07–17:49 KST (Friday)
 
 Amount Stolen:: $44,500,000
 
-Tags:: Probably not DPRK? If it is DPRK, it's not the same ones that did WOO X. Might be SQSQ. Might be something else entirely.
+Tags:: Probably not DPRK? If it is DPRK, it's not the same ones that did WOO X. Might be SQSQ. Or AJ. Might be something else entirely.
 
 
 ---
@@ -33,35 +33,61 @@ $44m+ stolen.
 
 ## Timeline
 
-### Preperation - Wednesday July 16, 2025
+### Preparation - Wednesday July 16, 2025
 
 - 2025-07-16 01:43 - TC Withdrawal
+
 - 2025-07-16 02:14 - First SOL Transfer   (to 6peRRbTz28xofaJPJzEkxnpcpR5xhYsQcmJHQFdP22n)
+
 
 ### Theft - Friday July 18, 2025 – Saturday July 19, 2025
 
+
 - 2025-07-18 21:07 - $1                (6peRRbTz28xofaJPJzEkxnpcpR5xhYsQcmJHQFdP22n)
+
 - 2025-07-18 22:XX - Big Thefts        (6peRRbTz28xofaJPJzEkxnpcpR5xhYsQcmJHQFdP22n)
+
 - 2025-07-18 23:XX - Bridges to ETH    (0xc65eda5a010e15c02110526b79de3b7401096c26)
+
 - 2025-07-19 00:XX - Bridges to ETH    (0x3e70feedf5e3a9c7cc6ea04858b281094168854b)
+
+
 
 - 2025-07-19 08:49 - First transfer to 0xef0c5b9e0e9643937d75c229648158584a8cd8d2
 
+
+
 ### Publicity - Saturday July 19, 2025
+
+
 
 - 2025-07-19 15:41 - ZachXBT Posts
 
+
+
 ### Consolidation - Monday July 21, 2025
 
+
+
 - 2025-07-20 23:XX - Bridges to ETH    (3btch8cSVp3Uh2SiY9DeiRNYUBmFiBNHZQzDyecJs7Gu)
+
 - 2025-07-21 00:XX - Bridges to ETH    (0x3e70feedf5e3a9c7cc6ea04858b281094168854b)
+
 - 2025-07-21 01:XX - Bridges to ETH    (0x28ec2371c7b0830663a91a0a319075ed12e44d54 0x053b46c1da726a96bf1654ae8f09f8a659a62946)
+
 - 2025-07-21 02:XX - Bridges to ETH    (0x28ec2371c7b0830663a91a0a319075ed12e44d54 0x053b46c1da726a96bf1654ae8f09f8a659a62946)
+
 - 2025-07-21 03:XX - Bridges to ETH
+
 - 2025-07-21 03:11 - Second transfer to 0xef0c5b9e0e9643937d75c229648158584a8cd8d2
+
 - 2025-07-21 06:XX - Bridges to ETH    (0x96f7c68009e9324c300532f6e1700f9487c171a2 0xa5b5b6a29f68baa5d70cd3ae7c46fe557da52882 0x28ec2371c7b0830663a91a0a319075ed12e44d54)
+
 - 2025-07-21 07:XX - Bridges to ETH
+
 - 2025-07-21 07:23 - Last transfer to   0xef0c5b9e0e9643937d75c229648158584a8cd8d2
+
+
 
 ### Laundry
 
