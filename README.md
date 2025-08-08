@@ -508,6 +508,7 @@ Note: all my research starts onchain and works backwards from there using victim
 | Date | Document |
 | ---- | ---- |
 | 2007       | [CHRG 109shrg28241](./pdfs/2007_CHRG-109shrg28241.pdf) |
+| 2013-05-01 | [North Korean Strategic Strategy Combining Conventional Warfare with Asymmetrical Effects of Cyber Warfare](./pdfs/2013-05-01_North-Korean-Strategic-Strategy-Combining-Conventional-Warfare-with-Asymmetrical-Effects-of-Cyber-Warfare.pdf) |
 | 2019       | [North Koreas Cyber Threat: The All Purpose Sword](./pdfs/2019_North-Koreas-Cyber-The-All-Purpose-Sword.pdf) |
 | 2010-03-01 | [Criminal Sovereignty Understanding North Korea](./pdfs/2010-03-01_Criminal_Sovereignty_Understanding_North_Korea.pdf) |
 | 2014-02-01 | [KEI aps mansourov](./pdfs/2014-02-01_KEI_aps_mansourov.pdf) |
