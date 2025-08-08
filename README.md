@@ -66,7 +66,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2022 | $763,349,228       | 14          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,164,146       | 25          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $933,752,107       | 52          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $1,677,275,103     | 27          |                     |                    |                     |        |                    |              |                    |           |
+| 2025 | $1,678,275,103     | 28          |                     |                    |                     |        |                    |              |                    |           |
 |      | **$5,583,888,518** | **185**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
@@ -310,11 +310,12 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-May-24 | [TAO Founder](./hacks-and-thefts/tao-founder.md)                                                 | $5,116,358     |
 | 🎙️ | 2025-Jun-03 | [SpaceM](./hacks-and-thefts/spacem.md)                                                           | $187,090       |
 | 🔑 | 2025-Jun-12 | [Medhi](./hacks-and-thefts/mehdi.md)                                                             | $230,000       |
+| 💼 | 2025-Jun-18 | [Chainsaw / Favrr](./hacks-and-thefts/favrr-chainsaw.md)                                         | $1,000,000     |
 | 🎙️ | 2025-Jun-22 | [Hacken HAI Token Mint](./hack-and-thefts/noya-ai.md)                                            | $267,000       |
 | 🎙️ | 2025-Jun-27 | [Noya AI](./hack-and-thefts/noya-ai.md)                                                          | $236,000       |
 | 👛 | 2025-Jul-15 | [BigONE](./hack-and-thefts/bigone.md)                                                            | $27,000,000    |
 | 👛 | 2025-Jul-24 | [WOO X](./hack-and-thefts/woox.md)                                                               | $14,038,066    |
-|    | **2025**    | **TOTAL**                                                                                        | **$1,677,275,103** |
+|    | **2025**    | **TOTAL**                                                                                        | **$1,678,275,103** |
 
 
 
