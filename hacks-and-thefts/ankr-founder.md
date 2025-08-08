@@ -55,7 +55,6 @@ Amount Stolen:: $555,000 (167 ETH)
 - Transfer OUT to 0x20cd6d3D0b588740380e37EcF065d3c278f26534
 
 
-
 - 2022-01-17 18:54:37
 - 599,400 FTM
 - IN from Multichain
@@ -77,5 +76,35 @@ Amount Stolen:: $555,000 (167 ETH)
 - 599,385 FTM
 - IN from Fantom: Foundation Wallet 15
 - ->
-- 599,385 FTM 
+- 599,385 FTM
 - OUT to 0x95A94af4418a23B06f029AF55E7C2fb06B9a2AD7
+
+
+---
+
+### Other Notes:
+
+There was also a November 2022 Ankr Hack:
+
+- Ankr is a project based on the Binance Smart Chain.  
+
+- In November 2022, an attacker drained over $5 million in tokens from the Ankr project via a private key leak, but the damage didn’t stop there.  
+
+- A follow-on attack against Helio netted an attacker approximately $19 million in stolen tokens.
+
+- The project was in the midst of an update process in which they were changing the models for their reward-bearing and earning tokens to benefit the community.
+
+- During this update process, the private key used to govern contract updates was compromised and used by an attacker.  
+
+- With this key, the attacker was able to update the contract to a malicious, attacker-controlled version.  
+
+- This new contract removed access controls for the contract’s mint function, allowing the attacker to mint 60 trillion aBNBc tokens, worth over $5 million in total.
+
+- https://www.halborn.com/blog/post/explained-the-ankr-and-helio-hacks-november-2022
+
+
+
+
+
+
+
