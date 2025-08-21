@@ -10,7 +10,7 @@ Time:: 13:50–15:40 UTC+8 (According to Woo X. The timezone on this is clearly 
 
 Amount Stolen:: $14,038,066
 
-Tags:: 👛 Maybe!!!!!!!!!!!!
+Tags:: 👛 UNC4899 or UNC5565 (per Woo X Post Mortem)
 
 
 
@@ -23,7 +23,7 @@ Tags:: 👛 Maybe!!!!!!!!!!!!
 According to the official disclosure, the incident stemmed from a targeted phishing attack that compromised a team member’s device, allowing the attacker to gain access to the development environment.
 
 
-## WOO X Statement
+## Original WOO X Statement
 
 
 We're currently investigating a contained incident that occurred on WOO X earlier today
@@ -77,6 +77,92 @@ If remediation goes smooth, we hope to complete these steps by next week. In the
 Withdrawals are still being manually verified, if you have a pending withdrawal, reach out to http://support.woox.io to help verify.
 
 Source: https://x.com/_woo_x/status/1948400223761342920
+)
+
+
+
+
+
+
+
+## Woo X Post Mortem
+
+On July 24, 2025, WOO X experienced a sophisticated security incident that resulted in $14 million in unauthorized withdrawals from 9 user accounts. There is evidence that this attack was perpetrated by UNC4899, a North Korean state-sponsored cyber espionage group aligned with the Reconnaissance General Bureau and known publicly as Lazarus Group, TraderTraitor, and Jade Sleet.
+
+The attack began with social engineering targeting our development team through what appeared to be a legitimate open-source collaboration request. A team member was approached on an open-source software forum to help debug a development tool. After a brief discussion, the developer downloaded the file on mobile, then used their company-issued MacBook to open the file. Prior to opening, the file was assessed for malware, but the scan was negative. After running, the program downloaded a hidden backdoor that resembled a common backend process. This allowed the exploiter to maintain access to the development environment, and after a period of time, find an opportunity to make changes in the database, gaining access to 9 accounts from which withdrawals were initiated. 
+
+The unauthorized withdrawals were detected 2 hours later, immediately halted, and all affected users were fully compensated from WOO's treasury. Over the following three weeks, an investigation and remediation process ensued. This led to a number of new security and risk measures being implemented, along with a full migration of the development environment.
+
+### Incident recap
+
+The incident originated from a targeted social engineering attack against our development team. The threat actor:
+
+- Researched WOO's development practices and identified team members active in open-source communities
+
+- Crafted a legitimate-seeming collaboration request for debugging assistance on a development tool
+
+- Delivered malware disguised as open-source code 
+
+
+### Timeline of Events
+
+June 28, 2025
+- External party approaches WOO developer on open-source forum requesting collaboration on development tool debugging
+
+July 8, 2025
+- Developer downloads project file on mobile device
+- File AirDropped to company MacBook to access using development tools (Cursor)
+- Backdoor deploys undetected, establishing persistent access
+
+July 9, 2025
+- First evidence of threat actor accessing Google Cloud (GCP) environment via compromised developer's VPN session
+- Actor leverages existing 2FA-protected VPN connection from infected MacBook
+
+July 10, 2025
+- Threat actor accesses Google Kubernetes Engine (GKE) resources
+- Begins reconnaissance of Argo CD and Apollo deployment infrastructure
+
+July 11, 2025 - July 24, 2025
+- Privilege escalation achieved: Actor deploys malicious POD revealing Kubernetes management service account token
+- Deploys backdoor in microservice POD for persistent access to production environment
+- For the two weeks after deploying the backdoor, no threat active behavior was observed
+- Persistent access validated but unused during this period
+
+July 24, 2025
+- 13:50 UTC+8: Threat actor returns via backdoor in node server
+- Uses previously extracted database credentials to access backend systems
+- Replaces user emails, passwords, and 2FA seeds for 9 high-value accounts
+- First unauthorized withdrawal initiated
+- 15:40 UTC+8: Suspicious activity detected and contained
+- Immediate response: Withdrawals suspended platform-wide, affected user account details restored
+
+### Financial Impact
+- $14 million in unauthorized withdrawals from 9 user accounts
+- Funds stolen across multiple chains: Bitcoin, Ethereum, BNB, Arbitrum
+- 100% user compensation provided from WOO treasury
+- Operational Impact
+- Withdrawal services suspended for security review
+- Enhanced monitoring and incident response procedures activated
+- Development environment isolation and forensic analysis
+- No impact to trading services
+
+
+### User Impact
+- 9 users experienced account compromise
+- All affected users contacted directly and compensated fully
+- Platform trading remained operational throughout incident
+- The treasury loss does not impact WOO's operational runway or business continuity - WOO maintains substantial reserves and a diversified treasury structure. 
+
+
+
+Source: https://woox.io/blog/july-24th-security-incident-post-mortem
+
+
+
+
+
+
+
 
 
 ## Amount Stolen

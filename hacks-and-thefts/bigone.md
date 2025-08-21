@@ -24,6 +24,20 @@ In the early hours of July 16, BigONE detected abnormal movements involving a po
 
 All private keys remain secure. The attack path has been identified and contained, ensuring no further losses will occur.
 
+In July 2025, BigONE suffered a major security incident. Third-party attackers used highly sophisticated social engineering techniques to compromise the development device of a key developer, thereby gaining unauthorized access and permissions. 
+
+The attackers subsequently carried out a coordinated supply chain attack by deploying tampered code through version deployment service providers. 
+
+This allowed them to temporarily alter the logic of specific accounting and risk management services within the platform, ultimately resulting in the unauthorized transfer of approximately USD 27 million worth of cryptocurrencies from one of BigONE’s hot wallets. 
+
+The compromised assets included tokens from major public blockchains, including Bitcoin, Ethereum, Solana, Dogecoin, and Tron. 
+
+Note: Preliminary investigation has confirmed the full attack path and logic. Following system reinforcement and post-accident updates, no further losses are expected. 
+
+All BigONE wallet private keys and user data remain secure, with losses limited to a portion of assets from the targeted hot wallet. 
+
+
+
 
 ## Amount Stolen
 
@@ -78,21 +92,34 @@ All private keys remain secure. The attack path has been identified and containe
 
 - https://x.com/SlowMist_Team/status/1945346830222680330
 
+- https://hackenproof.com/programs/bigone-hack-bounty-program
+
 
 
 ## IoCs
 
-- 103.214.46.xx
-- 192.166.246.xx
-- 194.35.235.xx
-- 37.120.197.xx
-- 45.84.137.xx
-- 45.84.139.xx
-- 45.86.163.xx
-- 62.3.36.xx
-- 86.104.21.xx
-- 91.214.65.xx
-- 94.156.148.xx
+- 192.166.246.84
+
+- 94.156.148.191
+
+- 91.214.65.209
+
+- 37.120.197.197
+
+- 45.86.163.132
+
+- 103.214.46.201
+
+- 45.84.139.168
+
+- 62.3.36.62        
+
+- 194.35.235.127   
+
+- 86.104.21.176
+
+- 45.84.137.xxx
+
 - (Nord VPN)
 
 

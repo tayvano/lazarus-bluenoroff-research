@@ -212,3 +212,8 @@ Our best guess is they don't know how @usernames, anon phone numbers work.
 - 0x4398d45bd911a2badfc146516fc8dc1239fe3ea9 - eXch Depo (Jan 15, $90k)
 - 0x7bf2443b0885f69070f0f2cff96615b9ece0b2c1 - eXch Depo (Jan 15, $90k)
 - 0x44472f33adfc0ba11b9d0cdec82e4716761ba2cb - eXch Depo (Jan 15, $90k)
+
+
+- 0x5cf99ea73e0ce2c706d9591c2dab722465048c2a - June 2025
+
+- EQA3IRNoSDHpDr6guzbBKYyj6tS70IAsmiixupIJ3iVJlgcJ - June 2025

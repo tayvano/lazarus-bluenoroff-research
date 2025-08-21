@@ -1,4 +1,4 @@
-# R3 
+# Rainfi 
 
 Date:: December 18th, 2024
 
@@ -10,16 +10,20 @@ Tags:: 🔑 SquidSquad
 
 ### Details
 
-Asked for meeting the week of Dec 10th, 2024
+- Asked for meeting the week of Dec 10th, 2024
 
-TAs deleted chrome data and attempted to take over Telegram
+- TAs deleted chrome data and attempted to take over Telegram
 
-The hacker was message from fake Ian at Foresight ventures (a popular Nov 2024 persona)
+- The hacker was message from fake Ian at Foresight ventures (a popular Nov 2024 persona)
 
 - Ian Xu  or ian | Foresight Ventures
+
 - @yihanxy_ian
+
 - @ian_xyh
+
 - @yihanxu
+
 - TG_ID: 5527953885
 
 - https://foresight[.]team-meets[.]site/roundtable-talk-with-foresight-team/roomID=3570947&meetingID=0918108
@@ -30,15 +34,23 @@ The hacker was message from fake Ian at Foresight ventures (a popular Nov 2024 p
 
 ## Onchain
 
-- BjNufDRJVDSEFUNxFf8bZeVEnxMjgG5UkGGQgKRXqNto - Theft
+- BjNufDRJVDSEFUNxFf8bZeVEnxMjgG5UkGGQgKRXqNto - Direct Theft
 
-- CeZf6LgiramksGWCbfreG33hu1tQVe4BM1YxbQKb5ru8 - Theft
+- CeZf6LgiramksGWCbfreG33hu1tQVe4BM1YxbQKb5ru8 - Direct Theft
 
-- 0xcdfaa7eb4380be43fe15f2cd7ffe28501dedae91 - Theft
+- 0xcdfaa7eb4380be43fe15f2cd7ffe28501dedae91 - Direct Theft
 
-- 0x53d6dd1241a9af38193d750dd5fa361e33f8ef5a - Theft
+- 0x53d6dd1241a9af38193d750dd5fa361e33f8ef5a - Direct Theft
 
-- 0x59E6Ae9457B56622f44Afd22931688beD20b89f3 - $1.9m (0.6 ETH and 15.5 wBTC)
+- 0x59E6Ae9457B56622f44Afd22931688beD20b89f3 - Consolidation ($1.9m, 0.6 ETH and 15.5 wBTC)
+
+
+- 0xa2f9e8548375322c94f146d9144c5348c2661628 - Laundry, April 7 2025
+
+- 0xca6e5ea77fa493987c52a49f1f6ea56f45412725 - Laundry, April 7 2025, Tornado Cash
+
+- 0x6371b3aae626e38ada268fe5d99d1d41442dba30 - Laundry, April 7 2025, eXch
+
 
 - 0xed09a895a2f8dc506b381ece1bc2b2c893306d09 - Theft, Also SyFu on Dec 16
 
@@ -46,9 +58,11 @@ The hacker was message from fake Ian at Foresight ventures (a popular Nov 2024 p
 
 - 0xbf414ed376467b32d4f81b6f61de79e19b995c28 - $17,912 May 23 2025
 
-- ChangeNOW Depo
 
-ExpressVPN, Singapore timezone
+
+## IOCs
+
+- ExpressVPN, Singapore timezone
 
 
 

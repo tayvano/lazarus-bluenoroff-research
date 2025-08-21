@@ -1,6 +1,6 @@
 # Unknown April 2025 Theft
 
-Date:: Apr 23, 2025
+Date:: April 23rd, 2025
 
 Amount Stolen:: $525,000
 
@@ -19,6 +19,8 @@ Tags:: 🔑 SquidSquad
 - 0xf7d8b3a783b02031ab25779b0f87c17bb0db6f28 - Primary Theft
 
 - 0x0567f82dacbfef43b9bf7d6659637d0155fba156 - Dust
+
+- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust
 
 
 ## Timeline
