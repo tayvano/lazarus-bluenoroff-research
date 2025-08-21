@@ -1,6 +1,6 @@
 # Individual DD
 
-Date:: May 8, 2025
+Date:: May 8th, 2025
 
 Amount Stolen:: $0
 
@@ -19,7 +19,9 @@ Tags:: 🔑 SquidSquad
 
 - Persona: @lesliehodling 6941289413
 
+- `hey DD. i would like to invite you our team meeting instead of earlier one. i hope that's okay.`
 
-`hey DD. i would like to invite you our team meeting instead of earlier one. i hope that's okay.
-[https://gbv.zoom.us/j/3588102658%3Fpwd=gEbIdyyl2wSn9pHPYeOIbgUlo0XoYZ.1](https://gbv.us05web-zoom.cc/j/3588102658%3Fpwd=gEbIdyyl2wSn9pHPYeOIbgUlo0XoYZ.1)`
+- Display URL: `https://gbv.zoom.us/j/3588102658%3Fpwd=gEbIdyyl2wSn9pHPYeOIbgUlo0XoYZ.1`
+
+- Actual URL: `https://gbv.us05web-zoom.cc/j/3588102658%3Fpwd=gEbIdyyl2wSn9pHPYeOIbgUlo0XoYZ.1`
 

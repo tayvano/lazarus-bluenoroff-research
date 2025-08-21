@@ -1,8 +1,10 @@
 # Mehdi Theft
 
-Amount Stolen:: $230,000
+Date:: June 12th, 2025
 
-Date:: June 12, 2025
+Time:: 00:13
+
+Amount Stolen:: $230,000
 
 Tags:: 🔑
 
@@ -60,7 +62,8 @@ Persona: Alex Lin
 
 - https://x.com/linfluence/status/1930679676705390648
 
-A similar zoom link was received by a different almost-victim on June 10, 2025
+
+A similar zoom link was received by a different almost-victim on June 10, 2025:
 
 - Display URL: `https://reforge[.]zoom[.]us/j/6971685660?pwd=fHMSBxCNLnMDPuIYNtQ2kE87gvSxz7[.]1`
 
@@ -68,7 +71,6 @@ A similar zoom link was received by a different almost-victim on June 10, 2025
 
 
 ## Onchain
-
 
 - 8iHCqskFTt5C55uRfR4poEQoS1Pw8tLKVrmezaQvEjVe - Victim
 
@@ -80,4 +82,21 @@ A similar zoom link was received by a different almost-victim on June 10, 2025
 
 - AarPPRX49n6xtgrv9kbG3tSpkfn7iHDnsnLTLmFdjAcJ - Theft
 
+- 0x11b72676b982b1f1ed49c5942e98df10d6bf32bf - Theft
+
 - 0x4612d5ef84979a8ea3ddea7dd49c9df75dda9ac4 - Theft
+
+- DaLNrFnxKzPZxFY5uz9LoE551U32Q3Zxw1rkfvodxfZA - ChangeNOW Depo
+
+- 0x93459495f9ffad509ab9dfbd5cd52084c2f3b7ab - Changelly Depo
+
+
+## Timeline
+
+- 2025-06-12 00:13 - Theft
+
+- 2025-06-27 01:10 - Tornado Cash
+
+- 2025-07-05 05:44 - Changelly Depo
+
+

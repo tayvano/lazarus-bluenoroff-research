@@ -1,8 +1,8 @@
 # TAO Founder
 
-Amount Stolen:: $5,116,358
-
 Date:: May 24th, 2025
+
+Amount Stolen:: $5,116,358
 
 Tags:: 🔑 
 

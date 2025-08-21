@@ -1,8 +1,8 @@
 # Clober Founder?
 
-Amount Stolen:: $1,391,963
-
 Date:: June 14th, 2025
+
+Amount Stolen:: $1,391,963
 
 Tags:: 🔑
 

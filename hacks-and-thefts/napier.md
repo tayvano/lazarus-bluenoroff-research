@@ -1,8 +1,8 @@
 # Napier
 
-Amount Stolen:: $500,000
-
 Date:: December 30th, 2024
+
+Amount Stolen:: $500,000
 
 Tags:: 🔑
 

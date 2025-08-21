@@ -1,6 +1,6 @@
 # MAK / Metacene Theft 
 
-Date:: November 29, 2024
+Date:: November 29th, 2024
 
 Time:: 12:16 PM UTC
 

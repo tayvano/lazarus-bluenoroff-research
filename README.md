@@ -297,7 +297,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔐 | 2025-Feb-17 | [Ripio](./hacks-and-thefts/ripio.md)                                                             | $7,800,000         |
 | 👛 | 2025-Feb-21 | [Bybit](./hacks-and-thefts/bybit.md)                                                             | $1,500,000,000     |
 | 🔑 | 2025-Feb-28 | [Founder/CEO of A6](./hacks-and-thefts/a6.md)                                                    | $410,000           |
-| 🔑 | 2025-Mar-01 | [Unknown Mar 2025 Fantom Reuse](./hacks-and-thefts/mar2025.md)                                   | $3,200,000         |
+| 🔑 | 2025-Mar-01 | [Unknown Mar 2025 - Fantom Reuse](./hacks-and-thefts/fantom_reuse_address.md)                    | $3,200,000         |
 | 🔑 | 2025-Mar-07 | [Founder/CEO of B3](./hacks-and-thefts/b3.md)                                                    | $3,186,200         |
 | 🔑 | 2025-Mar-14 | [Huge March 2025 Theft](./hacks-and-thefts/huge_march_2025_theft.md)                             | $171,000,000       |
 | 🔑 | 2025-Mar-21 | [Zoth](./hacks-and-thefts/zoth.md)                                                               | $8,361,915         |

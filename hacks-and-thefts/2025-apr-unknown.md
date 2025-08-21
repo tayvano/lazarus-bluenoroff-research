@@ -14,7 +14,7 @@ Tags:: 🔑 SquidSquad
 
 - 0x006f93d65e30542cd7d25ea55466a5662db77c78 - Victim
 
-- 0xe45fc2510d06610499954aeb89bf4fe109e3698f - Victim? Overlaps with Jan 20 Theft
+- 0xe45fc2510d06610499954aeb89bf4fe109e3698f - Victim - Also Jan 20 Victim??
 
 - 0xf7d8b3a783b02031ab25779b0f87c17bb0db6f28 - Primary Theft
 
@@ -25,14 +25,14 @@ Tags:: 🔑 SquidSquad
 
 ## Timeline
 
-- Apr 23, 2025 02:20 - 0xf7d Theft 
+- 2025-04-23 02:20 - Theft 
 
-- May 19, 2025 12:51 - 0xf7d Swaps DAI for ETH
+- 2025-05-19 12:51 - Swaps DAI for ETH
 
-- May 19, 2025 01:23 - 0xf7d 2x100 1x0.1 to Tornado Cash
+- 2025-05-19 01:23 - 2x100 1x0.1 to Tornado Cash
 
-- May 20, 2025 15:37 - 0xf7d 1x10 to Tornado Cash
+- 2025-05-20 15:37 - 1x10 to Tornado Cash
 
-- May 21, 2025 06:52 - 0xf7d Dust to 0x0567f82dacbfef43b9bf7d6659637d0155fba156
+- 2025-05-21 06:52 - Dust to 0x0567f82dacbfef43b9bf7d6659637d0155fba156
 
-- May 22, 2025 11:29 - 0xe45 1x0.1 from Tornado Cash to 
+- 2025-05-22 11:29 - 1x0.1 from Tornado Cash to Symbiosis
