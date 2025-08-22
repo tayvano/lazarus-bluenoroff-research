@@ -2,7 +2,9 @@
 
 Date:: December 18th, 2024
 
-Amount Stolen:: $1,600,000
+Time:: 15:11
+
+Amount Stolen:: $2,009,331
 
 Tags:: 🔑 SquidSquad
 
@@ -34,16 +36,23 @@ Tags:: 🔑 SquidSquad
 
 ## Onchain
 
+- 0xd880ddAFB1942b4579AeBa0fA866326b6Af5bC83 - Victim
+
+- 0xfd516c91e1372bcac10ac841849588212f312455 - Victim
+
+
+
 - BjNufDRJVDSEFUNxFf8bZeVEnxMjgG5UkGGQgKRXqNto - Direct Theft
 
 - CeZf6LgiramksGWCbfreG33hu1tQVe4BM1YxbQKb5ru8 - Direct Theft
 
-- 0xcdfaa7eb4380be43fe15f2cd7ffe28501dedae91 - Direct Theft
-
 - 0x53d6dd1241a9af38193d750dd5fa361e33f8ef5a - Direct Theft
 
-- 0x59E6Ae9457B56622f44Afd22931688beD20b89f3 - Consolidation ($1.9m, 0.6 ETH and 15.5 wBTC)
+- 0xcdfaa7eb4380be43fe15f2cd7ffe28501dedae91 - Direct Theft
 
+- 0xed09a895a2f8dc506b381ece1bc2b2c893306d09 - Direct Theft, Also SyFu on Dec 16
+
+- 0x59E6Ae9457B56622f44Afd22931688beD20b89f3 - Consolidation ($1.9m, 0.6 ETH and 15.5 wBTC)
 
 - 0xa2f9e8548375322c94f146d9144c5348c2661628 - Laundry, April 7 2025
 
@@ -51,12 +60,9 @@ Tags:: 🔑 SquidSquad
 
 - 0x6371b3aae626e38ada268fe5d99d1d41442dba30 - Laundry, April 7 2025, eXch
 
+- 0x913e6229b2458466298c7aa4ab03c7f931bdc93a - Dust, May 21 2025 (Also Syfu Theft)
 
-- 0xed09a895a2f8dc506b381ece1bc2b2c893306d09 - Theft, Also SyFu on Dec 16
-
-- 0x913e6229b2458466298c7aa4ab03c7f931bdc93a - Dust
-
-- 0xbf414ed376467b32d4f81b6f61de79e19b995c28 - $17,912 May 23 2025
+- 0xbf414ed376467b32d4f81b6f61de79e19b995c28 - Dust, May 23 2025 (Also Syfu Theft)
 
 
 
@@ -70,47 +76,23 @@ Tags:: 🔑 SquidSquad
 
 
 
-**Dec 10 2024** 
+- Dec 10 2024 - Fake Ian from Foresight Ventures messages + asks for call
 
-- Fake Ian from Foresight Ventures messages + asks for call
+- Dec 18 2024 - Call was schedueled for Dec 18th, 2024
 
-- Call was schedueled for Dec 18th, 2024
+- Dec 18 2024 15:11 - Theft
 
+- Dec 19 2024 8:00 - More SOL Thefts + Bridges
 
-**Dec 18, 2024 17:22**
+- Dec 20, 2024 8:36 - Dust sent to 0x913e6229b2458466298c7aa4ab03c7f931bdc93a 
 
-- Conslidates to 0x59e6ae9457b56622f44afd22931688bed20b89f3
+- Dec 21 2024 03:04 - More consolidation
 
+- Jan 20 2025 7:15:35 - 0x59e6ae9457b56622f44afd22931688bed20b89f3 swaps wBTC for DAI
 
-**Dec 19 2024 8:00 AM**
+- Apr 7 2025 14:38 - 13x100 ETH to TC
 
-- More SOL Thefts + Bridges
-
-
-**Dec 20, 2024 8:36 AM**
-
-- Dust sent to 0x913e6229b2458466298c7aa4ab03c7f931bdc93a 
-
-
-**Dec 21 2024 03:04 AM**
-
-- More consolidation
-
-
-**Jan 20, 2025**
-
-- 2025-01-20 7:15:35  
-
-- 0x59e6ae9457b56622f44afd22931688bed20b89f3 swaps wBTC for DAI
-
-
-**May 23, 2025**
-
-- 0xcdfaa7eb4380be43fe15f2cd7ffe28501dedae91
-
-- Sends to 0xbf414ed376467b32d4f81b6f61de79e19b995c28
-
-- Overlaps with M11 (May 21) and Unknown Dec 15 Theft (Maybe Syfu?)
+- May 23, 2025 - 0xcdfaa7eb4380be43fe15f2cd7ffe28501dedae91 sends to 0xbf414ed376467b32d4f81b6f61de79e19b995c28 - Overlaps with MarketAcross (May 21) and Syfu Theft (Dec 16)
 
 
 

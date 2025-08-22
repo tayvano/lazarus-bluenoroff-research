@@ -1,6 +1,6 @@
 # Individual from MarketAcross
 
-Date:: May 19, 2025
+Date:: May 19th, 2025
 
 Amount Stolen:: $560,000
 
@@ -35,10 +35,9 @@ Tags:: 🔑 SquidSquad
 
 - 0x1946022d39cac9e51c610437fea157a3be3debd8 - Theft (ETH, ARB, BSC, OP)
 
-- 0x744da43f6958f96fe1e721db1931bdd1349ea918 - Dust (Also receives from Rainfi + Maybe Syfu / Dec 15 Theft)
+- 0x744da43f6958f96fe1e721db1931bdd1349ea918 - Dust (Also receives from Rainfi + Syfu)
 
-- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust
-
+- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust (May 2025 Dust Collector - Syfu, Rainfi, MarketAcross, Jan 20, B3, M6)
 
 
 

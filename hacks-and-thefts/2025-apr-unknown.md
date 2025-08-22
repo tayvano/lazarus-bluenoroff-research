@@ -1,4 +1,4 @@
-# Unknown April 2025 Theft
+# Unknown April Theft
 
 Date:: April 23rd, 2025
 
@@ -6,21 +6,19 @@ Amount Stolen:: $525,000
 
 Tags:: 🔑 SquidSquad
 
-
 ---
-
 
 ## Onchain
 
-- 0x006f93d65e30542cd7d25ea55466a5662db77c78 - Victim
+- 0x006f93d65e30542cd7d25ea55466a5662db77c78 - Victim - New Address + Msig?
 
-- 0xe45fc2510d06610499954aeb89bf4fe109e3698f - Victim - Also Jan 20 Victim??
+- 0xe45fc2510d06610499954aeb89bf4fe109e3698f - Victim - Also Jan 20 Victim
 
 - 0xf7d8b3a783b02031ab25779b0f87c17bb0db6f28 - Primary Theft
 
 - 0x0567f82dacbfef43b9bf7d6659637d0155fba156 - Dust
 
-- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust
+- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust (May 2025 Dust Collector - Syfu, Rainfi, MarketAcross, Jan 20, B3, M6)
 
 
 ## Timeline
