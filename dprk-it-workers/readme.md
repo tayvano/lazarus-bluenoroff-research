@@ -1,4 +1,3 @@
-
 # DPRK IT Workers
 
 ### Background Literature
@@ -31,7 +30,15 @@
 - https://x.com/browsercookies/status/1938348126756344321
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 ## PONYJACKAL CLUSTER
@@ -151,7 +158,15 @@
 - https://x.com/zachxbt/status/1940388827392344261
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 ## BRYAN + BONG + JOSHUA + PEMBA CLUSTER
@@ -317,7 +332,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./pemba-sherpa-wanted.jpeg)
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 ## LAOS -> VLAD BOYS
@@ -809,7 +832,173 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0x90a8974ed484da8e209e6db7b2f84c1b5be345d0
 
 
+
+
+
 ---
+
+
+
+
+
+
+# Keisuke & Co
+
+### Keisuke Watanabe / kAsky53
+- 2021-2025, Divvy, Stabble, ElementalFi, Player2, Marinade Finance, Everway, OneRing, Parasol Finance, ORAO Network, Kamino, KingSamo NFT, Stryke, Beraborrow
+- kAsky53
+- kdevdivvy
+- dev4all.sol / dev4alldotsol
+- keisukew53
+- 0xWoo (minor username)
+- hirayama1534 (2021)
+- watanabeatari@gmail.com
+- dev4all.sol = JBxidGWnhtPTGg8xw7sFT9tF4cfGtHnjYNp5GDJvGveh
+- 8mdfRML7z3s8gqDYd72bywcEgQtcvkoJCw2bukv8X71R
+- 4Cz7ZhYnEKtXVs6tivDFo3z6g3KuVct9J6wigg2xZ6Qv
+- 5rKfEpABCmbKuVHRfEMFThYFBxU7DW43fScJCSPLdw7D
+- 66maPCk7WqQyx7w97K7uZqVkdDbprtmvQdpjXSaAoarE
+- BjGhtq5Vh9Lv1xxBJ6pZKx3ZCmsEHPVoWNZZGdHkVQ4p
+- CfFk1V1LQ6b1DeijRP5qFQwHeJwXdYLepTxqCS1yVQFy
+- DybGDChJMvX9Jnza4XTQVDyUGZ6jYrRg9Q3CdLiEJeh2
+- GjCTY7n5ogPBT8A2HnYQQho4TGN6EznMQJgJBcYrgdoc
+- JBxidGWnhtPTGg8xw7sFT9tF4cfGtHnjYNp5GDJvGveh
+- 0x161dea4d7ac627f2bc4358dfece386c0e9f4cc8f
+- 0x1b89aecc0f8c128150db67d7d0c4b1daeb43eda4
+- 0x83b5fbcae0f80697130ef8479622a1cac9a2a9b9
+- 0xe45d08520274bcd177aed9406e80db23d231e82a
+- 0xe54dbf16db507a2dacfece7997125b90c7e2e9a5
+- https://x.com/kAsky53/status/1726298239530614808    
+- https://x.com/kAsky53/status/1726298540786466997
+- https://x.com/kAsky53/status/1726299174227059164 
+- https://x.com/kingsamocoin/status/1464602708887818240/photo/1
+- https://x.com/solplay_jonas/status/1786388979123642818
+- ![](kazune-jenson-kAsky-01.jpg)
+- ![](kazune-jenson-kAsky-02.png)
+- ![](jenson-naoki-01.png)
+- ![](keisuke-resume.jpeg)
+
+
+
+### Mario Suparat fka Chris Jin
+- devbamboo
+- devbamboo15
+- super-vic114
+- chris-jin114
+- mdevdivvy
+- github.com/devbamboo15
+- github.com/chris-jin114
+- AezJBekqBoMWPcCVByn78mucdKVXdc99ugiRjJArWgYR
+- 5AvpMGYy2WxCMoaswmLfFdKPSMDxwZomPVDAdzE3A6vE
+
+
+
+### Holmes Ming
+- 2025 - friends w Keisuke
+- Holmes
+- Holmes Ming
+- h0lme3
+- HaoqingMing
+- haodev007
+- stabble-dev
+- haodev007@gmail.com
+- h0lmes
+- stabbledev
+- x.com/haodev007
+- github.com/h0lme3
+- github.com/stabble-dev
+- socket.dev/npm/user/stabbledev
+- t.me/haodev007 (ID: 5312921424)
+
+
+
+### Ming Tai
+- Igor Babe
+- github.com/vikigstar (codebear)
+
+
+
+### Thành Hao Vo
+- Kunkka0822
+- github.com/Kunkka0822
+
+
+
+### David Lee
+- solandrust
+- github.com/solandrust
+
+
+
+### Shiro Masumi aka James Bello
+- monstar911001@gmail.com
+- github.com/monstar911
+
+
+
+
+
+
+---
+
+
+
+
+
+
+# Mauro & Co
+
+## SIFU VISION / catanet.eth / Sifu Vision Deployer
+
+- Mauro Liu
+
+- 0xe5edbabd5115740fff9c4c0ce0d5aae2891947a4 - Company paying payroll (Gnosis Safe)
+
+- 0xcb69535abbc95a042914507f963bdd74ad0025ff - Company paying payroll (catanet.eth)
+
+- 0x6674bc65df8bd4f5b495c1dad35543eb6c4eb674 - Company paying payroll (Sifu Vision Delployer)
+
+- 0x147ed0f4d0cc9f0cf4eff223aa79b2f837532d62 - ITW Mauro Liu 0xchamel
+    - 2023-12-11 $24
+
+- 0x682d0c303a1619b274e2d337828293986b195896 - ITW Unknown 1
+    - 2023-07-17 $200
+    - 2023-07-19 $1,631
+    - 2024-07-31 $4,018
+
+- 0x39143cc85d4cf0e31849987aa9f68c621282820c - ITW Unknown 2
+    - 2023-07-14 $330
+    - 2023-07-19 $2,310
+    - 2024-07-01 $4,018
+
+- 0x43ca2e9d6bccc15b5c722220e7724ca64d5ee422 - ITW Unknown 3
+    - 2023-12-25 $177
+
+
+
+## Mauro Liu - UNKNOWN COMPANY
+
+- Adjacent to Mauro Liu
+
+- 0xd77d919fd407e373730b5ba287ed94b6cddb23ff - Company Paying Payroll
+
+- 0x8bd5d72e5874f45a1204e486938d8c271e953e5e - ITW 1
+    - 2023-07-21 $2,000
+    - 2023-12-18 $4,027
+
+- 0xb2ef5c1af6b2b43bfc834fe114b5cf3a3abc919b - ITW 2
+
+
+
+
+
+
+
+---
+
+
+
+
 
 
 # The OGs
@@ -1357,7 +1546,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1439093300242239490.png)
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 ### Sava Grujic
@@ -1449,7 +1646,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./jun-kai.jpg)
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 ## MORE WORKERS
@@ -1683,7 +1888,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0x146ab113a6d69033cccdb4eaae61c496c2faaf05
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 ### Scott Brown
@@ -1911,7 +2124,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - rok.co/@alek806
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 ### Hiroto Iwaki / Taku Yamamoto / Iwaki Hiroto
@@ -1953,7 +2174,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1912647965505736753.png)
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 ### Andy Hoog
@@ -2095,7 +2324,89 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xCf6E6021B8e519c0695CEa6B3541556dc798f0DC
 
 
+
+## SHEZMU
+
+- 0x601936c35fb4c6d8b472de6764c9f09ebf17711c Shezmu Safe
+    - 0x50cBF451A8AC7A570d239dBdA9f7547E29FF4bD8 Signer
+    - 0x710C3bCe25B5818C135bd053c62e1d6CBB5A365c Signer
+    - 0xDa3311F7dD2e6c5fC149C42e7c0741eACf63Ab32 Signer
+
+- 0x5d0c3f3428ce9a45167dd6ad66e80551e0ba85b8 Shezmu Safe
+    - 0x941a54EC7F0b36cd3A47af603610340C1940AE22 Signer
+    - 0x7daE6e6DdaD86D0a03d92f3EcB0A166820BA54BA Signer
+    - 0x538576113eF66DB1Fc0889c96622f31Cc105F650 Signer
+    - 0xBea82f2Db748904510E55B26783f9c8B29aF28A4 Signer
+
+- 0x6c7137b2af2515e57677267062bd53c12c15a410 Shezmu Safe
+    - 0x454cD1e89df17cDB61D868C6D3dBC02bC2c38a17 Signer
+
+- 0x847a992c0317c6a69b3dbaca494c6ec5a0842317 Shezmu Safe
+    - 0x9e66CC61d79bAb676C761024850De05a397Fc69e Signer
+    - 0xCdFe7F0C70A59FC3c67500b16E8E6b4c2a6A6dE3 Signer
+    - 0xC026609D721C65CDd4EB10F93518f738F52d9e16 Signer + DPRK ITW
+
+- 0x601936c35fb4c6d8b472de6764c9f09ebf17711c - Company Paying Payroll
+- 0x68d283c978f08544ce9fa9e563186945663de7b1 - Company Paying Payroll
+- 0x5d0c3f3428ce9a45167dd6ad66e80551e0ba85b8 - Company Paying Payroll
+- 0x6c7137b2af2515e57677267062bd53c12c15a410 - Company Paying Payroll
+
+- 0x6138a5055759c29b249ea1189a4dd68a1eeb8705 - Unknown ITW
+    - 2024-05-16 $636
+
+- 0x69dcc326d21dce8344a3191c99f2ca8faa9b9e6e - Unknown ITW 1
+    - 2023-06-09 $2,186
+    - 2023-08-16 $4,331
+
+- 0x3ec401b47bd10341c24ca971b28d8b3f2ea77d37 - Unknown ITW 2
+    - 2023-06-09 $2,518
+    - 2023-08-17 $2,499
+
+- 0x92a2139599b48ffe29ceae12ccf4e988fa458105 - Unknown ITW 3
+    - 2023-06-09 $2,018
+    - 2023-10-18 $3,999
+
+- 0xae36f8d197d2dec2612f1e55b0b959833fcf81d2 - Unknown ITW 4
+    - 2023-06-09 $2,774
+    - 2023-09-07 $5,498
+
+
+
+### Peculiar Joseph
+
+- Joseph D Alchemist
+- josephpeculiar
+- bizmindx
+- josephpeculiar.com
+- bizmindx@gmail.com
+- github.com/bizmindx
+
+
+
+### Sam Ayorinde
+
+- TheBlockOfChain
+- ayorindesam2
+- Sam-Devs
+- _SamAyorinde
+- ayorindesam2@gmail.com
+- linkedin.com/in/sam-ayorinde-3b1b9a151/
+- github.com/Sam-Devs
+- x.com/_SamAyorinde
+
+
+
+
+
+
+
+
+
 ---
+
+
+
+
 
 
 # Munchables
@@ -2282,7 +2593,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./bill-tovitt-pete-yama.png)
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 # IFEEL.ETH & CO
@@ -2300,7 +2619,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/blackbigswan/status/1940455109114118199
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 # Face Pix
@@ -2956,7 +3283,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](1934313254383427772-4.jpeg)
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 #  US v. VIRTUAL CURRENCY ASSOCIATED WITH NORTH KOREAN IT WORKER MONEY LAUNDERING AND SANCTIONS EVASION CONSPIRACIES
@@ -3068,7 +3403,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./sim-2.png)
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 # Ice Skating
@@ -3108,7 +3451,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./ice-skating-05.png)
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 # Laos House: From Vientiane to Vladivostok
@@ -3256,7 +3607,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xdAC17F958D2ee523a2206206994597C13D831ec7 - USDT Token Contract
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 # Insights from Internal DPRK Chat Logs
@@ -3400,7 +3759,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - github.com/evilhanse
 
 
+
+
+
+
 ---
+
+
+
+
 
 
 # Analysis of DPRK IT Worker Logs
