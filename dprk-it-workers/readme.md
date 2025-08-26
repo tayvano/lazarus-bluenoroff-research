@@ -41,7 +41,9 @@
 
 
 
-## PONYJACKAL CLUSTER
+
+
+### PONYJACKAL CLUSTER
 
 - ![](./ponyjackal-crew.png)
 
@@ -169,7 +171,9 @@
 
 
 
-## BRYAN + BONG + JOSHUA + PEMBA CLUSTER
+
+
+### BRYAN + BONG + JOSHUA + PEMBA CLUSTER
 
 ![](./1939767200166158385.jpeg)
 
@@ -343,7 +347,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-## LAOS -> VLAD BOYS
+
+
+### LAOS -> VLAD BOYS
 
 ### Jenson Collins
 
@@ -382,6 +388,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./jenson-keisuke.png)
 
 - ![](./kazune-jenson-keisuke-01.jpg)
+
+- ![](./jenson-naoki-keisuke-kazune-2.png)
 
 - ![](./naoki-collins.png)
 
@@ -423,6 +431,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./kazune-jenson-keisuke-01.jpg)
 
+- ![](./jenson-naoki-keisuke-kazune-2.png)
+
 - ![](./1913312344760873365.jpeg)
 
 - ![](./1913330812709200150-01.jpeg)
@@ -441,7 +451,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./ice-skating-05.png)
 
-## Kazune Takeda - mtfuji25
+
+
+### Kazune Takeda - mtfuji25
 
 - mtfuji25
 
@@ -469,7 +481,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xdB600c22dfC1D59E5C2B515E8EB37895A6537B2C
 
-## David Adachi / zhmolly
+
+
+### David Adachi / zhmolly
 
 - 2024, 2025, Zach's List zachxbt/status/1824047425822310580
 
@@ -509,7 +523,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - LAcNUB7p2VYNA8gEkmPSTdsrDBSwBjzymw5Dbt7UMvB
 
-## Pham Trung / jwtradera (zhmolly friend)
+
+
+### Pham Trung / jwtradera (zhmolly friend)
 
 - 2024-2025 (jwtradera cluster)
 
@@ -529,7 +545,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ZW4HoVLVCc1m2y9ej7RTyCmXMCHDkdpotiB5ELF9fX2
 
-## Sadao Elichi / zhmolly
+
+
+### Sadao Elichi / zhmolly
 
 - 2025 (jwtradera cluster)
 
@@ -565,7 +583,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - BrbAo3gtStKPxUbdomd14WUUAFv5QSBnFqp6NRD6TBGC
 
-## Charles Lee Gordon (zhmolly friend)
+
+
+### Charles Lee Gordon (zhmolly friend)
 
 - 2025 (jwtradera cluster)
 
@@ -609,7 +629,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 5cGRQ3VRkGYtfuCWmgXnesrwbkn11cE9FFArzZ5iSeqV
 
-## Alex Davis (Charles Gordon alt)
+
+
+### Alex Davis (Charles Gordon alt)
 
 - 2025
 
@@ -623,7 +645,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - alexdavisgender@gmail.com 
 
-## Eric Soh / zhmolly
+
+
+### Eric Soh / zhmolly
 
 - 2025
 
@@ -645,7 +669,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - medium.com/@esoh0612
 
-## John Wilhelmson / zhmolly
+
+
+### John Wilhelmson / zhmolly
 
 - 2021
 
@@ -873,10 +899,10 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/kAsky53/status/1726299174227059164 
 - https://x.com/kingsamocoin/status/1464602708887818240/photo/1
 - https://x.com/solplay_jonas/status/1786388979123642818
-- ![](kazune-jenson-kAsky-01.jpg)
-- ![](kazune-jenson-kAsky-02.png)
-- ![](jenson-naoki-01.png)
-- ![](keisuke-resume.jpeg)
+- ![](./kazune-jenson-kAsky-01.jpg)
+- ![](./kazune-jenson-kAsky-02.png)
+- ![](./jenson-naoki-01.png)
+- ![](./keisuke-resume.jpeg)
 
 
 
@@ -948,7 +974,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 # Mauro & Co
 
-## SIFU VISION / catanet.eth / Sifu Vision Deployer
+
+
+### SIFU VISION / catanet.eth / Sifu Vision Deployer
 
 - Mauro Liu
 
@@ -976,7 +1004,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-## Mauro Liu - UNKNOWN COMPANY
+
+
+### Mauro Liu - UNKNOWN COMPANY
 
 - Adjacent to Mauro Liu
 
@@ -1657,7 +1687,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-## MORE WORKERS
+
+
+### MORE WORKERS
 
 ### Kei Nakano / smartcoding51
 
@@ -2325,7 +2357,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-## SHEZMU
+
+
+### SHEZMU
 
 - 0x601936c35fb4c6d8b472de6764c9f09ebf17711c Shezmu Safe
     - 0x50cBF451A8AC7A570d239dBdA9f7547E29FF4bD8 Signer
@@ -2672,7 +2706,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1918045802389504304-2.jpeg)
 
-- ![](././1918116050832368050.jpeg)
+- ![](./1918116050832368050.jpeg)
 
 ### Daniel Everest
 
@@ -2922,7 +2956,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934283069101674814
 
-- ![](1934283069101674814-1.png)
+- ![](./1934283069101674814-1.png)
 
 ### Simon
 
@@ -2932,7 +2966,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934283069101674814
 
-- ![](1934283069101674814-2.png)
+- ![](./1934283069101674814-2.png)
 
 ### Joseph Anderson
 
@@ -2944,7 +2978,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934283069101674814
 
-- ![](1934283069101674814-3.png)
+- ![](./1934283069101674814-3.png)
 
 ### Kell Daniel
 
@@ -2958,7 +2992,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934283069101674814
 
-- ![](1934283069101674814-4.png)
+- ![](./1934283069101674814-4.png)
 
 ### Hunter Bost
 
@@ -2966,7 +3000,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/0xzozozo/status/1824117629214130436
 
-- ![](1824117629214130436.jpeg)
+- ![](./1824117629214130436.jpeg)
 
 ### Minato Tanaka
 
@@ -2976,7 +3010,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934285777699230194
 
-- ![](1934285777699230194-1.png)
+- ![](./1934285777699230194-1.png)
 
 ### BlueSoft
 
@@ -2986,7 +3020,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934285777699230194
 
-- ![](1934285777699230194-2.png)
+- ![](./1934285777699230194-2.png)
 
 ### Dennis DelRosario
 
@@ -2998,7 +3032,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934285777699230194
 
-- ![](1934285777699230194-3.png)
+- ![](./1934285777699230194-3.png)
 
 ### Hayato Suzuki
 
@@ -3010,7 +3044,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934285777699230194
 
-- ![](1934285777699230194-4.png)
+- ![](./1934285777699230194-4.png)
 
 ### topcodebeast
 
@@ -3032,7 +3066,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934288397339877730
 
-- ![](1934288397339877730.png)
+- ![](./1934288397339877730.png)
 
 ### TechWizAI
 
@@ -3044,7 +3078,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934290466054553751
 
-- ![](1934290466054553751-1.png)
+- ![](./1934290466054553751-1.png)
 
 ### Phillip Masaki
 
@@ -3054,7 +3088,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934290466054553751
 
-- ![](1934290466054553751-2.png)
+- ![](./1934290466054553751-2.png)
 
 ### Thomas Lin
 
@@ -3066,7 +3100,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934290466054553751
 
-- ![](1934290466054553751-3.png)
+- ![](./1934290466054553751-3.png)
 
 ### Kopp Anatoli
 
@@ -3080,7 +3114,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934290466054553751
 
-- ![](1934290466054553751-4.png)
+- ![](./1934290466054553751-4.png)
 
 ### Denis Rudink
 
@@ -3096,7 +3130,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934280908103884850
 
-- ![](1934280908103884850-1.png)
+- ![](./1934280908103884850-1.png)
 
 ### Louise Egan
 
@@ -3110,7 +3144,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934280908103884850
 
-- ![](1934280908103884850-2.png)
+- ![](./1934280908103884850-2.png)
 
 ### Lover Man
 
@@ -3120,7 +3154,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933591202550723029
 
-- ![](1933591202550723029-1.png)
+- ![](./1933591202550723029-1.png)
 
 ### Ninja
 
@@ -3128,7 +3162,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933591202550723029
 
-- ![](1933591202550723029-2.png)
+- ![](./1933591202550723029-2.png)
 
 ### 2401
 
@@ -3138,7 +3172,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933591202550723029
 
-- ![](1933591202550723029-3.png)
+- ![](./1933591202550723029-3.png)
 
 ### ChrisYon
 
@@ -3150,7 +3184,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933591202550723029
 
-- ![](1933591202550723029-4.png)
+- ![](./1933591202550723029-4.png)
 
 ### MISC
 
@@ -3174,7 +3208,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933686204668784823
 
-- ![](1933686204668784823-1.png)
+- ![](./1933686204668784823-1.png)
 
 ### SolDev
 
@@ -3182,7 +3216,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933686204668784823
 
-- ![](1933686204668784823-2.png)
+- ![](./1933686204668784823-2.png)
 
 ### Grin
 
@@ -3194,7 +3228,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933686204668784823
 
-- ![](1933686204668784823-3.png)
+- ![](./1933686204668784823-3.png)
 
 ### BrySky
 
@@ -3206,7 +3240,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933686204668784823
 
-- ![](1933686204668784823-4.png)
+- ![](./1933686204668784823-4.png)
 
 ### Haruto Miura
 
@@ -3226,11 +3260,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1932932373609586853
 
-- ![](1932932373609586853-1.png)
+- ![](./1932932373609586853-1.png)
 
-- ![](1932932373609586853-2.png)
+- ![](./1932932373609586853-2.png)
 
-- ![](1932932373609586853-3.jpeg)
+- ![](./1932932373609586853-3.jpeg)
 
 ### Jin Bang, Primoz Bernard
 
@@ -3252,19 +3286,19 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1932956578090770818
 
-- ![](1932956578090770818-1.png)
+- ![](./1932956578090770818-1.png)
 
-- ![](1932956578090770818-2.png)
+- ![](./1932956578090770818-2.png)
 
-- ![](1932956578090770818-3.png)
+- ![](./1932956578090770818-3.png)
 
-- ![](1932956578090770818-4.png)
+- ![](./1932956578090770818-4.png)
 
 ### Xun Lee
 
 - https://x.com/browsercookies/status/1934302099258716572
 
-- ![](1934302099258716572.jpeg)
+- ![](./1934302099258716572.jpeg)
 
 ### Vladivostok University
 
@@ -3272,15 +3306,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1934315777018257637
 
-- ![](1934315777018257637.jpeg)
+- ![](./1934315777018257637.jpeg)
 
-- ![](1934313254383427772-1.jpeg)
+- ![](./1934313254383427772-1.jpeg)
 
-- ![](1934313254383427772-2.jpeg)
+- ![](./1934313254383427772-2.jpeg)
 
-- ![](1934313254383427772-3.jpeg)
+- ![](./1934313254383427772-3.jpeg)
 
-- ![](1934313254383427772-4.jpeg)
+- ![](./1934313254383427772-4.jpeg)
 
 
 
@@ -3430,11 +3464,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1931749750090694901
 
-- ![](././ice-skating-01.jpg)
+- ![](./ice-skating-01.jpg)
 
-- ![](././ice-skating-02.jpg)
+- ![](./ice-skating-02.jpg)
 
-- ![](././1918116050832368050.jpeg)
+- ![](./1918116050832368050.jpeg)
 
 - ![](./1931749750090694901.jpeg)
 
@@ -3571,6 +3605,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./jenson-keisuke.png)
 
 - ![](./jenson-naoki-keisuke-kazune-1.png)
+
+- ![](./jenson-naoki-keisuke-kazune-2.png)
 
 - ![](./1913291280911921598.jpeg)
 
