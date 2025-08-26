@@ -64,6 +64,7 @@ Tags:: 🔑 SquidSquad
 
 - 0xbf414ed376467b32d4f81b6f61de79e19b995c28 - Dust, May 23 2025 (Also Syfu Theft)
 
+- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust (May 2025 Dust Collector - Syfu, Rainfi, MarketAcross, Jan 20, B3, M6)
 
 
 ## IOCs
