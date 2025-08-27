@@ -1,5 +1,7 @@
 # DPRK IT Workers
 
+
+
 ### Background Literature
 
 - https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf
@@ -19,6 +21,8 @@
 - https://x.com/zachxbt/status/1824047425822310580
 
 - https://x.com/bax1337/status/1931484066970276121
+
+
 
 
 ### OSINT Interview Videos
@@ -43,9 +47,13 @@
 
 
 
+
+
 ### PONYJACKAL CLUSTER
 
 - ![](./ponyjackal-crew.png)
+
+
 
 ### Benjamin Nguyen
 
@@ -67,6 +75,8 @@
 
 - https://x.com/zachxbt/status/1940388827392344261
 
+
+
 ### Andy Bell
 
 - bbshark.eth
@@ -81,6 +91,8 @@
 
 - https://x.com/zachxbt/status/1940388827392344261
 
+
+
 ### Danny Jin
 
 - dannyjin117@gmail.com
@@ -90,6 +102,8 @@
 - ![](./danny-jin.jpg)
 
 - https://x.com/zachxbt/status/1940388827392344261
+
+
 
 ### Muhammad Abdullah
 
@@ -102,6 +116,8 @@
 - ![](./muhammad-abdullah.jpg)
 
 - https://x.com/zachxbt/status/1940388827392344261
+
+
 
 ### Eric Andrade aka Josh Thomas
 
@@ -120,6 +136,8 @@
 - ![](./eric-andrade-2.jpg)
 
 - https://x.com/zachxbt/status/1940388827392344261
+
+
 
 ### Sandy Nguyen
 
@@ -173,6 +191,8 @@
 
 
 
+
+
 ### BRYAN + BONG + JOSHUA + PEMBA CLUSTER
 
 ![](./1939767200166158385.jpeg)
@@ -184,6 +204,8 @@
 https://www.wsbtv.com/news/local/north-korea-agents-steal-nearly-1-million-cryptocurrency-buckhead-business/XGEVBB7Z4JHPLPPP5XMNMDZ7DA/
 
 https://www.justice.gov/opa/media/1406396/dl?inline
+
+
 
 ### Joshua Palmer
 
@@ -235,6 +257,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./joshua-palmer-wanted.png)
 
+
+
 ### Bryan Cho / Chris Yu / atroboj
 
 - 2021, 2022, 2023, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -283,6 +307,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./bryan-cho-wanted.png)
 
+
+
 ### Bong Chee Shen / Alex Shen
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Obyte / Byteball
@@ -312,6 +338,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1939838063192285351.jpeg)
 
 - ![](./bong-chee-wanted.png)
+
+
 
 ### Pemba Sherpa / Pemba Gulu
 
@@ -349,7 +377,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### LAOS -> VLAD BOYS
+
+
 
 ### Jenson Collins
 
@@ -394,6 +426,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./naoki-collins.png)
 
 - ![](./1916191078631289200.png)
+
+
 
 ### Kazune Takeda
 
@@ -453,6 +487,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Kazune Takeda - mtfuji25
 
 - mtfuji25
@@ -480,6 +516,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xba4c58cf3f601ea8297bf9c08058bb1a4bd62921
 
 - 0xdB600c22dfC1D59E5C2B515E8EB37895A6537B2C
+
+
 
 
 
@@ -525,6 +563,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Pham Trung / jwtradera (zhmolly friend)
 
 - 2024-2025 (jwtradera cluster)
@@ -544,6 +584,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - pt.trung0315@gmail.com
 
 - ZW4HoVLVCc1m2y9ej7RTyCmXMCHDkdpotiB5ELF9fX2
+
+
 
 
 
@@ -582,6 +624,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 2c5gD79Um49VmLCx54a89vVL84kFCiWmj82Zyg8QVVWi
 
 - BrbAo3gtStKPxUbdomd14WUUAFv5QSBnFqp6NRD6TBGC
+
+
 
 
 
@@ -631,6 +675,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Alex Davis (Charles Gordon alt)
 
 - 2025
@@ -644,6 +690,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - dannyboy-820
 
 - alexdavisgender@gmail.com 
+
+
 
 
 
@@ -671,6 +719,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### John Wilhelmson / zhmolly
 
 - 2021
@@ -694,6 +744,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - linkedin.com/in/john-wilhelmsson-17b3a0219
 
 - Hello everyone! I'm new to this group. Introduce myself, I'm senior blockchain developer. https://www.linkedin.com/in/john-wilhelmsson-17b3a0219/ https://t.me/elvencoin/2139 8/19/2021
+
+
 
 ### Naoki Murano
 
@@ -755,6 +807,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./ice-skating-05.png)
 
+
+
 ### Satoshi Naoki / Sano / 0xb10ckdev
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -779,6 +833,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/sether1009
 
+- t.me/sether1009 (ID: 1385798680) ([messages](./user-1385798680-@sether1009.txt))
+
 - t.me/sano1009 (ID: 5459321994) ([messages](./user-5459321994-@sano1009.txt))
 
 - github.com/astermirac1e
@@ -798,6 +854,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xef2a0324cfaa0100db9def8ef31c6e23bc4f9258
 
 - ![](./astermirac1e.png)
+
+
 
 ### Leon - Leon Lowden (0xl2)
 
@@ -823,6 +881,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./ice-skating-04.png)
 
+
+
 ### Leon - Leon Lin (mmsys34, 0xhiler)
 
 - 2025
@@ -842,6 +902,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - t.me/moreleon (ID: 7071594535)
 
 - 0x64d668978ddd6145d4f192eefb03691b75f65096
+
+
 
 ### Leon - Abe Sinjiro (prodigy205)
 
@@ -870,6 +932,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 # Keisuke & Co
 
+
+
 ### Keisuke Watanabe / kAsky53
 - 2021-2025, Divvy, Stabble, ElementalFi, Player2, Marinade Finance, Everway, OneRing, Parasol Finance, ORAO Network, Kamino, KingSamo NFT, Stryke, Beraborrow
 - kAsky53
@@ -879,6 +943,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xWoo (minor username)
 - hirayama1534 (2021)
 - watanabeatari@gmail.com
+- t.me/kAsky53 (ID: 1914451016) ([messages](./user-1914451016-@kAsky53.txt))
 - dev4all.sol = JBxidGWnhtPTGg8xw7sFT9tF4cfGtHnjYNp5GDJvGveh
 - 8mdfRML7z3s8gqDYd72bywcEgQtcvkoJCw2bukv8X71R
 - 4Cz7ZhYnEKtXVs6tivDFo3z6g3KuVct9J6wigg2xZ6Qv
@@ -906,6 +971,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Mario Suparat fka Chris Jin
 - devbamboo
 - devbamboo15
@@ -916,6 +983,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - github.com/chris-jin114
 - AezJBekqBoMWPcCVByn78mucdKVXdc99ugiRjJArWgYR
 - 5AvpMGYy2WxCMoaswmLfFdKPSMDxwZomPVDAdzE3A6vE
+
+
 
 
 
@@ -938,9 +1007,13 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Ming Tai
 - Igor Babe
 - github.com/vikigstar (codebear)
+
+
 
 
 
@@ -950,9 +1023,13 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### David Lee
 - solandrust
 - github.com/solandrust
+
+
 
 
 
@@ -973,6 +1050,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 # Mauro & Co
+
+
 
 
 
@@ -1006,6 +1085,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Mauro Liu - UNKNOWN COMPANY
 
 - Adjacent to Mauro Liu
@@ -1032,6 +1113,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 # The OGs
+
+
 
 ### Alex Hong
 
@@ -1062,6 +1145,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./alex-hong-despace.jpg)
 
 - ![](./alex-hong.png)
+
+
 
 ### Jason Kwon
 
@@ -1111,6 +1196,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./jason-kwon-despace.jpg)
 
+
+
 ### Jason Lee
 
 - Kira Network, Metadallion, Party Doge, Yam Finance
@@ -1140,6 +1227,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./jason-lee-party-2.png)
 
 - ![](./Jason-Lee-resume.jpg)
+
+
 
 ### Gary Lee / ChienHui Lee / Light Fury / Leech Developer
 
@@ -1191,6 +1280,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./gary-lee-1292049042562834432.png)
 
+
+
 ### Jikun Liao - The OG
 
 - MetaPlay (Jan 11, 2022), Gameswap, Obytes, Iotex.io
@@ -1229,6 +1320,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./jikun-liao.png)
 
+
+
 ### Jikun Liao - "James Lee"
 
 - Q12024, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -1240,6 +1333,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xb9451049310053b29e5dd98c54bff37a5e38819c
 
 - ![](./james-lee-coindesk.jpg)
+
+
 
 ### Jikun Liao - "Justin Lim" / altbee
 
@@ -1273,6 +1368,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - liaojikundever@gmail.com: Altbee, JL, Jikun Liao, Liao Jikun, altbee, liaojikunwork
 
+
+
 ### Quinn Lee
 
 -  Q12024, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Arc Market?, Fastswap?, Grape Finance?
@@ -1296,6 +1393,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xf9adac8658e08893fb4e91c1062e471eb11cb6c7 (T)
 
 - 0x9de5d3158b0b83e9211c7444c94ce0c53763f574
+
+
 
 ### Ryuhei Matsuda
 
@@ -1342,6 +1441,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://www.bydfi.com/en/crypto-price/raze 
 
 - https://x.com/Kylin_Network/status/1344503704142143490 
+
+
 
 ### Mauro Liu
 
@@ -1423,6 +1524,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./magiccraft.png)
 
+
+
 ### Mauro Liu aka Xu Liu
 
 - Napier Finance (2023-2024), Blueberry, Pickle Finance, Harmony
@@ -1469,6 +1572,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://github.com/harmony-one/chrome-extension-wallet/graphs/contributors
 
+
+
 ### Eric Liu
 
 - MagicCraft (2022), Humansdotai? Cosmos stuff?
@@ -1512,6 +1617,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./eric-liu-magiccraft-2.jpeg)
 
 - ![](./magiccraft.png)
+
+
 
 ### Anthony Keller / Daiki Saito
 
@@ -1587,6 +1694,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Sava Grujic
 
 - Sushi (2021)
@@ -1606,6 +1715,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - Likely also Anthony Keller
 
 - https://www.coindesk.com/tech/2024/10/02/how-north-korea-infiltrated-the-crypto-industry
+
+
 
 ### Sarawut Sanit
 
@@ -1634,6 +1745,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://archive.ph/5pNLd
 
 - https://www.coindesk.com/tech/2024/10/02/how-north-korea-infiltrated-the-crypto-industry
+
+
 
 ### Jun Kai
 
@@ -1689,7 +1802,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### MORE WORKERS
+
+
 
 ### Kei Nakano / smartcoding51
 
@@ -1725,6 +1842,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://cryptototem.com/onestake-finance-ost/
 
+
+
 ### Matias Diaz / Kei Nakano
 
 - 2025
@@ -1738,6 +1857,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0x9d66bea448eed9bdbb5f1acf032767b11fc78dcf
 
 - 0x961194d781623ebf5ce43087d85d2731cf1e7d1c
+
+
 
 ### Russell Hieu / Shota Nakamura
 
@@ -1767,6 +1888,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xFf6d86807b3387e10dDE52697C3BD7f59b6A145f
 
+
+
 ### James Zook + Shota Nakamura
 
 - 2025
@@ -1782,6 +1905,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0x1cF9a8fc7A5568B6Dca9f5F73200bC1De69e3ecE 
 
 - BaHNYFQYsBKX541kjEB9sgoHCc7NQdwc16S5ZE9bmYYv
+
+
 
 ### Lucas Wong
 
@@ -1813,6 +1938,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./lucas-wong.jpg)
 
+
+
 ### Jannik Villostas
 
 - 2025
@@ -1830,6 +1957,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - t.me/janbuidl (ID:7245484067) ([messages](./user-7245484067-@janbuidl-@mrcontract17877-@0xtomoon-Jannik-Villostas.txt))
 
 - 0x1FEbc069606ABfbA5d021Ed3768cb5D90c9407D5
+
+
 
 ### Janul Azwan
 
@@ -1849,6 +1978,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - t.me/janbuidl (ID:7245484067) ([messages](./user-7245484067-@janbuidl-@mrcontract17877-@0xtomoon-Jannik-Villostas.txt))
 
+
+
 ### Peter Wang
 
 - 2025
@@ -1864,6 +1995,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - t.me/pethercap (ID: 2124964775, prev: @baymax586)
 
 - 0x74bc47ea5201a61c7c9a366bb62ecae2713602a1
+
+
 
 ### Chai Somsri 
 
@@ -1895,7 +2028,12 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x9ce96e07c091662c2605eaae9180de22aad6e8db
 
-- https://cryptototem.com/credbull-cbl/ https://www.linkedin.com/in/chai-somsri/
+- https://cryptototem.com/credbull-cbl/ 
+
+- https://www.linkedin.com/in/chai-somsri/
+
+
+
 
 ### Milan Zubic / Patrick Kishi
 
@@ -1909,7 +2047,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - zaza.liveedu@gmail.com
 
+- t.me/trust0212 (ID: 5419192978) ([messages](./user-5419192978-@trust0212.txt))
+
 - 0x35FcB352027cdDc632b7aE8a50A0410C5bf36248
+
+
 
 ### Unknown ITW 
 
@@ -1925,6 +2067,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 ---
+
+
 
 
 
@@ -1977,6 +2121,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xce0113e71ce0273d0504a7ef1cd4f0e6e4d196bc
 
+
+
 ### Artur Dranhoi
 
 - 2025 (Scott Brown Cluster)
@@ -1997,6 +2143,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xa8cb25ddf0a7195bdc3232ac6e1d812c8a4713fe
 
+
+
 ### Joel Kursala
 
 - 2025 (Scott Brown Cluster)
@@ -2004,6 +2152,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - Received payroll to same address as Scott Brown
 
 - 0xa8cB25ddf0A7195BDc3232ac6e1D812c8a4713Fe
+
+
 
 ### Anderson Lee
 
@@ -2035,6 +2185,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x541fb82d870D6287A9553920A72EDeB0e9877d57
 
+
+
 ### Oleksandr Muravskyi (aka Artur Dranhoi)
 
 - 2025 (Scott Brown Cluster)
@@ -2050,6 +2202,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ole.dev300@hotmail.com
 
 - olek.muravskyi@outlook.com
+
+
 
 ### Solcrazy910
 
@@ -2072,6 +2226,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0x140592a83052b3a432b6d70fb90764612ce41ab1 (Hack)
 
 - 0x5A94a3a114cf01f6a703dD8b840CF0A97CDf1434 creates contract ETHSnowball in July 2022  - 0x37b9ba525921fb0dac2eca1dbf123e549c086ed8822a1a00b8a8f83d2e4a99d2
+
+
 
 #### solcrazy910 aka Dan Mao
 
@@ -2118,6 +2274,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xquantech
 
 - t.me/MaoDan007 (ID: 5089966453) ([messages](./user-5089966453-@MaoDan007-Sol Crazy.txt))
+
+
 
 #### alek806 aka Aleksandar Jovanovic
 
@@ -2167,6 +2325,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Hiroto Iwaki / Taku Yamamoto / Iwaki Hiroto
 
 - mymiracle0118
@@ -2191,6 +2351,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913290058670416183-02.png)
 
+
+
 ### Motoki Masuo
 
 - aka Hiroto Iwaki
@@ -2211,6 +2373,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 ---
+
+
 
 
 
@@ -2241,6 +2405,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x1043efee936903951b88db23551873bb67292e95
 
+
+
 ### Bram Chan / Bram Chen
 
 - Q12024, Plethori
@@ -2261,6 +2427,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./bram-chen.png)
 
+
+
 ### Eric Low
 
 - Q12024
@@ -2275,6 +2443,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x954f20665bcccf58587b49ffee2e593c19c79267 (T)
 
+
+
 ### Gabriel Yiu
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -2287,6 +2457,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xd80614feb54d49cf46cc861fc549fae0a05b3f7e
 
+
+
 ### Jack Li
 
 - jackli16
@@ -2298,6 +2470,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - jacky864
 
 - 0x605ca6fb59211d13b369e54a273a42538b087c36
+
+
 
 ### Jordan Lopez
 
@@ -2313,6 +2487,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x92cd7363c5b1853bc8fe6b5ae269836fc508ca73
 
+
+
 ### Mike Willie Lee
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -2327,6 +2503,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x97e36fAE76cD7ef7cC1213927A9A4E10a61CdD8d
 
+
+
 ### Peter Xiao
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -2339,6 +2517,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x5d8335834bfdf4c746e277e5100d7c778c807356
 
+
+
 ### Wubone
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
@@ -2347,13 +2527,19 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x0db9e27060b7f8258448aa31c36e7c0937fd5fd7
 
+
+
 ### Monkey
 
 - 0x57b9f721411fabe61ac61cca8eaf926a726a70cc
 
+
+
 ### Jing Zhao
 
 - 0xCf6E6021B8e519c0695CEa6B3541556dc798f0DC
+
+
 
 
 
@@ -2406,6 +2592,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
+
 ### Peculiar Joseph
 
 - Joseph D Alchemist
@@ -2414,6 +2602,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - josephpeculiar.com
 - bizmindx@gmail.com
 - github.com/bizmindx
+
+
 
 
 
@@ -2445,6 +2635,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 # Munchables
 
+
+
 ### References
 
 - https://x.com/zachxbt/status/1772843238539325947
@@ -2462,6 +2654,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1784938851603013724.jpeg)
 
 - ![](./1772843238539325947-updated.png)
+
+
 
 ### Nelson Murua / Alberto Mira / Jackson Bill
 
@@ -2501,6 +2695,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./munchables-super1114.jpeg)
 
+
+
 ### Kaiming Hong / Warren Sinclair
 
 - devkitty803
@@ -2510,6 +2706,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - t.me/devkitty803 (ID: 5102864895)
 
 - 0xf69201AA19C540b74c170A545Fc6d8805e0EE9b1
+
+
 
 ### Paul Martin / Werewolves0493
 
@@ -2526,6 +2724,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./munchables-paul-song-werewolves0493.jpeg)
 
 - ![](./munchables-paul-martin.png)
+
+
 
 ### Paul Song / grudev325
 
@@ -2546,6 +2746,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - linkedin.com/in/paul-song-225505224/
 
 - paul-song-cv.herokuapp.com
+
+
 
 ### Paul Martin / cryptopunk / gru1125
 
@@ -2588,6 +2790,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./munchables-paul-martin-ivar.png)
 
 
+
+
 ### Pete Yama / cryptopunk
 
 - Pixelcraft (2022), Munchables (2024)
@@ -2603,6 +2807,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - brightdragon0719 [Archive](https://web.archive.org/save/https://github.com/brightdragon0719)
 
 - ![](./munchables-pete-yama-brightdragon0719.jpeg)
+
+
 
 ### Pete Yama / Abracadabra + Bill Tovitt
 
@@ -2666,11 +2872,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 # Face Pix
 
+
+
 ### 139.5.157.128 and 212.91.193.27
 
 - https://x.com/Narcass3/status/1916191078631289200
 
 - ![](./1916191078631289200.png)
+
+
 
 ### AI Face
 
@@ -2678,17 +2888,23 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1886835017818755170.png)
 
+
+
 ### James McClung
 
 - https://x.com/browsercookies/status/1913298431738888490
 
 - ![](./1913298431738888490.png)
 
+
+
 ### Jason Rostro
 
 - https://x.com/browsercookies/status/1913265469529985167
 
 - ![](./1913265469529985167.png)
+
+
 
 ### Benjamin and a Patrick / Michael Brown
 
@@ -2700,6 +2916,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913291827278414205-02.png)
 
+
+
 ### Bryan Edward Irving / Steven Scott Jr
 
 - ![](./1918045802389504304-1.png)
@@ -2708,6 +2926,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1918116050832368050.jpeg)
 
+
+
 ### Daniel Everest
 
 - https://x.com/browsercookies/status/1913269771560489367
@@ -2715,6 +2935,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1913269771560489367-01.png)
 
 - ![](./1913269771560489367-02.png)
+
+
 
 ### David Ye / David Rose
 
@@ -2728,6 +2950,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913273419933823407.png)
 
+
+
 ### Eugene Palla
 
 - exppal
@@ -2740,11 +2964,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913267013046423894.png)
 
+
+
 ### Faraz Q
 
 - https://x.com/browsercookies/status/1913265115954319641
 
 - ![](./1913265115954319641.png)
+
+
 
 ### Harry Pham
 
@@ -2752,11 +2980,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913291378467258456.png)
 
+
+
 ### Hiroki Hara
 
 - https://x.com/eastside_nci/status/1913309781952971187
 
 - ![](./1913309781952971187.jpeg)
+
+
 
 ### Jacob Haigis
 
@@ -2765,6 +2997,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1913268425243459942
 
 - ![](./1913268425243459942.png)
+
+
 
 ### Katashi Fujino / Ronnie Karl / Joshua Fuso
 
@@ -2780,6 +3014,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913271095253516308.png)
 
+
+
 ### Kevin Chang
 
 - kchang.prof@gmail.com
@@ -2792,11 +3028,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913267818386305459.png)
 
+
+
 ### Logan Collins
 
 - https://x.com/browsercookies/status/1913268057084170382
 
 - ![](./1913268057084170382.png)
+
+
 
 ### Lucas Lee
 
@@ -2806,11 +3046,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913288546787504174.png)
 
+
+
 ### Luis Pena
 
 - https://x.com/browsercookies/status/1913269065940189556
 
 - ![](./1913269065940189556.png)
+
+
 
 ### Marko Nicovic / Hua Min Fe / Tom Callaghan
 
@@ -2818,11 +3062,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913292910805516457.png)
 
+
+
 ### Ondriah Young
 
 - x.com/browsercookies/status/1913267316378550519
 
 - ![](./1913267316378550519.jpeg)
+
+
 
 ### Rami
 
@@ -2834,6 +3082,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913297923468574948-03.jpeg)
 
+
+
 ### Ryan Hammonds / Ryan Stringfellow
 
 - http://x.com/browsercookies/status/1913302277689057346
@@ -2841,6 +3091,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1913302277689057346-01.png)
 
 - ![](./1913302277689057346-02.png)
+
+
 
 ### Ryan Sims / Paul Jones / Joseph Jones
 
@@ -2854,6 +3106,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913311847551549476-02.png)
 
+
+
 ### Thomas Peters / Bryce Hodges
 
 - https://x.com/browsercookies/status/1913269301244793211
@@ -2861,6 +3115,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1913269301244793211-01.png)
 
 - ![](./1913269301244793211-02.png)
+
+
 
 ### Eugene Tan
 
@@ -2877,6 +3133,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1923552508875767829-1.png)
 
 - ![](./1923552508875767829-2.png)
+
+
 
 ### William Loy
 
@@ -2902,6 +3160,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1923549354025234903-2.png)
 
+
+
 ### Lovely Developer
 
 - Josue Valdivia
@@ -2917,6 +3177,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1923539373959897397.png)
 
 - ![](./1923539768849436999.png)
+
+
 
 ### Aldino Saputra
 
@@ -2946,6 +3208,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/SilkenCore59010 (https://x.com/SilkenCore59010/status/1919310534060785800)
 
+
+
 ### Eric Dickerson
 
 - Kartos102
@@ -2958,6 +3222,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1934283069101674814-1.png)
 
+
+
 ### Simon
 
 - akira0502
@@ -2967,6 +3233,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1934283069101674814
 
 - ![](./1934283069101674814-2.png)
+
+
 
 ### Joseph Anderson
 
@@ -2979,6 +3247,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1934283069101674814
 
 - ![](./1934283069101674814-3.png)
+
+
 
 ### Kell Daniel
 
@@ -2994,6 +3264,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1934283069101674814-4.png)
 
+
+
 ### Hunter Bost
 
 - North Carolina
@@ -3001,6 +3273,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/0xzozozo/status/1824117629214130436
 
 - ![](./1824117629214130436.jpeg)
+
+
 
 ### Minato Tanaka
 
@@ -3012,6 +3286,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1934285777699230194-1.png)
 
+
+
 ### BlueSoft
 
 - t.me/bluesoft2100
@@ -3021,6 +3297,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1934285777699230194
 
 - ![](./1934285777699230194-2.png)
+
+
 
 ### Dennis DelRosario
 
@@ -3034,6 +3312,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1934285777699230194-3.png)
 
+
+
 ### Hayato Suzuki
 
 - t.me/WebTalent0123 (ID: 5131829846)
@@ -3045,6 +3325,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1934285777699230194
 
 - ![](./1934285777699230194-4.png)
+
+
 
 ### topcodebeast
 
@@ -3068,6 +3350,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1934288397339877730.png)
 
+
+
 ### TechWizAI
 
 - github.com/TopETH
@@ -3080,6 +3364,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1934290466054553751-1.png)
 
+
+
 ### Phillip Masaki
 
 - github.com/bio1oo1
@@ -3089,6 +3375,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1934290466054553751
 
 - ![](./1934290466054553751-2.png)
+
+
 
 ### Thomas Lin
 
@@ -3101,6 +3389,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1934290466054553751
 
 - ![](./1934290466054553751-3.png)
+
+
 
 ### Kopp Anatoli
 
@@ -3115,6 +3405,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1934290466054553751
 
 - ![](./1934290466054553751-4.png)
+
+
 
 ### Denis Rudink
 
@@ -3132,6 +3424,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1934280908103884850-1.png)
 
+
+
 ### Louise Egan
 
 - x.com/PinnacleFTSO
@@ -3146,6 +3440,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1934280908103884850-2.png)
 
+
+
 ### Lover Man
 
 - github.com/itloverman (404)
@@ -3156,6 +3452,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1933591202550723029-1.png)
 
+
+
 ### Ninja
 
 - t.me/leonk0804
@@ -3163,6 +3461,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1933591202550723029
 
 - ![](./1933591202550723029-2.png)
+
+
 
 ### 2401
 
@@ -3173,6 +3473,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1933591202550723029
 
 - ![](./1933591202550723029-3.png)
+
+
 
 ### Chris Yon / Jack Lu / wdev733
 
@@ -3188,6 +3490,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1933591202550723029-4.png)
 
+
+
 ### MISC
 
 - snowjaguar625
@@ -3202,6 +3506,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://x.com/browsercookies/status/1933592459621380282
 
+
+
 ### Ares
 
 - github.com/elitegooddev
@@ -3214,6 +3520,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1933686204668784823-1.png)
 
+
+
 ### SolDev
 
 - github.com/evgpan
@@ -3221,6 +3529,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1933686204668784823
 
 - ![](./1933686204668784823-2.png)
+
+
 
 ### Grin
 
@@ -3234,6 +3544,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1933686204668784823-3.png)
 
+
+
 ### BrySky
 
 - github.com/develrocket
@@ -3245,6 +3557,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://x.com/browsercookies/status/1933686204668784823
 
 - ![](./1933686204668784823-4.png)
+
+
 
 ### Haruto Miura
 
@@ -3269,6 +3583,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1932932373609586853-2.png)
 
 - ![](./1932932373609586853-3.jpeg)
+
+
 
 ### Jin Bang, Primoz Bernard
 
@@ -3298,11 +3614,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1932956578090770818-4.png)
 
+
+
 ### Xun Lee
 
 - https://x.com/browsercookies/status/1934302099258716572
 
 - ![](./1934302099258716572.jpeg)
+
+
 
 ### Vladivostok University
 
@@ -3454,6 +3774,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 # Ice Skating
 
+
+
 ### February 2024
 
 - Kevin Li / kevin.solution41@gmail.com
@@ -3475,6 +3797,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./1918116050832368050.jpeg)
 
 - ![](./1931749750090694901.jpeg)
+
+
 
 ### May 2025
 
@@ -3614,6 +3938,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1913291280911921598.jpeg)
 
+
+
 #### Onchain Addresses Cluster 1 - Receives from GMO Japan
 
 - 0x9149C1552e663AF9f1b6584857715a39a520a889
@@ -3626,11 +3952,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x0540dacCfDA70374aDdfcAaCa6D21C35811F8A71 (unused)
 
+
+
 #### Onchain Addresses Cluster 2
 
 - 0xb0e5e8c2E7C89aCB19525234a025D3c27faa6519
 
 - receives from Scott Brown 0x368a337dcdec5cf9849a7563538f03b1516a3f7d
+
+
 
 #### Onchain Addresses Other
 
@@ -3656,6 +3986,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 # Dubai, Crypto, Moonstone Sleet, and the Pivot Odyssey
 
 - https://chollima-group.io/posts/dubai-crypto-moonstonesleet-pivot-odyssey
+
+
 
 ### loganworld / Logan Lee / Logan King / Logan Smith 
 
@@ -3684,6 +4016,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - upwork.com/freelancers/~014d511b5978bb9853
 
  
+
+
 ### promiseislaw (Marcin Iwanski)
 
 - Brent Jeremy
@@ -3728,6 +4062,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://web3.career/@marcin
 
 
+
+
 ### newstable / Jaycee Tran / Sasuke Uchiha
 - Jaycee Tran
 - Sasuke Uchiha
@@ -3752,6 +4088,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - live:.cid.f4e6d1509205ccdd
 
 
+
+
 ### SirBang / Derek Miller
 - Derek Miller
 - SirBang
@@ -3766,6 +4104,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://www.fiverr.com/derekmiller03
 - https://laborx.com/freelancers/users/id328992
 - https://www.youtube.com/@DerekMiller-h8m
+
+
 
 
 
@@ -3801,6 +4141,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://www.lancers.jp/profile/camonanesi
 - https://www.peopleperhour.com/freelancer/technology-programming/xiao-he-fullstack-web-developer-blockchain-vxqqqxj
 - 0xC5ABDE4CE8C5740F4bad6C3B05E4Da31d229659
+
+
 
 
 ### Misc
@@ -3885,6 +4227,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - Discord: overworldlife.com
 - 0xA9C429B9469D9462A1f2C3a52e149512F87F5094 - Logan/Smirnovvasyl
 - 0x9e051782754e1ED01C2800a820b9F742b38aceA0 - newstable
+
+
 
 ##### Organizations / Projects
 
