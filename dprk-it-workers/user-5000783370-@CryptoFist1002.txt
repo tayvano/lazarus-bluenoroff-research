@@ -1,0 +1,72 @@
+﻿[48Club Infrastructure] [https://t.me/infra_48club/29462] | 5/30/2025 5:04:32 AM: I send bundles but my bundles are not submitted either. why does this happen?
+[48Club Infrastructure] [https://t.me/infra_48club/28673] | 5/5/2025 8:30:32 PM:  [Web link]
+[48Club Infrastructure] [https://t.me/infra_48club/27510] | 4/18/2025 4:03:55 PM: so is it not true? I can't discount tx gas?
+[48Club Infrastructure] [https://t.me/infra_48club/27509] | 4/18/2025 4:02:06 PM: that's why I entered to entry membership.
+[48Club Infrastructure] [https://t.me/infra_48club/27508] | 4/18/2025 4:00:50 PM: [Image]
+[48Club Infrastructure] [https://t.me/infra_48club/27506] | 4/18/2025 2:13:25 PM: Hi, I am newbie with Puissant. and as I checked, I can send tx with discounted gas price if I entered to Entry Membership.
+so I entered membership but I am not sure how I can send tx with discounted gas price.
+and also the how much I can discount gas price. ofc, there is formula for this - Your Soul Point * 10000.
+so for example, if I have 60 soul point, how much can I discount gas price?
+[Reth] [https://t.me/paradigm_reth/29847] | 6/26/2024 10:50:25 PM: [Image]
+[Reth - Technical Support Club] [https://t.me/paradigmxyz_reth_tech/793] | 6/26/2024 10:48:20 PM: [Image]
+[Frax Finance] [https://t.me/fraxfinance/291953] | 11/3/2023 10:36:42 AM: I submitted. When can I get reply, @chojunsuck ?
+[Frax Finance] [https://t.me/fraxfinance/291948] | 11/3/2023 10:29:44 AM: Don't you need any blockchain developer now, @samkazemian ?
+[Smart Contracts Developers ED] [https://t.me/smart_contracts_dev/25780] | 10/31/2023 9:35:13 AM: yeah, he scammed me too.
+[Smart Contracts Developers ED] [https://t.me/smart_contracts_dev/25770] | 10/31/2023 5:40:39 AM: based on how smart contract developed. If smart contract has withdraw function that don't limit permission. it's possible.
+Except that, based on how smart contract developed, there can be several vulnerabilities to withdraw funds.
+[Smart Contracts Developers ED] [https://t.me/smart_contracts_dev/25753] | 10/26/2023 5:23:56 PM: @sushantsharma100 , can you dm me on your side? thank you in advance.
+[Smart Contracts Developers ED] [https://t.me/smart_contracts_dev/25752] | 10/26/2023 5:20:41 PM: I can't dm you.
+[Hardhat] [https://t.me/HardhatChat/21837] | 4/6/2023 8:27:11 PM: hmmm...
+probably, you didn't understand my purpose.
+[Hardhat] [https://t.me/HardhatChat/21835] | 4/6/2023 7:54:54 PM: wallet is not related.
+[Hardhat] [https://t.me/HardhatChat/21834] | 4/6/2023 7:54:36 PM: I can't get what you wanna know.
+What I want is fork arbitrum network.
+[Hardhat] [https://t.me/HardhatChat/21832] | 4/6/2023 7:53:49 PM: no.
+I use only wallets that hardhat supports.
+[Hardhat] [https://t.me/HardhatChat/21830] | 4/6/2023 7:52:44 PM: not really.
+I don't use Dapp and using hardhat, I tried to test smart contracts.
+[Hardhat] [https://t.me/HardhatChat/21828] | 4/6/2023 7:52:14 PM: forking: {
+                url: "https://arb1.arbitrum.io/rpc",
+                blockNumber: 77684617,
+                ignoreUnknownTxType: true,
+            },
+[Hardhat] [https://t.me/HardhatChat/21827] | 4/6/2023 7:51:56 PM: I set the url and blockNumber to fork arbitrum one.
+[Hardhat] [https://t.me/HardhatChat/21826] | 4/6/2023 7:51:32 PM: arbitrum one network.
+[Hardhat] [https://t.me/HardhatChat/21824] | 4/6/2023 7:12:39 PM: Hi, folks.
+I tried to fork arbitrum one network but not works
+this is error msg I got.
+InternalError: Unknown transaction type 106
+[Savvy DeFi] [https://t.me/SavvyDeFiEvents/1263] | 12/15/2022 6:23:48 PM: 👋
+[Savvy DeFi] [https://t.me/SavvyDeFiEvents/1262] | 12/15/2022 6:23:45 PM: Oh, Roman. gm
+[Harmony Devs - Developers and dev question only] [https://t.me/HarmonyDevs/12789] | 5/19/2022 12:52:02 PM: Plz help me with verifying contract using hardhat
+[Harmony Devs - Developers and dev question only] [https://t.me/HarmonyDevs/12788] | 5/19/2022 12:51:50 PM: but I can't get api key and seems there is no api key
+[Harmony Devs - Developers and dev question only] [https://t.me/HarmonyDevs/12787] | 5/19/2022 12:51:40 PM: Hi, folks.
+I wanna verify the contract on harmony main net using harmony
+[Harmony Devs - Developers and dev question only] [https://t.me/HarmonyDevs/12715] | 5/14/2022 4:55:46 PM: Hi, anybody knows the defira router address on testnet and mainnet?
+[Harmony Devs - Developers and dev question only] [https://t.me/HarmonyDevs/12713] | 5/14/2022 3:52:24 AM: Hi, folks.
+I wanna use the defira swap, but can't find the router contract address.
+Where can I find it?
+[Blockchain Dev Jobs / (Solidity)] [https://t.me/soliditydevjobs/479] | 1/19/2022 11:03:57 AM: Don't you need contract developer for NFT game project?
+[Blockchain Dev Jobs / (Solidity)] [https://t.me/soliditydevjobs/434] | 1/18/2022 7:23:22 AM: So what can I do for you?
+[Blockchain Dev Jobs / (Solidity)] [https://t.me/soliditydevjobs/433] | 1/18/2022 6:58:54 AM: great!
+I can do it. What type of contract? NFT or DEX?
+[SOLANA JOBS] [https://t.me/solana_jobs/54] | 1/17/2022 4:04:45 PM: As I said before, dm me.
+Plz read description carefully.
+[SOLANA JOBS] [https://t.me/solana_jobs/51] | 1/17/2022 4:03:49 PM: I have the other projects, except this.
+Plz dm me only you can do this exactly.
+[SOLANA JOBS] [https://t.me/solana_jobs/47] | 1/17/2022 3:48:32 PM: This will be the long-term project.
+[SOLANA JOBS] [https://t.me/solana_jobs/46] | 1/17/2022 3:48:24 PM: Hi, everyone. I am looking for an experienced developer who can build two simple SOLANA smart contracts and DApps.
+If you have an interest, plz dm me.
+This is urgent project so I wanna start work from today or tomorrow.
+[Solidity Workers] [https://t.me/soliditywithsalary/86] | 1/9/2022 3:18:10 AM: Are you scammed?
+[Solidity Workers] [https://t.me/soliditywithsalary/60] | 1/5/2022 7:34:17 PM: Happy New Year!!!
+I am Kell Daniel from Denmark.
+As an experienced Smart Contract Developer who has +3 years of experience, I am the proper person you are looking for.
+Have in-depth knowledge and rich experience in ERC-20, ERC-721 and ERC-1155 and also DApps such as web3js and etherjs.
+
+If you want to build Smart Contract and DApps, plz call me.
+I am always open to you.
+[Blockchain Dev Jobs / (Solidity)] [https://t.me/soliditydevjobs/176] | 12/25/2021 12:06:18 AM: Hi, I am a full-stack blockchain developer.
+I built several NFT and DeFi sites.
+So I have in-depth knowledge and strong experience in solidity and web3.
+Plz call me if you have project for me.

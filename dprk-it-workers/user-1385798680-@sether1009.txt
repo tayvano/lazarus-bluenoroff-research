@@ -1,0 +1,14 @@
+﻿[Foundry Support] [https://t.me/foundry_support/42528] | 8/18/2023 12:57:33 PM: why it doesn't do deterministic deployment from just deployer.
+in other word, why you implemented it to deploy contracts via Create2Deployer?
+[Foundry Support] [https://t.me/foundry_support/42527] | 8/18/2023 12:56:41 PM: still, it's not clear.
+I want to deploy ownable contract from deployer but since it uses foundry's Create2Deployer, the owner of the deployed contract is Create2Deployer but not deployer.
+[Foundry Support] [https://t.me/foundry_support/42525] | 8/18/2023 12:41:09 PM: hi
+is there any reason that it uses your own Create2Deployer when tries to do deterministic deployment via forge script?
+e.g
+vm.startBroadcast(deployer);
+Vault vault = new Vault{salt: _salt}();
+vm.stopBroadcast();
+
+then the deployer of vault is Create2Deployer of foundry instead of deployer
+[Foundry Support] [https://t.me/foundry_support/42281] | 8/10/2023 8:39:09 PM: any answers?
+[Foundry Support] [https://t.me/foundry_support/42221] | 8/10/2023 3:08:50 PM:  [Web link]

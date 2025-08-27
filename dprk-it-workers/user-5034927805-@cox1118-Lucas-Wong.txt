@@ -1,0 +1,144 @@
+﻿[Polkadot Developer Support] [https://t.me/substratedevs/13485] | 5/20/2025 4:53:07 AM: thanks, let me look into this
+[Polkadot Developer Support] [https://t.me/substratedevs/13483] | 5/20/2025 4:50:03 AM: can you help me understand what you mean by weight here?
+[Polkadot Developer Support] [https://t.me/substratedevs/13481] | 5/20/2025 4:46:15 AM: I am working on a standalone substrate chain without tip system, in that case, complex extrinsic that requires higher compute should have higher priority?
+[Polkadot Developer Support] [https://t.me/substratedevs/13479] | 5/20/2025 4:42:01 AM: here fee based ordering considers tip or only transaction fee?
+[Polkadot Developer Support] [https://t.me/substratedevs/13470] | 5/19/2025 1:04:09 PM: hello, can someone please help me understand how priority of extrinsic within a block is decided?
+[Sonic Builders] [https://t.me/SonicBuilders/19002] | 3/18/2025 4:33:41 PM: hi @segfault0x 
+any update on my ticket?
+[Sonic Builders] [https://t.me/SonicBuilders/18971] | 3/17/2025 2:20:07 PM: hi @segfault0x 
+can you please check my dm?
+[Sonic Builders] [https://t.me/SonicBuilders/18800] | 3/14/2025 3:45:34 PM: @segfault0x 
+can you check my dm?
+[Sonic Builders] [https://t.me/SonicBuilders/18521] | 3/12/2025 8:17:17 PM: here
+[Sonic Builders] [https://t.me/SonicBuilders/18520] | 3/12/2025 8:17:08 PM: any dev from the team?
+[Sonic Builders] [https://t.me/SonicBuilders/18494] | 3/12/2025 5:13:29 PM: anybody plz help me with this?
+[Sonic Builders] [https://t.me/SonicBuilders/18414] | 3/11/2025 7:13:57 PM: Hi. who is responsible for technical issue?
+I have some errors while bridging token with sonic native gateway.
+
+I've got proof with this code:
+async function generateProof(depositId) {
+    // Generate storage slot for deposit
+    const storageSlot = ethers.utils.keccak256(
+        ethers.utils.defaultAbiCoder.encode(['uint256', 'uint8'], [depositId, 7])
+    );
+    
+    // Get proof from Ethereum node
+    const proof = await ethProvider.send("eth_getProof", [
+        ETH_CONTRACTS.TOKEN_DEPOSIT,
+        [storageSlot],
+        "latest"
+    ]);
+    
+    // Encode proof in required format
+    return ethers.utils.RLP.encode([
+        ethers.utils.RLP.encode(proof.accountProof),
+        ethers.utils.RLP.encode(proof.storageProof[0].proof)
+    ]);
+}
+
+and used depositId, token, amount, and proof as parameter of claim function
+but it returns error - execution reverted: Invalid root hash
+[Band Protocol] [https://t.me/bandprotocol/398281] | 2/20/2025 6:59:55 PM: what is eligibility to be a provider?
+[Band Protocol] [https://t.me/bandprotocol/398279] | 2/20/2025 6:53:17 PM: where can I find dashboard of data providers?
+[MAP Protocol Official] [https://t.me/MAPprotocol/643676] | 11/12/2024 7:17:09 PM: I think step 2 is how much reward a validator receives, not total reward amount after 2 years
+[MAP Protocol Official] [https://t.me/MAPprotocol/643652] | 11/12/2024 3:59:09 AM: what about now?
+[MAP Protocol Official] [https://t.me/MAPprotocol/643650] | 11/12/2024 3:36:46 AM: is it still 833,333 MAP?
+[MAP Validator Recruit] [https://t.me/mapvalidatorrecruit/1509] | 11/12/2024 3:17:43 AM: what is the reward amount for an epoch now?
+[MAP Protocol Official] [https://t.me/MAPprotocol/643615] | 11/11/2024 7:53:43 PM: what is the reward amount for an epoch now?
+[MAP Protocol Official] [https://t.me/MAPprotocol/643607] | 11/11/2024 7:23:16 PM: how long is one epoch?
+[Remote Web developer jobs Chat] [https://t.me/lostincode/8391] | 10/15/2024 6:32:29 PM: btw why gmail instead of company mail?
+[Wise Panda Official] [https://t.me/wisepandaofficial/282] | 10/1/2024 5:26:37 AM: hello team
+I read a posting looking for a React.js developer at Wise Panda and wanted to confirm if it's legitimate
+[Blend] [https://t.me/blendprotocolofficial/3444] | 9/20/2024 4:45:01 PM:  [Web link]
+[Enpyhyr] [https://t.me/enphyr/13151] | 6/11/2024 6:17:11 AM:  [Web link]
+[PowerPod Community] [https://t.me/PowerPod_community/23830] | 6/7/2024 4:27:42 AM:  [Web link]
+[GLIF] [https://t.me/glifio/4211] | 5/31/2024 6:34:12 PM: I am good
+[FortyTwo] [https://t.me/fortytwomoney/1466] | 5/30/2024 5:01:59 PM:  [Web link]
+[Mirror Staking Protocol] [https://t.me/mirror_l2/20313] | 5/30/2024 5:36:53 AM:  [Web link]
+[MetaLeX - making ORGs cyBernetic] [https://t.me/c/2083623932/599] | 5/27/2024 7:18:58 PM:  [Web link]
+[Circular Developers Channel] [https://t.me/CircularDevChannel/283] | 5/22/2024 4:24:52 PM:  [Web link]
+[SatScreener] [https://t.me/satscreener/527] | 5/21/2024 7:37:50 PM: Hello everyone.
+It's so nice to join here.
+I am a full stack engineer with extensive experience in web and blockchain technologies.
+Here is my portfolio link.
+https://lucasw.net/
+I am now looking for a new opportunity where I can further enhance my skills and experience.
+Your offers and suggestions would be highly appreciated.
+Looking forward to hearing from you soon.
+Thanks
+[Sekuya Multiverse] [https://t.me/sekuyaofficial/695052] | 5/16/2024 6:18:11 AM: @sekuyaid
+[Sekuya Multiverse] [https://t.me/sekuyaofficial/695047] | 5/16/2024 6:15:59 AM: are you looking for a developer by any chance?
+[Sekuya Multiverse] [https://t.me/sekuyaofficial/695043] | 5/16/2024 6:10:01 AM: is discord community live?
+[TwitterScore.io] [https://t.me/TwitterScore/1810] | 5/15/2024 4:32:42 PM:  [Web link]
+[Blockchain Discussion Group] [https://t.me/blockbuddiesweb3/1855] | 5/3/2024 10:50:38 PM: SCAM!!
+[ZkCloud Community] [https://t.me/thezkcloud/9480] | 5/3/2024 4:54:15 PM: somebody plz send me discord invite
+[Blockchain Discussion Group] [https://t.me/blockbuddiesweb3/1837] | 5/3/2024 1:19:25 PM: SCAM!!!
+[CryptoJobsList | Chat] [https://t.me/cryptojobslist_community/16115] | 4/26/2024 6:59:31 PM: @ksaitor 
+any update on this?
+[Blockchain Discussion Group] [https://t.me/blockbuddiesweb3/1456] | 4/23/2024 1:34:05 PM: dm me
+[Kinetic Kollective - OFFICIAL] [https://t.me/KINETICKOLLECTIVE_CHAT/22826] | 4/23/2024 6:59:09 AM: Hello everyone.
+It's so nice to join here.
+I am a full stack engineer with extensive experience in web and blockchain technologies.
+Here is my portfolio link.
+https://lucasw.net/
+I am now looking for a new opportunity where I can further enhance my skills and experience.
+Your offers and suggestions would be highly appreciated.
+Looking forward to hearing from you soon.
+Thanks
+[Blockchain Discussion Group] [https://t.me/blockbuddiesweb3/1245] | 4/19/2024 3:33:30 PM:  [Web link]
+[Syndr - Official] [https://t.me/syndr_official/20491] | 4/18/2024 5:52:26 AM: Hello everyone 
+It's so nice to join here. 
+I am a full stack engineer with extensive experience in web and blockchain technologies. 
+I am now looking for a new opportunity where I can further enhance my skills and experience. 
+Your offers and suggestions would be highly appreciated. 
+Looking forward to hearing from you soon. 
+Thanks
+[ZkCloud Community] [https://t.me/thezkcloud/9131] | 4/18/2024 5:51:23 AM: Hello everyone 
+It's so nice to join here. 
+I am a full stack engineer with extensive experience in web and blockchain technologies. 
+Here is my portfolio link. 
+https://lucasw.net/ 
+I am now looking for a new opportunity where I can further enhance my skills and experience. 
+Your offers and suggestions would be highly appreciated. 
+Looking forward to hearing from you soon. 
+Thanks
+[Blockchain Headhunter - Jobs, Careers & Education in Web3, Blockchain, Cryptocurrency, Bitcoin, Ethereum, DeFi, Fintech] [https://t.me/blockchain_headhunter/103213] | 4/18/2024 5:49:56 AM:  [Web link]
+[Absinthe Network] [https://t.me/absinthenetwork/494] | 4/16/2024 4:15:40 AM:  [Web link]
+[ZkCloud Community] [https://t.me/thezkcloud/9034] | 4/10/2024 9:32:28 PM: Hello everyoneIt's so nice to join here.
+I am a full stack engineer with extensive experience in web and blockchain technologies.
+Here is my portfolio link.
+https://lucaswong-portfolio.netlify.app
+I am now looking for a new opportunity where I can further enhance my skills and experience.
+Your offers and suggestions would be highly appreciated.Looking forward to hearing from you soon.
+Thanks
+[Blockchain Headhunter - Jobs, Careers & Education in Web3, Blockchain, Cryptocurrency, Bitcoin, Ethereum, DeFi, Fintech] [https://t.me/blockchain_headhunter/100649] | 3/27/2024 6:28:38 AM: why not kick out those scammers? any admins here?
+[FUNToken Ecosystem Chat] [https://t.me/officialFUNToken/218074] | 3/27/2024 5:25:03 AM: I sent email, when can I hear back?
+[FUNToken Ecosystem Chat] [https://t.me/officialFUNToken/217912] | 3/25/2024 8:31:17 PM:  [Web link]
+[Blockchain Headhunter - Jobs, Careers & Education in Web3, Blockchain, Cryptocurrency, Bitcoin, Ethereum, DeFi, Fintech] [https://t.me/blockchain_headhunter/99443] | 3/20/2024 4:12:09 PM: do we have admin here to report to?
+[PRDT Finance] [https://t.me/PRDT_Finance/75077] | 3/16/2024 3:04:10 PM: hi @Maxprdt
+[PRDT Finance] [https://t.me/PRDT_Finance/75062] | 3/14/2024 9:01:29 PM: sent dm
+[HAPI OFFICIAL] [https://t.me/hapiHF/470031] | 3/14/2024 6:19:04 PM: how can I become an oracle provider?
+[PRDT Finance] [https://t.me/PRDT_Finance/75056] | 3/14/2024 5:50:21 PM: @Maxprdt
+[PRDT Finance] [https://t.me/PRDT_Finance/75055] | 3/14/2024 5:49:43 PM: hi Team
+I'd like to join your team as a developer
+where can I find open positions?
+[WINkLink Official] [https://t.me/WINkLink_Oracle_official/317947] | 3/13/2024 3:59:08 PM: anybody here?
+[WINkLink Official] [https://t.me/WINkLink_Oracle_official/317884] | 3/13/2024 5:42:11 AM: hi Team
+where can I find some info about reward mechanism of building a WINKLink node?
+[Blockchain Headhunter - Jobs, Careers & Education in Web3, Blockchain, Cryptocurrency, Bitcoin, Ethereum, DeFi, Fintech] [https://t.me/blockchain_headhunter/94997] | 3/7/2024 6:27:00 AM: he is scammer
+[Cycle Network] [https://t.me/cycle_network/936] | 2/28/2024 4:09:21 PM:  [Web link]
+[Fullstack web developers] [https://t.me/reactjs2020/4180] | 6/23/2022 5:59:40 PM: [For Hire][Remote]
+Hello everyone!
+I am a Sr Full Stack Developer with 3 years of experience in Blockchain technology as well. I have implemented a number of applications and solutions using various technologies and programming languages, ensuring optimal functionality, quality, and reliability. Active learner – always trying to stay up to date with the latest technologies.
+My skills and experience:
+— deployed smart contracts for NFT and DeFi projects to EVM compatible chains
+— advanced level of React/Redux, Node/Express as my most proficient skills
+— experienced in other JS frameworks like Next, Angular and Vue.js
+— pretty rich experience in both RDBMS and noSQL databases(MySQL, PostgreSQL, MongoDB, etc)
+— strong understanding of HTML, CSS/SASS, JavaScript/TypeScript, PHP, Solidity
+— experienced in web3.js, ethers.js, Hardhat, Truffle, Waffle
+— experience of working under Agile methodology
+— fluent verbal and written English communicator
+— flexible working time across time zones
+Looking for a remote position in a team with good culture.
+Please don't hesitate to contact if you have any vacancies that I might be a food fit for.

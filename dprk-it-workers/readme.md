@@ -463,7 +463,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - kazune.takeda@yahoo.com
 
-- t.me/ETHFuji (ID: 5407827675)
+- t.me/ETHFuji (ID: 5407827675) ([messages](./user-5407827675-@ETHFuji.txt))
 
 - github.com/mtfuji25
 
@@ -513,7 +513,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - jwtradera@outook.com
 
-- t.me/jjmolIy (ID: 1968323567)
+- t.me/jjmolIy (ID: 1968323567) ([messages](./user-1968323567-@zzmoly.txt))
 
 - 0x210888f2624d01f9cbc71de5bf4caf5b6dc9fa7f
 
@@ -569,7 +569,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/zhmoly
 
-- t.me/zzmoly
+- t.me/zzmoly (ID: 1968323567) ([messages](./user-1968323567-@zzmoly.txt))
 
 - t.me/zhmolly
 
@@ -779,7 +779,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/sether1009
 
-- t.me/sano1009 (ID: 5459321994)
+- t.me/sano1009 (ID: 5459321994) ([messages](./user-5459321994-@sano1009.txt))
 
 - github.com/astermirac1e
 
@@ -934,7 +934,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - github.com/h0lme3
 - github.com/stabble-dev
 - socket.dev/npm/user/stabbledev
-- t.me/haodev007 (ID: 5312921424)
+- t.me/haodev007 (ID: 5312921424) ([messages](./user-5312921424-@haodev007.txt))
 
 
 
@@ -1377,7 +1377,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - Overlaps with 0xm00neth, zhChameleon, Daiki Saito, Malkevych Bohdan bomalkevych@gmail.com, Jamshed Latipov jamshedlatipov@gmail.com
 
-- t.me/chamel92 (ID: 6635242888)
+- t.me/chamel92 (ID: 6635242888) ([messages](./user-6635242888-@chamel92.txt))
 
 - x.com/0xchamel
 
@@ -1445,7 +1445,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - choi.link227@gmail.com: Ryan Choi
 
-- t.me/chamel92 (ID: 6635242888)
+- t.me/chamel92 (ID: 6635242888) ([messages](./user-6635242888-@chamel92.txt))
 
 - bitbaby888@gmail.com
 
@@ -1797,7 +1797,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/LucasWongC
 
-- t.me/cox1118 (ID: 5034927805)
+- t.me/cox1118 (ID: 5034927805) ([messages](./user-5034927805-@cox1118-Lucas-Wong.txt))
 
 - lucas.wong.1118@gmail.com
 
@@ -1827,7 +1827,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/mrcontract17877
 
-- t.me/janbuidl (ID:7245484067)
+- t.me/janbuidl (ID:7245484067) ([messages](./user-7245484067-@janbuidl-@mrcontract17877-@0xtomoon-Jannik-Villostas.txt))
 
 - 0x1FEbc069606ABfbA5d021Ed3768cb5D90c9407D5
 
@@ -1847,7 +1847,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - immunefi.com/profile/ethprotector/
 
-- t.me/janbuidl (ID:7245484067)
+- t.me/janbuidl (ID:7245484067) ([messages](./user-7245484067-@janbuidl-@mrcontract17877-@0xtomoon-Jannik-Villostas.txt))
 
 ### Peter Wang
 
@@ -2117,7 +2117,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xquantech
 
-- t.me/MaoDan007 (ID: 5089966453)
+- t.me/MaoDan007 (ID: 5089966453) ([messages](./user-5089966453-@MaoDan007-Sol Crazy.txt))
 
 #### alek806 aka Aleksandar Jovanovic
 
@@ -2183,7 +2183,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - iwakihiroto-portfolio.vercel.app
 
-- t.me/iwakihiroto (ID: 7074147770)
+- t.me/iwakihiroto (ID: 7074147770) ([messages](./user-7074147770-@iwakihiroto.txt))
 
 - https://x.com/blackbigswan/status/1913290058670416183
 
@@ -2622,7 +2622,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/btcwhiz
 
-- t.me/hunter0409 (ID: 5031331438)
+- t.me/hunter0409 (ID: 5031331438) ([messages](./user-5031331438-@hunter0409-munchables-pete-yama.txt))
 
 - ![](./bill-tovitt-pete-yama.png)
 
@@ -2940,7 +2940,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - t.me/zerox_toml (ID: 8098234150 name: Zerox)
 
-- t.me/whitecrow0109 (ID: 6735314353 name: Tensor)
+- t.me/whitecrow0109 (ID: 6735314353 name: Tensor) ([messages](./user-6735314353-@whitecrow0109-@zerox_toml-@spectre_coder.txt))
 
 - x.com/MentholMen47387 (https://x.com/MentholMen47387/status/1913560086431355042)
 
@@ -2986,7 +2986,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/CryptoFist
 
-- t.me/CryptoFist1002 (ID: 5000783370)
+- t.me/CryptoFist1002 (ID: 5000783370) ([messages](./user-5000783370-@CryptoFist1002.txt))
 
 - linkedin.com/in/kell-daniel-964a49245
 
@@ -3150,7 +3150,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/itloverman (404)
 
-- t.me/itloverman
+- t.me/itloverman (ID: 6093085915) ([messages](./user-6093085915-@itloverman.txt))
 
 - https://x.com/browsercookies/status/1933591202550723029
 
@@ -3174,13 +3174,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./1933591202550723029-3.png)
 
-### ChrisYon
+### Chris Yon / Jack Lu / wdev733
 
 - t.me/wdev733
 
 - x.com/adchy2000
 
 - t.me/dss2000
+
+- wdev733@gmail.com
 
 - https://x.com/browsercookies/status/1933591202550723029
 
@@ -3204,7 +3206,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/elitegooddev
 
-- t.me/bestdiamond9
+- t.me/bestdiamond9 (ID: 7220566650) ([messages](./user-7220566650-@bestdiamond9.txt))
+
+- Note: TG claims to be Dusan Radoѕvⅼjeviс. Was asking around in Bitgert/BRISE for jobs in April 2025.
 
 - https://x.com/browsercookies/status/1933686204668784823
 
@@ -3649,8 +3653,267 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ---
 
+# Dubai, Crypto, Moonstone Sleet, and the Pivot Odyssey
+
+- https://chollima-group.io/posts/dubai-crypto-moonstonesleet-pivot-odyssey
+
+### loganworld / Logan Lee / Logan King / Logan Smith 
+
+- Logan Lee
+- Logan King
+- Logan Smith
+- Vasyl Smirnov
+- Ethan Chan
+- Leon Zhang
+- Evgeny Shalimov
+- loganlee002@gmail.com
+- loganworld002@gmail.com
+- akp707d@gmail.com
+- websolution0524@gmail.com
+- smirnovvvasyl@gmail.com
+- rgrobertclark032@gmail.com
+- johnwilliam199024@gmail.com
+- github.com/loganworld
+- github.com/logan-smith-cloud
+- github.com/jeevan8888
+- github.com/smirnovvvasyl
+- t.me/defiworld_dev (ID: 5157722477) ([messages](./user-5157722477-@defiworld_dev.txt))
+- t.me/loganworld
+- t.me/logan_lee_c
+- Current Project: Hogwarz, hogwarz[.]com
+- upwork.com/freelancers/~014d511b5978bb9853
+
+ 
+### promiseislaw (Marcin Iwanski)
+
+- Brent Jeremy
+- Marcin Iwanski
+- Liguo Ma
+- Pirachat Chaiwongrote
+- promseislaw@gmail.com
+- smartdevpro001@gmail.com
+- brentjeremynel@gmail.com
+- onetouch0525@gmail.com
+- kevinlee2821@gmail.com
+- leondragandevelop@gmail.com
+- eric2022412@gmail.com
+- ma.liguo@outlook.com
+- donatelo212dunccine@gmail.com
+- ernestpapyan@gmail.com
+- topsmartpro@prolocalize.com
+- yatsukalbert@outlook.com
+- talentdev610@gmail.com
+- leonpower123@outlook.com
+- oskardev0112@gmail.com
+- 88yurchak@gmail.com
+- github.com/brent-jeremy
+- github.com/Smart-Dev-0205
+- github.com/talented-blockchain-dev
+- github.com/squirdev
+- github.com/pedrodiaz417
+- github.com/topsmartpro
+- t.me/smartdev19961
+- t.me/smartdev0205 (ID: 5265691090) ([messages](./user-5265691090-@smartdev0205.txt))
+- t.me/SmartDevPro (ID: 7659696464)
+- t.me/trust0205 (ID: 5874346391) ([messages](./user-5874346391-@trust0205.txt))
+- Discord Talented Blockchain#3570
+- Skype live:.cid.ffe8d0454926464f
+- https://linkedin.com/in/promise-law
+- https://pl.linkedin.com/in/marcin-iwanski-b699b02b8
+- https://www.linkedin.com/in/brent-jeremy-47172b22a/
+- https://www.linkedin.com/in/brent-jeremy/
+- https://www.linkedin.com/in/liguo-ma-060077205
+- https://torre.ai/brentjeremynel?r=GLXbkZCc
+- https://www.guru.com/freelancers/brent-jeremy
+- https://web3.career/@marcin
 
 
+### newstable / Jaycee Tran / Sasuke Uchiha
+- Jaycee Tran
+- Sasuke Uchiha
+- jayceetran.cool@gmail.com
+- special.galaxy26@gmail.com
+- potter0525james@gmail.com
+- zoelasa1111@gmail.com
+- it.galaxy.0315@gmail.com
+- sasuke031026@gmail.com
+- f99964995@gmail.com
+- github.com/newstable
+- github.com/webgalaxy315
+- github.com/nova-blockchain
+- github.com/jayceetran
+- github.com/zenggang315
+- github.com/sasuke031026
+- github.com/sasuke1026
+- github.com/sasukeuchiha
+- t.me/newstabled
+- linkedin.com/in/jaycee-tran-a2873230b/
+- Discord: newstable
+- live:.cid.f4e6d1509205ccdd
+
+
+### SirBang / Derek Miller
+- Derek Miller
+- SirBang
+- derek.miller0003@gmail.com
+- derek.miller03@outlook.com
+- github.com/SirBang
+- x.com/DerekMillerDev
+- t.me/DerekGameDev (ID: 6451750406) ([messages](./user-6451750406-@DerekGameDev.txt))
+- live:.cid.73d9933f3c8fe3e3
+- https://derekgamedev.com
+- https://www.guru.com/freelancers/derekgamedev/portfolio
+- https://www.fiverr.com/derekmiller03
+- https://laborx.com/freelancers/users/id328992
+- https://www.youtube.com/@DerekMiller-h8m
+
+
+
+
+### Xiao He
+- Xiao He
+- He Shawn
+- Peter Zhou
+- James Ybarra
+- Leo Pawel
+- Powel Lee
+- hexiao33@gmail.com
+- hexiao33@yahoo.com
+- hexiao33@hotmail.com
+- hexiao33@mail.ru
+- hexiao31@mail.ru
+- hexiao32@mail.ru
+- hexiao34@mail.ru
+- 4445313@qq.com
+- peterzhou0802@gmail.com
+- kawabatakyo0922@outlook.com
+- jamesybarra114@gmail.com
+- jo.hnceballos0716@gmail.com
+- hughnolan88@gmail.com
+- deliminallimited.ws@outlook.com
+- galaxy85126@gmail.com
+- leopawel65@gmail.com
+- github.com/peterz-codes
+- github.com/camonanesi
+- github.com/wildwolf085
+- github.com/leopawel
+- t.me/komonado (ID: 1017960142) ([messages](./user-1017960142-@komonado.txt))
+- https://www.lancers.jp/profile/camonanesi
+- https://www.peopleperhour.com/freelancer/technology-programming/xiao-he-fullstack-web-developer-blockchain-vxqqqxj
+- 0xC5ABDE4CE8C5740F4bad6C3B05E4Da31d229659
+
+
+### Misc
+
+- 45.126.3[.]252
+- 188.43.136[.]0/24
+- topdeveloper01234@gmail.com
+- bigben199551@gmail.com
+- realhardworkingdeveloper@gmail.com
+- thomasanderson19960313@gmail.com
+- davidsuzuki51@gmail.com
+- toptalent48@gmail.com
+- alexstepan0209@gmail.com
+- kkopbusiness1213@gmail.com
+- blockchain4webdev@gmail.com
+- HighleyHilmaU@gmail.com
+- yemelyan.yevdokimov.domain1121@gmail.com
+- qiqq-ps@eclipso.eu
+- illia.butenko89@gmail.com
+- ddksniper@gmail.com
+- intellichain555@gmail.com
+- salbu15154@gmail.com
+- goldsea808@gmail.com
+- goldsea808@yahoo.com
+- mrsteevtvw418@gmail.com
+- ichiro@0xlancerlab.com
+- hanssuperdev1026@gmail.com
+- hansjkiller1026@outlook.com
+- tomasjakson44@gmail.com
+- ssch26802@gmail.com
+- williamh8930@gmail.com
+- github.com/thomson0313
+- github.com/fullstackdev8681
+- github.com/louistalent
+- github.com/galaxy-foundation
+- github.com/galaxydigital
+- github.com/TopDeveloper0809
+- github.com/IlliaButenko
+- github.com/johnhoang-star
+- github.com/techsavvyninja
+- github.com/intellichain555
+- github.com/zkbusiness
+- github.com/chainoneer
+- github.com/sujan198703
+- github.com/alexiva0806
+- github.com/poprunner88
+- github.com/wow-webmaster
+- github.com/techwizard210
+- github.com/lovelyBestDev
+- github.com/Thomas-Kebin
+- github.com/ChallengeDev210
+- github.com/OrdinalKing
+- github.com/devlegend524
+- github.com/cryptodev524
+- github.com/alexstepan0209
+- github.com/kvenus-uj
+- github.com/suzukidavid
+- github.com/john741672
+- github.com/webcat882
+- github.com/lgamingdev1
+- github.com/rustsol114
+- github.com/maestro418
+- github.com/rizzolib
+- github.com/endlessbuilder
+- github.com/smile0307
+- github.com/topclever
+- github.com/webpointdev
+- github.com/crackdev01
+- github.com/devsirius51
+- github.com/devsirius5001
+- Discord: thomson_0313
+- Discord: loganworld
+- Discord: loganlee002
+- Discord: seagod351
+- Discord: newstable
+- Discord: _codex0313
+- Discord: marketingconsult
+- Discord: anime_lover06827
+- Discord: olesatanya
+- Discord: cysho0105
+- Discord: benjamin_0105
+- Discord: overworldlife.com
+- 0xA9C429B9469D9462A1f2C3a52e149512F87F5094 - Logan/Smirnovvasyl
+- 0x9e051782754e1ED01C2800a820b9F742b38aceA0 - newstable
+
+##### Organizations / Projects
+
+- ICICB
+- Kuhu Pharmacy
+- DeamTest/DeamChain
+- FWork.io
+- Kunzig Consulting
+- DELIMINAL LIMITED
+- github.com/Youth-Group
+- Crypto-FIFA-World
+- GADA Finance
+- BrothersCommunity
+- Prolocalize
+- CBetWorld
+- OverWorldLife
+- OpenPetWorld
+- DefiTankLand
+- DeTankZone
+- Babylonswap
+- 0xlancerlab.com
+- Hogwarz
+
+
+
+
+
+
+---
 
 
 

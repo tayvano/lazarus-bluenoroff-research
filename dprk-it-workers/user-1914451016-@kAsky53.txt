@@ -1,0 +1,198 @@
+﻿[stabble community chat] [https://t.me/stabble_org/22439] | 5/23/2025 4:21:42 PM:  [Web link]
+[stabble community chat] [https://t.me/stabble_org/22349] | 5/23/2025 12:18:09 PM: If you're interacting with our dapp, it should be fine. Sometimes simulations in wallet apps are inaccurate.
+However, for better safety, you can try it again.
+[stabble community chat] [https://t.me/stabble_org/22347] | 5/23/2025 12:16:18 PM: It has base transaction fee + priority fee + rent exemption fee.
+
+Any fees you've spent for rent exemption fee can be technically reclaimable. (this is one off thing)
+i.e. when you claim vested tokens, it may create sort of a new account on onchain for tracking purpose which it will need SOL to store data.
+Also you should also pay for rent fee to create STB token account.
+
+This is how Solana transactions work.
+Transaction fee + priority fee is considered gas and it is not reclaimable.
+Priority fee might be high when the network is congested so you should be careful when you're approving transactions.
+[stabble community chat] [https://t.me/stabble_org/22023] | 5/22/2025 10:00:17 PM: Have you checked this?
+[stabble community chat] [https://t.me/stabble_org/22019] | 5/22/2025 9:56:08 PM: You can redeem both of them. You just purchased in 2 different sales and they have different vesting schedule.
+[stabble community chat] [https://t.me/stabble_org/21892] | 5/22/2025 7:56:44 PM: Sorry my bad. 😂
+[stabble community chat] [https://t.me/stabble_org/21775] | 5/22/2025 7:10:18 PM: @abdizzedo ban him!
+[stabble community chat] [https://t.me/stabble_org/21758] | 5/22/2025 7:07:33 PM: Redeem your IOU token in STB.
+[stabble community chat] [https://t.me/stabble_org/21749] | 5/22/2025 7:02:28 PM:  [Web link]
+[stabble community chat] [https://t.me/stabble_org/21689] | 5/22/2025 6:29:46 PM: Dm me.
+[stabble community chat] [https://t.me/stabble_org/21687] | 5/22/2025 6:28:50 PM:  [Web link]
+[stabble community chat] [https://t.me/stabble_org/21274] | 5/22/2025 11:42:10 AM: Please check the first release date man. Private sale has 2 mo of lock period.
+[stabble community chat] [https://t.me/stabble_org/21271] | 5/22/2025 11:41:32 AM: It's in STB. This is STB mining. You can claim STB rewards earned anytime.
+[stabble community chat] [https://t.me/stabble_org/21268] | 5/22/2025 11:40:51 AM: Everything will be clear once the UI is open after TGE. Every details are in the UI after you first redeemed your initial unlocked tokens.
+[stabble community chat] [https://t.me/stabble_org/21262] | 5/22/2025 11:39:24 AM: You can redeem released IOU anytime. It's just you generate additional staking rewards while your tokens are in vesting period (locked) following tokenomics.
+[stabble community chat] [https://t.me/stabble_org/21254] | 5/22/2025 11:37:20 AM: Your tokens in vesting will be automatically staked and you will get staking rewards.
+[stabble community chat] [https://t.me/stabble_org/20700] | 5/21/2025 4:00:03 PM:  [Web link]
+[stabble community chat] [https://t.me/stabble_org/20624] | 5/21/2025 11:14:21 AM: The benefit of locking is you earn multiplied rewards than staking. The longer you lock your STB, the more rewards you will receive.
+Your locked STB will also unlock your voting power at stabble.
+[stabble community chat] [https://t.me/stabble_org/20623] | 5/21/2025 11:13:35 AM: Staking allows you quit anytime.
+Locking does now allow you quit in the lock period.
+[Hylo Alpha Chat] [https://t.me/hylo_so/4729] | 5/14/2025 11:17:58 AM: GMylo!
+[stabble community chat] [https://t.me/stabble_org/15992] | 4/10/2025 6:44:40 PM: If you'd already staked LP tokens for STB and later ZEUS rewards added to the pool, then you should restake your staked LP tokens for ZEUS rewards.
+This is one-off migration.
+[stabble community chat] [https://t.me/stabble_org/15491] | 4/3/2025 10:06:28 PM: It's APY, so you will get 25% in fees in an year. However, this APY changes over time. It's projection of annual percentage of yield based on the performance of the last 24h/7d/30d.
+[stabble community chat] [https://t.me/stabble_org/15382] | 4/2/2025 11:30:06 PM: Yes we did! I think we've already mentioned about it in your ticket.
+[stabble community chat] [https://t.me/stabble_org/15380] | 4/2/2025 11:28:58 PM: Amadu TGE not confirmed yet.
+[stabble community chat] [https://t.me/stabble_org/15378] | 4/2/2025 11:26:23 PM: Yes it is me.
+[stabble community chat] [https://t.me/stabble_org/15376] | 4/2/2025 11:25:09 PM: Feel free to create a ticket and our community manager will answer you properly.
+[stabble community chat] [https://t.me/stabble_org/15375] | 4/2/2025 11:24:33 PM: Hey, why don't you create a ticket? I have too many DMs and I normally skip it unless it's mentioned publicly.
+[stabble community chat] [https://t.me/stabble_org/15238] | 4/1/2025 8:03:30 PM: Staking rewards are not auto-compounded. They are not part of liquidity pool but additional reward pools where you can farm and claim your earned rewards.
+[stabble community chat] [https://t.me/stabble_org/15107] | 3/31/2025 7:13:16 PM: We will release a patch so that it will work without clearing your cache.
+[stabble community chat] [https://t.me/stabble_org/15106] | 3/31/2025 7:12:55 PM: Stake your LP to get additional rewards. Announcement coming soon. Stay tuned. 😊
+[stabble community chat] [https://t.me/stabble_org/15098] | 3/31/2025 7:01:55 PM: Will you try clean your browser cache?
+[stabble community chat] [https://t.me/stabble_org/14588] | 3/26/2025 6:37:03 PM: He just joined.
+[stabble community chat] [https://t.me/stabble_org/14587] | 3/26/2025 6:36:48 PM: He is not our Phil!
+[stabble community chat] [https://t.me/stabble_org/14584] | 3/26/2025 6:35:54 PM: Scam!
+[stabble community chat] [https://t.me/stabble_org/14526] | 3/26/2025 10:59:55 AM: "Contract address" is not available yet.
+[stabble community chat] [https://t.me/stabble_org/14523] | 3/26/2025 10:43:52 AM: Hi Alexandru, CA is not yet available.
+[stabble community chat] [https://t.me/stabble_org/13454] | 3/16/2025 12:32:35 PM: Feel free to dm.
+[stabble community chat] [https://t.me/stabble_org/12376] | 3/5/2025 11:26:01 PM: It should be done via governance later because AMP can manipulate the price of the pool, which it may harm for other LP holders joined the pool.
+[stabble community chat] [https://t.me/stabble_org/12124] | 3/4/2025 4:37:52 PM: Stable pools are for - USDC-USDT, SOL-mSOL, mSOL-bSOL, cbBTC-WBTC, etc.
+Weighted pools are for - SOL-USDC, JUP-SOL, RETARDIO-SOL, etc.
+[stabble community chat] [https://t.me/stabble_org/12123] | 3/4/2025 4:36:55 PM: Hi everyone, please note that stable pools are for assets that has price correlations, NOT for volatile assets.
+For example, SOL-USDC is never a case for stable pool. In a simple words, 1 SOL is considered to 1 USDC in stable pool.
+So if you create SOL-USDC pool as a stable one, you will be in a huge LOSS!
+[stabble community chat] [https://t.me/stabble_org/8378] | 2/7/2025 12:10:26 AM: It distributes at 00:00 UTC every day.
+Sometimes, there might be issues in transaction landing, but your counted rewards for the failed transactions are accrued and will be airdropped to your wallet in the next airdrop.
+[stabble community chat] [https://t.me/stabble_org/6788] | 1/28/2025 11:53:25 AM: We are currently upgrading database instance. It takes more than expected. It will be back soon.
+Sorry for delayed announcement.
+[stabble community chat] [https://t.me/stabble_org/6594] | 1/24/2025 11:38:25 AM: Yes, it does. LST APY more likely moves by Solana epoch in general, not by 24h fyi.
+[stabble community chat] [https://t.me/stabble_org/6465] | 1/22/2025 8:01:32 PM: Probably scam. We do not dm you in general.
+[stabble community chat] [https://t.me/stabble_org/5886] | 1/16/2025 11:07:39 PM: We are on it.
+[stabble community chat] [https://t.me/stabble_org/5865] | 1/16/2025 3:12:18 PM: Move your funds to a new wallet immediately if you still have your assets in  your wallet.
+[stabble community chat] [https://t.me/stabble_org/5716] | 1/14/2025 6:10:39 PM: @abdizzedo I banned this user! scam
+[stabble community chat] [https://t.me/stabble_org/5351] | 1/7/2025 2:54:07 PM: Alright, he is not from @stabble.org.
+[stabble community chat] [https://t.me/stabble_org/5348] | 1/7/2025 2:52:14 PM: May I get the sender's email address?
+[stabble community chat] [https://t.me/stabble_org/4814] | 12/31/2024 2:37:42 AM: We will release new robust transaction indexer in few weeks.
+[stabble community chat] [https://t.me/stabble_org/4813] | 12/31/2024 2:37:16 AM: Pools are performing as normal. We are still working with new transaction indexer.
+Backfill just started refilling missing data.
+[stabble community chat] [https://t.me/stabble_org/4391] | 12/26/2024 9:10:20 PM: We are looking at it rn.
+[stabble community chat] [https://t.me/stabble_org/4388] | 12/26/2024 8:49:45 PM: GM! (just sent 2fa to a wrong channel)
+[stabble community chat] [https://t.me/stabble_org/4387] | 12/26/2024 8:49:28 PM: :D
+[stabble community chat] [https://t.me/stabble_org/3386] | 12/19/2024 9:43:25 PM: They are added back. Feel free to create technical ticket if you have not received your missing boost points.
+[stabble community chat] [https://t.me/stabble_org/3119] | 12/17/2024 5:43:54 PM: Could you please let me know your wallet address in DM?
+[stabble community chat] [https://t.me/stabble_org/3098] | 12/17/2024 3:03:16 PM: Yes it does!
+[stabble community chat] [https://t.me/stabble_org/2956] | 12/16/2024 8:46:33 PM: Feel free to DM. I do believe we've already mailed you with some guides.
+[stabble community chat] [https://t.me/stabble_org/2761] | 12/15/2024 2:22:13 AM: Feel free to create a ticket on Discrod.
+However, I replied on your DM. It should be good now.
+[stabble community chat] [https://t.me/stabble_org/2557] | 12/10/2024 6:38:43 PM: Felipe ^
+[stabble community chat] [https://t.me/stabble_org/2556] | 12/10/2024 6:38:25 PM: [Image]
+[stabble community chat] [https://t.me/stabble_org/2554] | 12/10/2024 6:33:13 PM: When did you create the pool? It will take few mins for the new pools/tokens to be registered automatically.
+[stabble community chat] [https://t.me/stabble_org/2550] | 12/10/2024 6:19:38 PM: Our team will review newly created pools every 24h (Mon - Fri) to see if they are eligible for verification.
+
+We will basically review if:
+- TVL: over $5k
+- the pool was created with proper params technically
+- followed LP token metadata standard when you create pools
+
+Feel free to create a ticket for technical support on Discord.
+[stabble community chat] [https://t.me/stabble_org/2544] | 12/10/2024 6:04:15 PM: Hi @Ramon_Serrano_971, feel free to create a technical ticket on discord.
+[stabble community chat] [https://t.me/stabble_org/2265] | 12/4/2024 2:57:00 PM: Hi @Multi_Task, this should have been resolved now!
+[stabble community chat] [https://t.me/stabble_org/1949] | 11/25/2024 7:38:33 PM: [Image]
+[stabble community chat] [https://t.me/stabble_org/1948] | 11/25/2024 7:35:12 PM: Let me reach out to Sonar.watch team. It's a bug from their end.
+[stabble community chat] [https://t.me/stabble_org/1913] | 11/24/2024 5:44:02 PM: I think there was a volume bot running against it. 24h volume was 10.2b yesterday.
+7d volume is still 10.2b and the 3.8b is still part of 10.2b peak yesterday I assume.
+[stabble community chat] [https://t.me/stabble_org/1834] | 11/22/2024 1:29:06 PM: Please make sure if you deposited same $ worth. There should not be any issues in this process.
+If you could share your transaction history and/or wallet address we can take a look.
+[stabble community chat] [https://t.me/stabble_org/1832] | 11/22/2024 1:25:46 PM: FYI - USDS-USDT-USDC pool is 16h old only.
+[stabble community chat] [https://t.me/stabble_org/1831] | 11/22/2024 1:25:14 PM: Can you please create a ticket on Discord with more details like your wallet address, LP amount, etc.
+I don't understand your current situation because the points system is working as expected.
+[stabble community chat] [https://t.me/stabble_org/1828] | 11/22/2024 12:44:44 PM: If you're owner of USDC-USDT pool, then you earn 70pts/day per USD value of your LP token.
+For USDS-USDC-USDT, you earn 50pts/day per USD value of your LP because you're not owner of the pool.
+[stabble community chat] [https://t.me/stabble_org/1819] | 11/22/2024 12:03:03 PM:  [Web link]
+[stabble community chat] [https://t.me/stabble_org/1796] | 11/21/2024 9:23:24 PM: Hi @Grsk0x, it should be good now. Please kindly let me know if it's better now.
+Thanks! CC: @IQzzer
+[stabble community chat] [https://t.me/stabble_org/1782] | 11/21/2024 6:18:56 PM: Hi @Grsk0x, we acknowledged this issue and are currently working on it. We will release the patch asap!
+[stabble community chat] [https://t.me/stabble_org/1671] | 11/19/2024 12:40:35 PM: Yes, you can!
+[stabble community chat] [https://t.me/stabble_org/1666] | 11/19/2024 12:26:05 PM: You can first withdraw in all tokens and then swap SOL for vSOL on jup.ag.
+[stabble community chat] [https://t.me/stabble_org/1665] | 11/19/2024 12:25:32 PM: Hey @jupicycat, imbalanced deposit/withdraw may lead you in an unwanted loss from price changes. It's recommended to make a balanced deposit/withdraw to withdraw your funds at minimum slippage possible.
+Single token deposit/withdraw has less effect when you are depositing/withdrawing a very small portion of liquidity which it does not affect pools price much post deposit/withdraw.
+[stabble community chat] [https://t.me/stabble_org/1637] | 11/18/2024 7:44:19 PM: It is your spot PnL since you've checked your LP position last time.
+APY is [fees / TVL] based + [daily reward emissions rate / TVL] (optionally if the pool supports it).
+[stabble community chat] [https://t.me/stabble_org/1633] | 11/18/2024 6:37:22 PM: It's on the way. Infrastructure has already started taking snapshot of historical TVL, LP supply.
+We will have UI ready this week so that you can check historical performance of the pools in details page.
+[stabble community chat] [https://t.me/stabble_org/1622] | 11/18/2024 3:52:44 PM: We are making some update to the PnL tracker. It will be more straight forward once the changes are released soon.
+[stabble community chat] [https://t.me/stabble_org/1504] | 11/15/2024 9:27:06 PM: @conorbrittain
+[stabble community chat] [https://t.me/stabble_org/1502] | 11/15/2024 9:26:30 PM: 1/ Not stable TVL, pool owners can withdraw huge liquidity without any notice.
+2/ No active risk mitigation supported in case of depeg.
+3/ No official support for LP tokens. LP tokens will have more support like liquidity mining, potentially support with lending markets in the future.
+[stabble community chat] [https://t.me/stabble_org/1492] | 11/15/2024 7:30:05 PM: If the pool is empty, we automatically close and send rent exemption fee back to the creator.
+[stabble community chat] [https://t.me/stabble_org/1491] | 11/15/2024 7:29:46 PM: It's just technically possible. You cannot close the pool if there is still other LP holders there.
+[stabble community chat] [https://t.me/stabble_org/1488] | 11/15/2024 7:21:35 PM: It will cost less than 0.016 SOL except transaction fee & priority fee.
+Here, 0.00493428 SOL is technically reclaimable when you fully closed your LP token account and the pool.
+[stabble community chat] [https://t.me/stabble_org/1463] | 11/15/2024 12:11:25 PM: I don't think it's possible as they are DEXes; they more likely focused on utilizing their own pools and there is no official support for such integration.
+Jupiter is DEX aggregator that put them all in their swap router.
+Nonetheless, Meteora does not even have their own swap UI, although direct swap is available for some pools.
+[stabble community chat] [https://t.me/stabble_org/1448] | 11/15/2024 12:41:46 AM: It's unverified because the owner has not yet reached out to us.
+LP token's metadata should follow stabble's LP token standard, which we support it once he reaches out to us.
+This TVL is temporary as he might drain his funds from the pool one day without any notice.
+So, for better risk management for LP holders, we do not verify anonymous pools to avoid any potential troubles.
+[stabble community chat] [https://t.me/stabble_org/1445] | 11/15/2024 12:14:37 AM: [Image]
+[stabble community chat] [https://t.me/stabble_org/1316] | 11/13/2024 5:57:53 PM: GOAT-SOL should've been verified first to be eligible for points rewards.
+[stabble community chat] [https://t.me/stabble_org/1153] | 11/11/2024 8:00:51 PM: We are having degraded performance with RPC provider. We are currently having a talk with Helius team.
+[stabble community chat] [https://t.me/stabble_org/1141] | 11/11/2024 4:26:25 PM:  [Web link]
+[stabble community chat] [https://t.me/stabble_org/1140] | 11/11/2024 4:26:17 PM:  [Web link]
+[stabble community chat] [https://t.me/stabble_org/592] | 11/4/2024 1:52:57 AM: Yes, you can! This is what I've discussed with @kiliandefi! :)
+[stabble community chat] [https://t.me/stabble_org/590] | 11/4/2024 1:46:51 AM: Yes right. We planned to allow whitelisted users (early investors) still farm STB rewards while their tokens allocated are vested.
+[stabble community chat] [https://t.me/stabble_org/588] | 11/4/2024 1:41:16 AM: Yes, it will work this way for sure!
+[stabble community chat] [https://t.me/stabble_org/249] | 10/31/2024 12:10:26 AM: [Image]
+[stabble community chat] [https://t.me/stabble_org/248] | 10/31/2024 12:09:59 AM: It's a bit off but volume is crazy today, that's true!
+[Nebulai Web3 AI RPA Cloud GenAI Devs, Biz & Tech Talent Community DAO] [https://t.me/nebulaitalent/3646] | 3/6/2024 7:13:24 AM: 
+[Solana Development Hub] [https://t.me/solanadev/4730] | 1/31/2023 8:29:11 PM: Yes - solana program set-upgrade-authority
+[Solana Development Hub] [https://t.me/solanadev/4670] | 1/24/2023 12:47:49 PM: use —skip-fee-check before the .so
+[Solana Development Hub] [https://t.me/solanadev/4666] | 1/24/2023 9:16:22 AM: solana program deploy -u devnet --program-id target/deploy/idl.json --skip-fee-check
+[Solana Development Hub] [https://t.me/solanadev/4661] | 1/24/2023 8:48:21 AM: Hi - Just use --skip-fee-check in your deploy CLI.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1732] | 1/18/2023 10:12:00 AM: Shall we dm?
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1730] | 1/18/2023 10:11:22 AM: Snipping bot for NFT minting?
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1728] | 1/18/2023 10:10:31 AM: What can I help you?
+[Solana Development Hub] [https://t.me/solanadev/4642] | 1/17/2023 6:49:24 PM: You just need to burn your tokens using tools or solana CLI
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1725] | 11/30/2022 11:51:37 AM: Hey guys!
+Looking for a senior Nextjs/React developer with MobX, Tailwind.css and Solana web3 experience!
+Please do not waste your time if you are not good at it.
+[Solana Development Hub] [https://t.me/solanadev/4498] | 11/30/2022 11:51:18 AM: Hey Guys!
+Looking for a senior Nextjs/React developer with MobX, Tailwind.css and Solana web3 experience!
+Please do not waste your time if you are not good at it.
+[Solana Development Hub] [https://t.me/solanadev/4472] | 11/15/2022 9:26:53 PM: Devnet is working fine. :)
+[Solana Development Hub] [https://t.me/solanadev/4421] | 10/31/2022 9:21:23 AM:  [Sticker]
+[Solana Development Hub] [https://t.me/solanadev/4419] | 10/31/2022 9:05:31 AM: pub pubkey_array: Vec<Pubkey>
+[Solana Development Hub] [https://t.me/solanadev/4256] | 9/6/2022 8:57:39 PM: Hola!
+[Solana Development Hub] [https://t.me/solanadev/4164] | 8/4/2022 11:56:58 AM: In accounts:
+#[account(seeds=[&ESCROW_PDA_SEED[..]], bump)]
+pub vault_authority: UncheckedAccount<'info>
+
+In withdraw function:
+let vault_authority_bump = *ctx.bumps.get("vault_authority").unwrap();
+[Solana Development Hub] [https://t.me/solanadev/4163] | 8/4/2022 11:53:52 AM: 3rd AccountInfo should be ctx.accounts.vault_authority.to_account_info() in invoke_signed.
+It seems like you're using Anchor framework. You don't need to find_program_address manually to get bump.
+In Withdraw accounts, you can use Anchor decorator.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1680] | 8/2/2022 2:21:02 AM: Mission completed! :D
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1679] | 8/2/2022 2:20:26 AM: Np!
+Thanks for your nice thread in this channel.
+It's been a while that I have seen something valuable in this channel. :)
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1677] | 8/2/2022 2:11:55 AM: Hum... not sure. Never tried it before yet.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1674] | 8/2/2022 2:08:47 AM: It will be a mess if tons of arbitrary serialized transactions are submitted to backend.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1673] | 8/2/2022 2:07:54 AM: Ah you can skip step 1 if you don't need any server side private key sign to transaction for security.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1671] | 8/2/2022 2:01:50 AM: Perfect!
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1669] | 8/2/2022 2:00:25 AM: 1. serialize tx in backend
+2. sign tx in dapp, submit signed tx message to backend again
+3. execute tx in backend, get tx id and store it to database
+4. cronjob looks for tx_id in every 5 mins to mark it as success or fail
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1668] | 8/2/2022 1:59:10 AM: I would rather recommend to use Transaction serialization in backend.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1667] | 8/2/2022 1:58:32 AM: Not accurate! The same problem in EVM as well. We can't trust on WS events for TX subscription.
+It's more useful for realtime stats update.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1665] | 8/2/2022 1:57:39 AM: Sequential transactions should not be made from backend separately from the transaction on dapp.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1664] | 8/2/2022 1:56:39 AM: I think you're doing in a wrong way then. :D
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1661] | 8/2/2022 1:53:11 AM: Sometimes Solana performance is not good.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1660] | 8/2/2022 1:52:55 AM: It depends on the RPC server's performance or so.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1658] | 8/2/2022 1:50:16 AM:  [Web link]
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1656] | 8/2/2022 1:33:43 AM: It depends on the confirmation level you've used.
+Normally it takes like 30 seconds for a transaction to be fully confirmed at level "MAX".
+Better to set confirmation level to "confirmed" which takes almost immediately unless Solana is experiencing degraded performance.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1591] | 6/15/2022 9:35:16 PM:  [Sticker]
+[Solana Development Hub] [https://t.me/solanadev/3850] | 5/25/2022 8:22:18 PM: Also make sure you have passed all the required accounts in instruction.
+[Solana Development Hub] [https://t.me/solanadev/3849] | 5/25/2022 8:21:47 PM: Are you sure you have deployed the latest program?
+[Solana Development Hub] [https://t.me/solanadev/3847] | 5/25/2022 8:01:00 PM: You might have old version of IDL in your dapp.
+[Solana Development Hub] [https://t.me/solanadev/3796] | 5/19/2022 3:37:58 PM: Nope. ;)
+Solana does not have any gas fee though. it just have transaction fee + rent exemption fees if there is any new accounts are being created in the transaction.
+[Parasol Finance | Solana Projects Incubator] [https://t.me/solanadev_co/1349] | 1/12/2022 5:11:01 PM: Kindly send me DM please.
