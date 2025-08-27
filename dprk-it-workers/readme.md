@@ -59,7 +59,7 @@
 
 - ponyjackal.eth
 
-- github.com/ponyjackal
+- github.com/ponyjackal • [Archive](https://archive.ph/OV5Yd)
 
 - x.com/ponyjackalx
 
@@ -81,7 +81,7 @@
 
 - bbshark.eth
 
-- github.com/bbshark99
+- github.com/bbshark99 • [Archive](https://archive.ph/X4l1l)
 
 - x.com/kevin83191687
 
@@ -107,7 +107,7 @@
 
 ### Muhammad Abdullah
 
-- github.com/polartar
+- github.com/polartar • [Archive](https://archive.ph/z1ghl)
 
 - x.com/m_polartar
 
@@ -123,7 +123,7 @@
 
 - gsofter.eth
 
-- github.com/gsofter
+- github.com/gsofter • [Archive](https://archive.ph/Z4SBi)
 
 - x.com/ggsofter
 
@@ -149,7 +149,7 @@
 
 - x.com/bullishgopher
 
-- github.com/bullishgopher
+- github.com/bullishgopher • [Archive](https://web.archive.org/web/20231205224337/https://github.com/bullishgopher)
 
 - https://linkedin.com/in/tkcong/ (https://x.com/bullishgopher/status/1272680031681155074)
 
@@ -225,7 +225,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/wewecalibrate
 
-- github.com/jp-smart [Archive](archive.ph/grqjk)
+- github.com/jp-smart • [Archive](https://archive.ph/grqjk)
 
 - joshupgig@gmail.com
 
@@ -275,7 +275,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - atroboj@gmail.com
 
-- github.com/atroboj [Archive](archive.ph/x0LMf)
+- github.com/atroboj • [Archive](https://archive.ph/x0LMf)
 
 - github.com/bugarnet (2021, Despace)
 
@@ -315,7 +315,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - devneser
 
-- github.com/devneser
+- github.com/devneser • [Archive](https://web.archive.org/web/20211011124121/https://github.com/devneser)
 
 - alexzh.dev@gmail.com
 
@@ -355,7 +355,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - pemba.gelu5232@gmail.com
 
-- github.com/paladin-120 [Archive](archive.ph/nVIz9)
+- github.com/paladin-120 • [Archive](https://archive.ph/nVIz9)
 
 - 0xfb5d591e8216f5d0964286f09b1f61114c16aab0
 
@@ -541,9 +541,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - zhmolly@gigadao.io
 
-- github.com/gigazh
+- github.com/gigazh • [Archive](https://archive.ph/snjV5)
 
-- github.com/zhmolly archive.ph/80EYH
+- github.com/zhmolly • [Archive](https://archive.ph/80EYH)
 
 - github.com/dainmoly
 
@@ -607,9 +607,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/sadaorome
 
-- github.com/zhmolly
+- github.com/zhmolly • [Archive](https://archive.ph/80EYH)
 
-- github.com/zhmoly
+- github.com/zhmoly • [Archive](https://archive.ph/7XiAc)
 
 - t.me/zzmoly (ID: 1968323567) ([messages](./user-1968323567-@zzmoly.txt))
 
@@ -649,7 +649,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/Charles45812
 
-- github.com/realhardworkingdeveloper
+- github.com/realhardworkingdeveloper • [Archive](https://web.archive.org/web/20241001144921/https://github.com/realhardworkingdeveloper)
 
 - medium.com/@charles.leonard.com
 
@@ -735,7 +735,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - zhmoly
 
-- github.com/zhmoly
+- github.com/zhmoly • [Archive](https://archive.ph/7XiAc)
 
 - Sadao Murano jwtradera@outlook.com (Naoki Cross Whoopsies)
 
@@ -765,7 +765,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - murano1996@gmail.com
 
-- github.com/supermutecx (archive.ph/96QVA)
+- github.com/supermutecx • [Archive](https://archive.ph/96QVA)
 
 - github.com/0xdpta
 
@@ -837,13 +837,13 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - t.me/sano1009 (ID: 5459321994) ([messages](./user-5459321994-@sano1009.txt))
 
-- github.com/astermirac1e
+- github.com/astermirac1e • [Archive](https://web.archive.org/web/20250827054513/https://github.com/astermirac1e)
 
 - github.com/0xdpta
 
 - github.com/Satoshi-Naoki
 
-- github.com/0xb10ckdev [Archive](archive.ph/KMoXG)
+- github.com/0xb10ckdev • [Archive](https://archive.ph/KMoXG)
 
 - github.com/defi-wonderland/prophet-core/pull/2
 
@@ -873,7 +873,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - leon.lowden7@gmail.com
 
-- github.com/0xl2 [Archive](archive.ph/KolKd)
+- github.com/0xl2 • [Archive](https://archive.ph/KolKd)
 
 - 0x0c0e8ef4b62a4a2a1b5031911e272362530c1a9a
 
@@ -979,7 +979,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - super-vic114
 - chris-jin114
 - mdevdivvy
-- github.com/devbamboo15
+- github.com/devbamboo15 • [Archive](https://web.archive.org/web/20250604132757/https://github.com/devbamboo15)
 - github.com/chris-jin114
 - AezJBekqBoMWPcCVByn78mucdKVXdc99ugiRjJArWgYR
 - 5AvpMGYy2WxCMoaswmLfFdKPSMDxwZomPVDAdzE3A6vE
@@ -1000,8 +1000,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - h0lmes
 - stabbledev
 - x.com/haodev007
-- github.com/h0lme3
-- github.com/stabble-dev
+- github.com/h0lme3 • [Archive](https://web.archive.org/web/20240926190449/https://github.com/h0lme3)
+- github.com/stabble-dev • [Archive](https://web.archive.org/web/20250827054724/https://github.com/stabble-dev)
 - socket.dev/npm/user/stabbledev
 - t.me/haodev007 (ID: 5312921424) ([messages](./user-5312921424-@haodev007.txt))
 
@@ -1019,7 +1019,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### Thành Hao Vo
 - Kunkka0822
-- github.com/Kunkka0822
+- github.com/Kunkka0822 • [Archive](https://web.archive.org/web/20250827054829/https://github.com/Kunkka0822)
 
 
 
@@ -1166,9 +1166,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xlock
 
-- github.com/0xm00neth [Archive](archive.ph/WIu3i)
+- github.com/0xm00neth • [Archive](https://archive.ph/WIu3i)
 
-- github.com/0xlock [Archive](archive.ph/J347l)
+- github.com/0xlock • [Archive](https://archive.ph/J347l)
 
 - x.com/0xm00neth
 
@@ -1214,7 +1214,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xm00neth@gmail.com
 
-- github.com/0xm00neth
+- github.com/0xm00neth • [Archive](https://archive.ph/WIu3i)
 
 - https://cryptototem.com/kira-network-kex/
 
@@ -1246,7 +1246,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/lee_chienhui
 
-- github.com/light-fury [Archive](https://web.archive.org/web/20230513202311/https://github.com/light-fury)
+- github.com/light-fury • [Archive](https://web.archive.org/web/20230513202311/https://github.com/light-fury)
 
 - medium.com/@leech.developer
 
@@ -1328,7 +1328,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - james117lee@gmail.com 
 
-- github.com/jnuon [Archive](archive.ph/rf3TU)
+- github.com/jnuon • [Archive](https://archive.ph/rf3TU)
 
 - 0xb9451049310053b29e5dd98c54bff37a5e38819c
 
@@ -1346,7 +1346,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - @zerobit417
 
-- github.com/altbee 
+- github.com/altbee • [Archive](https://web.archive.org/web/20220625174754/https://github.com/altbee)
 
 - zerobit417@gmail.com 
 
@@ -1382,7 +1382,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - letteldream@gmail.com
 
-- github.com/rustumatizon [Archive](archive.ph/KLBYw)
+- github.com/rustumatizon • [Archive](https://archive.ph/KLBYw)
 
 - t.me/QuinnDuck
 
@@ -1410,7 +1410,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - linkedin.com/in/ryuhei-matsuda
 
-- github.com/ryuheimat [Archive](archive.ph/V5GsZ)
+- github.com/ryuheimat • [Archive](https://archive.ph/V5GsZ)
 
 - 0x36c67d5ce9e2e4a919f568fc33657fcad0030880 (T)
 
@@ -1488,9 +1488,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/zhChameleon
 
-- github.com/0xllaCh
+- github.com/0xllaCh • [Archive](https://web.archive.org/web/20250827054938/https://github.com/0xllaCh)
 
-- github.com/blueChamel
+- github.com/blueChamel • [Archive](https://web.archive.org/web/20250827055005/https://github.com/blueChamel)
 
 - 0xc9b46489567684aafbe85e8a783bb9bfb822807f (T)
 
@@ -1552,11 +1552,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - bitbaby888@gmail.com
 
-- github.com/imyugioh
+- github.com/imyugioh • [Archive](https://web.archive.org/web/20250827055032/https://github.com/imyugioh)
 
-- github.com/0xlocker (name: 0xlocker)
+- github.com/0xlocker • [Archive](https://web.archive.org/web/20210309195053/https://github.com/0xlocker)
 
-- github.com/ethlocker (name: Hack the Moon!)
+- github.com/ethlocker (name: Hack the Moon!) • [Archive](https://web.archive.org/web/20230214213422/https://github.com/ethlocker)
 
 - github.com/raptor1001 (name: raptor1001)
 
@@ -1600,11 +1600,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - venus07250000@gmail.com
 
-- github.com/vigorousdeveloper
+- github.com/vigorousdeveloper • [Archive](https://web.archive.org/web/20241207220408/https://github.com/vigorousdeveloper)
 
 - github.com/top-dev-mania
 
-- github.com/SuperVenus0725
+- github.com/SuperVenus0725 • [Archive](https://web.archive.org/web/20250827055204/https://github.com/SuperVenus0725)
 
 - github.com/Jason07250000
 
@@ -1650,7 +1650,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/cobang
 
-- github.com/bejaxer
+- github.com/bejaxer (Name: 0x A.K.) • [Archive](https://web.archive.org/web/20221130173129/https://github.com/bejaxer)
 
 - t.me/lcoppn (ID:749123222)
 
@@ -1702,9 +1702,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - Aristok3
 
-- github.com/millicare
+- github.com/millicare • [Archive](https://web.archive.org/web/20221021153917/https://github.com/millicare)
 
-- github.com/DevWebMaster
+- github.com/DevWebMaster • [Archive](https://web.archive.org/web/20250827055457/https://github.com/DevWebMaster)
 
 - savagrujicinnov.wixsite.com/mysite
 
@@ -1762,9 +1762,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/jelysn
 
-- github.com/jpine3528 
+- github.com/jpine3528 • [Archive](https://web.archive.org/web/20250827055600/https://github.com/jpine3528)
 
-- github.com/junkai121
+- github.com/junkai121 • [Archive](https://web.archive.org/web/20220410220220/https://github.com/junkai121)
 
 - github.com/icafa
 
@@ -1824,9 +1824,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - kei-tren
 
-- github.com/smartcoding51 [Archive](archive.ph/mo0QZ)
+- github.com/smartcoding51 • [Archive](https://archive.ph/mo0QZ)
 
-- github.com/kei-tren [Archive](archive.ph/fhKTT)
+- github.com/kei-tren • [Archive](https://archive.ph/fhKTT)
 
 - keinakano415@gmail.com
 
@@ -1852,7 +1852,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xdefilover
 
-- github.com/0xdefilover
+- github.com/0xdefilover • [Archive](https://web.archive.org/web/20250827055628/https://github.com/0xdefilover)
 
 - 0x9d66bea448eed9bdbb5f1acf032767b11fc78dcf
 
@@ -1882,7 +1882,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - russellhieu@outlook.com
 
-- github.com/Helme0315 [Archive](archive.ph/vgsFX)
+- github.com/Helme0315 • [Archive](https://archive.ph/vgsFX)
 
 - 0x97467ea9BeF1c925E9D8e2E65932d066869b7f13
 
@@ -1920,7 +1920,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/superlwclx
 
-- github.com/LucasWongC
+- github.com/LucasWongC • [Archive](https://web.archive.org/web/20250108192702/https://github.com/LucasWongC)
 
 - t.me/cox1118 (ID: 5034927805) ([messages](./user-5034927805-@cox1118-Lucas-Wong.txt))
 
@@ -1950,7 +1950,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - melonman913@gmail.com
 
-- github.com/0xtomoon
+- github.com/0xtomoon • [Archive](https://web.archive.org/web/20250516070156/https://github.com/0xtomoon)
 
 - x.com/mrcontract17877
 
@@ -1970,7 +1970,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - melonman913@gmail.com
 
-- github.com/0xtomoon
+- github.com/0xtomoon • [Archive](https://web.archive.org/web/20250516070156/https://github.com/0xtomoon)
 
 - linkedin.com/in/janul-azwan-7b1612361/
 
@@ -2014,7 +2014,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - linkedin.com/in/chai-somsri
 
-- github.com/ChaiSomsri96
+- github.com/ChaiSomsri96 • [Archive](https://archive.ph/eRFnu)
 
 - t.me/chaisomsri (ID: 7022528006)
 
@@ -2043,7 +2043,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - icebera
 
-- github.com/icebera
+- github.com/icebera • [Archive](https://web.archive.org/web/20250827055910/https://github.com/icebera)
 
 - zaza.liveedu@gmail.com
 
@@ -2167,7 +2167,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - smartdev0725
 
-- github.com/good725
+- github.com/good725 • [Archive](https://web.archive.org/web/20250827055950/https://github.com/good725)
 
 - github.com/andersonlee111
 
@@ -2297,7 +2297,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/truecode112
 
-- github.com/masterscent913
+- github.com/masterscent913 • [Archive](https://archive.ph/E9Thn)
 
 - truecoder112@gmail.com
 
@@ -2339,7 +2339,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - linkedin.com/in/hiroto-iwaki-54b207306
 
-- github.com/mymiracle0118
+- github.com/mymiracle0118 • [Archive](https://web.archive.org/web/20240115053832/https://github.com/mymiracle0118)
 
 - iwakihiroto-portfolio.vercel.app
 
@@ -2397,7 +2397,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - andyhoogup@gmail.com
 
-- github.com/toparc077 [Archive](archive.ph/7lbnH)
+- github.com/toparc077 • [Archive](https://archive.ph/7lbnH)
 
 - linkedin.com/in/andy-hoog/
 
@@ -2453,7 +2453,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - gabrielyiu
 
-- github.com/gabrielyiu [Archive](archive.ph/oGlCc)
+- github.com/gabrielyiu • [Archive](https://archive.ph/oGlCc)
 
 - 0xd80614feb54d49cf46cc861fc549fae0a05b3f7e
 
@@ -2481,7 +2481,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - firstninja111
 
-- github.com/firstninja111 [Archive](archive.ph/tFeQG)
+- github.com/firstninja111 • [Archive](https://archive.ph/tFeQG)
 
 - cloudrider.m92@gmail.com
 
@@ -2497,7 +2497,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - willie.lee226
 
-- github.com/keizir [Archive](https://archive.ph/SjJfK)
+- github.com/keizir • [Archive](https://archive.ph/SjJfK)
 
 - willie.lee226@gmail.com
 
@@ -2615,7 +2615,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - _SamAyorinde
 - ayorindesam2@gmail.com
 - linkedin.com/in/sam-ayorinde-3b1b9a151/
-- github.com/Sam-Devs
+- github.com/Sam-Devs • [Archive](https://web.archive.org/web/20250406052701/https://github.com/bizmindx)
 - x.com/_SamAyorinde
 
 
@@ -2673,9 +2673,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - super1114dev@gmail.com
 
-- github.com/NelsonMurua913 [Archive](https://web.archive.org/web/20240327040031/https://github.com/nelsonmurua913)
+- github.com/NelsonMurua913 • [Archive](https://web.archive.org/web/20240327040031/https://github.com/nelsonmurua913)
 
-- github.com/super1114 [Archive](https://web.archive.org/web/20220627223823/https://github.com/super1114)
+- github.com/super1114 • [Archive](https://web.archive.org/web/20220627223823/https://github.com/super1114)
 
 - crypto.jobs/talent/profile/senior-smart-contracts-developer-solidity-1
 
@@ -2715,7 +2715,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - Werewolves0493
 
-- github.com/Werewolves0493 [Archive](https://archive.ph/p8AIS)
+- github.com/Werewolves0493 • [Archive](https://archive.ph/p8AIS)
 
 - 0x4890e32a6a631ba451b7823dad39e88614f59c97
 
@@ -2767,7 +2767,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - gru1125
 
-- github.com/FeloniousGru-Super/
+- github.com/FeloniousGru-Super • [Archive](https://web.archive.org/web/20240331015740/https://github.com/FeloniousGru-Super)
 
 - paulmartin-1125.web.app/
 
@@ -2804,7 +2804,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/bestsilvertiger
 
-- brightdragon0719 [Archive](https://web.archive.org/save/https://github.com/brightdragon0719)
+- github.com/brightdragon0719 • [Archive](https://web.archive.org/save/https://github.com/brightdragon0719)
 
 - ![](./munchables-pete-yama-brightdragon0719.jpeg)
 
@@ -2846,7 +2846,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 # IFEEL.ETH & CO
 
-- github.com/chainlito (https://archive.ph/wmnFn)
+- github.com/chainlito • [Archive](https://archive.ph/wmnFn)
 
 - Previous Githubs:
 
@@ -3292,7 +3292,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - t.me/bluesoft2100
 
--  github.com/CoffeeFam84 (404)
+- github.com/CoffeeFam84 (404)
 
 - https://x.com/browsercookies/status/1934285777699230194
 
@@ -3828,99 +3828,99 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://chollima-group.io/posts/tracking-a-north-korean-it-worker-cell/
 
-- Jenson Collins
-    
-    - github.com/JCollinsX
+#### Jenson Collins
 
-- Kazune Takeda
-    
-    - github.com/mtfuji25
+- github.com/JCollinsX
 
-- Kei Nakano
+#### Kazune Takeda
 
-- Jason Kwon
-    
-    - 0xm00neth@gmail.com
+- github.com/mtfuji25
 
-- Joshua Charles Palmer
+#### Kei Nakano
 
-    - github.com/call-by
-    
-    - joshupgig@gmail.com
-    
-    - smart.solidity@gmail.com
+#### Jason Kwon
 
-- John Michael Millen
-    
-    - johnmichael0325@outlook.com
-    
-    - JohnMichaelMillen0325@outlook.com
+- 0xm00neth@gmail.com
 
-- Naoki Murano
-    
-    - github.com/supermutexc
-    
-    - naokimurano@outlook.com
+#### Joshua Charles Palmer
 
-- Seo Sigoto
-    
-    - github.com/seosigoto
-    
-    - seo.shigoto.001@gmail.com
-    
-    - seo.sigoto@gmail.com
+- github.com/call-by
 
-- Seo Kiwon
-    
-    - sunshineseo0614@gmail.com
+- joshupgig@gmail.com
 
-- Steven Chen
-    
-    - stevechendragon@gmail.com
-    
-    - stevechendragon@outlook.com
+- smart.solidity@gmail.com
 
-- Ivan Dimov
-    
-    - ivan.dimov.work@gmail.com
-    
-    - ivandimov921016@outlook.com
+#### John Michael Millen
 
-- Yamamoto Zirou
-    
-    - yamamotoziro.0113@gmail.com
+- johnmichael0325@outlook.com
 
-    - yamamotoziro.0113
-    
-    - blockchaindeveloper777@gmail.com
+- JohnMichaelMillen0325@outlook.com
 
-- Lucas Steve Moore
+#### Naoki Murano
 
-- Misc
-    
-    - never08mind25@gmail.com
-    
-    - github.com/neverm25
-    
-    - denisleedragon@outlook.com
+- github.com/supermutexc
 
-    - densyaou@gmail.com
-    
-    - eliteknightgold@outlook.com
-    
-    - github.com/Hiccup19940325
-    
-    - jamescharlie94@outlook.com
-    
-    - lainhong1205@gmail.com
-    
-    - sunmoonlee.19900113@outlook.com
-    
-    - sunmoonstar0319@outlook.com
-    
-    - superdev0292@gmail.com
-    
-    - zombie.eye.dev@gmail.com
+- naokimurano@outlook.com
+
+#### Seo Sigoto
+
+- github.com/seosigoto
+
+- seo.shigoto.001@gmail.com
+
+- seo.sigoto@gmail.com
+
+#### Seo Kiwon
+
+- sunshineseo0614@gmail.com
+
+#### Steven Chen
+
+- stevechendragon@gmail.com
+
+- stevechendragon@outlook.com
+
+#### Ivan Dimov
+
+- ivan.dimov.work@gmail.com
+
+- ivandimov921016@outlook.com
+
+#### Yamamoto Zirou
+
+- yamamotoziro.0113@gmail.com
+
+- yamamotoziro.0113
+
+- blockchaindeveloper777@gmail.com
+
+#### Lucas Steve Moore
+
+#### Misc
+
+- never08mind25@gmail.com
+
+- github.com/neverm25
+
+- denisleedragon@outlook.com
+
+- densyaou@gmail.com
+
+- eliteknightgold@outlook.com
+
+- github.com/Hiccup19940325
+
+- jamescharlie94@outlook.com
+
+- lainhong1205@gmail.com
+
+- sunmoonlee.19900113@outlook.com
+
+- sunmoonstar0319@outlook.com
+
+- superdev0292@gmail.com
+
+- zombie.eye.dev@gmail.com
 
 - ![](./laos-house.png)
 
@@ -3991,28 +3991,51 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### loganworld / Logan Lee / Logan King / Logan Smith 
 
+
 - Logan Lee
+
 - Logan King
+
 - Logan Smith
+
 - Vasyl Smirnov
+
 - Ethan Chan
+
 - Leon Zhang
+
 - Evgeny Shalimov
+
 - loganlee002@gmail.com
+
 - loganworld002@gmail.com
+
 - akp707d@gmail.com
+
 - websolution0524@gmail.com
+
 - smirnovvvasyl@gmail.com
+
 - rgrobertclark032@gmail.com
+
 - johnwilliam199024@gmail.com
+
 - github.com/loganworld
+
 - github.com/logan-smith-cloud
+
 - github.com/jeevan8888
+
 - github.com/smirnovvvasyl
+
 - t.me/defiworld_dev (ID: 5157722477) ([messages](./user-5157722477-@defiworld_dev.txt))
+
 - t.me/loganworld
+
 - t.me/logan_lee_c
+
 - Current Project: Hogwarz, hogwarz[.]com
+
 - upwork.com/freelancers/~014d511b5978bb9853
 
  
@@ -4020,89 +4043,163 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### promiseislaw (Marcin Iwanski)
 
+
 - Brent Jeremy
+
 - Marcin Iwanski
+
 - Liguo Ma
+
 - Pirachat Chaiwongrote
+
 - promseislaw@gmail.com
+
 - smartdevpro001@gmail.com
+
 - brentjeremynel@gmail.com
+
 - onetouch0525@gmail.com
+
 - kevinlee2821@gmail.com
+
 - leondragandevelop@gmail.com
+
 - eric2022412@gmail.com
+
 - ma.liguo@outlook.com
+
 - donatelo212dunccine@gmail.com
+
 - ernestpapyan@gmail.com
+
 - topsmartpro@prolocalize.com
+
 - yatsukalbert@outlook.com
+
 - talentdev610@gmail.com
+
 - leonpower123@outlook.com
+
 - oskardev0112@gmail.com
+
 - 88yurchak@gmail.com
+
 - github.com/brent-jeremy
+
 - github.com/Smart-Dev-0205
+
 - github.com/talented-blockchain-dev
+
 - github.com/squirdev
+
 - github.com/pedrodiaz417
+
 - github.com/topsmartpro
+
 - t.me/smartdev19961
+
 - t.me/smartdev0205 (ID: 5265691090) ([messages](./user-5265691090-@smartdev0205.txt))
+
 - t.me/SmartDevPro (ID: 7659696464)
+
 - t.me/trust0205 (ID: 5874346391) ([messages](./user-5874346391-@trust0205.txt))
+
 - Discord Talented Blockchain#3570
+
 - Skype live:.cid.ffe8d0454926464f
+
 - https://linkedin.com/in/promise-law
+
 - https://pl.linkedin.com/in/marcin-iwanski-b699b02b8
+
 - https://www.linkedin.com/in/brent-jeremy-47172b22a/
+
 - https://www.linkedin.com/in/brent-jeremy/
+
 - https://www.linkedin.com/in/liguo-ma-060077205
+
 - https://torre.ai/brentjeremynel?r=GLXbkZCc
+
 - https://www.guru.com/freelancers/brent-jeremy
+
 - https://web3.career/@marcin
 
 
 
 
 ### newstable / Jaycee Tran / Sasuke Uchiha
+
 - Jaycee Tran
+
 - Sasuke Uchiha
+
 - jayceetran.cool@gmail.com
+
 - special.galaxy26@gmail.com
+
 - potter0525james@gmail.com
+
 - zoelasa1111@gmail.com
+
 - it.galaxy.0315@gmail.com
+
 - sasuke031026@gmail.com
+
 - f99964995@gmail.com
+
 - github.com/newstable
+
 - github.com/webgalaxy315
+
 - github.com/nova-blockchain
+
 - github.com/jayceetran
+
 - github.com/zenggang315
+
 - github.com/sasuke031026
+
 - github.com/sasuke1026
+
 - github.com/sasukeuchiha
+
 - t.me/newstabled
+
 - linkedin.com/in/jaycee-tran-a2873230b/
+
 - Discord: newstable
+
 - live:.cid.f4e6d1509205ccdd
 
 
 
 
 ### SirBang / Derek Miller
+
 - Derek Miller
+
 - SirBang
+
 - derek.miller0003@gmail.com
+
 - derek.miller03@outlook.com
+
 - github.com/SirBang
+
 - x.com/DerekMillerDev
+
 - t.me/DerekGameDev (ID: 6451750406) ([messages](./user-6451750406-@DerekGameDev.txt))
+
 - live:.cid.73d9933f3c8fe3e3
+
 - https://derekgamedev.com
+
 - https://www.guru.com/freelancers/derekgamedev/portfolio
+
 - https://www.fiverr.com/derekmiller03
+
 - https://laborx.com/freelancers/users/id328992
+
 - https://www.youtube.com/@DerekMiller-h8m
 
 
@@ -4111,35 +4208,65 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 ### Xiao He
+
 - Xiao He
+
 - He Shawn
+
 - Peter Zhou
+
 - James Ybarra
+
 - Leo Pawel
+
 - Powel Lee
+
 - hexiao33@gmail.com
+
 - hexiao33@yahoo.com
+
 - hexiao33@hotmail.com
+
 - hexiao33@mail.ru
+
 - hexiao31@mail.ru
+
 - hexiao32@mail.ru
+
 - hexiao34@mail.ru
+
 - 4445313@qq.com
+
 - peterzhou0802@gmail.com
+
 - kawabatakyo0922@outlook.com
+
 - jamesybarra114@gmail.com
+
 - jo.hnceballos0716@gmail.com
+
 - hughnolan88@gmail.com
+
 - deliminallimited.ws@outlook.com
+
 - galaxy85126@gmail.com
+
 - leopawel65@gmail.com
+
 - github.com/peterz-codes
+
 - github.com/camonanesi
+
 - github.com/wildwolf085
+
 - github.com/leopawel
+
 - t.me/komonado (ID: 1017960142) ([messages](./user-1017960142-@komonado.txt))
+
 - https://www.lancers.jp/profile/camonanesi
+
 - https://www.peopleperhour.com/freelancer/technology-programming/xiao-he-fullstack-web-developer-blockchain-vxqqqxj
+
 - 0xC5ABDE4CE8C5740F4bad6C3B05E4Da31d229659
 
 
@@ -4147,109 +4274,208 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### Misc
 
+
 - 45.126.3[.]252
+
 - 188.43.136[.]0/24
+
 - topdeveloper01234@gmail.com
+
 - bigben199551@gmail.com
+
 - realhardworkingdeveloper@gmail.com
+
 - thomasanderson19960313@gmail.com
+
 - davidsuzuki51@gmail.com
+
 - toptalent48@gmail.com
+
 - alexstepan0209@gmail.com
+
 - kkopbusiness1213@gmail.com
+
 - blockchain4webdev@gmail.com
+
 - HighleyHilmaU@gmail.com
+
 - yemelyan.yevdokimov.domain1121@gmail.com
+
 - qiqq-ps@eclipso.eu
+
 - illia.butenko89@gmail.com
+
 - ddksniper@gmail.com
+
 - intellichain555@gmail.com
+
 - salbu15154@gmail.com
+
 - goldsea808@gmail.com
+
 - goldsea808@yahoo.com
+
 - mrsteevtvw418@gmail.com
+
 - ichiro@0xlancerlab.com
+
 - hanssuperdev1026@gmail.com
+
 - hansjkiller1026@outlook.com
+
 - tomasjakson44@gmail.com
+
 - ssch26802@gmail.com
+
 - williamh8930@gmail.com
+
 - github.com/thomson0313
+
 - github.com/fullstackdev8681
+
 - github.com/louistalent
+
 - github.com/galaxy-foundation
+
 - github.com/galaxydigital
+
 - github.com/TopDeveloper0809
+
 - github.com/IlliaButenko
+
 - github.com/johnhoang-star
+
 - github.com/techsavvyninja
+
 - github.com/intellichain555
+
 - github.com/zkbusiness
+
 - github.com/chainoneer
+
 - github.com/sujan198703
+
 - github.com/alexiva0806
+
 - github.com/poprunner88
+
 - github.com/wow-webmaster
+
 - github.com/techwizard210
+
 - github.com/lovelyBestDev
+
 - github.com/Thomas-Kebin
+
 - github.com/ChallengeDev210
+
 - github.com/OrdinalKing
+
 - github.com/devlegend524
+
 - github.com/cryptodev524
+
 - github.com/alexstepan0209
+
 - github.com/kvenus-uj
+
 - github.com/suzukidavid
+
 - github.com/john741672
+
 - github.com/webcat882
+
 - github.com/lgamingdev1
+
 - github.com/rustsol114
+
 - github.com/maestro418
+
 - github.com/rizzolib
+
 - github.com/endlessbuilder
+
 - github.com/smile0307
+
 - github.com/topclever
+
 - github.com/webpointdev
+
 - github.com/crackdev01
+
 - github.com/devsirius51
+
 - github.com/devsirius5001
+
 - Discord: thomson_0313
+
 - Discord: loganworld
+
 - Discord: loganlee002
+
 - Discord: seagod351
+
 - Discord: newstable
+
 - Discord: _codex0313
+
 - Discord: marketingconsult
+
 - Discord: anime_lover06827
+
 - Discord: olesatanya
+
 - Discord: cysho0105
+
 - Discord: benjamin_0105
+
 - Discord: overworldlife.com
+
 - 0xA9C429B9469D9462A1f2C3a52e149512F87F5094 - Logan/Smirnovvasyl
+
 - 0x9e051782754e1ED01C2800a820b9F742b38aceA0 - newstable
 
 
 
 ##### Organizations / Projects
 
+
 - ICICB
+
 - Kuhu Pharmacy
+
 - DeamTest/DeamChain
+
 - FWork.io
+
 - Kunzig Consulting
+
 - DELIMINAL LIMITED
+
 - github.com/Youth-Group
+
 - Crypto-FIFA-World
+
 - GADA Finance
+
 - BrothersCommunity
+
 - Prolocalize
+
 - CBetWorld
+
 - OverWorldLife
+
 - OpenPetWorld
+
 - DefiTankLand
+
 - DeTankZone
+
 - Babylonswap
+
 - 0xlancerlab.com
+
 - Hogwarz
 
 
