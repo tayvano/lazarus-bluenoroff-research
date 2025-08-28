@@ -499,7 +499,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - kazune.takeda@yahoo.com
 
-- t.me/ETHFuji (ID: 5407827675) ([messages](./user-5407827675-@ETHFuji.txt))
+- t.me/ETHFuji (ID: 5407827675) • ([Messages](./user-5407827675-@ETHFuji.txt))
 
 - github.com/mtfuji25
 
@@ -551,7 +551,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - jwtradera@outook.com
 
-- t.me/jjmolIy (ID: 1968323567) ([messages](./user-1968323567-@zzmoly.txt))
+- t.me/jjmolIy (ID: 1968323567) • ([Messages](./user-1968323567-@zzmoly.txt))
 
 - 0x210888f2624d01f9cbc71de5bf4caf5b6dc9fa7f
 
@@ -611,7 +611,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/zhmoly • [Archive](https://archive.ph/7XiAc)
 
-- t.me/zzmoly (ID: 1968323567) ([messages](./user-1968323567-@zzmoly.txt))
+- t.me/zzmoly (ID: 1968323567) • ([Messages](./user-1968323567-@zzmoly.txt))
 
 - t.me/zhmolly
 
@@ -833,9 +833,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/sether1009
 
-- t.me/sether1009 (ID: 1385798680) ([messages](./user-1385798680-@sether1009.txt))
+- t.me/sether1009 (ID: 1385798680) • ([Messages](./user-1385798680-@sether1009.txt))
 
-- t.me/sano1009 (ID: 5459321994) ([messages](./user-5459321994-@sano1009.txt))
+- t.me/sano1009 (ID: 5459321994) • ([Messages](./user-5459321994-@sano1009.txt))
 
 - github.com/astermirac1e • [Archive](https://web.archive.org/web/20250827054513/https://github.com/astermirac1e)
 
@@ -943,7 +943,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xWoo (minor username)
 - hirayama1534 (2021)
 - watanabeatari@gmail.com
-- t.me/kAsky53 (ID: 1914451016) ([messages](./user-1914451016-@kAsky53.txt))
+- t.me/kAsky53 (ID: 1914451016) • ([Messages](./user-1914451016-@kAsky53.txt))
 - dev4all.sol = JBxidGWnhtPTGg8xw7sFT9tF4cfGtHnjYNp5GDJvGveh
 - 8mdfRML7z3s8gqDYd72bywcEgQtcvkoJCw2bukv8X71R
 - 4Cz7ZhYnEKtXVs6tivDFo3z6g3KuVct9J6wigg2xZ6Qv
@@ -1003,7 +1003,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - github.com/h0lme3 • [Archive](https://web.archive.org/web/20240926190449/https://github.com/h0lme3)
 - github.com/stabble-dev • [Archive](https://web.archive.org/web/20250827054724/https://github.com/stabble-dev)
 - socket.dev/npm/user/stabbledev
-- t.me/haodev007 (ID: 5312921424) ([messages](./user-5312921424-@haodev007.txt))
+- t.me/haodev007 (ID: 5312921424) • ([Messages](./user-5312921424-@haodev007.txt))
 
 
 
@@ -1478,7 +1478,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - Overlaps with 0xm00neth, zhChameleon, Daiki Saito, Malkevych Bohdan bomalkevych@gmail.com, Jamshed Latipov jamshedlatipov@gmail.com
 
-- t.me/chamel92 (ID: 6635242888) ([messages](./user-6635242888-@chamel92.txt))
+- t.me/chamel92 (ID: 6635242888) • ([Messages](./user-6635242888-@chamel92.txt))
 
 - x.com/0xchamel
 
@@ -1548,7 +1548,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - choi.link227@gmail.com: Ryan Choi
 
-- t.me/chamel92 (ID: 6635242888) ([messages](./user-6635242888-@chamel92.txt))
+- t.me/chamel92 (ID: 6635242888) • ([Messages](./user-6635242888-@chamel92.txt))
 
 - bitbaby888@gmail.com
 
@@ -1922,7 +1922,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/LucasWongC • [Archive](https://web.archive.org/web/20250108192702/https://github.com/LucasWongC)
 
-- t.me/cox1118 (ID: 5034927805) ([messages](./user-5034927805-@cox1118-Lucas-Wong.txt))
+- t.me/cox1118 (ID: 5034927805) • ([Messages](./user-5034927805-@cox1118-Lucas-Wong.txt))
 
 - lucas.wong.1118@gmail.com
 
@@ -1954,7 +1954,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/mrcontract17877
 
-- t.me/janbuidl (ID:7245484067) ([messages](./user-7245484067-@janbuidl-@mrcontract17877-@0xtomoon-Jannik-Villostas.txt))
+- t.me/janbuidl (ID:7245484067) • ([Messages](./user-7245484067-@janbuidl-@mrcontract17877-@0xtomoon-Jannik-Villostas.txt))
 
 - 0x1FEbc069606ABfbA5d021Ed3768cb5D90c9407D5
 
@@ -1976,7 +1976,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - immunefi.com/profile/ethprotector/
 
-- t.me/janbuidl (ID:7245484067) ([messages](./user-7245484067-@janbuidl-@mrcontract17877-@0xtomoon-Jannik-Villostas.txt))
+- t.me/janbuidl (ID:7245484067) • ([Messages](./user-7245484067-@janbuidl-@mrcontract17877-@0xtomoon-Jannik-Villostas.txt))
 
 
 
@@ -2047,7 +2047,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - zaza.liveedu@gmail.com
 
-- t.me/trust0212 (ID: 5419192978) ([messages](./user-5419192978-@trust0212.txt))
+- t.me/trust0212 (ID: 5419192978) • ([Messages](./user-5419192978-@trust0212.txt))
 
 - 0x35FcB352027cdDc632b7aE8a50A0410C5bf36248
 
@@ -2273,7 +2273,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xquantech
 
-- t.me/MaoDan007 (ID: 5089966453) ([messages](./user-5089966453-@MaoDan007-Sol Crazy.txt))
+- t.me/MaoDan007 (ID: 5089966453) • ([Messages](./user-5089966453-@MaoDan007-Sol Crazy.txt))
 
 
 
@@ -2343,7 +2343,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - iwakihiroto-portfolio.vercel.app
 
-- t.me/iwakihiroto (ID: 7074147770) ([messages](./user-7074147770-@iwakihiroto.txt))
+- t.me/iwakihiroto (ID: 7074147770) • ([Messages](./user-7074147770-@iwakihiroto.txt))
 
 - https://x.com/blackbigswan/status/1913290058670416183
 
@@ -2828,7 +2828,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/btcwhiz
 
-- t.me/hunter0409 (ID: 5031331438) ([messages](./user-5031331438-@hunter0409-munchables-pete-yama.txt))
+- t.me/hunter0409 (ID: 5031331438) • ([Messages](./user-5031331438-@hunter0409-munchables-pete-yama.txt))
 
 - ![](./bill-tovitt-pete-yama.png)
 
@@ -3152,7 +3152,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ssguardheaker@gmail.com
 
-- github.com/DreamHigh0806
+- github.com/DreamHigh0806 • [Archive](https://web.archive.org/web/20250827061107/https://github.com/DreamHigh0806)
 
 - https://x.com/browsercookies/status/1923549354025234903
 
@@ -3188,9 +3188,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - zerox-toml.vercel.app
 
-- github.com/zerox-toml
+- github.com/zerox-toml • [Archive](https://web.archive.org/web/20250827061237/https://github.com/zerox-toml)
 
-- github.com/oracle071
+- github.com/oracle071 • [Archive](https://web.archive.org/web/20250827061313/https://github.com/oracle071)
 
 - linkedin.com/in/aldinosaputra/
 
@@ -3202,7 +3202,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - t.me/zerox_toml (ID: 8098234150 name: Zerox)
 
-- t.me/whitecrow0109 (ID: 6735314353 name: Tensor) ([messages](./user-6735314353-@whitecrow0109-@zerox_toml-@spectre_coder.txt))
+- t.me/whitecrow0109 (ID: 6735314353 name: Tensor) • ([Messages](./user-6735314353-@whitecrow0109-@zerox_toml-@spectre_coder.txt))
 
 - x.com/MentholMen47387 (https://x.com/MentholMen47387/status/1913560086431355042)
 
@@ -3242,7 +3242,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - devanderson0412
 
-- in/joseph-anderson-01b421244/
+- linkedin.com/in/joseph-anderson-01b421244/
 
 - https://x.com/browsercookies/status/1934283069101674814
 
@@ -3254,9 +3254,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/CryptoFist
 
-- github.com/CryptoFist
+- github.com/CryptoFist • [Archive](https://web.archive.org/web/20250420114428/https://github.com/CryptoFist)
 
-- t.me/CryptoFist1002 (ID: 5000783370) ([messages](./user-5000783370-@CryptoFist1002.txt))
+- t.me/CryptoFist1002 (ID: 5000783370) • ([Messages](./user-5000783370-@CryptoFist1002.txt))
 
 - linkedin.com/in/kell-daniel-964a49245
 
@@ -3292,7 +3292,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - t.me/bluesoft2100
 
-- github.com/CoffeeFam84 (404)
+- github.com/CoffeeFam84 • [Archive](https://web.archive.org/web/20241105123158/https://github.com/CoffeeFam84)
 
 - https://x.com/browsercookies/status/1934285777699230194
 
@@ -3330,7 +3330,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### topcodebeast
 
-- github.com/topcodebeast
+- github.com/topcodebeast • [Archive](https://web.archive.org/web/20250722051253/https://github.com/TopCodeBeast)
 
 - t.me/flashhypo
 
@@ -3446,7 +3446,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/itloverman (404)
 
-- t.me/itloverman (ID: 6093085915) ([messages](./user-6093085915-@itloverman.txt))
+- t.me/itloverman (ID: 6093085915) • ([Messages](./user-6093085915-@itloverman.txt))
 
 - https://x.com/browsercookies/status/1933591202550723029
 
@@ -3510,9 +3510,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### Ares
 
-- github.com/elitegooddev
+- github.com/elitegooddev • [Archive](https://web.archive.org/web/20250827062106/https://github.com/EliteGoodDev?tab=following)
 
-- t.me/bestdiamond9 (ID: 7220566650) ([messages](./user-7220566650-@bestdiamond9.txt))
+- t.me/bestdiamond9 (ID: 7220566650) • ([Messages](./user-7220566650-@bestdiamond9.txt))
 
 - Note: TG claims to be Dusan Radoѕvⅼjeviс. Was asking around in Bitgert/BRISE for jobs in April 2025.
 
@@ -3534,7 +3534,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### Grin
 
-- github.com/Grin0502
+- github.com/Grin0502 • [Archive](https://web.archive.org/web/20250626063659/https://github.com/Grin0502)
 
 - Grin0502@gmail.com
 
@@ -3983,6 +3983,100 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ---
 
+# August 27 2025 Sanctions
+
+https://home.treasury.gov/news/press-releases/sb0230
+
+https://ofac.treasury.gov/recent-actions/20250827#:~:text=The%20Department%20of%20the%20Treasury's,Prohibited%20by%20Executive%20Order%2014068.%22
+
+Vitaliy Sergeyevich Andreyev is a Russian national facilitating payments to U.S.-designated [Chinyong Information Technology Cooperation Company (Chinyong), an entity associated with the DPRK defense ministry](https://home.treasury.gov/news/press-releases/jy1498) that employs delegations of IT workers in Russia and Laos.  
+
+Since at least December 2024, Andreyev has worked with **Kim Ung Sun,** a Russia-based DPRK economic and trade consular official, to facilitate multiple financial transfers worth a total of nearly $600,000, by converting cryptocurrency to cash in U.S. dollars. 
+
+Andreyev is being designated pursuant to Executive Order (E.O.) 13687 for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, Chinyong, a person whose property and interests in property are blocked pursuant to E.O. 13687.  
+
+OFAC is designating Kim Ung Sun pursuant to E.O. 13687 for having acted or purporting to act for or on behalf of, directly or indirectly, the Government of North Korea.
+
+
+## 1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T             - Vitaliy Sergeyevich Andreyev's HTX Deposit Address
+
+
+- 14WvJZtmWfqdKQMxkfmEzk5rQBESvg63qR                 - 1 Hop from Vitaliy - $30k - Dec 2024
+- 5AvpMGYy2WxCMoaswmLfFdKPSMDxwZomPVDAdzE3A6vE       - Mario Suparat / Chris Jin / devbamboo15
+- DybGDChJMvX9Jnza4XTQVDyUGZ6jYrRg9Q3CdLiEJeh2       - Keisuke Wantanabe / kAsky53
+- 0xb402b45dde5e15ce93809404c104c2fc4918c88c         - Actually Jenson Collins
+- 0xb1aa3027d1cbf578009bb3c09c84481b76ad43f1         - Maybe Jenson Collins, Payroll Receiver from Flokitars
+- 0x1d4625a2ed54ccbd1fd4792de3b308232f1ae2d5         - Payroll Receiver from Coinbase
+- 0x652bbddfecf23deefa7995804d5b7ac53fde97ab         - Payroll Receiver from Coinbase
+- - 0xd1d3228f9f03d4b41f1deff2614ffbe3cbc25cee       - Consolidaton
+- - bc1q908zke3nzgqtkq46ahx64u3kz9a6qnrrhljmkw       - Consolidaton
+- - bc1q7k57nq2f6hak7ptn35qjw8xathtp7d59fk6znn       - Consolidaton
+- - 1NWdsCiMhTmykoQyBHKn6T1d6qpwe9xCRa               - Consolidaton
+
+
+- bc1qz4lmd7hnnz3ccpf5pj6vq6vhe680fgn2xgt06t         - 1 Hop from Vitaliy - $205k - Dec 2024 + May 2025 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+- 0x961194d781623ebf5ce43087d85d2731cf1e7d1c         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
+- 0x9d66bea448eed9bdbb5f1acf032767b11fc78dcf         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
+- bc1q7wfc740n80u66wckezme954g5z9x97day2ph98         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
+- 0x64d668978ddd6145d4f192eefb03691b75f65096         - 0xl2 / Leon Lowden / Leon Lin / leonxdev1
+- 1AAitGq8Qi6sC7Uo5dxgTK1gvtJnA9cv3w                 - 0xl2 / Leon Lowden / Leon Lin / leonxdev1
+- - 13DjGT8rQqfSrTQ9u8T7LXHFQEoiFxEewh               - Consolidaton
+- - 17NtMaXTaN8JV4doHewx4qpJ7ZxcfbE14f               - Consolidaton
+- - 16JW3bVMu8RXPdf3p9iBeosK8q3ZUKe3H8               - Consolidaton
+- - 1FZU86w5G2yhgk8Vt2pyRZEkd24zeh8sh5               - Consolidaton
+
+
+- 1Gfswj3FL4E5MWWkYzR2fc7pa1uRimgayq                 - 1 Hop from Vitaliy - $70k Dec 2024
+- 0xe42e3086910496606e0f43916c7725bb47ddbcee         - Bunzz's DPRK IT Worker (2025)
+- 0x146ab113a6d69033cccdb4eaae61c496c2faaf05         - Bunzz's DPRK IT Worker (2025)
+- 0xcdd3429318a51b0094db7a172ea356cfd2ae06b3         - Bunzz's DPRK IT Worker (2025)
+- 0x1febc069606abfba5d021ed3768cb5d90c9407d5         - Jannik Villostas / 0xtomoon / janbuidls
+- 0x6f24bebcbfa23b7ee32894355ecbdbc24b520d9e         - Jannik Villostas / 0xtomoon / janbuidls
+- 0xfb446394f4b55ffcfe1867cdbdbfe306c03b7dbb         - melonman913
+- 0x6b31ada73da66bb0b889d60ad5ae968a0e7fa1a9         - melonman913
+- bc1q6vkncljcldz9pdxdn9g3qkc4hct3gn2edx6wct         - melonman913
+- 0xe5a86c150ac44ab8f8b2661c9e8d8b13887360f0         - Chai Somsri / TickyCrypto / ChaiSomsri96
+- 0x9ce96e07c091662c2605eaae9180de22aad6e8db         - Chai Somsri / ChaiSomsri96
+- 0x32a381b9c0fcc9bb8cc9f458b204bcdba5649432         - Unknown Payroll Receiver from Kraken
+- 0x04a11fad86bf5e52956ef93ecd15ebb8b6e5c868         - Unknown Payroll Receiver
+- 0xbdbd306e19925c50cda69e0157faacaf8eaad609         - Boba Network IT Worker
+- 8mdfRML7z3s8gqDYd72bywcEgQtcvkoJCw2bukv8X71R       - Keisuke Wantanabe / kAsky53
+- - bc1q9930haxqk58e3npj2uanapl8x9z57z5u7y6qrn       - Consolidaton
+- - bc1qjvms07m5cgd643eaymtx3ycjaa82degu5lledy       - Consolidaton
+- - 0x83b5fbcae0f80697130ef8479622a1cac9a2a9b9       - Consolidaton
+- - bc1qd4jfd33nm323q6s4enzgv4vf86eljylnls4wzl       - Consolidaton
+- - bc1qhg24uaa5p528s2wdx9nualu3gn99s65kep8853       - Consolidaton
+
+
+- bc1qzrck2j2kaszcemwkae84hah2s8ye3mwy8uwghy         - 1 Hop from Vitaliy - $6k - Nov 2024 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+- 0x90cf352ddaf171d41a6ded1d54ceda4005047c93         - Jason Kwon / 0xm00neth
+- 0x7969b188f7dc6bf80d68f224ac3454dafe6f6d5d         - Jason Kwon / 0xm00neth
+- 0x72c70980acdde7a5c9437050e73e7d07fbf21d25         - Jason Kwon / 0xm00neth
+- 0x14455e9616522b3d55e84e46fdf5819430e94a84         - Joshua Palmer
+- 0xa71b641a498e33bb13548a01eca5e20e083e637b         - Ryuhei Matsuda / ryuheimat3
+- 0xa771609c5c56048f146d2c794c87db946bff27cf         - Consolidation
+- bc1qypu86xl2d9nred5dxsvvsl2ke2cm8aqsv2n672         - Consolidation
+- - bc1q8a265fj6q3cpetvp8x77ueywkfttcql8mnhyjl       - Consolidaton
+- - bc1qjnm4877g6y5klwrzqzgq5fzgrwsvckqmek04nd       - Consolidaton
+- - bc1qh6v56l7hzsf4h63ywse42jdjv406tdw5gy8a2z       - Consolidaton
+- - bc1qntjk0f2e0jgheauahdw5dwn0t67cepxxjyp0ap       - Consolidaton
+- - bc1q3perhsh627tvyh50cxexld7cvyxl6dmqylv8fw       - Consolidaton
+- - bc1qq2lj54mxp4llm37nmed427yz6648h6veduexdr       - Consolidaton        
+
+- 1M3AVbH3fmYgKfNGMqNftV4md56GsbX8cS                 - 1 Hop from Vitaliy - $162k - May 2025 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+- - 15CgyAqoU4TszLYStaxq42nCSuskfaW5X4               - Consolidaton
+
+- bc1qc5kuxettlfnm3yhtt0ll8wkr6uf86dqq7j9qas         - 1 Hop from Vitaliy - $17k - November 2025 
+- - bc1quwnrtz6d9z28q7tn4qgnluhn9snxa0ptwlscas       - Consolidaton    
+- - bc1q7wjm7xypqxr37n9a0fdeluf40pmakkxfxm7lut       - Consolidaton
+
+- bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k - December 2024
+- - bc1qh4x4gklzne08p7px4hkpvyedmk6fkkyqzaw7xl       - Consolidaton
+
+
+
+---
+
 # Dubai, Crypto, Moonstone Sleet, and the Pivot Odyssey
 
 - https://chollima-group.io/posts/dubai-crypto-moonstonesleet-pivot-odyssey
@@ -4028,7 +4122,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/smirnovvvasyl
 
-- t.me/defiworld_dev (ID: 5157722477) ([messages](./user-5157722477-@defiworld_dev.txt))
+- t.me/defiworld_dev (ID: 5157722477) • ([Messages](./user-5157722477-@defiworld_dev.txt))
 
 - t.me/loganworld
 
@@ -4038,6 +4132,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - upwork.com/freelancers/~014d511b5978bb9853
 
+- Atari Token: 0x308f60b55b0ba1faf4948adafaf0ce812f3706c4
  
 
 
@@ -4098,11 +4193,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - t.me/smartdev19961
 
-- t.me/smartdev0205 (ID: 5265691090) ([messages](./user-5265691090-@smartdev0205.txt))
+- t.me/smartdev0205 (ID: 5265691090) • ([Messages](./user-5265691090-@smartdev0205.txt))
 
 - t.me/SmartDevPro (ID: 7659696464)
 
-- t.me/trust0205 (ID: 5874346391) ([messages](./user-5874346391-@trust0205.txt))
+- t.me/trust0205 (ID: 5874346391) • ([Messages](./user-5874346391-@trust0205.txt))
 
 - Discord Talented Blockchain#3570
 
@@ -4188,7 +4283,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - x.com/DerekMillerDev
 
-- t.me/DerekGameDev (ID: 6451750406) ([messages](./user-6451750406-@DerekGameDev.txt))
+- t.me/DerekGameDev (ID: 6451750406) • ([Messages](./user-6451750406-@DerekGameDev.txt))
 
 - live:.cid.73d9933f3c8fe3e3
 
@@ -4261,7 +4356,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/leopawel
 
-- t.me/komonado (ID: 1017960142) ([messages](./user-1017960142-@komonado.txt))
+- t.me/komonado (ID: 1017960142) • ([Messages](./user-1017960142-@komonado.txt))
 
 - https://www.lancers.jp/profile/camonanesi
 
