@@ -241,6 +241,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x7654e18ff3495675606c008a39b6264da5d0e8a7
 
+- 0x14455e9616522b3d55e84e46fdf5819430e94a84
+
 - https://www.justice.gov/usao-dc/media/1402691/dl
 
 - ![](./joshua-palmer.png)
@@ -3998,10 +4000,11 @@ Andreyev is being designated pursuant to Executive Order (E.O.) 13687 for having
 OFAC is designating Kim Ung Sun pursuant to E.O. 13687 for having acted or purporting to act for or on behalf of, directly or indirectly, the Government of North Korea.
 
 
-## 1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T             - Vitaliy Sergeyevich Andreyev's HTX Deposit Address
+## 1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T                - Vitaliy Sergeyevich Andreyev's HTX Deposit Address
 
 
-- 14WvJZtmWfqdKQMxkfmEzk5rQBESvg63qR                 - 1 Hop from Vitaliy - $30k - Dec 2024
+14WvJZtmWfqdKQMxkfmEzk5rQBESvg63qR                 - 1 Hop from Vitaliy - $30k - Dec 2024
+
 - 5AvpMGYy2WxCMoaswmLfFdKPSMDxwZomPVDAdzE3A6vE       - Mario Suparat / Chris Jin / devbamboo15
 - DybGDChJMvX9Jnza4XTQVDyUGZ6jYrRg9Q3CdLiEJeh2       - Keisuke Wantanabe / kAsky53
 - 0xb402b45dde5e15ce93809404c104c2fc4918c88c         - Actually Jenson Collins
@@ -4014,7 +4017,8 @@ OFAC is designating Kim Ung Sun pursuant to E.O. 13687 for having acted or purpo
 - - 1NWdsCiMhTmykoQyBHKn6T1d6qpwe9xCRa               - Consolidaton
 
 
-- bc1qz4lmd7hnnz3ccpf5pj6vq6vhe680fgn2xgt06t         - 1 Hop from Vitaliy - $205k - Dec 2024 + May 2025 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+bc1qz4lmd7hnnz3ccpf5pj6vq6vhe680fgn2xgt06t         - 1 Hop from Vitaliy - $205k - Dec 2024 + May 2025 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+
 - 0x961194d781623ebf5ce43087d85d2731cf1e7d1c         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
 - 0x9d66bea448eed9bdbb5f1acf032767b11fc78dcf         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
 - bc1q7wfc740n80u66wckezme954g5z9x97day2ph98         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
@@ -4026,7 +4030,8 @@ OFAC is designating Kim Ung Sun pursuant to E.O. 13687 for having acted or purpo
 - - 1FZU86w5G2yhgk8Vt2pyRZEkd24zeh8sh5               - Consolidaton
 
 
-- 1Gfswj3FL4E5MWWkYzR2fc7pa1uRimgayq                 - 1 Hop from Vitaliy - $70k Dec 2024
+1Gfswj3FL4E5MWWkYzR2fc7pa1uRimgayq                 - 1 Hop from Vitaliy - $70k Dec 2024
+
 - 0xe42e3086910496606e0f43916c7725bb47ddbcee         - Bunzz's DPRK IT Worker (2025)
 - 0x146ab113a6d69033cccdb4eaae61c496c2faaf05         - Bunzz's DPRK IT Worker (2025)
 - 0xcdd3429318a51b0094db7a172ea356cfd2ae06b3         - Bunzz's DPRK IT Worker (2025)
@@ -4048,7 +4053,8 @@ OFAC is designating Kim Ung Sun pursuant to E.O. 13687 for having acted or purpo
 - - bc1qhg24uaa5p528s2wdx9nualu3gn99s65kep8853       - Consolidaton
 
 
-- bc1qzrck2j2kaszcemwkae84hah2s8ye3mwy8uwghy         - 1 Hop from Vitaliy - $6k - Nov 2024 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+bc1qzrck2j2kaszcemwkae84hah2s8ye3mwy8uwghy         - 1 Hop from Vitaliy - $6k - Nov 2024 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+
 - 0x90cf352ddaf171d41a6ded1d54ceda4005047c93         - Jason Kwon / 0xm00neth
 - 0x7969b188f7dc6bf80d68f224ac3454dafe6f6d5d         - Jason Kwon / 0xm00neth
 - 0x72c70980acdde7a5c9437050e73e7d07fbf21d25         - Jason Kwon / 0xm00neth
@@ -4063,14 +4069,17 @@ OFAC is designating Kim Ung Sun pursuant to E.O. 13687 for having acted or purpo
 - - bc1q3perhsh627tvyh50cxexld7cvyxl6dmqylv8fw       - Consolidaton
 - - bc1qq2lj54mxp4llm37nmed427yz6648h6veduexdr       - Consolidaton        
 
-- 1M3AVbH3fmYgKfNGMqNftV4md56GsbX8cS                 - 1 Hop from Vitaliy - $162k - May 2025 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+1M3AVbH3fmYgKfNGMqNftV4md56GsbX8cS                 - 1 Hop from Vitaliy - $162k - May 2025 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
+
 - - 15CgyAqoU4TszLYStaxq42nCSuskfaW5X4               - Consolidaton
 
-- bc1qc5kuxettlfnm3yhtt0ll8wkr6uf86dqq7j9qas         - 1 Hop from Vitaliy - $17k - November 2025 
+bc1qc5kuxettlfnm3yhtt0ll8wkr6uf86dqq7j9qas         - 1 Hop from Vitaliy - $17k - November 2025 
+
 - - bc1quwnrtz6d9z28q7tn4qgnluhn9snxa0ptwlscas       - Consolidaton    
 - - bc1q7wjm7xypqxr37n9a0fdeluf40pmakkxfxm7lut       - Consolidaton
 
-- bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k - December 2024
+bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k - December 2024
+
 - - bc1qh4x4gklzne08p7px4hkpvyedmk6fkkyqzaw7xl       - Consolidaton
 
 
