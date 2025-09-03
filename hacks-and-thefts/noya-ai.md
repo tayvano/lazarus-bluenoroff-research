@@ -26,6 +26,8 @@ https://x.com/NewPaguinfo/status/1938619544920351014
 
 - 0xe29419f00d28fc8763a176aa627c443dd71c2950 malicious contract 
 
+- 0xe6832447c4286e2daa8d18fcb75ab2f608843c70 theft (also blackbaud)
+
 - 0x1b4d8f8cffcb01635671cc8faee5542be51f9832 theft 
 
 - 0xac5bd9e388d61f37a6b249996da9eb4f9612e095 theft 

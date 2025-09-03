@@ -1,8 +1,10 @@
 # BitoPro
 
-Date:: May 9, 2025
+Date:: May 9th, 2025
 
 Amount Stolen:: $12,300,000
+
+Tags:: ⁉️
 
 
 ---
@@ -34,6 +36,7 @@ https://www.bitopro.com/ns/en-US/announcements/1226
 
 
 ## Onchain
+
 
 
 - 0x2453933c98b6e55397103f7c1081626e0a02d2c9 - Theft
