@@ -148,7 +148,7 @@ Used for buying telegrams, hostwinds, testing, etc
 - 0x20443fa144d0044d765a47c97aa4b28969303041 - SQSQ Tester/Personal
 - 0x22b6e3b31009bb608f76c628b8e1c20a94e1426b - SQSQ Tester/Personal
 - 0x50f4a51a35071c541d1b425e78d964b781351b10 - SQSQ Tester/Personal
-- 0x7e1dedacc1581d819c167fe6e39f6684dbda6de4 - SQSQ Tester/Personal
+- 0x7e1dedacc1581d819c167fe6e39f6684dbda6de4 - SQSQ Tester/Personal - Degen Reborn Dust
 - 0xc4562666d8e5c38cd46788e8b13e6edbcfadd10b - SQSQ Tester/Personal
 - 0x149b8f32626b1cf0023df867620c9c2fb0228c48 - SQSQ Tester/Personal - Venus Tester
 - 0x42bd4dc1df5e7efa9ba299de82c450ff7acafee7 - SQSQ Tester/Personal - Venus Tester

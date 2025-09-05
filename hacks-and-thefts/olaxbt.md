@@ -36,6 +36,12 @@ Tags:: 🔑 SQSQ
 
 - 0x0738c5bf93f5ac20bc01637e4a094df1e4cbd9ef - Theft/Laundry
 
+- 0x7a28c433a22403ef3d35259c8da544d7857aa839 - Leftovers
+
+- 0x7a1cdbabc5e13f4e6f57379369112200fa4e6458 - Dust 
+
+- 0x7b51893f43ba5a2361afaf0b15423a8c45f87739 - Gas from Tornado 
+
 
 ### Tornado Cash
 

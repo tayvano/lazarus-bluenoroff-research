@@ -88,7 +88,9 @@ In total, we have attributed approximately $10.4 million lost to this exploit.
 
 
 - 0X9A10E4777DB1DF308159CF7778CDAF566876B43C - Victim
+
 - 0x60275d1cc368cf021547a82a51cfb8c055390da3 - Primary Theft, Safe Owner
+
 - 0xd00405bdeb379ef58a0e8ae9a082367e83385a23 - Safe Owner
 - 0xbe9bf9ad3b1f54c4690f40328b2d6cb8ff2896a8 - Safe Owner
 - 0xd5d6b6f7c66c46d75f49fc778322adc2244c0b79 - Safe Owner
@@ -96,6 +98,7 @@ In total, we have attributed approximately $10.4 million lost to this exploit.
 - 0x0d27dcc4fbf785951078f82b8064c48f7d6567cf - Gnosis Safe
 - 0x388617a47f9ed66ef58b55e1f8cbad4eba13d9e1 - Gnosis Safe
 - 0x47fe9c383e74d8976e0da0ff933a55fbf430f27c - Gnosis Safe
+
 - 0x5a7834db0dceee1d6ce756701b039bc27098a3ab - Theft
 - 0x5651563fb6350b3a22360bff42306ccbeb5ca66a - Theft March 2024
 - 0xe47499a3a11c4004c7af76a5c1ef47a0b1217e61 - Theft May 2024
@@ -139,10 +142,11 @@ In total, we have attributed approximately $10.4 million lost to this exploit.
 - 0x84febbcf6f404e9a5decf40cf9afcb8c130ba0d2 - Kucoin
 - 0xd77a32410a7a7d7e9f06e8b1168e81d6329d3f61 - MEXC
 - 0x4c2a2ccb21a437f823feb86ea88dd041a1355267 - MEXC
-- 0xb98C2390ce8a05FbFE221dC9bc2B911a9Ca2a2De - MEXC
-- 0xa465480BF622e835ceE55620e7ae5870d02ecbFa - MEXC
-- 0xe6e8521871D0e3c21B09E12012D33407891DB169 - Binance
-- 0x342ed3d121010C725FAF6d3446c1931EBFcE8398 - Binance
+- 0xb98C2390ce8a05FbFE221dC9bc2B911a9Ca2a2De - MEXC (Frozen)
+- 0xa465480BF622e835ceE55620e7ae5870d02ecbFa - MEXC (Frozen)
+- 0xe6e8521871D0e3c21B09E12012D33407891DB169 - Binance (Frozen)
+- 0x342ed3d121010C725FAF6d3446c1931EBFcE8398 - Binance (Frozen)
+
 
 - 0xb8447e4eb716e17d3e185162db8883ed5ab6994f - eXch 2024-03-16 from 0x5651 to XMR 8ABMgo9sqArbdxm9bcFUvnKPmu5zSTFDyMP55nivBwR4Gc9jQ2gUJSK4VHZFosFGmshQsnLnB3DUtFoP62eCE5cZMxkPyus 900feb531243252adb45082cff21b4001db0e0535bfe0b9a75c086f096883afa
 

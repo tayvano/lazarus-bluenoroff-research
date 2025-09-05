@@ -77,7 +77,7 @@ Tags:: 🔑
 
 - 0x31088345396D0cF00a81a3E3b8E8C5bB8ec768A3 - Theft/Consolidation
 
-- 0x8Cbc655605DA9B189C51c39bd6aF5C6a116671fC - Laundry
+- 0x8Cbc655605DA9B189C51c39bd6aF5C6a116671fC - Tornado Cash
 
 - 0x0fce3b1e0509fc7d1b9e29d001cb0063f3afb3c9 - Dust
 
