@@ -75,7 +75,8 @@ Amount Stolen:: $77,000
 
 ### Foresight Ventures
 
-- 0x589761dbfc4cd374e7e4da72f2cbd08eca3141f7 - Theft (25 ETH)
+- 0x589761dbfc4cd374e7e4da72f2cbd08eca3141f7 - Theft 2024-11-12, 2025-09-16
+- bc1qexsmj83jc0yzgj0dzhpneqmw4c3455zer4f2ga - Theft 2024-11-12, 2025-09-16
 
 - Fake Min (Foresight Ventures)
 - Fake "Iris Lo" (Foresight Ventures)

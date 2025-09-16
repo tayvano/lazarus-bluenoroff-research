@@ -53,6 +53,19 @@ Our best guess is they don't know how @usernames, anon phone numbers work.
 - EQDPfaFNVCOlL5Z5lSOWFlgHFyNok2WeU2qPa88OPDJFwtYI UQDPfaFNVCOlL5Z5lSOWFlgHFyNok2WeU2qPa88OPDJFwovN - CHN Depo
 - EQBm5BPYsHVhvYkK0FI1wT61xbBF2bOj-DlsbRRePH0d5cJF UQBm5BPYsHVhvYkK0FI1wT61xbBF2bOj-DlsbRRePH0d5Z-A - CHN Depo
 
+- EQA93vja2ld022JyjIDZAhP8N1VutebLBOKSHjEGKTOO4wAO - ChangeNOW Depo
+- EQBH2GTuX8iUB_sqtl5iSBm5FJSp3t-0wuRGcOPdyJeONT5N - ChangeNOW Depo
+- EQABHDi7VIJoEiEl6uhEIX13uGBSYqnm1DWJNnmkxgUvl0EL - ChangeNOW Depo
+- EQDGu57jG9Iv2Te_B2oaM6bOxthmenPJMWu7ZJONKbu8vSxu - ChangeNOW Depo
+- EQDiNPtOBJ2TAtMOoqdLG5F8wWXeLiuQJ9vS5j22lwFXsLNs - ChangeNOW Depo
+- EQClNQss1ee2jyrDHPg7yT6KhFkvqNi_lCsEBan0GaMyt72n - ChangeNOW Depo
+- EQCX_ztbmdBj4pf6D02e3TMXU7-cmzjmhZ7pJ86h_vcY0Uei - ChangeNOW Depo
+- EQB5R4J3W3z1JYzFZQo_Ro1via9Mt0LP6gOmEmZb0VDqefj0 - ChangeNOW Depo
+- EQABUfcdXTaRUkVr1yW9sqInw5x5Sb96flitFiZz8Iroi6eX - Theft / Depo
+- EQBlz_FvoBVEENnT6dpsYh5_xCeFY-W7dage8lKrL0WBPolk - Theft / Depo
+- EQC2zFiMU3jUA4Bzy0Qn0_00z5Hna4_rw8dLmSdx-PcUQdVp - Theft / Depo
+- EQAIEVwZUldefL1lojZJ-8a6oREVOMWnUEIhYWpvlXCIU-ha - Theft / Depo
+
 - TP27mP5frRLsmRUMwq9CQPuUTuktiZDebG - Theft
 - 0x23d7e378fcdc42efe4e55b2fbeb48b3fd85f5277 - Theft
 - 0xe2db0f3a034b7ca968c64292c2c6850f299a4fa2 - Theft
@@ -84,6 +97,10 @@ Our best guess is they don't know how @usernames, anon phone numbers work.
 
 - bc1qsnc09xkv8sewzty9dh3y8ne0240w502fsqz7k6 - Theft
 - bc1qtmr7m4a0ljsa6th6afq9euwpa85r4esggk4sqr - Consolidation
+
+- 0x5cf99ea73e0ce2c706d9591c2dab722465048c2a - June 2025
+
+- EQA3IRNoSDHpDr6guzbBKYyj6tS70IAsmiixupIJ3iVJlgcJ - June 2025
 
 - bc1qzycmf4fur2ellurwpmzjay59v59cmnel95jwkg - eXch Depo (Dec 7, $100k)
 - bc1qjz6lx47a2lvakcqudt8zd92pymw7acmy79zjl2 - eXch Depo (Dec 7, $100k)
@@ -216,8 +233,3 @@ Our best guess is they don't know how @usernames, anon phone numbers work.
 - 0x4398d45bd911a2badfc146516fc8dc1239fe3ea9 - eXch Depo (Jan 15, $90k)
 - 0x7bf2443b0885f69070f0f2cff96615b9ece0b2c1 - eXch Depo (Jan 15, $90k)
 - 0x44472f33adfc0ba11b9d0cdec82e4716761ba2cb - eXch Depo (Jan 15, $90k)
-
-
-- 0x5cf99ea73e0ce2c706d9591c2dab722465048c2a - June 2025
-
-- EQA3IRNoSDHpDr6guzbBKYyj6tS70IAsmiixupIJ3iVJlgcJ - June 2025
