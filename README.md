@@ -66,8 +66,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2022 | $765,072,860       | 15          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $647,241,332       | 26          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $936,023,031       | 53          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $1,884,558,204     | 44          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,837,281,427** | **205**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2025 | $1,889,175,013     | 47          |                     |                    |                     |        |                    |              |                    |           |
+|      | **$5,841,898,236** | **208**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -321,6 +321,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 💼 | 2025-Jun-18 | [Chainsaw / Favrr](./hacks-and-thefts/favrr-chainsaw.md)                                         | $1,000,000         |
 | 🔑 | 2025-Jun-21 | [June 21 2025 Theft](./hacks-and-thefts/2025-jun-21.md)                                          | $54,000            |
 | 🎙️ | 2025-Jun-22 | [Hacken HAI Token Mint](./hacks-and-thefts/noya-ai.md)                                           | $267,000           |
+| 🔑 | 2025-Jun-26 | [June 26 2025 Theft](./hacks-and-thefts/2025-jun-26.md)                                          | $1,316,809         |
 | 🎙️ | 2025-Jun-27 | [Noya AI](./hacks-and-thefts/noya-ai.md)                                                         | $236,000           |
 | 🔑 | 2025-Jun-30 | [June 30 2025 Theft](./hacks-and-thefts/2025-jun-30.md)                                          | $1,277,499         |
 | 🔑 | 2025-Jul-04 | [July 4th 2025 Theft](./hacks-and-thefts/2025-july-04.md)                                        | $544,086           |
@@ -333,7 +334,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2025-Aug-14 | [AreonX](./hacks-and-thefts/areonx.md)                                                           | $200,000           |
 | 🔑 | 2025-Sep-01 | [OlaXBT](./hacks-and-thefts/olaxbt.md)                                                           | $2,206,525         |
 | 🔑 | 2025-Sep-01 | [Venus Whale](./hacks-and-thefts/venus-whale.md)                                                 | $27,000,000        |
-|    | **2025**    | **TOTAL**                                                                                        | **$1,884,558,204** |
+| 🔑 | 2025-Sep-09 | [JP Thor](./hacks-and-thefts/jpthor.md)                                                          | $1,300,000         |
+| 💼 | 2025-Sep-11 | [Shibarium](./hacks-and-thefts/shibarium.md)                                                     | $2,000,000         |
+|    | **2025**    | **TOTAL**                                                                                        | **$1,889,175,013** |
 
 
 
