@@ -79,7 +79,7 @@
 - 0x430f4919d679b02dca4572579caabb7676d65f1e (BlockDAG)
 
 
-## Gate Deposit Address
+## Gate Deposit Address 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
 
 - 0x87cd331d17f0d574b035a24c34d999bea94eab2a
 
@@ -103,6 +103,8 @@
 
 - 0x351c811b97e37bf18be72d58d53d234b8a4a260e - Kuma INU Related
 
+- 0x0a8eb043bf1e12b2f7ab072807de6ef4651a76b8 - WoofOracle: WFO Token
+
 - 0xa73bc4847cdd7e727efda5c6470f2c9c01b0ff06 - From StripCoin (STRIP)
 
 - 0x1ef6af310c126865288ca0918558a90ad90b2ede - Tellor?
@@ -121,11 +123,9 @@
 
 - 0xf17a28a64223ed3f9d4c777f6f090fd6c44b449f
 
-- 0x0a8eb043bf1e12b2f7ab072807de6ef4651a76b8 - WoofOracle: WFO Token
-
 - 0xf186a9ccc6209ad023b583e6c17246fdd85d578f
 
-- 0xfd40dbc86ba7da3f60538661b50c58cb087e978d -  Stone (0NE), CivFarm, SaniFarm??
+- 0xfd40dbc86ba7da3f60538661b50c58cb087e978d - Stone (0NE), CivFarm, SaniFarm??
 
 
 

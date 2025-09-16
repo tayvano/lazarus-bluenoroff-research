@@ -2543,6 +2543,131 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+## devmad119
+
+- 0x93d5785d759563b5b8eb98eaff9196dddf7179f3
+
+- 0xd93587B0fcAb0D9324cCF378d44cb985a96b5B36
+
+## sujitb2114
+
+- 0x6c88dd91de053fca915baece6868f6c32d20adea
+
+
+
+
+
+## Ikeda Okura (Favrr)
+
+- 2022
+
+- okura.ikeda0325@gmail.com
+
+- 0xeabeb8D76E27248eC35333bAdaad9219D8f5797
+
+
+
+## Ikeda Okura (Shiba Inu)
+
+- ikeda.okura@gmail.com
+
+- github.com/chainlito • [Archive](https://archive.ph/wmnFn)
+
+- woof_decentra
+
+- horaciogar
+
+- chainreactorik
+
+- teddybran
+
+- x.com/woof_decentra/
+
+- https://x.com/blackbigswan/status/1940455109114118199
+
+- 0xA221af4a429b734Abb1CC53Fbd0c1D0Fa47e1494
+
+
+
+
+
+## Victor Lee
+
+- 2024
+
+- victor3290lee@gmail.com
+
+- github.com/blue32captain
+
+- 0x50d6b6cf0066a0d3ebf321493da2e77cc40ddd8c
+
+
+
+
+
+## Santokh Veenasenan
+
+- 2022
+
+- santokh.veenasenan@gmail.com
+
+- Malaysia
+
+- t.me/saveen_master
+
+- t.me/whatis12354
+
+- github.com/savvy-bit
+
+- 0x17087F92D16049E9097413B4964663B754C1E43d
+
+
+
+
+
+## Nicolas Chi
+
+- 2024
+
+- Hong Kong
+
+- nic92047@gmail.com
+
+- 0x641279133F6F560c3f512b8E2D286Ae2C53c31EE
+
+- 0xCC8020bed135ba9eCf9312Ea0c36234A0BcEC05F
+
+
+
+
+
+## Alex Hong
+
+- 2022
+
+- USA
+
+- alexhong950503@gmail.com
+
+- alexh.engineering@gmail.com 
+
+- alex@favrr.com 
+
+- x.com/AlexHong953
+
+- eyespyrecruitment.com
+
+- 0x69EACe431fEC9E6b1535DaFA3873BB23C995Be93 
+
+- 0xdC43B90db03B575B760Ef7B401AA647881f15081
+
+- 0x3c2D3aF542D742e48Eb0454133BE4DE9eF524e10
+
+
+
+---
+
+
 
 
 
@@ -2834,31 +2959,6 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - ![](./bill-tovitt-pete-yama.png)
 
-
-
-
-
-
----
-
-
-
-
-
-
-# IFEEL.ETH & CO
-
-- github.com/chainlito • [Archive](https://archive.ph/wmnFn)
-
-- Previous Githubs:
-
-- horaciogar
-
-- chainreactorik
-
-- teddybran
-
-- https://x.com/blackbigswan/status/1940455109114118199
 
 
 
@@ -3647,9 +3747,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+
 ---
-
-
 
 
 
@@ -3658,91 +3757,77 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://www.justice.gov/usao-dc/media/1402691/dl
 
-- 0x511b9ed0b7ef9dfad519f398fdfbdf6af8356780 - Lu Huaying
+### Addresses in the Forfeiture Action
 
-- 0xb389b4b4a8a6e267ca0712321cdca5c856ef8a72 - Hyon Sop Sim
+- 0x21a2cf2b1e84d9e9a38389f797f6087d94ed3d86 - Seized Jun 08 2022 (22-sz-13) halfmooneye.eth  
+- 0xa184f953376a3c76a72a37849591ac6d8e148083 - Seized Jun 08 2022 (22-sz-13)  
+- 0xf7bc1f442d436afe5754b565bff030c281c9aa90 - Seized Jun 08 2022 (22-sz-13) vhurryharry.eth  
+- 0x7492fbbb52e58a0c3e1315f9b77a6b24e6414835 - Seized Jun 08 2022 (22-sz-13)  
+- 0x44a9dac239201def01b55dc8122ce1dc8bd55c72 - Seized Jun 08 2022 (22-sz-13) injoker.eth  
+- 0x864c8ef839dd3859820bc6bce450aee43f938178 - Seized Jun 08 2022 (22-sz-13)  
+- 0xf17cd87f477ace0bbb6fe452bb50619c42ab4d97 - Seized Jun 08 2022 (22-sz-13) arthlino  
+- 0x3709d736f2615ae8e2f429e63aa3e1494b353d94 - Seized Jun 08 2022 (22-sz-13) animealine  
+- 0xa7d2cf62487aa87ddba211d1e8dc7259be2a9a70 - Seized Mar 28 2022 (22-sz-6)  
+- 0x95d179fb2f017faadd0013f730d949ac0ac739b6 - Seized Mar 28 2022 (22-sz-6)  
+- 0xfce7c3c7717f93389577972485142e928f231dad - Seized Mar 28 2022 (22-sz-6) 
+- 0xf3F2e9391b440526D538E904C0252421eeB4B61C - Seized Mar 28 2022 (22-sz-6) 0xninjadev.eth   
+- 0x7066d17c140a64e770c7286def08c611a9cc78d4 - Seized Mar 28 2022 (22-sz-6)  
+- 0x50e7f5d0f2ba91e002c7094d844d3a8ff187e204 - Seized Mar 28 2022 (22-sz-6) elonamusk  
+- 0x3269c4c05356e511bc447da5c722e63f682243c9 - Seized Mar 28 2022 (22-sz-6) sl4rk.eth  
+- 0x53c64ec686f8235954d1df08cd975c337a8f24b2 - Seized Mar 28 2022 (22-sz-6)  
+- 0xfe035df35c6fe5578ede6267883638db7634de82 - Seized Mar 28 2022 (22-sz-6) zdao1.eth  
+- 0x67624c4c72b8989143510f9ac09a58007bf79676 - Seized Mar 28 2022 (22-sz-6)  
+- 0xdd344126c52478e8e1e7aad583e2332567afd730 - Seized Mar 28 2022 (22-sz-6)  
+- 0x6c90b98b8c5c41d615300b9ed774f85b29078ca2 - Seized Mar 28 2022 (22-sz-6) ifeel.eth, Kuma Inu Airdrop Receiver 
+- 0xa6ee3542b6ab3115be7e6445268161e0293ed7cf - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+- 0xb6bb7be73d453ed6d1141a08e444dac1356f0766 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+- 0xb41d7de2af854c17965c277feb5b55ecc596ccd8 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0x0a9afe0b6e04fd212ad7547e9798e0a7ca2ee370 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver   
+- 0x1690c80f392a8ba83e2f755b1e53dd4503738698 - Seized Mar 28 2022 (22-sz-6) dontsmile.eth, Kuma Inu Airdrop Receiver   
+- 0x5a297599c4bd1c3ef00b277f8a7369cb5b9bd157 - Seized Mar 28 2022 (22-sz-6)  
+- 0x6a643519520b875bd9ce7e882c218a6e38d8dc41 - Seized Mar 28 2022 (22-sz-6) 0xJun  
+- 0x294662cca316061a5942c7be3191b96318606781 - Seized Mar 28 2022 (22-sz-6)  
+- 0xd4004f07d7b746103f2d9b4e5b5a540864526bec - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+- 0xa09a934BA4440CFCbD0C2937a263351926919565 - Seized Mar 28 2022 (22-sz-6) 
+- bc1qrzxvnl8lr4te4hgmz2e0nn97ypq2nyvvev2ges - Seized Mar 28 2022 (22-sz-6) 
+- LKm8pewKd68MN9Rk6mAeNqSNFovvsLtCz8 - Seized Mar 28 2022 (22-sz-6) 
+- 0x81c4d8816b29147c542dDE87485608204690Acf2 - Frozen Tether Aug 30 2022 (22-sz-19) 
+- 0x815F335f976301f496167bfeF237f0622F92ac38 - Frozen Tether Aug 30 2022 Seized (22-sz-19) 
+- 0x511b9ed0b7ef9dfad519f398fdfbdf6af8356780 - Lu Huaying (OTC 1) 
+- 0x2ad9790b5116ce19b9cc59C7982A64dF0FeA84bc - OTC 2  
+- 0x4F47Bc496083C727c5fbe3CE9CDf2B0f6496270c - Hyon Sop Sim, Frozen Tether Mar 6 2023  
+- 0xb389b4b4a8a6e267ca0712321cdca5c856ef8a72 - Hyon Sop Sim, Frozen Tether Mar 6 2023 
+- 0x5707aa6944e357cea1a25ff991fb3a2e60268ab5 - Hyon Sop Sim, Frozen Tether Mar 6 2023 
+- 0x15824de78A61a8B493CCd8A48e58463536B17028 - Frozen Tether Mar 31 2023, Consolidation  
+- 0x6E2F0deAB1C358547b353342524489e32640D530 - Frozen Tether Mar 31 2023, Consolidation  
+- 0x3E24F610639e105173003EF1c47dC4DbAa33f8D7 - Frozen Tether Mar 31 2023, Consolidation  
+- 0x1c097e02bCd6cD69946663ace4bc0B115e256bAc - Frozen Tether Mar 31 2023, Consolidation  
 
-- 0x5707aa6944e357cea1a25ff991fb3a2e60268ab5 - Hyon Sop Sim
 
-- 0x4F47Bc496083C727c5fbe3CE9CDf2B0f6496270c - Hyon Sop Sim
+## Additional Information / Research
 
-- 0x2ad9790b5116ce19b9cc59C7982A64dF0FeA84bc - OTC 2
+- 0xdc421b1ee121dd8cc7f3a4fab9d1a4d000a5d67c - Govt Controlled Mar 28 2022
 
-- bc1qrzxvnl8lr4te4hgmz2e0nn97ypq2nyvvev2ges
+- 0x8e21b2bdcf4e6ac7fc5a3679b27fe6903b8dca04 - Govt Controlled Jun 08 2022
 
-- LKm8pewKd68MN9Rk6mAeNqSNFovvsLtCz8
+- 0xeabeb8d76e27248ec35333badaad9219d8f57973 - Ikeda Okura Payroll Address (FAVRR)
 
-- 0x7066D17C140a64e770c7286DeF08C611a9cC78d4
+- 0xA221af4a429b734Abb1CC53Fbd0c1D0Fa47e1494 - Shiba Inu: Deployer 1, Safe 0xeb8 Signer 1/2, Safe 0x4de1 Signer 4/4, Safe 0x40ae Signer 4/5
 
-- 0xb41d7De2AF854C17965C277fEb5B55ECc596Ccd8
+- 0xcBDDD5Ce20450931Fca5e57B2d66ecAb07AcD7c6 - Kuma Inu Deployer, Safe 0x4de1 Signer 3/4
 
-- 0xb6bb7BE73d453ed6D1141A08E444DaC1356F0766
+- 0x78e4a0c307fc2c979fa65dcf8bf4d376f30c3b8e - Doont Buy: Deployer
 
-- 0x0A9Afe0b6E04Fd212aD7547e9798E0A7Ca2EE370
+- 0x40ae99c76f257cebdaadc3923f476636711fbeaa - Safe 0x40ae (3/5), 2025 LEASH "Whitehat" Funds Holder (Note: not a whitehat)
 
-- 0x6c90b98b8C5C41D615300b9ed774F85b29078CA2 - ifeel.eth
+- 0x5c27906e98240ca6134a292b18dd58f849192175 - Shibarium Payroll Receiver "Henry"
 
-- 0xfCe7C3c7717F93389577972485142e928F231dad
+- 0x07f4098636270e197533987c4c283f5fec1c559e - MEXC of Shibarium Payroll Receiver "Henry", Also receives from [Blockbusters](../hacks-and-thefts/blockbusters.md) Hacker
 
-- 0x294662cca316061A5942c7Be3191b96318606781
 
-- 0xd4004F07D7b746103F2D9B4e5B5A540864526BEc
+- See also [../more-hacks-and-thefts/dust-collector-0xae69.md]
 
-- 0xa7D2cF62487AA87dDba211D1e8DC7259BE2a9A70
-
-- 0x5A297599c4bD1c3ef00b277f8a7369cb5b9Bd157
-
-- 0xA6Ee3542b6ab3115Be7E6445268161E0293ed7cF
-
-- 0xFe035df35C6fE5578EdE6267883638DB7634DE82 - zdao1.eth
-
-- 0x95d179FB2f017FaadD0013F730d949ac0aC739B6
-
-- 0x50e7f5d0f2bA91E002c7094d844D3A8fF187e204
-
-- 0x1690c80F392a8ba83E2f755b1E53Dd4503738698 - dontsmile.eth
-
-- 0x6A643519520b875BD9CE7E882c218A6E38d8Dc41
-
-- 0x3269C4C05356E511BC447DA5C722e63f682243C9 - sl4rk.eth
-
-- 0x67624c4C72B8989143510f9Ac09A58007bf79676
-
-- 0xdd344126c52478E8e1e7aad583E2332567Afd730
-
-- 0x53C64EC686F8235954d1dF08cD975C337A8f24B2
-
-- 0xa09a934BA4440CFCbD0C2937a263351926919565
-
-- 0xf3F2e9391b440526D538E904C0252421eeB4B61C - 0xninjadev.eth
-
-- 0x44A9DaC239201DeF01B55dC8122cE1Dc8BD55C72 - injoker.eth
-
-- 0x864C8ef839DD3859820BC6BcE450Aee43F938178
-
-- 0x21A2CF2b1E84d9E9a38389F797F6087d94Ed3d86
-
-- 0xf7bC1F442d436AFe5754b565bff030c281c9Aa90
-
-- 0x3709d736F2615aE8e2f429e63aA3e1494b353D94
-
-- 0xA184f953376A3c76A72A37849591ac6D8e148083
-
-- 0xF17Cd87f477acE0BBb6Fe452bB50619c42AB4D97
-
-- 0x7492FbBb52e58A0c3E1315f9b77a6b24e6414835
-
-- 0x81c4d8816b29147c542dDE87485608204690Acf2
-
-- 0x815F335f976301f496167bfeF237f0622F92ac38
-
-- 0x15824de78A61a8B493CCd8A48e58463536B17028 - Consolidation
-
-- 0x6E2F0deAB1C358547b353342524489e32640D530 - Consolidation
-
-- 0x3E24F610639e105173003EF1c47dC4DbAa33f8D7 - Consolidation
-
-- 0x1c097e02bCd6cD69946663ace4bc0B115e256bAc - Consolidation
+- See also [../hacks-and-thefts/shibarium.md]
 
 - ![](./alex-hong.png)
 
@@ -3761,6 +3846,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - ![](./sim-1.png)
 
 - ![](./sim-2.png)
+
+
 
 
 
