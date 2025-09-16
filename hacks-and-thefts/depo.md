@@ -6,6 +6,8 @@ Amount Stolen:: $1,723,632
 
 Tags:: 💼 DPRK IT
 
+Laundered Via:: Tornado Cash
+
 --
 
 ## Details
@@ -15,9 +17,6 @@ Tags:: 💼 DPRK IT
 - CEO of DePo protocol at his appeal stated that a previous senior employee of DePo executed `emergencyRewardWithdraw()` function at several transactions, examples:
 
 - By doing this, he stole DEPO tokens from the staking rewards wallets, sold tokens on Uniswap, and deposited ETH into Tornado Cash
-
-- Laundered Via: Tornado Cash
-
 
 He was able to invoke `emergencyRewardWithdraw()` to steal DEPO tokens, the Txn:
 

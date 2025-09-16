@@ -88,7 +88,7 @@ See Also: [../more-hacks-and-thefts/dust-collector-0xae69.md]
 - 0x139B51Bb9089196485F3fa101AAfAA406764B805 - Safe 0x4de1 Signer 2/4
 - 0xcBDDD5Ce20450931Fca5e57B2d66ecAb07AcD7c6 - Kuma Inu Deployer, Safe 0x4de1 Signer 3/4
 - 0xcbddd5ce20450931fca5e57b2d66ecab07acd7c6 - Kuma Inu Token (OLD)
-- 0x78e4a0c307fc2c979fa65dcf8bf4d376f30c3b8e - Doont Buy: Deployer
+- 0x78e4a0c307fc2c979fa65dcf8bf4d376f30c3b8e - Doont Buy: Deployer, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
 - 0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782 - Doont Buy: Token Contract
 - 0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24 - Deployed By 0xa221, Starlink (STARL) Token
 - 0x3634847577a40af0a0f592fdbcc1903720112cf6 - Deployed By 0xa221, Starlink Living Module
@@ -115,6 +115,7 @@ See Also: [../more-hacks-and-thefts/dust-collector-0xae69.md]
 - 0x8b6862db7e3171b3bbc0032dfe64889e93043c6f - Brrr de Money: Deployer
 - 0x7dd7d5ca67df3e0f5a7f004af3653444b1fcfb76 - Brrr de Money: Token
 - 0x7268b1885205ab7e31fe7c2f234eda1212e54d74 - WoofOracle: Deployer
+- 0x0a8eb043bf1e12b2f7ab072807de6ef4651a76b8 - WoofOracle: WFO Token, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
 - 0xcff78a9e35d724d4c4e39b05e57150f3bb54fdcb - WoofOracle: VPContract
 - 0x97d2fc7d16bc34121c3311f2e2e05d298c19956f - WoofOracle: WFO Token
 - 0xd3f4a5b14e0ecb8b4f35bf09ec701cb0dd293921 - WoofOracle: WNAT Contract
@@ -128,3 +129,98 @@ See Also: [../more-hacks-and-thefts/dust-collector-0xae69.md]
 - 0x1b4725d36d153effed17abdbe61359b8d731cdbe - Deployed By 0xa221, StakingRewards Contract
 - 0x27c70cd1946795b66be9d954418546998b546634 - Deployed By 0xa221, Shiba Inu LEASH Token
 - 0x966a707d9787fd5be0c38900f393f0ff86a0ac1b - Shiba Inu: Staking Rewards
+- 0xb41d7de2af854c17965c277feb5b55ecc596ccd8 - Seized Mar 28 2022 (22-sz-6), Kuma Inu Airdrop Receiver, , Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0x22f20e51d3492fd4483d2c8ce9db64da2902c43a - Kuma INU Admin EOA #2, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0x5530ee4550e28def091f568d2ee2194be83f4429 - Kuma INU Related, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0x2be46f6c48cd192be71e44e24687fd1bd60bc041 - Kuma INU Related, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0x7b8bbc4c677863e4742451272631b6636fac440b - Kuma INU Related, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0xb44a883686cc947d9f39d44e12534c88cccc4b69 - Kuma INU Related, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0xe1b5278287e25b265c016ad52d38c0f9faf16eb7 - Kuma INU Related, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0x139b51bb9089196485f3fa101aafaa406764b805 - Kuma INU Related, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0x351c811b97e37bf18be72d58d53d234b8a4a260e - Kuma INU Related, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+
+
+
+## More IT Workers Reference
+
+### Ikeda Okura (Favrr)
+
+- 2022
+
+- okura.ikeda0325@gmail.com
+
+- 0xeabeb8D76E27248eC35333bAdaad9219D8f5797
+
+
+
+### Ikeda Okura (Shiba Inu)
+
+- ikeda.okura@gmail.com
+
+- github.com/chainlito • [Archive](https://archive.ph/wmnFn)
+
+- woof_decentra
+
+- horaciogar
+
+- chainreactorik
+
+- teddybran
+
+- x.com/woof_decentra/
+
+- https://x.com/blackbigswan/status/1940455109114118199
+
+- 0xA221af4a429b734Abb1CC53Fbd0c1D0Fa47e1494
+
+
+
+###  US v. VIRTUAL CURRENCY ASSOCIATED WITH NORTH KOREAN IT WORKER MONEY LAUNDERING AND SANCTIONS EVASION CONSPIRACIES
+
+- https://www.justice.gov/usao-dc/media/1402691/dl
+
+#### Addresses in the Forfeiture Action
+
+- 0x21a2cf2b1e84d9e9a38389f797f6087d94ed3d86 - Seized Jun 08 2022 (22-sz-13) halfmooneye.eth  
+- 0xa184f953376a3c76a72a37849591ac6d8e148083 - Seized Jun 08 2022 (22-sz-13)  
+- 0xf7bc1f442d436afe5754b565bff030c281c9aa90 - Seized Jun 08 2022 (22-sz-13) vhurryharry.eth  
+- 0x7492fbbb52e58a0c3e1315f9b77a6b24e6414835 - Seized Jun 08 2022 (22-sz-13)  
+- 0x44a9dac239201def01b55dc8122ce1dc8bd55c72 - Seized Jun 08 2022 (22-sz-13) injoker.eth  
+- 0x864c8ef839dd3859820bc6bce450aee43f938178 - Seized Jun 08 2022 (22-sz-13)  
+- 0xf17cd87f477ace0bbb6fe452bb50619c42ab4d97 - Seized Jun 08 2022 (22-sz-13) arthlino  
+- 0x3709d736f2615ae8e2f429e63aa3e1494b353d94 - Seized Jun 08 2022 (22-sz-13) animealine  
+- 0xa7d2cf62487aa87ddba211d1e8dc7259be2a9a70 - Seized Mar 28 2022 (22-sz-6)  
+- 0x95d179fb2f017faadd0013f730d949ac0ac739b6 - Seized Mar 28 2022 (22-sz-6)  
+- 0xfce7c3c7717f93389577972485142e928f231dad - Seized Mar 28 2022 (22-sz-6) 
+- 0xf3F2e9391b440526D538E904C0252421eeB4B61C - Seized Mar 28 2022 (22-sz-6) 0xninjadev.eth   
+- 0x7066d17c140a64e770c7286def08c611a9cc78d4 - Seized Mar 28 2022 (22-sz-6)  
+- 0x50e7f5d0f2ba91e002c7094d844d3a8ff187e204 - Seized Mar 28 2022 (22-sz-6) elonamusk  
+- 0x3269c4c05356e511bc447da5c722e63f682243c9 - Seized Mar 28 2022 (22-sz-6) sl4rk.eth  
+- 0x53c64ec686f8235954d1df08cd975c337a8f24b2 - Seized Mar 28 2022 (22-sz-6)  
+- 0xfe035df35c6fe5578ede6267883638db7634de82 - Seized Mar 28 2022 (22-sz-6) zdao1.eth  
+- 0x67624c4c72b8989143510f9ac09a58007bf79676 - Seized Mar 28 2022 (22-sz-6)  
+- 0xdd344126c52478e8e1e7aad583e2332567afd730 - Seized Mar 28 2022 (22-sz-6)  
+- 0x6c90b98b8c5c41d615300b9ed774f85b29078ca2 - Seized Mar 28 2022 (22-sz-6) ifeel.eth, Kuma Inu Airdrop Receiver 
+- 0xa6ee3542b6ab3115be7e6445268161e0293ed7cf - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+- 0xb6bb7be73d453ed6d1141a08e444dac1356f0766 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+- 0xb41d7de2af854c17965c277feb5b55ecc596ccd8 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+- 0x0a9afe0b6e04fd212ad7547e9798e0a7ca2ee370 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver   
+- 0x1690c80f392a8ba83e2f755b1e53dd4503738698 - Seized Mar 28 2022 (22-sz-6) dontsmile.eth, Kuma Inu Airdrop Receiver   
+- 0x5a297599c4bd1c3ef00b277f8a7369cb5b9bd157 - Seized Mar 28 2022 (22-sz-6)  
+- 0x6a643519520b875bd9ce7e882c218a6e38d8dc41 - Seized Mar 28 2022 (22-sz-6) 0xJun  
+- 0x294662cca316061a5942c7be3191b96318606781 - Seized Mar 28 2022 (22-sz-6)  
+- 0xd4004f07d7b746103f2d9b4e5b5a540864526bec - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+- 0xa09a934BA4440CFCbD0C2937a263351926919565 - Seized Mar 28 2022 (22-sz-6) 
+- bc1qrzxvnl8lr4te4hgmz2e0nn97ypq2nyvvev2ges - Seized Mar 28 2022 (22-sz-6) 
+- LKm8pewKd68MN9Rk6mAeNqSNFovvsLtCz8 - Seized Mar 28 2022 (22-sz-6) 
+- 0x81c4d8816b29147c542dDE87485608204690Acf2 - Frozen Tether Aug 30 2022 (22-sz-19) 
+- 0x815F335f976301f496167bfeF237f0622F92ac38 - Frozen Tether Aug 30 2022 Seized (22-sz-19) 
+- 0x511b9ed0b7ef9dfad519f398fdfbdf6af8356780 - Lu Huaying (OTC 1) 
+- 0x2ad9790b5116ce19b9cc59C7982A64dF0FeA84bc - OTC 2  
+- 0x4F47Bc496083C727c5fbe3CE9CDf2B0f6496270c - Hyon Sop Sim, Frozen Tether Mar 6 2023  
+- 0xb389b4b4a8a6e267ca0712321cdca5c856ef8a72 - Hyon Sop Sim, Frozen Tether Mar 6 2023 
+- 0x5707aa6944e357cea1a25ff991fb3a2e60268ab5 - Hyon Sop Sim, Frozen Tether Mar 6 2023 
+- 0x15824de78A61a8B493CCd8A48e58463536B17028 - Frozen Tether Mar 31 2023, Consolidation  
+- 0x6E2F0deAB1C358547b353342524489e32640D530 - Frozen Tether Mar 31 2023, Consolidation  
+- 0x3E24F610639e105173003EF1c47dC4DbAa33f8D7 - Frozen Tether Mar 31 2023, Consolidation  
+- 0x1c097e02bCd6cD69946663ace4bc0B115e256bAc - Frozen Tether Mar 31 2023, Consolidation  

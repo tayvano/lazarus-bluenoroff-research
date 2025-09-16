@@ -3757,6 +3757,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - https://www.justice.gov/usao-dc/media/1402691/dl
 
+- 1:25-cv-01769
+
 ### Addresses in the Forfeiture Action
 
 - 0x21a2cf2b1e84d9e9a38389f797f6087d94ed3d86 - Seized Jun 08 2022 (22-sz-13) halfmooneye.eth  
