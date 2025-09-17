@@ -65,9 +65,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2021 | $536,800,000       | 19          | $506,000,000        | 11                 | $428,800,000        | 9      | $250,000,000       | n/a          | $175,600,000       | 6         |
 | 2022 | $765,072,860       | 15          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $647,241,332       | 26          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
-| 2024 | $936,023,031       | 53          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
+| 2024 | $936,318,031       | 53          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
 | 2025 | $1,889,175,013     | 47          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,841,898,236** | **208**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+|      | **$5,842,193,236** | **208**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -271,7 +271,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2024-Sep-25 | [Truflation](./hacks-and-thefts/Truflation.md)                                                   | $5,000,000         |
 | 🍎 | 2024-Oct-16 | [Radiant](./hacks-and-thefts/radiant.md)                                                         | $58,000,000        |
 | 🎙️ | 2024-Oct-18 | [Tapioca](./hacks-and-thefts/tapioca.md)                                                         | $4,700,000         |
-| 🔑 | 2024-Oct-18 | [Fake Hack VC Thefts](./hacks-and-thefts/hack-vc.md)                                             | $77,000            |
+| 🔑 | 2024-Oct-18 | [Fake Hack VC Thefts](./hacks-and-thefts/hack-vc.md)                                             | $372,000           |
 | 🔑 | 2024-Oct-23 | [Theft from Individual M4](./hacks-and-thefts/m4.md)                                             | $1,400,000         |
 | 🎙️ | 2024-Oct-30 | [Bitbucket Dev Scam](./hacks-and-thefts/gglab-mvp--v1.md)                                        |                    |
 | 🎙️ | 2024-Oct-31 | [Scallop](./hacks-and-thefts/scallop.md)                                                         | $165,000           |
@@ -287,7 +287,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2024-Dec-16 | [SyFu](./hacks-and-thefts/syfu.md)                                                               | $890,000           |
 | 🔑 | 2024-Dec-18 | [Rainfi](./hacks-and-thefts/rainfi.md)                                                           | $1,600,000         |
 | 🔑 | 2024-Dec-30 | [Napier Founder](./hacks-and-thefts/napier.md)                                                   | $500,000           |
-|    | **2024**    | **TOTAL**                                                                                        | **$936,023,031**   |
+|    | **2024**    | **TOTAL**                                                                                        | **$936,318,031**   |
 |    |             |                                                                                                  |                    |
 | 🎙️ | 2025-Jan-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
 | 🔑 | 2025-Jan-20 | [Unknown Jan 2025](./hacks-and-thefts/jan2025.md)                                                | $1,700,000         |

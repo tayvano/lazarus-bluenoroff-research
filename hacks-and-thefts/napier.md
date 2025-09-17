@@ -15,6 +15,38 @@ Tags:: 🔑
 
 Found onchain because I'm insane and wanted to know when SQSQ first started fucking around with PT/YT and instead found a SQSQ theft. Whoops.
 
+- Access was gained by October 4th, 2024
+
+- Hack was executed December 30th, 2024 (when positions were ready)
+
+
+
+---
+
+## Onchain
+
+- 0x4d4da4ad60b35d1baa44951db99f3900ea008a73 - Theft
+
+- 0x1d2066b07c3160a486e6a58c4b2eeaf6db016333 - ChangeNOW
+
+- 0xaf23f023f9f78c2a29809beef890251eca25343b - ChangeNOW
+
+- 0xc52373851cc78ade9d65d9c3316dd9eacaedcdff - ChangeNOW
+
+- 0xa8e7ee1584a3e440f283e413f4a817ff75a9cc55 - ChangeNOW
+
+- 0x2db43843bc812c18a8c8d89178804fe5ad582e8c - ChangeNOW
+
+- 0xa0d01b799621a067ed1c6ecbb28f7579bda3d3e4 - ChangeNOW
+
+- 0x7028f8a74e525e333c1d6228e80505f7b967c3f7 - ChangeNOW
+
+- 0x24295938c49a757e6dabd5a743268625e93bd025 - ChangeNOW
+
+- 0x1451853779a073c6d7b678d3932ef529c41d8bf7 - ChangeNOW
+
+
+
 
 
 #### DPRK IT Worker connection
@@ -85,39 +117,5 @@ Even more intersting is his resume also lists ANKR as a prior employer. LOLRIP.
 - 2024-Jul-01 - $6,970
 - 2024-Jul-31 - $7,029
 
-- Access was gained by October 4th, 2024
 
 ![](../images/napier-hacker.png)
-
-
-
-- Hack was executed December 30th, 2024 (when positions were ready)
-
-
-
----
-
-## Onchain
-
-- 0x4d4da4ad60b35d1baa44951db99f3900ea008a73 - Theft
-
-- 0x1d2066b07c3160a486e6a58c4b2eeaf6db016333 - ChangeNOW
-
-- 0xaf23f023f9f78c2a29809beef890251eca25343b - ChangeNOW
-
-- 0xc52373851cc78ade9d65d9c3316dd9eacaedcdff - ChangeNOW
-
-- 0xa8e7ee1584a3e440f283e413f4a817ff75a9cc55 - ChangeNOW
-
-- 0x2db43843bc812c18a8c8d89178804fe5ad582e8c - ChangeNOW
-
-- 0xa0d01b799621a067ed1c6ecbb28f7579bda3d3e4 - ChangeNOW
-
-- 0x7028f8a74e525e333c1d6228e80505f7b967c3f7 - ChangeNOW
-
-- 0x24295938c49a757e6dabd5a743268625e93bd025 - ChangeNOW
-
-- 0x1451853779a073c6d7b678d3932ef529c41d8bf7 - ChangeNOW
-
-
-
