@@ -2,7 +2,7 @@
 
 Date:: September 9th, 2025
 
-Amount Stolen:: $1,300,000
+Amount Stolen:: $2,435,000
 
 Tags:: 🔑
 
@@ -110,7 +110,8 @@ Another person targetted by fake Rena:
 
 - 0x7973d39be58c61e9b9257cc660aee5f565e973da - Near Intents Depo
 - 0x374ceee19d49589c307207d80eba1698c25c4dca - Near Intents Depo
-- 0x6b6b99fe0e07faf85175588b63fc72b6d460bcb2 - Service Depo
+- 0x2837bD30577D1374a5418B4c1c2b6b9749284Bc6 - Near Intents Depo
+- 0x6b6b99fe0e07faf85175588b63fc72b6d460bcb2 - HitBTC Depo
 - 0x19f9e44e113bea269330ece219cc3a5f2d4127d6 - HTX
 - 0x1ab2e36f6a0e8e180d836199958eb76a4dc885b5 - Gate
 - 0x0f7616c3f074673f9eba719071bf4a1c087476bb - Bitget
@@ -124,6 +125,18 @@ Another person targetted by fake Rena:
 - 0x28e3a9f4bcb79fb803e88cff3530e3b38b815709 - Unknown Service
 - 0x957d8ec8ea1e8dbf9aa4c75cbe6681ba2101ef88 - Unknown Service
 
+- 0x9cc9a8fe6ee45e890e5168622bd6e9fed9d951f7 - Theft (Sept 15)
+- 0xff2cd87a7a9cad5621dafa18d692a2eba795d828 - Theft
+- 0xa4491e8b313b1f6ae7457b3ccb221df27a8b2b26 - Theft
+
+- bnb1z8pdtduepmhnnag672g3y8zxwk6kx9hyap3gyu - Victim
+- bnb15umuwjaxymmhdyjujpnxwakywh2ra25knsszsh - Victim
+- 0x83f385c1afaa82d6267d7ced849dcb85d0f96608 - FF Deposit
+- 0x1e2afd94cec831a456b75b0198b544017e09f9c5 - Theft
+- 0xbb3a46dd04e1ca0e59d73e55a4184b80e920858a - Theft
+- 0x73f452858c88bda6e87a657d7ed2ed0e0cdbc7f7 - Theft / Holding $1.135 from BNB
+
+
 
 - 0x66844e1651e9aee73fdf8633902702682b8cdf9e - Gas Funder?
 - 0xcbcd040651e80bb4fcfe685d54852181c9819d7f - From Gate
@@ -134,6 +147,7 @@ Another person targetted by fake Rena:
 - 0xb35e98fc16b1c517dd758a6c6a565139b99259ed - Testing?
 - 0x4d05600d1cad7d668dec2c5ccc8da7ed244225a8 - Testing? Dormant.
 - 0xacdf9f722a0ee9d584da3790714c625659fa5b3a - OKX Depo
+
 
 
 ## Timeline
@@ -150,7 +164,11 @@ Another person targetted by fake Rena:
 
 2025-09-10 09:15 - Done for the day
 
+2025-09-10 12:54 - loljk withdraw BNB (0x1e2afd94cec831a456b75b0198b544017e09f9c5)
+
 2025-09-12 12:38 - More Cleanup
+
+2025-09-17 13:08 - BNB Moves
 
 
 
@@ -179,5 +197,14 @@ Another person targetted by fake Rena:
 - 2025-09-12 08:38 - 10 ETH (Withdrawal via 0x7abc)
 - 2025-09-12 08:39 - 10 ETH (Withdrawal via 0x7abc)
 - 2025-09-12 08:41 - 10 ETH (Withdrawal via 0x7abc)
+
+
+
+
+
+
+
+
+
 
 
