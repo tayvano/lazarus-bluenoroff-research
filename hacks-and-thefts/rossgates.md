@@ -8,6 +8,8 @@ Amount Stolen:: $150,000
 
 Tags:: 🔑
 
+G:: 382609
+
 ---
 
 ## Details
@@ -42,11 +44,3 @@ Overlaps with [JP Thor](./jpthor.md)
 - bc1qky9mtplnplmwzpmd7tf26qkemzcqlt4ursqmq8 - FF Depo
 - 0x07d150441f6a10c9dc12eae4a4f17f6e471936be - Sideshift Depo
 - 0x9463f95dcf69480f0c6274cdb70313ac31bc71c5 - Sideshift Depo
-
-- 0x9978c0c5a370e2efa179eab42ef0f8533f56407f - Theft? Aug 6
-- 0x9ac0e9e5db0952b66fb129685569caf36d8ab81d - Theft? Aug 6
-- 0x46535f15301542d72ceb37774d8b40ef7a65c3a2 - Theft? Aug 6
-- 0xd5c7c7c03adc841c9619d2618a8834bec5117337 - FF Depo Aug 6
-- 0xabcf3746d3d33e21c75d69bfba5fcc5d6a79607a - FF Depo Aug 6
-
-

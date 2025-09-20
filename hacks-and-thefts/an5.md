@@ -8,6 +8,8 @@ Amount Stolen:: $420,000
 
 Tags:: 🔑
 
+G:: 382609
+
 --
 
 
@@ -15,7 +17,7 @@ Tags:: 🔑
 
 - 0xadb70b39a1bb4df6317add9356dcf17ed3aaf8a9 - Victim
 
-- 0x3292e900c4ce6e03de34e3e6723045fe03c84e38 - Direct Theft
+- 0x3292e900c4ce6e03de34e3e6723045fe03c84e38 - Primary Theft
 
 - 0x99f88917210aab027056c4d714f4fafccf663237 - Theft
 

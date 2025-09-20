@@ -9,7 +9,6 @@ Amount Stolen::
 Tags:: 🔑
 
 
-
 ---
 
 ## Details
@@ -23,8 +22,10 @@ Tags:: 🔑
 
 ## Onchain
 
-- bc1qgaj8smw5xshswlq4uk7qd0kmlhfta8mhw8jh0s (bitcoin)
+- bc1qgaj8smw5xshswlq4uk7qd0kmlhfta8mhw8jh0s - Bitcoin
 
-- SP2417H88DQFN7FNDMSKM9N0B3Q6GNGEM40W7ZAZW (stacks)
+- SP2417H88DQFN7FNDMSKM9N0B3Q6GNGEM40W7ZAZW - stacks
+
+- bc1qwfnhmwpth429l7xmgnej2gdx2frlpe8s28qc4c - Maybe?
 
 
