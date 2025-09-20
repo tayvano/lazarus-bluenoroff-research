@@ -66,7 +66,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2022 | $765,072,860       | 15          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $647,241,332       | 26          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $936,318,031       | 53          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $1,889,175,013     | 47          |                     |                    |                     |        |                    |              |                    |           |
+| 2025 | $1,891,040,013     | 50          |                     |                    |                     |        |                    |              |                    |           |
 |      | **$5,842,193,236** | **208**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
@@ -331,12 +331,16 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2025-Jul-23 | [Malicious Blackbaud Moon Monkey Repo](./hacks-and-thefts/blackbaud.md)                          | $120,000           |
 | 👛 | 2025-Jul-24 | [WOO X](./hacks-and-thefts/woox.md)                                                              | $14,038,066        |
 | 🎙️ | 2025-Aug-11 | [Unknown Canadian Victim](./hacks-and-thefts/canada-theft.md)                                    | $250,000           |
+| 🔑 | 2025-Aug-13 | [Rena](./hacks-and-thefts/rena.md)                                                               |                    |
 | 🎙️ | 2025-Aug-14 | [AreonX](./hacks-and-thefts/areonx.md)                                                           | $200,000           |
 | 🔑 | 2025-Sep-01 | [OlaXBT](./hacks-and-thefts/olaxbt.md)                                                           | $2,206,525         |
 | 🔑 | 2025-Sep-01 | [Venus Whale](./hacks-and-thefts/venus-whale.md)                                                 | $27,000,000        |
-| 🔑 | 2025-Sep-09 | [JP Thor](./hacks-and-thefts/jpthor.md)                                                          | $1,300,000         |
+| 🔑 | 2025-Sep-09 | [JP Thor](./hacks-and-thefts/jpthor.md)                                                          | $2,435,000         |
+| 🔑 | 2025-Sep-06 | [Individual AN5](./hacks-and-thefts/an5.md)                                                      | $420,000           |
 | 💼 | 2025-Sep-11 | [Shibarium](./hacks-and-thefts/shibarium.md)                                                     | $2,000,000         |
-|    | **2025**    | **TOTAL**                                                                                        | **$1,889,175,013** |
+| 🔑 | 2025-Sep-19 | [Ross Gates](./hacks-and-thefts/rossgates.md)                                                    | $150,000           |
+| 🔑 | 2025-Sep-19 | [Sep 19 Theft](./hacks-and-thefts/2025-09-19.md)                                                 | $160,000           |
+|    | **2025**    | **TOTAL**                                                                                        | **$1,891,040,013** |
 
 
 

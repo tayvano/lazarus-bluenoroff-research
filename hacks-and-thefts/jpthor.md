@@ -2,6 +2,8 @@
 
 Date:: September 9th, 2025
 
+Time:: 
+
 Amount Stolen:: $2,435,000
 
 Tags:: 🔑
@@ -11,8 +13,7 @@ Tags:: 🔑
 
 ## Details
 
-Persona: Fake Rena (Stacks ecosystem)
-
+Persona: Fake [Rena](./rena.md) (Stacks ecosystem)
 
 > Got targeted AGAIN on my workstation. 
 > Noticed a weird pop up which I dismissed. Immediately heard the Finder “download” sound (like you hear when copying files). 
@@ -135,7 +136,6 @@ Another person targetted by fake Rena:
 - 0x1e2afd94cec831a456b75b0198b544017e09f9c5 - Theft
 - 0xbb3a46dd04e1ca0e59d73e55a4184b80e920858a - Theft
 - 0x73f452858c88bda6e87a657d7ed2ed0e0cdbc7f7 - Theft / Holding $1.135 from BNB
-
 
 
 - 0x66844e1651e9aee73fdf8633902702682b8cdf9e - Gas Funder?
