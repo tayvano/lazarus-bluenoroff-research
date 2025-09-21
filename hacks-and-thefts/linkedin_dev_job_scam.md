@@ -1,8 +1,10 @@
 # Theft via Linkedin Job Test
 
-Date: February 1st, 2024
+Date:: February 1st, 2024
 
-Tags: 🎙️ Contagious Interview
+Amount Stolen:: 
+
+Tags:: 🎙️ Contagious Interview
 
 ---
 
