@@ -40,7 +40,7 @@ Overlaps a fuckload with [Sololabs](./sololabs.md)
 
 - 0x0738c5bf93f5ac20bc01637e4a094df1e4cbd9ef - Theft/Laundry
 
-- 0x7a28c433a22403ef3d35259c8da544d7857aa839 - Leftovers
+- 0x7a28c433a22403ef3d35259c8da544d7857aa839 - Leftovers (Also Sololabs)
 
 - 0x7a1cdbabc5e13f4e6f57379369112200fa4e6458 - Dust 
 
@@ -54,14 +54,20 @@ Overlaps a fuckload with [Sololabs](./sololabs.md)
 
 - 5x100ETH + 1x10ETH
 
-- 2025-09-02 12:47 - 100 ETH
+- 2025-09-02 12:47 - 100 ETH Deposit
 
-- 2025-09-02 13:04 - 100 ETH
+- 2025-09-02 13:04 - 100 ETH Deposit
 
-- 2025-09-02 13:05 - 100 ETH
+- 2025-09-02 13:05 - 100 ETH Deposit
 
-- 2025-09-02 13:06 - 100 ETH
+- 2025-09-02 13:06 - 100 ETH Deposit
 
-- 2025-09-02 13:08 - 100 ETH
+- 2025-09-02 13:08 - 100 ETH Deposit
 
-- 2025-09-02 13:51 - 10 ETH 
+- 2025-09-02 13:48 - 0.1 ETH Withdrawal
+
+- 2025-09-02 13:51 - 10 ETH  Deposit
+
+- 2025-09-02 14:28 - 0.1 ETH Withdrawal
+
+- 2025-09-02 14:29 - 0.1 ETH Withdrawal

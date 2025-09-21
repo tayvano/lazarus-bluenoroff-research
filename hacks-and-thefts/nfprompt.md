@@ -4,7 +4,7 @@ Date:: March 13th, 2024
 
 Amount Stolen:: $17,000,000
 
-Tags: 🔑
+Tags:: 🔑
 
 ---
 
@@ -119,7 +119,7 @@ In total, we have attributed approximately $10.4 million lost to this exploit.
 - 0xd4f726547a6148f0d4b993db6c1f0087d6360850 - Consolidation
 - 0x79b49668dfeb3855d27c0863076b02a773453154 - Consolidation
 - 0x1af6ad7f04c54e637843714777510a64ddd34ce9 - Dormant Dust
-- 0x604e460df7261bbd8ce7cc3f226b38fa91bab78c - Theft from Gate/Kucoin Apr 24 2024
+- 0x604e460df7261bbd8ce7cc3f226b38fa91bab78c - Theft from Gate/Kucoin 2024-04-24
 - 0x737e2336e1b6584aa278c5a65fb0ff14a8d51d14 - Theft, From Gate, Bybit, etc
 - 0x5768f1f40ca22e1927172e89732630ac4f7ebc97 - Theft/Laundry - 2025-02-25
 - 0xe1cd6ccc6ed146748ddc403a5fc859c8399f51f1 - Theft/Laundry - 2025-06-14
