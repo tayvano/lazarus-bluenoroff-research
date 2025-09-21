@@ -10,11 +10,21 @@ Tags:: 💼
 
 See Also: [DPRK IT Workers](../dprk-it-workers/readme.md)
 
-See Also: [../more-hacks-and-thefts/dust-collector-0xae69.md]
+See Also: [Dust Collector 0xae69](../more-hacks-and-thefts/dust-collector-0xae69.md)
 
 
 
 ## Details
+
+- https://blog.shib.io/shibarium-bridge-security-update/
+
+- https://x.com/buzzdefi0x/status/1966658844517421132
+
+- https://x.com/MRShimamoto/status/1966636041839751284
+
+- https://x.com/TikkalaResearch/status/1966612282710057328
+
+- https://x.com/0xZilayo/status/1966785029968724351
 
 
 
@@ -174,6 +184,135 @@ See Also: [../more-hacks-and-thefts/dust-collector-0xae69.md]
 - 0xA221af4a429b734Abb1CC53Fbd0c1D0Fa47e1494
 
 
+### More Ecosystem Reference
+
+- 0x38e1d4314a38c60C6ab3b98b0a89a4411D839d44 - MULTISIG ADDRESS
+- 0x399EC033EE08241512212a4C388a76C9d3aB1c00 - @OMEGA_HYPERION
+- 0xBab4F3e701F6d2e009Af3C7f1eF2e7dD68225E96 - @KAAL DHAIRYA
+- 0x80e32DEfc16ce8f78d09E6ef7065AfE031bAcab7 - @HYROSHI_KIPA
+- 0x6948cBbEa74549062050a164d8fc4cFF27E82084 - @JUNE_HORLA
+- 0xe166c948b8aED157575B6792019cdeE8a5177dcE - @SISLEY_ARGONAUT
+- 0x4267A3aD7d20c2396ebb0Fe72119984F7073761C - MULTISIG EMERGENCY ADDRESS
+- 0x8E1B6Af660C14f5CC28727f23fCcBC977bd89B6B - @COUNTER_NOMAD
+- 0x6b162Bc637bAAe0DAC38c200D9727fc679a0cCE4 - @SHINATO SAMA
+- 0x30f45F7b08164D2Dd38D9Cdd8509b1E580432d04 - @MISS_PHOENIX_SHIB
+- 0x5D471E3a033EaF7eE0cA303405978Da4c2cdAD33 - @BURF_DURF
+
+- [Source: @imrjcyka](https://x.com/imrjcyka/status/1949935318158753889)
+
+
+### Okura Ikeda
+- woof_decentra
+- chainlito
+- ikeda.okura@gmail.com
+- okura@fantom.foundation
+- t.me/iamwoofdecentra 7090088079 formerly: @litooracle (Mar 2024-June 2024)
+- github.com/chainlito
+- https://archive.ph/wmnFn
+- Shiba Inu: Deployer 1 0xA221af4a429b734Abb1CC53Fbd0c1D0Fa47e1494
+
+### Chainlito fka Horacio Garzon
+- horaciogar
+- horaciorafaelg30
+- 2020-07-10 thru 2020-08-24
+
+### Chainlito fka chainreactorik
+- 2020-08-25 thru 2020-09-15
+
+### Chainlito fka Teddy Brandon Lee
+- teddybran
+- 2022-09-19 thru 2023-07-11
+- https://github.com/chainlito/personal-portfolio/commit/4d046a985d563ed7c52a3d3940526da862589939
+- https://web.archive.org/web/20221206184327/https://github.com/teddybran
+
+### Chainlito fka Ryan
+- 2022-09-29
+- https://github.com/chainlito/personal-portfolio/commit/d7cc900a9254ae7c6bbeb198b012e13f523c0ee0
+- https://www.coindesk.com/tech/2024/10/02/how-north-korea-infiltrated-the-crypto-industry
+
+### Chainlito
+- 2020-09-21 thru today
+
+### KUMA INU $KUMA
+- May 2021
+- https://x.com/KumaInuOfficial
+- https://x.com/boatnudlez/status/1670252215079174144 
+- https://x.com/boatnudlez/status/1670252217306333184
+- https://x.com/woof_decentra/status/1405495555850051587
+
+### Starlink Pixelnauts $STARL 
+- June 2021
+- https://x.com/StarLinkETH
+- https://x.com/woof_decentra/status/1460895558558642177
+- https://x.com/boatnudlez/status/1670252210838720512
+- https://x.com/woof_decentra/status/1489439400451018757
+- https://x.com/woof_decentra/status/1461695689927258116
+- https://x.com/reza83947393/status/1516444395129688072
+
+### UNLEASH $LEASH 
+- Oct 2021
+- https://x.com/boatnudlez/status/1670252199019163649
+- https://t.me/Unleash_Club_Official
+- https://x.com/woof_decentra/status/1448110780818198529
+- https://x.com/reza83947393/status/1516444395129688072
+
+### DOONT BUY $DBUY
+- August 2021
+- https://x.com/DoontBuy/status/1456414414517719040
+- https://x.com/boatnudlez/status/1670252221865562113
+- https://x.com/DoontBuy
+- https://t.me/bookofwoofportal
+- https://x.com/DoontBuy/status/1449002537802215424/photo/1
+- https://x.com/DoontBuy/status/1425652766723170310
+- https://x.com/woof_decentra/status/1425492097776246791
+
+### $INUL / ifeel.eth
+- Oct 2022
+- https://x.com/tokidok30293601/status/1585525668900532224
+- https://x.com/tokidok30293601/status/1585478194500497408
+
+### WOOFORACLE $WFO
+- Mar 2024
+- wooforacle.com
+- https://t.me/wooforacles
+- https://x.com/WFOracle
+- https://x.com/woof_decentra/status/1773525879588602292
+- https://t.me/wooforacles/33
+- 0x97D2FC7d16BC34121c3311f2e2E05D298c19956f - COntract
+
+### KANJI
+- June 2024
+- https://kanjicoin.xyz
+- https://t.me/kanjiclub
+- https://t.me/kanjiclubchinese
+- 0x29b422869400baaf4988d5f3de3a81babb9d2cfb - Dev
+- https://x.com/woof_decentra/status/1800467730434564102
+
+### BRRR DE MONEY
+- November 2024
+- brrrdemoney.com
+- https://t.me/brrrdemoney
+- https://x.com/Brrrr_de_money
+- https://x.com/woof_decentra/status/1866494731472998652/photo/1
+- 0x7dd7d5ca67df3e0f5a7f004af3653444b1fcfb76 - Contract
+- 0x8b6862DB7e3171b3BBc0032dfE64889e93043C6F - Deployer
+- https://etherscan.io/tx/0xf4a51a5287502d52deeee464ea8d5a322b809ba31207677871d3e525ac47ffe3
+
+### DOGES
+- April 2025
+- https://t.me/Doges_Official
+- https://doges.vip
+- https://x.com/doges_coin_eth
+- 0x31228541a744f68083d7be409bff3f3a9e8b7371
+- https://x.com/woof_decentra/status/1915445459109204424
+
+### MOCHIPET Comments
+- https://x.com/JRXL_1000/status/1463887412275388421/photo/2
+
+### Ryoshi Addresses (not dprk)
+- https://x.com/kedar_real/status/1949854079049408942
+
+
 
 ###  US v. VIRTUAL CURRENCY ASSOCIATED WITH NORTH KOREAN IT WORKER MONEY LAUNDERING AND SANCTIONS EVASION CONSPIRACIES
 
@@ -181,7 +320,9 @@ See Also: [../more-hacks-and-thefts/dust-collector-0xae69.md]
 
 #### Addresses in the Forfeiture Action
 
-- 0x21a2cf2b1e84d9e9a38389f797f6087d94ed3d86 - Seized Jun 08 2022 (22-sz-13) halfmooneye.eth  
+- 0xdc421b1ee121dd8cc7f3a4fab9d1a4d000a5d67c - Govt Controlled Mar 28 2022
+- 0x8e21b2bdcf4e6ac7fc5a3679b27fe6903b8dca04 - Govt Controlled Jun 08 2022
+- 0x21a2cf2b1e84d9e9a38389f797f6087d94ed3d86 - Seized Jun 08 2022 (22-sz-13) halfmooneye.eth polka-boy
 - 0xa184f953376a3c76a72a37849591ac6d8e148083 - Seized Jun 08 2022 (22-sz-13)  
 - 0xf7bc1f442d436afe5754b565bff030c281c9aa90 - Seized Jun 08 2022 (22-sz-13) vhurryharry.eth  
 - 0x7492fbbb52e58a0c3e1315f9b77a6b24e6414835 - Seized Jun 08 2022 (22-sz-13)  
@@ -192,7 +333,7 @@ See Also: [../more-hacks-and-thefts/dust-collector-0xae69.md]
 - 0xa7d2cf62487aa87ddba211d1e8dc7259be2a9a70 - Seized Mar 28 2022 (22-sz-6)  
 - 0x95d179fb2f017faadd0013f730d949ac0ac739b6 - Seized Mar 28 2022 (22-sz-6)  
 - 0xfce7c3c7717f93389577972485142e928f231dad - Seized Mar 28 2022 (22-sz-6) 
-- 0xf3F2e9391b440526D538E904C0252421eeB4B61C - Seized Mar 28 2022 (22-sz-6) 0xninjadev.eth   
+- 0xf3F2e9391b440526D538E904C0252421eeB4B61C - Seized Mar 28 2022 (22-sz-6) 0xninjadev.eth BlockchainNinja
 - 0x7066d17c140a64e770c7286def08c611a9cc78d4 - Seized Mar 28 2022 (22-sz-6)  
 - 0x50e7f5d0f2ba91e002c7094d844d3a8ff187e204 - Seized Mar 28 2022 (22-sz-6) elonamusk  
 - 0x3269c4c05356e511bc447da5c722e63f682243c9 - Seized Mar 28 2022 (22-sz-6) sl4rk.eth  
@@ -207,7 +348,7 @@ See Also: [../more-hacks-and-thefts/dust-collector-0xae69.md]
 - 0x0a9afe0b6e04fd212ad7547e9798e0a7ca2ee370 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver   
 - 0x1690c80f392a8ba83e2f755b1e53dd4503738698 - Seized Mar 28 2022 (22-sz-6) dontsmile.eth, Kuma Inu Airdrop Receiver   
 - 0x5a297599c4bd1c3ef00b277f8a7369cb5b9bd157 - Seized Mar 28 2022 (22-sz-6)  
-- 0x6a643519520b875bd9ce7e882c218a6e38d8dc41 - Seized Mar 28 2022 (22-sz-6) 0xJun  
+- 0x6a643519520b875bd9ce7e882c218a6e38d8dc41 - Seized Mar 28 2022 (22-sz-6) 0xJun Waifusion#4346 Hexagon#814
 - 0x294662cca316061a5942c7be3191b96318606781 - Seized Mar 28 2022 (22-sz-6)  
 - 0xd4004f07d7b746103f2d9b4e5b5a540864526bec - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
 - 0xa09a934BA4440CFCbD0C2937a263351926919565 - Seized Mar 28 2022 (22-sz-6) 

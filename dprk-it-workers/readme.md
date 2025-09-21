@@ -178,7 +178,19 @@
 - https://x.com/zachxbt/status/1940388827392344261
 
 
+### Adjancent
 
+- 0x4Cd0dCD8EB96E8F02273e9Ca02F2D937A3b48418 lfgdegen smarterdegen.crypto
+
+- 0x51C4463eFfCef15F161a0324Cb43c87BA8118F37 maymax777
+
+- 0xe14aBb8585A2904A2C06c2A76F6402E9B3a8F48A cryptomuh
+
+- 0xde49340DB099c2157F29Dd1ee9Ac27188Ac16fD4 devil1117
+
+- 0xcF2001A16B69543fD4BFb54f1d4528b6c5307a3b TheNextHype
+
+- 0x9FF251fD3363632626E96CE5ccC82CEe6C80A732 let-it-go, thunderspeed.eth
 
 
 
@@ -405,9 +417,9 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xaa166aa0b46fb42fdaafb7ac351a00186d684837
 
-- 0xb1aa3027d1cbf578009bb3c09c84481b76ad43f1 (MAYBE!)
+- 0xb402b45dde5e15ce93809404c104c2fc4918c88c 
 
-- 0xb402b45dde5e15ce93809404c104c2fc4918c88c (Probably)
+- 0xb1aa3027d1cbf578009bb3c09c84481b76ad43f1 (MAYBE!)
 
 - [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
 
@@ -438,6 +450,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - aka: Greg Takeo Joe Hisaishi mtfuji25 borrdd34 kazunetakeda25
 
 - associates: David Adachi / David Lucas, Pham Trung, Sadao Eiichi Murano, Sadao Elichi, Charles Lee Gordon / David Tanaka, Eric Soh, John Wilhelmson, zhmolly zhmoly zzmoly jwtradera realhardworkingdeveloper davidtanaka3 ericsoh10
+
+- 0xf9b9e7209d7297ae58d1c87636957015e3259651 os:kazunetakeda25
 
 - 0xba4c58cf3f601ea8297bf9c08058bb1a4bd62921
 
@@ -775,15 +789,13 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x6188a9e76794e7cb337b8e5a2b91808ce34fc6d1
 
-- 0x44A33a4a822194d3C8402629932dd88B0FF49b09
+- 0x44A33a4a822194d3C8402629932dd88B0FF49b09 CryptoUnity Deployer
 
-- 0xe6c2d1d7f6ee9e4ee9f8b865d9b5931c06c9c7d1
+- 0xe6c2d1d7f6ee9e4ee9f8b865d9b5931c06c9c7d1 os:murano1205
 
 - 0xca3b78831a101a6d6d0a153653483e3c9a90948f
 
 - 0xc8ad881deb9c02039795c111f2e661894b026ab0 (maybe?)
-
-- 0xf9b9e7209d7297ae58d1c87636957015e3259651 (maybe?)
 
 - [Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
 
@@ -2557,19 +2569,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-## Ikeda Okura (Favrr)
-
-- 2022
-
-- okura.ikeda0325@gmail.com
-
-- 0xeabeb8D76E27248eC35333bAdaad9219D8f5797
-
-
-
 ## Ikeda Okura (Shiba Inu)
 
 - ikeda.okura@gmail.com
+
+- okura.ikeda0325@gmail.com
 
 - github.com/chainlito • [Archive](https://archive.ph/wmnFn)
 
@@ -2587,6 +2591,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0xA221af4a429b734Abb1CC53Fbd0c1D0Fa47e1494
 
+- 0xeabeb8D76E27248eC35333bAdaad9219D8f57973
 
 
 
@@ -3786,10 +3791,10 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0xb41d7de2af854c17965c277feb5b55ecc596ccd8 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
 - 0x0a9afe0b6e04fd212ad7547e9798e0a7ca2ee370 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver   
 - 0x1690c80f392a8ba83e2f755b1e53dd4503738698 - Seized Mar 28 2022 (22-sz-6) dontsmile.eth, Kuma Inu Airdrop Receiver   
-- 0x5a297599c4bd1c3ef00b277f8a7369cb5b9bd157 - Seized Mar 28 2022 (22-sz-6)  
-- 0x6a643519520b875bd9ce7e882c218a6e38d8dc41 - Seized Mar 28 2022 (22-sz-6) 0xJun  
+- 0x5a297599c4bd1c3ef00b277f8a7369cb5b9bd157 - Seized Mar 28 2022 (22-sz-6) Kuma, Bone
+- 0x6a643519520b875bd9ce7e882c218a6e38d8dc41 - Seized Mar 28 2022 (22-sz-6) 0xJun, jun.eth  
 - 0x294662cca316061a5942c7be3191b96318606781 - Seized Mar 28 2022 (22-sz-6)  
-- 0xd4004f07d7b746103f2d9b4e5b5a540864526bec - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+- 0xd4004f07d7b746103f2d9b4e5b5a540864526bec - Seized Mar 28 2022 (22-sz-6) 0xcno.eth, Kuma Inu Airdrop Receiver 
 - 0xa09a934BA4440CFCbD0C2937a263351926919565 - Seized Mar 28 2022 (22-sz-6) 
 - bc1qrzxvnl8lr4te4hgmz2e0nn97ypq2nyvvev2ges - Seized Mar 28 2022 (22-sz-6) 
 - LKm8pewKd68MN9Rk6mAeNqSNFovvsLtCz8 - Seized Mar 28 2022 (22-sz-6) 
