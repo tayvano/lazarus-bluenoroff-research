@@ -4,7 +4,7 @@ Date:: October 20th, 2018
 
 Amount Stolen:: $9m-$11m
 
-Tags: CEX Hack, "Inside Job"
+Tags:: CEX Hack, "Inside Job"
 
 ---
 

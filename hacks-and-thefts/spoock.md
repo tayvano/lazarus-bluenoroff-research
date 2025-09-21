@@ -1,10 +1,10 @@
 # Theft from Individual SPooCK
 
-Date: August 17th, 2023
+Date:: August 17th, 2023
 
-Amount Stolen: $38,362
+Amount Stolen:: $38,362
 
-Tags: 🎙️ Contagious Interview
+Tags:: 🎙️ Contagious Interview
 
 
 ---

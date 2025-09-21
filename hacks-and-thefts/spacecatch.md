@@ -4,7 +4,7 @@ Date:: May 28th, 2024
 
 Amount Stolen:: $200,000
 
-Tags: 🎙️ Contagious Interview
+Tags:: 🎙️ Contagious Interview
 
 ---
 

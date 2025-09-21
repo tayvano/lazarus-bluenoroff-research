@@ -4,7 +4,7 @@ Date:: March 13th, 2024
 
 Amount Stolen:: $309,400 (91.83996612 ETH)
 
-Tags: 🎙️ Contagious Interview
+Tags:: 🎙️ Contagious Interview
 
 ---
 

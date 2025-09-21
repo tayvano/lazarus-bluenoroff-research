@@ -11,7 +11,7 @@ Tags:: ⁉️
 
 ## Details
 
-BitoPro Statement & Progress Update: June 19, 2025
+BitoPro Statement & Progress UpDate:: June 19, 2025
 
 This statement provides an update on the security incident that occurred on May 9, 2025. Our internal security team and a third-party professional cybersecurity firm conducted a comprehensive, month-long investigation. Based on the forensic report issued on June 11, 2025, preliminary findings confirm no internal personnel involvement. Furthermore, the attack methodology bears resemblance to patterns observed in multiple past international major incidents, including illicit transfers from global bank SWIFT systems and asset theft incidents from major international cryptocurrency exchanges. These attacks are attributed to the North Korean hacking organization 'Lazarus Group.'
 

@@ -4,7 +4,7 @@ Toke Exploit Date:: May 5, 2024
 
 Original Key Compromise Date:: January 25th, 2024
 
-Tags: 🎙️ Contagious Interview
+Tags:: 🎙️ Contagious Interview
 
 Amount Stolen:: $1,262,630
 

@@ -6,13 +6,17 @@ Time:: 5:12 UTC - 6:57 UTC
 
 Amount Stolen:: $150,000
 
-Tags:: 🔑
+Tags:: 🔑 MATES
 
 G:: 382609
 
 ---
 
 ## Details
+
+Persona:: Fake Erstling Micah
+
+Call in July
 
 Overlaps with [JP Thor](./jpthor.md)
 

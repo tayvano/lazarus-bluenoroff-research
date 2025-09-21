@@ -4,7 +4,7 @@ Date:: November 10, 2023
 
 Amount Stolen:: $200,000 67 ETH on ETH here 0x0c6256ee8e5627e3db68825b563dc483b892dd8f, Maybe more?
 
-Tags: 🎙️ Contagious Interview
+Tags:: 🎙️ Contagious Interview
 
 
 ---

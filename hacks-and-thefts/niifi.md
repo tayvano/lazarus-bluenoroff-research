@@ -2,6 +2,8 @@
 
 Date:: September 19th, 2024
 
+Amount Stolen:: ⁉️
+
 Tags:: 🎙️ Contagious Interview
 
 ---
@@ -20,7 +22,7 @@ Tags:: 🎙️ Contagious Interview
 - 0x69d91e56ca80f2a4d7b808b59053ea5c5505ffe2 - Tapioca Hack
 
 
-# Security Incident Update: NII Token Reissue and NIIFI Token Swap
+# Security Incident UpDate:: NII Token Reissue and NIIFI Token Swap
 
 https://medium.com/nahmii/security-incident-update-nii-token-reissue-and-niifi-token-swap-9e54b08bfe48
 

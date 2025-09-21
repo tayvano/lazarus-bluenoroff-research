@@ -8,21 +8,6 @@ Tags:: 🎙️ Contagious Interview
 
 ---
 
-
-## Onchain
-
-- 0x6552679f5d35cf214f2eef52379d8a789d42dbea Victim
-
-- 0x3c780F5cBF94De3EFCec964Af928D08c4508EeBE Token Contract
-
-- https://snowscan.xyz/tx/0xabe0fee5135f551db35de37bde87b527be68932b72f60b090f8d90be4fbb21e6 Transfer Ownership
-
-- 0xa38981f220f64334424733d5fe778702ab878748 Malicious Owner
-
-- 0xa38981f220f64334424733d5fe778702ab878748 Theft
-
-
-
 ## Details
 
 - https://t.me/SpaceMokeez/159692
@@ -57,7 +42,7 @@ SpaceM Announcement channel, [6/3/25 2:40 AM]
 
 SpaceM Announcement channel, [6/3/25 3:46 AM]
 
-> 🚨 Community Update: Platform Actions for Security
+> 🚨 Community UpDate:: Platform Actions for Security
 > In response to the recent security breach, we have taken additional urgent steps to protect the ecosystem:
 > 🔒 Trading, deposits, and withdrawals of $SPACEM have been temporarily suspended on both LBank and MEXC
 > 🛠 Access to dapp.spacem.world is also suspended as a precaution
@@ -77,4 +62,18 @@ SpaceM Announcement channel, [6/3/25 12:08 PM]
 > Your trust matters. We’re focused on protecting it.
 > Thank you for standing with us.❤️
 > Tweet: https://x.com/SpaceMworld/status/1929978230112411775
+
+
+
+## Onchain
+
+- 0x6552679f5d35cf214f2eef52379d8a789d42dbea - Victim
+
+- 0x3c780F5cBF94De3EFCec964Af928D08c4508EeBE - Token Contract
+
+- 0xa38981f220f64334424733d5fe778702ab878748 - Malicious Owner
+
+- 0xa38981f220f64334424733d5fe778702ab878748 - Theft
+
+- https://snowscan.xyz/tx/0xabe0fee5135f551db35de37bde87b527be68932b72f60b090f8d90be4fbb21e6 Transfer Ownership
 

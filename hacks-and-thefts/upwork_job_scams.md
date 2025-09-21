@@ -1,18 +1,19 @@
 # Upwork Crypto Developer Job Scams
 
-Date: December 28, 2023
+Date:: December 28, 2023
 
-Amount Stolen: $550
+Amount Stolen:: $550
 
-Tags: 🎙️ Contagious Interview
+Tags:: 🎙️ Contagious Interview
 
 ---
 
+##Details
 
 The following is related to exploits with SPooCK, OKX Dex, UnoRe DAO, Arbi, Terraport, etc. etc.
 
-## Onchain
 
+## Onchain
 
 - 0xde14bf6088bf7320687910c657aa78883dbd47c2 (Victim)
 
@@ -23,8 +24,8 @@ The following is related to exploits with SPooCK, OKX Dex, UnoRe DAO, Arbi, Terr
 - 0xd8f5c2d55f11ca0e8763019350ab7e77cbe9c425
 
 
-## Further Reading
 
+## Further Reading
 
 - https://bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/
 

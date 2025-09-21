@@ -1,10 +1,10 @@
 # OKX Dex
 
-Date: December 12, 2023
+Date:: December 12, 2023
 
 Amount Stolen:: $2,390,976 (142k USDT + 475k USDC + 799.77 WETH)
 
-Tags: 🎙️ Contagious Interview
+Tags:: 🎙️ Contagious Interview
 
 ---
 
@@ -41,6 +41,7 @@ The proxy admin owner upgraded the DEX proxy contract to a new implementation co
 
 
 ## Onchain
+
 - 0x70cbb871e8f30fc8ce23609e9e0ea87b6b222f58 - OKX DEX Contract (Victim)
 - 0xf85f008fe404d4d2cc2196175e1328545f47b8cd - OKX DEX Compromised Key
 - 0x0d8fd76cedccc2b386972cad7fa567daa1fd70a1 - OKX DEX Compromised Key
@@ -109,13 +110,14 @@ The proxy admin owner upgraded the DEX proxy contract to a new implementation co
 - 0xedb868e95c2d123d264be2b02bf4a19f891f87f6
 
 
-Malicious Transactions:
+### Malicious Transactions
+
 - https://etherscan.io/tx/0x7a9c03576158b08bd896293fffcb11dd2fcc09c3d896335affee9968b4a1db5c
 - https://etherscan.io/tx/0x78bfe55b18e53513b5c17869f39cc9cc21f3d6d2b6b44d1ceb9762789449dcd2
 - https://etherscan.io/tx/0xf69cf6cc56849be0ee93e8651fdf3622639b7a99e1a620c744f3fef8a5743236
 
 
-## Deposits to Railgun
+### Deposits to Railgun
 
 - 0xd8f5c2d55f11ca0e8763019350ab7e77cbe9c425 $130k (Upwork / npm)
 - 0xa62dbc185b8983eb5df4984414ba3f3562361e06 $80k (OKX Dex)
@@ -135,7 +137,7 @@ Malicious Transactions:
 
 - Total Accounted For: $751k
 
-## Withdrawals from Railgun
+### Withdrawals from Railgun
 
 - 0x956cfd206dd1bd2b684efb969ec11713b476a9b7 $45k
 - 0xccbbf5dbd0570a56594bd1cfa58b8fec8953fcbb $61k

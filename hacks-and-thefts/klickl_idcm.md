@@ -4,8 +4,9 @@ Amount Stolen:: $620,000 (1,725 ETH)
 
 Date:: August 9th, 2018
 
-Tags: Unreported, Private Key Compromise, ICO Theft
+Tags:: Unreported, Private Key Compromise, ICO Theft
 
+---
 
 ## Onchain
 

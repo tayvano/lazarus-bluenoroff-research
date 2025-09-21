@@ -2,16 +2,16 @@
 
 Date:: January 14th, 2019
 
-Amount Stolen: $16,000,000
+Amount Stolen:: $16,000,000
 
-Note: Technically, 2 hacks in 2 weeks
-
+Tags:: 
 
 ---
 
 
 ## Details
 
+Technically, 2 hacks in 2 weeks
 
 In early 2019, US$17 million in Ethereum and ERC-20 tokens were stolen from the New Zealand cryptocurrency exchange Cryptopia, affecting around 960,000 Cryptopia users. 
 
@@ -19,7 +19,7 @@ It all started with Cryptopia users having difficulty accessing their accounts, 
 
 The exact amount stolen in the hack is still unknown. Unfortunately for Cryptopia, they suffered from another hack 15 days after the first one. That was the end of the New Zealand-based exchange – they are now going through the liquidation process. 
 
-2020 Update: Cryptopia is still undergoing liquidation, but it has now been revealed that the exchange was failing to meet anti-money laundering (AML) requirements when creating new user accounts. For over 900,000 active user accounts, there is no customer data beyond usernames and email addresses. 
+2020 UpDate:: Cryptopia is still undergoing liquidation, but it has now been revealed that the exchange was failing to meet anti-money laundering (AML) requirements when creating new user accounts. For over 900,000 active user accounts, there is no customer data beyond usernames and email addresses. 
 
 Less than 1% of users had completed customer identification, a vital part of AML procedures which ensures that customers are who they say they are. Thousands of accounts which held over $3 million worth of cryptocurrency were traced back to uninhabited islands or physical addresses that didn’t exist. As it stands, many of those who lost funds in the hack aren’t eligible to be refunded by liquidators because there is not enough information on who owned what accounts. "
 
