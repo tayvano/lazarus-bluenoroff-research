@@ -6,7 +6,7 @@ Time:: 10:03, 00:59, 00:22
 
 Amount Stolen:: more than $963,000
 
-Tags:: 🔑 SQSQ
+Tags:: 🔑
 
 G:: 382634
 

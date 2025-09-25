@@ -58,14 +58,22 @@ G:: 382713
 
 - 0x862582153dd1a92580c0fa96cdc801d2b81b9512 - ChangeNOW Depo
 
+- 0xf08637333134cAb849e186819160261e0bE7A4DB - Theft / Holding
+
 
 ## Timeline
 
 - 2025-07-31 - Call
 
-- 2025-08-06 15:30 - Theft
+- 2025-08-06 15:20 - Theft
 
-- 2025-08-07 2:02 - Consolidate + Swap for DAI
+- 2025-08-06 17:41 - Theft
+
+- 2025-08-07 02:02 - Consolidate + Swap for DAI
+
+- 2025-08-07 05:58 - Dust
+
+- 2025-09-12 06:35 - More Dust
 
 
 

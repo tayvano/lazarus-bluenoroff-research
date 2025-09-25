@@ -8,6 +8,8 @@ Amount Stolen:: $27,000,000 (minus $3,000,000 used for the position)
 
 Tags:: 🔑, POS
 
+G:: 382712
+
 ---
 
 ## Details

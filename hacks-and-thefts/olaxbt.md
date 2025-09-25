@@ -2,11 +2,13 @@
 
 Date:: September 1st, 2025
 
-Time:: 6:59 UTC
+Time:: 6:52 UTC
 
 Amount Stolen:: $2,206,525 / 32 million AIO tokens
 
-Tags:: 🔑 SQSQ
+Tags:: 🔑
+
+G:: 382634
 
 ---
 
@@ -47,6 +49,13 @@ Overlaps a fuckload with [Sololabs](./sololabs.md)
 - 0x7b51893f43ba5a2361afaf0b15423a8c45f87739 - Gas from Tornado 
 
 
+## Timeline
+
+- 2025-09-01 6:52 UTC - Theft Starts
+
+- 2025-09-01 15:02 UTC - Done
+
+- 2025-09-02 12:47 UTC - Laundry / TC
 
 
 
