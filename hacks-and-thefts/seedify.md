@@ -55,17 +55,40 @@ https://x.com/zachxbt/status/1970488338529558795
 
 ## Onchain
 
-- 0x9ccAdC790EDAbF89664f6F509a81D827C116D80b - Theft
-- 0xda1d99d3b891678c9d5D16Efc0fdb6A098d21698 - Theft
-- 0x14181636dd5BC8C6b8b47F8D0fd1b1e351B84bE4 - Theft
-- 0x28c71c57f806fb674d9fa9d1fd47056b8d3da8bb - Theft
-- 0xba5126f3f5dedd02cac8a16fb5c79d94526f719e - Theft
-- 0x747afb5c7a7fc34b547cd0fdebf9b91759c5a52b - Theft
-- 0x0693181206e7d8832e6086ecb61191b663525925 - Theft
-- 0x29315c178765495d5035ef4f5b363b48f32874e1 - Theft
-- 0x2b9fb5571bf1082f5db5b16cb136fd138414a1c6 - Theft
-- 0x7b550bf2b89a0a4b81b16deceea9ae4395f49d16 - Theft
-- TAuwk3N5mZWAwnbrgK67znj8BLv23RZevY - Theft
+- 0x9ccadc790edabf89664f6f509a81d827c116d80b
+
+- 0x28c71c57f806fb674d9fa9d1fd47056b8d3da8bb
+
+- 0xba5126f3f5dedd02cac8a16fb5c79d94526f719e
+
+- 0x747afb5c7a7fc34b547cd0fdebf9b91759c5a52b
+
+- 0x0693181206e7d8832e6086ecb61191b663525925
+
+- 0x6e1c7652c3fd9c19e9026dbb9a4d8895134432ff
+
+- 0xda1d99d3b891678c9d5d16efc0fdb6a098d21698 - Theft/Holding ($309,159)
+
+- 0x2b9fb5571bf1082f5db5b16cb136fd138414a1c6 - Theft/Holding ($262,929)
+
+- 0x14181636dd5bc8c6b8b47f8d0fd1b1e351b84be4 - Theft/Holding ($236, 352)
+
+- 0x7b550bf2b89a0a4b81b16deceea9ae4395f49d16 - Theft/Holding ($235,461)
+
+- 0xb8f022118c39803548d738a5bfe06103b80999b7 - Theft/Holding ($200, 128)
+
+- 0xc20ad213db3543282cc61734ce242288c0cbcd5b - Theft/Holding ($182,162)
+
+- 0x2e3a05a4dab5914ada7da187c085ede3d8f5f108 - Theft/Holding ($172,872)
+
+- 0x7df541f8897195619efb6c892fee449634e9910f - Theft/Holding ($48,128)
+
+- 0x29315c178765495d5035ef4f5b363b48f32874e1 - Theft/Holding ($1,761)
+
+- 0xda2142378e6db3423965c14de6f5d0876c69af0a - Theft (Comingled)
+
+- TAuwk3N5mZWAwnbrgK67znj8BLv23RZevY - Theft (Comingled)
+
 
 
 ## Further Reading
