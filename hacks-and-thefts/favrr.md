@@ -1,49 +1,116 @@
-# ChainSaw / Favrr
+# Favrr
 
-Date:: June 18, 2025
+Date:: June 25th, 2025
 
-Time:: 04:25-18:20 UTC
+Amount Stolen:: $650,000
 
-Amount Stolen:: $1,000,000
+Tags:: 💼 
 
-Tags:: 💼 DPRK ITW
 
 ---
+
+## Background
+
+Peplicator and Replicandy were both 24-hour generative NFT minting events created by Matt Furie, leveraging smart contract technology to create unique, 1-of-1 digital collectibles. Technically, both projects operated on a system that allowed users to generate (“respin”) randomized artwork combinations—built from pre-designed visual layers—until they found a version they wanted to mint. Each final minted NFT was recorded on-chain as a unique asset.
+
+The minting contracts were coded to remain open only during a strict 24-hour window—Peplicator from March 8–9 and Replicandy from June 17–18. Once this window closed, minting was permanently disabled and the collection supply was locked forever. This time-bound mechanic ensured scarcity and exclusivity, a common practice in generative art drops to maintain long-term value.
+
 
 ## Note
 
-— This is entirely ZachXBT's work and research. I've just copy/pasted.
-
-- Source = https://x.com/zachxbt/status/1938598925004607629
+— This is 99.9% ZachXBT's work and research. I added some additional tracing + OSINT.
 
 
----
 
 
-## Onchain
 
-- 0x9Fca3AC75cd66f3c62bea8231886513b9fe191BD - Primary
-
-- 0xf6a9349c54d51f7f76bbd2afd755b5dd75e617ee - Chainsaw Thefts
-
-- 0x7e580f916a8e93871b72a694407fb7d790de96a6 - Chainsaw Thefts
-
-- 0x58f4299465b261e79713e5c78a7629cd656aed36 - Chainsaw Thefts
-
-- 0xf87fbc5e8fff065b413d3d48932b6fb5585d93d5 - MEXC Depo
-
-- 0x93d5785d759563b5b8eb98eaff9196dddf7179f3 - DPRK ITW 1 devmad119 
-
-- 0x6c88dd91de053fca915baece6868f6c32d20adea - DPRK ITW 2 sujitb2114 
-
-- 0x477d13ee1e1304292d270bfac1aa496902e6851f - Another, different DPRK ITW consolidation
-
-- 0x17087f92d16049e9097413b4964663b754c1e43d - Favrr ITW 1 
-
-- 0x641279133f6f560c3f512b8e2d286ae2c53c31ee - Favrr ITW 2 
+## IT Workers + Payroll Addresses
 
 
-## ZachXBT's Details
+
+Favrr ITW 1 - Santokh Veenasenan
+
+- 0x17087f92d16049e9097413b4964663b754c1e43d - Payroll
+
+- 0x477d13ee1e1304292d270bfac1aa496902e6851f - Another DPRK ITW consolidation
+
+- github.com/savvy-bit
+
+- santokh.veenasenan@gmail.com
+
+
+
+Favrr ITW 2 - Nicolas Chi
+
+- 0x641279133f6f560c3f512b8e2d286ae2c53c31ee - Payroll
+
+- 0xCC8020bed135ba9eCf9312Ea0c36234A0BcEC05F - Payroll
+
+- 0xe826c702c35d728315351aec9e93bcf461989de6 - Gate
+
+- 0x21b75888c19eef98c3a8a16efd8f0cb4ba9cf24b - Gate
+
+- 0xab7cd6714cc78ad46592628e79392a5b863f6b6a - Gate
+
+- nic92047@gmail.com
+
+
+
+Favrr ITW 3 - Alex Hong 2
+
+- 0x69EACe431fEC9E6b1535DaFA3873BB23C995Be93 - Payroll
+
+- 0xdC43B90db03B575B760Ef7B401AA647881f15081 - Payroll
+
+- 0x3c2D3aF542D742e48Eb0454133BE4DE9eF524e10 - Payroll
+
+- 0xc5abde4ce8c5740f4bad62c3b05e4da31d229659 - See https://chollima-group.io/posts/dubai-crypto-moonstonesleet-pivot-odyssey
+
+- x.com/AlexHong953
+
+- alexhong950503@gmail.com
+
+- alexh.engineering@gmail.com 
+
+- alex@favrr.com
+
+
+
+Favrr ITW 4 - Ikeda Okura
+
+- 0xeabeb8D76E27248eC35333bAdaad9219D8f5797 - Payroll
+
+- 0x6c90b98b8c5c41d615300b9ed774f85b29078ca2 - ifeel.eth, DPRK IT: 1:25-cv-01769
+
+- Ikeda Okura is also chainlito aka woof_decentra
+
+- 01769 Mar 28 2022, ifeel.eth
+
+- okura.ikeda0325@gmail.com
+
+
+
+Favrr ITW 5 - Victor Lee
+
+- 0x50D6B6cF0066A0d3eBF321493da2E77CC40Ddd8C - Payroll
+
+- victor3290lee@gmail.com
+
+- github.com/blue32captain 
+
+
+
+## Further Reading
+
+- https://twitter.com/zachxbt/status/1938598925004607629
+
+- https://twitter.com/favrr_market/status/1938135850375655511
+
+- https://quadrigainitiative.com/casestudy/favrrmarketinsidertechnicalissueduringdexlisting.php
+
+
+
+## ZachXBT's Thread
 
 1/  Multiple projects tied to Pepe creator Matt Furie & ChainSaw as well as another project Favrr were exploited in the past week which resulted in ~$1M stolen
 
