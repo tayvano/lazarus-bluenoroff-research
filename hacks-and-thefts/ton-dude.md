@@ -6,7 +6,7 @@ Time:: 12:54 UTC–17:52 UTC
 
 Amount Stolen:: $14,000,000
 
-Tags:: 🔑 SquidSqaud - Fake VCs
+Tags:: 🔑
 
 ---
 

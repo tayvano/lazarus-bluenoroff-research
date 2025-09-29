@@ -8,7 +8,7 @@ Date of Laundry:: November 11th, 2024
 
 Time:: 01:48 UTC
 
-Tags:: 🔑 SquidSquad
+Tags:: 🔑
 
 ---
 

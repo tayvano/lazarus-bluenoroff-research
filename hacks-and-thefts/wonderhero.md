@@ -6,7 +6,7 @@ Amount Stolen:: $1,025,000
 
 Laundered Via:: Tornado Cash
 
-Tags:: 🔑 SquidSquad, Infinite Mint, Dust Collectors
+Tags:: 🔑, Infinite Mint, Dust Collectors
 
 
 ---

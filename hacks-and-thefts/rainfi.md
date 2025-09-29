@@ -6,7 +6,7 @@ Time:: 15:11
 
 Amount Stolen:: $2,009,331
 
-Tags:: 🔑 SquidSquad
+Tags:: 🔑
 
 ---
 

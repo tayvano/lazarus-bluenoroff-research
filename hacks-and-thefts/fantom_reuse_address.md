@@ -6,7 +6,7 @@ Time:: 18:00-4:00, break, 10:00
 
 Amount Stolen:: $3,200,000
 
-Tags:: 🔑 SquidSquad
+Tags:: 🔑
 
 ---
 

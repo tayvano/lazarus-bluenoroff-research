@@ -4,7 +4,7 @@ Date:: October 8th, 2021
 
 Amount Stolen:: $24,100,000
 
-Tags:: 🔑 SquidSquad
+Tags:: 🔑
 
 
 ---

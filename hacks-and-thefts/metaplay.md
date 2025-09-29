@@ -355,68 +355,68 @@ https://t.me/MetaPlayAnn/1528 ([Archive](https://archive.ph/heGaF))
 
 - ![](../dprk-it-workers/jikun-liao.png)
 
-- ![](../images/2022-01-11_metaplay-itw_00.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_00.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_01.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_01.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_02.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_02.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_03.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_03.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_04.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_04.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_05.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_05.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_06.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_06.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_07.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_07.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_08.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_08.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_09.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_09.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_10.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_10.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_11.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_11.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_12.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_12.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_13.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_13.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_14.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_14.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_15.jpg)
+- ![](../images/2022-01-11_IT_Metaplay_15.jpg)
 
-- ![](../images/2022-01-11_metaplay-itw_16.png)
+- ![](../images/2022-01-11_IT_Metaplay_16.png)
 
-- ![](../images/2022-01-11_metaplay-itw_17.png)
+- ![](../images/2022-01-11_IT_Metaplay_17.png)
 
-- ![](../images/2022-01-11_metaplay-itw_18.png)
+- ![](../images/2022-01-11_IT_Metaplay_18.png)
 
-- ![](../images/2022-01-11_metaplay-itw_19.png)
+- ![](../images/2022-01-11_IT_Metaplay_19.png)
 
-- ![](../images/2022-01-11_metaplay-itw_20.png)
+- ![](../images/2022-01-11_IT_Metaplay_20.png)
 
-- ![](../images/2022-01-11_metaplay-itw_21.png)
+- ![](../images/2022-01-11_IT_Metaplay_21.png)
 
-- ![](../images/2022-01-11_metaplay-itw_22.png)
+- ![](../images/2022-01-11_IT_Metaplay_22.png)
 
-- ![](../images/2022-01-11_metaplay-itw_23.png)
+- ![](../images/2022-01-11_IT_Metaplay_23.png)
 
-- ![](../images/2022-01-11_metaplay-itw_24.png)
+- ![](../images/2022-01-11_IT_Metaplay_24.png)
 
-- ![](../images/2022-01-11_metaplay-itw_25.png)
+- ![](../images/2022-01-11_IT_Metaplay_25.png)
 
-- ![](../images/2022-01-11_metaplay-itw_26.png)
+- ![](../images/2022-01-11_IT_Metaplay_26.png)
 
-- ![](../images/2022-01-11_metaplay-itw_27.png)
+- ![](../images/2022-01-11_IT_Metaplay_27.png)
 
-- ![](../images/2022-01-11_metaplay-itw_28.png)
+- ![](../images/2022-01-11_IT_Metaplay_28.png)
 
-- ![](../images/2022-01-11_metaplay-itw_29.png)
+- ![](../images/2022-01-11_IT_Metaplay_29.png)
 
-- ![](../images/2022-01-11_metaplay-itw_30.png)
+- ![](../images/2022-01-11_IT_Metaplay_30.png)
 
-- ![](../images/2022-01-11_metaplay-itw_31.png)
+- ![](../images/2022-01-11_IT_Metaplay_31.png)
 
-- ![](../images/2022-01-11_metaplay-itw_32.png)
+- ![](../images/2022-01-11_IT_Metaplay_32.png)

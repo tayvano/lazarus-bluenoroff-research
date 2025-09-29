@@ -180,47 +180,47 @@ The employee clearly felt something about this person/interaction was sus. But h
 
 One of the most notable things about this case is that the threat actor reached out to multiple technical employees at the same company simultaneously:
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-1.png)
+![](../images/2024-03-25_TR_verity-job-scammer-1.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-2.png)
+![](../images/2024-03-25_TR_verity-job-scammer-2.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-3.png)
+![](../images/2024-03-25_TR_verity-job-scammer-3.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-4.png)
+![](../images/2024-03-25_TR_verity-job-scammer-4.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-5.png)
+![](../images/2024-03-25_TR_verity-job-scammer-5.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-6.png)
+![](../images/2024-03-25_TR_verity-job-scammer-6.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-7.png)
+![](../images/2024-03-25_TR_verity-job-scammer-7.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-8.png)
+![](../images/2024-03-25_TR_verity-job-scammer-8.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-9.png)
+![](../images/2024-03-25_TR_verity-job-scammer-9.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-10.png)
+![](../images/2024-03-25_TR_verity-job-scammer-10.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-11.png)
+![](../images/2024-03-25_TR_verity-job-scammer-11.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-12.png)
+![](../images/2024-03-25_TR_verity-job-scammer-12.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-13.png)
+![](../images/2024-03-25_TR_verity-job-scammer-13.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-14.png)
+![](../images/2024-03-25_TR_verity-job-scammer-14.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-15.png)
+![](../images/2024-03-25_TR_verity-job-scammer-15.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-16.png)
+![](../images/2024-03-25_TR_verity-job-scammer-16.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-17.png)
+![](../images/2024-03-25_TR_verity-job-scammer-17.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-18.png)
+![](../images/2024-03-25_TR_verity-job-scammer-18.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-19.png)
+![](../images/2024-03-25_TR_verity-job-scammer-19.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-20.png)
+![](../images/2024-03-25_TR_verity-job-scammer-20.png)
 
-![](../images/2024-03-25_TRTR_verity-job-scammer-21.png)
+![](../images/2024-03-25_TR_verity-job-scammer-21.png)
 
 
 ### Victims

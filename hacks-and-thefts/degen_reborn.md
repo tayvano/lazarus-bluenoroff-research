@@ -4,7 +4,7 @@ Date:: December 10th, 2023
 
 Amount Stolen:: $164,000
 
-Tags:: 🔑 SquidSquad
+Tags:: 🔑
 
 ---
 

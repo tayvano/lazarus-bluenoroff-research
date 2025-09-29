@@ -87,16 +87,15 @@ Even more intersting is his resume also lists ANKR as a prior employer. LOLRIP.
 
 - https://www.studocu.com/in/document/indian-institute-of-technology-banaras-hindu-university-varanasi/introduction-to-computer-programming/resume-mauro-liu-0523/69508678
 
-- ![](../images/mauroliu77-chamel92-01.png)
-
-- ![](../images/mauroliu77-chamel92-02.png)
-
 - Truflation Payroll: 0xc9b46489567684aafbe85e8a783bb9bfb822807f
 
 - Napier Payroll: 0x147ed0f4d0cc9f0cf4eff223aa79b2f837532d62
 
 - Another Payoll: 0x39143cc85d4cf0e31849987aa9f68c621282820c (catanet.eth)
 
+- ![](../images/2024-12-30_IT_mauroliu77-chamel92-01.png)
+
+- ![](../images/2024-12-30_IT_mauroliu77-chamel92-02.png)
 
 
 ### Payroll Dates
@@ -116,4 +115,4 @@ Even more intersting is his resume also lists ANKR as a prior employer. LOLRIP.
 - 2024-Jul-31 - $7,029
 
 
-![](../images/napier-hacker.png)
+![](../images/2024-12-30_SQ_napier-hacker.png)

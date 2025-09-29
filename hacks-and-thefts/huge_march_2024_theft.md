@@ -4,7 +4,7 @@ Date:: March 20th, 2024
 
 Amt Stolen:: $90,000,000
 
-Tags:: 🔑 SquidSquad
+Tags:: 🔑
 
 
 ----
