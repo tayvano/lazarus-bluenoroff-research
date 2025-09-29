@@ -9,26 +9,27 @@ Tags:: 💼
 
 ---
 
-## Background
-
-Peplicator and Replicandy were both 24-hour generative NFT minting events created by Matt Furie, leveraging smart contract technology to create unique, 1-of-1 digital collectibles. Technically, both projects operated on a system that allowed users to generate (“respin”) randomized artwork combinations—built from pre-designed visual layers—until they found a version they wanted to mint. Each final minted NFT was recorded on-chain as a unique asset.
-
-The minting contracts were coded to remain open only during a strict 24-hour window—Peplicator from March 8–9 and Replicandy from June 17–18. Once this window closed, minting was permanently disabled and the collection supply was locked forever. This time-bound mechanic ensured scarcity and exclusivity, a common practice in generative art drops to maintain long-term value.
-
 
 ## Note
 
-— This is 99.9% ZachXBT's work and research. I added some additional tracing + OSINT.
+This is mostly ZachXBT's work and research. I've just copy/pasted.
+
+- [Source: zachxbt](https://x.com/zachxbt/status/1938598925004607629)
 
 
+## Background
+
+- Favrr Marketplace is a dynamic and gamified platform where users can buy, trade, and hold digital assets called FAVEs, which represent popular people, places, trends, and even foods. Positioned as the “Fandom Exchange,” Favrr allows users to financially engage with their passions as if they were stocks, using a unique trading mechanism based on cultural and social relevance rather than traditional financial metrics.
+
+- The core experience begins with the Initial Fan Offering (IFO)—Favrr’s version of an IPO—where users can claim FAVEs before they are open to public trading. Once the IFO ends, these FAVEs can be traded using FAV points, the platform's utility currency. This setup encourages strategic trading similar to a stock market, with the goal of growing one’s FAV portfolio and outperforming other users. Assets range from real-life figures like Elon Musk or Marie Curie to pop culture icons, cities, animals, and trending concepts like “Unicorns” or “Pizza.”
+
+- [Source: quadrigainitiative](https://quadrigainitiative.com/casestudy/favrrmarketinsidertechnicalissueduringdexlisting.php)
 
 
-
-## IT Workers + Payroll Addresses
-
+## Onchain
 
 
-Favrr ITW 1 - Santokh Veenasenan
+#### Favrr ITW 1 - Santokh Veenasenan
 
 - 0x17087f92d16049e9097413b4964663b754c1e43d - Payroll
 
@@ -40,7 +41,7 @@ Favrr ITW 1 - Santokh Veenasenan
 
 
 
-Favrr ITW 2 - Nicolas Chi
+#### Favrr ITW 2 - Nicolas Chi
 
 - 0x641279133f6f560c3f512b8e2d286ae2c53c31ee - Payroll
 
@@ -56,7 +57,7 @@ Favrr ITW 2 - Nicolas Chi
 
 
 
-Favrr ITW 3 - Alex Hong 2
+#### Favrr ITW 3 - Alex Hong 2
 
 - 0x69EACe431fEC9E6b1535DaFA3873BB23C995Be93 - Payroll
 
@@ -76,7 +77,7 @@ Favrr ITW 3 - Alex Hong 2
 
 
 
-Favrr ITW 4 - Ikeda Okura
+#### Favrr ITW 4 - Ikeda Okura
 
 - 0xeabeb8D76E27248eC35333bAdaad9219D8f5797 - Payroll
 
@@ -90,7 +91,7 @@ Favrr ITW 4 - Ikeda Okura
 
 
 
-Favrr ITW 5 - Victor Lee
+#### Favrr ITW 5 - Victor Lee
 
 - 0x50D6B6cF0066A0d3eBF321493da2E77CC40Ddd8C - Payroll
 
