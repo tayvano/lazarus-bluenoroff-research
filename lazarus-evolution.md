@@ -1,6 +1,6 @@
 # The Sprawling Shitshow of Ever-Evolving DPRK Threat Groups (and their names)
 
-### DTEX 2025
+### DTEX 2025 Org Chart
 
 ![](./images/2025-05-14_dtex-org-chart.png)
 
@@ -9,23 +9,20 @@
 - https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf
 
 
-
-### Mandiant
+### Mandiant Org Chart
 
 ![](./images/mandiant-2023-dprk-cyber-org.jpg)
 
 - [Organizational Map of DPRK Cyber Operations (2022)](https://mandiant.com/resources/mapping-dprk-groups-to-government)
-
 - [Update to the Organizational Map of DPRK Cyber Operations (2023)](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-cyber-structure-alignment-2023)
-
 - [Update to the Organizational Map of DPRK Cyber Operations (2024)](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
 
 
-### JPCERT
+### JPCERT Classification
 
 - [Tempted to Classifying APT Actors: Practical Challenges of Attribution in the Case of Lazarus’s Subgroup](https://blogs.jpcert.or.jp/en/2025/03/classifying-lazaruss-subgroup.html)
 
-### Unit42: 
+### Unit42 Classifications
 
 - [Threat Assessment: North Korean Threat Groups](https://unit42.paloaltonetworks.com/threat-assessment-north-korean-threat-groups-2024/)
 - These groups have been reportedly [active as early as 2007 [PDF]](https://www.usna.edu/CyberCenter/_files/documents/Operation-Blockbuster-Report.pdf). Activity under the RGB can be categorized into at least six threat groups:
@@ -36,70 +33,26 @@
 - Slow Pisces (aka [Jade Sleet](https://github.blog/security/vulnerability-research/security-alert-social-engineering-campaign-targets-technology-industry-employees/), [UNC4899](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain/)): This group has targeted blockchain and cryptocurrency companies. It was also involved in a supply chain attack targeting a U.S.-based software platform and is known for distributing a series of malicious applications called [TraderTraitor](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-108a).
 - Sparkling Pisces (aka [APT43 [PDF]](https://services.google.com/fh/files/misc/apt43-report-en.pdf), [Emerald Sleet](https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/digital-threats-from-east-asia-increase-in-breadth-and-effectiveness), [Kimsuky](https://thehackernews.com/2024/03/n-korea-linked-kimsuky-shifts-to.html), [THALLIUM](https://blogs.microsoft.com/on-the-issues/2019/12/30/microsoft-court-action-against-nation-state-cybercrime/)): This group conducts intelligence collection and has used cybercrime to fund espionage.
 
+---
+
+# Clusters
 
 
+## 🔑 SquidSquad - Fake VC Shit - DangerousPassword / Sapphire Sleet / Alluring Pisces
 
-## 🔑 SquidSquad / Sapphire Sleet / DangerousPassword
-
-- aka: CryptoCore, APT38, Bluenoroff, Alluring Pisces, Leery Turtle, SnatchCrypto, CryptoMimic, UNC1069, Black Alicanto, CageyChameleon
-- This group has targeted financial institutions, cryptocurrency businesses and ATMs. It has also conducted significant cyber heists.
-- Revenue generation priority, like its overarching APT38 subunits, however on a much smaller financial scale.
-- 2023/2024 activity usually referred to as **SquidSquad** by on-chain folks
-- May include individuals or units previously tracked as APT38. Has minor overlaps with APT43 but operates distinctly
-- UNC1069 has targeted a variety of financial services firms and cryptocurrency exchanges, commonly employing spear-phishing techniques that result in LONEJOGGER (and other) malware infections
-- Past Attacks: A4 (Founder/CEO), I4 (Founder/CEO of DeFi Thing), C4 (defi media person), C7 (CEO of blockchain infra company), ALEX Labs, Samudai Founder, Maverick Founder, Fantom Foundation CEO, Coinshift C-Level, Steadefi, GERA Coin, deBridge (Attempt), Wonderhero, Arthur_0x, bZx, YFETH Admin Key, Metaplay / Polyplay, MNGR, Bondly Finance, Tower Capital, NAOs Finance, FinNexus Admin Key, 990.1 BTC, EasyFi Founder, Mudge / Etna / Mokens Deployer, Indodax ATO, Hugh Karp / Nexus Mutual, L2 Theft (crypto investor), LEAD Wallet Token, CoinMetro, Unibright, Tap Global, Coinberry, Fetch.ai
-- [Nov 2023 | Sapphire Sleet, which overlaps with threat actors tracked by other researchers as BlueNoroff, CageyChameleon, and CryptoCore, is a nation-state sponsored threat actor based in North Korea and has targeted organizations in the cryptocurrency sector.](https://x.com/MsftSecIntel/status/1722316021841764414)
-- [Nov 2023 | jamf: BlueNoroff strikes again with new macOS malware](https://jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/)
-- [May 2023 | Attack Trends Related to DangerousPassword](https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html)
-- [Apr 2023 | BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
-- [Dec 2022 | BlueNoroff introduces new methods bypassing MoTW](https://securelist.com/bluenoroff-methods-bypass-motw/108383/)
-- [Jan 2022 | The BlueNoroff cryptocurrency hunt is still on](https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/)
-- [Jan 2022 | VBA Downloads, Bypassing MOTW, Bumblebee](https://proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world)
-- [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea](https://clearskysec.com/cryptocore-lazarus-attribution/)
-- [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea (PDF)](https://clearskysec.com/wp-content/uploads/2021/05/CryptoCore-Lazarus-Clearsky.pdf)
-- [Oct 2020 | Unveiling The Cryptomimic](https://vblocalhost.com/uploads/VB2020-Takai-etal.pdf)
-- [Jun 2020 | CryptoCore: A Threat Actor Targetting Crypto Exchanges](https://clearskysec.com/wp-content/uploads/2020/06/CryptoCore_Group.pdf)
-- [Jun 2019 | JPCert: VBScript, `Password.txt.lnk`](https://blogs.jpcert.or.jp/en/2019/07/spear-phishing-against-cryptocurrency-businesses.html)
-- [Jan 2018 | Proofpoint: Analyzing CHM Files, Malicious LNKs, VBScript Macros, Microsoft Office Docs, PowerShell implants, Gh0st RAT](https://proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug-180129.pdf)
-
-
-
-### 🔑 SquidSquad - Fake VC Shit
+- aka: CryptoCore, APT38, Bluenoroff, Leery Turtle, SnatchCrypto, CryptoMimic, UNC1069, Black Alicanto, CageyChameleon
+- VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript, malicious PDFs, "Fast changes to stablecoin risk.pdf"
+- Tornado Cash, eXch, Noones, Paxful, Instaswappers, Renbridge, Chipmixer, Dust Collectors!
+- Express VPN, occasional leak Ryugyong-dong IPs
+- RustBucket, SwiftBucket, AppleScripts
 - Today: VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript. Tornado Cash, eXch, Noones, Paxful, Instaswappers.
 - Before: Google Drive phishing, malicious PDFs, "Fast changes to stablecoin risk.pdf", `Password.txt.lnk`, Tornado Cash, Renbridge, Chipmixer, Noones, Paxful. Dust Collectors!
+- This group has targeted financial institutions, cryptocurrency businesses and ATMs. It has also conducted significant cyber heists.
+- Revenue generation priority, like its overarching APT38 subunits, however on a much smaller financial scale.
+- May include individuals or units previously tracked as APT38. Has minor overlaps with APT43 but operates distinctly
+- UNC1069 has targeted a variety of financial services firms and cryptocurrency exchanges, commonly employing spear-phishing techniques that result in LONEJOGGER (and other) malware infections
 - On-chain Laundry Observes: Express VPN, occasional leak Ryugyong-dong IPs
-- RustBucket, SwiftBucket, AppleScripts
-- Known Attacks 2023-2024:
-    - [Fantom Foundation](./hacks-and-thefts/fantom_foundation.md)
-    - [Maverick](./hacks-and-thefts/maverick.md)
-    - [Samudai](./hacks-and-thefts/samudai.md)
-    - [Degen Reborn](./hacks-and-thefts/degen_reborn.md)
-    - [ALEX Labs](./hacks-and-thefts/alex-labs.md)
-    - [Theft from Individual C7](./hacks-and-thefts/c7.md)
-    - [Theft from Individual C4](./hacks-and-thefts/c4.md)                                     
-    - [Theft from Individual I4](./hacks-and-thefts/i4.md)
-    - [Theft from Individual A4](./hacks-and-thefts/a4.md)
-    - [Fake Hack VC Thefts](./hacks-and-thefts/hack-vc.md)
-    - [TON Dude](./hacks-and-thefts/ton-dude.md)
-- Known Attacks 2020-2022
-    - Fetch.ai (Holder)
-    - Coinberry
-    - Tap Global
-    - CoinMetro
-    - L2 Theft
-    - Hugh Karp / Nexus Mutual
-    - EasyFi Founder
-    - FinNexus
-    - NAOs Finance
-    - Bondly Finance
-    - MNGR
-    - Metaplay / Polyplay
-    - YFETH Admin Key
-    - bZx
-    - Arthur_0x
-    - GERA Coin
-    - Darshan
-- [Jun 2025 | Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis?utm_source=twitter&utm_medium=social&utm_campaign=cy25-06-rr-edr-global-broad-all-rapid_response_bluenoroff)
+- [Jun 2025 | Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis)
 - [Apr 2025 | Latest Personas](https://x.com/tayvano_/status/1906900686694146289)
 - [Mar 2025 | Latest Fake Call Iteration](https://x.com/GiulioXdotEth/status/1899704410416230556)
 - [Mar 2025 | Another Fake Call Example](https://x.com/dazhengzhang/status/1899776299725680975)
@@ -109,20 +62,28 @@
 - [Feb 2024 | Phishing by Appointment: Suspected North Korean Hackers Target Blockchain Community Via Telegram](https://hunt.io/blog/suspected-north-korean-hackers-target-blockchain-community-via-telegram)
 - [Dec 2023 | Alex Masmej's Near Miss Story](https://x.com/AlexMasmej/status/1731446788136292833)
 - [Dec 2023 | Analysis of North Korean Hackers’ Targeted Phishing Scams on Telegram](https://slowmist.medium.com/analysis-of-north-korean-hackers-targeted-phishing-scams-on-telegram-872db3f7392b)
+- [Nov 2023 | Sapphire Sleet, which overlaps with threat actors tracked by other researchers as BlueNoroff, CageyChameleon, and CryptoCore, is a nation-state sponsored threat actor based in North Korea and has targeted organizations in the cryptocurrency sector.](https://x.com/MsftSecIntel/status/1722316021841764414)
+- [Nov 2023 | jamf: BlueNoroff strikes again with new macOS malware](https://jamf.com/blog/bluenoroff-strikes-again-with-new-macos-malware/)
+- [May 2023 | Attack Trends Related to DangerousPassword](https://blogs.jpcert.or.jp/en/2023/05/dangerouspassword.html)
+- [Apr 2023 | BlueNoroff APT group targets macOS with ‘RustBucket’ Malware](https://jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/)
+- [Dec 2022 | BlueNoroff introduces new methods bypassing MoTW](https://securelist.com/bluenoroff-methods-bypass-motw/108383/)
+- [Jan 2022 | The BlueNoroff cryptocurrency hunt is still on](https://securelist.com/the-bluenoroff-cryptocurrency-hunt-is-still-on/105488/)
+- [Jan 2022 | VBA Downloads, Bypassing MOTW, Bumblebee](https://proofpoint.com/us/blog/threat-insight/how-threat-actors-are-adapting-post-macro-world)
+- [May 2021 | Attributing CryptoCore Attacks Against Crypto Exchanges to Lazarus / North Korea (PDF)](https://clearskysec.com/wp-content/uploads/2021/05/CryptoCore-Lazarus-Clearsky.pdf)
+- [Oct 2020 | Unveiling The Cryptomimic](https://vblocalhost.com/uploads/VB2020-Takai-etal.pdf)
+- [Jun 2020 | CryptoCore: A Threat Actor Targetting Crypto Exchanges](https://clearskysec.com/wp-content/uploads/2020/06/CryptoCore_Group.pdf)
+- [Jun 2019 | JPCert: VBScript, `Password.txt.lnk`](https://blogs.jpcert.or.jp/en/2019/07/spear-phishing-against-cryptocurrency-businesses.html)
+- [Jan 2018 | Proofpoint: Analyzing CHM Files, Malicious LNKs, VBScript Macros, Microsoft Office Docs, PowerShell implants, Gh0st RAT](https://proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug-180129.pdf)
 
 
 
-### 🔐 DangerousPassword / Job Shit
-- Onchain laundry: Astrill, Mullvad. Tornado Cash to Wormhole or eXch. Gets lost in Tornado with all the other DPRK shit.
+## 🔐 DangerousPassword - Job Shit
+
+- Apparently also DangerousPassword shit but is completely separate onchain so we keep it off to the side a bit.
+- Does leak Ryugyong-dong IPs though lol
+- Astrill, Mullvad. Tornado Cash to Wormhole or eXch. Gets lost in Tornado with all the other DPRK shit.
 - KANDYKORN, Python script, `Python_Skill_Assessment.zip` and `Python_Skill_Test.zip`
 - Altered pyperclip and pyrebase modules
-- Known Attacks:
-    - Kronos - API keys compromised, Astrill+Mullvad, didnt look like DPRK
-    - Duelbits - Capital One Python Skills Test.
-    - Rain - Atrill+Mullvad w/ Yakutsk timezone. Didnt look like DPRK. Vultr C2. Sat in their VPN thing to get at Bitgo.
-    - Transak - Rookery Capital Python Skills Test
-    - M2 - same victim profile as Rain. Sat in their VPN thing to get at Fireblocks.
-    - Ripio
 - [Sep 2024 | Fake recruiter coding tests target devs with malicious Python packages](https://www.reversinglabs.com/blog/fake-recruiter-coding-tests-target-devs-with-malicious-python-packages)
 - [Sep 2024 | Is Rookery Capital a scam?](https://www.reddit.com/r/Scams/comments/1f30stp/is_rookery_capital_limited_a_scam/)
 - [Aug 2024 | VMConnect: Malicious PyPI packages imitate popular open source modules](https://www.reversinglabs.com/blog/vmconnect-malicious-pypi-packages-imitate-popular-open-source-modules)
@@ -130,10 +91,9 @@
 
 
 
-## 👛 TraderTraitor / Jade Sleet
+## 👛 TraderTraitor - Jade Sleet / Slow Pisces / UNC4899
 
-- aka: UNC4899, Slow Pisces
-- The big boys, the insane on-chain laundry sessions
+- The big boys, the insane on-chain laundry sessions. Targets technical / backend guys with fake job offers or requests for help.
 - Targets blockchain companies through spear-phishing messages, fake job offers
 - It was also involved in a supply chain attack targeting a U.S.-based software platform and is known for distributing a series of malicious applications called TraderTraitor.
 - Messages employees, particularly those in system administration or software development roles, on various communication platforms, intended to gain access to these start-up and high-tech companies
@@ -157,31 +117,21 @@
 
 
 
-
-## 🍎 Applejeus / Citrine Sleet / UNC4736
+## 🍎 Applejeus - Citrine Sleet / Gleaming Pisces / UNC4736
 
 - aka: Gleaming Pisces, Labyrinth Chollima, Hidden Cobra, DEV-0139
-- A threat group that has been active since at least 2018
+- Has been active since at least 2018. Today they aren't seen hacking as much. They seem to sometimes have a relationship with ITW or Contagious Interview guys? They also have shitcoin farms but we don't talk about that.
+- The weirdest/worst launderers since...always. Used to be responsible for a lot of the CEX hacks. Today it's all TRTR.
 - This group performed attacks targeting the cryptocurrency industry and is known for its association with the AppleJeus campaign.
 - Primarily targets: financial institutions, particularly organizations and individuals managing cryptocurrency, for financial gain.
+- The FudModule rootkit described in [this blog](https://microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/) has now been tied to Citrine Sleet as shared tooling with Diamond Sleet.
 - Has conducted extensive reconnaissance of the cryptocurrency industry and individuals associated with it
 - Creates fake websites masquerading as legitimate cryptocurrency trading platforms and uses them to distribute fake job applications or lure targets into downloading a weaponized cryptocurrency wallet or trading application based on legitimate applications
 - Most commonly infects targets with the unique trojan malware it developed, AppleJeus, which collects information necessary to seize control of the targets’ cryptocurrency assets
-- The FudModule rootkit described in [this blog](https://microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/) has now been tied to Citrine Sleet as shared tooling with Diamond Sleet.
 - Like TraderTraitor, this crypto-focused group appeared to emerge after the notoriety that came with the Bangladesh heist and issues with stealing and laundering traditional currency. 
 - This group’s tools overlap with TEMP.Hermit, but is not focused on the same targeting profiles, potentially indicating shared resources.
-- *"One of the most successful fake personas used by the Lazarus Group was Waliy Darwish—a man who supposedly worked for a cryptocurrency company, based in Michigan, called Celas L.L.C." —[The Incredible Rise of North Korea’s Hacking Army](https://newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)*
-- **Known Attacks:** 
-    - 2018 [Gate.io Hack (Celas Trade Pro)](./hacks-and-thefts/gate.md)
-    - 2019 [DragonEx Hack (WorldBit-Bot)](./hacks-and-thefts/dragonex.md)
-    - 2021 [990.1 BTC from Derbit Acct](./hacks-and-thefts/990_btc.md)
-    - 2021 [Tower Capital](./hacks-and-thefts/tower_capital.md)
-    - 2021 [Advcash](./hacks-and-thefts/advcash.md)
-    - 2022 [Deribit](./hacks-and-thefts/deribit.md)
-    - 2023 [Polynetwork](./hacks-and-thefts/polynetwork-2023.md)
-    - 2024 [Radiant](./hacks-and-thefts/radiant.md)
-    - 2025 [Nick Franklin Attempt on 1inch](./hacks-and-thefts/nick-franklin/index.md)    
-- "One of the most successful fake personas used by the Lazarus Group was Waliy Darwish—a man who supposedly worked for a cryptocurrency company, based in Michigan, called Celas L.L.C." —[The Incredible Rise of North Korea’s Hacking Army](https://newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
+> "One of the most successful fake personas used by the Lazarus Group was Waliy Darwish—a man who supposedly worked for a cryptocurrency company, based in Michigan, called Celas L.L.C." 
+— [Source: The Incredible Rise of North Korea’s Hacking Army](https://newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army)
 - [Mar 2025 | Nick Franklin attempts to hit 1inch Team Member](https://hackmd.io/@pcaversaccio/1inch-analysis-app-a-dprk-trojan-horse)
 - [Dec 2024 | Radiant Hacker uses Hyperliquid](https://x.com/tayvano_/status/1870960207842701358)
 - [Sep 2024 | Gleaming Pisces Poisoned Python Packages Campaign Delivers PondRAT Linux and MacOS Backdoors](https://unit42.paloaltonetworks.com/gleaming-pisces-applejeus-poolrat-and-pondrat/)
@@ -208,20 +158,10 @@
 - [Aug 2018 | Operation AppleJeus: Lazarus hits cryptocurrency exchange with fake installer and macOS malware](https://securelist.com/operation-applejeus/87553/)
 
 
-## 🌚 Moonstone Sleet
-
-- [Mar 2025 | Moonstone Sleet](https://blogs.jpcert.or.jp/en/2025/03/classifying-lazaruss-subgroup.html)
-- [May 2024 | Microsoft: Moonstone Sleet emerges as new North Korean threat actor with new bag of tricks](https://microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/)
-- [May 2024 | North Korea’s ‘Moonstone Sleet’ using fake tank game, custom ransomware in attacks](https://therecord.media/north-korea-moonstone-sleet-ransomware-deception)
-- [Feb 2024 | New Malicious PyPI Packages used by Lazarus](https://blogs.jpcert.or.jp/en/2024/02/lazarus_pypi.html)
-- [Dec 2023 | Analysis of Suspected Lazarus (APT-Q-1) Attack Sample Targeting npm Package Supply Chain](https://ti.qianxin.com/blog/articles/Analysis-of-Suspected-Lazarus-APT-Q-1-Attack-Sample-Targeting-npm-Package-Supply-Chain-EN/)
-- [May 2024 | Microsoft Uncovers 'Moonstone Sleet' — New North Korean Hacker Group](https://thehackernews.com/2024/05/microsoft-uncovers-moonstone-sleet-new.html)
-
 
 ## 💼 DPRK IT Workers
 
-- Merlin DEX, Munchables, Solareum, a bunch of unknown others or misidentified shit from Contagious Interview.
-- Have resumes. Get hired. Get paid payroll that goes to DPRK.
+- Overlaps with Contagious Interview a lot. IT Workers Have resumes. Get hired. Get paid payroll that goes to DPRK.
 - Primarily fall under the KWP’s Munitions Industry Department
 - Made up of thousands of highly skilled IT workers from North Korea
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
@@ -250,16 +190,13 @@
 - [May 2022 | U.S. Treasury: Guidance on the DPRK IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
 
 
-
-
 ## 🎙️ Contagious Interview
 
-- 2024: Beavertail / Invisible Ferret
-- 2025: "Willo" Job Campaigns, Bybit assessment, trevorgreer
+- "Willo" Job Campaigns, Bybit assessment, trevorgreer, Beavertail / Invisible Ferret
 - New onchain cluster / laundry patterns first observed early 2023, fully baked out by late 2023
-- This may actually map back to some dudes that originally did TraderTraitor or APT38 type stuff like Nexus Mutual but I dunno yet. On-chain they certainly Dust Collect like Hugh Karp / EasyFi / etc. and they certainly love to compromise private keys and pivot to taking over protocols but most everything else is different.
+- On-chain they certainly Dust Collect like Hugh Karp / EasyFi / etc. and they certainly love to compromise private keys and pivot to taking over protocols but most everything else is different.
 - UnoReDAO, OKX Dex, ConcentricFi, Serenity Shield, Wilder World, Hyve, on and on and on and on and on. Also the Upwork/Braintrust/Linkedin Job Scams. Flickthebean, etc.
-- Connects af onchain. Is a real fucking mess. Stargate / Defiway / RhinoFi / Railgun / Dust Collectors. 
+- Connects cases onchain. Is a real fucking mess. Stargate / Defiway / RhinoFi / Railgun / Dust Collectors. 
 - In the cases of protocol exploits, the private keys that have critical access are compromised and used to upgrade the protocol in order to mint an infinite amount of new tokens or drain the protocol of any locked assets. Lots of `transferOwnerships`.
 - On the social engineering side: Developers often reach out to the attacker in response to a job or freelance post. The attacker asks them to complete a job interview, skills test, or fix some issues in an existing codebase. Details about the test or code issues are often provided via Google Docs or similar text document. They have much more information and provide actual requirements, as opposed to some of the conversations seen used in TraderTraitor. The code is typically provided via Github, Bitbucket, or a zip file hosted on Google Drive. They are Javascript / Node JS projects and use npm install / run / build. Often the personal addresses that are active and in unlocked browser extensions or desktop wallets are drained of all assets nearly immediately. Shortly thereafter, these private keys, or additional private keys stored on the developers machine, are further drained of assets and/or used to exploit smart contracts or protocols.
 - There are also cases where the attacker reaches out to a developer or dev shop or asking to hire / contract them to help finish a project. They then grant the dev shop access to a private (malicious) repo. The lead of the dev shop will then run the repo to see what the issue is, what work is required, and provide a quote. That tech lead's device is thus compromised, alongside their own wallets/projects or previous clients.
@@ -267,23 +204,25 @@
 - 2024 Linkedins from the on-chain cluster of activity include: “Lucas Sousa Santos” “Maria Mercedes Gonzalez” “Juan D Suareza” “Eduardo Morales Cortés”
 - Astrill, Russia TTK observed.
 - [Dec 2024 | Willo Campaign](https://x.com/tayvano_/status/1872980013542457802)
+- [Aug 2024 | North Korea Still Attacking Developers via npm](https://blog.phylum.io/north-korea-still-attacking-developers-via-npm/)
 - [Jul 2024 | Decipher: New Version Of Beavertail Macos Malware Identified](https://duo.com/decipher/new-version-of-beavertail-macos-malware-identified)
 - [Jul 2024 | Patrick Wardle: This Meeting Should Have Been an Email - A DPRK stealer, dubbed BeaverTail, targets users via a trojanized meeting app](https://objective-see.org/blog/blog_0x7A.html)
-- [Nov 2023 | Palo Alto: Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)
+- [Jul 2024 | Heads Up: Critical Alert for Blockchain Developers on LinkedIn!](https://linkedin.com/posts/abhisheksinghsoni_blockchainsecurity-cryptoscamalert-defijobs-activity-7127542067001475073-71xU/)
+- [May 2024 | 针对区块链从业者的招聘陷阱：疑似Lazarus（APT-Q-1）窃密行动分析](https://mp.weixin.qq.com/s/84lUaNSGo4lhQlpnCVUHfQ)
 - [May 2024 | From Opportunity to Threat: My Encounter with a Blockchain Job Scam](https://medium.com/@mahitman1/from-opportunity-to-threat-my-encounter-with-a-blockchain-job-scam-9e0457754298)
+- [Apr 2024 | Python Malware](https://github.com/0x50D4/0x50d4.github.io/blob/main/_posts/2024-04-03-python-malware.md)
+- [Apr 2024 | The Lazarus group appears to be currently reaching out to targets via LinkedIn and spreading malware](https://x.com/asdasd13asbz/status/1782951380568936481)
+- [Apr 2024 | Githubs, indicators, hashes, test_interview](https://x.com/dimitribest/status/1782609281897902426)
 - [Apr 2024 | SlowMist's im23pds: "Lazarus group appears to be currently reaching out to targets via LinkedIn and steal employee privileges or assets through malware"](https://x.com/im23pds/status/1782984061369405878)
 - [Mar 2024 | ZachXBT: "Same group just hacked another project one hour ago for $278K"](https://t.me/investigations/97)
 - [Feb 2024 | Fake Developer Jobs Laced With Malware](https://blog.phylum.io/smuggling-malware-in-test-code/)
 - [Dec 2023 | Seongsu Park: "The actor continues with familiar tactics, incorporating a cleverly obfuscated BeaverTail script. The endgame remains the InvisibleFerret script, with the C2 using IP addresses previously employed by the actor: 147.124.212.89:1244"](https://x.com/unpacker/status/1737993034934169855)
 - [Dec 2023 | /r/hacking: Obfuscated code a "recruiter" sent me](https://reddit.com/r/hacking/comments/18npzcl/comment/kecsptt/)
 - [Dec 2023 | Blockchain dev's wallet emptied in "job interview" using npm package](https://bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
-- [May 2024 | 针对区块链从业者的招聘陷阱：疑似Lazarus（APT-Q-1）窃密行动分析](https://mp.weixin.qq.com/s/84lUaNSGo4lhQlpnCVUHfQ)
-- [Aug 2024 | North Korea Still Attacking Developers via npm](https://blog.phylum.io/north-korea-still-attacking-developers-via-npm/)
-- https://x.com/dimitribest/status/1782609281897902426 
-- https://x.com/asdasd13asbz/status/1782951380568936481 
-- https://linkedin.com/posts/abhisheksinghsoni_blockchainsecurity-cryptoscamalert-defijobs-activity-7127542067001475073-71xU/
-- https://github.com/0x50D4/0x50d4.github.io/blob/main/_posts/2024-04-03-python-malware.md
+- [Nov 2023 | Palo Alto: Hacking Employers and Seeking Employment: Two Job-Related Campaigns Bear Hallmarks of North Korean Threat Actors](https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/)
 
+
+### Onchain Connections for Various Contagious Interview Hacks
 
 | Chain   | From Label                           | From Address                               |            | To Label                             | To Address                                 | Txn Hash                                                           |
 | ------- | ------------------------------------ | ------------------------------------------ | ---------- | ------------------------------------ | ------------------------------------------ | ------------------------------------------------------------------ |
@@ -311,9 +250,20 @@
 | ETH     | UnoReDAO Hacker 2                    | 0x9ada20b835aa178813a8c174f1f93b1dc1bfa775 | SENDS TO   | OKX DEX Exploiter                    | 0xfacf375af906f55453537ca31ffa99053a010239 | 0x372fdb551de2ec82337bf696b05690dc5919fde084e81e710637791475ed34c9 |
 | ETH     | Spoock Theft / Waygate               | 0x55066e19abdb8cb38f6a98a96186c0b657ce3295 | SENDS TO   | UnoReDAO                             | 0x2618eb69b40e6db8ca732ddb2df5416a4d36e7ae | 0x36cb3a9832284a098d711702960f7592a949fefc15ba0a017a927debb81a15d9 |
 | FTM BSC | UnoReDAO Hacker 1                    | 0x86d49a933d1f6aa1218dfa91250733d9818e36fa | BRIDGES TO | CloudAI Hacker                       | 0x3c685ad9e63872259b2c3563378a1d92defad517 | 0x397a14ca24aa1964a6227ca23452ae36500d2a1a56725f5e1dad38ad927ab0e6 |
+| ETH     | Masa Hacker                          | 0x2d872468323513ad779a7a7927d52c02bf09f1a2 | SENDS TO   | NiiFi Hacker                         | 0x042469a11d763b8a91f5322fa9b4bad7ee72a204 | 0x397462fbd7d4987b4db0596999cef36853c18b99d6ca7dbc863679c4bfbe8053 | 
 
 
+## 🌚 Moonstone Sleet
 
+- [Mar 2025 | Moonstone Sleet](https://blogs.jpcert.or.jp/en/2025/03/classifying-lazaruss-subgroup.html)
+- [May 2024 | Microsoft: Moonstone Sleet emerges as new North Korean threat actor with new bag of tricks](https://microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/)
+- [May 2024 | North Korea’s ‘Moonstone Sleet’ using fake tank game, custom ransomware in attacks](https://therecord.media/north-korea-moonstone-sleet-ransomware-deception)
+- [Feb 2024 | New Malicious PyPI Packages used by Lazarus](https://blogs.jpcert.or.jp/en/2024/02/lazarus_pypi.html)
+- [Dec 2023 | Analysis of Suspected Lazarus (APT-Q-1) Attack Sample Targeting npm Package Supply Chain](https://ti.qianxin.com/blog/articles/Analysis-of-Suspected-Lazarus-APT-Q-1-Attack-Sample-Targeting-npm-Package-Supply-Chain-EN/)
+- [May 2024 | Microsoft Uncovers 'Moonstone Sleet' — New North Korean Hacker Group](https://thehackernews.com/2024/05/microsoft-uncovers-moonstone-sleet-new.html)
+
+
+---
 
 
 ## Andariel / APT45 / Onyx Sleet / UNC614 / Jumpy Pisces
@@ -334,6 +284,7 @@
 
 
 ## TEMP.Hermit / Diamond Sleet / UNC2970
+
 - aka: UNC2970, Selective Pisces, ZINC, Labyrinth Chollima
 - This group has targeted media, defense and IT organizations
 - Prioritizes espionage, data theft, financial gain, and network destruction
