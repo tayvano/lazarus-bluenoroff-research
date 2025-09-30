@@ -1,6 +1,6 @@
 # Depo
 
-Date:: February 4th, 2022 
+Date:: 2022-02-04
 
 Amount Stolen:: $1,723,632
 
@@ -63,3 +63,28 @@ Stolen funds were transferred to the external wallet:
 - https://twitter.com/tjdunham5/status/1490414814287519749
 
 - https://twitter.com/PeckShieldAlert/status/1489467040419258370
+
+
+
+## Credits
+
+Former Depo CTO Alex Hong drained the rewards for 4 staking pools on feb. 4th 2022, a total of 29.5 million tokens. 
+
+These were dumped on Uniswap for eth and sent to tornado.cash
+
+578 ETH
+
+on Aug 16, 2022 by UselessChris
+
+Reported Addresses
+- 0x6FFe6e183571139636B9479Ca65CF99eDc6BE215
+- 0x10Da75631D05fCdf5451cFd70eAff6BF343307e9
+- 0x45308f6abFC1c131d89Ef41E519651b30A4f517d
+- 0x2BE102d023cF0432362bE3708b63237377aC2687
+- 0x8491B3921DCB0dF0F9D530937E03280fbC14B225
+- 0x9CAcfCB41Cb1dB76fa6E632f62FabAbd8118bfa1
+- 0x7B101015f126f0fFd973f191EfB221ed548ED90B
+- 0x11C23ac03B32823B186CcB00cE351bc36b1D7453
+- 0x97B1043ABD9E6FC31681635166d430a458D14F9C
+
+https://chainabuse.com/report/fd685c77-cf02-4e77-b942-2d261b95e756
