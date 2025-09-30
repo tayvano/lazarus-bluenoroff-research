@@ -31,6 +31,9 @@ The password account contained a mnemonic recovery phrase for his hardware walle
 - 0xbcea5abcb1b446b971eb67b6dd69736e68d273097774284ca5f257df2a31c3c7
 - 0xc2b339468b23cc8b98d6d4534e87d8ec3b85a0d26f8c169a22efe14d221cfaae
 
+- 0x799533c78db6e313d65b6a7cfffc65522bf5f577 - Victim
+- 0x081020c85c0c21ec0262f31e17e819427c5b2768 - Victim
+
 - 0xc433d50dd0614c81ee314289ec82aa63710d25e8 - Primary Theft, Tornado Deposits
 - 0x419787019b991ac2c765a14467d177c6c0b05c00 - Tornado Withdrawal
 - 0x365d2c5220989a068d8b0e95625875c55166297b - Tornado Withdrawal

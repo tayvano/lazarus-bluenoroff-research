@@ -36,7 +36,7 @@ Tags:: 🔑
 - 1GcHyFLYSMvr4XSySYdZUWB2LLGvu4QjVr
 - 1DTjz8QWughcPekZaFdTdrrNxp9TEkZFWN - Attributed Lazarus Group
 - 15K6ZmcnkqEXJpVpfqnk18fYGxRbDXAZr4 - Receives from multiple known DPRK victims
-- Laundry @ 0xbc8d089824461048a06d300dff88bb7357d88b3b (Connects Coinberry, Coinmetro, Fetch.ai, Unibright, LEAD, Nexus Mutual, EasyFi)
+- 0xbc8d089824461048a06d300dff88bb7357d88b3b - Dust - Connects Coinberry, Coinmetro, Fetch.ai, Unibright, LEAD, Nexus Mutual, EasyFi)
 
 
 ### 0x94cf84daa641b499cf518ad49f8463fd39f4e579

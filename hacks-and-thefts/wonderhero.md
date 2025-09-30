@@ -28,23 +28,34 @@ Tags:: 🔑, Infinite Mint, Dust Collectors
 
 ## Onchain
 
+
 - https://bscscan.com/tx/0x20dabda59dd46d45a7b6b5b324830159fb108cd2119232d7f0056d8085de17e1
+
 - https://bscscan.com/tx/0x776fd6f2b265be782c862d05ecf225ace6fa2268b9028ca3df3c65aeed2677a1
+
 - 0x67dbb7020af3ae92a6d0e136e4e693a35bbb0db2 - Direct Theft -> Tornado Cash on BSC
+
 - 0x613ded514d4df7fedaf345537c1503981682223f - ETH, BASE Dec 2024
+
 - 0x01b9ccca267496b073428a5c84a15d391db5d94e
-- 0x2d7554062664050294640891a122019a68ac5a2b Dust
+
+- 0x2d7554062664050294640891a122019a68ac5a2b - [Dust Colletor](./sqsq-dust-collector-2d7.md)
 
 ### 2024
 
 - 0x613ded514d4df7fedaf345537c1503981682223f - on BASE
+
 - 0xABf21fAb0811FB8A5A1F3421e33FAbc49FD82e25 - Gnosis Safe
 
 
 ## Further Reading
 
 - https://wonderhero.medium.com/community-update-wonderhero-bnb-chain-bridging-withdrawal-compromised-84327a4fd79
+
 - https://vice.com/en/article/3abwj3/play-to-earn-game-token-collapses-after-hacker-cashes-out
+
 - https://twitter.com/Wonderhero_io/status/1511971430547996672
+
 - https://twitter.com/CertiKAlert/status/1512023769010823169
+
 - https://twitter.com/peckshield/status/1511974889271398400

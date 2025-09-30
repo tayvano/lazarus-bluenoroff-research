@@ -29,6 +29,8 @@ The only tokens that were not stolen are the ones from the Founders’ and Advis
 
 - 0x94f20ccff70d82d1579d8b11f2985f8de9b287cf - Taylor ICO Exploiter
 
+- 0xd954908489aba1da95eba7e3747b7f6a48901f6a - Taylor ICO Victim
+
 - 0xdbf4033c17b983f2aa5cfb09dfbb8b21337dc8c5 - Taylor ICO Victim
 
 - 0x5c7f016a40f21428880f80e5060270372d6f3a1e - Taylor ICO Victim

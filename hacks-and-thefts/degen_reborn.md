@@ -72,7 +72,7 @@ Tags:: 🔑
 - 0x585ee6b8455f21b18af05127591e783469a696d5 - Dust Collector Input
 - 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Dust Collector Jan 2024
 
-See more: [SquidSquad Dust Collectors](./sqsq-dust-collector.md)
+See more: [SquidSquad Dust Collectors](./sqsq-dust-collector-c0b.md)
 
 
 ### Intersting

@@ -17,8 +17,7 @@ On October 6, 2020 the CoinMetro team observed unauthorized transfers of $750K w
 
 - 0x044bf69ae74fcd8d1fc11da28adbad82bbb42351 - Direct Theft
 - 1GVjvbVEYPkjCYCwJkC29t5pBWAQQd1g32 - Laundry (Connects to L2 and other known DPRK thefts)
-- 0x893a40fe1c9e5727002e00d7cedffdeb2692e1de
-- 0x3f6bd0a18552e6bab95dbda4830eeef5be97ccd4
+- 0x893a40fe1c9e5727002e00d7cedffdeb2692e1de - Theft / Swapper (2020-10-06)
 - rKNuVwi3xjmc4opNjFcJTybBeLsUusEwjG
 - 0x0eaf42160c1d347080dee0cc0ea7100c3885cd31
 - 0x990924d51c6ea6e212cce6e811b380ffd44ac350 - Also shows up in L2 Theft
@@ -34,6 +33,7 @@ On October 6, 2020 the CoinMetro team observed unauthorized transfers of $750K w
 - 0x246569f8b420c8d850c475c53d0d59973b3f08fc - Paxful deposit address
 - 0x593dc5e1ad81667bbfc90739dd2c09c926920e3b - Paxful deposit address
 - 0x2e1155cf5374cba058a04fd03ebd0ba19afe580d - Noones deposit address
+
 
 
 ### Laundry

@@ -1,6 +1,6 @@
 # Bancor
 
-Date:: July 9th, 2018
+Date:: 2018-07-09
 
 Amount Stolen:: $23,500,000 (24,984 ETH + 229,356,645 NPXS + 3,200,000 BNT)
 

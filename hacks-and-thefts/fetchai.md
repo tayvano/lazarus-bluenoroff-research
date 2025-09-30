@@ -1,6 +1,6 @@
-# Fetch.ai Theft
+# FET Holder Theft
 
-Date:: June 7th, 2021
+Date:: 2021-06-07
 
 Amount Stolen:: $2,600,000
 
@@ -18,14 +18,17 @@ Source: https://chainabuse.com/report/0494e103-1a74-4dd9-aa5b-a2354c33c100
 - 0xbfc560a48619E2FF496adcd76f5974a5d4236f6b - Primary Theft
 - 0x2334AdA8B9D03A30626a86ea5F7Eb36817d42e15 - Primary Theft
 - 0x049fae70d830b3b6977d09be63a864f57f0b240d
-- 0x15d8a48135f483d74ee1a34e27d771eb3e795a82
 - 0x99cceffdc50ca5ae2d8d66a6c0d13a024acb6df7
 - 0x4f2959a68cad2a321bddd2b160ed8bd55bbb7c8a
 - 0x6130b8fa867e9a4d97e4b79452d0001376baf50b
+- 0x127c24760904a4b2d8dacf8a26a63dbc9bcc9093 - Uniswap
+- 0x57ab5d20169c76fe0fb1a201708fe0e9bb487cc4 - Uniswap
+- 0x2ec291d41c2b4308df51a60469a83b7eb509abc1 - Uniswap
 - 0xeade619ee57d4edf08234b9b635ac951a590edf6 - Also receives from Unibright and LEAD Token Hacks ($UNI claims)
-- 0x6c6357f30fcc3517c2e7876bc609e6d7d5b0df43  - Also receives from Unibright and LEAD Token Hacks
+- 0x6c6357f30fcc3517c2e7876bc609e6d7d5b0df43 - Also receives from Unibright and LEAD Token Hacks
 - 0x99739fa525c0a98384430235d278fd08938997f9
-- Laundry @ 0xbc8d089824461048a06d300dff88bb7357d88b3b (Connects Coinberry, Coinmetro, Fetch.ai, Unibright, LEAD, Nexus Mutual, EasyFi)
+- 0x15d8a48135f483d74ee1a34e27d771eb3e795a82 - Dust
+- 0xbc8d089824461048a06d300dff88bb7357d88b3b - Dust - Connects Coinberry, Coinmetro, Fetch.ai, Unibright, LEAD, Nexus Mutual, EasyFi)
 - Goes to Paxful/Noones shit
 
 

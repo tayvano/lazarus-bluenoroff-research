@@ -26,15 +26,25 @@ Most losses were on Polygon and Binance Smart Chain (BSC)
 
 ## Onchain
 
+
 - 0x0ACC0e5faA09Cb1976237c3a9aF3D3d4b2f35FA5 - Primary Theft on BSC 
+
 - 0x74487eed1e67f4787e8c0570e8d5d168a05254d4 - Primary Theft on ETH - 10M BZRX, $4m ETH
+
 - 0xafad9352eb6bcd085dd68268d353d0ed2571af89 - 2M BZRX, $1.4m DAI, $243k USDC, $15m ETH
+
 - 0x967bb571f0fc9ee79c892abf9f99233aa1737e31 - 2.5M BZRX, 12M VBZRX, 82K BZRX, $2m in ETH
+
 - 0x1ae8840ceaef6eec4da1b1e6e5fcf298800b46e6 - Receives from Kucoin, USDT Frozen
+
 - 0x6abcA33faeb7deb1E61220e31054f8d6Edacbc81 - 1.5m BZRX
+
 - 0x20d9e73aafe69a3cd66ad7477de7358d0ed44b10 - Tornado Cash Deposits
+
 - 0xc7c6d42875fd091faa16ad0225f587158f47fce4 - Tornado Cash Withdrawals
+
 - 0x683c3d42325ca1beb2475f443c916832f0bd10f2 - Tornado Cash Withdrawals
+
 - 0x785b9940eaf44be2b832c61816ff873b97a8ad63 - Tornado Cash Withdrawals
 
 
@@ -47,7 +57,7 @@ Most losses were on Polygon and Binance Smart Chain (BSC)
 
 - This exploit was very similar to bzx’s: the hacker got access to a devs password and then manipulated a smart contract from the protocol. 
 
-- 0x2d7554062664050294640891a122019a68ac5a2b - Dust Collector 
+- 0x2d7554062664050294640891a122019a68ac5a2b - [Dust Colletor](./sqsq-dust-collector-2d7.md)
 
 
 ## Further Reading
