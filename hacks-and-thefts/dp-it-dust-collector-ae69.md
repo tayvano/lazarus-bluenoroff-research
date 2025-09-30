@@ -1,7 +1,15 @@
-# Dust Colletor 0xae69
+# Dust Colletor ae69
+
+Date:: 2024-02-04
+
+Tags:: 🔐 💼
+
+---
+
+# Dust Collector 0xae69012d15d6b1a3b2412aadef712f06f9286e0e
 
 
-## 0xae69012d15d6b1a3b2412aadef712f06f9286e0e
+## Summary
 
 1. Trade.io hack (connects to cryptopia and coinbene)
 
@@ -131,7 +139,7 @@
 
 ## Yet another rainbow graph that honestly shouldn't exist and I apologize in advance
 
-![](./dust-collector-0xae69.png)
+![](../images/dust-collector-0xae69.png)
 
 
 

@@ -1,6 +1,16 @@
-# January 17, 2024: 0xc0b635fb9dc28dea84db150b89d4578ff9859877
+# SQSQ Dust Collector c0b
+
+Date:: 2024-01-17
+
+Tags:: 🔑
+
+---
+
+# Dust Collector 0xc0b635fb9dc28dea84db150b89d4578ff9859877
+
 
 ### Receives From:
+
 - 0x397cb9477e408b56958c1d6403fddb5cfabb55fd - C8
 - 0x0c45060bc4c518b6942f19d7c279ed42e137d29d - Fantom
 - 0xf857bb93eb57183ad42593496da46de83cf29d44 - Fantom
@@ -12,6 +22,7 @@
 - 0xd2de35a69e0dd73dd2e1d44776c869a69f8ad99a
 
 ### Sends To:
+
 - 0x1c6cfbf90d350a87c8190af57f054c2aad45dc29 eXch int 
 - 0xf0ca924a8bdd9da4d296f9535eeb8c3d7571f359 eXch 
 - 0x257bdc4cce271b7b23f714f519e465cbf64ad04e eXch 

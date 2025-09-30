@@ -10,7 +10,7 @@ Tags:: 💼
 
 See Also: [DPRK IT Workers](../dprk-it-workers/readme.md)
 
-See Also: [Dust Collector 0xae69](../more-hacks-and-thefts/dust-collector-0xae69.md)
+See Also: [Dust Collector 0xae69](../hacks-and-thefts/dp-it-dust-collector-ae69.md)
 
 
 

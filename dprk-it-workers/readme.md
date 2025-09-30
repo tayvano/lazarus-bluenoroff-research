@@ -3832,7 +3832,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0x07f4098636270e197533987c4c283f5fec1c559e - MEXC of Shibarium Payroll Receiver "Henry", Also receives from [Blockbusters](../hacks-and-thefts/blockbusters.md) Hacker
 
 
-- See also [../more-hacks-and-thefts/dust-collector-0xae69.md]
+- See also [../hacks-and-thefts/dp-it-dust-collector-ae69.md]
 
 - See also [../hacks-and-thefts/shibarium.md]
 

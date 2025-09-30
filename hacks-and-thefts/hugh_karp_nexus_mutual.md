@@ -56,6 +56,9 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 - 0x0adab45946372c2be1b94eead4b385210a8ebf0b - Theft
 - 3DZTKLmxo56JXFEeDoKU8C4Xc37ZpNqEZN - Theft
 
+- 0xa2c6d4db9f601654a8f240c82999dd272572feec - Theft, Post Tornado
+- 0x78a9903af04c8e887df5290c91917f71ae028137 - Theft, Post Tornado
+
 - 0x78a9903af04c8e887df5290c91917f71ae028137 - Post ChipMixer Consolidation
 
 - 0x0864b5ef4d8086cd0062306f39adea5da5bd2603 - Post March ChipMixer Consolidation with CoinMetro hack
