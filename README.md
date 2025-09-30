@@ -328,8 +328,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 
 - **I often get it wrong** bc the clustering and dynamic nature of DPRK is insane to keep track of. Don't take any of this as gospel. I am always learning.
 
-## 🔑 SquidSquad - Fake VC Shit - DangerousPassword / Sapphire Sleet / Alluring Pisces
-- aka: CryptoCore, APT38, Bluenoroff, Leery Turtle, SnatchCrypto, CryptoMimic, UNC1069, Black Alicanto, CageyChameleon
+## 🔑 SquidSquad - Fake VC Shit - DangerousPassword / Sapphire Sleet
+- aka: CryptoCore, APT38, Bluenoroff, Leery Turtle, SnatchCrypto, Alluring Pisces, CryptoMimic, UNC1069, Black Alicanto, CageyChameleon
 - VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript, malicious PDFs, "Fast changes to stablecoin risk.pdf"
 
 | 📁  | Date          | Incident                                                                           | Amt Stolen       |
