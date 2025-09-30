@@ -189,7 +189,6 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2023-12-28  | [Upwork Developer Jobs Scams](./hacks-and-thefts/upwork_job_scams.md)                            | $550               |
 |    | **2023**    | **TOTAL**                                                                                        | **$647,241,332**   |
 |    |             |                                                                                                  |                    |
-| 🔑 | 2025-01-01  | [SQSQ Dust Collector](./hacks-and-thefts/sqsq-dust-collector.md)                                 | $0                 |
 | 🎙️ | 2024-01-22  | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000         |
 | 🎙️ | 2024-01-25  | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   | $2,500,000         |
 | 🎙️ | 2024-02-01  | [Linkedin Job Dev Scam](./hacks-and-thefts/linkedin_dev_job_scam.md)                             | $200,000           |
@@ -329,8 +328,37 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 - **I often get it wrong** bc the clustering and dynamic nature of DPRK is insane to keep track of. Don't take any of this as gospel. I am always learning.
 
 ## 🔑 SquidSquad - Fake VC Shit - DangerousPassword / Sapphire Sleet
+
 - aka: CryptoCore, APT38, Bluenoroff, Leery Turtle, SnatchCrypto, Alluring Pisces, CryptoMimic, UNC1069, Black Alicanto, CageyChameleon
+
 - VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript, malicious PDFs, "Fast changes to stablecoin risk.pdf"
+
+- [Jul 2025 | macOS NimDoor: Targetting Web3 and Crypto Platforms with Nim-Based Malware](https://www.sentinelone.com/labs/macos-nimdoor-dprk-threat-actors-target-web3-and-crypto-platforms-with-nim-based-malware/)
+
+- [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
+
+- They are the best dust collectors:
+
+- [🔑 🔐 💼 DP / DPRK IT Laundry Dust Collector ae69 (0xae69012d15d6b1a3b2412aadef712f06f9286e0e)](./hacks-and-thefts/dp-it-dust-collector-ae69.md)
+
+- [🔑 SQSQ Dust Collector b5d (0xb5d70f00608c77724b5cb73b93da89df1ae9f6e8)](./hacks-and-thefts/sqsq-dust-collector-b5d.md)
+
+- [🔑 SQSQ Dust Collector fda (0xfda946270a6f452e0a134e22b493f4e7e8bdbc50)](./hacks-and-thefts/sqsq-dust-collector-fda.md)
+
+- [🔑 SQSQ Dust Collector a54 (0xa547c81b67ec09072b21baa8e107816d39cbd969)](./hacks-and-thefts/sqsq-dust-collector-a54.md)
+
+- [🔑 SQSQ Dust Collector 7ec (0x7ec567ce97ec28e19ce7e2d4bcbb7943eb90ede0)](./hacks-and-thefts/sqsq-dust-collector-7ec.md)
+
+- [🔑 SQSQ Dust Collector 314 (0x31499e03303dd75851a1738e88972cd998337403)](./hacks-and-thefts/sqsq-dust-collector-314.md)
+
+- [🔑 SQSQ Dust Collector 2d7 (0x2d7554062664050294640891a122019a68ac5a2b)](./hacks-and-thefts/sqsq-dust-collector-2d7.md)
+
+- [🔑 SQSQ Dust Collector 997 (0x99739fa525c0a98384430235d278fd08938997f9)](./hacks-and-thefts/sqsq-dust-collector-997.md)
+
+- [🔑 SQSQ Dust Collector c0b (0xc0b635fb9dc28dea84db150b89d4578ff9859877)](./hacks-and-thefts/sqsq-dust-collector-c0b.md)
+
+
+
 
 | 📁  | Date          | Incident                                                                           | Amt Stolen       |
 | --- | ------------- | ---------------------------------------------------------------------------------- | ---------------- |
@@ -417,7 +445,6 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑  | 2024-12-30    | [Napier Founder](./hacks-and-thefts/napier.md)                                     | $500,000         |
 |     | **2024**      | **TOTAL**                                                                          | **$143,512,221** |
 |     |               |                                                                                    |                  |
-| 🔑  | 2025-01-01    | [SQSQ Dust Collector](./hacks-and-thefts/sqsq-dust-collector.md)                   | $0               |
 | 🔑  | 2025-01-20    | [Unknown Jan 2025](./hacks-and-thefts/jan2025.md)                                  | $1,700,000       |
 | 🔑  | 2025-02-05    | [Russell](./hacks-and-thefts/russell.md)                                           | $1,125,700       |
 | 🔑  | 2025-02-05    | [Unknown Feb 2025](./hacks-and-thefts/feb2025.md)                                  | $610,000         |
@@ -540,8 +567,10 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 
 
 ## 🍎 Applejeus - Citrine Sleet / Gleaming Pisces / UNC4736
+
 - aka: Gleaming Pisces, Labyrinth Chollima, Hidden Cobra, DEV-0139
 - Has been active since at least 2018. Today they aren't seen hacking as much. They seem to sometimes have a relationship with ITW or Contagious Interview guys? They also have shitcoin farms but we don't talk about that.
+- [Nick Franklin](./nick-franklin/readme.md) has his own folder. Because he's special.
 
 | 📁  | Date          | Incident                                              | Amt Stolen       |
 | --- | ------------- | ----------------------------------------------------- | ---------------- |
@@ -560,8 +589,14 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 
 
 ## 💼 DPRK IT Workers
+
 - Overlaps with Contagious Interview a lot. IT Workers Have resumes. Get hired. Get paid payroll that goes to DPRK.
 - Will hack via backdoors, stealing private keys. Will also get hacked. Will also extort. They are creative little fucks.
+- [The IT Workers](dprk-it-workers/readme.md) also get their own folder. 
+- There's also the [lazarus.group](https://www.lazarus.group/team) site which is pretty.
+- They also have a dust collector in their midst: [💼 DPRK IT Laundry Dust Collector ae69 (0xae69012d15d6b1a3b2412aadef712f06f9286e0e)](./hacks-and-thefts/dp-it-dust-collector-ae69.md)
+
+
 
 | 📁  | Date       | Incident                                                                               | Amt Stolen       |
 | --- | ---------- | -------------------------------------------------------------------------------------- | ---------------- |
@@ -651,28 +686,6 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 |    | **2025**   | **TOTAL**                                                                 | **$3,538,420**  |
 
 
-
-
-# Dust Collectors!!
-
-
-- [🔑 SQSQ Dust Collector 314 (0x31499e03303dd75851a1738e88972cd998337403)](./hacks-and-thefts/sqsq-dust-collector-314.md)
-
-- [🔑 SQSQ Dust Collector 2d7 (0x2d7554062664050294640891a122019a68ac5a2b)](./hacks-and-thefts/sqsq-dust-collector-2d7.md)
-
-- [🔑 SQSQ Dust Collector 997 (0x99739fa525c0a98384430235d278fd08938997f9)](./hacks-and-thefts/sqsq-dust-collector-997.md)
-
-- [🔑 SQSQ Dust Collector c0b (0xc0b635fb9dc28dea84db150b89d4578ff9859877)](./hacks-and-thefts/sqsq-dust-collector-c0b.md)
-
-- [🔑 SQSQ Dust Collector b5d (0xb5d70f00608c77724b5cb73b93da89df1ae9f6e8)](./hacks-and-thefts/sqsq-dust-collector-b5d.md)
-
-- [🔑 SQSQ Dust Collector fda (0xfda946270a6f452e0a134e22b493f4e7e8bdbc50)](./hacks-and-thefts/sqsq-dust-collector-fda.md)
-
-- [🔑 SQSQ Dust Collector a54 (0xa547c81b67ec09072b21baa8e107816d39cbd969)](./hacks-and-thefts/sqsq-dust-collector-a54.md)
-
-- [🔑 SQSQ Dust Collector 7ec (0x7ec567ce97ec28e19ce7e2d4bcbb7943eb90ede0)](./hacks-and-thefts/sqsq-dust-collector-7ec.md)
-
-- [💼 Old DP? Hacks + DPRK IT Laundry Dust Collector ae69 (0xae69012d15d6b1a3b2412aadef712f06f9286e0e)](./hacks-and-thefts/dp-it-dust-collector-ae69.md)
 
 
 
