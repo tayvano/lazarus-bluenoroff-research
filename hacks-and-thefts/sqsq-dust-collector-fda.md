@@ -20,11 +20,11 @@ G:: 386674
 - 0xa547c81b67ec09072b21baa8e107816d39cbd969  Dust Collector a54                                  (2025-Jul-01)
 - 0x7ec567ce97ec28e19ce7e2d4bcbb7943eb90ede0  Dust Collector 7ec                                  (2025-Sep-05)
 - 0x7485757b532dd0223785fdf24815ef5fb0ce1a6d  2025 TA CONTROLLED                                  (2025-Jun-30)
-- 0x9a5fc00f9aaa07817725fd38d7e73252f9f49e27  Theft - thomaszhu/bluemoon capital                  (2025-Jul-01)
+- 0x9a5fc00f9aaa07817725fd38d7e73252f9f49e27  Dust Collector 9a5                                  (2025-Jul-01)
 - 0x8e52af84bb0ffe425345582387c6a98446d1bf03  TA-Controlled Tornado Symbiosis April 2025          (2025-Sep-05)
 
-- 0x799533c78db6e313d65b6a7cfffc65522bf5f577  Bondly Finance Victim (2021-07)                     (2025-Mar-12)
-- 0xd954908489aba1da95eba7e3747b7f6a48901f6a  Taylor ICO Victim (Hacked 2018-05-22)               (2025-Mar-13)
+- 0x799533c78db6e313d65b6a7cfffc65522bf5f577  Bondly Finance Victim, Hacked 2021-07               (2025-Mar-12)
+- 0xd954908489aba1da95eba7e3747b7f6a48901f6a  Taylor ICO Victim, Hacked 2018-05-22                (2025-Mar-13)
 - 0x7604dcd16d8f666efbf412c30ddea934e9874932  Creates SafeMath 2020-07-12                         (2025-Mar-14)
 - 0xf19d23980e88c3671118adf5d220d985c5baddd3  Loreal Coin Deployer                                (2025-Mar-14)
 - 0x1006d086be58fcefb4f1e7b2fd7eeeb12a3a1eda  TNC Group Deployer                                  (2025-Mar-14)
@@ -33,7 +33,7 @@ G:: 386674
 - 0x04306896333c60959ae66bf1e8c5983225ba8251                                                      (2025-Mar-17)
 - 0xd0258ff4a383dc44d76780aed7c4f1c99f16d324  BTC Markets / DAO Whale                             (2025-Mar-18)
 - 0xcf36f8d45438ad768a784ed157b2bb1bdfc60a58  Beowolf: Deployer                                   (2025-Mar-21)
-- 0xa0bb4ba19f578a63fa3f67adaf7bbca15ccadc45  BTC Markets (Hacked 2018-08-08)                     (2025-Mar-21)
+- 0xa0bb4ba19f578a63fa3f67adaf7bbca15ccadc45  BTC Markets, Hacked 2018-08-08                      (2025-Mar-21)
 - 0xdbda5c1df72d5f42faacc4a0b668d54664751a82  from Coinjar 2017-12-21                             (2025-Mar-29)
 - 0x73c8e8582bdf1201b9835faf44db0376bcc36892  from Coinjar 2017-12-21                             (2025-Mar-29)
 - 0x13075964f6fb169d9bc8bb63b8f41269a4a196ec  from Coinjar 2018-12-28                             (2025-Mar-29)
@@ -45,7 +45,7 @@ G:: 386674
 - 0xd41a9855e19f0613de6dc9035f461eef7db8c696  from Coinjair 2018-01-27                            (2025-Mar-29)
 - 0x4db6a5b5c4498823ca8f631b70098945cb8a002d  Miner? June 2018 Era                                (2025-Mar-29)
 - 0xab26b2249a17a0af987b0d3a366bce37cb0a3d4c                                                      (2025-Mar-29)
-- 0x258b896c2e1ecf2ce3034e82791e40d6d463fdbe  OBZ ICO (Hacked 2018-05-25?)                        (2025-Mar-29)
+- 0x258b896c2e1ecf2ce3034e82791e40d6d463fdbe  OBZ ICO, Hacked 2018-05-25?                         (2025-Mar-29)
 - 0x5094e97f4d1f3a3c80114728cd692acf93eb184a                                                      (2025-Mar-31)
 - 0x041f322e5fb94ed4b20992ab217d73601f1f48be                                                      (2025-Apr-17)
 - 0x077610bbe656c04ca85954786f38210ae4bc82c1                                                      (2025-Apr-17)
@@ -81,8 +81,8 @@ G:: 386674
 - 0xbb139471601d5a9f453fd2b6b1fafd3ed3d5502b                                                      (2025-Jul-16)
 - 0x12ed7f6ed0491678764c2b222a58452926e44db6  Zach Apr 2024 Freeze (Ryongdong)                    (2025-Aug-09)
 - 0x005f7ed737346941acd68d0292a86f21d173538a                                                      (2025-Aug-12)
-- 0x009bb5e9fcf28e5e601b7d0e9e821da6365d0a9c  Bancor Deployer 2 (2018-07)                         (2025-Aug-12)
-- 0x5aa9e9de3e667ad79a097b4b75ccde10acb7f930  Bancor Victim (2018-07)                             (2025-Aug-12)
+- 0x009bb5e9fcf28e5e601b7d0e9e821da6365d0a9c  Bancor Deployer 2, 2018-07                          (2025-Aug-12)
+- 0x5aa9e9de3e667ad79a097b4b75ccde10acb7f930  Bancor Victim, 2018-07                              (2025-Aug-12)
 - 0x379e86111032c5508d82627c9e882ffce7cac555  BTC Markets Victim?                                 (2025-Aug-12)
 - 0x107fabd933d789c5179dc0ee1b894dc28377e120  BTC Markets Victim?                                 (2025-Aug-12)
 - 0x8d5ef98c45425a34ced95303136ba726abe29a80  BTC Markets Victim - The DAO                        (2025-Aug-12)
@@ -91,13 +91,13 @@ G:: 386674
 - 0x7cb7cf5871b769b49f33012ed08af45eee0e2e93  BTC Markets Victim?                                 (2025-Aug-13)
 - 0xe5182ece609cf6318b05c8bf9d0edd130da47c4c  BTC Markets? From Bridgers                          (2025-Aug-13)
 - 0xed0d69d3726d4563596d30abb9a4a5dcc19057cd  Unknown, from Coinbase July 2017                    (2025-Aug-13)
-- 0xb7bb79bafc8bb11ce91376ab6c1bc93606934c0b  Unibright Victim (2020-09)                          (2025-Aug-13)
-- 0x9fcf9d4219f708d69117ba401df98df5759d15b8  Unibright Victim (2020-09)                          (2025-Aug-13)
+- 0xb7bb79bafc8bb11ce91376ab6c1bc93606934c0b  Unibright Victim, Hacked 2020-09                    (2025-Aug-13)
+- 0x9fcf9d4219f708d69117ba401df98df5759d15b8  Unibright Victim, Hacked 2020-09                    (2025-Aug-13)
 - 0x62588aa3e37042c186cb40fa4d0a6b105fa34e20  Unibright: Deployer                                 (2025-Aug-13)
-- 0x15c0026a492e20611e5c7b7d4fc82e915d38e957  Unibright Victim (2020-09)                          (2025-Aug-13)
-- 0xaba26d0caab10c5488209bdbd084755b98d58104  Unibright Victim (2020-09)                          (2025-Aug-13)
-- 0x0d85b5c328b64719bdf4d22e2fa06390724e9975  Unibright Victim (2020-09)                          (2025-Aug-13)
-- 0x773eafb3b2df77495f6c561efb886ce4fbde1797  Unibright Victim (2020-09)                          (2025-Aug-13)
+- 0x15c0026a492e20611e5c7b7d4fc82e915d38e957  Unibright Victim, Hacked 2020-09                    (2025-Aug-13)
+- 0xaba26d0caab10c5488209bdbd084755b98d58104  Unibright Victim, Hacked 2020-09                    (2025-Aug-13)
+- 0x0d85b5c328b64719bdf4d22e2fa06390724e9975  Unibright Victim, Hacked 2020-09                    (2025-Aug-13)
+- 0x773eafb3b2df77495f6c561efb886ce4fbde1797  Unibright Victim, Hacked 2020-09                    (2025-Aug-13)
 - 0x0e91b2f0dd95511c08497fd16d38a154645ac419  BTC Markets Victim?                                 (2025-Aug-26)
 - 0x09976018ac65db7a3f9160d49f4ffef2743896c4  Veritium / Mining?                                  (2025-Aug-28)
 - 0xea49df3be52d031b6c5e6ade349626e9a07030f2                                                      (2025-Aug-28)
@@ -114,7 +114,7 @@ G:: 386674
 - 0xe7341208cc8806c212eaeb62326abb869b59a741                                                      (2025-Sep-04)
 - 0x52ec91c58e1a575738f7462d88113fa7233bf3f9                                                      (2025-Sep-04)
 - 0x5218d02d96fb0fcd067f94144b81bb2a702423a0                                                      (2025-Sep-04)
-- 0xd8e3e3ec5643e451a4a1ca57704dfa6353898ebc  850311.eth                                          (2025-Sep-05)
+- 0xd8e3e3ec5643e451a4a1ca57704dfa6353898ebc 850311.eth, Finnexus Victim?                         (2025-Sep-05)
 
 
 
@@ -122,7 +122,7 @@ G:: 386674
 
 - 0x2e8f5420df787baf9e0f27b593eed0cdd1baabb8 - ChangeNOW (2025-09-05)
 
-- 0xb9a9b277846cb35d84137e5354f561bb4cacd65b - ChangeNOW (2025-09-05) via thomaszhu.eth
+- 0xb9a9b277846cb35d84137e5354f561bb4cacd65b - ChangeNOW (2025-09-05)
 
 - Tornado Cash
 

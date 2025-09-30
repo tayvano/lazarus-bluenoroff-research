@@ -1,6 +1,6 @@
 # ANKR Founder
 
-Date:: January 27, 2022 (or Jan 17???)
+Date:: 2022-01-27
 
 Amount Stolen:: $1,799,228 (167 ETH + 599,385 FTM)
 
@@ -30,12 +30,11 @@ Amount Stolen:: $555,000 (167 ETH)
 
 
 
-# January 27, 2022 (or Jan 17???)
+# January 27, 2022
 
 - Receives from fantomecosystem.eth https://etherscan.io/tx/0xdd090c865d036ee42e7151b66bb30425392a8f6b8848081645b43bfff17f70da
 
-
-- Victim: 0x9c1b3c73f0113ebffeb3c7f18429bee66232a059
+- 0x9c1b3c73f0113ebffeb3c7f18429bee66232a059 - Victim
 
 - 0x95a94af4418a23b06f029af55e7c2fb06b9a2ad7 - Theft - Also receives from Jan 15 2022
 

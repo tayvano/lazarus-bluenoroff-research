@@ -17,17 +17,13 @@ Swaps for 360.73728419 ETH total
 
 ## Onchain
 
-- 0xc1c4cfc4c6df09b3d837c153014acfdbd85e5bc9 (June 3, 2021 + July 2, 2021 + July 14, 2021)
+- 0xc1c4cfc4c6df09b3d837c153014acfdbd85e5bc9 - Direct Theft 
 
-- its connected from the btc side which is how i found it
+- 0x2ee6f063e99d93fdf2f276b24cfe982f570ae5df - Dust, Also Bondly Finance (2022-01-05)
 
-- but it sends to 0x2ee6f063e99d93fdf2f276b24cfe982f570ae5df
+- 0x072422f1b6946740e43da4e2003f565a582a8e89 - Dust, Also MNGR Hack (2021-11-26)
 
-- which receives from bondly exploiter 0xc433d50dd0614c81ee314289ec82aa63710d25e8
-
-- sends to mgnr hacker 0x11bdc178b06b6f1dcd98ed19ab7bf90331758c5b4f627969de6d7403b0e5b9b8
-
-- sends to bondly finance exploiter 0xbe9da60a420bb46b320badaea846df6938616e35247d4bd0f860cd9e201cf8c8
+- 0xfcc07abc9a51abafeee6fe6d83f962d5f17839ec - Receives from (2021-07-13)
 
 
 

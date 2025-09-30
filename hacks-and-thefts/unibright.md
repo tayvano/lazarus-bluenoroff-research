@@ -54,6 +54,8 @@ ON September 11, 2020 the Unbright team noticed unauthorized transfers of $400K 
 - 0xdfc74aedb08dff8f2ab8460166dd498ed2ff82f8 - Victim
 - 0x43b85d209a9df5299fa385c5936c13d420450f7c - Victim
 - 0x6a94e8246eb41be081b322b864bfc1e8fb2a0a3f - Victim
+- 0x0D85b5C328B64719BDf4d22e2fA06390724e9975 - Victim
+- 0x773EAfB3b2df77495f6C561efb886cE4FbDE1797 - Victim
 - 0x62588aA3E37042c186cb40fa4D0a6B105FA34E20 - Deployer (Victim)
 
 - 0x6c6357f30fcc3517c2e7876bc609e6d7d5b0df43 - Theft

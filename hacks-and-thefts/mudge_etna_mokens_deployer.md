@@ -1,8 +1,14 @@
-# Etna / Mokens Deployer
+# Theft from Individual Mudge
 
-Date:: April 2nd, 2021
+Date:: 2021-04-02
 
 Amount Stolen:: $250,000
+
+Tags:: 🔑
+
+---
+
+## Onchain
 
 - 0xe285d1408a223be34bf2b39e9d38bde26708a246 - Victim, ETNA Deployer, BSC
 

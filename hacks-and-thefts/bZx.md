@@ -1,6 +1,6 @@
 # bZx
 
-Date:: November 3rd, 2021
+Date:: 2021-11-03
 
 Amount Stolen:: $55,000,000
 
@@ -26,18 +26,26 @@ Most losses were on Polygon and Binance Smart Chain (BSC)
 
 ## Onchain
 
+- 0x7a1d27e928ccfeaa2c5182031aeb6f2ecb07ea13 - Victim
+
+- 0x54e88185eb636c0a75d67dccc70e9abe169ba55e - Victim
+
 
 - 0x0ACC0e5faA09Cb1976237c3a9aF3D3d4b2f35FA5 - Primary Theft on BSC 
 
 - 0x74487eed1e67f4787e8c0570e8d5d168a05254d4 - Primary Theft on ETH - 10M BZRX, $4m ETH
 
-- 0xafad9352eb6bcd085dd68268d353d0ed2571af89 - 2M BZRX, $1.4m DAI, $243k USDC, $15m ETH
+- 0xafad9352eb6bcd085dd68268d353d0ed2571af89 - Theft, 2M BZRX, $1.4m DAI, $243k USDC, $15m ETH
 
-- 0x967bb571f0fc9ee79c892abf9f99233aa1737e31 - 2.5M BZRX, 12M VBZRX, 82K BZRX, $2m in ETH
+- 0x967bb571f0fc9ee79c892abf9f99233aa1737e31 - Theft, 2.5M BZRX, 12M VBZRX, 82K BZRX, $2m in ETH
 
-- 0x1ae8840ceaef6eec4da1b1e6e5fcf298800b46e6 - Receives from Kucoin, USDT Frozen
+- 0x1ae8840ceaef6eec4da1b1e6e5fcf298800b46e6 - Theft, Receives from Kucoin, USDT Frozen
 
-- 0x6abcA33faeb7deb1E61220e31054f8d6Edacbc81 - 1.5m BZRX
+- 0x6abcA33faeb7deb1E61220e31054f8d6Edacbc81 - Theft, 1.5m BZRX
+
+- 0x31aa6287ecdcf0f0a266d40ac40e5ed37ccb6234 - Theft
+- 0x53cb834c43ce919289a4db2ca54f65e1afb17041 - Theft
+- 0xecfbf8800eb71f4edec980d8274cff4af3134683 - Theft
 
 - 0x20d9e73aafe69a3cd66ad7477de7358d0ed44b10 - Tornado Cash Deposits
 

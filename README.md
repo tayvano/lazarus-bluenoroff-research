@@ -337,25 +337,27 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 
 - [Apr 2024 | How Lazarus Group laundered $200M from 25+ crypto hacks to fiat from 2020–2023](https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE)
 
-- They are the best dust collectors:
+- They are **the best** dust collectors! 🥰
 
-- [🔑 🔐 💼 DP / DPRK IT Laundry Dust Collector ae69 (0xae69012d15d6b1a3b2412aadef712f06f9286e0e)](./hacks-and-thefts/dp-it-dust-collector-ae69.md)
+- 🔑 🔐 💼 [Dust Collector ae69 (0xae69012d15d6b1a3b2412aadef712f06f9286e0e)](./hacks-and-thefts/dp-it-dust-collector-ae69.md)
 
-- [🔑 SQSQ Dust Collector b5d (0xb5d70f00608c77724b5cb73b93da89df1ae9f6e8)](./hacks-and-thefts/sqsq-dust-collector-b5d.md)
+- 🔑 [Dust Collector 9a5 (0x9a5fc00f9aaa07817725fd38d7e73252f9f49e27)](./hacks-and-thefts/sqsq-dust-collector-9a5.md)
 
-- [🔑 SQSQ Dust Collector fda (0xfda946270a6f452e0a134e22b493f4e7e8bdbc50)](./hacks-and-thefts/sqsq-dust-collector-fda.md)
+- 🔑 [Dust Collector b5d (0xb5d70f00608c77724b5cb73b93da89df1ae9f6e8)](./hacks-and-thefts/sqsq-dust-collector-b5d.md)
 
-- [🔑 SQSQ Dust Collector a54 (0xa547c81b67ec09072b21baa8e107816d39cbd969)](./hacks-and-thefts/sqsq-dust-collector-a54.md)
+- 🔑 [Dust Collector fda (0xfda946270a6f452e0a134e22b493f4e7e8bdbc50)](./hacks-and-thefts/sqsq-dust-collector-fda.md)
 
-- [🔑 SQSQ Dust Collector 7ec (0x7ec567ce97ec28e19ce7e2d4bcbb7943eb90ede0)](./hacks-and-thefts/sqsq-dust-collector-7ec.md)
+- 🔑 [Dust Collector a54 (0xa547c81b67ec09072b21baa8e107816d39cbd969)](./hacks-and-thefts/sqsq-dust-collector-a54.md)
 
-- [🔑 SQSQ Dust Collector 314 (0x31499e03303dd75851a1738e88972cd998337403)](./hacks-and-thefts/sqsq-dust-collector-314.md)
+- 🔑 [Dust Collector 7ec (0x7ec567ce97ec28e19ce7e2d4bcbb7943eb90ede0)](./hacks-and-thefts/sqsq-dust-collector-7ec.md)
 
-- [🔑 SQSQ Dust Collector 2d7 (0x2d7554062664050294640891a122019a68ac5a2b)](./hacks-and-thefts/sqsq-dust-collector-2d7.md)
+- 🔑 [Dust Collector 314 (0x31499e03303dd75851a1738e88972cd998337403)](./hacks-and-thefts/sqsq-dust-collector-314.md)
 
-- [🔑 SQSQ Dust Collector 997 (0x99739fa525c0a98384430235d278fd08938997f9)](./hacks-and-thefts/sqsq-dust-collector-997.md)
+- 🔑 [Dust Collector 2d7 (0x2d7554062664050294640891a122019a68ac5a2b)](./hacks-and-thefts/sqsq-dust-collector-2d7.md)
 
-- [🔑 SQSQ Dust Collector c0b (0xc0b635fb9dc28dea84db150b89d4578ff9859877)](./hacks-and-thefts/sqsq-dust-collector-c0b.md)
+- 🔑 [Dust Collector 997 (0x99739fa525c0a98384430235d278fd08938997f9)](./hacks-and-thefts/sqsq-dust-collector-997.md)
+
+- 🔑 [Dust Collector c0b (0xc0b635fb9dc28dea84db150b89d4578ff9859877)](./hacks-and-thefts/sqsq-dust-collector-c0b.md)
 
 
 
@@ -477,7 +479,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑  | 2025-09-19    | [Sep 19 Theft](./hacks-and-thefts/2025-sep-19.md)                                  | $160,000         |
 | 🔑  | 2025-09-22    | [UXLINK](./hacks-and-thefts/uxlink.md)                                             | $44,112,708      |
 | 🔑  | 2025-09-24    | [SBI Crypto Mining](./hacks-and-thefts/sbi-crypto.md)                              | $20,283,197      |
-|     | **2025**      | TOTAL                                                                              | **$306,069,918** |
+|     | **2025**      | **TOTAL**                                                                          | **$306,069,918** |
 
 
 
