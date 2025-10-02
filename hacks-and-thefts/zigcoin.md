@@ -2,7 +2,7 @@
 
 Date::  2024-12-17, 2025-01-12
 
-Amount Stolen:: 
+Amount Stolen:: $400,000
 
 Tags:: 🔑
 
@@ -30,7 +30,7 @@ G:: 387423
 
 - 0x394f11c4566a4b3f7029f16d1cca54cc5e255e7d - Theft, Receives from zig shit
 
-- 0xca19889e016eff837df5c2e6f3132901566ffa9d - Theft, Tornado, Zignaly, Symbiosis
+- 0xca19889e016eff837df5c2e6f3132901566ffa9d - Theft, Tornado Cash, Zignaly, Symbiosis
 
 - 0xa3cceb7e99b651ea3d6d32507c2a3c3af5ac9b1a - Theft
 
@@ -45,6 +45,10 @@ G:: 387423
 - 0xa547c81b67ec09072b21baa8e107816d39cbd969 - Dust Collector a54
 
 - 0xfda946270a6f452e0a134e22b493f4e7e8bdbc50 - Dust Collector fda
+
+- 0x2e7aae44799b49bfe675676ffd2455cc19b671a1 - Adjacent Tornado Cash Withdrawals
+
+- 0xca19889e016eff837df5c2e6f3132901566ffa9d - Adjacent Tornaod Cash Withdrawals
 
 
 ## Connections

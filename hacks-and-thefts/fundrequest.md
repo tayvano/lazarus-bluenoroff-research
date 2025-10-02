@@ -16,7 +16,6 @@ Tags:: 🔑
 - 0x708416775b69e3d3d6c634ffdf91778a161d30bd - Victim
 - 0x708416775b69e3d3d6c634ffdf91778a161d30bd - Victim (requestcrypto.eth)
 - 0x87cdfb4d8ce9bb7b215d7cc00cc3fc4d0dc2815f - Victim
-- 0x8c82b3f3e7f64d1988dc6d72dc268d0e0ee2bdaa - Victim
 - 0xb51ff330f2134a6ca2fd34d1c3d137b7807511fc - Victim (2018 era)
 - 0xc133b4792c4fbfa9608af929821472c5dc17b5ea - Victim
 - 0xcc3fe343476f40f88ab86251725de63f99ce35e3 - Victim
@@ -46,6 +45,9 @@ Tags:: 🔑
 - 0xe7e4e0659955f2636f40ca5703124662d94ac96a - Theft (2020-12-25)
 
 - 0xb82f7b558b884d4334977d51601b563ad6c5d9cd - Adjacent Theft?
+
+
+- 0x8c82b3f3e7f64d1988dc6d72dc268d0e0ee2bdaa - L2 Theft
 
 - 0xc6d5c73b2dac81ac6d1d5815fe2b9f251989b428 - Nexus Mutal Theft
 
