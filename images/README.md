@@ -1,5 +1,11 @@
 # 🔑 Fake VCs
 
+![](./2025-09-18_SQ_Fake-Tracy.jpeg)
+
+- [2025-09-18_SQ_Fake-Tracy](./2025-09-18_SQ_Fake-Tracy.jpeg)
+
+- [https://x.com/waterdripfund/status/1968904548271235433/](https://x.com/waterdripfund/status/1968904548271235433/)
+
 ![](./2025-08-01_SQ_Fake-Gumi-1.jpg)
 
 ![](./2025-08-01_SQ_Fake-Gumi-2.jpg)
