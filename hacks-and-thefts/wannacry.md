@@ -1,10 +1,10 @@
 # Wannacry
 
-Date:: May 12th, 2017
+Date:: 2017-05-12
 
 Tags:: Ransomware, ShapeShift, Monero
 
-Amount Stolen:: $200k (52+ BTC)
+Amount Stolen:: $200,000 (52+ BTC)
 
 ---
 
