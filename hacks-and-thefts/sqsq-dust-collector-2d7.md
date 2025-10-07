@@ -17,7 +17,7 @@ G:: 387409
 
 - 0x072422f1b6946740e43da4e2003f565a582a8e89 - [Sep 2021 Theft](../hacks-and-thefts/2021-sept.md) - 0.42194 ETH 
 
-- 0x78e3b85d827dcf00fc348f8bceef7b4fcfecc7fc - [Nov 2021 NFT Theft](../hacks-and-thefts/2021-sept.md) - 0.261145 ETH 
+- 0x78e3b85d827dcf00fc348f8bceef7b4fcfecc7fc - [Nov 2021 SCC Theft](../hacks-and-thefts/scc.md) - 0.261145 ETH 
 
 - 0x0040c81b7de0953e5b9fc056700479cace1b7500 - [Oct 2021 Metaplay Hack](../hacks-and-thefts/metaplay-sq.md) - 2.750312 ETH 
 

@@ -84,5 +84,14 @@ See more: [SquidSquad Dust Collectors](./sqsq-dust-collector-c0b.md)
 - is still holding this position today 
 
 
+### 2025
+
+- 0x91c23c5526404e96515d8969a6d6055270ae8ad7 - Back to Tornado
+- 0x7fba4c4d28e2be122df85e22cdc6719c6f3c9c51 - Back to Tornado
+- 0xbcbc9fbcd5477ff6b4031da5185b51c4dd090fc0 - Back to Tornado
+- 0xf98750aa0b0b93005a24a007f5db8d394c1b870a - Back to Tornado
+- 0x4e8dc1494ca75ec2dd388da86655d21a5959a7b3 - Back to Tornado
+
+
 
 

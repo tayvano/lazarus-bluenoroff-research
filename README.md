@@ -53,8 +53,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2022 | $765,072,860       | 15          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,804,332       | 27          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $937,358,667       | 60          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $2,019,343,546     | 60          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,987,852,258** | **234**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2025 | $2,020,481,318     | 61          |                     |                    |                     |        |                    |              |                    |           |
+|      | **$5,988,990,030** | **235**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -68,6 +68,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-22 | [UXLINK](./hacks-and-thefts/uxlink.md)                                                           | $44,112,708      |
 | 🔑 | 2025-09-19 | [Ross Gates](./hacks-and-thefts/rossgates.md)                                                    | $150,000         |
 | 🔑 | 2025-09-19 | [Sep 19 Theft](./hacks-and-thefts/2025-sep-19.md)                                                | $160,000         |
+| 🔑 | 2025-09-12 | [Sep 12 Theft](./hacks-and-thefts/2025-sep-12.md)                                                | $1,137,772       |
 | 💼 | 2025-09-11 | [Shibarium](./hacks-and-thefts/shibarium.md)                                                     | $2,000,000       |
 | 🔑 | 2025-09-10 | [Request / Singularity](./hacks-and-thefts/request-singularity.md)                               | $3,000,000       |
 | 🔑 | 2025-09-09 | [JP Thor](./hacks-and-thefts/jpthor.md)                                                          | $2,435,000       |
@@ -123,7 +124,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 👛 | 2025-01-23 | [Phemex](./hacks-and-thefts/phemex.md)                                                           | $85,085,704      |
 | 🔑 | 2025-01-20 | [Unknown Jan 2025](./hacks-and-thefts/jan2025.md)                                                | $1,700,000       |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000          |
-|    | 2025       | TOTAL                                                                                            | $2,019,343,546   |
+|    | 2025       | TOTAL                                                                                            | $2,020,481,318   |
 |    |            |                                                                                                  |                  |
 | 🔑 | 2024-12-30 | [Napier Founder](./hacks-and-thefts/napier.md)                                                   | $500,000         |
 | 🔑 | 2024-12-18 | [Rainfi](./hacks-and-thefts/rainfi.md)                                                           | $2,009,331       |
@@ -372,6 +373,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-22    | [UXLINK](./hacks-and-thefts/uxlink.md)                                             | $44,112,708      |
 | 🔑 | 2025-09-19    | [Sep 19 Theft](./hacks-and-thefts/2025-sep-19.md)                                  | $160,000         |
 | 🔑 | 2025-09-19    | [Ross Gates](./hacks-and-thefts/rossgates.md)                                      | $150,000         |
+| 🔑 | 2025-09-12    | [Sep 12 Theft](./hacks-and-thefts/2025-sep-12.md)                                  | $1,137,772       |
 | 🔑 | 2025-09-10    | [Request / Singularity](./hacks-and-thefts/request-singularity.md)                 | $3,000,000       |
 | 🔑 | 2025-09-09    | [JP Thor](./hacks-and-thefts/jpthor.md)                                            | $2,435,000       |
 | 🔑 | 2025-09-06    | [Individual AN5](./hacks-and-thefts/an5.md)                                        | $420,000         |
@@ -401,7 +403,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-02-05    | [Unknown Feb 2025](./hacks-and-thefts/feb2025.md)                                  | $610,000         |
 | 🔑 | 2025-02-05    | [Russell](./hacks-and-thefts/russell.md)                                           | $1,125,700       |
 | 🔑 | 2025-01-20    | [Unknown Jan 2025](./hacks-and-thefts/jan2025.md)                                  | $1,700,000       |
-|    | **2025**      | **TOTAL**                                                                          | **$309,475,856** |
+|    | **2025**      | **TOTAL**                                                                          | **$310,613,628** |
 |    |               |                                                                                    |                  |
 | 🔑 | 2024-12-30    | [Napier Founder](./hacks-and-thefts/napier.md)                                     | $500,000         |
 | 🔑 | 2024-12-18    | [Rainfi](./hacks-and-thefts/rainfi.md)                                             | $2,009,331       |

@@ -1,8 +1,10 @@
-# GERA Coin
+# GERA Coin / Darshan Hack
 
-Date:: September 7, 2022
+Date:: 2022-09-07 2022-10-17
 
-Amount Stolen:: $122k
+Amount Stolen:: $122,000
+
+Tags:: 🔑
 
 
 ---
@@ -20,10 +22,16 @@ bc1qp8k0fd49yw4q88prm5lgu7yjj0uwqcmvtnc06c also sends to bc1qv4u6ax9n7mc8exahxma
 
 ## Onchain
 
+- 0xb727b98b384b36db800d33bff8d54811b4cfd91d - Victim
+
+- 0xcedb9ba66dcf6b49d116cd89b357b2adad5c8b84 - Victim
+
 - 0x6bda64f6fc7d3bcf91b35e31f0504f04bda6929a - Victim
 
 - 0x510e4d61663be6a24d600aaf90f892dd8c8c61dc - Primary Theft
 
-- 0xb8c324554f8bcd001584aa3917ef9f5f6d3a3053
+- 0xb8c324554f8bcd001584aa3917ef9f5f6d3a3053 - Theft
 
-- 0xb25caeb548c40c564d2067a69a913cae14750dc0
+- 0xb25caeb548c40c564d2067a69a913cae14750dc0 - Dust
+
+- 0xa3cceb7e99b651ea3d6d32507c2a3c3af5ac9b1a - Dust, 2025

@@ -1,10 +1,12 @@
 # FinNexus Admin Key Compromise
 
-Date:: May 17th, 2021
+Date:: 2021-05-17
 
 Amount Stolen:: $7,000,000
 
 Tags:: 🔑 Admin Key Compromise, "Inside Job"
+
+G:: 389588
 
 
 ---
@@ -14,8 +16,6 @@ Tags:: 🔑 Admin Key Compromise, "Inside Job"
 
 Private Key Compromise, Modified owner of contract
 
-According to community feedback and data on the chain, the token FNX of the Onchain option agreement FinNexus has been minted, transferred or sold in a large amount in a short period of time, involving more than 300 million FNX tokens (approximately US$7 million) in BSC and Ethereum , Some users reported that the owner authority of the project contract was previously modified
-
 It called it a smart contract hack but industry experts have refuted the claim, suggesting it was a stolen private key for the administrator account. 
 
 According to community feedback and data on the chain, the token FNX of the Onchain option agreement FinNexus has been minted, transferred or sold in a large amount in a short period of time, involving more than 300 million FNX tokens (approximately US$7 million) in BSC and Ethereum , Some users reported that the owner authority of the project contract was previously modified.
@@ -23,11 +23,22 @@ According to community feedback and data on the chain, the token FNX of the Onch
 
 ## Onchain 
 
-- 0x961918dcc6f1f78f93e357182614c791041f401e - Original Contract Owner
+- 0x961918dcc6f1f78f93e357182614c791041f401e - Victim, Original Contract Owner, Dust Collected to THPFYQhc6VrkrWed5pdAp6GScR5rB2JBqq on 2025-03-10
+- 0xd8e3e3ec5643e451a4a1ca57704dfa6353898ebc - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+- 0x0ef9898e2a5a2024966aff1a16b73d06b73a67fb - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+- 0xc96294976a641f0eac227570addb0be3f803eb8a - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+- 0xc9b3ca93e09630170331641f8e1137da371c89e4 - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+- 0xba096024056bb653c6e28f53c8889bfc3553bad8 - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+
 - 0x5ebc7d1ff1687a75f76c3edfabcde89d1c09cd5f - Exploiter
-- 0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e - Also interacts with
-- 0x714ba5cd1fd5176c2d206e5be5a972f734026661 - Deployed by
+- 0xbff667c666a0b05533d1f45d4355147bf107a5e2 - Exploiter
+- 0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e - Theft
+- 0x772577ee35de3ed04b20a52238971a0a5697544c - Theft
+- 0x2da3a8738c34ffb35182670bcb76ad722240bcc0 - Theft
+
 - 0xf4ace6ae2df8ef5dbccb3a118f072f8a80868fc7 - connect FinNexus <> bZx <> MetaPlay
+
+- THPFYQhc6VrkrWed5pdAp6GScR5rB2JBqq - Receives from 0x9619 2025-03-10
 
 
 ## Further Reading

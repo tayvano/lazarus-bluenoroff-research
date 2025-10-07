@@ -88,6 +88,8 @@ All BigONE wallet private keys and user data remain secure, with losses limited 
 
 ## Further Reading
 
+- https://quadrigainitiative.com/casestudy/bigonecontrollogicchangedtowithdrawcustomerfunds.php
+
 - https://bigone.zendesk.com/hc/en-us/articles/48916067512345-BigONE-Security-Incident-Disclosure-and-Progress-Update-July-16
 
 - https://x.com/SlowMist_Team/status/1945346830222680330
