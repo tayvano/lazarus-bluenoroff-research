@@ -36,6 +36,14 @@ Overlaps a fuckload with [Sololabs](./sololabs.md)
 - [Source](https://x.com/olaxbt_terminal/status/1962496095369699539)
 
 
+
+## Further Reading
+
+- https://x.com/olaxbt_terminal/status/1972607900314182062
+
+- https://x.com/olaxbt_terminal/status/1962496095369699539
+
+
 ## Onchain
 
 - 0xec75a0bb45a07f6e23760c7fe8fcb2408a74348c - Theft

@@ -80,7 +80,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-08-13 | [Rena](./hacks-and-thefts/rena.md)                                                               | $405,938         |
 | 🎙️ | 2025-08-11 | [Unknown Canadian Victim](./hacks-and-thefts/canada-theft.md)                                    | $250,000         |
 | 🔑 | 2025-08-08 | [Newfuture](./hacks-and-thefts/newfuture.md)                                                     | $100,000         |
-| 🔑 | 2025-08-06 | [Individual Theft](./hacks-and-thefts/itos.md)                                                   | $2,738,690       |
+| 🔑 | 2025-08-06 | [Individual Theft](./hacks-and-thefts/2025-aug-06.md)                                                   | $2,738,690       |
 | 👛 | 2025-07-24 | [WOO X](./hacks-and-thefts/woox.md)                                                              | $14,038,066      |
 | 🎙️ | 2025-07-23 | [Malicious Blackbaud Moon Monkey Repo](./hacks-and-thefts/blackbaud.md)                          | $120,000         |
 | 🎙️ | 2025-07-17 | [Open Fabric](./hacks-and-thefts/openfabric.md)                                                  | $241,000         |
@@ -381,7 +381,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-01    | [OlaXBT](./hacks-and-thefts/olaxbt.md)                                             | $2,206,525       |
 | 🔑 | 2025-08-13    | [Rena](./hacks-and-thefts/rena.md)                                                 | $405,938         |
 | 🔑 | 2025-08-08    | [Newfuture](./hacks-and-thefts/newfuture.md)                                       | $100,000         |
-| 🔑 | 2025-08-06    | [Individual Theft](./hacks-and-thefts/itos.md)                                     | $2,738,690       |
+| 🔑 | 2025-08-06    | [Individual Theft](./hacks-and-thefts/2025-aug-06.md)                                     | $2,738,690       |
 | 🔑 | 2025-07-04    | [Individual DD](./hacks-and-thefts/dd.md)                                          | $544,086         |
 | 🔑 | 2025-06-30    | [June 30 2025 Theft](./hacks-and-thefts/2025-jun-30.md)                            | $1,277,499       |
 | 🔑 | 2025-06-26    | [June 26 2025 Theft](./hacks-and-thefts/2025-jun-26.md)                            | $1,316,809       |

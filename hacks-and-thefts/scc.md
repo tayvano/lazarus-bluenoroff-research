@@ -51,6 +51,8 @@ https://x.com/SccDao/status/1495960121251401734
 - 0xa4107a424fe9608a8c8f35a55ea85068a748e3a3 - from alfietao.eth
 - 0xd35c7ba065f1f715491aafd907b2b7314e13bd1d - from Ashita
 - 0x5c95985e306c6a7478a3e0aee7f540e3f6e5a68e - from Ashita
+- 0x5945ad286a19d2941aac62900c943e738a43e38f
+- 0x763d3bda2c148033e01923f30832a4fe451818f9
 
 
 ### Adjacent / Connector Addresses
@@ -61,3 +63,8 @@ https://x.com/SccDao/status/1495960121251401734
 - 0x14f59ce68c66029a3b605bfa489ab4ac874a68f8 - scc.eth
 - 0x27a7f6fca0431c02c3c5fb6116ff019a25be526d - nftevo.eth kk888.eth
 - 0xc4b0d0a7717905d342926958453e0654806850bb - alfietao.eth
+
+
+
+
+

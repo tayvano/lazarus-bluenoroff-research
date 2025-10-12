@@ -57,8 +57,22 @@ The token was upgraded to ‘EZ 2.0’ four days later, making the hacker’s ex
 - 0x575947fc3a928ddc02b0d9f00e1f8efa4a3bb62f - Victim
 - 0xda5f389231e1034b82ad182328d8930655edc68d - Victim
 - 0x437147da920714fec4822f0666d940945f9c972b - Victim
-- 0x83a2EB63B6Cc296529468Afa85DbDe4A469d8B37 - Theft
+- 0x2df3c27529d972dae05152aa95e28dc17b3dade6 - Victim
+- 0xd200ef2bc40d3db40fd70f4d03ec067331bd1295 - Victim
+- 0xf59c2e9d4ab5736a1813738e5aa5c3f5eaf94d9e - Victim
+- 0x214bd378c530e3ba465bc32a6d45dfa863543105 - Victim
+- 0x222def1dfeeaed8202491cdf534e4efff3268666 - Victim
+- 0xe6ce5dd8d004c868ef688d47e12e37d9727043c1 - Victim
+- 0x0c08d0fe35515f191fc8f0811cadcfc6b2615b74 - Victim
+- 0x8cd1f4a831e45c1a577ca3d8e3bd1f9c7db6e3ea - Victim
+- 0x50735f9087a148f4ba4a0f0052511c3bc5687d4c - Victim
+- 0xb9f85116a1cb747c72c02b72fdd8562fe3796ff1 - Victim
+- 0x9b495f8450a66c2fa3b1218dac9d5be0ee0dfb53 - Victim
+- 0x51803b276235bc450f73459d0530664aa39f6b9a - Victim
+
 - 0x437147da920714fec4822f0666d940945f9c972b - Primary Theft
+- 0x83a2EB63B6Cc296529468Afa85DbDe4A469d8B37 - Theft
+- 0x265102c23d137b1a256ae7376fda72bdb538562f - Theft
 - 0x31499e03303dd75851a1738e88972cd998337403 - Connects to Nexus Mutual, CoinMetro, Unibright Coinberry, and multiple others
 - 0x4090e984897e7c1379c73f2213b906e5bef468a4 - Ascendex/Bitmax
 - 0x437147da920714fec4822f0666d940945f9c972b - Ascendex/Bitmax Outputs

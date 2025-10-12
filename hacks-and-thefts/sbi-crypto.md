@@ -14,7 +14,29 @@ G:: 386443
 
 ## Details
 
-ReeeeeeeeeeEEEEEEEEEEEEEEEeeeeeee
+[The following announcement was posted 2025-10-02](https://www.sbigroup.co.jp/news/2025/1002_15808.html?utm_source). Auto-translated by Google.
+
+> Notice regarding unauthorized leakage of crypto assets from SBI Crypto Co., Ltd.
+
+> October 2, 2025
+
+> SBI Holdings, Inc.
+
+> SBI Crypto Co., Ltd. (Head office: Minato-ku, Tokyo; Representative Director, Chairman and President: Yoshitaka Kitao) has confirmed the unauthorized leakage of crypto assets held by its subsidiary, SBI Crypto Co., Ltd. (Head office: Minato-ku, Tokyo; Representative Director: Nicholas Edward Vitalis; hereinafter "SBI Crypto"), which operates a crypto asset mining business overseas.
+
+> We are currently conducting an investigation to determine the cause and the amount of the outflow, but we believe that the impact on our consolidated financial results will be minor.
+
+> Furthermore, SBI VC Trade Co., Ltd. and BITPoint Japan Co., Ltd., which operate cryptocurrency exchange businesses in Japan, have different cryptocurrency management entities from SBI Crypto, and we have confirmed that no damage such as unauthorized leaks has been confirmed at either company, and that there has been no impact on customers using the services of either company. We will also continue to consider the future reorganization of SBI Crypto's business.
+
+
+
+## Further Reading
+
+- https://x.com/H4ckmanac/status/1974034664001024040
+
+- https://www.sbigroup.co.jp/news/2025/1002_15808.html?utm_source
+
+
 
 
 ## Onchain
@@ -42,6 +64,8 @@ ReeeeeeeeeeEEEEEEEEEEEEEEEeeeeeee
 - 0x191cae7abf6a800ae26d2ea8020c28ff10034d95 - Dormant
 
 - 0x929131e5e6ed96b10244cc8999727234a4f235c9 - Kucoin Depo
+
+
 
 
 ## Timeline
@@ -96,3 +120,10 @@ ReeeeeeeeeeEEEEEEEEEEEEEEEeeeeeee
 - 2025-09-29 13:38 - 1 ETH
 
 - 2025-09-29 13:38 - 1 ETH
+
+
+
+
+
+
+

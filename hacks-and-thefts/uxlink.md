@@ -18,6 +18,12 @@ Tags:: 🔑
 - Going to be similar to the attempt here: https://x.com/skilllevel7/status/1964937282328096921
 
 
+## Further Reading
+
+- https://x.com/UXLINKofficial/status/1970181382107476362
+
+- https://x.com/WilliamSutant0/status/1971251632215085393
+
 
 
 ### DPRK Get's Phished

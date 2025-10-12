@@ -25,6 +25,9 @@ Tags:: 🔑
 
 - https://drive.google.com/file/d/1fJE9ltfcB1_lGjeSDjIHYeLdmAC0lJKq/view?usp=drive_link
 
+- https://x.com/realScamSniffer/status/1966389479016677873
+
+- https://x.com/evilcos/status/1966327275902972126
 
 
 

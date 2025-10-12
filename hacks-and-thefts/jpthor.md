@@ -52,11 +52,9 @@ Persona: Fake [Rena](./rena.md) (Stacks ecosystem)
 [Source](https://archive.ph/KU1JE)
 
 
-
 What I found on my computer running
 
 [Source](https://archive.ph/msP8C)
-
 
 
 > Ok so this attack finally manifested itself. 
@@ -85,9 +83,23 @@ What I found on my computer running
 https://archive.ph/dfHRg
 
 
+
+
+## Further Reading
+
+- https://x.com/lookonchain/status/1966426219639144474
+- https://archive.ph/LEXFZ
+- https://archive.ph/2WZZN
+- https://archive.ph/KU1JE
+- https://archive.ph/msP8C
+- https://archive.ph/x7Wda
+- https://archive.ph/Wlmrm
+- https://archive.ph/dfHRg
+
 Another person targetted by fake Rena:
 
 - https://x.com/sat_eth/status/1960290703826706563
+
 
 
 ## Onchain

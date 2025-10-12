@@ -24,6 +24,13 @@ And the [1900 BTC Theft](./huge_march-2025_theft.md)
 ## Onchain
 
 
+- 0x5693e56700ba1da17371b3e313fe80e4b7c7d4ba Victim
+- 0x0321105e1bd1363fa69c0d0efa6a724e70ea24f2 Victim
+- 0xaf9f1f85125fba9c6b74455ff165269859c35529 Victim
+- 0xee630be7d34382c803be6efebec8b122e0e222e9 Victim
+- 0x614aec80e35b2082122fff4350aa5e82dd38254c Victim
+
+
 - 0x24ef0c24b559e1d6a003daf8adddbfd37a4b7cff Priamry Theft + Tornado Cash (2025-06-26)
 - 0xc84d9edec40b21219a6c8572a2361d5a8b8e69e6 MaskEX Depo (2025-06-25)
 - 0xc2f9ee07f3371d1045f7dafe9f0058c5f23ac01f Dust
@@ -125,4 +132,16 @@ And the [1900 BTC Theft](./huge_march-2025_theft.md)
 - 2025-09-11 12:14:17 - More dumping tokens
 
 - 2025-09-11 14:52:23 - Tornado Cash
+
+
+
+## Connections
+
+- 2025-09-10 - JP THOR THEFT 0x37cdb6b40861f350e23aa5733e75755fcbed739f -> SOLOLABS THEFT 0xb03eceb8ac5179d344f26b31c8377955200734e2
+
+
+
+
+
+
 

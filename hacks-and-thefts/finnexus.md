@@ -29,13 +29,20 @@ According to community feedback and data on the chain, the token FNX of the Onch
 - 0xc96294976a641f0eac227570addb0be3f803eb8a - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
 - 0xc9b3ca93e09630170331641f8e1137da371c89e4 - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
 - 0xba096024056bb653c6e28f53c8889bfc3553bad8 - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+- 0x5fa057d32bb64dc02e650139e4ed27f23f929349 - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+- 0x92e97237e9853843d806d94b9e198508206e9a8d - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+- 0xdee55972351977db18360a44d4fce31e96e8107e - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
+- 0xf51eebf7dc2fc5c06da2d0f4244c373fed853fe8 - Victim, Sends to [Dust Collector 9a5](./sqsq-dust-collector-9a5.md) 2025-05-04
 
 - 0x5ebc7d1ff1687a75f76c3edfabcde89d1c09cd5f - Exploiter
 - 0xbff667c666a0b05533d1f45d4355147bf107a5e2 - Exploiter
 - 0xfceaaaeb8d564a9d0e71ef36f027b9d162bc334e - Theft
 - 0x772577ee35de3ed04b20a52238971a0a5697544c - Theft
 - 0x2da3a8738c34ffb35182670bcb76ad722240bcc0 - Theft
-
+- 0x4fae6af6ed5a8113194b2fae330144fc09f09ecd - Theft
+- 0x595271d311ba30f4c85a9b8676a5d7dc4f61182d - Hacker
+- 0x190b71ecffeb8bcde68be86bc959e06baddaea6a - SOF
+- 0xfe381bc045b85e0acd93e85ecfe65ecb0fec2a44 - connects Finnexus <> LINA Holder
 - 0xf4ace6ae2df8ef5dbccb3a118f072f8a80868fc7 - connect FinNexus <> bZx <> MetaPlay
 
 - THPFYQhc6VrkrWed5pdAp6GScR5rB2JBqq - Receives from 0x9619 2025-03-10

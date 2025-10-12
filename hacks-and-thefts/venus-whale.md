@@ -1,6 +1,6 @@
 # Venus Whale
 
-Date:: September 1st, 2025
+Date:: 2025-09-01
 
 Time:: 9:05 UTC
 
