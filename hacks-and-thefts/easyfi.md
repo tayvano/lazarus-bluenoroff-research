@@ -69,10 +69,16 @@ The token was upgraded to ‘EZ 2.0’ four days later, making the hacker’s ex
 - 0xb9f85116a1cb747c72c02b72fdd8562fe3796ff1 - Victim
 - 0x9b495f8450a66c2fa3b1218dac9d5be0ee0dfb53 - Victim
 - 0x51803b276235bc450f73459d0530664aa39f6b9a - Victim
+- 0x25f5a652d16c10817cad581cdc9e577c7bdaeb69 - Victim
+- 0x7c6cca6f9a23130cef0fd3bbb2584fc6202638fe - Victim
+- 0xd1b66ee92fcd60a950735d0952edbda39b7aa6cf - Victim
+- 0x7cf1f27d7d6f434dfedbd15d7eba02467580c545 - Victim
 
 - 0x437147da920714fec4822f0666d940945f9c972b - Primary Theft
 - 0x83a2EB63B6Cc296529468Afa85DbDe4A469d8B37 - Theft
 - 0x265102c23d137b1a256ae7376fda72bdb538562f - Theft
+- 0x77beb16e4db0686e36dbf01142685275785775ed - Theft
+- 0x67fe5b5343f963c7043ce551fadba84a3ad6473a - Gate/Ascendex swaps 2021-05-03 2021-05-07
 - 0x31499e03303dd75851a1738e88972cd998337403 - Connects to Nexus Mutual, CoinMetro, Unibright Coinberry, and multiple others
 - 0x4090e984897e7c1379c73f2213b906e5bef468a4 - Ascendex/Bitmax
 - 0x437147da920714fec4822f0666d940945f9c972b - Ascendex/Bitmax Outputs

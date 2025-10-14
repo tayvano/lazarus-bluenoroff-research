@@ -65,7 +65,6 @@ ON September 11, 2020 the Unbright team noticed unauthorized transfers of $400K 
 - 0x9b2131d4b7529c4e169e6c989e922ae0ef35c5c1 - 2020-09-21
 
 - 0x044bf69ae74fcd8d1fc11da28adbad82bbb42351 - Receives from Kucoin 2020-09-17
-- 0x3f6bd0a18552e6bab95dbda4830eeef5be97ccd4 - 2020-09-17
 - 0xd1ecf3152fa38dcb0431bb4b4e56869c2190bb28 - 2002-09-17
 
 

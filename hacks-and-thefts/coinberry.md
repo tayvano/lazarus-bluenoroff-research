@@ -28,6 +28,15 @@ Tags:: 🔑
 - 1KcTk7kJMjYaCV3FXo5bzpjaZs2aK18ntz - Primary Theft
 
 
+
+- 0x7026b25422821473f7856ec03b0a3d58fee10100 - Trial of Coinberry/Coinmetro/L2 Thefts
+- 0x0864b5ef4d8086cd0062306f39adea5da5bd2603 - Trial of Coinberry/Coinmetro/L2 Thefts
+- 0xe1cfc33ed7efc7e432a2214276fff6b71f09d493 - Trial of Coinberry/Coinmetro/L2 Thefts
+- 0x1031ffaf5d00c6bc1ee0978eb7ec196b1d164129 - Trial of Coinberry/Coinmetro/L2 Thefts
+- 0x1104c1a8e2cf42df2d103d9805bd8b193b830b65 - Trial of Coinberry/Coinmetro/L2 Thefts
+- 0x31499e03303dd75851a1738e88972cd998337403 - Dust Collector 314
+
+
 ### BTC
 
 - bc1qffjuzkld2jp2hf5apg9trz3ucpqt4rzj5rvvwv
@@ -94,3 +103,12 @@ Additionally, in 2021 multiple transfers were made from the 0x9973 address to [W
 - https://cryptopotato.com/coinberrys-software-blunder-costs-3m-in-bitcoin-report/
 - https://quadrigainitiative.com/casestudy/nothinghappenedatcoinberry.php
 - https://zachxbt.mirror.xyz/B0-UJtxN41cJhpPtKv0v2LZ8u-0PwZ4ecMPEdX4l8vE#:~:text=CoinBerry%20Incident%20Summary
+
+
+
+
+
+
+
+
+

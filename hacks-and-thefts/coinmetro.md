@@ -15,15 +15,18 @@ On October 6, 2020 the CoinMetro team observed unauthorized transfers of $750K w
 
 ## Onchain
 
+- 0xa270f3ad1a7a82e6a3157f12a900f1e25bc4fbfd - Victim
+- 0x4cf2220105995f006813923019f02be1ccca8132 - Victim 
+
 - 0x044bf69ae74fcd8d1fc11da28adbad82bbb42351 - Direct Theft
+- 0x3f6bd0a18552e6bab95dbda4830eeef5be97ccd4 - Theft
 - 1GVjvbVEYPkjCYCwJkC29t5pBWAQQd1g32 - Laundry (Connects to L2 and other known DPRK thefts)
 - 0x893a40fe1c9e5727002e00d7cedffdeb2692e1de - Theft / Swapper (2020-10-06)
 - rKNuVwi3xjmc4opNjFcJTybBeLsUusEwjG
 - 0x0eaf42160c1d347080dee0cc0ea7100c3885cd31
 - 0x990924d51c6ea6e212cce6e811b380ffd44ac350 - Also shows up in L2 Theft
 - 0xbc8d089824461048a06d300dff88bb7357d88b3b - Connects Coinberry, Coinmetro, Fetch.ai, Unibright, LEAD, Nexus Mutual, EasyFi
-- 0xa270f3ad1a7a82e6a3157f12a900f1e25bc4fbfd - Victim
-- 0x4cf2220105995f006813923019f02be1ccca8132 - Victim 
+
 
 ### Tornado Cash
 

@@ -41,6 +41,7 @@ G:: 386443
 
 ## Onchain
 
+
 - 0x9f25779098c5632da2ec55d161c4e5f2afc4e0ec - Victim
 
 - bc1qx0a2kfjd7eweczv8xqjm6rggm40v0nkhfss78l - Direct Theft

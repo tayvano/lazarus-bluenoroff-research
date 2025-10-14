@@ -21,6 +21,8 @@ Source: https://chainabuse.com/report/0494e103-1a74-4dd9-aa5b-a2354c33c100
 - 0x99cceffdc50ca5ae2d8d66a6c0d13a024acb6df7
 - 0x4f2959a68cad2a321bddd2b160ed8bd55bbb7c8a
 - 0x6130b8fa867e9a4d97e4b79452d0001376baf50b
+- 0x17a71f506880f955eff9186c51269b61502b0f0f - Kucoin Dumping
+- 0xab71cf99a6aea371a1fed0a1a4fd285526656446 - Kucoin Dumping
 - 0x127c24760904a4b2d8dacf8a26a63dbc9bcc9093 - Uniswap
 - 0x57ab5d20169c76fe0fb1a201708fe0e9bb487cc4 - Uniswap
 - 0x2ec291d41c2b4308df51a60469a83b7eb509abc1 - Uniswap
