@@ -49,12 +49,12 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2018 | $456,265,000       | 18          | $522,000,000        | 10                 | $522,000,000        | 10     | $400,000,000       | n/a          | $447,600,000       | 11        |
 | 2019 | $207,814,000       | 11          | $271,000,000        | 9                  | $271,000,000        | 9      | $200,000,000       | n/a          | $209,272,000       | 8         |
 | 2020 | $313,813,000       | 15          | $300,000,000        | 5                  | $300,000,000        | 5      | $290,000,000       | n/a          | $300,200,000       | 4         |
-| 2021 | $550,653,853       | 21          | $506,000,000        | 11                 | $428,800,000        | 9      | $250,000,000       | n/a          | $175,600,000       | 6         |
+| 2021 | $551,142,751       | 23          | $506,000,000        | 11                 | $428,800,000        | 9      | $250,000,000       | n/a          | $175,600,000       | 6         |
 | 2022 | $765,072,860       | 15          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,804,332       | 27          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $937,358,667       | 60          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
 | 2025 | $2,020,581,318     | 62          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,988,990,030** | **236**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+|      | **$5,988,990,030** | **238**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -254,9 +254,11 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🍎 | 2021-05-12 | [990.1 BTC](./hacks-and-thefts/990_btc.md)                                                       | $55,600,000      |
 | 🔑 | 2021-04-19 | [EasyFi Founder](./hacks-and-thefts/easyfi.md)                                                   | $81,000,000      |
 | 🔑 | 2021-04-02 | [Mudge / Etna / Mokens Deployer](./hacks-and-thefts/mudge_etna_mokens_deployer.md)               | $1,000,000       |
+| 🔑 | 2021-03-16 | [GaijinEagle](./hacks-and-thefts/gaijineagle.md)                                                 | $446,898         |
 | 💼 | 2021-03-05 | [Paid Network](./hacks-and-thefts/paid_network.md)                                               | $160,000,000     |
+| 🔑 | 2021-02-18 | [BOLT Token Holder](./hacks-and-thefts/bolt-holder.md)                                           | $42,000          |
 | 🍎 | 2021-01-22 | [Indodax ATO](./hacks-and-thefts/indodax_ato.md)                                                 | $2,830,000       |
-|    | **2021**   | **TOTAL**                                                                                        | **$550,653,853** |
+|    | **2021**   | **TOTAL**                                                                                        | **$551,142,751** |
 |    |            |                                                                                                  |                  |
 | 👛 | 2020-12-21 | [Exmo](./hacks-and-thefts/exmo.md)                                                               | $10,500,000      |
 | 🔑 | 2020-12-14 | [Hugh Karp / Nexus Mutual](./hacks-and-thefts/hugh_karp_nexus_mutual.md)                         | $8,000,000       |
@@ -463,7 +465,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2021-05-17    | [FinNexus](./hacks-and-thefts/finnexus.md)                                         | $7,000,000       |
 | 🔑 | 2021-04-19    | [EasyFi Founder](./hacks-and-thefts/easyfi.md)                                     | $81,000,000      |
 | 🔑 | 2021-04-02    | [Mudge / Etna / Mokens Deployer](./hacks-and-thefts/mudge_etna_mokens_deployer.md) | $1,000,000       |
-|    | **2021**      | **TOTAL**                                                                          | **$197,603,853** |
+| 🔑 | 2021-03-16    | [GaijinEagle](./hacks-and-thefts/gaijineagle.md)                                   | $446,898         |
+| 🔑 | 2021-02-18    | [BOLT Token Holder](./hacks-and-thefts/bolt-holder.md)                             | $42,000          |
+|    | **2021**      | **TOTAL**                                                                          | **$198,092,751** |
 |    |               |                                                                                    |                  |
 | 🔑 | 2020-12-14    | [Hugh Karp / Nexus Mutual](./hacks-and-thefts/hugh_karp_nexus_mutual.md)           | $8,000,000       |
 | 🔑 | 2020-11-13    | [L2 Theft](./hacks-and-thefts/l2_theft.md)                                         | $893,000         |
