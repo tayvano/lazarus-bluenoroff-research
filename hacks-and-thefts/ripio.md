@@ -38,7 +38,11 @@ Tags:: 🔐
 
 - Timezone - Taipei + Los Angeles
 
-- Linked to Rookery Capital. Initial compromise in Oct 2024. 
+- Similar to Rookery Capital. Initial compromise in Oct 2024. 
+
+- Sonia Clark
+
+- Montegotrade Recruitment Slack Channel
 
 - Related: [T6](./t6.md) [M2](./m2.md) [Rain](./rain.md)
 
