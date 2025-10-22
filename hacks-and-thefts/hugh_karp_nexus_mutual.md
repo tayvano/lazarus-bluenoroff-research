@@ -54,6 +54,14 @@ This ended up being another DPRK victim in Singapore who had multiple wallets em
 - 0x03e89f2e1ebcea5d94c1b530f638cea3950c2e2b - Theft
 - 0x0784051d5136a5ccb47ddb3a15243890f5268482 - Theft
 - 0x0adab45946372c2be1b94eead4b385210a8ebf0b - Theft
+- 0xe903db58fd9ad925c3bf8378034e79c0a5f5c2d2 - Theft
+- 0x4ae5ed0baf0b0b3af328390e1d0b931dc98f7687 - Theft
+- 0x0fb63751b8949c73380ec0f6e660b85347df6831 - Theft
+- 0x43b559c14d76453f68abd64ea693e55e8ce9d642 - Theft
+- 0x01d7e13d18893df6c1dea82c5b55a044409286ec - Theft
+- 0x4ea5fe6a606aa4323a5922d8922bf34deb93ce81 - Theft
+- 0x733e465bc1da1d8d9b210daa1b7f2a074d873330 - Theft
+- 0xffa855b0a2e830be5218d0cb534799dc3f4d6ef0 - Theft
 - 3DZTKLmxo56JXFEeDoKU8C4Xc37ZpNqEZN - Theft
 
 - 0xa2c6d4db9f601654a8f240c82999dd272572feec - Theft, Post Tornado
