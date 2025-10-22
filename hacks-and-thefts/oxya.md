@@ -1,12 +1,26 @@
 # Oxya Origin
 
-Date:: April 23rd, 2025
+Date:: 2025-04-23
 
 Amount Stolen:: $45,221
 
 Tags:: 🎙️ Contagious Interview
 
 ---
+
+
+
+## Details
+
+- https://x.com/AaronBaylo/status/1915114342905000153
+
+- https://x.com/CyversAlerts/status/1915118805740638687
+
+- https://x.com/OxyaOrigin/status/1915109745553289434
+
+- Good graph of connections: https://x.com/muststopye/status/1980602344363495740
+
+
 
 ## Onchain
 
@@ -27,12 +41,3 @@ Tags:: 🎙️ Contagious Interview
 
 
 
-
-
-## Details
-
-- https://x.com/AaronBaylo/status/1915114342905000153
-
-- https://x.com/CyversAlerts/status/1915118805740638687
-
-- https://x.com/OxyaOrigin/status/1915109745553289434
