@@ -1,0 +1,30 @@
+# Unknown Oct 18 2025 Theft
+
+Amount Stolen:: $120,000
+
+Date:: 2025-10-18
+
+Tags:: 🎙️
+
+---
+
+## Onchain
+
+- 0x45791c4dadfbd0ceff15ef4d90a7769590114eb7 - Victim
+- 0x069a8182b1835a028f3d04a55af06a9f73feeb38 - Victim
+- 0xb28823cdc1f0b272410e4399aa39f5ea7d087a7d - Victim
+- 0x3e386bcbaa5d37b013f75b6b27b2061aa9532648 - Victim
+- 0xaecdce95ecb8868c15c23817265744740b9c0777 - Victim
+- 0xc2a2e6936d19623f77128aa1b2b55fc47e58dcb8 - Victim
+- 0x34e15989e4eaf6ca2fc43a796d1d5f9fa96fa710 - Victim
+- 0xbb8645f078d8e99aa9ccd8e379157511152b479e - Victim
+- 0x3b1e80675b26d795331a19f60730fb06aaeb355c - Victim
+- 0xa4c0dce76346086e969004ab0444aa08cd793af4 - Victim
+- 0x212b2bb203c92b3b28e492c1f87e0d0f516fb58d - Victim
+- 0xf0fdc66d3f16d81a112c86eab39feb823fef6400 - Victim
+
+- 0x52ad66b2e4869e8f76868359806aeee2d8d407a0 - Theft
+
+- 0xab3d188a799216da90be5f1d48c74f7220f9fe9a - Theft
+
+- 0xf7802c555063d88d7abbc6548da6e8156f69b65f - Theft

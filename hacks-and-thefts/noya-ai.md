@@ -10,7 +10,9 @@ Tags:: 🎙️ Contagious Interview
 
 ## Details
 
-https://x.com/NewPaguinfo/status/1938619544920351014
+- https://x.com/NewPaguinfo/status/1938619544920351014
+
+- Good graph of connections: https://x.com/muststopye/status/1980602344363495740
 
 
 

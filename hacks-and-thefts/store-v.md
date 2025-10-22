@@ -1,12 +1,25 @@
-# Store-v
+# Malicious Store-v Repo
 
-Date:: July 10th, 2025
+Date:: 2025-07-10
 
 Amount Stolen:: $44,000
 
 Tags:: 🎙️ Contagious Interview
 
 ---
+
+## Details
+
+- ran malicious code from someone they met online (https://github.com/CinquinAndy) who asked them to help with something 
+ 
+- "hourly pay advisory" freelancer on their project 
+
+- invited to git -> ran malicous code -> compromised wallets
+
+- `store-v.zip` in `printfulRoute.js`
+
+- https://www.virustotal.com/gui/file/776da6564da5acdedf36df15a8ec3c6e8ef9b283dca0b6a4b0a4dfcea72bc498/detection
+
 
 ## Onchain
 
@@ -24,15 +37,4 @@ Tags:: 🎙️ Contagious Interview
 
 - 0x7acdfcf956cf2e80c287047d6b6f026736604e8a - Theft
 
-
-## Details
-
-- ran malicious code from someone they met online (https://github.com/CinquinAndy) who asked them to help with something 
- 
-- "hourly pay advisory" freelancer on their project 
-
-- invited to git -> ran malicous code -> compromised wallets
-
-- `store-v.zip` in `printfulRoute.js`
-
-- https://www.virustotal.com/gui/file/776da6564da5acdedf36df15a8ec3c6e8ef9b283dca0b6a4b0a4dfcea72bc498/detection
+- 0xf7802c555063d88d7abbc6548da6e8156f69b65f - Theft / Dust (2025-08-27)

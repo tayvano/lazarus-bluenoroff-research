@@ -1,12 +1,17 @@
 # AreonX 
 
-Date:: August 14th, 2025
+Date:: 2025-08-14
 
 Amount Stolen:: $200,000
 
 Tags:: 🎙️ Contagious
 
 ---
+
+## Details
+
+- Good graph of connections: https://x.com/muststopye/status/1980602344363495740
+
 
 ## Onchain
 
