@@ -798,12 +798,12 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2024-02-10 | [PlayDapp](./more-hacks-and-thefts/playdapp.md)                                 | TraderTraitor        | ❓ | Maybe                    |
 | 2024-06-04 | [Lykke](./more-hacks-and-thefts/lykke.md)                                       | DPRK (Unidentified)  | ❓ | If it is SHOW ME         |
 | 2024-06-09 | [Loopring](./more-hacks-and-thefts/loopring.md)                                 | TraderTraitor        | ❓ | Prob not                 |
-| 2024-09-26 | [Onyx DAO](./more-hacks-and-thefts/onyx-dao.md)                                 | DPRK IT workers      | ❓ | ❓                       |
 |            |                                                                                 |                      |    |                          |
 | 2024-03-26 | [PrismaFi](./more-hacks-and-thefts/prismafi.md)                                 | DPRK (Unidentified)  | ❌ | ❌ Not DPRK              |
 | 2024-06-10 | UwU Lend                                                                        | TraderTraitor        | ❌ | ❌ Not DPRK              |
 | 2024-06-22 | BTCTurk                                                                         | TraderTraitor        | ❌ | ❌ Not DPRK              |
 | 2024-09-16 | [DeltaPrime Key Compromise](./more-hacks-and-thefts/deltaprime.md)              | DPRK IT workers      | ❌ | ❌ Not DPRK              |
+| 2024-09-26 | [Onyx DAO](./more-hacks-and-thefts/onyx-dao.md)                                 | DPRK IT workers      | ❌ | ❌ Not DPRK              |
 | 2024-11-11 | DeltaPrime                                                                      | DPRK IT workers      | ❌ | ❌ Not DPRK              |
 | 2025-09-09 | SwissBord                                                                       | DPRK (Unidentified)  | ❌ | ❌ Not DPRK              |
 
