@@ -16,15 +16,40 @@ Radiant Capital posted on X acknowledging issues with its lending markets on BNB
 
 > Mandiant attributes this attack to UNC4736, commonly referred to as AppleJeus or Citrine Sleet. Mandiant assesses with high-confidence that UNC4736 has a Democratic People’s Republic of Korea (DPRK) nexus. Specifically, this group is aligned with DPRK’s Reconnaissance General Bureau (RGB) and has close ties with TEMP.Hermit.
 
-Add'l Signers: 
 
-- 0xbbb33DE35C4489e98965945b088Ea5361Df9eb26
-- 0xD0A16E09d8B0D77503C5f3eC05287B06C6C6cfCF
-- 0x0c75Fa5a5F1C0997e3eEA425cFA13184ed0eC9e5
-- 0xe1c6AED39d02d0898a72C77a3b8E29810dfb0140 (New)
-- 0x7E733Bed445460b5F67929594C3B16eD450f8E89 (New)
-- 0xBc565990D1b406C0cB6f458B60aD29a8ebd0CE52 (New)
-- 0x28a664Bd3962eec459B6f3477E0EeADC1fa0B926 (New)
+## Later Discoveries
+
+> Looking this address up in our notes, we noticed that this address was also involved in something else -> It was a signer on two safes, on BSC and Arbitrum: 0xcCfE10Cbc381dD6752fA34253a17e7e7c0cf7951. This exact Safe was used for testing in another incident… the hack against Radiant Capital (
+
+[Source: tanuki42](https://x.com/tanuki42_/status/1905003057093431479)
+
+
+
+
+
+## Further Reading
+
+- https://medium.com/@RadiantCapital/radiant-capital-incident-update-e56d8c23829e
+
+- https://rekt.news/radiant-capital-rekt2/
+
+- https://twitter.com/hackenclub/status/1846624373161013388
+
+- https://twitter.com/bantg/status/1847120310618767633
+
+- https://twitter.com/AnciliaInc/status/1846605867753591002
+
+- https://twitter.com/danielvf/status/1847023591117795708
+
+- https://twitter.com/AnciliaInc/status/1846606649009885515
+
+- https://twitter.com/RDNTCapital/status/1846634050100039881
+
+- https://x.com/patrickwardle/status/1866586260049105409
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
+
 
 ## Onchain
 
@@ -38,18 +63,28 @@ Add'l Signers:
 
 - API Version: https://safe-client.safe.global/v1/chains/42161/transactions/multisig_0x111CEEee040739fD91D29C34C33E6B3E112F2177_0x5c28ef88f6696dd8c5c5e4ba5632374d5de9e6cb9ebf75884332f29ef9fad416
 
+### Add'l Signers
+
+- 0xbbb33DE35C4489e98965945b088Ea5361Df9eb26
+- 0xD0A16E09d8B0D77503C5f3eC05287B06C6C6cfCF
+- 0x0c75Fa5a5F1C0997e3eEA425cFA13184ed0eC9e5
+- 0xe1c6AED39d02d0898a72C77a3b8E29810dfb0140 (New)
+- 0x7E733Bed445460b5F67929594C3B16eD450f8E89 (New)
+- 0xBc565990D1b406C0cB6f458B60aD29a8ebd0CE52 (New)
+- 0x28a664Bd3962eec459B6f3477E0EeADC1fa0B926 (New)
+
 
 ### Attacker
 
-- Attack Transaction on BSC: https://bscscan.com/tx/0xd97b93f633aee356d992b49193e60a571b8c466bf46aaf072368f975dc11841c
+- https://bscscan.com/tx/0xd97b93f633aee356d992b49193e60a571b8c466bf46aaf072368f975dc11841c - Attack Txn
 
-- Attack Transaction on ARB: https://arbiscan.io/tx/0x7856552db409fe51e17339ab1e0e1ce9c85d68bf0f4de4c110fc4e372ea02fb1
+- https://arbiscan.io/tx/0x7856552db409fe51e17339ab1e0e1ce9c85d68bf0f4de4c110fc4e372ea02fb1 - Attack Txn
 
-- 0x57ba8957ed2ff2e7ae38f4935451e81ce1eefbf5 - Malicious Contract + New Owner
+- https://arbiscan.io/tx/0xab34055320676b35d4c6c5936dabc4101b45eda0d66b94ee02f10a96e8a1dd45 - Testing on ARB
 
-- 0x3c2bc83dcd293cc8a23526a37aaeedd83ebd62de - Other Malicious Contract
+- 0x57ba8957ed2ff2e7ae38f4935451e81ce1eefbf5 Malicious Contract + New Owner
 
- - Testing on ARB: https://arbiscan.io/tx/0xab34055320676b35d4c6c5936dabc4101b45eda0d66b94ee02f10a96e8a1dd45
+- 0x3c2bc83dcd293cc8a23526a37aaeedd83ebd62de Other Malicious Contract
 
 - 0x57ba8957ed2ff2e7AE38F4935451E81Ce1eEFbf5 Attack Contract
 
@@ -213,20 +248,6 @@ Add'l Signers:
 - 0xf48514487dd161b28109c7b1185b69e11b2dce63
 
 
-## Further Reading
-
-- https://medium.com/@RadiantCapital/radiant-capital-incident-update-e56d8c23829e
-- https://rekt.news/radiant-capital-rekt2/
-- https://twitter.com/hackenclub/status/1846624373161013388
-- https://twitter.com/bantg/status/1847120310618767633
-- https://twitter.com/AnciliaInc/status/1846605867753591002
-- https://twitter.com/danielvf/status/1847023591117795708
-- https://twitter.com/AnciliaInc/status/1846606649009885515
-- https://twitter.com/RDNTCapital/status/1846634050100039881
-- https://x.com/patrickwardle/status/1866586260049105409
-
-
-
 
 ## Relevant Bridges via Chainge Finance
 
@@ -262,3 +283,10 @@ Add'l Signers:
 |                     |       |               |           |                                                    |                                                    |                                                                    |
 | 2024-10-16 14:12:05 | ARB   | 2.58          | $6,706    | 0xce22d25a8b37d85c82fa84073816e9ff2bb5ca73         | CHAINGE 0xf422ec7591e83612a39dbdf94563f20133ef2d9f | 0xe42f131294ad48fee78eda18e9dd822b7ed15acda7d63c1c9a1f0184d9969989 |
 | 2024-10-16 14:12:59 | ETH   | 2.57550988    | $6,695    | CHAINGE 0x4c5f53015f3adb1b1d15ddf4e17edaae6fa185a5 | 0x0547cc38b8c121de761d394042c45166a811d0ff         | 0x0ec4c13d0683ba30b2fd6c3c2ec867353f02779236728fd6b62810a561c4df03 |
+
+
+
+
+
+
+

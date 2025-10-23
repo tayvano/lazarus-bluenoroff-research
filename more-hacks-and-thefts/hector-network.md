@@ -1,8 +1,8 @@
 # Hector Network
 
-Date:: January 15th, 2024
+Date:: 2024-01-15
 
-Amount Stolen:: $2.7m
+Amount Stolen:: $2,700,000
 
 Tags: Unknown, DPRK IT Workers?
 
@@ -19,6 +19,8 @@ Tags: Unknown, DPRK IT Workers?
 - https://web.archive.org/web/20230614233915/https://medium.com/@Hector_Network/community-update-addressing-recent-security-incidents-at-hector-network-2fcf4d5c12a2
 
 - https://web.archive.org/web/20240117234900/https://dlnews.com/articles/defi/hector-network-dao-rage-quits-after-draining-100m-treasury/
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 ## On-Chain

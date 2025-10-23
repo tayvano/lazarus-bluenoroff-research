@@ -8,7 +8,7 @@ Time:: 02:14–04:51 KST (Wednesday)
 
 Amount Stolen: $27,000,000
 
-Tags:: 👛 MAYBE!!!!!!!!!!
+Tags:: 👛
 
 
 ---
@@ -37,16 +37,28 @@ Note: Preliminary investigation has confirmed the full attack path and logic. Fo
 All BigONE wallet private keys and user data remain secure, with losses limited to a portion of assets from the targeted hot wallet. 
 
 
+## Further Reading
+
+- https://quadrigainitiative.com/casestudy/bigonecontrollogicchangedtowithdrawcustomerfunds.php
+
+- https://bigone.zendesk.com/hc/en-us/articles/48916067512345-BigONE-Security-Incident-Disclosure-and-Progress-Update-July-16
+
+- https://x.com/SlowMist_Team/status/1945346830222680330
+
+- https://hackenproof.com/programs/bigone-hack-bounty-program
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
 
 
 ## Amount Stolen
 
 
-- TRX - July 15, 2025 17:14-18:56
+- TRX - 2025-07-15 17:14-18:56
 
-- ETH - July 15, 2025 17:24-19:51
+- ETH - 2025-07-15 17:24-19:51
 
-- BTC - July 15, 2025 17:27-17:58
+- BTC - 2025-07-15 17:27-17:58
 
 
 - BTC         120
@@ -86,19 +98,8 @@ All BigONE wallet private keys and user data remain secure, with losses limited 
 
 
 
-## Further Reading
 
-- https://quadrigainitiative.com/casestudy/bigonecontrollogicchangedtowithdrawcustomerfunds.php
-
-- https://bigone.zendesk.com/hc/en-us/articles/48916067512345-BigONE-Security-Incident-Disclosure-and-Progress-Update-July-16
-
-- https://x.com/SlowMist_Team/status/1945346830222680330
-
-- https://hackenproof.com/programs/bigone-hack-bounty-program
-
-
-
-## IoCs
+## Indicators
 
 - 192.166.246.84
 

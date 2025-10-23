@@ -18,6 +18,10 @@ The attacker compromised the private key for the protocol's deployer account and
 
 ## Onchain
 
+Transfers Ownership:
+
+- https://arbiscan.io/tx/0xd9036566a2614045219e9bead34e490fc24c9d6ca695d5348b694c3280558e3b
+
 - 0xeaf6e2a3d22a9775a1cc692b207b7d8dd6a4944c - ConcentricFi Compromised ConcentricFi Deployer
 - 0x3f06d41f7a7b0fce0b4cd201fa6a207363a2317d - ConcentricFi Malicious, Ownership Transfered Here
 - 0xc586e4b2f00ce6405741104f7394ff3df15850d3 - ConcentricFi Malicious Admin Contract
@@ -43,9 +47,6 @@ The attacker compromised the private key for the protocol's deployer account and
 
 
 
-Transfers Ownership:
-
-- https://arbiscan.io/tx/0xd9036566a2614045219e9bead34e490fc24c9d6ca695d5348b694c3280558e3b
 
 
 ## Further Reading
@@ -57,6 +58,9 @@ Transfers Ownership:
 - https://twitter.com/CryptoEvgen/status/1760445908615823713
 
 - https://twitter.com/ImmuneBytes/status/1749728382525599871
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
 
 
 ## Connections

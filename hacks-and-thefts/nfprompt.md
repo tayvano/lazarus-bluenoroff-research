@@ -1,6 +1,6 @@
 # NFPrompt
 
-Date:: March 13th, 2024
+Date:: 2024-03-13
 
 Amount Stolen:: $17,000,000
 
@@ -28,66 +28,44 @@ The suspicious wallet created a multisig wallet and transferred approximately $7
 In total, we have attributed approximately $10.4 million lost to this exploit.
 
 
-## Further Reading
+
+### NFPrompt Statement
 
 > ATTENTION $NFP Holders:  
-
 > We are writing to inform you of a critical security incident involving NFPrompt. It was discovered that a group of hackers compromised some wallets, including those of NFP’s contract administrators. 
-
 > They illegally gained control of victims' funds, including a portion of NFP treasury and ecosystem fund.   
-
 > 1. In response to the discovery of the attack, we have transferred all NFP’s smart contract ownerships to new addresses, effectively cutting off the attack vector. Users' $NFPs and assets on our platform are SAFU.
-
 > 2. FBI has stepped in to help us to seize the hackers and have alerted major CEX’s to freeze any funds associated with the hackers.   
-
 > Please do not accept $NFPs from untrusted sources until our further notice regarding this incident. We are committed to protecting the interest of $NFP holders and supporters. $NFP tokens affiliated with the hackers will be marked and forfeited.
-
 > 3. We have requested our partner CEX’s to pause deposits during the investigation. Similarly, we urge DEX’s to temporarily halt all liquidity pool activities involving $NFP tokens as a precautionary measure. We are committed to prioritizing the protection of our holders' assets and minimizing losses as quickly as possible.  
-
 > We strongly urge that you buy and trade $NFPs only in reputable CEX’s during the current investigation period. Please avoid interacting with any unofficial contracts related to $NFP, and do not purchase $NFP through private over-the-counter (OTC) channels. Remain vigilant and safe when interacting with trading channels.
-
 > 4. Furthermore, we are working with leading Web3 security firms, @SlowMist_team and @Chainalysis, to monitor the on-chain activities of the hackers and trace token swaps that could reveal their identities and identify their affiliates.
-
 > Recently there have been an increasing number of hacks when the market starts to pick up. This incident serves as a wake-up call for us to double down on security measures to ensure the foundational safety of the AI x Web3 ecosystem. 
-
 > We are committed to safeguarding NFP smart contracts, wallets, and user assets.   
-
 > As we navigate these challenges, we urge our community to stay alert to phishing attempts and scams. We'll provide more information whenever we have them. Thank you for your trust and understanding.
 
 - [Source](https://x.com/nfprompt/status/1768558658697433464)
 
-## Seizure - UNITED STATES OF AMERICA v. ALL VIRTUAL CURRENCY SEIZED FROM:
 
-- ONE MEXC ACCOUNT ENDING IN 8248
-- ONE MEXC ACCOUNT ENDING IN 7017
-- ONE BINANCE ACCOUNT ENDING IN 8327
-- ONE BINANCE ACCOUNT ENDING IN 5604
+
+
+## Further Reading
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
 - https://www.courtlistener.com/docket/69403463/united-states-v-all-virtual-currency-seized-from-one-mexc-account-ending/
 
-> During the heist, North Korean cyber actors stole several virtual currencies, including NFP. They stole approximately 19 million NFP, valued at the time of the heist at approximately $17 million, from a total of approximately 2,600 separate virtual currency addresses. The NFP were transferred from the approximately 2,600 addresses to one address, 0x60275d1cC368CF021547a82a51cFb8C055390DA3 (“0x60275d”). In other words, the funds were consolidated into that 0x60275d address. After consolidation, the perpetrators sent NFP in a series of transfers from 0x60275d to several other virtual currency addresses, as outlined below:
+- https://x.com/nfprompt/status/1768558658697433464
 
-> 0xa465480BF622e835ceE55620e7ae5870d02ecbFa MEXC
 
-> 0xb98C2390ce8a05FbFE221dC9bc2B911a9Ca2a2De MEXC
 
-> 0xe6e8521871D0e3c21B09E12012D33407891DB169 Binance
 
-> 0x342ed3d121010C725FAF6d3446c1931EBFcE8398 Binance
-
-> For example, two particular CryptoMimic C2 Servers were accessed by cyber actors located in North Korea. One North Korean IP address, 175.45.178.[x]6, repeatedly accessed “C2 Server 1” between on or about January 24, 2024, and on or about March 15, 2024. Another North Korean IP address repeatedly accessed “C2 Server 2” between on or about November 28, 2023, and on or about March 15, 2024
-
-> On or about March 14, 2024, FBI agents interviewed a COMPANY-2 employee. That employee stated, in sum and substance, that in or around November 2023, while the employee was traveling in China to meet with the CEO of COMPANY-2, the CEO was in communication with an individual who claimed to be CEO-1, the prominent venture capitalist referenced above, via Telegram, a digital messaging service that offers end-to-end encryption communications, the COMPANY-2 CEO clicked on a link to join a video conference with the individual purporting to be CEO-1, but the link did not seem to work. The imposter then sent the COMPANY-2 CEO a script file to fix the problem, which the COMPANY-2 CEO executed on the employee’s computer.
-
-> According to the employee, the employee stored a text file on their computer containing the private keys for approximately 5,000 addresses holding COMPANY-2’s native token. The perpetrators seemingly deleted this file from the employee’s computer, eliminating access by COMPANY-2.
-
-> Based on analysis of data the FBI received from the employee and from courtauthorized legal process, the COMPANY-2 employee’s computer likely connected to C2 Server 1 and C2 Server 2 at least 18 times between approximately March 11, 2024, and March 13, 2024.
 
 ## Onchain
 
-- https://intel.arkm.com/explorer/entity/90690fb4-6a4a-4c84-a851-3b0e63159612
+https://intel.arkm.com/explorer/entity/90690fb4-6a4a-4c84-a851-3b0e63159612
 
-
-- 0X9A10E4777DB1DF308159CF7778CDAF566876B43C - Victim
+- 0x9a10e4777db1df308159cf7778cdaf566876b43c - Victim
 
 - 0x60275d1cc368cf021547a82a51cfb8c055390da3 - Primary Theft, Safe Owner
 
@@ -107,7 +85,7 @@ In total, we have attributed approximately $10.4 million lost to this exploit.
 - 0x88166552dcc49bf8295e95446bce20ebe05b1fc3 - Theft Jan 2025
 - 0xb1085efba36206f1ae29af134384476d31b445b5 - Theft Jan 2025
 - 0x3b6732315ca4c33b33b5fe73322d3959ace9edd1 - Bridges 2025-01-18
-- 0x7374066fB0De73F97648C44301644D3b5e076CCC - Consolidation 2025-02-18
+- 0x7374066fb0de73f97648c44301644d3b5e076ccc - Consolidation 2025-02-18
 - 0xff7009d8310396febe63c3d253d5a390aaf295f2 - Bridges
 - 0x5e670a679e3ae2778d16614e3e54ff9dbf6a5094 - Bridges
 - 0xf2fa4f2c15bcd7b737c210c531ec99b1d2152398 - Bridges
@@ -142,10 +120,10 @@ In total, we have attributed approximately $10.4 million lost to this exploit.
 - 0x84febbcf6f404e9a5decf40cf9afcb8c130ba0d2 - Kucoin
 - 0xd77a32410a7a7d7e9f06e8b1168e81d6329d3f61 - MEXC
 - 0x4c2a2ccb21a437f823feb86ea88dd041a1355267 - MEXC
-- 0xb98C2390ce8a05FbFE221dC9bc2B911a9Ca2a2De - MEXC (Frozen)
-- 0xa465480BF622e835ceE55620e7ae5870d02ecbFa - MEXC (Frozen)
-- 0xe6e8521871D0e3c21B09E12012D33407891DB169 - Binance (Frozen)
-- 0x342ed3d121010C725FAF6d3446c1931EBFcE8398 - Binance (Frozen)
+- 0xb98c2390ce8a05fbfe221dc9bc2b911a9ca2a2de - MEXC (Frozen)
+- 0xa465480bf622e835cee55620e7ae5870d02ecbfa - MEXC (Frozen)
+- 0xe6e8521871d0e3c21b09e12012d33407891db169 - Binance (Frozen)
+- 0x342ed3d121010c725faf6d3446c1931ebfce8398 - Binance (Frozen)
 
 
 - 0xb8447e4eb716e17d3e185162db8883ed5ab6994f - eXch 2024-03-16 from 0x5651 to XMR 8ABMgo9sqArbdxm9bcFUvnKPmu5zSTFDyMP55nivBwR4Gc9jQ2gUJSK4VHZFosFGmshQsnLnB3DUtFoP62eCE5cZMxkPyus 900feb531243252adb45082cff21b4001db0e0535bfe0b9a75c086f096883afa
@@ -331,7 +309,33 @@ In total, we have attributed approximately $10.4 million lost to this exploit.
 - 0x38f71e2eabfa1c097a13a2b9519c92c4bd834f3a - eXch 2025-01-17 from 0x5993
 
 
-### Indicators
+
+## Seizure - UNITED STATES OF AMERICA v. ALL VIRTUAL CURRENCY SEIZED FROM:
+
+- ONE MEXC ACCOUNT ENDING IN 8248
+
+- ONE MEXC ACCOUNT ENDING IN 7017
+
+- ONE BINANCE ACCOUNT ENDING IN 8327
+
+- ONE BINANCE ACCOUNT ENDING IN 5604
+
+- https://www.courtlistener.com/docket/69403463/united-states-v-all-virtual-currency-seized-from-one-mexc-account-ending/
+
+> During the heist, North Korean cyber actors stole several virtual currencies, including NFP. They stole approximately 19 million NFP, valued at the time of the heist at approximately $17 million, from a total of approximately 2,600 separate virtual currency addresses. The NFP were transferred from the approximately 2,600 addresses to one address, 0x60275d1cC368CF021547a82a51cFb8C055390DA3 (“0x60275d”). In other words, the funds were consolidated into that 0x60275d address. After consolidation, the perpetrators sent NFP in a series of transfers from 0x60275d to several other virtual currency addresses, as outlined below:
+> 0xa465480BF622e835ceE55620e7ae5870d02ecbFa MEXC
+> 0xb98C2390ce8a05FbFE221dC9bc2B911a9Ca2a2De MEXC
+> 0xe6e8521871D0e3c21B09E12012D33407891DB169 Binance
+> 0x342ed3d121010C725FAF6d3446c1931EBFcE8398 Binance
+> For example, two particular CryptoMimic C2 Servers were accessed by cyber actors located in North Korea. One North Korean IP address, 175.45.178.[x]6, repeatedly accessed “C2 Server 1” between on or about January 24, 2024, and on or about March 15, 2024. Another North Korean IP address repeatedly accessed “C2 Server 2” between on or about November 28, 2023, and on or about March 15, 2024
+> On or about March 14, 2024, FBI agents interviewed a COMPANY-2 employee. That employee stated, in sum and substance, that in or around November 2023, while the employee was traveling in China to meet with the CEO of COMPANY-2, the CEO was in communication with an individual who claimed to be CEO-1, the prominent venture capitalist referenced above, via Telegram, a digital messaging service that offers end-to-end encryption communications, the COMPANY-2 CEO clicked on a link to join a video conference with the individual purporting to be CEO-1, but the link did not seem to work. The imposter then sent the COMPANY-2 CEO a script file to fix the problem, which the COMPANY-2 CEO executed on the employee’s computer.
+> According to the employee, the employee stored a text file on their computer containing the private keys for approximately 5,000 addresses holding COMPANY-2’s native token. The perpetrators seemingly deleted this file from the employee’s computer, eliminating access by COMPANY-2.
+> Based on analysis of data the FBI received from the employee and from courtauthorized legal process, the COMPANY-2 employee’s computer likely connected to C2 Server 1 and C2 Server 2 at least 18 times between approximately March 11, 2024, and March 13, 2024.
+
+
+
+
+## Indicators
 
 - 2024-Jul-12 - Express VPN, Tokyo - KO language - Mac - Shanghai Timezone
 

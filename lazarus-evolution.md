@@ -1,5 +1,14 @@
 # The Sprawling Shitshow of Ever-Evolving DPRK Threat Groups (and their names)
 
+
+### MSMT 2025 Org Chart
+
+![](./images/msmt-org-chart.png)
+
+- [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
+
+
 ### DTEX 2025 Org Chart
 
 ![](./images/2025-05-14_dtex-org-chart.png)

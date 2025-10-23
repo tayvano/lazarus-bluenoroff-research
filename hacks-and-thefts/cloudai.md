@@ -8,6 +8,34 @@ Tags:: 🎙️ Contagious Interview
 
 ---
 
+## Details
+
+> I know it will be hard to believe, I wouldn't in your place but our project has been hacked. Both our deployer and treasury account, everything was sent to 0x099616b985d4e71fc6b091d5b3f2ba27003eba57
+
+[Source: TheCloudAI](https://twitter.com/TheCloudAI/status/1767744677162143929)
+
+
+> They got hacked by the Serenity Shield, MurAll, OKX DEX attacker
+
+[Source: ZachXBT](https://twitter.com/zachxbt/status/1767790690426085816)
+
+
+__ps: no, no its not hard to believe. you are all morons.__
+
+
+
+
+
+## Further Reading
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
+- https://twitter.com/zachxbt/status/1767790690426085816
+
+- https://twitter.com/TheCloudAI/status/1767744677162143929
+
+
+
 ## Onchain
 
 - 0x163697bd5f735f605c0b2220d08af1f4b8234302 - Compromised CloudAI Deployer
@@ -41,17 +69,6 @@ Tags:: 🎙️ Contagious Interview
 - 0x2c5d076d7888c983c7eaf9f34d50d2d0ca535ec9 - CloudAI Team Safe Address
 - 0x7850c203d347034ec196dcdd231d575feaf606e7 - Compromised iWallet (Mar 13) Also sends to 0xfcffc1355361428b9133798934d51442e0c743f6
 - 0x11d1f8adf7fb39064d9fd146a0c20e3340f1bd22 - Compromised iWallet (Mar 13) Also sends to 0xfcffc1355361428b9133798934d51442e0c743f6
-
-
-## Further Reading
-
-> I know it will be hard to believe, I wouldn't in your place but our project has been hacked. Both our deployer and treasury account, everything was sent to 0x099616b985d4e71fc6b091d5b3f2ba27003eba57
-
-- https://twitter.com/TheCloudAI/status/1767744677162143929
-
-- https://twitter.com/zachxbt/status/1767790690426085816
-
-__ps: no, no its not hard to believe. you are morons.__
 
 
 ## Connections

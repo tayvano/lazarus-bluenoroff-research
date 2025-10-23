@@ -1,6 +1,6 @@
-# Bitcoin DMM
+# DMM Bitcoin
 
-Date:: May 30th, 2024
+Date:: 2024-05-30
 
 Amount Stolen:: $305,000,000 (4,502.9 BTC)
 
@@ -88,6 +88,10 @@ So they construct the largest, lowest-risk txn they could figure, crank the fee 
 - https://rekt.news/dmm-rekt/
 
 - https://twitter.com/zachxbt/status/1812466959109521649
+
+- https://www.fbi.gov/news/press-releases/fbi-dc3-and-npa-identification-of-north-korean-cyber-actors-tracked-as-tradertraitor-responsible-for-theft-of-308-million-from-bitcoindmmcom
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

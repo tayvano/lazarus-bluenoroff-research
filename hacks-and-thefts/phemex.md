@@ -1,6 +1,6 @@
 # Phemex 
 
-Date:: January 23rd, 2025
+Date:: 2025-01-23
 
 Amount Stolen:: $85,085,704
 
@@ -15,8 +15,9 @@ The Singapore-based Phemex cryptocurrency exchange's hot wallets were hacked, re
 Some people can't be helped.
 
 
-## Further Reading
 
+
+## Further Reading
 
 - https://rekt.news/phemex-rekt/
 
@@ -39,6 +40,9 @@ Some people can't be helped.
 - https://www.theblock.co/post/336754/north-korea-hack-group-possibly-behind-70-million-phemex-exploit-experts-say
 
 - https://www.web3isgoinggreat.com/?id=phemex-hack
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
 
 
 ## Onchain - Initial Theft

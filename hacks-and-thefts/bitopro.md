@@ -1,6 +1,6 @@
 # BitoPro
 
-Date:: May 9th, 2025
+Date:: 2025-05-09
 
 Amount Stolen:: $12,300,000
 
@@ -23,21 +23,23 @@ The incident has now been handed over to criminal investigation units for ongoin
 
 This security incident once again highlights the continuous evolution of cyberattack methodologies. This is not only a challenge for virtual asset platforms but also a crucial issue that Taiwanese financial institutions, and indeed all industries, should prioritize. We deeply understand that information security is an unending test. Moving forward, BitoPro will continue to strengthen our security technologies and management processes, and actively exchange experiences. We urge the industry to heighten vigilance, working together to build a secure and stable trading environment in a rapidly changing digital world.
 
-https://t.me/BitoProOfficial/165602
-
-https://x.com/bitoex_official/status/1935594731393909017
-
-https://www.facebook.com/BitoGroup/posts/pfbid02SgsySubD6Df1ngQnavsaWHQGnJv3WhBtBWodVC5rXGFVCBkTeGsHw5jmHf8VooWkl
-
-https://www.bitopro.com/ns/en-US/announcements/1226
 
 
+## Further Reading
+
+- https://t.me/BitoProOfficial/165602
+
+- https://x.com/bitoex_official/status/1935594731393909017
+
+- https://www.facebook.com/BitoGroup/posts/pfbid02SgsySubD6Df1ngQnavsaWHQGnJv3WhBtBWodVC5rXGFVCBkTeGsHw5jmHf8VooWkl
+
+- https://www.bitopro.com/ns/en-US/announcements/1226
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 
 ## Onchain
-
-
 
 - 0x2453933c98b6e55397103f7c1081626e0a02d2c9 - Theft
 

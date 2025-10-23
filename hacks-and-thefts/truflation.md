@@ -21,6 +21,20 @@ All funds consolidated @ 0xb1CF7880351E6D16313C03a6686B4c8a5bA6372a on Ethereum 
 Telegram, Twitter, Facebook were taken over by the threat actors at the time of the theft. However there has not (yet) been any indication of them being used to do anything (?).
 
 
+
+## Further Reading
+
+- https://t.me/investigations/159
+
+- https://x.com/truflation/status/1839043719124889963
+
+- https://x.com/truflation/status/1839071754196759002
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
+
+
+
 ## Onchain
 
 
@@ -117,11 +131,3 @@ Telegram, Twitter, Facebook were taken over by the threat actors at the time of 
 - 0x53d2094b31429a13e739358b16354d8e0826b25a - BSC + AVAX -> ETH on 2025-09-15
 - 0x00d71da77bd928cf79b9ec763e8791f96719baf4 - 2025-09-15
 
-
-### Further Reading
-
-- https://t.me/investigations/159
-
-- https://x.com/truflation/status/1839043719124889963
-
-- https://x.com/truflation/status/1839071754196759002

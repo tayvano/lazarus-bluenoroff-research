@@ -1,6 +1,6 @@
 # Ripio
 
-Date:: February 17th, 2025
+Date:: 2025-02-17
 
 Time:: 15:45 UTC
 
@@ -29,6 +29,11 @@ Tags:: 🔐
 - 0x136ea40347376f1c24ca64379e3ddc0df8403f43 - Tornado - May 12, 2025 - 22x100ETH + 8x1ETH
 
 - bc1q98ru749pphj7ptpr04lekg40ljhv25z29xk6az - CryptoMixer - Mar 12–19, 2025 - 42.1767 BTC
+
+
+## Further Reading
+
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

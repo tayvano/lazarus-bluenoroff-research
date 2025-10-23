@@ -1,6 +1,6 @@
 # CoinStats
 
-Date:: June 22, 2024
+Date:: 2024-06-22
 
 Anount Stolen:: $2,300,000
 
@@ -39,6 +39,7 @@ Not only that, but she actually tells him she will pay “in an hour” and then
 From there, the fake persona “keeps connecting” (🤦‍♀️) with the target.
 
 As it turns out, this team member had actually left the company shortly before. He no longer had access to any systems—a fact the attacker may have determined on their own between ~4:46pm and ~6:40pm.
+
 And with that, the conversation wraps up with Team Member #1. They'll never speak again.
 
 Only moments later though, the attacker will return to Team Member #2 and start all over again.
@@ -52,17 +53,22 @@ The conversation is the same the second time around except that:
 The employee clearly felt something about this person/interaction was sus. But he never realized that they had already landed the malware. Which makes sense—it's a seemingly benign interaction, nothing crazy happened, and no theft would occur for over a month.
 
 
+
+
 ## Further Reading
 
 - https://twitter.com/tayvano_/status/1810455262320570416
 
 - https://platform.arkhamintelligence.com/explorer/entity/e022cbe3-3a84-424e-a5f0-09ad23551a76
 
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
+
 
 
 ## Malware & IoCs
 
-- [A variant of the repo and malware dropped on March 25, 2024 to compromise the exchange was later found on Github, likely cloned by another target/victim.](../malicious-shit/TR_MALICIOUS_BTC-ETH-main.md)
+- [A variant of the repo and malware dropped on 2024-03-25 to compromise the exchange was later found on Github, likely cloned by another target/victim.](../malicious-shit/TR_MALICIOUS_BTC-ETH-main.md)
 
 - Interesting this malware hits 5 legitimate CEX API endpoints to get the price with 1/5 being a DPRK-controlled C2 impersonating the legitimate CEX.
 

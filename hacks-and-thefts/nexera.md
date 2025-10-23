@@ -77,6 +77,7 @@ Request for Assistance via Linkedin
 - https://twitter.com/nexera_official/status/1821079381831512315
 - https://archive.ph/SFeBd
 - https://t.me/investigations/148
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 
@@ -97,3 +98,13 @@ Request for Assistance via Linkedin
 https://chainabuse.com/address/0x1046726f5311e721e1d532c9a59d654b339433a2?chain=ETH
 
 > I've got contacted by Vlad Martsenyuk on Likendin, that he is a recruiter for Peru-based crypto-exchange TOTExchange and they're looking for senior blockchain developers. We stayed in contact and discussed details. He sent me a google form where was the job description and application process, so I applied for it. They wanted from me my CV, my Github and some basic contact information. After some hours, they have invited me to a Github repo under user TOTExchange-dev, where they told me is the MVP version of their new website and that I should give them feedback. The website was written in Typescript and in the evening hours I was lazy to open the source codes, so just cloned the repo, installed all dependencies through sudo yarn install. After that I just changed the install term for "start" so I put in terminal sudo yarn start. The website started but Terminal asked for a permission to my hard drive (I clicked allow) and the website was shown, however it was with some error and also the website stated Happy365Global, so obvious fake web, in that moment, I just closed everything, deleted repo and went to bed disappointed (I was really tired). In the morning I found out, that all my crypto wallets in any browser got dumped out to one address and I have nearly zero balance everywhere. That was the moment, when I realized I got robbed :( I just quickly opened the source codes (I still haev them, so can provide the whole code for investigation) and after some time found out, that there are IP addresses, API calls and also some wss call to ngrok app (of course already down). And that's the place I think where hackers have hidden some malicious code which got to my computer through websockets and download my Metamask seed phrases from browser storage, maybe also my passwords from Keychain.
+
+
+
+
+
+
+
+
+
+

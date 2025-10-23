@@ -12,35 +12,24 @@ Tags:: 👛 TraderTraitor
 
 ## Details
 
+
+
 > Bybit ETH multisig cold wallet just made a transfer to our warm wallet about 1 hr ago. It appears that this specific transaction was musked, all the signers saw the musked UI which showed the correct address and the URL was from @safe. However the signing message was to change the smart contract logic of our ETH cold wallet. This resulted Hacker took control of the specific ETH cold wallet we signed and transfered all ETH in the cold wallet to this unidentified address. Please rest assured that all other cold wallets are secure.  All withdraws are NORMAL. I will keep you guys posted as more develops, If any team can help us to track the stolen fund will be appreciated.  https://etherscan.io/tx/0xb61413c495fdad6114a7aa863a00b2e3c28945979a10885b12b30316ea9f072c
 
-— [@benbybit](https://x.com/benbybit/status/1892963530422505586)
+[Source: @benbybit](https://x.com/benbybit/status/1892963530422505586)
 
 
 > At a high level, the hack involved the 4 broad group of events:
-
 > 1. Attacker deployed a trojan contract and a backdoor contract.
-
 > 2. Attacker tricked signers of the upgradeable multisig "cold" wallet to authorize a malicious ERC-20 transfer to a trojan contract
-
 > 3. Instead of transferring tokens, trojan contract replaces the master copy of the actual Safe multisig implementation contract with the backdoor contract, which is solely controlled by the attacker.
-
 > 4. The attacker called sweepETH and sweepERC20 to drain the wallet of all its native ETH, mETH, stETH, and cmETH tokens.
 
-—[@dhkleung](https://x.com/dhkleung/status/1893073663391604753)
+[Source: @dhkleung](https://x.com/dhkleung/status/1893073663391604753)
 
 
 
-## Reports 
-
-- [Bybit Incident Investigation Preliminary Report - Verichains](../pdfs/2025-02-24_Bybit-Incident-Investigation_Preliminary-Report_Verichains.pdf)
-
-- [Bybit Interim Investigation Report - Sygnia](../pdfs/2025-02-24_Bybit-Interim-Investigation-Report_Sygnia.pdf)
-
-
-
-
-## Tweets
+## Further Reading
 
 - https://x.com/pcaversaccio/status/1892976342649466916
 
@@ -58,20 +47,24 @@ Tags:: 👛 TraderTraitor
 
 - https://x.com/dhkleung/status/1893073663391604753
 
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
+### Reports 
 
-## Podcasts
+- [Bybit Incident Investigation Preliminary Report - Verichains](../pdfs/2025-02-24_Bybit-Incident-Investigation_Preliminary-Report_Verichains.pdf)
+
+- [Bybit Interim Investigation Report - Sygnia](../pdfs/2025-02-24_Bybit-Interim-Investigation-Report_Sygnia.pdf)
+
+
+### Podcasts
 
 - Unchained w/ Tay + Jonty (Feb 25 2025) - https://x.com/laurashin/status/1894432376870375694
 
 - Unchained w/ Mudit Gupta (Feb 28 2025) - https://x.com/laurashin/status/1895474240813433094
 
 
-
-
-
-## Dune Dashboards
+### Dune Dashboards
 
 - https://dune.com/tayvano/bybit-thorchain-shitshow
 
@@ -83,7 +76,8 @@ Tags:: 👛 TraderTraitor
 
 ## Onchain
 
-## Malicious Txn
+
+### Malicious Txn
 
 - [Safe Txn JSON](../malicious-shit/bybit-safe-tx-71.json)
 
@@ -95,7 +89,7 @@ Tags:: 👛 TraderTraitor
 - 0xe3dF2cCEAc61B1aFA311372ecC5B40A3A6585a9E - Signer 3
 
 
-## Addresses
+### Addresses
 
 - 0x19C6876E978D9F128147439ac4cd9EA2582cd141 - Testing Contract
 - 0xe8b36709dd86893bf7bb78a7f9746b826f0e8c84 - Testing EOA
@@ -163,10 +157,10 @@ Tags:: 👛 TraderTraitor
 
 
 
-## Indicators
+### Indicators
 
-- 212.30.33.XXX - Feb 21
-- 163.5.241.XXX - Feb 21
-- 194.5.53.XXX - Feb 21
+- 212.30.33.XXX - 2025-02-21
+- 163.5.241.XXX - 2025-02-21
+- 194.5.53.XXX - 2025-02-21
 
 

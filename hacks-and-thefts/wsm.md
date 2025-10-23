@@ -1,6 +1,6 @@
 # WSM
 
-Date:: January 25, 2024
+Date:: 2024-01-25
 
 Amount Stolen:: $3,580,000
 
@@ -11,15 +11,14 @@ Tags:: 🎙️ Contagious Interview
 
 ## Details
 
-Hackers were able to exploit a vulnerability in the staking contract for WallStreetMemes ($WSM), a memecoin and online casino project targeted at the "meme warriors" who frequent various financial meme communities, many of which formed around the Gamestop short squeeze.
+- Hackers were able to exploit a vulnerability in the staking contract for WallStreetMemes ($WSM), a memecoin and online casino project targeted at the "meme warriors" who frequent various financial meme communities, many of which formed around the Gamestop short squeeze.
 
-The attackers were able to siphon 769 million $WSM from the contract, which was notionally worth around $7 million. However, the token lacks liquidity to support swapping hundreds of millions of tokens without depressing the price, and the token price dropped around 35% in the wake of the attack as the thief began to cash out over several days.
+- The attackers were able to siphon 769 million $WSM from the contract, which was notionally worth around $7 million. However, the token lacks liquidity to support swapping hundreds of millions of tokens without depressing the price, and the token price dropped around 35% in the wake of the attack as the thief began to cash out over several days.
 
-Meanwhile, WSM announced that they would be issuing a new token to replace the stolen tokens, and "renew[ing] the liquidity pool"... somehow.
+- Meanwhile, WSM announced that they would be issuing a new token to replace the stolen tokens, and "renew[ing] the liquidity pool"... somehow.
 
 
-
-# Addresses
+# Onchain
 
 - 0xc7064675f01615dd7d3773ce02f937cecf806980  Wall Street Memes - Victim (Compromised)
 - 0xb528b27361750962b42a76aed88f8f805221ab4a  Wall Street Memes - Primary Theft, CHN Input
@@ -65,12 +64,6 @@ Meanwhile, WSM announced that they would be issuing a new token to replace the s
 
 
 
-## IoCs
-
-- 147.124.212.146
-- 2002:2d3d:83da::2d3d:83da
-
-
 ## Further Reading
 
 - https://wallstreetmemes.medium.com/important-security-update-fa4dedbc8f25
@@ -90,3 +83,13 @@ Meanwhile, WSM announced that they would be issuing a new token to replace the s
 - https://cryptotimes.io/2024/01/26/wall-street-memes-token-plunges-35-after-hack/
 - https://youtube.com/watch?v=QTvMxv50rDY
 - https://youtube.com/watch?v=lW60njetwyg
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+
+
+
+## IoCs
+
+- 147.124.212.146
+
+- 2002:2d3d:83da::2d3d:83da
+
