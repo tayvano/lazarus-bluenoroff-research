@@ -1,6 +1,6 @@
 # Shibarium
 
-Date:: September 11th, 2025
+Date:: 2025-09-11
 
 Amount Stolen:: $2,000,000
 
@@ -365,3 +365,5 @@ See Also: [Dust Collector 0xae69](../hacks-and-thefts/dp-it-dust-collector-ae69.
 - 0x6E2F0deAB1C358547b353342524489e32640D530 - Frozen Tether Mar 31 2023, Consolidation  
 - 0x3E24F610639e105173003EF1c47dC4DbAa33f8D7 - Frozen Tether Mar 31 2023, Consolidation  
 - 0x1c097e02bCd6cD69946663ace4bc0B115e256bAc - Frozen Tether Mar 31 2023, Consolidation  
+
+
