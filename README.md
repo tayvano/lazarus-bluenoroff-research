@@ -795,15 +795,15 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2025-03-21 | [Zoth](./hacks-and-thefts/zoth.md).io                                           | TraderTraitor        | 🤏 | 🔑 SQ Same as Feb 28     |
 | 2025-05-00 | [BitPro](./hacks-and-thefts/bitopro.md)                                         | DPRK (Unidentified)  | 🤏 | ❓ DPRK, maybe like Rain |
 |            |                                                                                 |                      |    |                          |
-| 2024-02-10 | [PlayDapp](./more-hacks-and-thefts/playdapp.md)                                 | TraderTraitor        | ❓ | ❓                       |
-| 2024-03-26 | PrismaFi                                                                        | DPRK (Unidentified)  | ❓ | ❓                       |
-| 2024-06-04 | Lykke                                                                           | DPRK (Unidentified)  | ❓ | ❓                       |
-| 2024-06-09 | Loopring                                                                        | TraderTraitor        | ❓ | ❓                       |
-| 2024-09-26 | Onyx DAO                                                                        | DPRK IT workers      | ❓ | ❓                       |
+| 2024-02-10 | [PlayDapp](./more-hacks-and-thefts/playdapp.md)                                 | TraderTraitor        | ❓ | Maybe                    |
+| 2024-06-04 | [Lykke](./more-hacks-and-thefts/lykke.md)                                       | DPRK (Unidentified)  | ❓ | ❓                       |
+| 2024-06-09 | [Loopring](./more-hacks-and-thefts/loopring.md)                                 | TraderTraitor        | ❓ | ❓                       |
+| 2024-09-26 | [Onyx DAO](./more-hacks-and-thefts/onyx-dao.md)                                 | DPRK IT workers      | ❓ | ❓                       |
 |            |                                                                                 |                      |    |                          |
+| 2024-03-26 | [PrismaFi](./more-hacks-and-thefts/prismafi.md)                                 | DPRK (Unidentified)  | ❌ | ❌ Not DPRK              |
 | 2024-06-10 | UwU Lend                                                                        | TraderTraitor        | ❌ | ❌ Not DPRK              |
 | 2024-06-22 | BTCTurk                                                                         | TraderTraitor        | ❌ | ❌ Not DPRK              |
-| 2024-09-16 | [DeltaPrime](./more-hacks-and-thefts/deltaprime.md)                             | DPRK IT workers      | ❌ | ❌ Not DPRK              |
+| 2024-09-16 | [DeltaPrime Key Compromise](./more-hacks-and-thefts/deltaprime.md)              | DPRK IT workers      | ❌ | ❌ Not DPRK              |
 | 2024-11-11 | DeltaPrime                                                                      | DPRK IT workers      | ❌ | ❌ Not DPRK              |
 | 2025-09-09 | SwissBord                                                                       | DPRK (Unidentified)  | ❌ | ❌ Not DPRK              |
 
