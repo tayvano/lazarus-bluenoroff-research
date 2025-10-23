@@ -1,6 +1,6 @@
 # Bybit
 
-Date:: February 21st, 2025
+Date:: 2025-02-21
 
 Time:: 14:16 UTC
 
@@ -47,7 +47,7 @@ Tags:: 👛 TraderTraitor
 
 - https://x.com/dhkleung/status/1893073663391604753
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 ### Reports 

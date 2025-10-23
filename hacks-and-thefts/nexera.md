@@ -1,6 +1,6 @@
 # Nexera
 
-Date:: August 7th, 2024
+Date:: 2024-08-07
 
 Amount Stolen:: $1,900,000
 
@@ -77,7 +77,7 @@ Request for Assistance via Linkedin
 - https://twitter.com/nexera_official/status/1821079381831512315
 - https://archive.ph/SFeBd
 - https://t.me/investigations/148
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

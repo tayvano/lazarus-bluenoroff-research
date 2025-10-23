@@ -1,6 +1,6 @@
 # Truflation
 
-Date:: September 25th, 2024
+Date:: 2024-09-25
 
 Amount Stolen:: ~$5,000,000
 
@@ -30,7 +30,7 @@ Telegram, Twitter, Facebook were taken over by the threat actors at the time of 
 
 - https://x.com/truflation/status/1839071754196759002
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

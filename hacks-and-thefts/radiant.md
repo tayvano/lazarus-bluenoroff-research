@@ -47,7 +47,7 @@ Radiant Capital posted on X acknowledging issues with its lending markets on BNB
 
 - https://x.com/patrickwardle/status/1866586260049105409
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

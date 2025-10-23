@@ -50,7 +50,7 @@ Linkedin Persona: "Maria Mercedes Gonzalez"
 
 ## Further Reading
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 - https://twitter.com/murall_art/status/1765034633480048932
 

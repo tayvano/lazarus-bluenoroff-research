@@ -51,7 +51,7 @@ In total, we have attributed approximately $10.4 million lost to this exploit.
 
 ## Further Reading
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 - https://www.courtlistener.com/docket/69403463/united-states-v-all-virtual-currency-seized-from-one-mexc-account-ending/
 

@@ -1,6 +1,6 @@
 # WazirX
 
-Date:: July 18th, 2024
+Date:: 2024-07-18
 
 Time:: 06:19 UTC – 14:48 UTC
 
@@ -66,7 +66,7 @@ This suggests a significant failure in Liminal's verification process, a vulnera
 - https://twitter.com/WazirXIndia/status/1813843289940058446
 - https://twitter.com/ArkhamIntel/status/1813887774191231337
 - https://twitter.com/CyversAlerts/status/1851239095730602136
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

@@ -1,8 +1,8 @@
 # ConcentricFi
 
-Amount Stolen: $1,720,000 (715.7 ETH)
+Date:: 2024-01-22
 
-Date:: January 22nd, 2024
+Amount Stolen: $1,720,000 (715.7 ETH)
 
 Tags:: 🎙️ Contagious Interview
 
@@ -59,7 +59,7 @@ Transfers Ownership:
 
 - https://twitter.com/ImmuneBytes/status/1749728382525599871
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

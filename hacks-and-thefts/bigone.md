@@ -1,6 +1,6 @@
 # BigONE
 
-Date:: July 15th, 2025
+Date:: 2025-07-15
 
 Time:: 17:14–19:51 UTC (Tuesday)
 
@@ -47,7 +47,7 @@ All BigONE wallet private keys and user data remain secure, with losses limited 
 
 - https://hackenproof.com/programs/bigone-hack-bounty-program
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

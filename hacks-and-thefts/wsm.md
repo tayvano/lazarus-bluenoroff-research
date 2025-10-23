@@ -83,7 +83,7 @@ Tags:: 🎙️ Contagious Interview
 - https://cryptotimes.io/2024/01/26/wall-street-memes-token-plunges-35-after-hack/
 - https://youtube.com/watch?v=QTvMxv50rDY
 - https://youtube.com/watch?v=lW60njetwyg
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

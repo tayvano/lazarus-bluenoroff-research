@@ -61,7 +61,7 @@ The employee clearly felt something about this person/interaction was sus. But h
 
 - https://platform.arkhamintelligence.com/explorer/entity/e022cbe3-3a84-424e-a5f0-09ad23551a76
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

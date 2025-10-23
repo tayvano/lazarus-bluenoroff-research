@@ -1,6 +1,6 @@
 # Favrr
 
-Date:: June 25th, 2025
+Date:: 2025-06-25
 
 Amount Stolen:: $650,000
 
@@ -109,7 +109,7 @@ This is mostly ZachXBT's work and research. I've just copy/pasted.
 
 - https://quadrigainitiative.com/casestudy/favrrmarketinsidertechnicalissueduringdexlisting.php
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 
