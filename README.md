@@ -796,8 +796,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2025-05-00 | [BitPro](./hacks-and-thefts/bitopro.md)                                         | DPRK (Unidentified)  | 🤏 | ❓ DPRK, maybe like Rain |
 |            |                                                                                 |                      |    |                          |
 | 2024-02-10 | [PlayDapp](./more-hacks-and-thefts/playdapp.md)                                 | TraderTraitor        | ❓ | Maybe                    |
-| 2024-06-04 | [Lykke](./more-hacks-and-thefts/lykke.md)                                       | DPRK (Unidentified)  | ❓ | ❓                       |
-| 2024-06-09 | [Loopring](./more-hacks-and-thefts/loopring.md)                                 | TraderTraitor        | ❓ | ❓                       |
+| 2024-06-04 | [Lykke](./more-hacks-and-thefts/lykke.md)                                       | DPRK (Unidentified)  | ❓ | If it is SHOW ME         |
+| 2024-06-09 | [Loopring](./more-hacks-and-thefts/loopring.md)                                 | TraderTraitor        | ❓ | Prob not                 |
 | 2024-09-26 | [Onyx DAO](./more-hacks-and-thefts/onyx-dao.md)                                 | DPRK IT workers      | ❓ | ❓                       |
 |            |                                                                                 |                      |    |                          |
 | 2024-03-26 | [PrismaFi](./more-hacks-and-thefts/prismafi.md)                                 | DPRK (Unidentified)  | ❌ | ❌ Not DPRK              |

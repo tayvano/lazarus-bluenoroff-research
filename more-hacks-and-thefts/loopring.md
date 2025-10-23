@@ -12,27 +12,50 @@ G:: 399685
 
 ## Notes
 
-- Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
+Attributed in [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 I've got nothing to say it is or isn't DPRK. It sat dormant from June 2024 all the way to March 2025.
 
 Then goes to eXch, BitcoinVN, and Swapuz.
 
-It was then laundered in batches. Directly from the theft address. No handoff is very unusual for DPRK.
+It was then laundered in batches. Directly from the theft address. No handoff is very unusual for DPRK. I would also be **insanely** surprised if this was TraderTraitor specifically.
 
 
 ## Details
 
-- Ethereum Layer 2 protocol Loopring posted on Twitter that the some Loopring Smart Wallets were targeted in a security breach. 
-- The attack exploited wallets with only one Guardian, specifically the Loopring Official Guardian.
-- The hacker initiated a Recovery process, falsely posing as the wallet owner to reset ownership and withdraw assets. 
-- The attack succeeded by compromising Loopring's 2FA service, allowing the hacker to impersonate the wallet owner and gain approval for the Recovery from the Official Guardian. 
-- Subsequently, the attacker transferred assets out of the affected wallets.
-- Although Loopring markets its wallet application as "Ethereum's most secure wallet", that's evidently a pretty low bar. 
-- They disclosed that they had suffered a breach in their wallet recovery service, which allows individuals to designate trusted entities to recover assets or freeze compromised accounts. 
-- An attacker was able to "recover" assets from wallets that had only designated a single Loopring guardian, pilfering at least $5 million.
-- Loopring announced that they had suspended their account recovery operations, and were working with law enforcement to trace the attackers.
+Ethereum Layer 2 protocol Loopring posted on Twitter that the some Loopring Smart Wallets were targeted in a security breach. 
 
+The attack exploited wallets with only one Guardian, specifically the Loopring Official Guardian.
+
+The hacker initiated a Recovery process, falsely posing as the wallet owner to reset ownership and withdraw assets. 
+
+The attack succeeded by compromising Loopring's 2FA service, allowing the hacker to impersonate the wallet owner and gain approval for the Recovery from the Official Guardian. 
+
+Subsequently, the attacker transferred assets out of the affected wallets.
+
+Although Loopring markets its wallet application as "Ethereum's most secure wallet", that's evidently a pretty low bar. 
+
+They disclosed that they had suffered a breach in their wallet recovery service, which allows individuals to designate trusted entities to recover assets or freeze compromised accounts. 
+
+An attacker was able to "recover" assets from wallets that had only designated a single Loopring guardian, pilfering at least $5 million.
+
+Loopring announced that they had suspended their account recovery operations, and were working with law enforcement to trace the attackers.
+
+
+
+### Commentary
+
+> We continue seeing the trend noted last week where the majority of losses are no longer caused by smart contract exploits. 
+> Loopring is one such example where a flaw in their 2FA recovery service was used to drain multiple wallets with losses exceeding $5M. The incident affected wallets that configured a single recovery wallet, namely Loopring’s official guardian account. A few lessons:
+> Wallet providers must provide secure configuration by default. We can’t assume users to do the right thing or fully understand risk.
+> Single points of failure like an official Guardian account create outsized risk and attract bad actors.
+> Web2 security controls like 2FA can and will fail.
+> See Vitalik’s recent post on Reddit [How I think about choosing guardians for multisig and social recovery wallets](https://old.reddit.com/r/ethereum/comments/11tijiv/how_i_think_about_choosing_guardians_for_multisig/) for more tips on secure implementation.
+
+[Source: BlockThreat](https://newsletter.blockthreat.io/p/blockthreat-week-23-2024)
+
+
+### Team Statement
 
 > A few hours ago, some Loopring Smart Wallets were targeted in a security breach. The attack exploited wallets with only one Guardian, specifically the Loopring Official Guardian. The hacker initiated a Recovery process, falsely posing as the wallet owner to reset ownership and withdraw assets.
 > The attack succeeded by compromising Loopring's 2FA service, allowing the hacker to impersonate the wallet owner and gain approval for the Recovery from the Official Guardian. Subsequently, the attacker transferred assets out of the affected wallets.
@@ -45,7 +68,6 @@ It was then laundered in batches. Directly from the theft address. No handoff is
 > Stay tuned for more information. Security and user protection remain our top priorities.
 
 [Source: Loopring](https://twitter.com/loopringorg/status/1799791898296451515)
-
 
 
 
@@ -392,12 +414,6 @@ It was then laundered in batches. Directly from the theft address. No handoff is
 | 2025-06-07 15:35 | Primary Attacker | 0x44f887cfbd667cb2042dd55ab1d8951c94bb0102 | Dormant          | 0xd64b36a33274167402598fa6af35e750120bc3a2 | 10             | ETH          | $25,399     | [🔗](https://etherscan.io/tx/0x651866115fe42853c7b1272fa62b887c0dfe3d16acf78c72f11c445a8ffa245f) |
 | 2025-06-07 15:46 | Primary Attacker | 0x44f887cfbd667cb2042dd55ab1d8951c94bb0102 | Swapuz Depo      | 0x0f45123c682250e4f6c53841f0c493dda2e41a6e | 16             | ETH          | $40,638     | [🔗](https://etherscan.io/tx/0xbacab9e5371121c3ad9dbd60129ecdaa683db109eae9f7732e8d5200fd44973f) |
 | 2025-06-07 23:57 | Primary Attacker | 0x44f887cfbd667cb2042dd55ab1d8951c94bb0102 | Swapuz Depo      | 0xb6baebbf3546d72619677508d668a8a5e781531c | 10             | ETH          | $25,399     | [🔗](https://etherscan.io/tx/0xc3c985b672a2276d6cdbe8c703c5adf060391589885ff04b72d415335f97fee0) |
-
-
-
-
-
-
 
 
 
