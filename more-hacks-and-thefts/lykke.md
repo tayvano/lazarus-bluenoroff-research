@@ -65,6 +65,8 @@ NOTE: some of these have been manually demixed thru eXch. It was later determine
 
 So some of the demixes might also be wrong. I dont think they are but there's a fucklot of addresses. But just saying. Don't 1000% trust this list. And please let me know if you find some wrong shit. Thanks.
 
+The last time I looked into this and started going back thru the new intel was 2025-01-23. And, well, it was a wild few weeks there for a minute and I haven't revisited it since.
+
 https://intel.arkm.com/explorer/entity/7c2136c2-ac4b-4205-88e6-958c44c40477
 
 
