@@ -795,7 +795,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2025-03-21 | [Zoth](./hacks-and-thefts/zoth.md).io                                           | TraderTraitor        | 🤏 | 🔑 SQ Same as Feb 28     |
 | 2025-05-00 | [BitPro](./hacks-and-thefts/bitopro.md)                                         | DPRK (Unidentified)  | 🤏 | ❓ DPRK, maybe like Rain |
 |            |                                                                                 |                      |    |                          |
-| 2024-02-10 | PlayDapp                                                                        | TraderTraitor        | ❓ | ❓                       |
+| 2024-02-10 | [PlayDapp](./more-hacks-and-thefts/playdapp.md)                                 | TraderTraitor        | ❓ | ❓                       |
 | 2024-03-26 | PrismaFi                                                                        | DPRK (Unidentified)  | ❓ | ❓                       |
 | 2024-06-04 | Lykke                                                                           | DPRK (Unidentified)  | ❓ | ❓                       |
 | 2024-06-09 | Loopring                                                                        | TraderTraitor        | ❓ | ❓                       |
