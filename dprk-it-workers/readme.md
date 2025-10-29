@@ -223,6 +223,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
+- Wong Shao Onn
+
 - 0xjsmart
 
 - call-by
@@ -1223,19 +1225,21 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - Kira Network, Metadallion, Party Doge, Yam Finance
 
-- 0xm00neth
-
 - jasonlee9627
 
 - 0xJason (Discord)
 
+- Punk1004.eth
+
 - jasonlee9627@gmail.com
 
-- x.com/0xm00neth
+- github.com/pudgePenguin 
 
-- 0xm00neth@gmail.com
+- 0xd71cfaa9051e88fa282ae78c165d1788fab0f2cb (punk1004.eth)
 
-- github.com/0xm00neth • [Archive](https://archive.ph/WIu3i)
+- 0x099336af1b84fe02f1fe695820024f46cb27b1af
+
+- 0x86fce1a6cbaaf0d0d7cb727e9b9eac5ed4150a5b - akame.eth, overlaps with
 
 - https://cryptototem.com/kira-network-kex/
 
@@ -1433,15 +1437,17 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/ryuheimat • [Archive](https://archive.ph/V5GsZ)
 
+- github.com/mono300genuine • [Archive](https://archive.ph/wip/Am9Cr)
+
 - 0x36c67d5ce9e2e4a919f568fc33657fcad0030880 (T)
 
 - 0x6fb678b2dd9d2ff50ee9ecf774251dcceb7a2da8 (Zach's List)
 
 - 0xa71b641a498e33bb13548a01eca5e20e083e637b
 
-- 0xd97729eef14c189144adb0591e4ddb1a66ce22af
+- 0xd97729eef14c189144adb0591e4ddb1a66ce22af - 0xmimi.eth, overlaps with
 
-- 0x86fce1a6cbaaf0d0d7cb727e9b9eac5ed4150a5b (akame.eth, maybe)
+- 0x86fce1a6cbaaf0d0d7cb727e9b9eac5ed4150a5b - akame.eth, overlaps with
 
 - https://crypton0ob.medium.com/5-questions-about-kira-network-you-should-know-98850b1323a8 
 
@@ -1771,13 +1777,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### Jun Kai
 
-- 2024 [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Kira Network (2020), IQ (2021), Sunrise Layer, Elys Network, Ferrum/Comdex
+- 2024 [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Kira Network (2020), IQ (2021), Sunrise Layer, Elys Network, Ferrum/Comdex (2023)
 
 - junkai121
 
 - jelysn
 
 - jpine3528
+
+- jgo121
 
 - junkai121@outlook.com
 
@@ -1804,6 +1812,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - https://medium.com/ferrumnetwork/monthly-development-report-june-2023-a439f54934e9
 
 - https://theorg.com/org/kira-core 
+
+- https://github.com/KiraCore/sekai/commits/master/?after=9f10902b12b8b55552d7f33fabe25a446d6c6df6+524
 
 - https://www.coindesk.com/tech/2024/10/02/how-north-korea-infiltrated-the-crypto-industry
 
@@ -2081,6 +2091,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - Adjacent to Jannik Villostas and Chai Somsri
 
 - 0x146ab113a6d69033cccdb4eaae61c496c2faaf05
+
 
 
 
@@ -2430,7 +2441,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ### Bram Chan / Bram Chen
 
-- Q12024, Plethori
+- Q12024, Plethori, AXA, Cook, OZR, Zuniswap, Chain Guardians, Alvara Protocol,
 
 - Bram Chan
 
@@ -2440,11 +2451,15 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - github.com/gejeduck
 
+- github.com/0xhiros (2025)
+
 - 0x91689cf1c6cb61aa3d6663ffc74c9f689809af91 (T)
 
 - https://www.justice.gov/usao-dc/media/1402691/dl
 
 - https://medium.com/plethori/plethori-quarterly-progress-update-2566d9e6c172
+
+- ![](./bram-chen-2.png)
 
 - ![](./bram-chen.png)
 
@@ -2593,6 +2608,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - teddybran
 
 - x.com/woof_decentra/
+
+- github.com/fantasy2345 (2025) • [Archive](https://archive.ph/wip/xsWNh)
 
 - https://x.com/blackbigswan/status/1940455109114118199
 

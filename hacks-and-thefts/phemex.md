@@ -12,12 +12,14 @@ Tags:: 👛 TraderTraitor
 
 The Singapore-based Phemex cryptocurrency exchange's hot wallets were hacked, resulting in a loss of approximately $70 million.
 
-Some people can't be helped.
+Word on the street is they got onto a random lower-level employee and pivoted in Slack to find the devop guys
 
-
+Fast forward many attempts, many days, many hours, and docker-compose finally ran and that was the end of that.
 
 
 ## Further Reading
+
+- https://slowmist.medium.com/cryptocurrency-apt-intelligence-unveiling-lazarus-groups-intrusion-techniques-a1a6efda7d34
 
 - https://rekt.news/phemex-rekt/
 
@@ -172,3 +174,19 @@ Some people can't be helped.
 | 0xdb861e302ef7b7578a448e951aede06302936c28                 | XDC         | Phemex New       |
 | 0xdb861e302ef7b7578a448e951aede06302936c28                 | ZKSYNC      | Phemex New       |
 | 3J7oUWf9zHZMmhwKJYiCvKdtNCp4TEV3X9                         | BTC         | Phemex??         |
+
+
+
+
+## Connections
+
+Major MAJOR overlaps in malware between Phemex and [Bybit](./bybit.md)
+
+
+
+
+
+
+
+
+

@@ -10,7 +10,7 @@ Tags:: 🎙️ Contagious Interview
 
 ## Details
 
-- ran malicious code from someone they met online (https://github.com/CinquinAndy) who asked them to help with something 
+- ran malicious code from someone they met online (purportedly https://github.com/CinquinAndy though this was very unclear tbh) who asked them to help with something 
  
 - "hourly pay advisory" freelancer on their project 
 

@@ -166,7 +166,86 @@ This same bug seems to have contributed to this exploit, although Onyx has claim
 
 # DPRK IT Workers Dump
 
-TODO
+Super fucking incomplete, what a fucking goddamn shitshow. First guy defo begs for money in Onyx github.
+
+Second guy def associated with him
+
+There are dozens more in this cluster.
+
+### 0xopsdev / Nelo Labhart
+
+- 0xopsdev
+- its0xopsdev
+- meta0xflip
+- Nelo Labhart
+- nelo.labhart
+- the Swallow
+- Zireael
+- ZireaelGit
+- t.me/its0xopsdev (id: 7692311172) (fka: t.me/Meta0xFlip)
+- github.com/0xopsdev
+- github.com/meta0xflip
+- x.com/0xopsdev
+- trycoco.me
+- nelo.labhart@gmail.com
+- @MediaSurgeGG dev (from x.com/0xopsdev bio)
+- @MutantRolls co-founder (from x.com/0xopsdev bio)
+- @OnyxDAO ex-dev(ai agent) (from x.com/0xopsdev bio)
+- @BrainrotGamez ex-dev (from x.com/0xopsdev bio)
+- Hey, I have rich experience in building AI Agents (from https://x.com/0xopsdev/status/1978501615586881729)
+- 0x7a87c66718255c5be3c0607e134592d9a8bdb32c (from https://github.com/Onyx-Protocol/onyxcoin/issues/2)
+
+
+### m4rcu5o / Apollum
+
+- J.YATES
+- m4rcu5o
+- j_apollum
+- idioRusty
+- idioguru
+- richrusty015
+- apollum
+- m4rcu5sol
+- x.com/m4rcu5sol
+- x.com/m4rcu5o/
+- x.com/j_apollum/
+- x.com/m4rcu5o/status/1924920118783447408
+- x.com/x_fivefingers
+- hudes0112@gmail.com
+- matthiasli.com (via twitters, @idioRusty 8064597851 https://t.me/Solanavietnamdev/5127) • [Archive](https://archive.ph/2YHWo)
+- @idioRusty @idioguru @richrusty015 (ID: 6715083084)
+- @idioRusty @apollum  (ID: 8064597851)
+- https://x.com/j_apollum/status/1957891599222075777 • [Archive](https://archive.ph/2sycY)
+- https://x.com/x_fivefingers/status/1958332104171004031 • [Archive](https://archive.ph/6DcfK)
+- https://x.com/x__rusty/status/1835936833026642250 (deleted, linked from @idioRusty 6715083084)
+- https://t.me/Solanavietnamdev/5127 • [Archive](https://archive.ph/2YHWo)
+- https://x.com/x_fivefingers/status/1973454463454290090 • [Archive](https://archive.ph/dqUpv)
+- https://x.com/m4rcu5sol/status/1923422538253627566 • [Archive](https://archive.ph/wip/I1tOF)
+
+
+### So Much More
+
+- https://www.ketman.org/dprk-it-workers-github-organizations.html#:~:text=The%20Core%20Team%20of%20HyperbuildX
+
+- ![](../dprk-it-workers/matthias-li-tovar-idiorusty.jpg)
+
+
+Separately, this motherfucker Ryuhei AGAIN:
+
+- https://github.com/r2moon
+
+- ryuheimat3@gmail.com
+
+
+
+
+
+
+
+
+
+
+
 
 
 
