@@ -1,0 +1,28 @@
+# Garden Finance
+
+Date:: 2025-10-30
+
+Amount Stolen:: $12,371,369
+
+Tags:: 🔑
+
+---
+
+
+## Onchain
+
+0x98bcc6c34a489cefdd9dfa8d792cfefb02ea2d12
+
+0x89b93c99576d7b601abb48540ed0b0c223fc1f76
+
+0x27133b7e7910d506ea8ec342f5bec0325b2d5876
+
+0x862f02fAEA46d8455a6784665d1424676ed99701
+
+WZy4xxpqktWa1b6MPMRiWsD487CT8mDcapB6GufBJCH
+
+0x3f11427c2423294e9ffac420564a0084c50a7add4a9f3f912167b3831be94e5a - Sui
+
+0x0699307b44511594126cac9b89e6f1ee6438b985ab61fa529e211d2d46c90bdc - Starknet
+
+bc1qwpfllj4xv8w8ce338unna3du2t3943gdvrtsv9

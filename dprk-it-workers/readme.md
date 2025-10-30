@@ -1801,6 +1801,18 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 0x8aa07899eb940f40e514b8effdb3b6af5d1cf7bb
 
+- 0x434b9d5f65302a296e6e2ede5fcf1f8dd6cde139
+
+- 0x6231dbaed7f7d7836b2b1971cbf6315bf6768546
+
+- 0x9d4a82041dc5a5fd9ba890ea6fff07648c7c938e
+
+- 0x583e8dd54b7c3f5ea23862e0e852f0e6914475d5
+
+- 0xc6804601db0b679efb7d46923c42cca179ce698b
+
+- 0xadeb946919ddd957eb2f09a77804131e5acd7602
+
 - https://crypton0ob.medium.com/5-questions-about-kira-network-you-should-know-98850b1323a8
 
 - https://cryptototem.com/kira-network-kex/
