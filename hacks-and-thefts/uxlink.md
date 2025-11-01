@@ -90,6 +90,10 @@ Tags:: 🔑
 - 0xa671c20550738cbAAf2Eb5b936eCb3C16aaa2764 - Theft
 - 0x2ef3540fe39860308D4AC2fe32e3F1b833107D57 - Theft
 
+- 0xd244e5bb7a01582ddbf800a4c8dc3b2060718a1d - Dust
+- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust
+
+
 - 0x04c275b627938c0cf4c8328920d17cc6ed370d12 - Victim Multisig
 - 0x18ebe3bcd6f9ef811c020cc58ccee109c6b26d5b - Victim Multisig
 - 0x22b65bd404d9f62229f77d37540b97bc96176d55 - Victim Multisig

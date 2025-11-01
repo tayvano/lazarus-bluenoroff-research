@@ -10,8 +10,13 @@ Tags:: ❓
 
 ---
 
+## Details
 
-### Onchain
+https://x.com/fpgcrypto/status/1669048609000816640
+
+
+
+## Onchain
 
 
 - 0xaff99b3b75e7ea3b5b81111986456f46f1381805
@@ -73,6 +78,18 @@ Tags:: ❓
 - 0xccd6cc974ef7b502e0c1906e873ad0db570ad7f2 TC
 
 
+## Tornado Cash
+
+- 17 x 0.1 ETH
+
+- 10 x 1 ETH
+
+- 9 x 10 ETH
+
+- 54 x 100 ETH
+
+
 ## Further Reading
 
 - Referenced in the [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
+
