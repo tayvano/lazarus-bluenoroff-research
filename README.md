@@ -53,7 +53,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2021 | $551,142,751       | 23          | $506,000,000        | 11                 | $428,800,000        | 9      | $250,000,000       | n/a          | $175,600,000       | 6         |
 | 2022 | $810,222,860       | 16          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,804,332       | 27          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
-| 2024 | $938,615,667       | 61          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
+| 2024 | $1,228,615,667     | 62          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
 | 2025 | $2,033,752,687     | 67          |                     |                    |                     |        |                    |              |                    |           |
 |      | **$5,988,990,030** | **244**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
@@ -137,6 +137,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2024-01-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000         |
 | 🎙️ | 2024-01-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   | $2,500,000         |
 | 🎙️ | 2024-02-01 | [Linkedin Job Dev Scam](./hacks-and-thefts/linkedin_dev_job_scam.md)                             | $200,000           |
+| 🔑 | 2024-02-09 | [PlayDapp](./hacks-and-thefts/playdapp.md)                                                       | $290,000,000       |
 | 🔐 | 2024-02-13 | [Duelbits](./hacks-and-thefts/duelbits.md)                                                       | $4,600,000         |
 | 🎙️ | 2024-02-27 | [Serenity Shield](./hacks-and-thefts/serenity_shield.md)                                         | $586,000           |
 | 🎙️ | 2024-02-28 | [Braintrust Job Dev Scam](./hacks-and-thefts/braintrust_job_dev_scam.md)                         | $100,000           |
@@ -195,7 +196,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2024-12-17 | [Zigcoin](./hacks-and-thefts/zigcoin.md)                                                         | $400,000           |
 | 🔑 | 2024-12-18 | [Rainfi](./hacks-and-thefts/rainfi.md)                                                           | $2,009,331         |
 | 🔑 | 2024-12-30 | [Napier Founder](./hacks-and-thefts/napier.md)                                                   | $500,000           |
-|    | **2024**   | **TOTAL**                                                                                        | **$938,615,667**   |
+|    | **2024**   | **TOTAL**                                                                                        | **$1,228,615,667** |
 |    |            |                                                                                                  |                    |
 | 💼 | 2023-01-01 | [Various 2023 Rug Pulls](./hacks-and-thefts/various_2023_rug_pulls.md)                           | $350,000           |
 | 💼 | 2023-04-10 | [Terraport](./hacks-and-thefts/terraport.md)                                                     | $3,900,000         |
@@ -420,6 +421,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-10-30    | [Garden Finance](./hacks-and-thefts/garden-finance.md)                             | $12,371,369      |
 |    | **2025**      | **TOTAL**                                                                          | **$323,084,997** |
 |    |               |                                                                                    |                  |
+| 🔑 | 2024-02-09    | [PlayDapp](./hacks-and-thefts/playdapp.md)                                         | $290,000,000     |
 | 🔑 | 2024-03-13    | [NFPrompt](./hacks-and-thefts/nfprompt.md)                                         | $10,400,000      |
 | 🔑 | 2024-03-20    | [Huge March 2024 Theft](./hacks-and-thefts/huge_march_2024_theft.md)               | $90,000,000      |
 | 🔑 | 2024-05-15    | [ALEX Labs](./hacks-and-thefts/alex_labs.md)                                       | $4,300,000       |
@@ -442,7 +444,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2024-12-17    | [Zigcoin](./hacks-and-thefts/zigcoin.md)                                           | $400,000         |
 | 🔑 | 2024-12-18    | [Rainfi](./hacks-and-thefts/rainfi.md)                                             | $2,009,331       |
 | 🔑 | 2024-12-30    | [Napier Founder](./hacks-and-thefts/napier.md)                                     | $500,000         |
-|    | **2024**      | **TOTAL**                                                                          | **$143,912,221** |
+|    | **2024**      | **TOTAL**                                                                          | **$433,912,221** |
 |    |               |                                                                                    |                  |
 | 🔑 | 2023-08-07    | [Steadefi](./hacks-and-thefts/steadefi.md)                                         | $1,140,000       |
 | 🔑 | 2023-08-16    | [Coinshift](./hacks-and-thefts/coinshift.md)                                       | $2,900,000       |

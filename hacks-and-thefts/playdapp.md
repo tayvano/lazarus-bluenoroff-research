@@ -4,13 +4,13 @@ Date:: 2024-02-09 and 2024-02-12
 
 Amount Stolen:: $290,000,000
 
-Tags:: ❓TraderTraitor
+Tags:: 🔑 SQSQ
 
 ---
 
 ## Note
 
-I don't 100% trust this TRTR atty. 
+I don't 100% trust this TRTR atty. I think its SQSQ.
 
 
 ## Details
