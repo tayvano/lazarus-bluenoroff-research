@@ -54,8 +54,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2022 | $810,222,860       | 16          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,804,332       | 27          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $938,615,667       | 61          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
-| 2025 | $2,033,332,687     | 65          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,988,990,030** | **242**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2025 | $2,033,752,687     | 67          |                     |                    |                     |        |                    |              |                    |           |
+|      | **$5,988,990,030** | **244**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -130,8 +130,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-24 | [SBI Crypto Mining](./hacks-and-thefts/sbi-crypto.md)                                            | $20,283,197        |
 | 🎙️ | 2025-10-18 | [Unknown Oct 18 2025 Theft](./hacks-and-thefts/ci-2025-oct.md)                                   | $120,000           |
 | 🎙️ | 2025-10-21 | [YourCryptoFren](./hacks-and-thefts/yourcryptofren.md)                                           | $300,000           |
+| 🎙️ | 2025-10-27 | [Capital DAO](./hacks-and-thefts/capital-dao.md)                                                 | $320,000           |
 | 🔑 | 2025-10-30 | [Garden Finance](./hacks-and-thefts/garden-finance.md)                                           | $12,371,369        |
-|    | **2025**   | **TOTAL**                                                                                        | **$2,033,332,687** |
+|    | **2025**   | **TOTAL**                                                                                        | **$2,033,752,687** |
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2024-01-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000         |
 | 🎙️ | 2024-01-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   | $2,500,000         |
@@ -685,7 +686,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2025-09-23 | [Seedify](./hacks-and-thefts/seedify.md)                                  | $1,700,000      |
 | 🎙️ | 2025-10-18 | [Unknown Oct 18 2025 Theft](./hacks-and-thefts/ci-2025-oct.md)            | $120,000        |
 | 🎙️ | 2025-10-21 | [YourCryptoFren](./hacks-and-thefts/yourcryptofren.md)                    | $300,000        |
-|    | **2025**   | **TOTAL**                                                                 | **$4,018,420**  |
+| 🎙️ | 2025-10-27 | [Capital DAO](./hacks-and-thefts/capital-dao.md)                          | $320,000        |
+|    | **2025**   | **TOTAL**                                                                 | **$4,338,420**  |
 |    |            |                                                                           |                 |
 | 🎙️ | 2024-01-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                        | $1,720,000      |
 | 🎙️ | 2024-01-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                            | $2,500,000      |
