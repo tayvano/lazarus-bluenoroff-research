@@ -49,13 +49,13 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2017 | $88,790,000        | 6           | $29,000,000         | 4                  | $29,000,000         | 4      | $100,000,000       | n/a          | $88,640,000        | 6         |
 | 2018 | $456,265,000       | 18          | $522,000,000        | 10                 | $522,000,000        | 10     | $400,000,000       | n/a          | $447,600,000       | 11        |
 | 2019 | $207,814,000       | 11          | $271,000,000        | 9                  | $271,000,000        | 9      | $200,000,000       | n/a          | $209,272,000       | 8         |
-| 2020 | $313,813,000       | 15          | $300,000,000        | 5                  | $300,000,000        | 5      | $290,000,000       | n/a          | $300,200,000       | 4         |
+| 2020 | $313,813,000       | 14          | $300,000,000        | 5                  | $300,000,000        | 5      | $290,000,000       | n/a          | $300,200,000       | 4         |
 | 2021 | $551,142,751       | 23          | $506,000,000        | 11                 | $428,800,000        | 9      | $250,000,000       | n/a          | $175,600,000       | 6         |
-| 2022 | $765,072,860       | 15          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
+| 2022 | $810,222,860       | 16          | $1,100,000,000      | 14                 | $1,650,000,000      | 15     | $850,000,000       | n/a          | $991,700,000       | 5         |
 | 2023 | $646,804,332       | 27          | $660,000,000        | 20                 | $1,000,000,000      | 20     | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $938,615,667       | 61          | $1,300,000,000      | 49                 | n/a                 | n/a    |                    |              |                    |           |
 | 2025 | $2,033,332,687     | 65          |                     |                    |                     |        |                    |              |                    |           |
-|      | **$5,988,990,030** | **241**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+|      | **$5,988,990,030** | **242**     | **$4,690,000,000**  | **123**            | **$4,202,300,000**  | **73** | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -235,12 +235,13 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 👛 | 2022-06-24 | [Harmony Horizon Bridge](./hacks-and-thefts/harmony_horizon_bridge.md)                           | $105,000,000       |
 | 🔑 | 2022-08-05 | [deBridge (Attempt)](./hacks-and-thefts/debridge.md)                                             | $0                 |
 | 🔑 | 2022-09-07 | [GERA Coin](./hacks-and-thefts/gera_coin.md)                                                     | $142,000           |
+| 🍎 | 2022-09-22 | [DWF Labs](./hacks-and-thefts/dwf.md)                                                            | $45,150,000        |
 | 🔑 | 2022-10-11 | [Algorand](./hacks-and-thefts/algorand.md)                                                       | $750,000           |
 | 🔑 | 2022-10-17 | [Darshan](./hacks-and-thefts/darshan.md)                                                         | $1,750,000         |
 | 🔑 | 2022-10-31 | [Oct 31 2022 Theft](./hacks-and-thefts/oct_31_2022_theft.md)                                     | $183,000           |
 | 🍎 | 2022-11-02 | [Deribit](./hacks-and-thefts/deribit.md)                                                         | $28,000,000        |
 | 💼 | 2022-12-01 | [Pixelcraft Potential IT Worker](./hacks-and-thefts/pixelcraft_potential_it_worker.md)           | $0                 |
-|    | **2022**   | **TOTAL**                                                                                        | **$765,072,860**   |
+|    | **2022**   | **TOTAL**                                                                                        | **$810,222,860**   |
 |    |            |                                                                                                  |                    |
 | 🍎 | 2021-01-22 | [Indodax ATO](./hacks-and-thefts/indodax_ato.md)                                                 | $2,830,000         |
 | 🔑 | 2021-02-18 | [BOLT Token Holder](./hacks-and-thefts/bolt-holder.md)                                           | $42,000            |
@@ -612,11 +613,12 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🍎 | 2021-05-12    | [990.1 BTC](./hacks-and-thefts/990_btc.md)            | $55,600,000      |
 | 🍎 | 2021-07-13    | [Advcash](./hacks-and-thefts/advcash.md)              | $14,000,000      |
 | 🍎 | 2021-07-13    | [Tower Capital](./hacks-and-thefts/tower_capital.md)  | $Unknown         |
+| 🍎 | 2022-09-22    | [DWF Labs](./hacks-and-thefts/dwf.md)                 | $45,150,000      |
 | 🍎 | 2022-11-02    | [Deribit](./hacks-and-thefts/deribit.md)              | $28,000,000      |
 | ❓ | 2023-11-07    | [NFT Phishing](./hacks-and-thefts/nft-phishing.md)    | $1,077,186       |
 | 🍎 | 2023-07-01    | [PolyNetwork](./hacks-and-thefts/polynetwork-2023.md) | $10,000,000      |
 | 🍎 | 2024-10-16    | [Radiant](./hacks-and-thefts/radiant.md)              | $58,000,000      |
-|    | **2024-2018** | **TOTAL**                                             | **$410,597,186** |
+|    | **2024-2018** | **TOTAL**                                             | **$455,747,186** |
 
 
 

@@ -228,6 +228,10 @@ Radiant Capital posted on X acknowledging issues with its lending markets on BNB
 
 - TODO - more Tornado https://x.com/PeckShieldAlert/status/1981228988489224308
 
+- 0xECAe977e56C2480dCaE69f7149dC4b13D452b7cf To Tornado, 2025-10-31
+- 0x0B0a7792fab1aa94AFd79ab4Bff0Cc943add83BA To Tornado, 2025-10-31
+- 0xc9d65d573cd7b63c647c889c7240cb429f8188f7 To Tornado, 2025-10-31
+
 
 ### Victim addresses (keys not compromised though)
 - 0x111CEEee040739fD91D29C34C33E6B3E112F2177 (Safe)

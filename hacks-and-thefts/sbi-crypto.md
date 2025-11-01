@@ -68,6 +68,14 @@ G:: 386443
 
 
 
+- bc1qwv09kam4yl90es3evmk6ghdqxu0jd25wskun3p - 2025-10-31
+- bc1qht3scryefllmmvvg26g96pxvnc2u7tmry4zcd3 - 2025-10-31
+- bc1qhvaly2mkn0rul4fxpd8pcnq32zemh97c5pnmr7 - 2025-10-31
+- bc1qs8r6v4qrve6z9sf0vzvkcxx4qg4xt9v22fq24v - 2025-10-31
+- bc1qqfw76a66zjjm5qwmattuxasz8uh9438kzhcwvr - 2025-10-31
+
+
+
 
 ## Timeline
 
