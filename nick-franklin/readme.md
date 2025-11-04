@@ -42,6 +42,12 @@
 - 0xe8573455bdd31d1e2245bcc7ed64983818e0fcf6 - another nick franklin address
 
 
+- 0x4243b44ee77b1034dfe7bc80793dcad8d6e545e3 - Oct 2025 -> TC
+- 0xcfe7ed0f726c6c33cf1ec33fb6f55ead6f6b97e1 - Oct 2025 -> TC
+- 0x28e9bbb936b6b8b49f9e3e4abde51f2efd4728dc - Oct 2025 -> TC
+- 0x2eea6d738ea3370a86fce512506e09feaf3e9bc5 - Oct 2025 -> TC
+- 0xadd2aa59b187af5122e2e6685aee5c8e38258949 - Oct 2025 -> TC
+- 0x55dc9e72dda8ce07089702c08eda17d46dd2a82a - Oct 2025 -> TC
 
 
 
