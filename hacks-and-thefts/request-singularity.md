@@ -4,7 +4,7 @@ Date:: 2025-09-10
 
 Amount Stolen:: $3,000,000
 
-Tags:: 🔑
+Tags:: ❓🔑
 
 
 ---
@@ -163,6 +163,9 @@ https://etherscan.io/tx/0xe5c1e611147215a77e5d027132ddcd29bfd06a355e603bc68980ab
 - 0xb42f812a44c22cc6b861478900401ee759ebead6  MetaMask Gas Station
 
 
+
+
+
 ## Email Address List
 
 Source: https://drive.google.com/file/d/1BfE2IJFQEnl1F2oB5xtEo9_nzIhtOF64/view
@@ -233,7 +236,6 @@ johntech0828@gmail.com
 - 185.18.222.251 - 2025-08-28 - AWS user gh-actions-invoicing ran GetBucketWebsite
 
 - digitalcap[.]live - handles balance checking  `fetch(`https://digitalcap[.]live/validate-address?address=${fromAddress}`)`
-
 
 
 
