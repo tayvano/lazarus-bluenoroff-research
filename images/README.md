@@ -1,14 +1,51 @@
 # 🔑 Fake VCs
 
+
+![](2025-11-07_Fake-Lee_01.png)
+![](2025-11-07_Fake-Lee_02.png)
+![](2025-11-07_Fake-Lee_03.png)
+![](2025-11-07_Fake-Lee_04.png)
+![](2025-11-07_Fake-Lee_05.png)
+![](2025-11-07_Fake-Lee_06.png)
+![](2025-11-07_Fake-Lee_07.png)
+![](2025-11-07_Fake-Lee_08.png)
+![](2025-11-07_Fake-Lee_09.png)
+![](2025-11-07_Fake-Lee_10.png)
+![](2025-11-07_Fake-Lee_11.png)
+- [@ki_young_ju](https://x.com/ki_young_ju/status/1986798360171622782)
+- [2025-11-07_Fake-Lee_01](./2025-11-07_Fake-Lee_01.png)
+- [2025-11-07_Fake-Lee_02](./2025-11-07_Fake-Lee_02.png)
+- [2025-11-07_Fake-Lee_03](./2025-11-07_Fake-Lee_03.png)
+- [2025-11-07_Fake-Lee_04](./2025-11-07_Fake-Lee_04.png)
+- [2025-11-07_Fake-Lee_05](./2025-11-07_Fake-Lee_05.png)
+- [2025-11-07_Fake-Lee_06](./2025-11-07_Fake-Lee_06.png)
+- [2025-11-07_Fake-Lee_07](./2025-11-07_Fake-Lee_07.png)
+- [2025-11-07_Fake-Lee_08](./2025-11-07_Fake-Lee_08.png)
+- [2025-11-07_Fake-Lee_09](./2025-11-07_Fake-Lee_09.png)
+- [2025-11-07_Fake-Lee_10](./2025-11-07_Fake-Lee_10.png)
+- [2025-11-07_Fake-Lee_11](./2025-11-07_Fake-Lee_11.png)
+
+
+![](./2025-11-05_Fake-Kaia.jpeg)
+- [@0xzergs](https://x.com/0xzergs/status/1986089997875781638)
+- [2025-11-05_Fake-Kaia](./2025-11-05_Fake-Kaia.jpeg)
+
+
+![](2025-11-04_Fake-Kaia.jpeg)
+-[@GuyPolio](https://x.com/GuyPolio/status/1986114788179558403)
+- [2025-11-04_Fake-Kaia](2025-11-04_Fake-Kaia.jpeg)
+
+
 ![](./2025-09-19_SQ_Fake-Micah.jpg)
 - [2025-09-19_SQ_Fake-Micah](./2025-09-19_SQ_Fake-Micah.jpg)
 
 
 ![](./2025-09-18_SQ_Fake-Tracy.jpeg)
 - [2025-09-18_SQ_Fake-Tracy](./2025-09-18_SQ_Fake-Tracy.jpeg)
-- [x.com/waterdripfund/status/1968904548271235433/](https://x.com/waterdripfund/status/1968904548271235433/)
+- [@waterdripfund](https://x.com/waterdripfund/status/1968904548271235433/)
 
 ![](./2025-09-08_SQ_Fake-Kaia.png)
+- [@skilllevel7](https://x.com/skilllevel7/status/1964937282328096921)
 - [2025-09-08_SQ_Fake-Kaia](./2025-09-08_SQ_Fake-Kaia.png)
 
 ![](./2025-09-03_SQ_Fake-Exabits_01.jpeg)
