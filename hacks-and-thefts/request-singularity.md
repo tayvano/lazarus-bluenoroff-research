@@ -55,6 +55,9 @@ All addresses as an Arkham Entity Here: https://intel.arkm.com/explorer/entity/d
 - 0x62585092b33ba7e0953bea84ab6ee3d6df98abe1 - Primary Theft + Tornado
 - 0xc5f157defcf2636409147f72816d85b7f8841584 - Primary Theft + Tornado
 
+- 0x8691ef8b2a46490961a734b1edd9915299815ff7 - TC
+- 0xff4130c4bcbe28ffba9db6a893a19b46f58c0fa6 - TC
+
 - 0xde6320e3365ca26af4ca57762dbc5da3c940f08f - Attacker Controlled Safe
 - 0xdfd5e8e9baa7d235ed82d8f2195752a7c33d36da - Deployer for Safe de6
 
@@ -337,3 +340,29 @@ Also connects to other withdrawals
 - 0xc5f157defcf2636409147f72816d85b7f8841584 - 2025-Sep-26 15:09 - 1 ETH Deposit
 - 0xc5f157defcf2636409147f72816d85b7f8841584 - 2025-Sep-26 15:12 - 1 ETH Deposit
 - 0xc5f157defcf2636409147f72816d85b7f8841584 - 2025-Sep-26 15:12 - 1 ETH Deposit
+
+
+
+## Connections
+
+- 0xc5f157defcf2636409147f72816d85b7f8841584 also receives from bc1q50m62h9g6wh6d6e7emz3x2jhpc2hydx8sqkx2f via Garden Finance (lol)
+
+- Tracing back will take you to Bondly Finance et al circa 2022 
+
+- bc1qn7psrmt3800l6ejwdmy3ydzwehh9j3pxpxjyjp
+
+- 0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc
+
+- 0xe0c79066488a15b70361ad8268d713b05944a4fe (Zach's 2024 freeze, also the guy who messaged Circle lol)
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,7 +2,7 @@
 
 Date:: 2024-09-25
 
-Amount Stolen:: ~$5,000,000
+Amount Stolen:: ~$5,125,000
 
 Tags:: 🔑
 
@@ -40,18 +40,18 @@ Telegram, Twitter, Facebook were taken over by the threat actors at the time of 
 
 ### Victim / Compromised
 
-- 0x02a561eac513d03c729be304cda5cc4ae5621fe1 ETH ARB
-- 0x0bae5f0f446eb84489a91aee1359415b7e744b61 ETH
-- 0x2aff723b6bce769b5e166c583d8a05dfca02317c ETH
+- 0x02a561eac513d03c729be304cda5cc4ae5621fe1 ETH ARB Compromised
+- 0x0bae5f0f446eb84489a91aee1359415b7e744b61 ETH Compromised
+- 0x2aff723b6bce769b5e166c583d8a05dfca02317c ETH Compromised
+- 0x6e52db0ed96ca56b5cbffc0a2e0e9a805c4aab7a ETH ARB BSC Compromised
+- 0x87a0405a82f3962bf864d5577d5f220dd61b550e ETH Compromised
+- 0xa955445992567d9cbc95cbdd838f474dd50fde4c ETH Compromised 2025-11-03
 - 0x515bef23cb551ac94fece43bb3620f15034ec7a6 ETH
 - 0x522a6d0d10c07ca47dfacc526bca97bbae2f2962 ETH
 - 0x5d40247ee017323c8b09434b917ba6f4ed4eef14 ETH
-- 0x6e52db0ed96ca56b5cbffc0a2e0e9a805c4aab7a ETH ARB BSC
 - 0x74d819ce6495cbb54beb88184b83e81e2c157fc5 ETH
-- 0x87a0405a82f3962bf864d5577d5f220dd61b550e ETH
 - 0x8d78ea2adda1059bd62666779856efafdd25d740 ETH
 - 0x9052f3970ac942ca759e0068d9977cae88209222 ETH
-- 0xa955445992567d9cbc95cbdd838f474dd50fde4c ETH
 - 0xb81b09bfb329e5a9cbd6e0e97cebb1651d51c077 ARB
 - 0xce5966bd6befaeb88175635b4ec37d003fa15c85 BSC
 - 0xe38d337f1081053beb762044253d077ae4dfa358 ARB
@@ -72,6 +72,11 @@ Telegram, Twitter, Facebook were taken over by the threat actors at the time of 
 - 0x2867c57ddef630d64bfedb70b70b4b6c6c4c9187 ETH
 
 - 0xb1cf7880351e6d16313c03a6686b4c8a5ba6372a ETH - Funds Holder / Consolidation
+
+- 0xbed78f71b964171c55b976c1cac973a90c2412ab ETH CN Depo $47k 2025-11-03
+- 0x361171d18a499ef3b150d94df423f2aef6a0dccd ETH FF Depo $78k 2025-11-03
+- BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB SOL 2025-11-03; commingles with [another theft](./proph3ttt.md)
+- AtvNL88Uarnip6BBSf9vG33Lf1KJDsr7uNzEKnfaQAxH SOL 2025-11-03; commingles with [another theft](./proph3ttt.md)
 
 ### Laundry 
 

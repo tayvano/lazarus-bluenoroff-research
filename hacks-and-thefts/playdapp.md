@@ -2,9 +2,11 @@
 
 Date:: 2024-02-09 and 2024-02-12
 
-Amount Stolen:: $290,000,000
+Amount Stolen:: $36,000,000 (typically reported as $290,000,000)
 
 Tags:: 🔑 SQSQ
+
+G:: 406963
 
 ---
 
@@ -63,14 +65,16 @@ PlayDapp sent on-chain messages to the attacker, offering a bounty, but the offe
 
 
 
-## Onchain
+## On-Chain
 
 - 0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430 - Involved Contract
-- 0x6f53E6F92E85C084E10AAf35D4A44DEE6a27892d - Involved Contract
-
-
-
-## On-Chain
+- 0x47c3988f10aa680ee4c4ae38d7a22e0eef5724c5 - Victim
+- 0x6f53e6f92e85c084e10aaf35d4a44dee6a27892d - Victim / Involved Contract
+- 0x4ce0d1aec364534b10a3d3ee71daf0c0f8efdfc6 - Victim
+- 0x13fc7cc9d9f5835877c685f54a2ceb6a9e4de345 - Victim
+- 0x5c31a139ba273ebad8d1b1ae22e4617ec0f32d4c - Victim
+- 0xe597d60e338515be5c004e6505986b7329250a3e - Victim
+- 0x71166a67f4502adeaacc44233a272f4cfd0ff8a7 - Victim
 
 - 0xe8be05f6a3360f63b9e78a30b4ba16ea4c7d0b530a8abf99390f1c831851fb7e - Malicious Transaction
 - 0xc41687511e31f5612b73647c4b39e500e45dbfb2ae66789b7b8705d2336002f8 - Malicious Transaction
@@ -79,14 +83,16 @@ PlayDapp sent on-chain messages to the attacker, offering a bounty, but the offe
 - 0xb8c379f3ae8ea3ba48cdb7dac79c9b995f0e7a372a8bf9d620a6bfc875a31628 - On-chain message to the hacker
 
 - 0xbe68918d82a12353110d5a637d9d161dc43ab5ff - Gas Giver
-- 0xD151050d43c28690766f50Ce9ea8686c5D243a40 - Primary Theft
+- 0xD151050d43c28690766f50Ce9ea8686c5D243a40 - Primary Theft - Malicious Minter
 - 0x1cae9eAa76E880fe47A26dd838E5Ec056C289155 - Primary Theft - Moves 2025-09-09
 - 0xA8eF5e00525592d625B8d0AfC007Aa826a06C738 - Primary Theft - Moves 2025-09-09
+- 0x21eb902d409352d825d61bb32c7f040a34ac7ac3 - Primary Theft
 - 0x23cAeE3666b553445e430D1635AD64fBF388B07d - Theft
 - 0xe80c3d6ef122f8aae6882fc448bd35bd0108034c - Theft
-- 0x21eb902d409352d825d61bb32c7f040a34ac7ac3 - Theft
 - 0x2dcc07c38acef154b5d98db93a8b05c10510302a - Theft
 - 0x25e54c106c18c5c14fbe9064c9c21de99605faf5 - Theft
+- 0x2970f86fbd69a4bf9286513e3901f58744fd2175 - Theft
+- 0x3be371938403deb7f24c2defa4711c7ccb6637c5 - Theft
 - 0xe0068a795c6fabcb233f52f7eaf26db1540840f1 - Theft - Moves 2025-09-09
 
 - 0x285A3085A92D98CcC7Ad560D9B19499911e209fA - from Binance
@@ -117,3 +123,28 @@ PlayDapp sent on-chain messages to the attacker, offering a bounty, but the offe
 - 0x27acb02f0385071e85f22b5a00d1d9279511a19a - FixedFloat Depo
 - 0xdd09581a34c4f98fca9b3f72d981718e66201037 - FixedFloat Depo
 - 0x1c97e68fe62564c54452c4fe154532d0398ace71 - FixedFloat Depo
+- 0x17de75505214b94223fe8782f1f5e21f572ecc5c - FixedFloat Depo
+- 0x6114648fb8a3c7a53c56db0ddf44171de46437b5 - FixedFloat Depo
+- 0xcd493866977f2503bd4005a7df65b8655e66d96f - FixedFloat Depo
+- 0xb314c18b17ed91679fd8e7055b992e7b906dbd3e - FixedFloat Depo
+- 0xa77bb81f6da9a2c8b99f58a24d9972fdfc8ef69a - FixedFloat Depo
+- 0x5d760aa1b95a3269b9a6a09ef1dec958c49b3f0a - FixedFloat Depo
+- 0x5ff325f325addcb8a5b4cb0171d6f5b6e7347d77 - FixedFloat Depo
+- 0xaa5acc0a593217031011774594420c51e4682a32 - Binance/SimpleSwap Depo
+- 0x763f8cb8cdb0f2c044d7e6704ff85df15b2d28a6 - FixedFloat Depo
+- 0x3017ebafeded81fce3525eb42055edee108d47c6 - FixedFloat Depo
+- 0x5240652810b2b6f98c3855d7d217a01188814fa8 - FixedFloat Depo
+- 0x32a75773ae136ac0c4778d41b436c68761412af5 - FixedFloat Depo
+- 0x1862ca2a04abe378ff3c5222e45a385f6ee8975f - FixedFloat Depo
+- 0xd7f137648a47cc0e71b79044c7866d3ae17ab0d4 - FixedFloat Depo
+- 0xc3c4a3a2a403095036bacf3df1ddec6f856a7ef4 - FixedFloat Depo
+- 0x23a2c3c98703c52b2c78bbf766aa213277b304ce - FixedFloat Depo
+- 0x30699bc1a9349ab3101bff0a6852bb5fee1dc7c8 - FixedFloat Depo
+- 0xc156284da71904dbd60f261224c66a5c4cf65d3e - FixedFloat Depo
+- 0xae9edc2d2a8711e4e6b9646e2b013a1968f3bf94 - FixedFloat Depo
+- 0x743d6360d8e8940e9fba495d63e776a5a0b6f9ce - FixedFloat Depo
+- 0x1361331e0e55651178e94ac536f2cc91fb936aba - FixedFloat Depo
+- 0x0d1c05bab9ff90f3b5f583f0eaa9a2f0fd08615d - ChangeNOW Depo
+- 0xbfcceb132b3d58367be911d85bd9cba157c3fc3f - ChangeNOW Depo
+- 0x2de60c31f4e981a31b3c6ab89afddc572cd553d3 - ChangeNOW Depo
+- 0x0804cb874a73d6c9cc3b3d52013678fd6ae735b1 - ChangeNOW Depo
