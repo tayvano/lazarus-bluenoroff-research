@@ -60,6 +60,12 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 
 - bc1qwpfllj4xv8w8ce338unna3du2t3943gdvrtsv9
 
+- 0x3771CEc8C6e05E9428Dd72095c51Ac514bDc837A 2025-11-07
+
+- 0x95F0564879D5e33000d53107ADaeA6809aaa3838 2025-11-07
+
+- 0x5Ca008507dD05ce0130461f9E9dF2A5edeA994B3 2025-11-07
+
 
 
 

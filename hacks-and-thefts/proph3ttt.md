@@ -2,7 +2,7 @@
 
 Date:: 2025-11-03
 
-Amount Stolen::
+Amount Stolen:: $140,800
 
 Tags:: 🔑 SQSQ
 
@@ -33,16 +33,24 @@ Connects to Trufulation directly lol
 - 0x40e333e27ae01e6b02fe3cc94e6d82349aeceeee Victim - Other
 
 - 0x8983c523b7ac35bfd041d02dbdf2afddc3893cfa Theft 2025-11-03
-- 0xd7b2a78c89cea58176f0e2d2e3a25fb68f8642ef FF Depo 2025-11-03  $2k
-- 0xa6c5e6b044abb194c7ac1e6e7e153befdfc6bf0d FF Depo 2025-11-03 $35k
-- 0x684ba548b37179af42bd5e8877bd0a0cb774caea SS Depo 2025-11-03 $41k
-- 0x1eb1bf9575189ea01007e403c7ecf677f4afe725 SS Depo 2025-11-03 $38k
-- 0xddb8108d24177efd5d60864554182a10205cd2bc SS Depo 2025-11-03 $16k
-- 0x4e466243bab39a113e4028ca3d129d138b34deb3 FF Depo 2025-11-03 $100
+
+- BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB SOL 2025-11-03; commingles with [Truflation](./truflation.md)
+- AtvNL88Uarnip6BBSf9vG33Lf1KJDsr7uNzEKnfaQAxH SOL 2025-11-03; commingles with [Truflation](./truflation.md)
+
+- TR2cAUAYt3zc9EBvSGijGJjirhgkhaVxC7 2025-Oct-14 2025-Oct-23 2025-Oct-25 2025-Oct-28 2025-Oct-29 2025-Oct-30 2025-Nov-04 2025-Nov-05 2025-Nov-06 2025-Nov-07
+
+- 0x684ba548b37179af42bd5e8877bd0a0cb774caea SS Depo $41k
+- 0x1eb1bf9575189ea01007e403c7ecf677f4afe725 SS Depo $38k
+- 0xa6c5e6b044abb194c7ac1e6e7e153befdfc6bf0d FF Depo $35k
+- 0xddb8108d24177efd5d60864554182a10205cd2bc SS Depo $16k
+- 0x4e466243bab39a113e4028ca3d129d138b34deb3 FF Depo $100
 - 0xf3dce4a87c75817d84de055c740dab3eabb0888d FF Depo $1.0k
 - 0x06d64d933174bb24392269acd70a80299711a020 FF Depo $1.5k
 - 0xeb52b9204ffcbd65b52451e8fc7c5465f79df4ca FF Depo $1.2k
 - 0x6d06f92cdca80c2a631cd9200d0b41d6c6c5fcd6 FF Depo $5.0k
-- BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB SOL 2025-11-03; commingles with [Truflation](./truflation.md)
-- AtvNL88Uarnip6BBSf9vG33Lf1KJDsr7uNzEKnfaQAxH SOL 2025-11-03; commingles with [Truflation](./truflation.md)
-- TR2cAUAYt3zc9EBvSGijGJjirhgkhaVxC7 2025-Oct-14 2025-Oct-23 2025-Oct-25 2025-Oct-28 2025-Oct-29 2025-Oct-30 2025-Nov-04 2025-Nov-05 2025-Nov-06 2025-Nov-07
+- 0xd7b2a78c89cea58176f0e2d2e3a25fb68f8642ef FF Depo $2,0k
+
+
+
+
+
