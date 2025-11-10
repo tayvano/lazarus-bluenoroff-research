@@ -772,6 +772,8 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
+- Umnal IT worker, Choe Il-kuk (the Russia-based delegation subordinate to DPRK Chinyong Information Technology Cooperation Company)
+
 - naokimurano
 
 - muranox.eth
@@ -4942,3 +4944,128 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 - github.com/fulldev317
 
 - github.com/Zhang-777
+
+
+
+
+
+
+
+---
+
+# [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
+
+
+
+### Eujin Ong / Eugene Ong
+
+- euj1n0ng
+
+- venus90725
+
+- https://x.com/euj1n0ng/
+
+- venus90725@hotmail.com
+
+- 0xe9F7E2fb257e28b47B7f3DE0D2c2A6005e8c0646
+
+- 0x8e5E6B2684682eF789d5e28995aE48F18d19b613
+
+- 0x2cfe906a2db457b4bed669a9fb6287c0fecb86a2 Paxful
+
+- 0xbd9b54f97721aab438fd7e071bf1d13dbd12307d Binance (Fascilitator probably, $300x3)
+
+- 0xbcf935d206ca32929e1b887a07ed240f0d8ccd22 million.money 
+
+- Ethenials: Deployer is adjacent
+
+- [x.com/reachlang/status/1533867176674971648](https://x.com/reachlang/status/1533867176674971648) • [Archive](https://archive.ph/jW0g9)
+
+- [x.com/euj1n0ng/status/1530076332738359296](https://x.com/euj1n0ng/status/1530076332738359296) • [Archive](https://archive.ph/hZ93o)
+
+- [x.com/euj1n0ng/status/1428055527511060483](https://x.com/euj1n0ng/status/1428055527511060483) • [Archive](https://archive.ph/oKwnS)
+
+> In March and April 2023, Choe Kum Song, a Laos-based DPRK IT worker linked to Sangsin, approached multiple individuals to invest in a cryptocurrency investment scam. Choe posed as a female and typically claimed to be from United Arab Emirates, Saudi Arabia, or Oman. Choe revealed to the individuals that he had a reliable business proposal regarding cryptocurrency investment; Choe added that profit would be guaranteed and there was no risk of losing capital. One victim who was approached by Choe Kum Song subsequently created an account and invested funds. Later, the victim was unable to withdraw any funds nor log into their account. Choe Kum Song was also involved in work related to verifiable credentials and decentralized identifiers. Choe appeared to be a lead engineer at a Singaporean company that issued verifiable digital certificates. As of June 2024, Choe Kum Song used the aliases Eujin Ong and Eugene Ong. Choe claimed to have work experience as a main developer at a Canadian company. A curriculum vitae used by Choe Kum Song described Choe as a blockchain and verifiable credentials developer with full-stack development experience and included blockchain smart contracts as one of Choe’s skills. In June 2024, Choe Kum Song was an employee of at least three U.S. companies.
+
+![](./eujin-ong.jpg)
+
+
+
+
+
+### "Zhang Meihong" to China Accts
+
+- 0xCF3f54b780aC180Ed57F3227C96BCF9B2FD7415A
+
+- 0xF9AdaC8658E08893fB4E91c1062e471eb11Cb6c7
+
+> Some DPRK cyber actors also maintain their own accounts at Chinese financial institutions for laundering purposes. According to information provided by an MSMT Participating State, the following China Union Pay cards belong to a DPRK cyber actor. The associated accounts are maintained by the DPRK using Chinese identities, rather than by Chinese nationals themselves, as observed in other cases.
+
+- China Union Pay card number: 6213360596291605263; Recipient Bank: Agricultural Bank of
+
+- China (中国农业银行); Recipient name: Zhang Meihong (张美红)
+
+- China Union Pay card number: 6228450598045706271; Recipient Bank: Agricultural Bank of
+
+- China (中国农业银行); Recipient name: Zhang Meihong (张美红)
+
+- China Union Pay card number: 6236680610001177499; Recipient Bank: Construction Bank of
+
+- China (中国建设银行); Recipient name: Zhang Meihong (张美红)
+
+> DPRK cyber actors have sent cryptocurrency to wallet addresses of China-based OTC traders who then transfer laundered funds to DPRK-controlled China UnionPay cards.159
+
+> For example, according to information provided by an MSMT Participating State and blockchain analysis, throughout 2024 DPRK cyber actors sent cryptocurrency from the following wallet addresses to China-based OTC traders.
+
+- 0xF9AdaC8658E08893fB4E91c1062e471eb11Cb6c7
+- 0xCF3f54b780aC180Ed57F3227C96BCF9B2FD7415A
+- 0xF9AdaC8658E08893fB4E91c1062e471eb11Cb6c7
+
+> The OTC trader then sent deposits to China UnionPay accounts registered to other Chinese nationals but controlled by the DPRK cyber actors. 
+
+
+
+### Kyonghung IT
+
+- 0x82ce61d10044cc0ea23215cc4b334ff0937af73c
+
+- gitstar333@hotmail.com - PayPal account used by Kyonghung IT
+- kang19791110@hotmail.com PayPal account used by Kyonghung IT, held under the name of Jiang Lianji (姜莲姬)
+- 0x82CE61D10044CC0ea23215cc4B334Ff0937Af73C Crypto wallet address used by Kyonghung IT
+- Bank of China 6216690500000490631 Bank of China account used by Kyonghung IT, held under the name of Chi Hai (迟海)
+
+- garezb35 Skype and Github account used by Chong Ryu Song
+- op161021 Telegram account used by Chong Ryu Song 
+- op_1021_ WeChat account used by Chong Ryu Song
+- +86-130-1980-4700 Chinese phone number used by Chong Ryu Song Held under the name of Tan Ranran (潭冉冉)
+- www.linkedin.com/in/lai-wewang-ba355a1a2 LinkedIn profile used by Chon Kwon Uk
+- top522816(ID : Zhong) Telegram account used by Chon Kwon Uk
+- 86-186-4155-7481 Chinese phone number used by Chon Kwon Uk
+- pokerstar888 Skype ID used by a Kyonghung IT worker
+- .cid.e8cef90c3b01c236 Skype ID used by a Kyonghung IT worker
+- youtube.com/stargit5413 YouTube account used by Kyonghung IT
+- gitstar333garezb35 - Github accounts used by Kyonghung IT workers
+- andersson1117 - Github accounts used by Kyonghung IT workers
+- laiwe - Github accounts used by Kyonghung IT workers
+- laiwe@Zafianto.com - - Email accounts used by Chon Kwon Uk
+- laiwe@adventuremoto.com - - Email accounts used by Chon Kwon Uk
+- laiwe@africatwin.fun - - Email accounts used by Chon Kwon Uk
+- laiwe@allombo.com - - Email accounts used by Chon Kwon Uk
+- laiwe@amateurup.com - - Email accounts used by Chon Kwon Uk
+- laiwe@babefocus.com - - Email accounts used by Chon Kwon Uk
+- laiwe@bnude.com - - Email accounts used by Chon Kwon Uk
+- laiwe@groobysocial.com - - Email accounts used by Chon Kwon Uk
+- laiwe@hunners.com - - Email accounts used by Chon Kwon Uk
+- laiwe@newbienudes.com - - Email accounts used by Chon Kwon Uk
+- laiwe@newdudenudes.com - - Email accounts used by Chon Kwon Uk
+- laiwe@newgalnudes.com - - Email accounts used by Chon Kwon Uk
+- laiwe@newtransnudes.com - - Email accounts used by Chon Kwon Uk
+- laiwe@peeled.com - - Email accounts used by Chon Kwon Uk
+- laiwe@rudenude.com - - Email accounts used by Chon Kwon Uk
+- laiwe@seemyselfies.com - - Email accounts used by Chon Kwon Uk
+- laiwe@selfienudes.com - - Email accounts used by Chon Kwon Uk
+- laiwe@soseeall.com - - Email accounts used by Chon Kwon Uk
+- laiwe@zafianto.com.testgoogle-a.com - - Email accounts used by Chon Kwon Uk
+- allombo.com Social media site developed by Chon Kwon Uk Company established in Cyprus
+
+

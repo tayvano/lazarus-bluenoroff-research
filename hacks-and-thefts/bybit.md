@@ -164,3 +164,166 @@ Tags:: 👛 TraderTraitor
 - 194.5.53.XXX - 2025-02-21
 
 
+
+### Annex 6: Bitcoin Addresses Controlled by Hong Kong Trader
+
+[MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
+
+> While DPRK cyber actors often facilitate the laundering process themselves, they also outsource laundering to third parties. According to blockchain intelligence company TRM labs and information provided by an MSMT Participating State, DPRK cyber actors likely outsourced some of the laundering of stolen funds from the Bybit heist to Chinese intermediaries, as they have done for prior thefts.
+> Outsourcing to third parties allows DPRK cyber actors to expand laundering operations and launder higher volumes of cryptocurrency.161 As of September 2025, all of the stolen funds from the Bybit heist have likely been cashed out.162
+> While reliance on Chinese facilitators is common practice, the sheer volume of cryptocurrency stolen from Bybit likely required DPRK cyber actors to expand laundering and cash-out responsibilities to include a wider network of the DPRK’s overseas apparatus and more third-party facilitators than smaller heists have required.
+> The DPRK is primarily expanding its laundering and cash-out operations through Russian intermediaries. According to information and blockchain analysis provided by an MSMT Participating State, DPRK actors worked with a Russia-based broker to cash out at least $60 million in cryptocurrency, including some of the stolen funds from the Bybit heist.
+> DPRK actors also coordinated with a Hong Kong-based broker to facilitate the cash-out of over $100 million in stolen cryptocurrency from the ByBit heist as of April 2025. The Hong Kong-based broker used the wallet addresses in Annex 6 to receive funds (See Annex 6).
+> DPRK actors also utilized networks in Cambodia in the cash-out process. DPRK actors worked with a Cambodia-based DPRK national to transfer funds to cryptocurrency wallet addresses in order to stage funds for cash out in other locations, including Hong Kong.
+
+1. 322BLHv1BNQ9mJfZERtsN1a7MrwnyTDF9U
+2. bc1p7tr3xyj7mmmpptmr58gne9jfs77a692me69wzq9zwr2nk6d7dyaq9a203t
+3. bc1pwd8l8j6mp9ktn03y67eftkkunwv7amcgeevc04y4gtzke950aggss330qw
+4. bc1qr03n9c07p3w434w99uclf5dzyfgp3glz9suqnk
+5. bc1q7mapml4sfc5nk0ra5723a782vzsmmv9eg7kff0
+6. bc1qgd2xy0w55ktdfhvapqh4ger8rpmp4rz22dunfd
+7. bc1q2ncyspvrh05h2vngk64um02aumyz0z9jghyunv
+8. bc1qp8dnaga0depn4tjtudm42malcav5ztawv5qn43
+9. bc1q6cwt5vsgp0s0p224syrpzmedqrqaa382vpx402
+10. bc1q2g0mnxp779ckulhf0qrk6an59afr42t5s6r8ka
+11. bc1pm87lqhktgwhk4j9hhs328tardmexf4lpjwkde36w62qrv8sw05cq6vprvq
+12. bc1p0n6tchu6uu8fvz00ap8ng9fsnl3y0f4z8d4muzrumnxk20jdadlq3w6jpf
+13. bc1qf4dnd26e2nsmr9a4d64stn44g3kkaynu7evyj2
+14. bc1q5j3j6z7plxjuj82ew46a3kl8c3qw3rnh9vth6y
+15. bc1q8cdap23tq5v6fzlhn9a9kufd8fjkehhlpehhaa
+16. bc1qp6rxf3sl9c2e32zfzzjq29d258rzpzhlhpz0dd
+17. bc1qkdj5gktdfsn5hf4yt7wjfpzgz5g04jygtf07aj
+18. bc1qlhd4gqtk867nj7e5e8hryyv0uq829n4m8tj0hf
+19. bc1qfj4jsmkg4u4zech0ft8q827lw3sfpurl9rutyj
+20. bc1pz5eadcgvwwyad7ea9myd2ftfg68rl798e7vhn5v8yl0cz84wntzqnwxe5q
+21. bc1pzs9ey6sugzvweks3u5u9scxzllc0vyew54hun8ed68dn7sfwgcwq72hfx4
+22. bc1qjmgp7t34z63qm4l6umzqdcucd8umvmkszd8g4d
+23. bc1ptzxl8kqgktrj9znjyw7p4nlc053e0hzap6cenfux6mgg25wydj0sv0m8gc
+24. bc1ql0pj0m9m4zv2tj88s5qmkdm9gp8mgejkzgymmc
+25. 35Ksf3WFVSgmMwNqWfFnCEkfmD7bHfi3uW
+26. bc1px4m5zuedlf79zsl4hlp8p2svdm303fcax2z5uyrqtsaeknhrc5lss7c007
+27. bc1qj0rsus3lmr9nrz7uhz7r2tzgwhm974nsrm9pcd
+28. bc1qdqpdd4pfey05kv2j8tvym6rdu4ysl27z6qxje7
+29. bc1qkuka43ywd0cnnmvxgklwuvp3dc4w7ahh202jjw
+30. bc1qaek3t2e2uttc2ax78t3823hmfp9s9c4uqfdxhs
+31. bc1qf5pwnlpjlrmtp9y20cmyquhzhr0ukcvcxfcevx
+32. bc1p3efhp7vdk3fpktvwyrjjv7xwt5uaunecv9kr0n6cchwehvahl58q473v6j
+33. bc1qek4yslqnplcg92mljpml0we46eus6ygg7uyrk4
+34. bc1qs0r7e4t7wvmwzgsvv8nflqgtcy35c6cfdrynuu
+35. bc1p82xjnlgghflgmgfjfwufxlp7wj58jsmctevnn75pwt7pmf2ydggqgq8trs
+36. bc1qs08hklgy2mc4srshcmxuy4zcm2l7paz3qjmqsg
+37. bc1p09ndd295tascvcas5ta8fzxxkalks8dvjnx9273k9zka45hl09gqnljkuf
+38. bc1pkseyk4vymvk94ncm5c4a0mtydl5egzwx0gfyx77u9ff9a9apjdwswxdeka
+39. bc1pkd74e687fvvt54yktxdrqqf2d3e5jqmk883kftkth2cryfve425sva6mjh
+40. bc1p6fy8lzhlj97q0ne6hljaj7f53kmtxys8zctv0jxd82smtr6tmtpqpd07c4
+41. bc1pzy2w6dhkrr02lhwgwxhp98s7rp9fe2xqk7cvgxscx44arazllr3swgxnll
+42. 3F2Ukje3xqY52tm7o3CpuuTJmVg5bAWfde
+43. bc1p0djqslc4zq9wph3n570ms2u95ehn9ghqz83ryllw8kpr67jtg9yq0r78k8
+44. bc1pz84htvgtywk40x7w5sqtf372cnvs9z94sjm0vf7nm4vdq9kcld8sue7mwu
+45. 3GH3o1U8JyuHoA3HG4p2LNZwko7AXMXEDr
+46. bc1qz0tfke7le0qjfpes53eknwyfdh23hu4g7cf6qe
+47. bc1qknc6rk3nzkh0zksuvdus5tz64z7s43r083vhx5
+48. bc1qx0zcj7tjduyq92m0f078nuzlvxg3mxa2galtnc
+49. bc1ql7987q80yjl7lh592pvxjlfz0r9yw396wzeleq
+50. bc1qjgrys6mptskym9zq2tv806x99c3nmq8wsglulq
+51. bc1qljjt8dsnd8v7uqj3y4awvdv6z70gq22dajvhjr
+52. bc1qfy8u6p9usm3epetk6wnv0axfklrwcg4r9adrqc
+53. bc1qh55527ce2l7h36t9a74dj9747076rnjul28xhu
+54. 1CfixayZ7bba6fF9pDyX7e7wNmV7hZaCA8
+55. bc1qm780f9296mqva5mz539z0xxd48kg96jd9dgqtj
+56. bc1qgw0xhmc6ajgxdsmj6r6v6np633xll5s2d6rrq3
+57. 145YnCwFBAsYRXp7HTxJHtwxLL1Q7Khwiu
+58. bc1qwdzqzrtl5npnadrjv0kamgkpltvjjtkqdchvzq
+59. bc1qfg8r0xgl9ks26qlh4rwejgw8ns3mzztljvhmss
+60. bc1qw5r3uf3sz7pgpee92p562hxc2ymuwu7vu3qgmz
+61. bc1qypytt8pyqllhl0r28yljweuardsrpptgvuw5zh
+62. bc1q3ege9e9ggajzm86ych53wm9dmq2z8szsyx63kv
+63. bc1qttm8z0vnsn0kzj2xethulcmhgk70rtu3sy2m9p
+64. bc1q8k5u7mq4kq54cm3tq7hsn7p28xpu5c3kutlqq7
+65. bc1qwh70nxfd4lgajl959rs2qgevv33fvc4tw9sawr
+66. 3HU41jQJ6MFoAYzVsTBxG1tpKdmYpYaMsz
+67. bc1qe0p8xppkzt8yuzjkxln6gjw8xktg8rtrx0n0my
+68. bc1qa5j4ydcs2g2casakj3t725wkreywccefxff3vc
+69. bc1p3xpgvzdp3ns8wnw7a93
+69. bc1p3xpgvzdp3ns8wnw7a93nzgaeems73m800j4gwcmsrej0j696es5qwsl4x4
+70. bc1qjfw89cuge0q7veqnge47507nka57x43l3mgx6r
+71. bc1qt2lqelvrv7afv04pj4ju53vn230h9ee290jpuj
+72. bc1pencs6wngluvk4aayypk7jrpg7w7hn3766hvu7vwdkleue6cl63sq6najw8
+73. bc1q8agwcy55pw99zsuw0eqtc7vuvfwtrn7lp3yxx4
+74. bc1qr6c0a303xne4lp9tnkdcet9raymylaw7ef02ap
+75. bc1qd80kmf2fjmqt0ay6ntls38kpytsje8y539s6w4
+76. bc1q7d4tdvz8eewtdyjqcrfst6tejjulgejtgldc0f
+77. 13nPTovCdyhTo5Rb8xGEB8mBobEtFrfB73
+78. bc1qrtyddqcrdtpp72j7p7qre2zt7nxxz8gduwpxu2
+79. bc1qzkae9d9y9cexvjegyx5kdj22fplsx4pna3qgpd
+80. 1B6b6YPdp7HMtLC5453SiKckax2K6LVJta
+81. bc1qmp53xs8xw6q4hpnq3842le0mlqtpe0whzfjy54
+82. bc1q5l2ym4pjda3l5pqvh2zntx53s8plusmuj5qeeu
+83. bc1qv0d69hwjg7tjdgxt47fwz5rcmlfpmwwvl7t4qf
+84. bc1q9r2262mfannwrscel8qn7hqr0usk2735tragas
+85. 14sdAQW1Y4eLSsFCD2PAShUG9aXCtAXf5Z
+86. bc1quawf7457ra2s7r7khre2v8s08gncwhwhksvnpa
+87. bc1qmql48w6h5wf0pfvjz0pwcd87r45mfpzcg2dpgx
+88. bc1q5jy334z2t6nlhrmhcuagjw2y4yj0xve63trvwj
+89. bc1qqr3wpnaxx9ugzt33dma4xwfg82t0lx2wnnvzte
+90. bc1p8myp4tlfadptv8lh93tavreqhq7wvk5mmk9a36y7nt0lcw6mr0asts700l
+91. 1H2ZnxA4es3LjpLzwpaB78tPqE8vjK8ThS
+92. bc1qzjx99lz06vcetv6hrm62lmcldnpkj0dsqnckcs
+93. bc1qazcmu3ce6pjr9du63ef6g4d32pzjmk8hpdt47n
+94. 12kTcTqc2BPKfQVAHeSNEmwp8LQmKeVYCq
+95. bc1q9am8qe0yth4cv5wq9r3r5znyqw05ay8v7f6fqe
+96. bc1qtrk0laxd2z20eyddvnxkj2g6yq2c3nznfpz6ak
+97. 16oke474qNDWkNfC4816yPVJ29uZNvcDET
+98. bc1qfgvgh33n5d0jynkr24kr4udtlvf0zwqmcy5fzj
+99. bc1q57t94f7j8hkuygrttc5re854pmyen6xhnlwrud
+100. bc1qlu05kadxzahuc9gw3hcxwrkd8wauq7mrcqv7xr
+101. bc1qy3qlxt5jyyuzluufvfnwapyqe67huscv66ezl4
+102. 15HTDWCdpoxzXZtVfd1eAZRezS9gs82XFB
+103. bc1qljwnu9p9uasy6q8qdacdgpu05fjfg2y3tugjuy
+104. bc1q29aexqflszm932sw8qes3nzyjac8psz2g2xsvm
+105. bc1q2r6lh6fc8gt6jhuxw97hh8vh237hppr9xrzd6x
+106. bc1q0sugc483t3uum3v994aavddwqrgd4rmtenmt0m
+107. bc1q8968vcg8340kf0w2darjd426xt6k5dpzu4x60d
+108. 1PsRqgkFVCdqPrv5Lfd7wqABfYViQ3zj1d
+109. bc1q5dmexndr3pfn905xd5j0hf988f5y7gkmdvu5aq
+110. bc1q6aysh2c4lg2gv8srg2nu2q27as3s25j0xc8233
+111. bc1q4kdphehrjhtchch4z8e5myfszarallqlljzg6h
+112. bc1qax5g5fdusqxu0crh86j8zn3ahtecdt7et6ffpm
+113. bc1q9mlgnyzlstf9ktj708hqnp6mey2xdfmeteh72h
+114. bc1q4s9ndgfulqf92hdjt7zs4528xtp3sm8k34j4hc
+115. bc1q288z494hkyvqahrv07lsmr7twwnlkqfah95s4w
+116. bc1qdnpaj6wfxyhay03zuk7ca68q0pcg0c6kv3nu73
+117. 17Tv4RudV9yS3JdXrT77gTzWzcd8ic8PRo
+118. bc1qtr5me2ftvdp280alpdvalw7gdwuwj5ukdtwkp0
+119. bc1qghm2svadn66ld0kepgjxu33w5egatwv2ud3y60
+120. bc1qd87pacd3p29zp4ywqwc2wyamdaf55rajj3pmg5
+121. 194gvN72YYP2vQ34uuM3KMo6yeKQKgpZJ1
+122. bc1pdsxfnycwd57nk8vaq32qeq5472xev7y5vkdzrvdawk2gns7nt2yq9j43lq
+123. bc1q5jg2l94acj72ltrnkvdp3h6r90epk4jrn3z420
+124. bc1pdedc4mxnengwdxalfxzl2vxky8n53s9nqk3qwlcyhvn673qzqhyqzrz0q0
+125. bc1q4l9mck0rezs5vl2te44s20f680xef4x0rkr39h
+126. bc1qykeur8l6kxwhrvlkvc26ayqfagh6k6ymhzdz4u
+127. bc1qlcw4zah8pphzct9cjuymmv02y9avl2skveldck
+128. bc1q3dnglj255dpwtya3q830zjte3g43dlg0sedzp5
+129. bc1qkv5jdtwgm82xae3g2672v3ltk72xm44yzxfe30
+130. 16VJRzDvVzRUihBWcU9DUGcYeYLiUaB1xc
+131. bc1qxpawgw2mnh76a4hlc9lgphughkrlaqcs8jge89
+132. bc1qrphhxrklmfq9nw6ggmw6d3cy5zfpe69md5cu09
+133. bc1qtyqj5zsj79llms309zl0ccw798yt0maw2mmfwa
+134. bc1qax7tewc67ucyyy6vdkakpl87ejgxze0h2fzucl
+135. 1FYmCpHkbaFrNutHrsXwJ67a5r35tv8kpJ
+136. bc1qhkhj0tux8hpuz77krycs8chhft27mg8kdp40pd
+137. bc1qstewk22dp7q9mtzcrp70d3hxy50t7qt28vctpj
+138. bc1qqdwdkja3y4znpdkek9tj35z67d5dsqap5xcqr6
+139. 1Aroc9ytmWKdcUroA22m9Bo2QcoGRmjjGU
+140. bc1qu25609maxwalmesa0rd7408hpls7vhcg057k4l
+141. bc1qn5w5mxeuhwwms7tf3c5tnxyswp65326v54n7nv
+142. bc1qg7yhdkw0hjnhu7t4npye66g045uxxt5frzqk9z
+143. bc1q9zlldgsjm2cdc3ejjj0sd6n82yw6apmxs557he
+144. bc1q8x80urzdd67g6pd9j9uz0mfv8hhdqyz9ejhr86
+145. 1NbtsYFzpHqhfrFjXmidT9kXSmS5frX4ub
+146. bc1qd6n6jpcd4sr8a93s2whuaamqcz60e84n492pk0
+147. bc1pa73rg25ytwjvear3hu65v74m8prgxpvmnj4jzdu0gr5g4cacmqzs0m6wa6
+148. bc1q7m98m862ke6r9fp5ydzx8nk9jx3u4sghsnt5t9
+
+

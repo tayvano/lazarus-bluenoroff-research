@@ -6,6 +6,8 @@ Amount Stolen:: $140,800
 
 Tags:: 🔑 SQSQ
 
+G:: 407955
+
 ---
 
 
@@ -20,6 +22,7 @@ Connects to Trufulation directly lol
 - 0x117f179f49835e9f1e356b3e6907f5dd5eb54048 Victim - Compromised
 - 0x1398dc1027b346766e6e30f8451acfee3b3c70d5 Victim - Compromised
 - 0x62d75b7468b49fb2115c5d64fd3f3635c82d59ff Victim - Compromised
+- 0x8983c523b7ac35bfd041d02dbdf2afddc3893cfa Victim - Compromised (Blast)
 - 0xdb9ca44cab5bea832dc159ec5c7346221a29b7dc Victim - Rescue
 
 - 0xd5982d5e3026c19e75ac516a1d663725ffc64d27 Victim - Other
@@ -31,8 +34,6 @@ Connects to Trufulation directly lol
 - 0x61cca22bf0d430ef01d2de1b5087e7c779a7c425 Victim - Other
 - 0xe6571b0141c6fbeef44cddc7408519d01369cea6 Victim - Other
 - 0x40e333e27ae01e6b02fe3cc94e6d82349aeceeee Victim - Other
-
-- 0x8983c523b7ac35bfd041d02dbdf2afddc3893cfa Theft 2025-11-03
 
 - BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB SOL 2025-11-03; commingles with [Truflation](./truflation.md)
 - AtvNL88Uarnip6BBSf9vG33Lf1KJDsr7uNzEKnfaQAxH SOL 2025-11-03; commingles with [Truflation](./truflation.md)
