@@ -2,7 +2,7 @@
 
 
 
-### Background Literature
+#### Background Literature
 
 - https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf
 
@@ -24,8 +24,7 @@
 
 
 
-
-### OSINT Interview Videos
+#### OSINT Interview Videos
 
 - https://x.com/blackbigswan/status/1912647965505736753
 
@@ -35,27 +34,17 @@
 
 
 
-
-
-
 ---
 
 
 
-
-
-
-
-
-
-
-### PONYJACKAL CLUSTER
+## PONYJACKAL CLUSTER
 
 - ![](./ponyjackal-crew.png)
 
 
 
-### Benjamin Nguyen
+#### Benjamin Nguyen
 
 - ponyjackal.eth
 
@@ -77,7 +66,7 @@
 
 
 
-### Andy Bell
+#### Andy Bell
 
 - bbshark.eth
 
@@ -93,7 +82,7 @@
 
 
 
-### Danny Jin
+#### Danny Jin
 
 - dannyjin117@gmail.com
 
@@ -105,7 +94,7 @@
 
 
 
-### Muhammad Abdullah
+#### Muhammad Abdullah
 
 - github.com/polartar • [Archive](https://archive.ph/z1ghl)
 
@@ -119,7 +108,7 @@
 
 
 
-### Eric Andrade aka Josh Thomas
+#### Eric Andrade aka Josh Thomas
 
 - gsofter.eth
 
@@ -131,6 +120,10 @@
 
 - 0xe2becede47e8cba800b42323117a15399a6b5334
 
+- 0x3f35550c2366b1a9bfc3e838b3fdb54c3267e084
+
+- 0x899ab9015b440c1dbe4a7fe8860e4ca8a2b22272
+
 - ![](./eric-andrade.jpg)
 
 - ![](./eric-andrade-2.jpg)
@@ -139,7 +132,7 @@
 
 
 
-### Sandy Nguyen
+#### Sandy Nguyen
 
 - xgracias
 
@@ -178,7 +171,18 @@
 - https://x.com/zachxbt/status/1940388827392344261
 
 
-### Adjancent
+
+#### Austin Lee / nextidearly
+
+- nextidearly
+
+- 0x2A12d779E06CAc14E7336B9F854f53f250f66eC4
+
+- 0xc2c71c5a9393241b94b8be414c4fdc3db6d8d2e3
+
+
+
+#### Adjancent
 
 - 0x4Cd0dCD8EB96E8F02273e9Ca02F2D937A3b48418 lfgdegen smarterdegen.crypto
 
@@ -198,28 +202,21 @@
 
 
 
+## BRYAN + BONG + JOSHUA + PEMBA CLUSTER
+
+- ![](./1939767200166158385.jpeg)
+
+- ![](./1940202426205905291.jpeg)
+
+- ![](./bong-pemba-joshua.png)
+
+- https://www.wsbtv.com/news/local/north-korea-agents-steal-nearly-1-million-cryptocurrency-buckhead-business/XGEVBB7Z4JHPLPPP5XMNMDZ7DA/
+
+- https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
-
-
-
-### BRYAN + BONG + JOSHUA + PEMBA CLUSTER
-
-![](./1939767200166158385.jpeg)
-
-![](./1940202426205905291.jpeg)
-
-![](./bong-pemba-joshua.png)
-
-https://www.wsbtv.com/news/local/north-korea-agents-steal-nearly-1-million-cryptocurrency-buckhead-business/XGEVBB7Z4JHPLPPP5XMNMDZ7DA/
-
-https://www.justice.gov/opa/media/1406396/dl?inline
-
-
-
-### Joshua Palmer
+#### Joshua Palmer
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -275,7 +272,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Bryan Cho / Chris Yu / atroboj
+#### Bryan Cho / Chris Yu / atroboj
 
 - 2021, 2022, 2023, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -325,7 +322,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Bong Chee Shen / Alex Shen
+#### Bong Chee Shen / Alex Shen
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Obyte / Byteball
 
@@ -357,7 +354,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Pemba Sherpa / Pemba Gulu
+#### Pemba Sherpa / Pemba Gulu
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -381,25 +378,17 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
-
-
 ---
 
 
 
 
 
+#### LAOS -> VLAD BOYS
 
 
 
-
-
-### LAOS -> VLAD BOYS
-
-
-
-### Jenson Collins
+#### Jenson Collins
 
 - 2024, 2025
 
@@ -447,7 +436,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Kazune Takeda
+#### Kazune Takeda
 
 - 2021-2025
 
@@ -509,9 +498,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
-
-### Kazune Takeda - mtfuji25
+#### Kazune Takeda - mtfuji25
 
 - mtfuji25
 
@@ -541,9 +528,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
-
-### David Adachi / zhmolly
+#### David Adachi / zhmolly
 
 - 2024, 2025, Zach's List zachxbt/status/1824047425822310580
 
@@ -587,7 +572,6 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
 #### Pham Trung / jwtradera (zhmolly friend)
 
 - 2024-2025 (jwtradera cluster)
@@ -610,9 +594,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
-
-#### Sadao Elichi / zhmolly
+#### Sadao Elichi / David Adachi / zhmolly
 
 - 2025 (jwtradera cluster)
 
@@ -647,8 +629,6 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 2c5gD79Um49VmLCx54a89vVL84kFCiWmj82Zyg8QVVWi
 
 - BrbAo3gtStKPxUbdomd14WUUAFv5QSBnFqp6NRD6TBGC
-
-
 
 
 
@@ -698,8 +678,6 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
-
 #### Alex Davis (Charles Gordon alt)
 
 - 2025
@@ -713,8 +691,6 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - dannyboy-820
 
 - alexdavisgender@gmail.com 
-
-
 
 
 
@@ -768,7 +744,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Naoki Murano
+#### Naoki Murano
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -832,7 +808,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Satoshi Naoki / Sano / 0xb10ckdev
+#### Satoshi Naoki / Sano / 0xb10ckdev
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -880,7 +856,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Leon - Leon Lowden (0xl2)
+#### Leon - Leon Lowden (0xl2)
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -946,124 +922,171 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
 ---
 
 
 
+## Keisuke & Co
 
 
 
-# Keisuke & Co
+#### Keisuke Watanabe / kAsky53
 
-
-
-### Keisuke Watanabe / kAsky53
 - 2021-2025, Divvy, Stabble, ElementalFi, Player2, Marinade Finance, Everway, OneRing, Parasol Finance, ORAO Network, Kamino, KingSamo NFT, Stryke, Beraborrow
+
 - kAsky53
+
 - kdevdivvy
+
 - dev4all.sol / dev4alldotsol
+
 - keisukew53
+
 - 0xWoo (minor username)
+
 - hirayama1534 (2021)
+
 - watanabeatari@gmail.com
+
 - t.me/kAsky53 (ID: 1914451016) • ([Messages](./user-1914451016-@kAsky53.txt))
+
 - dev4all.sol = JBxidGWnhtPTGg8xw7sFT9tF4cfGtHnjYNp5GDJvGveh
+
 - 8mdfRML7z3s8gqDYd72bywcEgQtcvkoJCw2bukv8X71R
+
 - 4Cz7ZhYnEKtXVs6tivDFo3z6g3KuVct9J6wigg2xZ6Qv
+
 - 5rKfEpABCmbKuVHRfEMFThYFBxU7DW43fScJCSPLdw7D
+
 - 66maPCk7WqQyx7w97K7uZqVkdDbprtmvQdpjXSaAoarE
+
 - BjGhtq5Vh9Lv1xxBJ6pZKx3ZCmsEHPVoWNZZGdHkVQ4p
+
 - CfFk1V1LQ6b1DeijRP5qFQwHeJwXdYLepTxqCS1yVQFy
+
 - DybGDChJMvX9Jnza4XTQVDyUGZ6jYrRg9Q3CdLiEJeh2
+
 - GjCTY7n5ogPBT8A2HnYQQho4TGN6EznMQJgJBcYrgdoc
+
 - JBxidGWnhtPTGg8xw7sFT9tF4cfGtHnjYNp5GDJvGveh
+
 - 0x161dea4d7ac627f2bc4358dfece386c0e9f4cc8f
+
 - 0x1b89aecc0f8c128150db67d7d0c4b1daeb43eda4
+
 - 0x83b5fbcae0f80697130ef8479622a1cac9a2a9b9
+
 - 0xe45d08520274bcd177aed9406e80db23d231e82a
+
 - 0xe54dbf16db507a2dacfece7997125b90c7e2e9a5
+
 - https://x.com/kAsky53/status/1726298239530614808    
+
 - https://x.com/kAsky53/status/1726298540786466997
+
 - https://x.com/kAsky53/status/1726299174227059164 
+
 - https://x.com/kingsamocoin/status/1464602708887818240/photo/1
+
 - https://x.com/solplay_jonas/status/1786388979123642818
+
 - ![](./kazune-jenson-kAsky-01.jpg)
+
 - ![](./kazune-jenson-kAsky-02.png)
+
 - ![](./jenson-naoki-01.png)
+
 - ![](./keisuke-resume.jpeg)
+
 - ![](./naoki-jenson-keisuke-kazune-leon-zhmolly.png)
 
 
 
+#### Mario Suparat fka Chris Jin
 
-
-### Mario Suparat fka Chris Jin
 - devbamboo
+
 - devbamboo15
+
 - super-vic114
+
 - chris-jin114
+
 - mdevdivvy
+
 - github.com/devbamboo15 • [Archive](https://web.archive.org/web/20250604132757/https://github.com/devbamboo15)
+
 - github.com/chris-jin114
+
 - AezJBekqBoMWPcCVByn78mucdKVXdc99ugiRjJArWgYR
+
 - 5AvpMGYy2WxCMoaswmLfFdKPSMDxwZomPVDAdzE3A6vE
 
 
 
+#### Holmes Ming
 
-
-### Holmes Ming
 - 2025 - friends w Keisuke
+
 - Holmes
+
 - Holmes Ming
+
 - h0lme3
+
 - HaoqingMing
+
 - haodev007
+
 - stabble-dev
+
 - haodev007@gmail.com
+
 - h0lmes
+
 - stabbledev
+
 - x.com/haodev007
+
 - github.com/h0lme3 • [Archive](https://web.archive.org/web/20240926190449/https://github.com/h0lme3)
+
 - github.com/stabble-dev • [Archive](https://web.archive.org/web/20250827054724/https://github.com/stabble-dev)
+
 - socket.dev/npm/user/stabbledev
+
 - t.me/haodev007 (ID: 5312921424) • ([Messages](./user-5312921424-@haodev007.txt))
 
 
 
+#### Ming Tai
 
-
-### Ming Tai
 - Igor Babe
+
 - github.com/vikigstar (codebear)
 
 
 
+#### Thành Hao Vo
 
-
-### Thành Hao Vo
 - Kunkka0822
+
 - github.com/Kunkka0822 • [Archive](https://web.archive.org/web/20250827054829/https://github.com/Kunkka0822)
 
 
 
+#### David Lee
 
-
-### David Lee
 - solandrust
+
 - github.com/solandrust
 
 
 
+#### Shiro Masumi aka James Bello
 
-
-### Shiro Masumi aka James Bello
 - monstar911001@gmail.com
+
 - github.com/monstar911
-
-
-
 
 
 
@@ -1071,16 +1094,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
+## Mauro & Co
 
 
 
-# Mauro & Co
-
-
-
-
-
-### SIFU VISION / catanet.eth / Sifu Vision Deployer
+#### SIFU VISION / catanet.eth / Sifu Vision Deployer
 
 - Mauro Liu
 
@@ -1091,42 +1109,44 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 - 0x6674bc65df8bd4f5b495c1dad35543eb6c4eb674 - Company paying payroll (Sifu Vision Delployer)
 
 - 0x147ed0f4d0cc9f0cf4eff223aa79b2f837532d62 - ITW Mauro Liu 0xchamel
+    
     - 2023-12-11 $24
 
 - 0x682d0c303a1619b274e2d337828293986b195896 - ITW Unknown 1
+    
     - 2023-07-17 $200
+    
     - 2023-07-19 $1,631
+    
     - 2024-07-31 $4,018
 
 - 0x39143cc85d4cf0e31849987aa9f68c621282820c - ITW Unknown 2
+    
     - 2023-07-14 $330
+    
     - 2023-07-19 $2,310
+    
     - 2024-07-01 $4,018
 
 - 0x43ca2e9d6bccc15b5c722220e7724ca64d5ee422 - ITW Unknown 3
+    
     - 2023-12-25 $177
 
 
 
-
-
-
-
-### Mauro Liu - UNKNOWN COMPANY
+#### Mauro Liu - UNKNOWN COMPANY
 
 - Adjacent to Mauro Liu
 
 - 0xd77d919fd407e373730b5ba287ed94b6cddb23ff - Company Paying Payroll
 
 - 0x8bd5d72e5874f45a1204e486938d8c271e953e5e - ITW 1
+    
     - 2023-07-21 $2,000
+    
     - 2023-12-18 $4,027
 
 - 0xb2ef5c1af6b2b43bfc834fe114b5cf3a3abc919b - ITW 2
-
-
-
-
 
 
 
@@ -1134,14 +1154,11 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
-
-
 # The OGs
 
 
 
-### Alex Hong
+#### Alex Hong
 
 - CreamFi, Decubate, DEPO, DeSpace, Gamerse, Jointer, Paid Network, Panther Protocol, Impermax
 
@@ -1173,7 +1190,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Jason Kwon
+#### Jason Kwon
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), DeSpace, Beanstalk, Blueberry, Spice Finance, 
 
@@ -1223,7 +1240,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Jason Lee
+#### Jason Lee
 
 - Kira Network, Metadallion, Party Doge, Yam Finance
 
@@ -1257,7 +1274,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Gary Lee / ChienHui Lee / Light Fury / Leech Developer
+#### Gary Lee / ChienHui Lee / Light Fury / Leech Developer
 
 - Q12024, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Gamerse, DxDAO, Sushi/Miso, Chronos, DEFIS $XGM, Fantom, Preon Finance, Sperax
 
@@ -1309,7 +1326,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Jikun Liao - The OG
+#### Jikun Liao - The OG
 
 - MetaPlay (Jan 11, 2022), Gameswap, Obytes, Iotex.io
 
@@ -1349,7 +1366,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Jikun Liao - "James Lee"
+#### Jikun Liao - "James Lee"
 
 - Q12024, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -1363,7 +1380,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Jikun Liao - "Justin Lim" / altbee
+#### Jikun Liao - "Justin Lim" / altbee
 
 - 2025, Cook, Arable Protocol, WagyuSwap, GAMESWAP, StakeDAO, Obyte, Fantom, Lid Protocol
 
@@ -1397,7 +1414,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Quinn Lee
+#### Quinn Lee
 
 -  Q12024, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Arc Market?, Fastswap?, Grape Finance?
 
@@ -1423,7 +1440,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Ryuhei Matsuda
+#### Ryuhei Matsuda
 
 - Q12024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Arcadia, DxDAO, Kira Network, Kylin Network, Loom Network, Naos Finance, Raze Network, Sandclock, Shardeum, Paid Network, Hyperionx
 
@@ -1473,7 +1490,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Mauro Liu
+#### Mauro Liu
 
 - Q12024, 2024, MagicCraft (2022), Ankr, Gamerse, Clover Network, DEPO, Sifu Vision, Oxytocin, Tomodachi
 
@@ -1555,7 +1572,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Mauro Liu aka Xu Liu
+#### Mauro Liu aka Xu Liu
 
 - Napier Finance (2023-2024), Blueberry, Pickle Finance, Harmony
 
@@ -1603,7 +1620,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Eric Liu
+#### Eric Liu
 
 - MagicCraft (2022), Humansdotai? Cosmos stuff?
 
@@ -1649,7 +1666,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-### Anthony Keller / Daiki Saito
+#### Anthony Keller / Daiki Saito
 
 - Truflation, Hector Network, MagicCraft, Sushi/Miso, Yearn/Coordinape
 
@@ -1713,85 +1730,7 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 
 
-
-
-
----
-
-## Hector Network
-
-### Alexlu0917
-
-- Alexlu0917
-
-- codemaestro11
-
-- works with `cooldev900` / `silversoft0707` and `oldhand7`
-
-- ![](alexlu0917.png)
-
-
-### CodeMaestro11
-
-- CodeMaestro
-- CodeMaestro11
-- alexlu0917
-- mikhaylovqweasdzxc
-- alexlu0917.dev@gmail.com
-- mikhaylovqweasdzxc@gmail.com
-
-
-### itsmooncity
-
-- itsmooncity
-
-- 0xmooncity
-
-- 0x483adFD3409abEEc7d500312d81eFa21E740632a
-
-- https://x.com/lilbagscientist/status/1986571969408446676
-
-- https://x.com/blackbigswan/status/1987891292899303598/photo/1
-
-
-### David Park
-
-- https://x.com/lilbagscientist/status/1984385125212438885
-
-![](./david-park.jpeg)
-
-![](./david-park-2.png)
-
-![](./david-park-3.jpeg)
-
-
-### Hector Network / MEXC
-
-- 0x66b37234b9Cf5a7fBBDA45076e70164962dc7c8D
-- 0xA3CEcF021Cd17681aD33A7Fc2F387F1cde8e0b61
-- 0x8E7b405be517EC23d13f756D0cBA201176a25B04
-- 0x95558655C7Eb9C174c5D7B3C73F2FA64a510E2f1
-- 0xDA11680fc06D4a2ADFAe220936dE2a922dcdD9fC
-- 0xb2628b78FD46D43a9A69F87d890874B91DB5aaa2
-- 0x7534DD9676BCb6ffca1dF9a386079a5aA706D8F3
-- 0x16ba6a5B0B5a37664Ea2A595f21e368DC61c6FF7
-
-https://x.com/lilbagscientist/status/1980294857022394400
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-### Sava Grujic
+#### Sava Grujic
 
 - Sushi (2021)
 
@@ -1813,7 +1752,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Sarawut Sanit
+#### Sarawut Sanit
 
 - IQ (2021), GuardRails, Luxcore, ThorChain, Vitae Token
 
@@ -1843,7 +1782,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Jun Kai
+#### Jun Kai
 
 - 2024 [Zach's List](https://x.com/zachxbt/status/1824047425822310580), Kira Network (2020), IQ (2021), Sunrise Layer, Elys Network, Ferrum/Comdex (2023)
 
@@ -1901,6 +1840,155 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
+---
+
+
+
+## Hector Network Cluster
+
+- https://x.com/lilbagscientist/status/1984385125212438885
+- https://x.com/lilbagscientist/status/1980294857022394400
+- https://x.com/lilbagscientist/status/1986571963238875498
+- https://x.com/lilbagscientist/status/1988604220099150001
+
+
+#### Alex Lu
+
+- Alexlu0917
+
+- codemaestro11
+
+- works with `cooldev900` / `silversoft0707` and `oldhand7`
+
+- github.com/alexlu0917
+
+- github.com/CodeMaestro11/
+
+- alexlu0917.dev@gmail.com
+
+- codeMaestro11@outlook.com
+
+- https://opensea.io/Alexlu0917
+
+- https://web3.career/@alexlu0917
+
+- ![](./alexlu0917.png)
+
+
+
+#### CodeMaestro11
+
+- CodeMaestro
+
+- CodeMaestro11
+
+- alexlu0917
+
+- mikhaylovqweasdzxc
+
+- alexlu0917.dev@gmail.com
+
+- mikhaylovqweasdzxc@gmail.com
+
+
+
+#### itsmooncity
+
+- itsmooncity
+
+- 0xmooncity
+
+- 0x483adFD3409abEEc7d500312d81eFa21E740632a
+
+- https://x.com/lilbagscientist/status/1986571969408446676
+
+- https://x.com/blackbigswan/status/1987891292899303598/photo/1
+
+
+
+#### David Park
+
+- Cooldev_900
+
+- cooldev900
+
+- t.me/Cooldev_900 (ID: 8369486870)
+
+- github.com/cooldev900
+
+- 0xF7A3Eb4418F5f186060A9fB8ee85d7362C632a6d
+
+- ![](./david-park.jpeg)
+
+- ![](./david-park-2.png)
+
+- ![](./david-park-3.jpeg)
+
+
+
+#### Hector Network / MEXC
+
+- 0x66b37234b9Cf5a7fBBDA45076e70164962dc7c8D
+
+- 0xA3CEcF021Cd17681aD33A7Fc2F387F1cde8e0b61
+
+- 0x8E7b405be517EC23d13f756D0cBA201176a25B04
+
+- 0x95558655C7Eb9C174c5D7B3C73F2FA64a510E2f1
+
+- 0xDA11680fc06D4a2ADFAe220936dE2a922dcdD9fC
+
+- 0xb2628b78FD46D43a9A69F87d890874B91DB5aaa2
+
+- 0x7534DD9676BCb6ffca1dF9a386079a5aA706D8F3
+
+- 0x16ba6a5B0B5a37664Ea2A595f21e368DC61c6FF7
+
+
+
+#### Wolf on Sol Hack
+
+
+- https://x.com/lilbagscientist/status/1988604226457776428
+
+- 6w3Aydzf1eZ4ZUa6gQrujpjKq47yMovZvFRHcc7K8izG
+
+- 0x2A0C3Cd720397d58137ddA6eF2f96D7a9a920F59
+
+- 0xfc6bf75dbe839ca7f9fcd8490d5be4ffac735df8
+
+- 0x9e6bbd2204ef8df16b5e6db01d13f8a339f82d55
+
+- 0xaacdEDda80d2d645a353841D46e749F3F8a2304C
+
+- 0x78beD44F9Fcd224B61eed9eE59A1A772a169cb7c
+
+- 0x0b237965D3A4288F06620277daAc1f113AdDbA00
+
+- 0xB0CA489DDdA9C11C3F6AC58A4437eFe04C0A2490
+
+- 0x698B66D21851a64dfB30C2dbe58603a6A9D94f26
+
+- 0x47a326dc038c6e6a49f6e14697b26C543b4d2F63
+
+- 0xc6Cd086030a7A2FD634215cC6216e57E5D7921c0
+
+- 0x21Cbb5187050D0B20eb1F858F6Ef07D6DFfA3653
+
+- 0x139Ce0B76B4BBBB392112cc23152A4688bf651c5
+
+
+#### Jova (Wolf on Sol)
+
+- besmart
+
+- Milos D
+
+- t.me/ai_crypto_guru
+
+- github.com/relforce/
+
+
 
 
 
@@ -1910,16 +1998,11 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
+#### MORE WORKERS
 
 
 
-
-
-### MORE WORKERS
-
-
-
-### Kei Nakano / smartcoding51
+#### Kei Nakano / smartcoding51
 
 - OneStake Finance, 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -1955,7 +2038,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Matias Diaz / Kei Nakano
+#### Matias Diaz / Kei Nakano
 
 - 2025
 
@@ -1971,7 +2054,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Russell Hieu / Shota Nakamura
+#### Russell Hieu / Shota Nakamura
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -2001,7 +2084,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### James Zook + Shota Nakamura
+#### James Zook + Shota Nakamura
 
 - 2025
 
@@ -2019,7 +2102,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Lucas Wong
+#### Lucas Wong
 
 - 2025
 
@@ -2051,7 +2134,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Jannik Villostas
+#### Jannik Villostas
 
 - 2025
 
@@ -2071,7 +2154,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Janul Azwan
+#### Janul Azwan
 
 - 2025
 
@@ -2091,7 +2174,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Peter Wang
+#### Peter Wang
 
 - 2025
 
@@ -2109,7 +2192,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Chai Somsri 
+#### Chai Somsri 
 
 - 2024, 2025, Credbull
 
@@ -2145,8 +2228,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-### Milan Zubic / Patrick Kishi
+#### Milan Zubic / Patrick Kishi
 
 - 2025
 
@@ -2164,7 +2246,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Unknown ITW 
+#### Unknown ITW 
 
 - 2025
 
@@ -2174,20 +2256,15 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
-
 ---
 
 
 
+## Scott Brown & Co
 
 
 
-
-
-### Scott Brown
+#### Scott Brown
 
 - 2025 (Scott Brown Cluster)
 
@@ -2235,7 +2312,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Artur Dranhoi
+#### Artur Dranhoi
 
 - 2025 (Scott Brown Cluster)
 
@@ -2257,7 +2334,25 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Joel Kursala
+#### Oleksandr Muravskyi (aka Artur Dranhoi)
+
+- 2025 (Scott Brown Cluster)
+
+- oleksandr-muravskyi
+
+- PrinceCharming0115  
+
+- artur.dranhoi@exiod.io
+
+- coolprince0115@gmail.com
+
+- ole.dev300@hotmail.com
+
+- olek.muravskyi@outlook.com
+
+
+
+#### Joel Kursala
 
 - 2025 (Scott Brown Cluster)
 
@@ -2267,7 +2362,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Anderson Lee
+#### Anderson Lee
 
 - 2025 (Scott Brown Cluster)
 
@@ -2297,27 +2392,249 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - 0x541fb82d870D6287A9553920A72EDeB0e9877d57
 
-
-
-### Oleksandr Muravskyi (aka Artur Dranhoi)
-
-- 2025 (Scott Brown Cluster)
-
-- oleksandr-muravskyi
-
-- PrinceCharming0115  
-
-- artur.dranhoi@exiod.io
-
-- coolprince0115@gmail.com
-
-- ole.dev300@hotmail.com
-
-- olek.muravskyi@outlook.com
+- ![](./anderson-lee-1.jpg)
 
 
 
-### Solcrazy910
+#### Andy Cho / Anderson Lee
+
+- eweubr3289
+
+- hashbirdcho
+
+- rango527
+
+- eweubr3289@gmail.com
+
+- https://www.linkedin.com/in/andy-cho-6ba380309/
+
+- https://t.me/hashbirdcho
+
+- https://t.me/rango527
+
+- 0xD85e7eB377635517eBA5310591F68F4771Da9523 - Payroll
+
+- 0x2fa1789b009a05921eb64f10b8f0d30684661d2d - Stolen Funds
+
+- ![](./anderson-lee-andy-cho-1.jpg)
+
+
+
+#### Jack Lin / Andy Cho / Anderson Lee
+
+- Claimed Chinese, Hong Kong
+
+- fullstack412
+
+- jaclindev99
+
+- MEMELOVE112
+
+- jacklin
+
+- github.com/fullstack412 
+
+- x.com/jaclindev99 
+
+- t.me/MEMELOVE112
+
+- jaclindev99@gmail.com
+
+- https://x.com/jaclindev99/status/1930340527645597981
+
+- 0x2175e091176F43eD55313e4Bc31FE4E94051A6fE
+
+- 0x882f637755D7A46289913b834Ab918493ef51Ad4
+
+- 0x369dA59aF648C6C571FCB04b7739CFc7046A58E2
+
+- https://weedoverse.gitbook.io/weedoverse-rolling-paper-v3.0/team
+
+- ![](./anderson-lee-jack-lin-1.jpg)
+
+- ![](./anderson-lee-jack-lin-2.jpg)
+
+
+
+#### Chris Yon
+
+- wdev733
+
+- wdev733@gmail.com
+
+- devstar.sky20@gmail.com
+
+- github.com/cydn95
+
+- 204.44.106[.]96
+
+- t.me/micry 1012606692
+
+- x.com/adchy2000
+
+- t.me/wdev733
+
+- t.me/dss2000
+
+- 0x8260C20b4CE2014d760bE6dE7CDD98c4f12b68F8
+
+- 0x574eC5a661c3eaA610438C4a249BCFC066c4a579
+
+- 0x8f321287817c3ce034b8Ea9711238F3e1A0DbDa3
+
+- 0x1Ca43437430d1845F5Ff43bf73d36568d00740C7
+
+- 0xe3Dc9d9226C4Ce32ca0741e75ab58Bf612D0D9ed
+
+- 0xA6431D80240C3a3FeF54Dd2179b2BDC13fEec467
+
+- https://x.com/browsercookies/status/1933591202550723029
+
+- ![](./wdev733-chris-yon)
+
+- ![](./1933591202550723029-4.png)
+
+- ![](./wdev733-cydn95.jpg)
+
+
+
+#### Steven Jung 
+
+- Claimed Hong Kong
+
+- Has First Century Bank + Community Federal Savings Bank
+
+- webelf101
+
+- stevenjung
+
+- steven.jung86000
+
+- github.com/webelf101 
+
+- t.me/stevenjung
+
+- steven.jung86000@gmail.com
+
+- +1 845 809 1168
+
+- 0x6513cb2f5E59c768a28958FBBDa6e06B9B29B8Eb
+
+- 0x770819c83FE074e51c2c7030dc6fcCFFc8943699
+
+- ![](./steven-jung-1.jpg)
+
+- ![](./steven-jung-2.jpg)
+
+- ![](./steven-jung-3.jpg)
+
+
+
+#### Jack Lu
+
+- Claimed Hong Kong
+
+- Has Bank of America + Community Federal Savings Bank
+
+- wdev733
+
+- jack.lu955
+
+- johnston.john542789
+
+- smartonefire88888
+
+- devstar.sky20
+
+- github.com/wdev733
+
+- jack.lu955@gmail.com
+
+- johnston.john542789@gmail.com
+
+- smartonefire88888@outlook.com
+
+- wdev733@gmail.com
+
+- devstar.sky20@gmail.com 
+
+- ![](./wdev733-jack-lu-1.jpg)
+
+- ![](./wdev733-jack-lu-2.jpg)
+
+
+
+#### James Lee 
+
+- Claimed Hong Kong
+
+- Has Citibank
+
+- jamie088
+
+- brchwork
+
+- jameslee
+
+- https://github.com/jamie088 
+
+- brchwork@gmail.com
+
+- t.me/jamie088
+
+- 0x8F5eBDdcf2bae86D3A4E3C4De427E705d2eBF432
+
+- 0x642F68586E0DeBe358B0C65feF81B1A9498d6477
+
+- ![](./wdev733-cydn95.jpg)
+
+
+
+#### Nathan Cao / James Lee
+
+- Claimed Singapore
+
+- rango527
+
+- ncao9127
+
+- github.com/rango527
+
+- github.com/ncao9127 
+
+- +65 9073 3165
+
+- https://rango527.github.io/
+
+- https://weedoverse.gitbook.io/weedoverse-rolling-paper-v3.0/team
+
+- ![](./nathan-cao-james-lee-1.jpg)
+
+- ![](./nathan-cao-james-lee-2.jpg)
+
+
+
+#### William Chang 
+
+- Claimed Hong Kong
+
+- https://github.com/wc117 
+
+- williamchang89117@gmail.com
+
+- t.me/wc117
+
+- https://pythonweekly.substack.com/p/python-weekly-12
+
+- 0x5fE70D0C41a204839c88503261bbFBd59F72a2E3
+
+- ![](./william-chang-1.jpg)
+
+- ![](./william-chang-2.jpg)
+
+
+
+#### Solcrazy910
 
 - 2025 - LND Hack
 
@@ -2427,19 +2744,13 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
 ---
 
 
 
 
 
-
-
-
-### Hiroto Iwaki / Taku Yamamoto / Iwaki Hiroto
+#### Hiroto Iwaki / Taku Yamamoto / Iwaki Hiroto
 
 - mymiracle0118
 
@@ -2465,7 +2776,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Motoki Masuo
+#### Motoki Masuo
 
 - aka Hiroto Iwaki
 
@@ -2481,19 +2792,13 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
 ---
 
 
 
 
 
-
-
-
-### Andy Hoog
+#### Andy Hoog
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -2519,7 +2824,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Bram Chan / Bram Chen
+#### Bram Chan / Bram Chen
 
 - Q12024, Plethori, AXA, Cook, OZR, Zuniswap, Chain Guardians, Alvara Protocol,
 
@@ -2545,7 +2850,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Eric Low
+#### Eric Low
 
 - Q12024
 
@@ -2561,7 +2866,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Gabriel Yiu
+#### Gabriel Yiu
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -2575,7 +2880,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Jack Li
+#### Jack Li
 
 - jackli16
 
@@ -2589,7 +2894,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Jordan Lopez
+#### Jordan Lopez
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -2605,7 +2910,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Mike Willie Lee
+#### Mike Willie Lee
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -2621,7 +2926,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Peter Xiao
+#### Peter Xiao
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -2635,7 +2940,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Wubone
+#### Wubone
 
 - 2024, [Zach's List](https://x.com/zachxbt/status/1824047425822310580)
 
@@ -2645,33 +2950,27 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Monkey
+#### Monkey
 
 - 0x57b9f721411fabe61ac61cca8eaf926a726a70cc
 
 
 
-### Jing Zhao
+#### Jing Zhao
 
 - 0xCf6E6021B8e519c0695CEa6B3541556dc798f0DC
 
-
-
-## devmad119
+### devmad119
 
 - 0x93d5785d759563b5b8eb98eaff9196dddf7179f3
 
 - 0xd93587B0fcAb0D9324cCF378d44cb985a96b5B36
 
-## sujitb2114
+### sujitb2114
 
 - 0x6c88dd91de053fca915baece6868f6c32d20adea
 
-
-
-
-
-## Ikeda Okura (Shiba Inu)
+### Ikeda Okura (Shiba Inu)
 
 - ikeda.okura@gmail.com
 
@@ -2697,10 +2996,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - 0xeabeb8D76E27248eC35333bAdaad9219D8f57973
 
-
-
-
-## Victor Lee
+### Victor Lee
 
 - 2024
 
@@ -2710,11 +3006,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - 0x50d6b6cf0066a0d3ebf321493da2e77cc40ddd8c
 
-
-
-
-
-## Santokh Veenasenan
+### Santokh Veenasenan
 
 - 2022
 
@@ -2730,11 +3022,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - 0x17087F92D16049E9097413B4964663B754C1E43d
 
-
-
-
-
-## Nicolas Chi
+### Nicolas Chi
 
 - 2024
 
@@ -2746,11 +3034,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - 0xCC8020bed135ba9eCf9312Ea0c36234A0BcEC05F
 
-
-
-
-
-## Alex Hong
+### Alex Hong
 
 - 2022
 
@@ -2780,85 +3064,109 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-### SHEZMU
+#### SHEZMU
 
 - 0x601936c35fb4c6d8b472de6764c9f09ebf17711c Shezmu Safe
+    
     - 0x50cBF451A8AC7A570d239dBdA9f7547E29FF4bD8 Signer
+    
     - 0x710C3bCe25B5818C135bd053c62e1d6CBB5A365c Signer
+    
     - 0xDa3311F7dD2e6c5fC149C42e7c0741eACf63Ab32 Signer
 
 - 0x5d0c3f3428ce9a45167dd6ad66e80551e0ba85b8 Shezmu Safe
+    
     - 0x941a54EC7F0b36cd3A47af603610340C1940AE22 Signer
+    
     - 0x7daE6e6DdaD86D0a03d92f3EcB0A166820BA54BA Signer
+    
     - 0x538576113eF66DB1Fc0889c96622f31Cc105F650 Signer
+    
     - 0xBea82f2Db748904510E55B26783f9c8B29aF28A4 Signer
 
 - 0x6c7137b2af2515e57677267062bd53c12c15a410 Shezmu Safe
+    
     - 0x454cD1e89df17cDB61D868C6D3dBC02bC2c38a17 Signer
 
 - 0x847a992c0317c6a69b3dbaca494c6ec5a0842317 Shezmu Safe
+    
     - 0x9e66CC61d79bAb676C761024850De05a397Fc69e Signer
+    
     - 0xCdFe7F0C70A59FC3c67500b16E8E6b4c2a6A6dE3 Signer
+    
     - 0xC026609D721C65CDd4EB10F93518f738F52d9e16 Signer + DPRK ITW
 
 - 0x601936c35fb4c6d8b472de6764c9f09ebf17711c - Company Paying Payroll
+
 - 0x68d283c978f08544ce9fa9e563186945663de7b1 - Company Paying Payroll
+
 - 0x5d0c3f3428ce9a45167dd6ad66e80551e0ba85b8 - Company Paying Payroll
+
 - 0x6c7137b2af2515e57677267062bd53c12c15a410 - Company Paying Payroll
 
 - 0x6138a5055759c29b249ea1189a4dd68a1eeb8705 - Unknown ITW
+    
     - 2024-05-16 $636
 
 - 0x69dcc326d21dce8344a3191c99f2ca8faa9b9e6e - Unknown ITW 1
+    
     - 2023-06-09 $2,186
+    
     - 2023-08-16 $4,331
 
 - 0x3ec401b47bd10341c24ca971b28d8b3f2ea77d37 - Unknown ITW 2
+    
     - 2023-06-09 $2,518
+    
     - 2023-08-17 $2,499
 
 - 0x92a2139599b48ffe29ceae12ccf4e988fa458105 - Unknown ITW 3
+    
     - 2023-06-09 $2,018
+    
     - 2023-10-18 $3,999
 
 - 0xae36f8d197d2dec2612f1e55b0b959833fcf81d2 - Unknown ITW 4
+    
     - 2023-06-09 $2,774
+    
     - 2023-09-07 $5,498
 
 
 
-
-
-### Peculiar Joseph
+#### Peculiar Joseph
 
 - Joseph D Alchemist
+
 - josephpeculiar
+
 - bizmindx
+
 - josephpeculiar.com
+
 - bizmindx@gmail.com
+
 - github.com/bizmindx
 
 
 
-
-
-### Sam Ayorinde
+#### Sam Ayorinde
 
 - TheBlockOfChain
+
 - ayorindesam2
+
 - Sam-Devs
+
 - _SamAyorinde
+
 - ayorindesam2@gmail.com
+
 - linkedin.com/in/sam-ayorinde-3b1b9a151/
+
 - github.com/Sam-Devs • [Archive](https://web.archive.org/web/20250406052701/https://github.com/bizmindx)
+
 - x.com/_SamAyorinde
-
-
-
-
-
-
 
 
 
@@ -2866,14 +3174,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
-# Munchables
-
-
-
-### References
+## Munchables
 
 - https://x.com/zachxbt/status/1772843238539325947
 
@@ -2893,7 +3194,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Nelson Murua / Alberto Mira / Jackson Bill
+#### Nelson Murua / Alberto Mira / Jackson Bill
 
 - Munchables (2024)
 
@@ -2933,7 +3234,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Kaiming Hong / Warren Sinclair
+#### Kaiming Hong / Warren Sinclair
 
 - devkitty803
 
@@ -2945,7 +3246,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Paul Martin / Werewolves0493
+#### Paul Martin / Werewolves0493
 
 - Munchables (2024)
 
@@ -2963,7 +3264,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Paul Song / grudev325
+#### Paul Song / grudev325
 
 - Pixelcraft (2022), Munchables (2024)
 
@@ -2985,7 +3286,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Paul Martin / cryptopunk / gru1125
+#### Paul Martin / cryptopunk / gru1125
 
 - Pixelcraft (2022)
 
@@ -3027,8 +3328,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-### Pete Yama / cryptopunk
+#### Pete Yama / cryptopunk
 
 - Pixelcraft (2022), Munchables (2024)
 
@@ -3046,7 +3346,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Pete Yama / Abracadabra + Bill Tovitt
+#### Pete Yama / Abracadabra + Bill Tovitt
 
 - 2024
 
@@ -3070,22 +3370,15 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
-
 ---
 
 
 
+## Face Pix
 
 
 
-# Face Pix
-
-
-
-### 139.5.157.128 and 212.91.193.27
+#### 139.5.157.128 and 212.91.193.27
 
 - https://x.com/Narcass3/status/1916191078631289200
 
@@ -3093,7 +3386,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### AI Face
+#### AI Face
 
 - https://x.com/kannthu1/status/1886835017818755170
 
@@ -3101,7 +3394,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### James McClung
+#### James McClung
 
 - https://x.com/browsercookies/status/1913298431738888490
 
@@ -3109,7 +3402,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Jason Rostro
+#### Jason Rostro
 
 - https://x.com/browsercookies/status/1913265469529985167
 
@@ -3117,7 +3410,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Benjamin and a Patrick / Michael Brown
+#### Benjamin and a Patrick / Michael Brown
 
 - Successfully hired at AI orgs that wont return my calls. Staffing agent facilitated in West Palm Beach FL
 
@@ -3129,7 +3422,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Bryan Edward Irving / Steven Scott Jr
+#### Bryan Edward Irving / Steven Scott Jr
 
 - ![](./1918045802389504304-1.png)
 
@@ -3139,7 +3432,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Daniel Everest
+#### Daniel Everest
 
 - https://x.com/browsercookies/status/1913269771560489367
 
@@ -3149,7 +3442,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### David Ye / David Rose
+#### David Ye / David Rose
 
 - He uses a US facilitator in Minnesota to host his laptops. He uses the identity of a college grad in Texas who also stands-in to complete identity checks on his behalf for money.
 
@@ -3163,7 +3456,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Eugene Palla
+#### Eugene Palla
 
 - exppal
 
@@ -3177,7 +3470,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Faraz Q
+#### Faraz Q
 
 - https://x.com/browsercookies/status/1913265115954319641
 
@@ -3185,7 +3478,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Harry Pham
+#### Harry Pham
 
 - https://x.com/browsercookies/status/1913291378467258456
 
@@ -3193,7 +3486,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Hiroki Hara
+#### Hiroki Hara
 
 - https://x.com/eastside_nci/status/1913309781952971187
 
@@ -3201,7 +3494,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Jacob Haigis
+#### Jacob Haigis
 
 - jacob008015
 
@@ -3211,7 +3504,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Katashi Fujino / Ronnie Karl / Joshua Fuso
+#### Katashi Fujino / Ronnie Karl / Joshua Fuso
 
 - toptalented529
 
@@ -3227,7 +3520,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Kevin Chang
+#### Kevin Chang
 
 - kchang.prof@gmail.com
 
@@ -3241,7 +3534,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Logan Collins
+#### Logan Collins
 
 - https://x.com/browsercookies/status/1913268057084170382
 
@@ -3249,7 +3542,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Lucas Lee
+#### Lucas Lee
 
 - interviewing at a biomed tech place. Pretty sure this dude was a defense org too.
 
@@ -3259,7 +3552,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Luis Pena
+#### Luis Pena
 
 - https://x.com/browsercookies/status/1913269065940189556
 
@@ -3267,7 +3560,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Marko Nicovic / Hua Min Fe / Tom Callaghan
+#### Marko Nicovic / Hua Min Fe / Tom Callaghan
 
 - https://x.com/Narcass3/status/1913292910805516457
 
@@ -3275,7 +3568,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Ondriah Young
+#### Ondriah Young
 
 - x.com/browsercookies/status/1913267316378550519
 
@@ -3283,7 +3576,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Rami
+#### Rami
 
 - https://x.com/heihei5711/status/1913297923468574948
 
@@ -3295,7 +3588,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Ryan Hammonds / Ryan Stringfellow
+#### Ryan Hammonds / Ryan Stringfellow
 
 - http://x.com/browsercookies/status/1913302277689057346
 
@@ -3305,7 +3598,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Ryan Sims / Paul Jones / Joseph Jones
+#### Ryan Sims / Paul Jones / Joseph Jones
 
 - Despite Ryan Sims "living in Wyoming" try getting him to agree to meet in person in Sheridan! Note the age of his LinkedIn profile is only 3 months old. Walmart is a fav (fake) historical job for DPRK. Singapore U is also a fav school to add.
 
@@ -3319,7 +3612,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Thomas Peters / Bryce Hodges
+#### Thomas Peters / Bryce Hodges
 
 - https://x.com/browsercookies/status/1913269301244793211
 
@@ -3329,7 +3622,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Eugene Tan
+#### Eugene Tan
 
 - TalentKingPython
 
@@ -3347,7 +3640,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### William Loy
+#### William Loy
 
 - Jiro Yamamoto
 
@@ -3373,7 +3666,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Lovely Developer
+#### Lovely Developer
 
 - Josue Valdivia
 
@@ -3391,7 +3684,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Aldino Saputra
+#### Aldino Saputra
 
 - Jakarta, Indonesia 
 
@@ -3421,7 +3714,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Eric Dickerson
+#### Eric Dickerson
 
 - Kartos102
 
@@ -3435,7 +3728,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Simon
+#### Simon
 
 - akira0502
 
@@ -3447,7 +3740,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Joseph Anderson
+#### Joseph Anderson
 
 - devlancer412
 
@@ -3461,7 +3754,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Kell Daniel
+#### Kell Daniel
 
 - x.com/CryptoFist
 
@@ -3477,7 +3770,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Hunter Bost
+#### Hunter Bost
 
 - North Carolina
 
@@ -3487,7 +3780,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Minato Tanaka
+#### Minato Tanaka
 
 - t.me/cdevm
 
@@ -3499,7 +3792,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### BlueSoft
+#### BlueSoft
 
 - t.me/bluesoft2100
 
@@ -3511,7 +3804,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Dennis DelRosario
+#### Dennis DelRosario
 
 - github.com/phoenixdevguru
 
@@ -3525,7 +3818,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Hayato Suzuki
+#### Hayato Suzuki
 
 - t.me/WebTalent0123 (ID: 5131829846)
 
@@ -3539,7 +3832,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### topcodebeast
+#### topcodebeast
 
 - github.com/topcodebeast • [Archive](https://web.archive.org/web/20250722051253/https://github.com/TopCodeBeast)
 
@@ -3563,7 +3856,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### TechWizAI
+#### TechWizAI
 
 - github.com/TopETH
 
@@ -3577,7 +3870,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Phillip Masaki
+#### Phillip Masaki
 
 - github.com/bio1oo1
 
@@ -3589,7 +3882,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Thomas Lin
+#### Thomas Lin
 
 - github.com/lin-crypto
 
@@ -3603,7 +3896,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Kopp Anatoli
+#### Kopp Anatoli
 
 - x.com/KoppAnatoli
 
@@ -3619,7 +3912,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Denis Rudink
+#### Denis Rudink
 
 - mykola1027
 
@@ -3637,7 +3930,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Louise Egan
+#### Louise Egan
 
 - x.com/PinnacleFTSO
 
@@ -3653,7 +3946,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Lover Man
+#### Lover Man
 
 - github.com/itloverman (404)
 
@@ -3665,7 +3958,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Ninja
+#### Ninja
 
 - t.me/leonk0804
 
@@ -3675,7 +3968,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### 2401
+#### 2401
 
 - github.com/aimachieve
 
@@ -3687,23 +3980,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Chris Yon / Jack Lu / wdev733
-
-- t.me/wdev733
-
-- x.com/adchy2000
-
-- t.me/dss2000
-
-- wdev733@gmail.com
-
-- https://x.com/browsercookies/status/1933591202550723029
-
-- ![](./1933591202550723029-4.png)
-
-
-
-### MISC
+#### MISC
 
 - snowjaguar625
 
@@ -3719,7 +3996,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Ares
+#### Ares
 
 - github.com/elitegooddev • [Archive](https://web.archive.org/web/20250827062106/https://github.com/EliteGoodDev?tab=following)
 
@@ -3733,7 +4010,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### SolDev
+#### SolDev
 
 - github.com/evgpan
 
@@ -3743,7 +4020,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Grin
+#### Grin
 
 - github.com/Grin0502 • [Archive](https://web.archive.org/web/20250626063659/https://github.com/Grin0502)
 
@@ -3757,7 +4034,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### BrySky
+#### BrySky
 
 - github.com/develrocket
 
@@ -3771,7 +4048,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Haruto Miura
+#### Haruto Miura
 
 - linked to TopDev707
 
@@ -3797,7 +4074,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Jin Bang, Primoz Bernard
+#### Jin Bang, Primoz Bernard
 
 - x.com/j7771122
 
@@ -3827,7 +4104,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Xun Lee
+#### Xun Lee
 
 - https://x.com/browsercookies/status/1934302099258716572
 
@@ -3835,7 +4112,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### Vladivostok University
+#### Vladivostok University
 
 - https://x.com/browsercookies/status/1934313254383427772
 
@@ -3853,12 +4130,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
-
 ---
-
 
 
 
@@ -3868,52 +4140,95 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - 1:25-cv-01769
 
-### Addresses in the Forfeiture Action
+
+
+#### Addresses in the Forfeiture Action
 
 - 0x21a2cf2b1e84d9e9a38389f797f6087d94ed3d86 - Seized Jun 08 2022 (22-sz-13) halfmooneye.eth  
-- 0xa184f953376a3c76a72a37849591ac6d8e148083 - Seized Jun 08 2022 (22-sz-13)  
-- 0xf7bc1f442d436afe5754b565bff030c281c9aa90 - Seized Jun 08 2022 (22-sz-13) vhurryharry.eth  
-- 0x7492fbbb52e58a0c3e1315f9b77a6b24e6414835 - Seized Jun 08 2022 (22-sz-13)  
-- 0x44a9dac239201def01b55dc8122ce1dc8bd55c72 - Seized Jun 08 2022 (22-sz-13) injoker.eth  
-- 0x864c8ef839dd3859820bc6bce450aee43f938178 - Seized Jun 08 2022 (22-sz-13)  
-- 0xf17cd87f477ace0bbb6fe452bb50619c42ab4d97 - Seized Jun 08 2022 (22-sz-13) arthlino  
-- 0x3709d736f2615ae8e2f429e63aa3e1494b353d94 - Seized Jun 08 2022 (22-sz-13) animealine  
-- 0xa7d2cf62487aa87ddba211d1e8dc7259be2a9a70 - Seized Mar 28 2022 (22-sz-6)  
-- 0x95d179fb2f017faadd0013f730d949ac0ac739b6 - Seized Mar 28 2022 (22-sz-6)  
-- 0xfce7c3c7717f93389577972485142e928f231dad - Seized Mar 28 2022 (22-sz-6) 
-- 0xf3F2e9391b440526D538E904C0252421eeB4B61C - Seized Mar 28 2022 (22-sz-6) 0xninjadev.eth   
-- 0x7066d17c140a64e770c7286def08c611a9cc78d4 - Seized Mar 28 2022 (22-sz-6)  
-- 0x50e7f5d0f2ba91e002c7094d844d3a8ff187e204 - Seized Mar 28 2022 (22-sz-6) elonamusk  
-- 0x3269c4c05356e511bc447da5c722e63f682243c9 - Seized Mar 28 2022 (22-sz-6) sl4rk.eth  
-- 0x53c64ec686f8235954d1df08cd975c337a8f24b2 - Seized Mar 28 2022 (22-sz-6)  
-- 0xfe035df35c6fe5578ede6267883638db7634de82 - Seized Mar 28 2022 (22-sz-6) zdao1.eth  
-- 0x67624c4c72b8989143510f9ac09a58007bf79676 - Seized Mar 28 2022 (22-sz-6)  
-- 0xdd344126c52478e8e1e7aad583e2332567afd730 - Seized Mar 28 2022 (22-sz-6)  
-- 0x6c90b98b8c5c41d615300b9ed774f85b29078ca2 - Seized Mar 28 2022 (22-sz-6) ifeel.eth, Kuma Inu Airdrop Receiver 
-- 0xa6ee3542b6ab3115be7e6445268161e0293ed7cf - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
-- 0xb6bb7be73d453ed6d1141a08e444dac1356f0766 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
-- 0xb41d7de2af854c17965c277feb5b55ecc596ccd8 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
-- 0x0a9afe0b6e04fd212ad7547e9798e0a7ca2ee370 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver   
-- 0x1690c80f392a8ba83e2f755b1e53dd4503738698 - Seized Mar 28 2022 (22-sz-6) dontsmile.eth, Kuma Inu Airdrop Receiver   
-- 0x5a297599c4bd1c3ef00b277f8a7369cb5b9bd157 - Seized Mar 28 2022 (22-sz-6) Kuma, Bone
-- 0x6a643519520b875bd9ce7e882c218a6e38d8dc41 - Seized Mar 28 2022 (22-sz-6) 0xJun, jun.eth  
-- 0x294662cca316061a5942c7be3191b96318606781 - Seized Mar 28 2022 (22-sz-6)  
-- 0xd4004f07d7b746103f2d9b4e5b5a540864526bec - Seized Mar 28 2022 (22-sz-6) 0xcno.eth, Kuma Inu Airdrop Receiver 
-- 0xa09a934BA4440CFCbD0C2937a263351926919565 - Seized Mar 28 2022 (22-sz-6) 
-- bc1qrzxvnl8lr4te4hgmz2e0nn97ypq2nyvvev2ges - Seized Mar 28 2022 (22-sz-6) 
-- LKm8pewKd68MN9Rk6mAeNqSNFovvsLtCz8 - Seized Mar 28 2022 (22-sz-6) 
-- 0x81c4d8816b29147c542dDE87485608204690Acf2 - Frozen Tether Aug 30 2022 (22-sz-19) 
-- 0x815F335f976301f496167bfeF237f0622F92ac38 - Frozen Tether Aug 30 2022 Seized (22-sz-19) 
-- 0x511b9ed0b7ef9dfad519f398fdfbdf6af8356780 - Lu Huaying (OTC 1) 
-- 0x2ad9790b5116ce19b9cc59C7982A64dF0FeA84bc - OTC 2  
-- 0x4F47Bc496083C727c5fbe3CE9CDf2B0f6496270c - Hyon Sop Sim, Frozen Tether Mar 6 2023  
-- 0xb389b4b4a8a6e267ca0712321cdca5c856ef8a72 - Hyon Sop Sim, Frozen Tether Mar 6 2023 
-- 0x5707aa6944e357cea1a25ff991fb3a2e60268ab5 - Hyon Sop Sim, Frozen Tether Mar 6 2023 
-- 0x15824de78A61a8B493CCd8A48e58463536B17028 - Frozen Tether Mar 31 2023, Consolidation  
-- 0x6E2F0deAB1C358547b353342524489e32640D530 - Frozen Tether Mar 31 2023, Consolidation  
-- 0x3E24F610639e105173003EF1c47dC4DbAa33f8D7 - Frozen Tether Mar 31 2023, Consolidation  
-- 0x1c097e02bCd6cD69946663ace4bc0B115e256bAc - Frozen Tether Mar 31 2023, Consolidation  
 
+- 0xa184f953376a3c76a72a37849591ac6d8e148083 - Seized Jun 08 2022 (22-sz-13)  
+
+- 0xf7bc1f442d436afe5754b565bff030c281c9aa90 - Seized Jun 08 2022 (22-sz-13) vhurryharry.eth  
+
+- 0x7492fbbb52e58a0c3e1315f9b77a6b24e6414835 - Seized Jun 08 2022 (22-sz-13)  
+
+- 0x44a9dac239201def01b55dc8122ce1dc8bd55c72 - Seized Jun 08 2022 (22-sz-13) injoker.eth  
+
+- 0x864c8ef839dd3859820bc6bce450aee43f938178 - Seized Jun 08 2022 (22-sz-13)  
+
+- 0xf17cd87f477ace0bbb6fe452bb50619c42ab4d97 - Seized Jun 08 2022 (22-sz-13) arthlino  
+
+- 0x3709d736f2615ae8e2f429e63aa3e1494b353d94 - Seized Jun 08 2022 (22-sz-13) animealine  
+
+- 0xa7d2cf62487aa87ddba211d1e8dc7259be2a9a70 - Seized Mar 28 2022 (22-sz-6)  
+
+- 0x95d179fb2f017faadd0013f730d949ac0ac739b6 - Seized Mar 28 2022 (22-sz-6)  
+
+- 0xfce7c3c7717f93389577972485142e928f231dad - Seized Mar 28 2022 (22-sz-6) 
+
+- 0xf3F2e9391b440526D538E904C0252421eeB4B61C - Seized Mar 28 2022 (22-sz-6) 0xninjadev.eth   
+
+- 0x7066d17c140a64e770c7286def08c611a9cc78d4 - Seized Mar 28 2022 (22-sz-6)  
+
+- 0x50e7f5d0f2ba91e002c7094d844d3a8ff187e204 - Seized Mar 28 2022 (22-sz-6) elonamusk  
+
+- 0x3269c4c05356e511bc447da5c722e63f682243c9 - Seized Mar 28 2022 (22-sz-6) sl4rk.eth  
+
+- 0x53c64ec686f8235954d1df08cd975c337a8f24b2 - Seized Mar 28 2022 (22-sz-6)  
+
+- 0xfe035df35c6fe5578ede6267883638db7634de82 - Seized Mar 28 2022 (22-sz-6) zdao1.eth  
+
+- 0x67624c4c72b8989143510f9ac09a58007bf79676 - Seized Mar 28 2022 (22-sz-6)  
+
+- 0xdd344126c52478e8e1e7aad583e2332567afd730 - Seized Mar 28 2022 (22-sz-6)  
+
+- 0x6c90b98b8c5c41d615300b9ed774f85b29078ca2 - Seized Mar 28 2022 (22-sz-6) ifeel.eth, Kuma Inu Airdrop Receiver 
+
+- 0xa6ee3542b6ab3115be7e6445268161e0293ed7cf - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+
+- 0xb6bb7be73d453ed6d1141a08e444dac1356f0766 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver 
+
+- 0xb41d7de2af854c17965c277feb5b55ecc596ccd8 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver, Sends to Gate 0x90ba7da18600639e5ef6ac9679eb824bb2f73782
+
+- 0x0a9afe0b6e04fd212ad7547e9798e0a7ca2ee370 - Seized Mar 28 2022 (22-sz-6) Kuma Inu Airdrop Receiver   
+
+- 0x1690c80f392a8ba83e2f755b1e53dd4503738698 - Seized Mar 28 2022 (22-sz-6) dontsmile.eth, Kuma Inu Airdrop Receiver   
+
+- 0x5a297599c4bd1c3ef00b277f8a7369cb5b9bd157 - Seized Mar 28 2022 (22-sz-6) Kuma, Bone
+
+- 0x6a643519520b875bd9ce7e882c218a6e38d8dc41 - Seized Mar 28 2022 (22-sz-6) 0xJun, jun.eth  
+
+- 0x294662cca316061a5942c7be3191b96318606781 - Seized Mar 28 2022 (22-sz-6)  
+
+- 0xd4004f07d7b746103f2d9b4e5b5a540864526bec - Seized Mar 28 2022 (22-sz-6) 0xcno.eth, Kuma Inu Airdrop Receiver 
+
+- 0xa09a934BA4440CFCbD0C2937a263351926919565 - Seized Mar 28 2022 (22-sz-6) 
+
+- bc1qrzxvnl8lr4te4hgmz2e0nn97ypq2nyvvev2ges - Seized Mar 28 2022 (22-sz-6) 
+
+- LKm8pewKd68MN9Rk6mAeNqSNFovvsLtCz8 - Seized Mar 28 2022 (22-sz-6) 
+
+- 0x81c4d8816b29147c542dDE87485608204690Acf2 - Frozen Tether Aug 30 2022 (22-sz-19) 
+
+- 0x815F335f976301f496167bfeF237f0622F92ac38 - Frozen Tether Aug 30 2022 Seized (22-sz-19) 
+
+- 0x511b9ed0b7ef9dfad519f398fdfbdf6af8356780 - Lu Huaying (OTC 1) 
+
+- 0x2ad9790b5116ce19b9cc59C7982A64dF0FeA84bc - OTC 2  
+
+- 0x4F47Bc496083C727c5fbe3CE9CDf2B0f6496270c - Hyon Sop Sim, Frozen Tether Mar 6 2023  
+
+- 0xb389b4b4a8a6e267ca0712321cdca5c856ef8a72 - Hyon Sop Sim, Frozen Tether Mar 6 2023 
+
+- 0x5707aa6944e357cea1a25ff991fb3a2e60268ab5 - Hyon Sop Sim, Frozen Tether Mar 6 2023 
+
+- 0x15824de78A61a8B493CCd8A48e58463536B17028 - Frozen Tether Mar 31 2023, Consolidation  
+
+- 0x6E2F0deAB1C358547b353342524489e32640D530 - Frozen Tether Mar 31 2023, Consolidation  
+
+- 0x3E24F610639e105173003EF1c47dC4DbAa33f8D7 - Frozen Tether Mar 31 2023, Consolidation  
+
+- 0x1c097e02bCd6cD69946663ace4bc0B115e256bAc - Frozen Tether Mar 31 2023, Consolidation  
 
 ## Additional Information / Research
 
@@ -3934,7 +4249,6 @@ https://x.com/lilbagscientist/status/1980294857022394400
 - 0x5c27906e98240ca6134a292b18dd58f849192175 - Shibarium Payroll Receiver "Henry"
 
 - 0x07f4098636270e197533987c4c283f5fec1c559e - MEXC of Shibarium Payroll Receiver "Henry", Also receives from [Blockbusters](../hacks-and-thefts/blockbusters.md) Hacker
-
 
 - See also [../hacks-and-thefts/dp-it-dust-collector-ae69.md]
 
@@ -3960,15 +4274,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
-
-
 ---
-
-
-
 
 
 
@@ -3976,7 +4282,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### February 2024
+#### February 2024
 
 - Kevin Li / kevin.solution41@gmail.com
 
@@ -4000,7 +4306,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-### May 2025
+#### May 2025
 
 - https://x.com/nknewsorg/status/1926880938069213298
 
@@ -4014,13 +4320,7 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
 ---
-
-
-
 
 
 
@@ -4028,19 +4328,29 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - https://chollima-group.io/posts/tracking-a-north-korean-it-worker-cell/
 
+
+
 #### Jenson Collins
 
 - github.com/JCollinsX
+
+
 
 #### Kazune Takeda
 
 - github.com/mtfuji25
 
+
+
 #### Kei Nakano
+
+
 
 #### Jason Kwon
 
 - 0xm00neth@gmail.com
+
+
 
 #### Joshua Charles Palmer
 
@@ -4050,17 +4360,23 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - smart.solidity@gmail.com
 
+
+
 #### John Michael Millen
 
 - johnmichael0325@outlook.com
 
 - JohnMichaelMillen0325@outlook.com
 
+
+
 #### Naoki Murano
 
 - github.com/supermutexc
 
 - naokimurano@outlook.com
+
+
 
 #### Seo Sigoto
 
@@ -4070,9 +4386,13 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - seo.sigoto@gmail.com
 
+
+
 #### Seo Kiwon
 
 - sunshineseo0614@gmail.com
+
+
 
 #### Steven Chen
 
@@ -4080,11 +4400,15 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - stevechendragon@outlook.com
 
+
+
 #### Ivan Dimov
 
 - ivan.dimov.work@gmail.com
 
 - ivandimov921016@outlook.com
+
+
 
 #### Yamamoto Zirou
 
@@ -4094,7 +4418,11 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 - blockchaindeveloper777@gmail.com
 
+
+
 #### Lucas Steve Moore
+
+
 
 #### Misc
 
@@ -4178,10 +4506,9 @@ https://x.com/lilbagscientist/status/1980294857022394400
 
 
 
-
-
-
 ---
+
+
 
 # August 27 2025 Sanctions
 
@@ -4197,74 +4524,116 @@ Andreyev is being designated pursuant to Executive Order (E.O.) 13687 for having
 
 OFAC is designating Kim Ung Sun pursuant to E.O. 13687 for having acted or purporting to act for or on behalf of, directly or indirectly, the Government of North Korea.
 
-
 ## 1HmqvgSXUVES1jn4TQPzk9dxo1NE8wim2T                - Vitaliy Sergeyevich Andreyev's HTX Deposit Address
-
 
 14WvJZtmWfqdKQMxkfmEzk5rQBESvg63qR                 - 1 Hop from Vitaliy - $30k - Dec 2024
 
 - 5AvpMGYy2WxCMoaswmLfFdKPSMDxwZomPVDAdzE3A6vE       - Mario Suparat / Chris Jin / devbamboo15
-- DybGDChJMvX9Jnza4XTQVDyUGZ6jYrRg9Q3CdLiEJeh2       - Keisuke Wantanabe / kAsky53
-- 0xb402b45dde5e15ce93809404c104c2fc4918c88c         - Actually Jenson Collins
-- 0xb1aa3027d1cbf578009bb3c09c84481b76ad43f1         - Maybe Jenson Collins, Payroll Receiver from Flokitars
-- 0x1d4625a2ed54ccbd1fd4792de3b308232f1ae2d5         - Payroll Receiver from Coinbase
-- 0x652bbddfecf23deefa7995804d5b7ac53fde97ab         - Payroll Receiver from Coinbase
-- - 0xd1d3228f9f03d4b41f1deff2614ffbe3cbc25cee       - Consolidaton
-- - bc1q908zke3nzgqtkq46ahx64u3kz9a6qnrrhljmkw       - Consolidaton
-- - bc1q7k57nq2f6hak7ptn35qjw8xathtp7d59fk6znn       - Consolidaton
-- - 1NWdsCiMhTmykoQyBHKn6T1d6qpwe9xCRa               - Consolidaton
 
+- DybGDChJMvX9Jnza4XTQVDyUGZ6jYrRg9Q3CdLiEJeh2       - Keisuke Wantanabe / kAsky53
+
+- 0xb402b45dde5e15ce93809404c104c2fc4918c88c         - Actually Jenson Collins
+
+- 0xb1aa3027d1cbf578009bb3c09c84481b76ad43f1         - Maybe Jenson Collins, Payroll Receiver from Flokitars
+
+- 0x1d4625a2ed54ccbd1fd4792de3b308232f1ae2d5         - Payroll Receiver from Coinbase
+
+- 0x652bbddfecf23deefa7995804d5b7ac53fde97ab         - Payroll Receiver from Coinbase
+
+- - 0xd1d3228f9f03d4b41f1deff2614ffbe3cbc25cee       - Consolidaton
+
+- - bc1q908zke3nzgqtkq46ahx64u3kz9a6qnrrhljmkw       - Consolidaton
+
+- - bc1q7k57nq2f6hak7ptn35qjw8xathtp7d59fk6znn       - Consolidaton
+
+- - 1NWdsCiMhTmykoQyBHKn6T1d6qpwe9xCRa               - Consolidaton
 
 bc1qz4lmd7hnnz3ccpf5pj6vq6vhe680fgn2xgt06t         - 1 Hop from Vitaliy - $205k - Dec 2024 + May 2025 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
 
 - 0x961194d781623ebf5ce43087d85d2731cf1e7d1c         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
-- 0x9d66bea448eed9bdbb5f1acf032767b11fc78dcf         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
-- bc1q7wfc740n80u66wckezme954g5z9x97day2ph98         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
-- 0x64d668978ddd6145d4f192eefb03691b75f65096         - 0xl2 / Leon Lowden / Leon Lin / leonxdev1
-- 1AAitGq8Qi6sC7Uo5dxgTK1gvtJnA9cv3w                 - 0xl2 / Leon Lowden / Leon Lin / leonxdev1
-- - 13DjGT8rQqfSrTQ9u8T7LXHFQEoiFxEewh               - Consolidaton
-- - 17NtMaXTaN8JV4doHewx4qpJ7ZxcfbE14f               - Consolidaton
-- - 16JW3bVMu8RXPdf3p9iBeosK8q3ZUKe3H8               - Consolidaton
-- - 1FZU86w5G2yhgk8Vt2pyRZEkd24zeh8sh5               - Consolidaton
 
+- 0x9d66bea448eed9bdbb5f1acf032767b11fc78dcf         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
+
+- bc1q7wfc740n80u66wckezme954g5z9x97day2ph98         - Kei Nakano (smartcoding51) / Matias (0xdefilover)
+
+- 0x64d668978ddd6145d4f192eefb03691b75f65096         - 0xl2 / Leon Lowden / Leon Lin / leonxdev1
+
+- 1AAitGq8Qi6sC7Uo5dxgTK1gvtJnA9cv3w                 - 0xl2 / Leon Lowden / Leon Lin / leonxdev1
+
+- - 13DjGT8rQqfSrTQ9u8T7LXHFQEoiFxEewh               - Consolidaton
+
+- - 17NtMaXTaN8JV4doHewx4qpJ7ZxcfbE14f               - Consolidaton
+
+- - 16JW3bVMu8RXPdf3p9iBeosK8q3ZUKe3H8               - Consolidaton
+
+- - 1FZU86w5G2yhgk8Vt2pyRZEkd24zeh8sh5               - Consolidaton
 
 1Gfswj3FL4E5MWWkYzR2fc7pa1uRimgayq                 - 1 Hop from Vitaliy - $70k Dec 2024
 
 - 0xe42e3086910496606e0f43916c7725bb47ddbcee         - Bunzz's DPRK IT Worker (2025)
-- 0x146ab113a6d69033cccdb4eaae61c496c2faaf05         - Bunzz's DPRK IT Worker (2025)
-- 0xcdd3429318a51b0094db7a172ea356cfd2ae06b3         - Bunzz's DPRK IT Worker (2025)
-- 0x1febc069606abfba5d021ed3768cb5d90c9407d5         - Jannik Villostas / 0xtomoon / janbuidls
-- 0x6f24bebcbfa23b7ee32894355ecbdbc24b520d9e         - Jannik Villostas / 0xtomoon / janbuidls
-- 0xfb446394f4b55ffcfe1867cdbdbfe306c03b7dbb         - melonman913
-- 0x6b31ada73da66bb0b889d60ad5ae968a0e7fa1a9         - melonman913
-- bc1q6vkncljcldz9pdxdn9g3qkc4hct3gn2edx6wct         - melonman913
-- 0xe5a86c150ac44ab8f8b2661c9e8d8b13887360f0         - Chai Somsri / TickyCrypto / ChaiSomsri96
-- 0x9ce96e07c091662c2605eaae9180de22aad6e8db         - Chai Somsri / ChaiSomsri96
-- 0x32a381b9c0fcc9bb8cc9f458b204bcdba5649432         - Unknown Payroll Receiver from Kraken
-- 0x04a11fad86bf5e52956ef93ecd15ebb8b6e5c868         - Unknown Payroll Receiver
-- 0xbdbd306e19925c50cda69e0157faacaf8eaad609         - Boba Network IT Worker
-- 8mdfRML7z3s8gqDYd72bywcEgQtcvkoJCw2bukv8X71R       - Keisuke Wantanabe / kAsky53
-- - bc1q9930haxqk58e3npj2uanapl8x9z57z5u7y6qrn       - Consolidaton
-- - bc1qjvms07m5cgd643eaymtx3ycjaa82degu5lledy       - Consolidaton
-- - 0x83b5fbcae0f80697130ef8479622a1cac9a2a9b9       - Consolidaton
-- - bc1qd4jfd33nm323q6s4enzgv4vf86eljylnls4wzl       - Consolidaton
-- - bc1qhg24uaa5p528s2wdx9nualu3gn99s65kep8853       - Consolidaton
 
+- 0x146ab113a6d69033cccdb4eaae61c496c2faaf05         - Bunzz's DPRK IT Worker (2025)
+
+- 0xcdd3429318a51b0094db7a172ea356cfd2ae06b3         - Bunzz's DPRK IT Worker (2025)
+
+- 0x1febc069606abfba5d021ed3768cb5d90c9407d5         - Jannik Villostas / 0xtomoon / janbuidls
+
+- 0x6f24bebcbfa23b7ee32894355ecbdbc24b520d9e         - Jannik Villostas / 0xtomoon / janbuidls
+
+- 0xfb446394f4b55ffcfe1867cdbdbfe306c03b7dbb         - melonman913
+
+- 0x6b31ada73da66bb0b889d60ad5ae968a0e7fa1a9         - melonman913
+
+- bc1q6vkncljcldz9pdxdn9g3qkc4hct3gn2edx6wct         - melonman913
+
+- 0xe5a86c150ac44ab8f8b2661c9e8d8b13887360f0         - Chai Somsri / TickyCrypto / ChaiSomsri96
+
+- 0x9ce96e07c091662c2605eaae9180de22aad6e8db         - Chai Somsri / ChaiSomsri96
+
+- 0x32a381b9c0fcc9bb8cc9f458b204bcdba5649432         - Unknown Payroll Receiver from Kraken
+
+- 0x04a11fad86bf5e52956ef93ecd15ebb8b6e5c868         - Unknown Payroll Receiver
+
+- 0xbdbd306e19925c50cda69e0157faacaf8eaad609         - Boba Network IT Worker
+
+- 8mdfRML7z3s8gqDYd72bywcEgQtcvkoJCw2bukv8X71R       - Keisuke Wantanabe / kAsky53
+
+- - bc1q9930haxqk58e3npj2uanapl8x9z57z5u7y6qrn       - Consolidaton
+
+- - bc1qjvms07m5cgd643eaymtx3ycjaa82degu5lledy       - Consolidaton
+
+- - 0x83b5fbcae0f80697130ef8479622a1cac9a2a9b9       - Consolidaton
+
+- - bc1qd4jfd33nm323q6s4enzgv4vf86eljylnls4wzl       - Consolidaton
+
+- - bc1qhg24uaa5p528s2wdx9nualu3gn99s65kep8853       - Consolidaton
 
 bc1qzrck2j2kaszcemwkae84hah2s8ye3mwy8uwghy         - 1 Hop from Vitaliy - $6k - Nov 2024 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
 
 - 0x90cf352ddaf171d41a6ded1d54ceda4005047c93         - Jason Kwon / 0xm00neth
+
 - 0x7969b188f7dc6bf80d68f224ac3454dafe6f6d5d         - Jason Kwon / 0xm00neth
+
 - 0x72c70980acdde7a5c9437050e73e7d07fbf21d25         - Jason Kwon / 0xm00neth
+
 - 0x14455e9616522b3d55e84e46fdf5819430e94a84         - Joshua Palmer
+
 - 0xa71b641a498e33bb13548a01eca5e20e083e637b         - Ryuhei Matsuda / ryuheimat3
+
 - 0xa771609c5c56048f146d2c794c87db946bff27cf         - Consolidation
+
 - bc1qypu86xl2d9nred5dxsvvsl2ke2cm8aqsv2n672         - Consolidation
+
 - - bc1q8a265fj6q3cpetvp8x77ueywkfttcql8mnhyjl       - Consolidaton
+
 - - bc1qjnm4877g6y5klwrzqzgq5fzgrwsvckqmek04nd       - Consolidaton
+
 - - bc1qh6v56l7hzsf4h63ywse42jdjv406tdw5gy8a2z       - Consolidaton
+
 - - bc1qntjk0f2e0jgheauahdw5dwn0t67cepxxjyp0ap       - Consolidaton
+
 - - bc1q3perhsh627tvyh50cxexld7cvyxl6dmqylv8fw       - Consolidaton
+
 - - bc1qq2lj54mxp4llm37nmed427yz6648h6veduexdr       - Consolidaton        
 
 1M3AVbH3fmYgKfNGMqNftV4md56GsbX8cS                 - 1 Hop from Vitaliy - $162k - May 2025 - Also sends to Bybit 1JXjYFeYUvckFeofq2ysj8DxqnK8KPpaVb
@@ -4274,6 +4643,7 @@ bc1qzrck2j2kaszcemwkae84hah2s8ye3mwy8uwghy         - 1 Hop from Vitaliy - $6k - 
 bc1qc5kuxettlfnm3yhtt0ll8wkr6uf86dqq7j9qas         - 1 Hop from Vitaliy - $17k - November 2025 
 
 - - bc1quwnrtz6d9z28q7tn4qgnluhn9snxa0ptwlscas       - Consolidaton    
+
 - - bc1q7wjm7xypqxr37n9a0fdeluf40pmakkxfxm7lut       - Consolidaton
 
 bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k - December 2024
@@ -4284,14 +4654,15 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 ---
 
+
+
 # Dubai, Crypto, Moonstone Sleet, and the Pivot Odyssey
 
 - https://chollima-group.io/posts/dubai-crypto-moonstonesleet-pivot-odyssey
 
 
 
-### loganworld / Logan Lee / Logan King / Logan Smith 
-
+#### loganworld / Logan Lee / Logan King / Logan Smith 
 
 - Logan Lee
 
@@ -4340,11 +4711,10 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 - upwork.com/freelancers/~014d511b5978bb9853
 
 - Atari Token: 0x308f60b55b0ba1faf4948adafaf0ce812f3706c4
- 
 
 
-### promiseislaw (Marcin Iwanski)
 
+#### promiseislaw (Marcin Iwanski)
 
 - Brent Jeremy
 
@@ -4428,8 +4798,7 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 
 
-
-### newstable / Jaycee Tran / Sasuke Uchiha
+#### newstable / Jaycee Tran / Sasuke Uchiha
 
 - Jaycee Tran
 
@@ -4475,8 +4844,7 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 
 
-
-### SirBang / Derek Miller
+#### SirBang / Derek Miller
 
 - Derek Miller
 
@@ -4506,10 +4874,7 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 
 
-
-
-
-### Xiao He
+#### Xiao He
 
 - Xiao He
 
@@ -4573,9 +4938,7 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 
 
-
-### Misc
-
+#### Misc
 
 - 45.126.3[.]252
 
@@ -4737,10 +5100,9 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 - 0x9e051782754e1ED01C2800a820b9F742b38aceA0 - newstable
 
+#
 
-
-##### Organizations / Projects
-
+#### Organizations / Projects
 
 - ICICB
 
@@ -4779,9 +5141,6 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 - 0xlancerlab.com
 
 - Hogwarz
-
-
-
 
 
 
@@ -4931,13 +5290,7 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 
 
-
-
-
 ---
-
-
-
 
 
 
@@ -5013,17 +5366,15 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 
 
-
-
-
-
 ---
+
+
 
 # [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 
-### Eujin Ong / Eugene Ong
+#### Eujin Ong / Eugene Ong
 
 - euj1n0ng
 
@@ -5057,9 +5408,7 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 
 
-
-
-### "Zhang Meihong" to China Accts
+#### "Zhang Meihong" to China Accts
 
 - 0xCF3f54b780aC180Ed57F3227C96BCF9B2FD7415A
 
@@ -5084,54 +5433,89 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 > For example, according to information provided by an MSMT Participating State and blockchain analysis, throughout 2024 DPRK cyber actors sent cryptocurrency from the following wallet addresses to China-based OTC traders.
 
 - 0xF9AdaC8658E08893fB4E91c1062e471eb11Cb6c7
+
 - 0xCF3f54b780aC180Ed57F3227C96BCF9B2FD7415A
+
 - 0xF9AdaC8658E08893fB4E91c1062e471eb11Cb6c7
 
 > The OTC trader then sent deposits to China UnionPay accounts registered to other Chinese nationals but controlled by the DPRK cyber actors. 
 
 
 
-### Kyonghung IT
+#### Kyonghung IT
 
 - 0x82ce61d10044cc0ea23215cc4b334ff0937af73c
 
 - gitstar333@hotmail.com - PayPal account used by Kyonghung IT
+
 - kang19791110@hotmail.com PayPal account used by Kyonghung IT, held under the name of Jiang Lianji (姜莲姬)
+
 - 0x82CE61D10044CC0ea23215cc4B334Ff0937Af73C Crypto wallet address used by Kyonghung IT
+
 - Bank of China 6216690500000490631 Bank of China account used by Kyonghung IT, held under the name of Chi Hai (迟海)
 
 - garezb35 Skype and Github account used by Chong Ryu Song
+
 - op161021 Telegram account used by Chong Ryu Song 
+
 - op_1021_ WeChat account used by Chong Ryu Song
+
 - +86-130-1980-4700 Chinese phone number used by Chong Ryu Song Held under the name of Tan Ranran (潭冉冉)
+
 - www.linkedin.com/in/lai-wewang-ba355a1a2 LinkedIn profile used by Chon Kwon Uk
+
 - top522816(ID : Zhong) Telegram account used by Chon Kwon Uk
+
 - 86-186-4155-7481 Chinese phone number used by Chon Kwon Uk
+
 - pokerstar888 Skype ID used by a Kyonghung IT worker
+
 - .cid.e8cef90c3b01c236 Skype ID used by a Kyonghung IT worker
+
 - youtube.com/stargit5413 YouTube account used by Kyonghung IT
+
 - gitstar333garezb35 - Github accounts used by Kyonghung IT workers
+
 - andersson1117 - Github accounts used by Kyonghung IT workers
+
 - laiwe - Github accounts used by Kyonghung IT workers
+
 - laiwe@Zafianto.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@adventuremoto.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@africatwin.fun - - Email accounts used by Chon Kwon Uk
+
 - laiwe@allombo.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@amateurup.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@babefocus.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@bnude.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@groobysocial.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@hunners.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@newbienudes.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@newdudenudes.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@newgalnudes.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@newtransnudes.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@peeled.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@rudenude.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@seemyselfies.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@selfienudes.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@soseeall.com - - Email accounts used by Chon Kwon Uk
+
 - laiwe@zafianto.com.testgoogle-a.com - - Email accounts used by Chon Kwon Uk
+
 - allombo.com Social media site developed by Chon Kwon Uk Company established in Cyprus
-
-
