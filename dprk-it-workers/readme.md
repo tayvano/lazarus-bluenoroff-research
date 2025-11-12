@@ -1718,6 +1718,72 @@ https://www.justice.gov/opa/media/1406396/dl?inline
 
 ---
 
+## Hector Network
+
+### Alexlu0917
+
+- Alexlu0917
+
+- codemaestro11
+
+- works with `cooldev900` / `silversoft0707` and `oldhand7`
+
+- ![](alexlu0917.png)
+
+
+### CodeMaestro11
+
+- CodeMaestro
+- CodeMaestro11
+- alexlu0917
+- mikhaylovqweasdzxc
+- alexlu0917.dev@gmail.com
+- mikhaylovqweasdzxc@gmail.com
+
+
+### itsmooncity
+
+- itsmooncity
+
+- 0xmooncity
+
+- 0x483adFD3409abEEc7d500312d81eFa21E740632a
+
+- https://x.com/lilbagscientist/status/1986571969408446676
+
+- https://x.com/blackbigswan/status/1987891292899303598/photo/1
+
+
+### David Park
+
+- https://x.com/lilbagscientist/status/1984385125212438885
+
+![](./david-park.jpeg)
+
+![](./david-park-2.png)
+
+![](./david-park-3.jpeg)
+
+
+### Hector Network / MEXC
+
+- 0x66b37234b9Cf5a7fBBDA45076e70164962dc7c8D
+- 0xA3CEcF021Cd17681aD33A7Fc2F387F1cde8e0b61
+- 0x8E7b405be517EC23d13f756D0cBA201176a25B04
+- 0x95558655C7Eb9C174c5D7B3C73F2FA64a510E2f1
+- 0xDA11680fc06D4a2ADFAe220936dE2a922dcdD9fC
+- 0xb2628b78FD46D43a9A69F87d890874B91DB5aaa2
+- 0x7534DD9676BCb6ffca1dF9a386079a5aA706D8F3
+- 0x16ba6a5B0B5a37664Ea2A595f21e368DC61c6FF7
+
+https://x.com/lilbagscientist/status/1980294857022394400
+
+
+
+
+
+
+---
 
 
 

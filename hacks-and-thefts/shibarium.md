@@ -60,6 +60,17 @@ See Also: [Dust Collector 0xae69](../hacks-and-thefts/dp-it-dust-collector-ae69.
 - 0x5c27906e98240ca6134a292b18dd58f849192175 - Shibarium Payroll Receiver "Henry"
 - 0x07f4098636270e197533987c4c283f5fec1c559e - MEXC of Shibarium Payroll Receiver "Henry", Also receives from [Blockbusters](../hacks-and-thefts/blockbusters.md) Hacker
 
+- 0x45b59a747f2600a03dc294b538e4de7e4400df2a - TC Input
+- 0x39e9a79e25ccde4b1ea45d66e2b67dc2da0f912f - TC Input
+- 0x2112a9a597139021cd13bf64ff88944e0175968f - TC Input
+
+- 0x35439f117d60e692d145dc5866e6f4bd0e015c27 - TC Output
+- 0x8062dd46fcc3990ae1ea5434db2bcbfe835bf189 - TC Output
+- 0xc6ab792cba0aedbf8663bf0c33689e2174425756 - TC Output
+- 0x6bfc2077c455cd69b91a30f00a734d18e6b70159 - TC Output
+- 0x44761b7eac6343bad510511631110e56f2681ff2 - TC Output
+
+
 
 ## Shiba IT Workers
 

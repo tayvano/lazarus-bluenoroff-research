@@ -2,7 +2,7 @@
 
 Date:: 2025-11-03
 
-Amount Stolen:: $140,800
+Amount Stolen:: $187,600
 
 Tags:: 🔑 SQSQ
 
@@ -19,6 +19,8 @@ Connects to Trufulation directly lol
 
 ## Onchain
 
+- bc1qgdxwv0pkvwwmtrdwhm6q6tc7nxgaq3pq6ggtxh Victim - Compromised
+- bc1qaua9904lnn7lz7ffdmqj5kdh0pmt9a5ep93svv Victim - Compromised
 - 0x117f179f49835e9f1e356b3e6907f5dd5eb54048 Victim - Compromised
 - 0x1398dc1027b346766e6e30f8451acfee3b3c70d5 Victim - Compromised
 - 0x62d75b7468b49fb2115c5d64fd3f3635c82d59ff Victim - Compromised
@@ -49,7 +51,9 @@ Connects to Trufulation directly lol
 - 0x06d64d933174bb24392269acd70a80299711a020 FF Depo $1.5k
 - 0xeb52b9204ffcbd65b52451e8fc7c5465f79df4ca FF Depo $1.2k
 - 0x6d06f92cdca80c2a631cd9200d0b41d6c6c5fcd6 FF Depo $5.0k
-- 0xd7b2a78c89cea58176f0e2d2e3a25fb68f8642ef FF Depo $2,0k
+- 0xd7b2a78c89cea58176f0e2d2e3a25fb68f8642ef FF Depo $2.0k
+- 3Pijr7vFruHzofvvp7zwUNuCEdZvCBxDeM CN Depo $46.8k
+- TWmuJ8zaxAcs9eZEFvAbJxP3HUdVkuBLCr CN Depo to Hostwinds
 
 
 

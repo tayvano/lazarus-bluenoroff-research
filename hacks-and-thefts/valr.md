@@ -28,11 +28,20 @@ Tags:: ❓🔑
 - 0xfda946270a6f452e0a134e22b493f4e7e8bdbc50 - Dust Collector fda
 
 
-## Adjacent 
+### Tornado
 
-- 0x3653904f32679B1F3bdCFf3e8DA596D0A97991f1 - to Chainflip 2025-11-09
-- 0x773CeD588987c836c9a4C3510927302BeB6484FE - to Railgun 2025-11-07
-- 0xea691a99e42fd312d997aaa6967bd0d0a3431898 - SOF, Dust, Noones
+- 0x67aa1df4b8c0374e844ecd63978cceb46c51f654 - 2025-11-07
+- 0xea691a99e42fd312d997aaa6967bd0d0a3431898 - SOF, Dust, Noones 2025-11-07
+- 0x773ced588987c836c9a4c3510927302beb6484fe - to Railgun 2025-11-07
+- 0x294f9b0155e97d68bc18400db05418a3c59d99a2 - 2025-11-07
+- 0x17a05a675e02bf9f8376e17a71ceb134b9e5a642 - 2025-11-07
+- 0x0ae52fea982168021ebae797bed7fbcc157ccc89 - 2025-11-07
+- 0x3653904f32679b1f3bdcff3e8da596d0a97991f1 - to Chainflip 2025-11-09
+- bc1qfzu53kycgqe6a5v07y92ss4k9wutwgxtyhxa96 - 2025-11-07
+
+
+### Adjacent 
+
 - 0x12ed7f6ed0491678764c2b222a58452926e44db6 - Zach Apr 2024 Freeze
 - 0x36f2d3871edd59d5c06db8f0b12be928d5922a70 - Zach Apr 2024 Freeze
 - bc1q8s6ptjetm96xsrxqr6fslj0t0898xdgdxgzsmt - Zach Apr 2024 Freeze

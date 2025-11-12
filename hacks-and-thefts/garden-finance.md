@@ -44,27 +44,65 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 
 ## Onchain
 
-- 0x98bcc6c34a489cefdd9dfa8d792cfefb02ea2d12
+- 0x98bcc6c34a489cefdd9dfa8d792cfefb02ea2d12 - Direct Theft
 
-- 0x89b93c99576d7b601abb48540ed0b0c223fc1f76
+- 0x89b93c99576d7b601abb48540ed0b0c223fc1f76 - Direct Theft
 
-- 0x27133b7e7910d506ea8ec342f5bec0325b2d5876
+- 0x27133b7e7910d506ea8ec342f5bec0325b2d5876 - Direct Theft
 
-- 0x862f02fAEA46d8455a6784665d1424676ed99701
+- 0x862f02fAEA46d8455a6784665d1424676ed99701 - Direct Theft
 
-- WZy4xxpqktWa1b6MPMRiWsD487CT8mDcapB6GufBJCH
+- WZy4xxpqktWa1b6MPMRiWsD487CT8mDcapB6GufBJCH - Direct Theft
 
-- 0x3f11427c2423294e9ffac420564a0084c50a7add4a9f3f912167b3831be94e5a - Sui
+- 0x3f11427c2423294e9ffac420564a0084c50a7add4a9f3f912167b3831be94e5a - Direct Theft, Sui
 
-- 0x0699307b44511594126cac9b89e6f1ee6438b985ab61fa529e211d2d46c90bdc - Starknet
+- 0x0699307b44511594126cac9b89e6f1ee6438b985ab61fa529e211d2d46c90bdc - Direct Theft, Starknet
 
-- bc1qwpfllj4xv8w8ce338unna3du2t3943gdvrtsv9
+- bc1qwpfllj4xv8w8ce338unna3du2t3943gdvrtsv9 - Direct Theft
 
-- 0x3771CEc8C6e05E9428Dd72095c51Ac514bDc837A 2025-11-07
+- 0x3771CEc8C6e05E9428Dd72095c51Ac514bDc837A - TC IN
+- 0x95F0564879D5e33000d53107ADaeA6809aaa3838 - TC IN
+- 0x5Ca008507dD05ce0130461f9E9dF2A5edeA994B3 - TC IN
+- 0xefe1bd181106d42a02550757408ed77870a4f3f6 - RG IN
+- 0x0be734566a936f7b4f785e65b91eac724aad7a18 - Connects to TC Outs
+- 0x17a05a675e02bf9f8376e17a71ceb134b9e5a642 - Connects to TC Outs
+- 0x9bd0baf7afe069c9610ce22103cdf56934a228b9 - Connects to TC Outs
+- 0xea691a99e42fd312d997aaa6967bd0d0a3431898 - Connects to TC Outs
 
-- 0x95F0564879D5e33000d53107ADaeA6809aaa3838 2025-11-07
+- 0x67aa1df4b8c0374e844ecd63978cceb46c51f654 - TC Out
+- 0x773ced588987c836c9a4c3510927302beb6484fe - TC Out
+- 0x294f9b0155e97d68bc18400db05418a3c59d99a2 - TC Out
+- 0x05068582a187e2d6361c8c9e35f5bb266441a3e8 - TC Out
+- 0x76551f89a7246608e493b28cabc8a6f8cf260df0 - TC Out
+- 0xe30ff30cd7b15fb879a8081dca04bb8e65fdc187 - TC Out
+- 0x8073fbf5ad6b61ed3cabbc7926f8b3b0547b2596 - TC Out
+- 0xef565be6a6688b3e3afdaec4b38ccac31e45f889 - TC Out
+- 0x7eab54b2ff6c51673f9615ef895caa79fff4ee53 - TC Out
+- 0x3e605b942ba0280504e1de1ff1a926c21e5d2b57 - TC Out
+- 0xb7939ddd1e4667cc713bf9e99ae758ab7fcc1398 - TC Out
+- 0x2cbe3ef4b95138dd3fdc212fc65ad0986af5ce5a - TC Out
+- 0x357ffc88300952ce99085ac7a4e31af9cf46b8e9 - TC Out
+- 0x6c4f805335e6b91350ff291abc1c045971c2696f - TC Out
+- 0xac741f9f2a7b18991222d66b3a78c2e19541e38e - TC Out
+- 0xea5f017ceaa2f4fe86a0c1abf1a0c87fb0e5d7fc - TC Out
+- 0x65b0d8818186f58f004d74383372f70718fa4fc7 - TC Out
+- 0x0ae52fea982168021ebae797bed7fbcc157ccc89 - TC Out
 
-- 0x5Ca008507dD05ce0130461f9E9dF2A5edeA994B3 2025-11-07
+- 0x1865ca2f5ae1e77f34d00336f89c9be213cdaac9 - Post-TC
+- 0x31bbd72ed782a845ec8f00269740106a634e87ec - Post-TC
+- 0x3653904f32679b1f3bdcff3e8da596d0a97991f1 - Post-TC
+- 0x65b0d8818186f58f004d74383372f70718fa4fc7 - Post-TC
+- 0x6e65628d44b3282a812715e36203e922c69bff6e - Post-TC
+- 0xe9256362abbe97f149c4d1ea347e122a487f1de5 - Post-TC
+- 0xefe1bd181106d42a02550757408ed77870a4f3f6 - Post-TC
+- bc1q3tx7l9rj4lmcak4amjr04j2nl2e398jvyf6h4v - Post-TC Bitcoin
+- bc1qfzu53kycgqe6a5v07y92ss4k9wutwgxtyhxa96 - Post-TC Bitcoin
+- bc1qgly6e9hnh78prsl60487qkry7tg7jn5jrws3w5 - Post-TC Bitcoin
+- bc1qmjh8eqw5cqdy5uwne2wzhxyllzugh3qf293eh7 - Post-TC Bitcoin
+- bc1qp70ckxm7n07zcw9en94m0rhqrkrxdq7pu7mk8r - Post-TC Bitcoin
+- bc1qrrtx9shhjqx985f8gr96pdt2jky36wzf7rx2f0 - Post-TC Bitcoin
+- bc1quldy3s6f52n6t92xp2q58x6zhr2wv9hsvqvmmc - Post-TC Bitcoin
+- bc1qvkh2fey5nn69gfyw88h02qjxk055hu468axjfy - Post-TC Bitcoin
 
 
 
