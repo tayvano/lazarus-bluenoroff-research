@@ -63,7 +63,6 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - 0x3771CEc8C6e05E9428Dd72095c51Ac514bDc837A - TC IN
 - 0x95F0564879D5e33000d53107ADaeA6809aaa3838 - TC IN
 - 0x5Ca008507dD05ce0130461f9E9dF2A5edeA994B3 - TC IN
-- 0xefe1bd181106d42a02550757408ed77870a4f3f6 - RG IN
 - 0x0be734566a936f7b4f785e65b91eac724aad7a18 - Connects to TC Outs
 - 0x17a05a675e02bf9f8376e17a71ceb134b9e5a642 - Connects to TC Outs
 - 0x9bd0baf7afe069c9610ce22103cdf56934a228b9 - Connects to TC Outs
@@ -87,6 +86,7 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - 0xea5f017ceaa2f4fe86a0c1abf1a0c87fb0e5d7fc - TC Out
 - 0x65b0d8818186f58f004d74383372f70718fa4fc7 - TC Out
 - 0x0ae52fea982168021ebae797bed7fbcc157ccc89 - TC Out
+- 0xefe1bd181106d42a02550757408ed77870a4f3f6 - TC Out
 
 - 0x1865ca2f5ae1e77f34d00336f89c9be213cdaac9 - Post-TC
 - 0x31bbd72ed782a845ec8f00269740106a634e87ec - Post-TC
