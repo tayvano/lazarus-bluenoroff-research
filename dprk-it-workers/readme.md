@@ -2960,6 +2960,8 @@
 
 - 0xCf6E6021B8e519c0695CEa6B3541556dc798f0DC
 
+
+
 ### devmad119
 
 - 0x93d5785d759563b5b8eb98eaff9196dddf7179f3
@@ -3055,6 +3057,76 @@
 - 0xdC43B90db03B575B760Ef7B401AA647881f15081
 
 - 0x3c2D3aF542D742e48Eb0454133BE4DE9eF524e10
+
+
+
+
+
+#### Alexandru-Gabriel Dumitras
+
+- Has Indian facilitators 
+
+- +7 906 832 7335 
+
+- blockchain41673
+
+- blockchainstar18@gmail.com
+
+- x.com/blockchain41673/
+
+- t.me/bcstar18
+
+- 188.43.235[.]177 Mar 2022
+
+- 188.43.33[.]249 Sept 2024
+
+- 83.234.227[.]52 Dec 2024
+
+- 0x73Fd6C969514Cb6bE9BB9620Eaf79Cbda5887fb4
+
+- 0xabbcbd048bc3f54f7bca806bc23beafded7e944c
+
+- 0xef3F7c3f274d9867bB80c8A60B5d2Fdf70FB50D2
+
+
+
+
+
+#### Julian Valentino Montero / Eugene Tan / TalentKingDev
+
+- Madrid
+
+- dove123_
+
+- eugenetan0105
+
+- expertvetted7
+
+- TalentKingDev
+
+- codewarrier3000
+
+- codewarrier3000@gmail.com
+
+- github.com/TalentKingDev
+
+- linkedin.com/in/jvmontero-35/
+
+- lucky.godness.tan@gmail.com
+
+- t.me/expertvetted7
+
+- +380 97 432 9217
+
+- 188.43.14[.]13
+
+- 0x19b2efE206685c479D8adcE084Ad9f4aC8f8f434
+
+- 0x57B9f721411fABe61aC61CCA8eaf926A726A70cc
+
+- https://x.com/browsercookies/status/1923880400398795089
+
+- ![](./codewarrier3000.png)
 
 
 
