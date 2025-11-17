@@ -3074,7 +3074,7 @@
 
 - x.com/blockchain41673/
 
-- t.me/bcstar18
+- t.me/bcstar18 (ID: 5915387318) • [Messages](./user-5915387318-@bcstar18.txt)
 
 - 188.43.235[.]177 Mar 2022
 
@@ -3114,7 +3114,7 @@
 
 - lucky.godness.tan@gmail.com
 
-- t.me/expertvetted7
+- t.me/expertvetted7 (ID: 7030416097) • [Messages](./user-7030416097-@expertvetted7-codewarrier3000.txt)
 
 - +380 97 432 9217
 
