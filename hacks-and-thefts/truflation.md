@@ -6,6 +6,8 @@ Amount Stolen:: ~$5,125,000
 
 Tags:: 🔑
 
+G:: 407955
+
 ---
 
 ## Details
@@ -14,11 +16,11 @@ Another company that had hired multiple IT workers prior to the theft.
 
 Then founder's keys were compromised.
 
-Express VPN with Korea language settings.
-
 All funds consolidated @ 0xb1CF7880351E6D16313C03a6686B4c8a5bA6372a on Ethereum inititally.
 
-Telegram, Twitter, Facebook were taken over by the threat actors at the time of the theft. However there has not (yet) been any indication of them being used to do anything (?).
+Telegram, Twitter, Facebook were taken over by the threat actors at the time of the theft. 
+
+However there has not (yet) been any indication of them being used to do anything (?).
 
 
 

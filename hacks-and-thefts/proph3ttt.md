@@ -2,7 +2,7 @@
 
 Date:: 2025-11-03
 
-Amount Stolen:: $187,600
+Amount Stolen:: $224,600
 
 Tags:: 🔑 SQSQ
 
@@ -17,8 +17,12 @@ Connects to Trufulation directly lol
 
 
 
+
+
 ## Onchain
 
+- 0xd867c145dc7d1e2bc46fdcff808f47fa24e0ab30 Victim - Compromised
+- 0x010e00d695f2df8853df45a9048b9b000919d49c Victim - Compromised
 - bc1qgdxwv0pkvwwmtrdwhm6q6tc7nxgaq3pq6ggtxh Victim - Compromised
 - bc1qaua9904lnn7lz7ffdmqj5kdh0pmt9a5ep93svv Victim - Compromised
 - 0x117f179f49835e9f1e356b3e6907f5dd5eb54048 Victim - Compromised
@@ -42,20 +46,28 @@ Connects to Trufulation directly lol
 
 - TR2cAUAYt3zc9EBvSGijGJjirhgkhaVxC7 2025-Oct-14 2025-Oct-23 2025-Oct-25 2025-Oct-28 2025-Oct-29 2025-Oct-30 2025-Nov-04 2025-Nov-05 2025-Nov-06 2025-Nov-07
 
-- 0x684ba548b37179af42bd5e8877bd0a0cb774caea SS Depo $41k
-- 0x1eb1bf9575189ea01007e403c7ecf677f4afe725 SS Depo $38k
 - 0xa6c5e6b044abb194c7ac1e6e7e153befdfc6bf0d FF Depo $35k
-- 0xddb8108d24177efd5d60864554182a10205cd2bc SS Depo $16k
 - 0x4e466243bab39a113e4028ca3d129d138b34deb3 FF Depo $100
 - 0xf3dce4a87c75817d84de055c740dab3eabb0888d FF Depo $1.0k
 - 0x06d64d933174bb24392269acd70a80299711a020 FF Depo $1.5k
 - 0xeb52b9204ffcbd65b52451e8fc7c5465f79df4ca FF Depo $1.2k
 - 0x6d06f92cdca80c2a631cd9200d0b41d6c6c5fcd6 FF Depo $5.0k
 - 0xd7b2a78c89cea58176f0e2d2e3a25fb68f8642ef FF Depo $2.0k
+- 0x1eb1Bf9575189EA01007E403c7ECF677f4afe725 SS Depo $40k
+- 0xA62209D37DD7652856b88Ef1aCD4F491e351B335 SS Depo $11k
+- 0xD5C80a78d73b662Cc0b939D59446eb958D45f042 SS Depo $12k
+- 0x981e14b318f0D91934d1532E08D08842e2b68666 SS Depo $13k
+- 0xDDb8108D24177EFD5d60864554182a10205CD2Bc SS Depo $15k
+- 0x684ba548B37179aF42Bd5e8877bd0a0Cb774caeA SS Depo $41k
 - 3Pijr7vFruHzofvvp7zwUNuCEdZvCBxDeM CN Depo $46.8k
 - TWmuJ8zaxAcs9eZEFvAbJxP3HUdVkuBLCr CN Depo to Hostwinds
 
 
 
 
+## Connections
+
+- 0xbed78f71b964171c55b976c1cac973a90c2412ab + 0x361171d18a499ef3b150d94df423f2aef6a0dccd are from Truflation victim 0xa955445992567d9cbc95cbdd838f474dd50fde4c
+- These FF/CN depos go to BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB
+- Meanwhile all this Proph3ttt guy's also go to BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB
 
