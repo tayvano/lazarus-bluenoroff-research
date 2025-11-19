@@ -74,6 +74,8 @@ G:: 386443
 - bc1qs8r6v4qrve6z9sf0vzvkcxx4qg4xt9v22fq24v - 2025-10-31
 - bc1qqfw76a66zjjm5qwmattuxasz8uh9438kzhcwvr - 2025-10-31
 
+- bc1q3mqvjsvr22waus20j7fsaxe62y8sfrmn4dwnuv - 2025-11-18
+- bc1qxptwcj39zk8m5cdnxdud97tcus7l6p3p4lzyfz - 2025-11-19
 
 
 

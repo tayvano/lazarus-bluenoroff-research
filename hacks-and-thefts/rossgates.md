@@ -36,7 +36,9 @@ Overlaps with [JP Thor](./jpthor.md)
 
 - 0xe88fee9bd2c442a708890d5272034ff8697b6c23 - Theft
 
-- 2r4khwQz8M4opaGydxKF32SW3ePo5iW1e7ebGNFH71RZ - Theft / Holding
+- 2r4khwQz8M4opaGydxKF32SW3ePo5iW1e7ebGNFH71RZ - Theft
+
+- CqtULAaGoZ83o1fzh4FJbYvDVFXQoXQiiFbEaPMiKKei - Theft 2025-11-18
 
 - 0x680c2223807ed764ab06da038d602603829af46d - FF Depo
 - 0x16325b5d9c170cf3b946af6547cce86036b5c1cd - FF Depo

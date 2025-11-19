@@ -60,6 +60,17 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 
 - bc1qwpfllj4xv8w8ce338unna3du2t3943gdvrtsv9 - Direct Theft
 
+
+- 0x02555d446cb6dd21f33f859eba33c19e9e55d525 - Theft
+- 0xe84f5c84ca18eaa0d433ff22d05aa449cd86846a - Theft
+- 0x0e06a3b2114981dee5132a5cd192be26c60c6efc - Theft
+- 0x940cd2ec3f4bd207b7839cafbc006ec73d910a44 - Theft
+- 8YB2rPKvL2FAGYGuXayi27nF3LyynBF7tqoXCJHrEiWq - Theft
+- ALkCH6qD8X9k9fCHgDCXeZQEzgLibpbnLLD5W4pcesPh - Theft
+- GB2f9WSu4MKwqngGGXbqwih6h9nohs2BurVtfHdfkpnL - Theft
+
+- 0xa9a166febace09fd620a3b85cbc6d40e535fbdf1 - TC IN 2025-11-12
+
 - 0x3771CEc8C6e05E9428Dd72095c51Ac514bDc837A - TC IN
 - 0x95F0564879D5e33000d53107ADaeA6809aaa3838 - TC IN
 - 0x5Ca008507dD05ce0130461f9E9dF2A5edeA994B3 - TC IN
@@ -69,8 +80,8 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - 0xea691a99e42fd312d997aaa6967bd0d0a3431898 - Connects to TC Outs
 
 - 0x67aa1df4b8c0374e844ecd63978cceb46c51f654 - TC Out
-- 0x773ced588987c836c9a4c3510927302beb6484fe - TC Out
-- 0x294f9b0155e97d68bc18400db05418a3c59d99a2 - TC Out
+- 0x773ced588987c836c9a4c3510927302beb6484fe - TC Out / RG In
+- 0x294f9b0155e97d68bc18400db05418a3c59d99a2 - TC Out / RG In
 - 0x05068582a187e2d6361c8c9e35f5bb266441a3e8 - TC Out
 - 0x76551f89a7246608e493b28cabc8a6f8cf260df0 - TC Out
 - 0xe30ff30cd7b15fb879a8081dca04bb8e65fdc187 - TC Out
@@ -87,22 +98,40 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - 0x65b0d8818186f58f004d74383372f70718fa4fc7 - TC Out
 - 0x0ae52fea982168021ebae797bed7fbcc157ccc89 - TC Out
 - 0xefe1bd181106d42a02550757408ed77870a4f3f6 - TC Out
+- 0x31bbd72ed782a845ec8f00269740106a634e87ec - TC Out
+- 0x3653904f32679b1f3bdcff3e8da596d0a97991f1 - TC Out
+- 0x5c6de8f14526a0111e853febf9f4fc74a3a3eb7d - TC Out (BSC)
 
 - 0x1865ca2f5ae1e77f34d00336f89c9be213cdaac9 - Post-TC
-- 0x31bbd72ed782a845ec8f00269740106a634e87ec - Post-TC
-- 0x3653904f32679b1f3bdcff3e8da596d0a97991f1 - Post-TC
-- 0x65b0d8818186f58f004d74383372f70718fa4fc7 - Post-TC
 - 0x6e65628d44b3282a812715e36203e922c69bff6e - Post-TC
 - 0xe9256362abbe97f149c4d1ea347e122a487f1de5 - Post-TC
-- 0xefe1bd181106d42a02550757408ed77870a4f3f6 - Post-TC
+- 0xde28afaadb6829cd150544bbdc32b4f6b88685ad - Post-TC
+- 0xc8e87472e9e061b04a0753251f77287528977675 - Post-TC
+- 0x01f17d672712f599a515988ac2ee93f8b028c34f - Post-TC
+- 0x557043eb98ed98d541e6c1fb8718e6595e99296c - Post-TC
+- 0xf8b514a5d663ad079f7e9e17df4c59f9e1bd1a8c - Post-TC
+- 0x58aa8a7ef5759cbf814a6ee2f041b8094bbfd75f - Post-TC
+- 0x4dfa2df244e196b21026753ab5d571a0b9168f00 - Post-TC / RG IN
+- 0xfd93166d4737938e2a2b2e9f237c03bc12a09e0b - Post-TC / RG Out / Staking
+- 0xa9f5cb4a5dbd6432292a632921d250d2df93ae73 - Post-TC / RG Out
 - bc1q3tx7l9rj4lmcak4amjr04j2nl2e398jvyf6h4v - Post-TC Bitcoin
 - bc1qfzu53kycgqe6a5v07y92ss4k9wutwgxtyhxa96 - Post-TC Bitcoin
 - bc1qgly6e9hnh78prsl60487qkry7tg7jn5jrws3w5 - Post-TC Bitcoin
 - bc1qmjh8eqw5cqdy5uwne2wzhxyllzugh3qf293eh7 - Post-TC Bitcoin
 - bc1qp70ckxm7n07zcw9en94m0rhqrkrxdq7pu7mk8r - Post-TC Bitcoin
-- bc1qrrtx9shhjqx985f8gr96pdt2jky36wzf7rx2f0 - Post-TC Bitcoin
 - bc1quldy3s6f52n6t92xp2q58x6zhr2wv9hsvqvmmc - Post-TC Bitcoin
 - bc1qvkh2fey5nn69gfyw88h02qjxk055hu468axjfy - Post-TC Bitcoin
+- bc1qetre83c0v84wxpzec0jwnrf2693rf7fxr9qkwh - Post-TC Bitcoin
+- bc1q6tj25s0xl2c88276uxpt6msquz0crt0jjqq96k - Post-TC Bitcoin
+- bc1qm98mfu8ze2lg6h2u5cx3raw54eqrjpwgpt6fjl - Post-TC Bitcoin
+- bc1qcdddaua4a57c6u8w645cmvxgd3f0prtphsdhrt - Post-TC Bitcoin
+
+- 0x6a7ac163b801ee0c26d2eda04f0c0fb96023ff5e - Post-TC
+- bc1q8ywtyz33k4jzsc3qm7yd68eufy48f5efm2wucn - Post-TC
+- 0x5ce92163fd1ebbc43631ad9ceba6e8dab4b8e7be - Post-TC
+- 0x5a3fa58b2a7fb286af6e9563575d1309ccee1151 - Post-TC
+- bc1q7gntn39wmgylrh7mfsm2cuxpmrujupwgxyug3v - Post-TC
+
 
 
 

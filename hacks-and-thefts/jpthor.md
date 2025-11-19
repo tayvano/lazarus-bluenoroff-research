@@ -121,7 +121,7 @@ Another person targetted by fake Rena:
 - 0x2837bd30577d1374a5418b4c1c2b6b9749284bc6 - Thorchain 2025-09-15
 - 0x614e58853e5fffac9f49b36de524ddff3da1a179 - Thorchain 2025-09-15
 
-- 0x7abc09ab94d6015053f8f41b01614bb6d1cc7647 - Theft / Tornado Outs / Funds Holder
+- 0x7abc09ab94d6015053f8f41b01614bb6d1cc7647 - Theft Tornado Outs 2025-09-12
 
 - 0x7973d39be58c61e9b9257cc660aee5f565e973da - Near Intents Depo
 - 0x374ceee19d49589c307207d80eba1698c25c4dca - Near Intents Depo
@@ -140,7 +140,7 @@ Another person targetted by fake Rena:
 - 0x28e3a9f4bcb79fb803e88cff3530e3b38b815709 - Unknown Service
 - 0x957d8ec8ea1e8dbf9aa4c75cbe6681ba2101ef88 - Unknown Service
 
-- 0x9cc9a8fe6ee45e890e5168622bd6e9fed9d951f7 - Theft (Sept 15)
+- 0x9cc9a8fe6ee45e890e5168622bd6e9fed9d951f7 - Theft (2025-09-15)
 - 0xff2cd87a7a9cad5621dafa18d692a2eba795d828 - Theft
 - 0xa4491e8b313b1f6ae7457b3ccb221df27a8b2b26 - Theft
 
@@ -150,6 +150,8 @@ Another person targetted by fake Rena:
 - 0x1e2afd94cec831a456b75b0198b544017e09f9c5 - Theft
 - 0xbb3a46dd04e1ca0e59d73e55a4184b80e920858a - Theft
 - 0x73f452858c88bda6e87a657d7ed2ed0e0cdbc7f7 - Theft / Holding $1.135 from BNB
+- 0xb70f8680977000B492c68ace6c5097a6B7fB504F - Theft 2025-11-18
+- 0x0bb6885d6992258256A517860C3484808Ee1d8Ad - Theft 2025-11-18
 
 
 - 0x66844e1651e9aee73fdf8633902702682b8cdf9e - Gas Funder?

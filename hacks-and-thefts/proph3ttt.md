@@ -46,6 +46,8 @@ Connects to Trufulation directly lol
 
 - TR2cAUAYt3zc9EBvSGijGJjirhgkhaVxC7 2025-Oct-14 2025-Oct-23 2025-Oct-25 2025-Oct-28 2025-Oct-29 2025-Oct-30 2025-Nov-04 2025-Nov-05 2025-Nov-06 2025-Nov-07
 
+- 4NVcWEU3g3YufKdGWTStNwg64M4xjqtEfTW8Y9FaXRiD Theft 2025-11-18
+
 - 0xa6c5e6b044abb194c7ac1e6e7e153befdfc6bf0d FF Depo $35k
 - 0x4e466243bab39a113e4028ca3d129d138b34deb3 FF Depo $100
 - 0xf3dce4a87c75817d84de055c740dab3eabb0888d FF Depo $1.0k
@@ -61,6 +63,8 @@ Connects to Trufulation directly lol
 - 0x684ba548B37179aF42Bd5e8877bd0a0Cb774caeA SS Depo $41k
 - 3Pijr7vFruHzofvvp7zwUNuCEdZvCBxDeM CN Depo $46.8k
 - TWmuJ8zaxAcs9eZEFvAbJxP3HUdVkuBLCr CN Depo to Hostwinds
+
+
 
 
 
