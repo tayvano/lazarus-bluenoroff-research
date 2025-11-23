@@ -80,6 +80,8 @@
 
 - https://x.com/zachxbt/status/1940388827392344261
 
+- ![](./X_2025-11-22_Kevin83191687.png)
+
 
 
 #### Danny Jin
@@ -106,6 +108,8 @@
 
 - https://x.com/zachxbt/status/1940388827392344261
 
+- ![](./X_2025-11-22_m_polartar.png)
+
 
 
 #### Eric Andrade aka Josh Thomas
@@ -129,6 +133,8 @@
 - ![](./eric-andrade-2.jpg)
 
 - https://x.com/zachxbt/status/1940388827392344261
+
+- ![](./X_2025-11-22_ggsofter.png)
 
 
 
@@ -1000,6 +1006,8 @@
 
 - ![](./naoki-jenson-keisuke-kazune-leon-zhmolly.png)
 
+- ![](./X_2025-11-22_kAsky53.png)
+
 
 
 #### Mario Suparat fka Chris Jin
@@ -1056,6 +1064,7 @@
 
 - t.me/haodev007 (ID: 5312921424) • ([Messages](./user-5312921424-@haodev007.txt))
 
+- ![](./X_2025-11-22_haodev007.png)
 
 
 #### Ming Tai
@@ -1079,14 +1088,6 @@
 - solandrust
 
 - github.com/solandrust
-
-
-
-#### Shiro Masumi aka James Bello
-
-- monstar911001@gmail.com
-
-- github.com/monstar911
 
 
 
@@ -1162,6 +1163,10 @@
 
 - CreamFi, Decubate, DEPO, DeSpace, Gamerse, Jointer, Paid Network, Panther Protocol, Impermax
 
+- ivanche90705289
+
+- x.com/ivanche90705289
+
 - https://www.justice.gov/usao-dc/media/1402691/dl
 
 - https://decubate.medium.com/meet-the-decubate-team-1cc097cae24c
@@ -1187,6 +1192,8 @@
 - ![](./alex-hong-despace.jpg)
 
 - ![](./alex-hong.png)
+
+- ![](./X_2025-11-22_ivanche90705289.png)
 
 
 
@@ -1237,6 +1244,8 @@
 - ![](./jason-kwon.png)
 
 - ![](./jason-kwon-despace.jpg)
+
+![](./X_2025-11-22_0xm00neth.png)
 
 
 
@@ -1323,6 +1332,8 @@
 - ![](./gary-lee-karlo-lee-chan.png)
 
 - ![](./gary-lee-1292049042562834432.png)
+
+- ![](./X_2025-11-22_lee_chienhui.png)
 
 
 
@@ -1570,6 +1581,8 @@
 
 - ![](./magiccraft.png)
 
+- ![](./X_2025-11-22_zhExcal.png)
+
 
 
 #### Mauro Liu aka Xu Liu
@@ -1617,6 +1630,8 @@
 - https://x.com/NapierFinance/status/1691754768383750308
 
 - https://github.com/harmony-one/chrome-extension-wallet/graphs/contributors
+
+
 
 
 
@@ -2152,6 +2167,8 @@
 
 - 0x1FEbc069606ABfbA5d021Ed3768cb5D90c9407D5
 
+- ![](./X_2025-11-22_mrcontract17877.png)
+
 
 
 #### Janul Azwan
@@ -2226,6 +2243,7 @@
 
 - https://www.linkedin.com/in/chai-somsri/
 
+- ![](./X_2025-11-22_chaisomsri96.png)
 
 
 #### Milan Zubic / Patrick Kishi
@@ -2266,8 +2284,6 @@
 
 #### Scott Brown
 
-- 2025 (Scott Brown Cluster)
-
 - aka Kyle Larsen, Sean Day
 
 - breavedev
@@ -2300,8 +2316,6 @@
 
 - 0x3b8cc82f5d3ec89d88c58504ecfefe4597020840
 
-- 0xa8cb25ddf0a7195bdc3232ac6e1d812c8a4713fe
-
 - 0x368a337dcdec5cf9849a7563538f03b1516a3f7d
 
 - 0xb25a0580ddf68d4aea11d83f1655016e9520f51a
@@ -2310,11 +2324,23 @@
 
 - 0xce0113e71ce0273d0504a7ef1cd4f0e6e4d196bc
 
+- 0xa8cb25ddf0a7195bdc3232ac6e1d812c8a4713fe Gnosis Safe
+
+- 0x836fd838cefc1b4d41566e7d3703abe6d0ea1af8 Signer on Gnosis Safe 0xa8c
+- 0x03493cc1392266ce4cdacce2addeeb94a963eb9f Signer on Gnosis Safe 0xa8c
+- 0x34ed7bef992a1f22d769960b893736f6cb21b942 Signer on Gnosis Safe 0xa8c
+- 0xcbc7ee066d513f0a63f4b29292446d082b49f2da Signer on Gnosis Safe 0xa8c
+- 0xe6c793cfda46033411c824a0ca2daa915fb33c30 Signer on Gnosis Safe 0xa8c
+- 0x7fbecfae37fbc485d4b55dbe25896fe1bc1e969f Signer on Gnosis Safe 0xa8c
+- 0xa1175cfb2fff902272e4c999163466390949b2e1 Signer on Gnosis Safe 0xa8c
+- 0xaf80e1c287cb78d51c127036eb88f87a22157687 Signer on Gnosis Safe 0xa8c
+- 0x0be43093ea6696e580d19fa54945814f9ab1dc31 Signer on Gnosis Safe 0xa8c
+- 0x863e553df3f3b9827e9fe9e9c0ec0434c86d7237 Signer on Gnosis Safe 0xa8c
+- 0x251fce7ed5c5d5eef2156c9c7d05ae018af1e26d Signer on Gnosis Safe 0xa8c
+- 0xda974c15d4eff9d91b2ab37b212335d4fe3e6c1a Signer on Gnosis Safe 0xa8c
 
 
 #### Artur Dranhoi
-
-- 2025 (Scott Brown Cluster)
 
 - artur.dranhoi1025
 
@@ -2336,8 +2362,6 @@
 
 #### Oleksandr Muravskyi (aka Artur Dranhoi)
 
-- 2025 (Scott Brown Cluster)
-
 - oleksandr-muravskyi
 
 - PrinceCharming0115  
@@ -2354,17 +2378,148 @@
 
 #### Joel Kursala
 
-- 2025 (Scott Brown Cluster)
-
-- Received payroll to same address as Scott Brown
-
 - 0xa8cB25ddf0A7195BDc3232ac6e1D812c8a4713Fe
 
 
 
-#### Anderson Lee
+#### Daniel Klein / Richard Loan
 
-- 2025 (Scott Brown Cluster)
+- richardloan0221@gmail.com
+
+- akioyamadera46@gmail.com
+
+- 0xbd8d23384376f21045b4851630021d5e653678a4
+
+- 0x0f4f036bdedfec48499d348693377b716f20c28e Gnosis Safe
+
+- 0x5663c93c182f7f62f9113b2c491fee935a4dd79c Signer on Safe 0x0f4
+- 0x50deea7c1510e7692f56c80cf1f7ccc2bcb084d7 Signer on Safe 0x0f4
+- 0x6a73f170089dc637a682ae0eb768670e9ca8fc55 Signer on Safe 0x0f4
+- 0xc984d2b0387f680f35d1bbb18f87ee2df4531e69 Signer on Safe 0x0f4
+- 0xbd8d23384376f21045b4851630021d5e653678a4 Signer on Safe 0x0f4
+- 0xd4ebdf955f0235e6fd3e2d09c807223cdb0813cf Signer on Safe 0x0f4
+- 0x48f64eb919f72a8ea6b8b86f7a54a3761e53d5dc Signer on Safe 0x0f4
+
+
+#### Victor Hazard
+
+- vihazard430@gmail.com
+
+- hazardvictor@hotmail.com
+
+- linkedin.com/in/victor-hazard-77ba40305
+
+- github.com/black02430horse
+
+- github.com/hazardvictor
+
+- happy3guy@gmail.com
+
+- victordev67@gmail.com 
+
+- 0xefcb06b5ea58fb451c64ec278d957f4ebfd26df7 
+
+- 0xfba526813d70be714032c7e2554a4fc239627d75 Gnosis Safe
+- 0x0be43093ea6696e580d19fa54945814f9ab1dc31 Signer on Safe 0xfba
+- 0x7fbecfae37fbc485d4b55dbe25896fe1bc1e969f Signer on Safe 0xfba
+- 0xcf5a516b234b958f332dd3c0409c5fda0bd9d1fa Signer on Safe 0xfba
+- 0xf519ff3c6a471141b296509bd7191a10379eadca Signer on Safe 0xfba
+- 0xdf33346b2a3c2b872e578fce43ae41a6aa18b94c Signer on Safe 0xfba
+- 0xb81a856ed8f21e530e3d050dfa07eb682493daba Signer on Safe 0xfba
+- 0xcbc7ee066d513f0a63f4b29292446d082b49f2da Signer on Safe 0xfba
+- 0xe6c793cfda46033411c824a0ca2daa915fb33c30 Signer on Safe 0xfba
+- 0xfdd0f832b44ee76109603bf41a271f87d21adc54 Signer on Safe 0xfba
+
+
+
+
+#### Kaiden Araki / Derrick Lewis
+
+- derrick.d.lewis.312@gmail.com
+
+- snoopy5473cool@gmail.com
+
+- 0x73dab48c8a022a576131525ce4ee46e1a22922eb
+
+- 0xb338F56cA13EB44D94bD01cf9eE0FDB9968ABA36
+
+- 0x48f64eb919f72a8ea6b8b86f7a54a3761e53d5dc
+
+
+#### James Bello / Shiro Masumi
+
+- monstar911001@gmail.com
+
+- github.com/monstar911
+
+- 0xbde74c526ba2523b729b2f2a20676e58e189d745 
+
+- 0x0a8946a37b1e971e70b4ffa5852a1d6e3cdbb597
+
+- 0xaf80e1c287cb78d51c127036eb88f87a22157687 Gnosis Safe
+- 0xb81a856ed8f21e530e3d050dfa07eb682493daba Signer on Safe 0xaf8
+- 0xe227fe88e22d5cd9de1699941329c05087122065 Signer on Safe 0xaf8
+- 0x3e8137648af2fcae07996e0dd7d7be1d48640084 Signer on Safe 0xaf8
+- 0x0a8946a37b1e971e70b4ffa5852a1d6e3cdbb597 Signer on Safe 0xaf8
+- 0xbcf0d08c214db254d20d6de9791d86efa7b4656f Signer on Safe 0xaf8
+- 0xa5e6f13aa6715dd949791a5e3b60eb810c5deb18 Signer on Safe 0xaf8
+- 0x915d9f9c261ce2672afdc7c7d92412e55c805279 Signer on Safe 0xaf8
+- 0x676d7db9c81d531094002f1b033cc3b30d5b2918 Signer on Safe 0xaf8
+- 0x711dbfa45f36dc88c000b11150a6707cb23117f9 Signer on Safe 0xaf8
+- 0x245a094ccb1896d699adb03e7aed9a31db9f84ef Signer on Safe 0xaf8
+- 0x51ece7ca80d834170d0863d55ce649e8e099756c Signer on Safe 0xaf8
+- 0x348ea5f2f56a483551e7c1365431c5307a28a356 Signer on Safe 0xaf8
+- 0x025aba1457b657dc47d9a43c7ce4b881a83bdedc Signer on Safe 0xaf8
+- 0xcf5a516b234b958f332dd3c0409c5fda0bd9d1fa Signer on Safe 0xaf8
+
+
+
+
+#### Chiko Nakamura 
+
+Chiko Nakamura
+
+- chikonakamura05@gmail.com
+
+- chikonakamura613@gmail.com
+
+- 0xc75bbfc0cef2b93c1965930632ceeda9f055f83e
+
+- 0x557e1758962e6d2e8bea5aa727039843e618256d
+
+- 0x3edec14a826538044a535ad4ac2e54de54da7698 Gnosis Safe
+- 0x557e1758962e6d2e8bea5aa727039843e618256d Signer on Safe 0x3ed
+- 0xf519ff3c6a471141b296509bd7191a10379eadca Signer on Safe 0x3ed
+- 0x79df0940195e41ed149d1df13c709a55438439a2 Signer on Safe 0x3ed
+- 0x432bf0f5fe1ce8a13694364bb992b71d35590447 Signer on Safe 0x3ed
+
+
+
+#### Hendry Eyong
+
+- 0xe6c793cfda46033411c824a0ca2daa915fb33c30
+
+#### Lin Xu
+
+- 0x432bf0f5fe1ce8a13694364bb992b71d35590447
+
+#### Boss
+
+- 0xf519ff3c6a471141b296509Bd7191a10379EaDcA
+
+#### Phoenix
+
+- 0x79dF0940195e41ED149d1df13C709A55438439a2
+
+
+
+
+---
+
+
+## Security ITW
+
+#### Anderson Lee
 
 - aleson092325
 
@@ -2454,6 +2609,8 @@
 
 - ![](./anderson-lee-jack-lin-2.jpg)
 
+- ![](./X_2025-11-22_jaclindev99.png)
+
 
 
 #### Chris Yon
@@ -2495,6 +2652,8 @@
 - ![](./1933591202550723029-4.png)
 
 - ![](./wdev733-cydn95.jpg)
+
+![](./X_2025-11-22_adchy2000.png)
 
 
 
@@ -2822,6 +2981,8 @@
 
 - 0x1043efee936903951b88db23551873bb67292e95
 
+- ![](./X_2025-11-22_andyhoglet.png)
+
 
 
 #### Bram Chan / Bram Chen
@@ -2968,9 +3129,13 @@
 
 - 0xd93587B0fcAb0D9324cCF378d44cb985a96b5B36
 
+
+
 ### sujitb2114
 
 - 0x6c88dd91de053fca915baece6868f6c32d20adea
+
+
 
 ### Ikeda Okura (Shiba Inu)
 
@@ -2998,6 +3163,10 @@
 
 - 0xeabeb8D76E27248eC35333bAdaad9219D8f57973
 
+- ![](./X_2025-11-22_woof_decentra.png)
+
+
+
 ### Victor Lee
 
 - 2024
@@ -3007,6 +3176,9 @@
 - github.com/blue32captain
 
 - 0x50d6b6cf0066a0d3ebf321493da2e77cc40ddd8c
+
+
+
 
 ### Santokh Veenasenan
 
@@ -3024,6 +3196,8 @@
 
 - 0x17087F92D16049E9097413B4964663B754C1E43d
 
+
+
 ### Nicolas Chi
 
 - 2024
@@ -3035,6 +3209,8 @@
 - 0x641279133F6F560c3f512b8E2D286Ae2C53c31EE
 
 - 0xCC8020bed135ba9eCf9312Ea0c36234A0BcEC05F
+
+
 
 ### Alex Hong
 
@@ -3058,7 +3234,9 @@
 
 - 0x3c2D3aF542D742e48Eb0454133BE4DE9eF524e10
 
+- ![](./X_2025-11-22_AlexHong953.png)
 
+- ![](./X_2025-11-22_AlexHong953-2.png)
 
 
 
@@ -3088,7 +3266,7 @@
 
 - 0xef3F7c3f274d9867bB80c8A60B5d2Fdf70FB50D2
 
-
+- ![](./X_2025-11-22_blockchain41673.png)
 
 
 
@@ -3240,6 +3418,9 @@
 
 - x.com/_SamAyorinde
 
+- ![](./X_2025-11-22__SamAyorinde.png)
+
+- ![](./X_2025-11-22__SamAyorinde-2.png)
 
 
 ---
@@ -3439,6 +3620,131 @@
 - t.me/hunter0409 (ID: 5031331438) • ([Messages](./user-5031331438-@hunter0409-munchables-pete-yama.txt))
 
 - ![](./bill-tovitt-pete-yama.png)
+
+
+
+
+
+
+
+
+---
+
+
+## Merlin Dex
+
+
+
+
+### pos-ninja
+
+- Haruto Y.
+
+- https://github.com/pos-ninja
+
+- posninja1008@gmail.com
+
+- https://www.upwork.com/freelancers/~018609ed7cb64e85f8
+
+- https://github.com/devlord0114
+
+- "BlockChain Engineer" and "Certified Blockchain Developer". 
+
+- As of the last time his profile was online, he had made "1,366 contributions in the last year"[5]. It appears that at some point prior to May 14th, his Github profile was deleted[6].
+
+
+
+
+
+### OneDev0411
+
+- OneDev0411
+
+- https://github.com/OneDev0411
+
+- cryptoapple1109@gmail.com
+
+- 104505361+OneDev0411@users.noreply.github.com
+
+- describes himself as a "Full Stack Web Engineer"[7]. He put together an impressive 7,116 contributions through Github in 2022[8].
+
+- https://web.archive.org/web/20230516203033/https://github.com/OneDev0411?tab=overview&from=2022-12-01&to=2022-12-31
+
+
+
+
+
+### DotNetStar82
+
+- tgr.revbright@gmail.com
+
+- degencryptodev
+
+- dotnetstar82
+
+- tgr.superlight@gmail.com
+
+- jacksondong0310
+
+- https://github.com/dotnetstar82
+
+- describes himself as "A Full-stack .Net & Blockchain Developer". He is "ready to start your project anytime" with an extensive list of skills advertised on his Github[9].
+
+- Like to make a development document with developing content to use that in the future.
+
+- Delivering perfect results at any time.
+
+- Keeping good communication and work on the client's time zone.
+
+- Ability for working with any team and prefer to share much knowledge with many developers.
+
+- Looking for an opportunity to build a long-term relationship with great clients all over the world.
+
+
+
+
+
+
+
+### sallamy2580
+
+- Superpol@ris
+
+- Akimoto Akira
+
+- Richard Steward
+
+- Richard Stewart
+
+- Superpol@irs
+
+- 104654833+sallamy2580@users.noreply.github.com: 
+
+- sallamy2580
+
+- sallamy2580@gmail.com
+
+- https://github.com/sallamy2580
+
+- ![](./sallamy2580.jpeg)
+
+- ![](./sallamy2580-2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3784,6 +4090,10 @@
 
 - x.com/SilkenCore59010 (https://x.com/SilkenCore59010/status/1919310534060785800)
 
+- ![](./X_2025-11-22_MentholMen47387.png)
+
+- ![](./X_2025-11-22_SilkenCore59010.png)
+
 
 
 #### Eric Dickerson
@@ -3839,6 +4149,8 @@
 - https://x.com/browsercookies/status/1934283069101674814
 
 - ![](./1934283069101674814-4.png)
+
+- ![](./X_2025-11-22_CryptoFist.png)
 
 
 
@@ -3982,6 +4294,8 @@
 
 - ![](./1934290466054553751-4.png)
 
+- ![](./X_2025-11-22_KoppAnatoli.png)
+
 
 
 #### Denis Rudink
@@ -4015,6 +4329,8 @@
 - https://x.com/browsercookies/status/1934280908103884850
 
 - ![](./1934280908103884850-2.png)
+
+- ![](./X_2025-11-22_PinnacleFTSO.png)
 
 
 
@@ -4118,6 +4434,8 @@
 
 - ![](./1933686204668784823-4.png)
 
+- ![](./X_2025-11-22_Brysky456.png)
+
 
 
 #### Haruto Miura
@@ -4143,6 +4461,8 @@
 - ![](./1932932373609586853-2.png)
 
 - ![](./1932932373609586853-3.jpeg)
+
+- ![](./X_2025-11-22_haruto918miura.png)
 
 
 
@@ -4174,6 +4494,8 @@
 
 - ![](./1932956578090770818-4.png)
 
+- ![](./X_2025-11-22_j7771122.png)
+
 
 
 #### Xun Lee
@@ -4182,6 +4504,21 @@
 
 - ![](./1934302099258716572.jpeg)
 
+
+
+#### 0xapp123
+
+![](./X_2025-11-22_0xapp123.jpg)
+
+
+#### codeninja819
+
+- ![](./X_2025-11-22_codeninja819.jpg)
+
+
+####  krippsat
+
+- ![](./X_2025-11-22_krippsat.jpg)
 
 
 #### Vladivostok University
@@ -4199,6 +4536,20 @@
 - ![](./1934313254383427772-3.jpeg)
 
 - ![](./1934313254383427772-4.jpeg)
+
+
+#### microgift88
+
+- ![](./X_2025-11-22_microgift88.jpg)
+
+
+
+#### Soljestydev
+
+- ![](./X_2025-11-22_Soljestydev.jpg)
+
+
+
 
 
 
@@ -4343,6 +4694,12 @@
 - ![](./sim-1.png)
 
 - ![](./sim-2.png)
+
+
+
+
+
+
 
 
 
@@ -4944,6 +5301,8 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 - https://www.youtube.com/@DerekMiller-h8m
 
+- ![](./X_2025-11-22_DerekMillerDev.png)
+
 
 
 #### Xiao He
@@ -5478,6 +5837,7 @@ bc1qsad5na8wj7q7jjw8zujt7ml7jev9fcdk3elkqm         - 1 Hop from Vitaliy - $96k -
 
 ![](./eujin-ong.jpg)
 
+- ![](./X_2025-11-22_euj1n0ng.png)
 
 
 #### "Zhang Meihong" to China Accts

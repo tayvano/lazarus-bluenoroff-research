@@ -23,22 +23,63 @@ The Merlin Platform placed blame on members of their back-end development team â
 The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and transferred to other addresses.
 
 
+
+
 ## IT Workers?
 
 - The reported backend development team of Merlin DEX consisted of three different developers, which were reportedly all individuals from Serbia.
 
-- **pos-ninja** reports himself as a "BlockChain Engineer" and "Certified Blockchain Developer". As of the last time his profile was online, he had made "1,366 contributions in the last year"[5]. It appears that at some point prior to May 14th, his Github profile was deleted[6].
 
-- **OneDev0411** describes himself as a "Full Stack Web Engineer"[7]. He put together an impressive 7,116 contributions through Github in 2022[8].
+### pos-ninja
 
-- **DotNetStar82** describes himself as "A Full-stack .Net & Blockchain Developer". He is "ready to start your project anytime" with an extensive list of skills advertised on his Github[9].
+- Haruto Y.
+- https://github.com/pos-ninja
+- posninja1008@gmail.com
+- https://www.upwork.com/freelancers/~018609ed7cb64e85f8
+- https://github.com/devlord0114
+- "BlockChain Engineer" and "Certified Blockchain Developer". 
+- As of the last time his profile was online, he had made "1,366 contributions in the last year"[5]. It appears that at some point prior to May 14th, his Github profile was deleted[6].
+
+
+### OneDev0411
+
+- https://github.com/OneDev0411
+- describes himself as a "Full Stack Web Engineer"[7]. He put together an impressive 7,116 contributions through Github in 2022[8].
+- cryptoapple1109@gmail.com
+- 104505361+OneDev0411@users.noreply.github.com
+- https://web.archive.org/web/20230516203033/https://github.com/OneDev0411?tab=overview&from=2022-12-01&to=2022-12-31
+
+
+### DotNetStar82
+
+- https://github.com/dotnetstar82
+- tgr.revbright@gmail.com
+- degencryptodev
+- dotnetstar82
+- tgr.superlight@gmail.com
+- jacksondong0310
+- describes himself as "A Full-stack .Net & Blockchain Developer". He is "ready to start your project anytime" with an extensive list of skills advertised on his Github[9].
 - Like to make a development document with developing content to use that in the future.
 - Delivering perfect results at any time.
 - Keeping good communication and work on the client's time zone.
 - Ability for working with any team and prefer to share much knowledge with many developers.
 - Looking for an opportunity to build a long-term relationship with great clients all over the world.
 
-- **sallamy2580**
+
+
+### sallamy2580
+
+- https://github.com/sallamy2580
+- Superpol@ris
+- Akimoto Akira
+- Richard Steward
+- Richard Stewart
+- Superpol@irs
+- 104654833+sallamy2580@users.noreply.github.com: 
+- sallamy2580
+- sallamy2580@gmail.com
+- ![](../dprk-it-workers/sallamy2580.jpeg)
+- ![](../dprk-it-workers/sallamy2580-2.png)
 
 
 ## Onchain
@@ -68,7 +109,7 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 - 0xd9c908fbf194463edb7a9152b5cafb54c7abd430 - BSC, after Pancake Swap w Diff Desty Addy (to SideShift)
 - 0x4eaf7b39122614530dec0aa4f5bc5c146732fda6 - BSC, after Pancake Swap w Diff Desty Addy (to SideShift)
 
-- **0x2cf37b5ce0c7d914ce272ec7a0c2e7cff7faee76**
+- 0x2cf37b5ce0c7d914ce272ec7a0c2e7cff7faee76
 
 - 0x3d48818034904cd7a979f7e544a478dd8eac14f6 - BKEX depo address
 
@@ -85,10 +126,9 @@ The stolen funds were bridged back to Ethereum, swapped for Ether (ETH) and tran
 
 - Page 531 of [The 2023 UN Report](https://documents.un.org/doc/undoc/gen/n24/032/68/pdf/n2403268.pdf?token=Lnb4xBoncpFwgtMIpl&fe=true)
 
-- https://web.archive.org/web/20230516203033/https://github.com/OneDev0411?tab=overview&from=2022-12-01&to=2022-12-31
-
-- https://github.com/dotnetstar82
-
-- https://github.com/sallamy2580
-
 - https://rekt.news/merlin-dex-rekt/ 
+
+
+
+
+
