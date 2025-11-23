@@ -83,10 +83,62 @@ Tags:: 👛 TraderTraitor
 
 - https://etherscan.io/tx/0x46deef0f52e3a983b67abf4714448a41dd7ffd6d32d32da69d62081c68ad7882
 
-- 0x1db92e2eebc8e0c075a02bea49a2935bcd2dfcf4 - "Bybit Cold Wallet 1" (Safe)
+- 0x1Db92e2EeBC8E0c075a02BeA49a2935BcD2dFCF4 - "Bybit Cold Wallet 1" (Safe)
 - 0x1F4EB0a903619ac168b19A82F1a6e2e426522211 - Signer 1
 - 0x3Cc3A225769900e003E264dd4CB43E90896BC21A - Signer 2
 - 0xe3dF2cCEAc61B1aFA311372ecC5B40A3A6585a9E - Signer 3
+
+
+- 0x0fa09c3a328792253f8dee7116848723b72a6d2e - Exploiter EOA
+
+- 0x47666Fab8bd0Ac7003bce3f5C3585383F09486E2 - Direct Theft
+
+
+#### Helper Contracts
+
+0xbdd077f651ebe7f7b3ce16fe5f2b025be2969516 - Helper Contract (used in the attack, deployed by 0x0fa09C3A328792253f8dee7116848723b72a6d2e)
+
+0x2444c026EbE6d476e97bAeB003071bea9C13A953 - Helper Contract (no sneaky slot 0, deployed by 0x0fa09C3A328792253f8dee7116848723b72a6d2e)
+
+0x96221423681A6d52E184D440a8eFCEbB105C7242 - Helper Contract, deployed by 0x0fa09C3A328792253f8dee7116848723b72a6d2e; see 0xbe42ca77d43686c822a198c3641f3dadd1edcb5fde22fbc1738b3298a9c25ddb
+
+
+#### 3/6 Test Safe 0x19C
+2025-02-18 19:16:47
+2025-02-20 12:32:35
+
+0x19C6876E978D9F128147439ac4cd9EA2582cd141 - Safe Contract
+
+0x5C6120BA4C5B5E18DDcb9589e649e86EE6d540dD - Deployer of 0x19C
+0xe8b36709dd86893bf7bb78a7f9746b826f0e8c84 - Signer on 0x19C, Executor
+0x7c1091cf6f36b0140d5e2faf18c3be29fee42d97 - Signer on 0x19C, Executor
+0xc1ce312f9519f8ba42bc0656b61c2aa33500e3e3 - Signer on 0x19C, Proposer
+0x539b4adbfa5c7c75f80455ff939ca6401c8093a6 - Signer on 0x19C, Executor
+0xd5fc69e41df2d910b98e4b1fb444a3a3a37613b5 - Signer on 0x19C
+0x815cb309ad0cb26a3bfe35f2de8a5a222de827ed - Signer on 0x19C
+0x0fa09C3A328792253f8dee7116848723b72a6d2e - Executor
+
+https://safe-transaction-mainnet.safe.global/api/v1/safes/0x19C6876E978D9F128147439ac4cd9EA2582cd141/multisig-transactions/
+
+
+
+#### 3/6 Test Safe 0x509
+
+2025-02-18 18:24:59
+2025-02-18 18:31:23
+
+0x509b1eDa8e9FFed34287ccE11f6dE70BFf5fEF55 - Safe Contract, called by 0x0fa09c3a328792253f8dee7116848723b72a6d2e
+
+0x5C6120BA4C5B5E18DDcb9589e649e86EE6d540dD - Deployer of 0x509
+0x5C6120BA4C5B5E18DDcb9589e649e86EE6d540dD - Signer on 0x509, Executor
+0x174496BC1835c3A55a45542e504E9757b12e55B6 - Signer on 0x509, Proposer
+0x21af673A128F3210D1CF023D7Eabd6A95B564A45 - Signer on 0x509
+0x6fDa06737CA8908069a0E8b10daCE694d0660CEe - Signer on 0x509
+0xee4cDE3B8a24AFB65B0B299d414939C7EFe0de9A - Signer on 0x509
+0x9FFbc585aFbb1b4c1426FC5d0e691b21416708fa - Signer on 0x509
+0x0fa09C3A328792253f8dee7116848723b72a6d2e - Executor
+
+https://safe-transaction-mainnet.safe.global/api/v1/safes/0x509b1eDa8e9FFed34287ccE11f6dE70BFf5fEF55/multisig-transactions/
 
 
 ### Addresses
