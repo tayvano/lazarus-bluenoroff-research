@@ -404,6 +404,8 @@
 
 - JCollinsX
 
+- x.com/nonfungiblejc
+
 - jenson.collins@hotmail.com
 
 - github.com/JCollinsX
@@ -439,6 +441,8 @@
 - ![](./1916191078631289200.png)
 
 - ![](./naoki-jenson-keisuke-kazune-leon-zhmolly.png)
+
+- ![](./X_2025-11-22_NonFungibleJC.png)
 
 
 
@@ -1927,7 +1931,11 @@
 
 - cooldev900
 
+- davdpark1026
+
 - t.me/Cooldev_900 (ID: 8369486870)
+
+- x.com/davdpark1026
 
 - github.com/cooldev900
 
@@ -1938,6 +1946,8 @@
 - ![](./david-park-2.png)
 
 - ![](./david-park-3.jpeg)
+
+- ![](./X_2025-11-22_davdpark1026.png)
 
 
 
@@ -2221,6 +2231,8 @@
 
 - x.com/chaisomsri96
 
+- x.com/TickyCrypto
+
 - medium.com/@chaisomsri96
 
 - linkedin.com/in/chai-somsri
@@ -2244,6 +2256,8 @@
 - https://www.linkedin.com/in/chai-somsri/
 
 - ![](./X_2025-11-22_chaisomsri96.png)
+
+! ![](./X_2025-11-22_TickyCrypto.png)
 
 
 #### Milan Zubic / Patrick Kishi
@@ -3175,7 +3189,11 @@ Chiko Nakamura
 
 - github.com/blue32captain
 
+- x.com/blue32captain
+
 - 0x50d6b6cf0066a0d3ebf321493da2e77cc40ddd8c
+
+- ![](./X_2025-11-22_blue32captain.png)
 
 
 
