@@ -1,10 +1,12 @@
 # Upbit
 
-Date:: November 27th, 2019
+Date:: 2019-11-27
+
+Time:: 04:06 UTC
 
 Amount Stolen:: $48,500,000 (342,000 ETH)
 
-Tags:: 👛CEX Hack, Private Key Compromise, "Inside Job"
+Tags:: 👛 CEX Hack, Private Key Compromise, "Inside Job"
 
 
 ---
@@ -32,6 +34,26 @@ In response, Upbit immediately moved all of its funds to cold wallets and also d
 - "Exchange 2" in [US v 280](../pdfs/2020-08-27_USA-v-280_complaint_cv-2396.pdf)
 
 - [2019 Panel of Experts Report](../pdfs/2019-08-30_UN-Security-Council_s-2019-691.pdf): The Coinbin aka Youbit aka Yapizon and Bithumb attacks, along with an attack on UpBit on 28 May 2019, used similar tools, codes and attack vectors (including spear phishing and watering holes) to those used in previous cyberattacks on security and defence targets attributed to the Democratic People’s Republic of Korea.34 In addition to the Republic of Korea, the Panel investigated Democratic People’s Republic of Korea attacks on cryptocurrency exchanges in five other countries (see annex 21 B)."
+
+
+## Onchain
+
+- 0xca4e0aa223e3190ab477efb25617eff3a42af7bdb29cdb7dc9e7935ea88626b4
+
+- 0x111f76006af0306fe02d8ed5b306f34d8f64798a
+- 0x1195a388ad15e792b0c8d1c4d0c81827cb3d9682
+- 0x4d53dad4b3552710ac276fa7f7ba944554c1cace
+- 0x519a3b21130eb8496f7a8e4782fa3106ae4cff27
+- 0x73d7f91ef3cd31bfac0c3ea3713c37b55b8e40bc
+- 0x757cc4111a6df5f48803b607e9c170c8a1cc51b1
+- 0x934e1ba940c28969f4902786fa2d540b618715db
+- 0x9409d7ea71294fc5561e5fdd47d4a9f5993948c5
+- 0x987f8cfb36086c78becc03e4e3369c69e195d476
+- 0x9a207194cbed9f229694fdf5a28caab59157920d
+- 0xa09871aeadf4994ca12f5c0b6056bbd1d343c029
+- 0xb3a9b79f4d5dc2cdcdc00da22869502cbf65a0a5
+- 0xf4678169b1eb0c141fd99942ac02191145fefe3f
+
 
 
 ## Further Reading 
