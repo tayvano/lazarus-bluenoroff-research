@@ -1,6 +1,36 @@
 # 🔑 Fake VCs
 
 
+## 2025
+
+![](./2025-12-09_Fake-Aptos_01.jpeg)
+![](./2025-12-09_Fake-Aptos_02.jpeg)
+![](./2025-12-09_Fake-Aptos_03.jpeg)
+- [@yonkuro_awesome](https://x.com/yonkuro_awesome/status/1998374226278166783)
+- [2025-12-09_Fake-Aptos_01](./2025-12-09_Fake-Aptos_01.jpeg)
+- [2025-12-09_Fake-Aptos_02](./2025-12-09_Fake-Aptos_02.jpeg)
+- [2025-12-09_Fake-Aptos_03](./2025-12-09_Fake-Aptos_03.jpeg)
+
+
+---
+
+![](./2025-12-02_Fake-Ken-01.jpg)
+![](./2025-12-02_Fake-Ken-02.jpg)
+![](./2025-12-02_Fake-Ken-03.jpg)
+![](./2025-12-02_Fake-Ken-04.jpg)
+![](./2025-12-02_Fake-Ken-05.jpg)
+![](./2025-12-02_Fake-Ken-06.jpg)
+![](./2025-12-02_Fake-Ken-07.jpg)
+- [2025-12-02_Fake-Ken-01](./2025-12-02_Fake-Ken-01.jpg)
+- [2025-12-02_Fake-Ken-02](./2025-12-02_Fake-Ken-02.jpg)
+- [2025-12-02_Fake-Ken-03](./2025-12-02_Fake-Ken-03.jpg)
+- [2025-12-02_Fake-Ken-04](./2025-12-02_Fake-Ken-04.jpg)
+- [2025-12-02_Fake-Ken-05](./2025-12-02_Fake-Ken-05.jpg)
+- [2025-12-02_Fake-Ken-06](./2025-12-02_Fake-Ken-06.jpg)
+- [2025-12-02_Fake-Ken-07](./2025-12-02_Fake-Ken-07.jpg)
+
+---
+
 ![](./2025-11-07_Fake-Lee_01.png)
 ![](./2025-11-07_Fake-Lee_02.png)
 ![](./2025-11-07_Fake-Lee_03.png)
@@ -35,6 +65,15 @@
 - [2025-11-07_Fake-Lee_15](./2025-11-07_Fake-Lee_15.png)
 - [2025-11-07_Fake-Lee_16](./2025-11-07_Fake-Lee_16.png)
 
+
+---
+
+![](./2025-11-19_Fake-Sebastjans_01.png)
+![](./2025-11-19_Fake-Sebastjans_02.jpeg)
+- [2025-11-19_Fake-Sebastjans_01](./2025-11-19_Fake-Sebastjans_01.png)
+- [2025-11-19_Fake-Sebastjans_02](./2025-11-19_Fake-Sebastjans_02.jpeg)
+
+
 ![](./2025-11-05_Fake-Kaia.jpeg)
 - [@0xzergs](https://x.com/0xzergs/status/1986089997875781638)
 - [2025-11-05_Fake-Kaia](./2025-11-05_Fake-Kaia.jpeg)
@@ -44,6 +83,11 @@
 -[@GuyPolio](https://x.com/GuyPolio/status/1986114788179558403)
 - [2025-11-04_Fake-Kaia](./2025-11-04_Fake-Kaia.jpeg)
 
+![](./2025-09-08_SQ_Fake-Kaia.png)
+- [@skilllevel7](https://x.com/skilllevel7/status/1964937282328096921)
+- [2025-09-08_SQ_Fake-Kaia](./2025-09-08_SQ_Fake-Kaia.png)
+
+---
 
 ![](./2025-09-19_SQ_Fake-Micah.jpg)
 - [2025-09-19_SQ_Fake-Micah](./2025-09-19_SQ_Fake-Micah.jpg)
@@ -53,9 +97,6 @@
 - [2025-09-18_SQ_Fake-Tracy](./2025-09-18_SQ_Fake-Tracy.jpeg)
 - [@waterdripfund](https://x.com/waterdripfund/status/1968904548271235433/)
 
-![](./2025-09-08_SQ_Fake-Kaia.png)
-- [@skilllevel7](https://x.com/skilllevel7/status/1964937282328096921)
-- [2025-09-08_SQ_Fake-Kaia](./2025-09-08_SQ_Fake-Kaia.png)
 
 ![](./2025-09-03_SQ_Fake-Exabits_01.jpeg)
 ![](./2025-09-03_SQ_Fake-Exabits_02.jpeg)
@@ -65,6 +106,8 @@
 ![](./2025-08-28_Fake-Nikki.jpg)
 - [2025-08-28_Fake-Nikki](./2025-08-28_Fake-Nikki.jpg)
 
+---
+
 ![](./2025-08-01_SQ_Fake-Gumi-1.jpg)
 ![](./2025-08-01_SQ_Fake-Gumi-2.jpg)
 ![](./2025-08-01_SQ_Fake-Gumi-3.jpg)
@@ -73,6 +116,9 @@
 - [2025-08-01_SQ_Fake-Gumi-2](./2025-08-01_SQ_Fake-Gumi-2.jpg)
 - [2025-08-01_SQ_Fake-Gumi-3](./2025-08-01_SQ_Fake-Gumi-3.jpg)
 - [2025-08-01_SQ_Fake-Gumi-4](./2025-08-01_SQ_Fake-Gumi-4.jpg)
+
+
+---
 
 
 ![](./2025-07-25_SQ_Fake-Luca.jpeg)
@@ -95,6 +141,8 @@
 - [2025-07-21_Fake-Luca_11](./2025-07-21_Fake-Luca_11.png)
 - [2025-07-21_Fake-Luca_12](./2025-07-21_Fake-Luca_12.png)
 - [2025-07-21_Fake-Luca_13](./2025-07-21_Fake-Luca_13.png)
+
+---
 
 ![](./2025-06-19_SQ_Lingling.jpg)
 - [2025-06-19_SQ_Lingling.jpg](./2025-06-19_SQ_Lingling.jpg)
@@ -164,6 +212,8 @@
 - [2025-03-12_SQ_Fake-Str8fire-03](./2025-03-12_SQ_Fake-Str8fire-03.jpeg)
 
 
+---
+
 
 ![](./2025-02-25_SQ_Fake-Openfort.jpeg)
 ![](./2025-03-12_SQ_Fake-Openfort-01.jpeg)
@@ -207,7 +257,7 @@
 
 
 
-
+---
 
 
 

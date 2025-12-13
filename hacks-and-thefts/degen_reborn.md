@@ -86,11 +86,23 @@ See more: [SquidSquad Dust Collectors](./sqsq-dust-collector-c0b.md)
 
 ### 2025
 
+- 0x3c497d26c6b474eb8c76ff8106686990799e5191
+- 0xa2aecb33623c612a1a371a4026e8d9cb1ff8b7cb
+- 0xbcb3737293b565e5127aaddb759813d1917d0c0e
+- 0x86a6086bacc4290d2a6f978d13f4eb5f60180780 - Pendle / Staking
+- 0xd8e609dca1e6b9f2ff3b6bbb34f3d3bf76b8d535 - Pendle / Staking
+- 0x31aa50e86f5275487c6a48782d66cf063ea0a58f - Pendle / Staking
+- 0xd862b6e963aaa731b4629b8d02b7bb90c3acbb52 - Pendle / Staking
+- 0xf287a4c075be9979e9983c557a5d4540897d822c - Pendle / Staking
 - 0x91c23c5526404e96515d8969a6d6055270ae8ad7 - Back to Tornado
-- 0x7fba4c4d28e2be122df85e22cdc6719c6f3c9c51 - Back to Tornado
 - 0xbcbc9fbcd5477ff6b4031da5185b51c4dd090fc0 - Back to Tornado
-- 0xf98750aa0b0b93005a24a007f5db8d394c1b870a - Back to Tornado
-- 0x4e8dc1494ca75ec2dd388da86655d21a5959a7b3 - Back to Tornado
+- 0xc0ffdb7f8d8b5d368f4bb97c96682ab494817296 - Back to Tornado
+- 0x7fba4c4d28e2be122df85e22cdc6719c6f3c9c51 - Back to Tornado; 2025-07-30; 200 ETH
+- 0xf98750aa0b0b93005a24a007f5db8d394c1b870a - Back to Tornado; 2025-08-04; 500 ETH
+- 0x4e8dc1494ca75ec2dd388da86655d21a5959a7b3 - Back to Tornado; 2025-08-28; 500 ETH
+- 0x4de93f26c0d2a66a8531331ac243984f8dc4e0db - Back to Tornado; 2025-11-27; 60 ETH
+
+
 
 
 

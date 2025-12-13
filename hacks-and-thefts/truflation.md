@@ -137,4 +137,5 @@ However there has not (yet) been any indication of them being used to do anythin
 
 - 0x53d2094b31429a13e739358b16354d8e0826b25a - BSC + AVAX -> ETH on 2025-09-15
 - 0x00d71da77bd928cf79b9ec763e8791f96719baf4 - 2025-09-15
+- 0x1148a48e9990bd8fb14d53f4965d712eeb891d44 - 2025-11-20
 
