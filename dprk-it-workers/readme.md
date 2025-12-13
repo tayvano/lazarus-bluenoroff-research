@@ -60,6 +60,8 @@
 
 - 0xdfae024a22713ecd8049784ca0ba4c9e87753493
 
+- 0x8bb3cb9f93fba6ce149ed32a02d8f2664f58cafb
+
 - ![](./benjamin-nguyen.jpg)
 
 - https://x.com/zachxbt/status/1940388827392344261
@@ -201,6 +203,8 @@
 - 0xcF2001A16B69543fD4BFb54f1d4528b6c5307a3b TheNextHype
 
 - 0x9FF251fD3363632626E96CE5ccC82CEe6C80A732 let-it-go, thunderspeed.eth
+
+- 0xe3301806924da6e15b30ef9089c1db6faa052880 talentdev2020
 
 
 
@@ -2460,11 +2464,39 @@
 - 0x48f64eb919f72a8ea6b8b86f7a54a3761e53d5dc
 
 
-#### James Bello / Shiro Masumi
+#### James Bello 
 
-- monstar911001@gmail.com
+- aka Shiro Masumi?
 
-- github.com/monstar911
+- aka Takao Kamio?
+
+- MightyDevKnight
+
+- Bighero0122
+
+- github.com/MightyDevKnight
+
+- james.mario.bello1209@gmail.com
+
+- james@ecf.network
+
+- ali.jonsson1800@gmail.com
+
+- bighero0122@gmail.com: 
+
+- danylo.lee316@gmail.com
+
+- keithnelson0426@gmail.com
+
+- legendary0118dev@gmail.com
+
+- strongdragon036@gmail.com
+
+- takao.kamio@brandcode.dev
+
+- takao.kamio@hyma.io
+
+- ucas0holm@gmail.com
 
 - 0xbde74c526ba2523b729b2f2a20676e58e189d745 
 
@@ -2486,6 +2518,14 @@
 - 0x025aba1457b657dc47d9a43c7ce4b881a83bdedc Signer on Safe 0xaf8
 - 0xcf5a516b234b958f332dd3c0409c5fda0bd9d1fa Signer on Safe 0xaf8
 
+
+#### Shiro Masumi
+
+- monstar911
+
+- monstar911001@gmail.com
+
+- github.com/monstar911
 
 
 
@@ -2694,6 +2734,10 @@ Chiko Nakamura
 - 0x6513cb2f5E59c768a28958FBBDa6e06B9B29B8Eb
 
 - 0x770819c83FE074e51c2c7030dc6fcCFFc8943699
+
+- 0x2D8EAC24e31e260Ced8e2A115FFFE5542584Ee47
+
+- https://x.com/StevenJ12156614/status/1529351611847708672
 
 - ![](./steven-jung-1.jpg)
 
@@ -3640,6 +3684,17 @@ Chiko Nakamura
 - ![](./bill-tovitt-pete-yama.png)
 
 
+
+---
+
+
+## Pine Protocol Worker
+
+- 2022-11-15 thru 2023-08-21
+
+- 0x46909cc13432dcad42d4bc7aa68103522cb4e81a
+
+- 0x55154f106ec645cf2c7615fe60dc2962c615b9d6
 
 
 
