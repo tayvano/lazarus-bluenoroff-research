@@ -2,8 +2,87 @@
 
 ## 2025
 
+Various Reports:
+
+- [@boundless_xyz](https://x.com/boundless_xyz/status/1997021328466235726)
+- [@sshankar](https://x.com/sshankar/status/1995912528795500911)
+- [@0xFA2](https://x.com/0xFA2/status/1993563154660704385)
+- [@micahonchain](https://x.com/micahonchain/status/1991902884980756815)
+- [@heckerhut](https://x.com/heckerhut/status/1990410748099522612)
+- [@btc_albert](https://x.com/btc_albert/status/1995918640022257972)
+- [@btc_albert](https://x.com/btc_albert/status/1996631395419279420)
+- [@cryptoinv992](https://x.com/cryptoinv992/status/1995440094686368194)
+- [@loldefi](https://x.com/loldefi/status/1998389636566237383)
+- [@AsILayHodling](https://x.com/AsILayHodling/status/1999548243982889319)
+- [@ceciliaz030](https://x.com/ceciliaz030/status/2000877692271649267)
+- https://www.linkedin.com/feed/update/urn:li:activity:7394399559977844736/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A7394399559977844736%2C7394404510984634368)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7394404510984634368%2Curn%3Ali%3Aactivity%3A7394399559977844736)
+- https://www.linkedin.com/posts/enzzo-cusihuaman-205266106_staysafu-activity-7376576269305446400-5Or9
+- [@niv_tomer](https://x.com/niv_tomer/status/1988634069307977941)
+- [@ronaparajit](https://x.com/ronaparajit/status/1980799219972862128)
+- [@PerianneDC](https://x.com/PerianneDC/status/1974420286436159660)
+- [@theshelb_](https://x.com/theshelb_/status/1970762719302135947)
+- [@theshelb_](https://x.com/theshelb_/status/1970905067340644634)
+- [@waterdripfund](https://x.com/waterdripfund/status/1968904548271235433)
+- [@jslusser](https://x.com/jslusser/status/1966147006558253271)
+- [@jslusser](https://x.com/jslusser/status/1969069542480429358)
+- [@pdiomede](https://x.com/pdiomede/status/1966096680362606670)
+- [@BobBodily](https://x.com/BobBodily/status/1968702072762814655)
+- [@alexeiZamyatin](https://x.com/alexeiZamyatin/status/1950566977111527628)
+- [@certikalert](https://x.com/certikalert/status/1965526550188839156)
+- [@Tony_LucidFi](https://x.com/Tony_LucidFi/status/1960355913421791714)
+- [@Tony_LucidFi](https://x.com/Tony_LucidFi/status/1931664971751899499)
+- [@KuanSun1990](https://x.com/KuanSun1990/status/1965010136231227413)
+- [@JPThor](https://archive.ph/KU1JE)
+- [@JPThor](https://archive.ph/2WZZN)
+- [@JPThor](https://archive.ph/LEXFZ)
+- [@JPThor](https://archive.ph/msP8C)
+- [@JPThor](https://archive.ph/x7Wda)
+- [@JPThor](https://archive.ph/Wlmrm)
+- [@sat_eth](https://x.com/sat_eth/status/1960290703826706563)
+- [@nanditmehra](https://x.com/nanditmehra/status/1963187562450751852)
+- [@rleshner](https://x.com/rleshner/status/1962306656898814459)
+- [@gunotch](https://x.com/gunotch/status/1960630285860790511)
+- [@Minernote](https://x.com/Minernote/status/1960602099215163594)
+- [@reubs_btc](https://x.com/reubs_btc/status/1958549919364796573)
+- [@nikki_sunset](https://x.com/nikki_sunset/status/1950574101124284501)
+- [@imlocha](https://x.com/imlocha/status/1961077243905446159)
+- [@nikki_sunset](https://x.com/nikki_sunset/status/1939669855935811668)
+- [@nikki_sunset](https://x.com/nikki_sunset/status/1967957774215811368)
+- [@linfluence](https://x.com/linfluence/status/1928111789180395720)
+- [@abhilashi](https://x.com/abhilashi/status/1943303718356890109)
+- [@MehdiFarooq2](https://x.com/MehdiFarooq2/status/1935502598221533185)
+- [@TheNFTJett](https://x.com/TheNFTJett/status/1937179596740558855)
+- [@lulu70191243](https://x.com/lulu70191243/status/1932885763823448243)
+- [@ahansjee](https://x.com/ahansjee/status/1932674446520639645)
+- [@brutoshi_](https://x.com/brutoshi_/status/1927280934035820954)
+- [@tominweb3](https://x.com/tominweb3/status/1925117936362217569)
+- [@Jerryshixd](https://x.com/Jerryshixd/status/1919518416618070369)
+- [@KevGCallahan](https://x.com/KevGCallahan/status/1920496656895590638)
+- [@cecilia_hsueh](https://x.com/cecilia_hsueh/status/1920071137247011076)
+- [@0xGeezee](https://x.com/0xGeezee/status/1932369015852421281)
+- [@0xGeezee](https://x.com/0xGeezee/status/1932720928431223083)
+- [@Lingersj](https://x.com/Lingersj/status/1935170820164436083)
+- [@bax1337](https://x.com/bax1337/status/1899471318178771129)
+- [@scallop_io](https://x.com/scallop_io/status/1918598263625932885)
+- [@ChrisEryx](https://x.com/ChrisEryx/status/1918567088618389862)
+- [@_ventali](https://x.com/_ventali/status/1920907192284442989)
+- [@0xsudogm](https://x.com/0xsudogm/status/1920154261704577044)
+- [@austin_federa](https://x.com/austin_federa/status/1879878095110611201)
+- [@btman_jeff](https://x.com/btman_jeff/status/1877236287440322633)
+- [@GiulioXdotEth](https://x.com/GiulioXdotEth/status/1899704410416230556)
+- [@imprfekt](https://x.com/imprfekt/status/1877405509038244020)
+- [@imprfekt](https://x.com/imprfekt/status/1877666722800422998)
+- [@dazhengzhang](https://x.com/dazhengzhang/status/1899776299725680975)
+- [@cosmonaut_joon](https://x.com/cosmonaut_joon/status/1879435681547858086)
+
+
+
+---
+
 ![](./2025-12-11_Fake-CryptooIndia-01.jpeg)
 ![](./2025-12-11_Fake-CryptooIndia-02.jpeg)
+- [@NamasteWeb3](https://x.com/NamasteWeb3/status/1999116115688263899)
+- [@CryptooAdy](https://x.com/CryptooAdy/status/1999035783504883777)
 - [2025-12-11_Fake-CryptooIndia-01.jpeg](./2025-12-11_Fake-CryptooIndia-01.jpeg)
 - [2025-12-11_Fake-CryptooIndia-02.jpeg](./2025-12-11_Fake-CryptooIndia-02.jpeg)
 
@@ -16,10 +95,18 @@
 - [2025-12-09_Fake-Aptos_03](./2025-12-09_Fake-Aptos_03.jpeg)
 
 ![](./2025-12-03_Fake-Brandon.jpeg)
+- [@manuferraritano](https://x.com/manuferraritano/status/1996359546365698189)
+- [@brandonturp](https://x.com/brandonturp/status/1996362194414653865)
 - [2025-12-03_Fake-Brandon.jpeg](./2025-12-03_Fake-Brandon.jpeg)
 
 ![](./2025-12-03_ua02webzoom-us.jpeg)
+- [@HumanLevelJen](https://x.com/HumanLevelJen/status/1996460579192820095)
 - [2025-12-03_ua02webzoom-us.jpeg](./2025-12-03_ua02webzoom-us.jpeg)
+
+![](./2025-12-01_Fake-Teams.jpg)
+- https://www.linkedin.com/posts/david-g-n_security-warning-social-engineering-attack-ugcPost-7396183924281966592-Xzdt/
+- [2025-12-01_Fake-Teams](./2025-12-01_Fake-Teams.jpg)
+
 
 ![](./2025-12-01_Fake-AsILayHolding.jpeg)
 - [2025-12-01_Fake-AsILayHolding.jpeg](./2025-12-01_Fake-AsILayHolding.jpeg)
@@ -47,6 +134,10 @@
 ![](./2025-11-11_Fake-BoYeon_02.jpeg)
 ![](./2025-11-11_Fake-BoYeon_03.jpeg)
 ![](./2025-11-11_Fake-BoYeon_04.jpeg)
+- [@0xBoyeon](https://x.com/0xBoyeon/status/1989273180951965891)
+- [@0xBoyeon](https://x.com/0xBoyeon/status/1988260561759727833)
+- [@0xBoyeon](https://x.com/0xBoyeon/status/1989273192264085875)
+- [@Katalyster](https://x.com/Katalyster/status/1996601758848544783)
 - [2025-11-11_Fake-BoYeon_01.jpeg](./2025-11-11_Fake-BoYeon_01.jpeg)
 - [2025-11-11_Fake-BoYeon_02.jpeg](./2025-11-11_Fake-BoYeon_02.jpeg)
 - [2025-11-11_Fake-BoYeon_03.jpeg](./2025-11-11_Fake-BoYeon_03.jpeg)
@@ -92,16 +183,26 @@
 
 ![](./2025-11-19_Fake-Sebastjans_01.png)
 ![](./2025-11-19_Fake-Sebastjans_02.jpeg)
+- [@Goodthings](https://x.com/Goodthings/status/1991194960289313160)
+- [@CoubyPlayz](https://x.com/CoubyPlayz/status/1991525348614308171)
 - [2025-11-19_Fake-Sebastjans_01](./2025-11-19_Fake-Sebastjans_01.png)
 - [2025-11-19_Fake-Sebastjans_02](./2025-11-19_Fake-Sebastjans_02.jpeg)
 
 ![](./2025-11-05_Fake-Kaia.jpeg)
-- [@0xzergs](https://x.com/0xzergs/status/1986089997875781638)
-- [2025-11-05_Fake-Kaia](./2025-11-05_Fake-Kaia.jpeg)
-
 ![](./2025-11-04_Fake-Kaia.jpeg)
--[@GuyPolio](https://x.com/GuyPolio/status/1986114788179558403)
+![](./2025-09-08_SQ_Fake-Kaia.png)
+- [@0xzergs](https://x.com/0xzergs/status/1986089997875781638)
+- [@GuyPolio](https://x.com/GuyPolio/status/1986114788179558403)
+- [@skilllevel7](https://x.com/skilllevel7/status/1964937282328096921)
+- [@MulDdaeCrypto](https://x.com/MulDdaeCrypto/status/1986230015558885753)
+- [2025-11-05_Fake-Kaia](./2025-11-05_Fake-Kaia.jpeg)
 - [2025-11-04_Fake-Kaia](./2025-11-04_Fake-Kaia.jpeg)
+- [2025-09-08_SQ_Fake-Kaia](./2025-09-08_SQ_Fake-Kaia.png)
+
+
+![](./2025-11-10_Fake-Institutional-Investor.jpeg)
+- [@ivanmiskovic](https://x.com/ivanmiskovic/status/1987895284580409515)
+- [2025-11-10_Fake-Institutional-Investor](./2025-11-10_Fake-Institutional-Investor.jpeg)
 
 ![](./2025-09-07_Fake-Miki-Julie.jpeg)
 - [2025-09-07_Fake-Miki-Julie.jpeg](./2025-09-07_Fake-Miki-Julie.jpeg)
@@ -112,9 +213,6 @@
 ![](./2025-10-21_Fake-Jennifer-01.jpeg)
 - [2025-10-21_Fake-Jennifer-01.jpeg](./2025-10-21_Fake-Jennifer-01.jpeg)
 
-![](./2025-09-08_SQ_Fake-Kaia.png)
-- [@skilllevel7](https://x.com/skilllevel7/status/1964937282328096921)
-- [2025-09-08_SQ_Fake-Kaia](./2025-09-08_SQ_Fake-Kaia.png)
 
 ---
 
@@ -156,6 +254,12 @@
 ![](./2025-07-21_Fake-Luca_11.png)
 ![](./2025-07-21_Fake-Luca_12.png)
 ![](./2025-07-21_Fake-Luca_13.png)
+![](./2025-08-07_Fake-Luca.jpeg)
+- [@LucaMossini](https://x.com/LucaMossini/status/1930257505273229668)
+- [@csoriano](https://x.com/csoriano/status/1948790581003440301)
+- [@LucaMossini](https://x.com/LucaMossini/status/1948688399516532944)
+- [@JuanSamitier](https://x.com/JuanSamitier/status/1947587229678985391)
+- [@tldr_x](https://x.com/tldr_x/status/1953492431292244148)
 - [2025-07-25_SQ_Fake-Luca](./2025-07-25_SQ_Fake-Luca.jpeg)
 - [2025-07-21_Fake-Luca_01](./2025-07-21_Fake-Luca_01.png)
 - [2025-07-21_Fake-Luca_02](./2025-07-21_Fake-Luca_02.png)
@@ -166,6 +270,7 @@
 - [2025-07-21_Fake-Luca_11](./2025-07-21_Fake-Luca_11.png)
 - [2025-07-21_Fake-Luca_12](./2025-07-21_Fake-Luca_12.png)
 - [2025-07-21_Fake-Luca_13](./2025-07-21_Fake-Luca_13.png)
+- [2025-08-07_Fake-Luca](./2025-08-07_Fake-Luca.jpeg)
 
 ---
 
@@ -353,7 +458,7 @@
 - [2023-08-01_SQ_Fake-Spirit_01](./2023-08-01_SQ_Fake-Spirit_01.png)
 - [2023-08-01_SQ_Fake-Spirit_02](./2023-08-01_SQ_Fake-Spirit_02.png)
 
-## 🔑 2023 - Fake Hashkey 
+## 🔑 2023 - Fake Hashkey
 
 - August–November 2023
 
