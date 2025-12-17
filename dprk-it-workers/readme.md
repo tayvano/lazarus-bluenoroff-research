@@ -3696,7 +3696,88 @@ Chiko Nakamura
 
 - 0x55154f106ec645cf2c7615fe60dc2962c615b9d6
 
+---
 
+
+# m8s-lab / MutantRolls / HyperbuildX
+
+
+## 0xopsdev
+
+- https://x.com/blackbigswan/status/1938218894499426375
+
+- https://x.com/KawaiiJongUwUn/status/2001051730427953511
+
+- https://x.com/sleep___token/status/1996631309477929306
+
+- https://www.ketman.org/dprk-it-workers-github-organizations.html
+
+- https://etherscan.io/token/0x634e6cd45c38f84c5f362609e821d4b18612e9a2?a=0x7473a47da05403313789c43464608552402a888e
+
+
+- x.com/0xMuse9
+- x.com/0xnightfly github.com/0xnightfly
+- x.com/0xopsdev github.com/0xopsdev 
+- x.com/akratos_god github.com/kratos-te 
+- x.com/d0sc4u
+- x.com/EleazarTlapala
+- x.com/norocos_cp
+- x.com/soladify github.com/soladify 
+- x.com/SvenDotDev
+
+
+### microgift88 / krippsat
+- microgift88
+- percy.smith0208@gmail.com
+- yeniguy28@gmail.com
+- microgift28@gmail.com
+- x.com/microgift88
+- t.me/microgift88 (ID: 7928438223)
+- github.com/microgift
+- microgift.dev
+- Karol Czerwiński, Polish impersonator/facilitator
+- Lives (allegedly) in the coffee shop at: Gliwicka 95, Katowice, Silesian, 40-855, PL
+
+
+### akratos_god
+- akratos_god
+- kratos-te
+- x.com/akratos_god
+- github.com/kratos-te
+- department.c0809@gmail.com
+- michaelgordon.kratos@gmail.com
+- nightfurry090@gmail.com
+- degenpigg
+- miclegoden
+- LOVES to leak the private code which earned him a DMCA takedown on Github
+
+### hexnome
+- OuraKano
+- x.com/hexnome
+- hexnome88@gmail.com
+- kevinsmartinez0412@gamil.com
+- t.me/Ee1030109 (ID: 7147733300) • [Messages](./user-7147733300-@Ee1030109.txt)
+- github.com/hexnome 
+
+
+### chain_sats
+- leionion
+- chain_sats
+- x.com/chain_sats
+- j.ohnceballos0716@gmail.com
+- "Tarrance" Tuson
+- github.com/leionion 
+
+
+### shinytechapes
+- shinytechapes
+- shinyapes
+- x.com/shinytechapes
+- github.com/shinyapes
+- dillonmarszalek@gmail.com
+- DillonGru28
+- https://github.com/novustechllc
+- mirakulizicc@gmail.com: Novus Tech LLC
 
 
 
