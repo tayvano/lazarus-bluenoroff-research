@@ -77,7 +77,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-02-28 | [Founder/CEO of A6](./hacks-and-thefts/a6.md)                                                    | $410,000           |
 | 🔑 | 2025-02-28 | [Fantom Reuse Address](./hacks-and-thefts/fantom_reuse_address.md)                               | $3,200,000         |
 | 🔑 | 2025-03-07 | [Founder/CEO of B3](./hacks-and-thefts/b3.md)                                                    | $3,186,200         |
-| 🔑 | 2025-03-14 | [Huge March 2025 Theft](./hacks-and-thefts/huge_march_2025_theft.md)                             | $171,000,000       |
+| 🔑 | 2025-03-14 | [Huge March 2025 Theft](./hacks-and-thefts/huge_march_2025_theft-1900-btc.md)                    | $171,000,000       |
 | 🔑 | 2025-03-21 | [Zoth](./hacks-and-thefts/zoth.md)                                                               | $8,361,915         |
 | 🎙️ | 2025-04-14 | [Atlos](./hacks-and-thefts/atlos.md)                                                             | $10,000            |
 | 🎙️ | 2025-04-23 | [Oxya Admin Key Mint](./hacks-and-thefts/oxya.md)                                                | $45,221            |
@@ -393,7 +393,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-02-28    | [Fantom Reuse Address](./hacks-and-thefts/fantom_reuse_address.md)                 | $3,200,000       | 
 | 🔑 | 2025-02-28    | [Founder/CEO of A6](./hacks-and-thefts/a6.md)                                      | $410,000         | 
 | 🔑 | 2025-03-07    | [Founder/CEO of B3](./hacks-and-thefts/b3.md)                                      | $3,186,200       | 
-| 🔑 | 2025-03-14    | [Huge March 2025 Theft](./hacks-and-thefts/huge_march_2025_theft.md)               | $171,000,000     | 
+| 🔑 | 2025-03-14    | [Huge March 2025 Theft](./hacks-and-thefts/huge_march_2025_theft-1900-btc.md)      | $171,000,000     | 
 | 🔑 | 2025-03-21    | [Zoth](./hacks-and-thefts/zoth.md)                                                 | $8,361,915       | 
 | 🔑 | 2025-04-23    | [April 2025 Theft](./hacks-and-thefts/2025-apr.md)                                 | $525,000         | 
 | 🔑 | 2025-05-16    | [Unknown JUP Holder](./hacks-and-thefts/jup-holder.md)                             | $3,360,880       | 
