@@ -47,9 +47,9 @@
 # Clusters
 
 
-## 🔑 SquidSquad - Fake VC Shit - DangerousPassword / Sapphire Sleet / Alluring Pisces
+## 🔑 SquidSquad - Fake VC Shit - Sapphire Sleet / APT38
 
-- aka: CryptoCore, APT38, Bluenoroff, Leery Turtle, SnatchCrypto, CryptoMimic, UNC1069, Black Alicanto, CageyChameleon
+- CryptoCore, APT38, Bluenoroff, Alluring Pisces, Leery Turtle, SnatchCrypto, CryptoMimic, UNC1069, Black Alicanto, CageyChameleon
 - VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript, malicious PDFs, "Fast changes to stablecoin risk.pdf"
 - Tornado Cash, eXch, Noones, Paxful, Instaswappers, Renbridge, Chipmixer, Dust Collectors!
 - Express VPN, occasional leak Ryugyong-dong IPs
@@ -201,7 +201,8 @@
 
 ## 🎙️ Contagious Interview
 
-- "Willo" Job Campaigns, Bybit assessment, trevorgreer, Beavertail / Invisible Ferret
+- UNC5342, BEAVERTAIL, INVISIBLEFERRET, OTTERCOOKIE, 
+- "Willo" Job Campaigns, Bybit assessment, trevorgreer
 - New onchain cluster / laundry patterns first observed early 2023, fully baked out by late 2023
 - On-chain they certainly Dust Collect like Hugh Karp / EasyFi / etc. and they certainly love to compromise private keys and pivot to taking over protocols but most everything else is different.
 - UnoReDAO, OKX Dex, ConcentricFi, Serenity Shield, Wilder World, Hyve, on and on and on and on and on. Also the Upwork/Braintrust/Linkedin Job Scams. Flickthebean, etc.
@@ -275,7 +276,9 @@
 ---
 
 
-## Andariel / APT45 / Onyx Sleet / UNC614 / Jumpy Pisces
+## Andariel / APT45 / Onyx Sleet
+
+- aka: UNC614, Jumpy Pisces, UNC4131, UNC4369
 - This group has primarily conducted cyberespionage, but it has also conducted ransomware activity.
 - Known for its broader scope of operations, Andariel targets both government and private sector entities, including financial services and cryptocurrency companies.
 - Their methods include exploiting vulnerabilities in widely used software, such as the Log4j vulnerability, to deploy bespoke malware and gain unauthorized access to sensitive systems
@@ -294,7 +297,7 @@
 
 ## TEMP.Hermit / Diamond Sleet / UNC2970
 
-- aka: UNC2970, Selective Pisces, ZINC, Labyrinth Chollima
+- aka: UNC2970, Selective Pisces, ZINC, Labyrinth Chollima, UNC1758, UNC4034, UNC577, UNC785, UNC786
 - This group has targeted media, defense and IT organizations
 - Prioritizes espionage, data theft, financial gain, and network destruction
 - Mandiant said the threat cluster shares "multiple overlaps" with a long-running operation dubbed "Dream Job" that employs job recruitment lures in email messages to trigger the infection sequence.
@@ -333,8 +336,8 @@
 - https://finbold.com/lazarus-hackers-target-macos-users-luring-them-with-crypto-dream-job-offers/
 
 
-## APT37
-- Group123, InkySquid, Moldy Pisces, Operation Daybreak, Operation Erebus, Reaper, Reaper Group, Red Eyes, Ricochet Chollima, ScarCruft, Venus 121
+## APT37, ScarCruft
+- Group123, InkySquid, Moldy Pisces, Operation Daybreak, Operation Erebus, TEMP.Reaper, Reaper, Reaper Group, Red Eyes, Ricochet Chollima, Venus 121
 - APT37 has likely been active since at least 2012 and focuses on targeting the public and private sectors primarily in South Korea. In 2017, APT37 expanded its targeting beyond the Korean peninsula to include Japan, Vietnam and the Middle East, and to a wider range of industry verticals, including chemicals, electronics, manufacturing, aerospace, automotive and healthcare entities
 - APT37's assessed primary mission is covert intelligence gathering in support of DPRK's strategic military, political, and economic interests. The group has been observed targeting a wide range of industries, primarily in South Korea. This organization is most closely aligned with the efforts of the MSS and its overarching cyber activities highlight the monitoring of defectors abroad and foreign elements interacting with DPRK.
 - Primary targeting: Defectors, Governments
@@ -380,8 +383,8 @@
 
 ## APT43 / Emerald Sleet / Kimsuky
 
-- aka: THALLIUM
--  This group conducts intelligence collection and has used cybercrime to fund espionage.
+- Kimsuky, THALLIUM, Sparkling Pisces, Emerald Sleet, UNC1873, UNC1130, UNC3782, UNC4469
+- This group conducts intelligence collection and has used cybercrime to fund espionage.
 - APT43 is a prolific cyber operator that directly supports intelligence gathering interests of the North Korean regime. The group combines moderately sophisticated technical capabilities with aggressive social engineering tactics, especially against South Korean and US-based government organizations, academics, and think tanks focused on Korean peninsula geopolitical issues. 
 - This organization acts as an intelligence arm and seeming embassy replacement for the RGB and DPRK leadership writ large.
 - Primary targeting: Governments, Nuclear, Foreign Relations
@@ -409,7 +412,10 @@
 - https://asec.ahnlab.com/ko/58231/
 - https://bleepingcomputer.com/news/security/us-govt-sanctions-north-koreas-kimsuky-hacking-group/
 - https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html
-
+- https://services.google.com/fh/files/misc/apt43-report-en.pdf
+- https://www.microsoft.com/en-us/security/security-insider/intelligence-reports/digital-threats-from-east-asia-increase-in-breadth-and-effectiveness
+- https://thehackernews.com/2024/03/n-korea-linked-kimsuky-shifts-to.html
+- https://blogs.microsoft.com/on-the-issues/2019/12/30/microsoft-court-action-against-nation-state-cybercrime/
 
 
 ## Hybrid Operations & UNC2226
