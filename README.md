@@ -87,7 +87,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-03-21 | [Zoth](./hacks-and-thefts/zoth.md)                                                               | $8,361,915         |
 | 🎙️ | 2025-04-14 | [Atlos](./hacks-and-thefts/atlos.md)                                                             | $10,000            |
 | 🎙️ | 2025-04-23 | [Oxya Admin Key Mint](./hacks-and-thefts/oxya.md)                                                | $45,221            |
-| 🔑 | 2025-04-23 | [April 2025 Theft](./hacks-and-thefts/2025-apr.md)                                               | $525,000           |
+| 🔑 | 2025-04-23 | [April 2025 Theft](./hacks-and-thefts/2025-04-23_unknown.md)                                     | $525,000           |
 | 🎙️ | 2025-04-25 | [Malicious Du-store Repo](./hacks-and-thefts/du-store.md)                                        | $217,190           |
 | 🎙️ | 2025-04-29 | [Malicious BbaudConferenceDV Repo](./hacks-and-thefts/bbaudconference.md)                        | $7,919             |
 | 💼 | 2025-05-08 | [LND FI](./hacks-and-thefts/lndfi.md)                                                            | $500,000           |
@@ -98,25 +98,25 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-05-24 | [TAO Founder](./hacks-and-thefts/tao-founder.md)                                                 | $5,116,358         |
 | 🎙️ | 2025-06-03 | [SpaceM](./hacks-and-thefts/spacem.md)                                                           | $187,090           |
 | 🔑 | 2025-06-12 | [Medhi](./hacks-and-thefts/mehdi.md)                                                             | $230,000           |
-| 🔑 | 2025-06-12 | [June 12 2025 Theft](./hacks-and-thefts/2025-jun-12.md)                                          | $330,388           |
+| 🔑 | 2025-06-12 | [June 12 2025 Theft](./hacks-and-thefts/2025-06-12_unknown.md)                                   | $330,388           |
 | 🔑 | 2025-06-14 | [Clober](./hacks-and-thefts/clober.md)                                                           | $1,391,963         |
 | 💼 | 2025-06-18 | [Chainsaw](./hacks-and-thefts/chainsaw.md)                                                       | $350,000           |
 | 💼 | 2025-06-19 | [Bunzz](./hacks-and-thefts/bunzz.md)                                                             | $5,500             |
-| 🔑 | 2025-06-21 | [June 21 2025 Theft](./hacks-and-thefts/2025-jun-21.md)                                          | $54,000            |
+| 🔑 | 2025-06-21 | [June 21 2025 Theft](./hacks-and-thefts/2025-06-21_viking.md)                                    | $54,000            |
 | 🎙️ | 2025-06-22 | [Hacken HAI Token Mint](./hacks-and-thefts/hacken.md)                                            | $267,000           |
 | 🔑 | 2025-06-22 | [Sololabs](./hacks-and-thefts/sololabs.md)                                                       | $963,000           |
 | 💼 | 2025-06-25 | [Favrr](./hacks-and-thefts/favrr.md)                                                             | $650,000           |
-| 🔑 | 2025-06-26 | [June 26 2025 Theft](./hacks-and-thefts/2025-jun-26.md)                                          | $1,316,809         |
+| 🔑 | 2025-06-26 | [June 26 2025 Theft](./hacks-and-thefts/2025-06-26_unknown.md)                                   | $1,316,809         |
 | 🎙️ | 2025-06-27 | [Noya AI](./hacks-and-thefts/noya-ai.md)                                                         | $236,000           |
 | ❓ | 2025-06-29 | [VALR API Key Trade Extraction](./hacks-and-thefts/valr.md)                                      | $100,000           |
-| 🔑 | 2025-06-30 | [June 30 2025 Theft](./hacks-and-thefts/2025-jun-30.md)                                          | $1,277,499         |
+| 🔑 | 2025-06-30 | [June 30 2025 Theft](./hacks-and-thefts/2025-06-30_swarm.md)                                     | $1,277,499         |
 | 🔑 | 2025-07-04 | [Individual DD](./hacks-and-thefts/dd.md)                                                        | $544,086           |
 | 🎙️ | 2025-07-10 | [Malicious Store-V Repo](./hacks-and-thefts/store-v.md)                                          | $44,000            |
 | 👛 | 2025-07-15 | [BigONE](./hacks-and-thefts/bigone.md)                                                           | $27,000,000        |
 | 🎙️ | 2025-07-17 | [Open Fabric](./hacks-and-thefts/openfabric.md)                                                  | $241,000           |
 | 🎙️ | 2025-07-23 | [Malicious Blackbaud Moon Monkey Repo](./hacks-and-thefts/blackbaud.md)                          | $120,000           |
 | 👛 | 2025-07-24 | [WOO X](./hacks-and-thefts/woox.md)                                                              | $14,038,066        |
-| 🔑 | 2025-08-06 | [Aug 2025 Theft from Individual](./hacks-and-thefts/2025-aug-06.md)                              | $2,738,690         |
+| 🔑 | 2025-08-06 | [Aug 2025 Theft from Individual](./hacks-and-thefts/2025-08-06_fake-gumi.md)                     | $2,738,690         |
 | 🔑 | 2025-08-08 | [Newfuture](./hacks-and-thefts/newfuture.md)                                                     | $100,000           |
 | 🎙️ | 2025-08-11 | [Unknown Canadian Victim](./hacks-and-thefts/canada-theft.md)                                    | $250,000           |
 | 🔑 | 2025-08-13 | [Rena](./hacks-and-thefts/rena.md)                                                               | $405,938           |
@@ -129,9 +129,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-09 | [JP Thor](./hacks-and-thefts/jpthor.md)                                                          | $2,435,000         |
 | ❓ | 2025-09-10 | [Request / Singularity](./hacks-and-thefts/request-singularity.md)                               | $3,000,000         |
 | 💼 | 2025-09-11 | [Shibarium](./hacks-and-thefts/shibarium.md)                                                     | $2,000,000         |
-| 🔑 | 2025-09-12 | [Sep 12 Theft](./hacks-and-thefts/2025-sep-12.md)                                                | $1,137,772         |
+| 🔑 | 2025-09-12 | [Sep 12 Theft](./hacks-and-thefts/2025-09-12_unknown.md)                                         | $1,137,772         |
 | 🔑 | 2025-09-19 | [Ross Gates](./hacks-and-thefts/rossgates.md)                                                    | $150,000           |
-| 🔑 | 2025-09-19 | [Sep 19 Theft](./hacks-and-thefts/2025-sep-19.md)                                                | $160,000           |
+| 🔑 | 2025-09-19 | [Sep 19 Theft](./hacks-and-thefts/2025-09-19_fake-micah.md)                                      | $160,000           |
 | 🔑 | 2025-09-22 | [UXLINK](./hacks-and-thefts/uxlink.md)                                                           | $44,112,708        |
 | 🎙️ | 2025-09-23 | [Seedify](./hacks-and-thefts/seedify.md)                                                         | $1,700,000         |
 | ❓ | 2025-09-24 | [SBI Crypto Mining](./hacks-and-thefts/sbi-crypto.md)                                            | $20,283,197        |
@@ -206,7 +206,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2024-12-05 | [Fake UltraX Dex Job Scam](./hacks-and-thefts/ultrax-dex.md)                                     | $110,000           |
 | 🔑 | 2024-12-11 | [Founder/CEO of O6](./hacks-and-thefts/o6.md)                                                    | $500,000           |
 | 🎙️ | 2024-12-12 | [Willo Campaign](./hacks-and-thefts/willo.md)                                                    | $64,020            |
-| 🔑 | 2024-12-16 | [Uknown Dec 2024 Theft](./hacks-and-thefts/2024-dec-unknown.md)                                  | $1,000,000         |
+| 🔑 | 2024-12-16 | [Uknown Dec 2024 Theft](./hacks-and-thefts/2024-12-16_unknown.md)                                | $1,000,000         |
 | 🔑 | 2024-12-16 | [SyFu](./hacks-and-thefts/syfu.md)                                                               | $1,936,593         |
 | 🔑 | 2024-12-17 | [Zigcoin](./hacks-and-thefts/zigcoin.md)                                                         | $400,000           |
 | 🔑 | 2024-12-18 | [Rainfi](./hacks-and-thefts/rainfi.md)                                                           | $2,009,331         |
@@ -410,21 +410,21 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-03-07    | [Founder/CEO of B3](./hacks-and-thefts/b3.md)                                      | $3,186,200       | 
 | 🔑 | 2025-03-14    | [Huge March 2025 Theft](./hacks-and-thefts/huge_march_2025_theft-1900-btc.md)      | $171,000,000     | 
 | 🔑 | 2025-03-21    | [Zoth](./hacks-and-thefts/zoth.md)                                                 | $8,361,915       | 
-| 🔑 | 2025-04-23    | [April 2025 Theft](./hacks-and-thefts/2025-apr.md)                                 | $525,000         | 
+| 🔑 | 2025-04-23    | [April 2025 Theft](./hacks-and-thefts/2025-04-23_unknown.md)                       | $525,000         | 
 | 🔑 | 2025-05-16    | [Unknown JUP Holder](./hacks-and-thefts/jup-holder.md)                             | $3,360,880       | 
 | 🔑 | 2025-05-19    | [MarketAcross](./hacks-and-thefts/marketacross.md)                                 | $560,000         | 
 | 🔑 | 2025-05-20    | [Individual M6](./hacks-and-thefts/m6.md)                                          | $1,200,000       | 
 | 🔑 | 2025-05-24    | [TAO Founder](./hacks-and-thefts/tao-founder.md)                                   | $5,116,358       | 
-| 🔑 | 2025-06-12    | [June 12 2025 Theft](./hacks-and-thefts/2025-jun-12.md)                            | $330,388         | 
+| 🔑 | 2025-06-12    | [June 12 2025 Theft](./hacks-and-thefts/2025-06-12_unknown.md)                     | $330,388         | 
 | 🔑 | 2025-06-12    | [Medhi](./hacks-and-thefts/mehdi.md)                                               | $230,000         | 
 | 🔑 | 2025-06-14    | [Clober](./hacks-and-thefts/clober.md)                                             | $1,391,963       | 
-| 🔑 | 2025-06-21    | [June 21 2025 Theft](./hacks-and-thefts/2025-jun-21.md)                            | $54,000          | 
+| 🔑 | 2025-06-21    | [June 21 2025 Theft](./hacks-and-thefts/2025-06-21_viking.md)                      | $54,000          | 
 | 🔑 | 2025-06-22    | [Sololabs](./hacks-and-thefts/sololabs.md)                                         | $963,000         | 
-| 🔑 | 2025-06-26    | [June 26 2025 Theft](./hacks-and-thefts/2025-jun-26.md)                            | $1,316,809       | 
+| 🔑 | 2025-06-26    | [June 26 2025 Theft](./hacks-and-thefts/2025-06-26_unknown.md)                     | $1,316,809       | 
 | ❓ | 2025-06-29    | [VALR API Key Trade Extraction](./hacks-and-thefts/valr.md)                        | $100,000         | 
-| 🔑 | 2025-06-30    | [June 30 2025 Theft](./hacks-and-thefts/2025-jun-30.md)                            | $1,277,499       | 
+| 🔑 | 2025-06-30    | [June 30 2025 Theft](./hacks-and-thefts/2025-06-30_swarm.md)                       | $1,277,499       | 
 | 🔑 | 2025-07-04    | [Individual DD](./hacks-and-thefts/dd.md)                                          | $544,086         | 
-| 🔑 | 2025-08-06    | [Aug 2025 Theft from Individual](./hacks-and-thefts/2025-aug-06.md)                | $2,738,690       | 
+| 🔑 | 2025-08-06    | [Aug 2025 Theft from Individual](./hacks-and-thefts/2025-08-06_fake-gumi.md)       | $2,738,690       | 
 | 🔑 | 2025-08-08    | [Newfuture](./hacks-and-thefts/newfuture.md)                                       | $100,000         | 
 | 🔑 | 2025-08-13    | [Rena](./hacks-and-thefts/rena.md)                                                 | $405,938         | 
 | 🔑 | 2025-09-01    | [OlaXBT](./hacks-and-thefts/olaxbt.md)                                             | $2,206,525       | 
@@ -432,9 +432,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-06    | [Individual AN5](./hacks-and-thefts/an5.md)                                        | $420,000         | 
 | 🔑 | 2025-09-09    | [JP Thor](./hacks-and-thefts/jpthor.md)                                            | $2,435,000       | 
 | ❓ | 2025-09-10    | [Request / Singularity](./hacks-and-thefts/request-singularity.md)                 | $3,000,000       | 
-| 🔑 | 2025-09-12    | [Sep 12 Theft](./hacks-and-thefts/2025-sep-12.md)                                  | $1,137,772       | 
+| 🔑 | 2025-09-12    | [Sep 12 Theft](./hacks-and-thefts/2025-09-12_unknown.md)                           | $1,137,772       | 
 | 🔑 | 2025-09-19    | [Ross Gates](./hacks-and-thefts/rossgates.md)                                      | $150,000         | 
-| 🔑 | 2025-09-19    | [Sep 19 Theft](./hacks-and-thefts/2025-sep-19.md)                                  | $160,000         | 
+| 🔑 | 2025-09-19    | [Sep 19 Theft](./hacks-and-thefts/2025-09-19_fake-micah.md)                        | $160,000         | 
 | 🔑 | 2025-09-22    | [UXLINK](./hacks-and-thefts/uxlink.md)                                             | $44,112,708      | 
 | ❓ | 2025-09-24    | [SBI Crypto Mining](./hacks-and-thefts/sbi-crypto.md)                              | $20,283,197      | 
 | 🔑 | 2025-09-27    | [September 27 2025 Theft](./hacks-and-thefts/2025-09-27-unknown.md)                | $696,000         |
@@ -467,7 +467,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2024-11-29    | [MAK / Metacene](./hacks-and-thefts/metacene.md)                                   | $2,056,995       |
 | 🔑 | 2024-12-11    | [Founder/CEO of O6](./hacks-and-thefts/o6.md)                                      | $500,000         |
 | 🔑 | 2024-12-16    | [SyFu](./hacks-and-thefts/syfu.md)                                                 | $1,936,593       |
-| 🔑 | 2024-12-16    | [Uknown Dec 2024 Theft](./hacks-and-thefts/2024-dec-unknown.md)                    | $1,000,000       |
+| 🔑 | 2024-12-16    | [Uknown Dec 2024 Theft](./hacks-and-thefts/2024-12-16_unknown.md)                  | $1,000,000       |
 | 🔑 | 2024-12-17    | [Zigcoin](./hacks-and-thefts/zigcoin.md)                                           | $400,000         |
 | 🔑 | 2024-12-18    | [Rainfi](./hacks-and-thefts/rainfi.md)                                             | $2,009,331       |
 | 🔑 | 2024-12-30    | [Napier Founder](./hacks-and-thefts/napier.md)                                     | $500,000         |

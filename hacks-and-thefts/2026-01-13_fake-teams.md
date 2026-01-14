@@ -6,6 +6,8 @@ Time:: 08:14
 
 Amount Stolen:: $519,000
 
+Tags:: 🔑
+
 G:: 441109
 
 --
@@ -15,6 +17,8 @@ G:: 441109
 - https://teams.us07live[.]com/meet/8183945454?pwd=Yf5neSptAnbccMP7s1F60Ej5SI5spf
 
 - tg: dragonflyzc 5089739144
+
+- https://calendly.com/can-zhao/30min
 
 
 ## Onchain
