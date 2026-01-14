@@ -244,6 +244,8 @@ G:: 418940
 
 - 8F8qomdo9S5BXfQgtCNx32oxXEd4Esxax29cCjHjJHFG
 
+- 0x93a0649e62c7e3ae8f7eec14f6674aa6b554f904 - Tornado Cash Depo 2026-01-06
+
 
 
 ### Swapper Outputs
@@ -409,6 +411,21 @@ G:: 418940
 - 0xfd19488105bf3480e53c83f65c3ac7e713714702
 
 
+### Laundry 
+
+
+- 0x03d3a03fad6fc9fc7944dfd7544000a5480ac9ed - 2025-12-18
+- 0x69249f121804a9f46ed976a0451778f7ada42c7e - 2025-12-18
+- 0x0d7dd12449005e1700716324ad54e93386f58cb2 - 2025-12-18
+- 0x9d2fbcfb2fb8ff595c06a97f31179f8d06f974c9 - 2025-12-18
+- 0x89326aa36761323ec0374ca51d9c6930f71612d3 - 2025-12-18
+- 0xc348a8e55e34cfb9129eed2e24c6206e4b143459 - 2025-12-18
+- 0x772bea13d2e771538d7ea866e76c416b2c9ddba8 - 2025-12-18
+- 0xffba1b4ca98d1cd11901ecc36af109483a52bab7 - 2025-12-18
+- 0x946ade2bc03d1735ab4ed6b2e5634f857a268cb1 - 2025-12-18
+- 0x9a91114e8b800acaf573337a9f971ebf34e2e9f0 - 2025-12-18
+
+
 ### Victim
 
 - HicUrGzKNd3hoLadohkDTR6Q9prLmSR3tozB6tSB8NQX - Compromised
@@ -539,3 +556,9 @@ G:: 418940
 - BNyrVkK1PcoaNh6oPB6JNfGo4KVmyTffWVHrLR9NUbhw - Compromised
 - BV3BwgUGFsnbiTPE44LDvVi3UoFMh1g6u1i1duvLYFjV - Compromised
 - 2nE99H3e9gfbxKaGodnTwixMgZwgTtKg45aoCFwdEfJS - Compromised
+
+
+
+
+
+
