@@ -1,6 +1,6 @@
 # Huge March 2025 Theft - 1900 BTC
 
-Date:: March 14th, 2025
+Date:: 2025-03-14
 
 Amount Stolen:: $171,000,000 (1900 BTC)
 
@@ -57,6 +57,8 @@ Tags:: 🔑
 - 0x7b0cd0d83565adbb57585d0265b7d15d6d9f60cf - Overlaps with Zoth
 
 - 0x32995d057b8240bed55ba52ffa29e8232fe46ff0 - Dust (2025-09-11)
+
+- bc1qdj46aeq0zjqxg9hmrgh97a5add8e72p0em7f0t - 2026-01-13
 
 
 

@@ -42,13 +42,22 @@
 - 0xe8573455bdd31d1e2245bcc7ed64983818e0fcf6 - another nick franklin address
 
 
-- 0x4243b44ee77b1034dfe7bc80793dcad8d6e545e3 - Oct 2025 -> TC
-- 0xcfe7ed0f726c6c33cf1ec33fb6f55ead6f6b97e1 - Oct 2025 -> TC
-- 0x28e9bbb936b6b8b49f9e3e4abde51f2efd4728dc - Oct 2025 -> TC
-- 0x2eea6d738ea3370a86fce512506e09feaf3e9bc5 - Oct 2025 -> TC
-- 0xadd2aa59b187af5122e2e6685aee5c8e38258949 - Oct 2025 -> TC
-- 0x55dc9e72dda8ce07089702c08eda17d46dd2a82a - Oct 2025 -> TC
+- 0x4243b44ee77b1034dfe7bc80793dcad8d6e545e3 - Oct 2025 -> Tornado
+- 0xcfe7ed0f726c6c33cf1ec33fb6f55ead6f6b97e1 - Oct 2025 -> Tornado
+- 0x28e9bbb936b6b8b49f9e3e4abde51f2efd4728dc - Oct 2025 -> Tornado
+- 0x2eea6d738ea3370a86fce512506e09feaf3e9bc5 - Oct 2025 -> Tornado
+- 0xadd2aa59b187af5122e2e6685aee5c8e38258949 - Oct 2025 -> Tornado
+- 0x55dc9e72dda8ce07089702c08eda17d46dd2a82a - Oct 2025 -> Tornado
+- 0x3238727b3a6e68a0dcd8f2fabbc3914994651b67 - Oct 2025 -> Tornado
+- 0x7833a4aa651cc63beaad51b2d904f5b1a993b4f6 - Oct 2025 -> Tornado
+- 0xf37ee3f6a66f2a7c3421316a68f6e54233ae3a97 - Oct 2025 -> Tornado
+- 0x49e963f3e78fc52dd5743623d2477d39e2600072 - Oct 2025 -> Tornado
+- 0x8693a41eff8f3e42f8244ac9e16e22f999836332
+- 0x3238727b3a6e68a0dcd8f2fabbc3914994651b67
 
+- 0x3314e57a135fae18e9ff63d918e2e93d75a39c6c - Dec 2025
+- 0x18debf33d2ac2f4633e68383696f8a4f955aa48a - Dec 2025
+- 0xbbd93b1cb7a397d5e9cdd8232c06f46df5091398 - Dec 2025
 
 
 # AQUA
@@ -78,14 +87,19 @@ Also associated with:
 - 0xD1Fb55d61c2494ced556536F898D969e2F6Dd2Bf - AQUA TOKEN
 - 0xDc33eAA50B8707f791478Cec324e451E20FDa7ed - AQUA POOL
 
-- 0x2eea6d738ea3370a86fce512506e09feaf3e9bc5 - AQUA
-- 0xf37ee3f6a66f2a7c3421316a68f6e54233ae3a97 - AQUA
-- 0xe0957fe67057c37e09510770041a305723aec037 - AQUA
-- 0xe8b7c14b88da46e92a679b4408c7118625aa6984 - AQUA
-- 0xd1a200fd296a752c52ecd0782dc2d709d66c2188 - AQUA
-- 0x6d7d7a40a8a0ba4b93048e11f1f4ee15d2fd6ded - AQUA
-- 0x5F46259b980e6921656E8dCB46EF9281A401ed69 - AQUA
-
+- 0x2eea6d738ea3370a86fce512506e09feaf3e9bc5 - Aqua Stolen-ish Funds
+- 0xf37ee3f6a66f2a7c3421316a68f6e54233ae3a97 - Aqua Stolen-ish Funds
+- 0xe0957fe67057c37e09510770041a305723aec037 - Aqua Stolen-ish Funds
+- 0xe8b7c14b88da46e92a679b4408c7118625aa6984 - Aqua Stolen-ish Funds
+- 0xd1a200fd296a752c52ecd0782dc2d709d66c2188 - Aqua Stolen-ish Funds
+- 0x6d7d7a40a8a0ba4b93048e11f1f4ee15d2fd6ded - Aqua Stolen-ish Funds
+- 0x5F46259b980e6921656E8dCB46EF9281A401ed69 - Aqua Stolen-ish Funds
+- 0x474a4e82a3665bfbae02abebda99bbda1c0a5245 - Aqua Stolen-ish Funds
+- 0x0b8639d6d68e382294702583781b1591c1f2be58 - Aqua Stolen-ish Funds
+- 0x8d848fd62aff491db26459ea768ac7a1cfcc8dfa - Aqua Stolen-ish Funds
+- 0x941bcf42fc565fe22b76b38fa3c8ba263317d477 - Aqua Stolen-ish Funds
+- 0x5f4af53f074fdcd93696f11c3b14cde223db91ab - Aqua Stolen-ish Funds
+- B2oQk9zVKyGpBZi7fxX77V6ZajKQrFpMQX6c8LRDis13 - Aqua Stolen-ish Funds
 
 ## Connections on TG 
 

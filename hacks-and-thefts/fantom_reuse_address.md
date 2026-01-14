@@ -103,6 +103,16 @@ I don't know.
 
 - buys pepe lol wat
 
+- fast forward 2026
+
+- 0x7cc8ef645c698af7c9a49d76d13a2ff441005d6d
+
+- 0xcf772d4fcf80c2b0e63308cf30ec0358ca73ba04 2025-12-14
+
+- 0xdf2c7fb5a7c62389f4b082c9916b3fc18fff7e9a 2025-12-15
+
+- 0x558db42c9384db6415e2015e3c40794cfbb7a28e 2025-01-05
+
 
 
 

@@ -1,6 +1,6 @@
 # New Future Theft
 
-Date:: August 8th, 2025
+Date:: 2025-08-08
 
 Time:: 12:55
 
@@ -40,19 +40,23 @@ G:: 382627
 
 - 0xe140fA14b320B6fc84405f8e633BD9877cEAeC58 - Theft
 
-- 0xc26d23530097b4bbd43b71bb75167d29a4c1408e - ChangeNOW Depo
+- 0xc26d23530097b4bbd43b71bb75167d29a4c1408e - ChangeNOW Depo 2025-08-08
 
-- 0xf23da39dcfda909600df1e15cdea9494e0dd855c - ChangeNOW Depo
+- 0xf23da39dcfda909600df1e15cdea9494e0dd855c - ChangeNOW Depo 2025-08-08
 
-- 0xf1cc9efc1d6aae05babe6b1a328f3484fadfe724 - ChangeNOW Depo
+- 0xf1cc9efc1d6aae05babe6b1a328f3484fadfe724 - ChangeNOW Depo 2025-08-08
 
-- 0xf1d61251973d76ad54c8bc3c668b02806eba757f - ChangeNOW Depo
+- 0xf1d61251973d76ad54c8bc3c668b02806eba757f - ChangeNOW Depo 2025-08-08
 
-- 0xb360b34070ba5afada9bb763839cf91d8e4027e6 - ChangeNOW Depo
+- 0xb360b34070ba5afada9bb763839cf91d8e4027e6 - ChangeNOW Depo 2025-08-08
 
-- 0xdecf4db39fd9ad85b95671e784635cfadef7ae2b - ChangeNOW Depo
+- 0xdecf4db39fd9ad85b95671e784635cfadef7ae2b - ChangeNOW Depo 2025-08-08
 
-- 0xa922742ac1a46db688d1a425d16f667f3be2f465 - ChangeNOW Depo
+- 0xa922742ac1a46db688d1a425d16f667f3be2f465 - ChangeNOW Depo 2025-08-08
+
+- 0x0c52fcbfa89a545fa62a91b6c1ca797bbc1b5104 - 2025-10-07
+
+- 0x2c0eaf7dbaaa6d1253eb626f6236e38223832839 - 2025-12-12; funds from [Fake Ken](./2025-12-09_fake-ken.md); funds [Fake Lionel](./2025-12-16_fake-lionel.md)
 
 
 

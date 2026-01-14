@@ -1,6 +1,6 @@
 # A Large Theft / Investment Platform
 
-Date:: June 11th, 2023
+Date:: 2025-06-11
 
 Amount Stolen:: $17,600,000
 
@@ -8,11 +8,15 @@ Laundered Via:: Tornado Cash
 
 Tags:: ❓
 
+G:: 431705
+
 ---
 
 ## Details
 
-https://x.com/fpgcrypto/status/1669048609000816640
+- Don't ask why it's called a large theft lol
+
+- Only years later did I figure out it's this incident: https://x.com/fpgcrypto/status/1669048609000816640
 
 
 
@@ -23,7 +27,7 @@ https://x.com/fpgcrypto/status/1669048609000816640
 
 - 0xc9abbedada503e97df85215b76f8ba877fe975ae
 
-- 0xbb5f771913babf4a5dde6f4d9da85ff021f31605
+- 0xbb5f771913babf4a5dde6f4d9da85ff021f31605 - Has Balance (14.75 ETH)
 
 - 0xfdc814dfdf4dc5589dac4a88570a94ed21df947c
 
@@ -40,8 +44,6 @@ https://x.com/fpgcrypto/status/1669048609000816640
 - 0x0a2ec701f90eb364aca7b6775e5e7aee84a787cf
 
 - 0x07d51e4569abccb8e0ada1fccd538e37c022fe36
-
-- 0x7306f778818f046a4db5ec750f41e3ef542813f6
 
 - 0x97bfc656970e1b9a8dcb6e47f8d699e26e71b330
 
@@ -76,6 +78,16 @@ https://x.com/fpgcrypto/status/1669048609000816640
 - 0x039b8ae3497b024df84981a0beef76c5d232c123 TC
 
 - 0xccd6cc974ef7b502e0c1906e873ad0db570ad7f2 TC
+
+- 0x7306f778818f046a4db5ec750f41e3ef542813f6 2025-12-20
+
+- 0x889094b906a18c972519f803003b9de56fb004de 2025-12-20
+
+- 0x29D83252d08BfE437204d5557Eaab769BcbA6d31 TC 2025-12-20
+
+- 0x657cf698cf35436de47ea503f4f1623db0625dd6 TC 2025-12-20
+
+
 
 
 ## Tornado Cash

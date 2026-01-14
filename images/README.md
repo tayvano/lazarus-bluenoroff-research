@@ -1,5 +1,64 @@
 # 🔑 Fake VCs
 
+
+## 2026
+
+![](./2026-01-12_Fake-Merry_2010474997400388083.jpeg)
+- tg: merry_wen 1671678526
+- +1 206 636-4415
+- [Report via @merrywen778899](https://x.com/merrywen778899/status/2010660649232445673)
+- [Report via @merrywen778899](https://x.com/merrywen778899/status/2010474997400388083)
+- [2026-01-12_Fake-Merry_2010474997400388083](./2026-01-12_Fake-Merry_2010474997400388083.jpeg)
+
+
+![](./2026-01-12_Fake-Issei_2010792812925874587.png)
+- tg: isseikashima 5656935590
+- [Report via @0xissei](https://x.com/0xissei/status/2010792812925874587)
+- [2026-01-12_Fake-Issei_2010792812925874587](./2026-01-12_Fake-Issei_2010792812925874587.png)
+
+
+![](./2026-01-12_Fake-Bhavy_2010718087855895036.png)
+- +1 206 354-4835
+- calendly.com/bhabyasinghal/30min
+- [Report via @BhBhavy](https://x.com/BhBhavy/status/2010718087855895036)
+- [2026-01-12_Fake-Bhavy_2010718087855895036](./2026-01-12_Fake-Bhavy_2010718087855895036.png)
+
+
+![](./2026-01-10_Fake-Hasheur_2010003317020389670.jpeg)
+- https://calendly.com/hasheur/30min
+- [Report via @1powerhashuer](https://x.com/1powerhashuer/status/2010003317020389670)
+- [2026-01-10_Fake-Hasheur_2010003317020389670](./2026-01-10_Fake-Hasheur_2010003317020389670.jpeg)
+
+
+![](./2026-01-08_Fake-Brickken_2009429877129400699_1.jpeg)
+![](./2026-01-08_Fake-Brickken_2009429877129400699_2.jpeg)
+![](./2026-01-08_Fake-Brickken_2007968094057357628.jpeg)
+![](./2026-01-08_Fake-Brickken_2008484082024403382.jpeg)
+- tg: Ludolz 422758267
+- [Report via @rossegates](https://x.com/rossegates/status/2009429877129400699)
+- [Report via @Ludovico__Rossi](https://x.com/Ludovico__Rossi/status/2007968094057357628)
+- [Report via @Ludovico__Rossi](https://x.com/Ludovico__Rossi/status/2008484082024403382)
+- [2026-01-08_Fake-Brickken_2009429877129400699_1](./2026-01-08_Fake-Brickken_2009429877129400699_1.jpeg)
+- [2026-01-08_Fake-Brickken_2009429877129400699_2](./2026-01-08_Fake-Brickken_2009429877129400699_2.jpeg)
+- [2026-01-08_Fake-Brickken_2007968094057357628](./2026-01-08_Fake-Brickken_2007968094057357628.jpeg)
+- [2026-01-08_Fake-Brickken_2008484082024403382](./2026-01-08_Fake-Brickken_2008484082024403382.jpeg)
+
+![](./2026-01-08_Fake-Jocy-IOSG_2009196164860531143.jpeg)
+- tg: jocyliniosg 540329858
+- calendly.com/jocylin/30min
+- [Report via @jocyiosg](https://x.com/jocyiosg/status/2009196164860531143)
+- [Report via @jocyiosg](https://x.com/jocyiosg/status/1910515357644972414)
+- [2026-01-08_Fake-Jocy-IOSG_2009196164860531143](./2026-01-08_Fake-Jocy-IOSG_2009196164860531143.jpeg)
+
+
+
+
+
+
+---
+
+
+
 ## 2025
 
 Various Reports:
@@ -13,7 +72,6 @@ Various Reports:
 - [@btc_albert](https://x.com/btc_albert/status/1996631395419279420)
 - [@cryptoinv992](https://x.com/cryptoinv992/status/1995440094686368194)
 - [@loldefi](https://x.com/loldefi/status/1998389636566237383)
-- [@AsILayHodling](https://x.com/AsILayHodling/status/1999548243982889319)
 - [@ceciliaz030](https://x.com/ceciliaz030/status/2000877692271649267)
 - https://www.linkedin.com/feed/update/urn:li:activity:7394399559977844736/?commentUrn=urn%3Ali%3Acomment%3A(activity%3A7394399559977844736%2C7394404510984634368)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7394404510984634368%2Curn%3Ali%3Aactivity%3A7394399559977844736)
 - https://www.linkedin.com/posts/enzzo-cusihuaman-205266106_staysafu-activity-7376576269305446400-5Or9
@@ -76,8 +134,20 @@ Various Reports:
 - [@cosmonaut_joon](https://x.com/cosmonaut_joon/status/1879435681547858086)
 
 
-
 ---
+
+
+![](2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072.jpeg)
+- [2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072](2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072.jpeg)
+- [@ChrisFusillo](https://x.com/ChrisFusillo/status/1999507882761462072)
+
+
+![](2025-12-15_Fake-AsILayHolding_2000581569916936596.jpeg)
+![](./2025-12-01_Fake-AsILayHolding.jpeg)
+- [2025-12-15_Fake-AsILayHolding_2000581569916936596](2025-12-15_Fake-AsILayHolding_2000581569916936596.jpeg)
+- [2025-12-01_Fake-AsILayHolding.jpeg](./2025-12-01_Fake-AsILayHolding.jpeg)
+- [@Vladcostea](https://x.com/Vladcostea/status/2000581569916936596)
+- [@AsILayHodling](https://x.com/AsILayHodling/status/1999548243982889319)
 
 ![](./2025-12-11_Fake-CryptooIndia-01.jpeg)
 ![](./2025-12-11_Fake-CryptooIndia-02.jpeg)
@@ -108,8 +178,7 @@ Various Reports:
 - [2025-12-01_Fake-Teams](./2025-12-01_Fake-Teams.jpg)
 
 
-![](./2025-12-01_Fake-AsILayHolding.jpeg)
-- [2025-12-01_Fake-AsILayHolding.jpeg](./2025-12-01_Fake-AsILayHolding.jpeg)
+
 
 ---
 
@@ -138,10 +207,10 @@ Various Reports:
 - [@0xBoyeon](https://x.com/0xBoyeon/status/1988260561759727833)
 - [@0xBoyeon](https://x.com/0xBoyeon/status/1989273192264085875)
 - [@Katalyster](https://x.com/Katalyster/status/1996601758848544783)
-- [2025-11-11_Fake-BoYeon_01.jpeg](./2025-11-11_Fake-BoYeon_01.jpeg)
-- [2025-11-11_Fake-BoYeon_02.jpeg](./2025-11-11_Fake-BoYeon_02.jpeg)
-- [2025-11-11_Fake-BoYeon_03.jpeg](./2025-11-11_Fake-BoYeon_03.jpeg)
-- [2025-11-11_Fake-BoYeon_04.jpeg](./2025-11-11_Fake-BoYeon_04.jpeg)
+- [2025-11-11_Fake-BoYeon_01](./2025-11-11_Fake-BoYeon_01.jpeg)
+- [2025-11-11_Fake-BoYeon_02](./2025-11-11_Fake-BoYeon_02.jpeg)
+- [2025-11-11_Fake-BoYeon_03](./2025-11-11_Fake-BoYeon_03.jpeg)
+- [2025-11-11_Fake-BoYeon_04](./2025-11-11_Fake-BoYeon_04.jpeg)
 
 ---
 
