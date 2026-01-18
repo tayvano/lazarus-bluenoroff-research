@@ -249,6 +249,10 @@ Radiant Capital posted on X acknowledging issues with its lending markets on BNB
 - 0x0B0a7792fab1aa94AFd79ab4Bff0Cc943add83BA To Tornado, 2025-10-31
 - 0xc9d65d573cd7b63c647c889c7240cb429f8188f7 To Tornado, 2025-10-31
 
+- 0xccd0a647aaf7852e7075128ed39dd096a03704a2 2026-01-16
+- 0xb523c3a59b8cc3f143c16226029f365ce846be3b 2026-01-16
+- 0x66d4eda5e20b36854745091fda4af7237dece38c 2026-01-16
+
 
 ### Victim addresses (keys not compromised though)
 - 0x111CEEee040739fD91D29C34C33E6B3E112F2177 (Safe)

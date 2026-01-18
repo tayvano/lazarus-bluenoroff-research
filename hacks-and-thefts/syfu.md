@@ -49,9 +49,7 @@ Tags:: 🔑
 
 - 0xbf414ed376467b32d4f81b6f61de79e19b995c28 - Consolidation (Also Rainfi Theft)
 
-- 0x744da43f6958f96fe1e721db1931bdd1349ea918 - Dust (2025-05-23); Also MarketAcross Theft
-
-- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust (2025-05-23); Dust Collector - Syfu, Rainfi, MarketAcross, Jan 20, B3, M6)
+- 0x744da43f6958f96fe1e721db1931bdd1349ea918 - Dust Collector 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e 2025-05-23; Also MarketAcross Theft
 
 - 0x667d1e5d48ba7957909b9da26eee88df80d6054c - Tornado Cash Deposit (2025-11-21) - 371 ETH
 

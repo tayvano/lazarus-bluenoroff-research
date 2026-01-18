@@ -37,3 +37,6 @@ G:: 441109
 - 0xfac1fc330645653e50e5fd934c348d1481e6a307 - Sideshift Depo
 - Gac5AZ5Mn6r1U4Tibsn8MTKrKwxm9p132D5Z2Z6e8Te1 - Sideshift Depo
 - AqjhKQi5SoT3C8jkQEgjrnevGaCpJZfqWEswZJVYbEm6 - Sideshift Depo
+
+- 0xdeBe6B09B43A4411Fa372A75BbDF4eFEFAC54C67 - Sideshift Output
+- BYe5T1Vbz8bFtXYJhTMg2QrZYi5cF6c9XUDyowdsiWAQ - Sideshift Output

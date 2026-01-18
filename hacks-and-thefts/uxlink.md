@@ -90,8 +90,7 @@ Tags:: 🔑
 - 0xa671c20550738cbAAf2Eb5b936eCb3C16aaa2764 - Theft
 - 0x2ef3540fe39860308D4AC2fe32e3F1b833107D57 - Theft
 
-- 0xd244e5bb7a01582ddbf800a4c8dc3b2060718a1d - Dust
-- 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e - Dust
+- 0xd244e5bb7a01582ddbf800a4c8dc3b2060718a1d - Dust Collector 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e
 
 - 0x6985f1fc08e337bb0b1eb9ea708807071f766617 - to Tornado 2x100 ETH (2025-11-21)
 - 0xdbf0fc04bd11aae76d166fd08a6fef0b43e1dcbd - to Tornado 7x100 ETH (2025-12-02)

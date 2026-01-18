@@ -45,7 +45,7 @@ G:: 429105
 
 - 0xcf1a92d24594e4b7a6ee84005225bd13646d2475 - Tornado Cash 2025-12-23
 
-- 0x70980cfb0a9091ad7f984f4f38bb2c92dd5bf3bd - Dust
+- 0x70980cfb0a9091ad7f984f4f38bb2c92dd5bf3bd - Dust Collector 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e
 
 - HF8FKBQ3vn6Kkkfn9KpnANZsrxmWYhXdj8gmQsogaEWJ - Theft
 
