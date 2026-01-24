@@ -2268,6 +2268,8 @@
 
 - 2025
 
+- NFTy Meta 2023-2023, Balance Capital 2022-2023, Dexify 2020-2022, Aneroverse 2020-2020, Radar Finance 2019-2020
+
 - icetrust0212
 
 - icebera
@@ -2566,7 +2568,37 @@ Chiko Nakamura
 - 0x79dF0940195e41ED149d1df13C709A55438439a2
 
 
+#### David Wenske
 
+- June 2025, Nov 2025
+
+- https://dev.to/david_wenske_0b5dfdc82e27/mercor-unpaid-for-my-work-28j6
+
+- https://www.instagram.com/reel/DLU7dNFMZV8/?hl=en
+
+#### Jimmy Pacheco
+
+- Nov 2025
+
+- https://dev.to/david_wenske_0b5dfdc82e27/mercor-unpaid-for-my-work-28j6
+
+
+#### Austen Anop
+
+- Nov 2025
+
+- https://dev.to/david_wenske_0b5dfdc82e27/mercor-unpaid-for-my-work-28j6
+
+- https://latium.org/service?id=84357
+
+- https://latium.org/profile/austenanop
+
+
+#### Akeem Deacon
+
+- Nov 2025
+
+- https://dev.to/david_wenske_0b5dfdc82e27/mercor-unpaid-for-my-work-28j6
 
 ---
 
@@ -3040,6 +3072,8 @@ Chiko Nakamura
 - 0x1043efee936903951b88db23551873bb67292e95
 
 - ![](./X_2025-11-22_andyhoglet.png)
+
+- https://medium.com/jigstack/lemonade-depo-ido-75a6a0835f30
 
 
 
