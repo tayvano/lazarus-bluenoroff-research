@@ -105,13 +105,14 @@ Tags:: 🔑
 - 0x3b33c5cd948be5863b72cb3d6e9c0b36e67d01e5 - ChangeNOW Output  (2025-03-14)
 
 
-#### Chainflip - 2025-04-21
+## Connections
 
-- 0x7b0cd0d83565adbb57585d0265b7d15d6d9f60cf receives $829
+- Chainflip - 2025-04-21
+
+- [Zoth](./zoth.md) 0x7b0cd0d83565adbb57585d0265b7d15d6d9f60cf receives $829
 
 - source is bc1qkt06aaa5kspc53wj554p8pp4c0ezd432lsquyr
 
-- bc1qkt06aaa5kspc53wj554p8pp4c0ezd432lsquyr is from the 1900 BTC Theft
-
+- bc1qkt06aaa5kspc53wj554p8pp4c0ezd432lsquyr is from the [1900 BTC Theft](./huge_march_2025_theft-1900-btc.md)
 
 
