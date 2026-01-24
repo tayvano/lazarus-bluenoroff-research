@@ -4,7 +4,7 @@ Date:: 2025-11-03
 
 Amount Stolen:: $224,600
 
-Tags:: 🔑 SQSQ
+Tags:: 🔑 MESSYMESS
 
 G:: 407955
 
@@ -50,13 +50,13 @@ Connects to Trufulation directly lol
 
 - TR2cAUAYt3zc9EBvSGijGJjirhgkhaVxC7 2025-Oct-14 2025-Oct-23 2025-Oct-25 2025-Oct-28 2025-Oct-29 2025-Oct-30 2025-Nov-04 2025-Nov-05 2025-Nov-06 2025-Nov-07
 
-- 0xa6c5e6b044abb194c7ac1e6e7e153befdfc6bf0d FF Depo $35k
-- 0x4e466243bab39a113e4028ca3d129d138b34deb3 FF Depo $100
-- 0xf3dce4a87c75817d84de055c740dab3eabb0888d FF Depo $1.0k
-- 0x06d64d933174bb24392269acd70a80299711a020 FF Depo $1.5k
-- 0xeb52b9204ffcbd65b52451e8fc7c5465f79df4ca FF Depo $1.2k
-- 0x6d06f92cdca80c2a631cd9200d0b41d6c6c5fcd6 FF Depo $5.0k
-- 0xd7b2a78c89cea58176f0e2d2e3a25fb68f8642ef FF Depo $2.0k
+- 0xa6c5e6b044abb194c7ac1e6e7e153befdfc6bf0d FixedFloat $35k
+- 0x4e466243bab39a113e4028ca3d129d138b34deb3 FixedFloat $100
+- 0xf3dce4a87c75817d84de055c740dab3eabb0888d FixedFloat $1.0k
+- 0x06d64d933174bb24392269acd70a80299711a020 FixedFloat $1.5k
+- 0xeb52b9204ffcbd65b52451e8fc7c5465f79df4ca FixedFloat $1.2k
+- 0x6d06f92cdca80c2a631cd9200d0b41d6c6c5fcd6 FixedFloat $5.0k
+- 0xd7b2a78c89cea58176f0e2d2e3a25fb68f8642ef FixedFloat $2.0k
 - 0x1eb1Bf9575189EA01007E403c7ECF677f4afe725 SS Depo $40k
 - 0xA62209D37DD7652856b88Ef1aCD4F491e351B335 SS Depo $11k
 - 0xD5C80a78d73b662Cc0b939D59446eb958D45f042 SS Depo $12k
@@ -73,7 +73,7 @@ Connects to Trufulation directly lol
 
 ## Connections
 
-- 0xbed78f71b964171c55b976c1cac973a90c2412ab + 0x361171d18a499ef3b150d94df423f2aef6a0dccd are from Truflation victim 0xa955445992567d9cbc95cbdd838f474dd50fde4c
+- [Truflation](./Truflation.md) - 0xbed78f71b964171c55b976c1cac973a90c2412ab + 0x361171d18a499ef3b150d94df423f2aef6a0dccd are from Truflation victim 0xa955445992567d9cbc95cbdd838f474dd50fde4c
 - These FF/CN depos go to BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB
-- Meanwhile all this Proph3ttt guy's also go to BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB
+- Meanwhile all this [Proph3ttt](./proph3ttt.md) guy's also go to BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB
 

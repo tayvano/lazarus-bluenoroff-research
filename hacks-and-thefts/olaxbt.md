@@ -1,12 +1,12 @@
 # OlaXBT
 
-Date:: September 1st, 2025
+Date:: 2025-09-01
 
 Time:: 6:52 UTC
 
 Amount Stolen:: $2,206,525 / 32 million AIO tokens
 
-Tags:: 🔑
+Tags:: 🔑 MESSYMESS
 
 G:: 382634
 

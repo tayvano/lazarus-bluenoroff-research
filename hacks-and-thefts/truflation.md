@@ -4,7 +4,7 @@ Date:: 2024-09-25
 
 Amount Stolen:: ~$5,125,000
 
-Tags:: 🔑
+Tags:: 🔑 MESSYMESS
 
 G:: 407955
 
@@ -76,7 +76,7 @@ However there has not (yet) been any indication of them being used to do anythin
 - 0xb1cf7880351e6d16313c03a6686b4c8a5ba6372a ETH - Funds Holder / Consolidation
 
 - 0xbed78f71b964171c55b976c1cac973a90c2412ab ETH CN Depo $47k 2025-11-03
-- 0x361171d18a499ef3b150d94df423f2aef6a0dccd ETH FF Depo $78k 2025-11-03
+- 0x361171d18a499ef3b150d94df423f2aef6a0dccd ETH FixedFloat $78k 2025-11-03
 - BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB SOL 2025-11-03; commingles with [another theft](./proph3ttt.md)
 - AtvNL88Uarnip6BBSf9vG33Lf1KJDsr7uNzEKnfaQAxH SOL 2025-11-03; commingles with [another theft](./proph3ttt.md)
 
@@ -138,4 +138,16 @@ However there has not (yet) been any indication of them being used to do anythin
 - 0x53d2094b31429a13e739358b16354d8e0826b25a - BSC + AVAX -> ETH on 2025-09-15
 - 0x00d71da77bd928cf79b9ec763e8791f96719baf4 - 2025-09-15
 - 0x1148a48e9990bd8fb14d53f4965d712eeb891d44 - 2025-11-20
+
+
+
+## Connections
+
+- [Truflation](./Truflation.md) - 0xbed78f71b964171c55b976c1cac973a90c2412ab + 0x361171d18a499ef3b150d94df423f2aef6a0dccd are from Truflation victim 0xa955445992567d9cbc95cbdd838f474dd50fde4c
+- These FF/CN depos go to BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB
+- Meanwhile all this [Proph3ttt](./proph3ttt.md) guy's also go to BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB
+
+
+
+
 

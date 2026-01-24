@@ -1,12 +1,12 @@
 # JP Thor
 
-Date:: September 9th, 2025
+Date:: 2025-09-09
 
 Time:: 
 
 Amount Stolen:: $2,435,000
 
-Tags:: 🔑
+Tags:: 🔑 MESSYMESS
 
 G:: 382609
 
@@ -146,7 +146,6 @@ Another person targetted by fake Rena:
 
 - bnb1z8pdtduepmhnnag672g3y8zxwk6kx9hyap3gyu - Victim
 - bnb15umuwjaxymmhdyjujpnxwakywh2ra25knsszsh - Victim
-- 0x83f385c1afaa82d6267d7ced849dcb85d0f96608 - FF Deposit
 - 0x1e2afd94cec831a456b75b0198b544017e09f9c5 - Theft
 - 0xbb3a46dd04e1ca0e59d73e55a4184b80e920858a - Theft
 - 0x73f452858c88bda6e87a657d7ed2ed0e0cdbc7f7 - Theft / Holding $1.135 from BNB
@@ -215,8 +214,9 @@ Another person targetted by fake Rena:
 - 2025-09-12 08:41 - 10 ETH (Withdrawal via 0x7abc)
 
 
+## Connections
 
-
+- [Sololabs](./sololabs.md) - Tries to send to a Solo address
 
 
 

@@ -1,12 +1,12 @@
 # Ross Gates
 
-Date:: September 19th, 2025
+Date:: 2025-09-19
 
 Time:: 5:12 UTC - 6:57 UTC
 
 Amount Stolen:: $150,000
 
-Tags:: 🔑 MATES
+Tags:: 🔑 MATES MESSYMESS
 
 G:: 382609
 
@@ -40,15 +40,20 @@ Overlaps with [JP Thor](./jpthor.md)
 
 - CqtULAaGoZ83o1fzh4FJbYvDVFXQoXQiiFbEaPMiKKei - Theft 2025-11-18
 
-- 0x680c2223807ed764ab06da038d602603829af46d - FF Depo
-- 0x16325b5d9c170cf3b946af6547cce86036b5c1cd - FF Depo
-- 0xa12654411890c5d9150ffb3bd0beed15656a4041 - FF Depo
-- 0x3ed2265f89263b3b369f042674a45a61e2bcc97a - FF Depo
-- 0x1602e9dad140f973d074bd10ae02e0071359a9d8 - FF Depo
-- 0x4c628716918aa51b48261012754d6001a60368f0 - FF Depo
-- 0xdaca2a21be661f227b26ddd5057069687feaf809 - FF Depo
-- bc1qky9mtplnplmwzpmd7tf26qkemzcqlt4ursqmq8 - FF Depo
+- 0x680c2223807ed764ab06da038d602603829af46d - FixedFloat
+- 0x16325b5d9c170cf3b946af6547cce86036b5c1cd - FixedFloat
+- 0xa12654411890c5d9150ffb3bd0beed15656a4041 - FixedFloat
+- 0x3ed2265f89263b3b369f042674a45a61e2bcc97a - FixedFloat
+- 0x1602e9dad140f973d074bd10ae02e0071359a9d8 - FixedFloat
+- 0x4c628716918aa51b48261012754d6001a60368f0 - FixedFloat
+- 0xdaca2a21be661f227b26ddd5057069687feaf809 - FixedFloat
+- bc1qky9mtplnplmwzpmd7tf26qkemzcqlt4ursqmq8 - FixedFloat
 - 0x07d150441f6a10c9dc12eae4a4f17f6e471936be - Sideshift Depo
 - 0x9463f95dcf69480f0c6274cdb70313ac31bc71c5 - Sideshift Depo
 
 - TTGW8MCNUC74X2LfF6xD1LCqWqHSKfRqyH
+
+
+## Connections
+
+- [Jay / Fake Micah](./2025-09-19_fake-micah.md) - Same time/day
