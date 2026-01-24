@@ -1,12 +1,12 @@
 # Rainfi 
 
-Date:: December 18th, 2024
+Date:: 2024-12-18
 
 Time:: 15:11
 
 Amount Stolen:: $2,009,331
 
-Tags:: 🔑
+Tags:: 🔑 2025 DUST COLLECTOR
 
 ---
 

@@ -6,7 +6,7 @@ Time:: 9:09 UTC
 
 Amount Stolen:: $420,000
 
-Tags:: 🔑
+Tags:: 🔑 2025 DUST COLLECTOR
 
 G:: 382609
 

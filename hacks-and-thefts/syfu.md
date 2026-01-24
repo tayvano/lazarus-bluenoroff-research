@@ -1,12 +1,12 @@
 # SyFu 
 
-Date:: December 16th, 2024
+Date:: 2024-12-16
 
 Time:: 01:52
 
 Amount Stolen:: $1,936,593
 
-Tags:: 🔑
+Tags:: 🔑 2025 DUST COLLECTOR
 
 
 ---
@@ -35,19 +35,19 @@ Tags:: 🔑
 
 - 0x9def4d96d93313a3daaa01b7860963c4b975125c - New Malicious Owner
 
-- 0x7d7505f4919e05d687f0c508149deb12fae16d90 - Direct Theft (2024-12-16); Also re-used for 2025-01-20 Theft
+- 0x7d7505f4919e05d687f0c508149deb12fae16d90 - Direct Theft (2024-12-16); Also re-used for [2025-01-20 Theft](./2025-01-20_unknown.md)
 
 - 0x758719d838a81aa2264ebc80d7c008b51b57046c - Direct Theft (2024-12-16)
 
 - HuBu2qTwkMsm721u4ZArXhdLSKJnSUCCow6d8Trxi2V - Direct Theft (2024-12-16)
 
-- 0xed09a895a2f8dc506b381ece1bc2b2c893306d09 - Theft (2024-12-16); Also re-used for Rainfi Theft
+- 0xed09a895a2f8dc506b381ece1bc2b2c893306d09 - Theft (2024-12-16); Also re-used for [Rainfi](./rainfi.md) Theft
 
 - 0x24a0763acfe9b837bbc94ab18b5b1406f9c0dd49 - Theft
 
 - 0x29592e5ebf005e1a1d6d8c286ba6b1e419d68222 - Consolidation (2024-12-16)
 
-- 0xbf414ed376467b32d4f81b6f61de79e19b995c28 - Consolidation (Also Rainfi Theft)
+- 0xbf414ed376467b32d4f81b6f61de79e19b995c28 - Consolidation (Also [Rainfi](./rainfi.md) Theft)
 
 - 0x744da43f6958f96fe1e721db1931bdd1349ea918 - Dust Collector 0xc8ae7776a0d2d34edf6de3e217b62f06b68d438e 2025-05-23; Also MarketAcross Theft
 
@@ -83,52 +83,33 @@ transfered ownership of SynchroCoin:
 ## Timeline
 
 
-
-- Dec 16 2024 1:52 - Initial Theft
-
-- Dec 16 2024 05:06 - Consolidates
-
-- Dec 19 2024 08:39 - TransferOwnership
-
-- Dec 19 2024 08:57 - Swaps
-
-- Dec 20 2024 08:36 - Dust
-
-- Dec 25 2024 12:04 - Consolidates
-
-- Dec 27 2024 08:49 - Dust
-
-- Jan 15 2025 02:01 - Swaps + eXch
-
-- Jan 20 2025 07:17 - Swaps
-
-- Jan 27 2025 12:45 - Swaps
-
-- Jan 27 2025 17:20 - Swaps
-
-- Jan 28 2025 07:51 - Swaps
-
-- Feb 04 2025 02:13 - Swaps
-
-- Mar 12 2025 14:34 - Swaps
-
-- May 21 2025 15:23 - Dust
-
-- May 23 2025 2:00 - Tornado Cash
+- 2024-12-16 01:52 - Initial Theft
+- 2024-12-16 05:06 - Consolidates
+- 2024-12-19 08:39 - TransferOwnership
+- 2024-12-19 08:57 - Swaps
+- 2024-12-20 08:36 - Dust
+- 2024-12-25 12:04 - Consolidates
+- 2024-12-27 08:49 - Dust
+- 2025-01-15 02:01 - Swaps + eXch
+- 2025-01-20 07:17 - Swaps
+- 2025-01-27 12:45 - Swaps
+- 2025-01-27 17:20 - Swaps
+- 2025-01-28 07:51 - Swaps
+- 2025-02-04 02:13 - Swaps
+- 2025-03-12 14:34 - Swaps
+- 2025-05-21 15:23 - Dust
+- 2025-05-23 02:00 - Tornado Cash
 
 
 
 
 # Grace from 7X
 
-- Took over Telegram and Twitter in mid-December
+- Fake Wyatt took over Telegram and Twitter in mid-December
 
-- Returned Twitter Jan 16, 2024 🥹🥹
+- Got Twitter backed 2024-01-16 🥹🥹
 
 - No funds on laptop, $0
-
-- via fake Wyatt 
-
 
 
 
