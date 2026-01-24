@@ -8,7 +8,6 @@
 - [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
-
 ### DTEX 2025 Org Chart
 
 ![](./images/2025-05-14_dtex-org-chart.png)
@@ -47,7 +46,7 @@
 # Clusters
 
 
-## 🔑 SquidSquad - Fake VC Shit - Sapphire Sleet / APT38
+## 🔑 Fake VC Shit: SquidSquad / DPRK-SQ / SQSQ / Bluenoroff / Sapphire Sleet / DangerousPassword 
 
 - CryptoCore, APT38, Bluenoroff, Alluring Pisces, Leery Turtle, SnatchCrypto, CryptoMimic, UNC1069, Black Alicanto, CageyChameleon
 - VC impersonating, Telegram messagers, fake video meet calls, Fake Google Drive links, RustBucket, Mac malware, Applescript, malicious PDFs, "Fast changes to stablecoin risk.pdf"
@@ -60,7 +59,11 @@
 - Revenue generation priority, like its overarching APT38 subunits, however on a much smaller financial scale.
 - May include individuals or units previously tracked as APT38. Has minor overlaps with APT43 but operates distinctly
 - UNC1069 has targeted a variety of financial services firms and cryptocurrency exchanges, commonly employing spear-phishing techniques that result in LONEJOGGER (and other) malware infections
-- On-chain Laundry Observes: Express VPN, occasional leak Ryugyong-dong IPs
+- [2026 | Lots of screenshots and links to victim reports](./images/readme.md)
+- [Dec 2025 | 🚨 WARNING (AGAIN) - DPRK threat actors are still rekting way too many of you via their fake Zoom / fake Teams meets.](https://x.com/tayvano_/status/1999942459368104073)
+- [Oct 2025 | BlueNoroff’s ghost mirage of funding and jobs](https://securelist.com/bluenoroff-apt-campaigns-ghostcall-and-ghosthire/117842/)
+- [Oct 2025 | "CryptoCore"](https://msmt.info/Publications/detail/MSMT%20Report/4221)
+- [Jul 2025 | macOS NimDoor: Targetting Web3 and Crypto Platforms with Nim-Based Malware](https://www.sentinelone.com/labs/macos-nimdoor-dprk-threat-actors-target-web3-and-crypto-platforms-with-nim-based-malware/)
 - [Jun 2025 | Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis)
 - [Apr 2025 | Latest Personas](https://x.com/tayvano_/status/1906900686694146289)
 - [Mar 2025 | Latest Fake Call Iteration](https://x.com/GiulioXdotEth/status/1899704410416230556)
@@ -83,12 +86,21 @@
 - [Jun 2020 | CryptoCore: A Threat Actor Targetting Crypto Exchanges](https://clearskysec.com/wp-content/uploads/2020/06/CryptoCore_Group.pdf)
 - [Jun 2019 | JPCert: VBScript, `Password.txt.lnk`](https://blogs.jpcert.or.jp/en/2019/07/spear-phishing-against-cryptocurrency-businesses.html)
 - [Jan 2018 | Proofpoint: Analyzing CHM Files, Malicious LNKs, VBScript Macros, Microsoft Office Docs, PowerShell implants, Gh0st RAT](https://proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug-180129.pdf)
+- 🔑 🔐 💼 [Dust Collector ae69 (0xae69012d15d6b1a3b2412aadef712f06f9286e0e)](./hacks-and-thefts/dp-it-dust-collector-ae69.md)
+- 🔑 [Dust Collector 9a5 (0x9a5fc00f9aaa07817725fd38d7e73252f9f49e27)](./hacks-and-thefts/sqsq-dust-collector-9a5.md)
+- 🔑 [Dust Collector b5d (0xb5d70f00608c77724b5cb73b93da89df1ae9f6e8)](./hacks-and-thefts/sqsq-dust-collector-b5d.md)
+- 🔑 [Dust Collector fda (0xfda946270a6f452e0a134e22b493f4e7e8bdbc50)](./hacks-and-thefts/sqsq-dust-collector-fda.md)
+- 🔑 [Dust Collector a54 (0xa547c81b67ec09072b21baa8e107816d39cbd969)](./hacks-and-thefts/sqsq-dust-collector-a54.md)
+- 🔑 [Dust Collector 7ec (0x7ec567ce97ec28e19ce7e2d4bcbb7943eb90ede0)](./hacks-and-thefts/sqsq-dust-collector-7ec.md)
+- 🔑 [Dust Collector 314 (0x31499e03303dd75851a1738e88972cd998337403)](./hacks-and-thefts/sqsq-dust-collector-314.md)
+- 🔑 [Dust Collector 2d7 (0x2d7554062664050294640891a122019a68ac5a2b)](./hacks-and-thefts/sqsq-dust-collector-2d7.md)
+- 🔑 [Dust Collector 997 (0x99739fa525c0a98384430235d278fd08938997f9)](./hacks-and-thefts/sqsq-dust-collector-997.md)
+- 🔑 [Dust Collector c0b (0xc0b635fb9dc28dea84db150b89d4578ff9859877)](./hacks-and-thefts/sqsq-dust-collector-c0b.md)
 
 
+## 🔐 Other Job Shit: CryptoCore / DangerousPassword
 
-## 🔐 DangerousPassword - Job Shit
-
-- Apparently also DangerousPassword shit but is completely separate onchain so we keep it off to the side a bit.
+- Apparently also like the DangerousPassword shit above but is completely separate onchain so we keep it off to the side a bit.
 - Does leak Ryugyong-dong IPs though lol
 - Astrill, Mullvad. Tornado Cash to Wormhole or eXch. Gets lost in Tornado with all the other DPRK shit.
 - KANDYKORN, Python script, `Python_Skill_Assessment.zip` and `Python_Skill_Test.zip`
@@ -100,7 +112,7 @@
 
 
 
-## 👛 TraderTraitor - Jade Sleet / Slow Pisces / UNC4899
+## 👛 The Big Boys: TraderTraitor / DPRK-TR / TRTR / Jade Sleet / Slow Pisces / UNC4899
 
 - The big boys, the insane on-chain laundry sessions. Targets technical / backend guys with fake job offers or requests for help.
 - Targets blockchain companies through spear-phishing messages, fake job offers
@@ -126,7 +138,7 @@
 
 
 
-## 🍎 Applejeus - Citrine Sleet / Gleaming Pisces / UNC4736
+## 🍎 Applejeus / DPRK-AJ / AJ / Citrine Sleet / Gleaming Pisces / UNC4736
 
 - aka: Gleaming Pisces, Labyrinth Chollima, Hidden Cobra, DEV-0139
 - Has been active since at least 2018. Today they aren't seen hacking as much. They seem to sometimes have a relationship with ITW or Contagious Interview guys? They also have shitcoin farms but we don't talk about that.
@@ -168,7 +180,7 @@
 
 
 
-## 💼 DPRK IT Workers
+## 💼 DPRK IT Workers / DPRK-IT / ITW
 
 - Overlaps with Contagious Interview a lot. IT Workers Have resumes. Get hired. Get paid payroll that goes to DPRK.
 - Primarily fall under the KWP’s Munitions Industry Department
@@ -176,6 +188,8 @@
 - Deployed both domestically and abroad to generate revenue and finance the country's weapons of mass destruction and ballistic missile programs
 - Acquire freelance contracts from clients around the world and sometimes pretend to be based in the US or other countries to secure employment.
 - Mainly engage in legitimate IT work, they have misused their access to enable malicious cyber intrusions.
+- [Nov 2025 | DPRK IT Workers Team Page](https://www.lazarus.group/team)
+- [Oct 2025 | Interview with the Chollima III](https://quetzal.bitso.com/p/interview-with-the-chollima-iii)
 - [Jun 2025 | US v. Joshua Palmer, Bryan Cho, Bong Chee, Peter Xiao](./pdfs/2025-06-30_DPRK-IT_jin_et_al_indictment.pdf)
 - [Jun 2025 | DPRK IT Workers 101 Video](https://www.youtube.com/watch?v=Y7x0gvfFa0Q)
 - [May 2025 | Exposing DPRK's Cyber Syndicate and Hidden IT Workforce](https://reports.dtexsystems.com/DTEX-Exposing+DPRK+Cyber+Syndicate+and+Hidden+IT+Workforce.pdf)
@@ -199,7 +213,7 @@
 - [May 2022 | U.S. Treasury: Guidance on the DPRK IT Workers](https://ofac.treasury.gov/media/923126/download?inline)
 
 
-## 🎙️ Contagious Interview
+## 🎙️ Contagious Interview / DPRK-CI
 
 - UNC5342, BEAVERTAIL, INVISIBLEFERRET, OTTERCOOKIE, 
 - "Willo" Job Campaigns, Bybit assessment, trevorgreer
@@ -213,6 +227,11 @@
 - Public reporting and first-hand victim reports often make these incidents sound like a malicious employee or insider or new hire is responsible and thus leads to them being tagged as DPRK IT Workers. However, more often it is simply that an employee’s device was compromised and their access was used. The key difference in victim reports is whether they actually hired and paid. For IT Workers, often the team will have and mention resumes, payroll, etc.
 - 2024 Linkedins from the on-chain cluster of activity include: “Lucas Sousa Santos” “Maria Mercedes Gonzalez” “Juan D Suareza” “Eduardo Morales Cortés”
 - Astrill, Russia TTK observed.
+- [Jan 2026 | VS Code Tasks Abuse by Contagious Interview](https://radar.securityalliance.org/vs-code-tasks-abuse-by-contagious-interview-dprk/)
+- [Jan 2026 | Hunting Lazarus: Inside the Contagious Interview C2 Infrastructure](https://redasgard.com/blog/hunting-lazarus-contagious-interview-c2-infrastructure)
+- [Jan 2026 | The finest (and largest?) collection of malicious npm packages attributed to North Korea on the internet](https://dprk-research.kmsec.uk/)
+- [Nov 2025 | Inside the GitHub Infrastructure Powering North Korea’s Contagious Interview npm Attacks](https://socket.dev/blog/north-korea-contagious-interview-npm-attacks)
+- [Oct 2025 | [DPRK Adopts EtherHiding: Nation-State Malware Hiding on Blockchains](https://cloud.google.com/blog/topics/threat-intelligence/dprk-adopts-etherhiding)
 - [Dec 2024 | Willo Campaign](https://x.com/tayvano_/status/1872980013542457802)
 - [Aug 2024 | North Korea Still Attacking Developers via npm](https://blog.phylum.io/north-korea-still-attacking-developers-via-npm/)
 - [Jul 2024 | Decipher: New Version Of Beavertail Macos Malware Identified](https://duo.com/decipher/new-version-of-beavertail-macos-malware-identified)
