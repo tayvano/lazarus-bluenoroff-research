@@ -1,6 +1,6 @@
 # Hacken Token (HAI)
 
-Date:: June 22nd, 2025
+Date:: 2025-06-22
 
 Amount Stolen:: $267,000
 
@@ -15,7 +15,6 @@ The recent attack on Hacken's $HAI token infrastructure appears to stem from a c
 Once the attacker gained control of the deployer wallet, they executed multiple minting transactions to inflate the token supply illegitimately. On the BNB Chain, they were able to convert a portion of the illicitly minted tokens—approximately $253,000—into liquid assets. The limited liquidity in the $HAI pools restricted the attacker’s ability to extract more funds, containing some of the damage. Verified transactions showing these mint events can be found on both BscScan and Etherscan.
 
 - [Source](https://quadrigainitiative.com/casestudy/hacken$haitokenmintinghyperinflationprivatekeybreach.php)
-
 
 
 

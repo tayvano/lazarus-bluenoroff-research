@@ -1,40 +1,123 @@
 # 🔑 Fake VCs
 
-
 ## 2026
 
+Various Reports:
+
+- [Report via @shacheng](https://x.com/shacheng/status/2014376228955029724)
+- [Report via @BrandSLockey](https://x.com/BrandSLockey/status/2014340042622439449)
+- [Report via @KalKassa](https://x.com/KalKassa/status/2011717494688661967)
+- [Report via @emrecolakoglu](https://x.com/emrecolakoglu/status/2011843114655182985)
+- [Report via @emman_montero](https://x.com/emman_montero/status/2011565762042085503)
+- [Report via @LucasKozinski](https://x.com/LucasKozinski/status/2014420444154069401)
+- [Report via @Panterra0x](https://x.com/Panterra0x/status/2014070675464474699)
+- [Report via @hemic_](https://x.com/hemic_/status/2011288314528350363)
+- [Report via @BigFoxKo](https://x.com/BigFoxKo/status/2010719351788462438)
+- [Report via @Goodylili](https://x.com/Goodylili/status/2013246128624464055)
+
+![](./2026-01-22_Fake-Enigma_01.jpeg)
+![](./2026-01-22_Fake-Enigma_02.png)
+![](./2026-01-22_Fake-Enigma_03.jpeg)
+-[2026-01-22_Fake-Enigma_01](./2026-01-22_Fake-Enigma_01.jpeg)
+-[2026-01-22_Fake-Enigma_02](./2026-01-22_Fake-Enigma_02.png)
+-[2026-01-22_Fake-Enigma_03](./2026-01-22_Fake-Enigma_03.jpeg)
+- [Report via @EnigmaValidator](https://x.com/EnigmaValidator/status/2013695069920895172)
+- [Report via @dch_21](https://x.com/dch_21/status/2014258659241439546)
+- `zoom.uk05lives[.]uk/j/8017960116?pwd=vHuUX94JQSOIcgk3iHvwsg3LNVQLFh.1`
+- tg: `imadenigma` `1279316138`
+
+![](./2026-01-21_Fake-KathAuth_01.jpeg)
+![](./2026-01-21_Fake-KathAuth_02.jpeg)
+![](./2026-01-21_Fake-KathAuth_03.jpeg)
+- [2026-01-21_Fake-KathAuth_01](./2026-01-21_Fake-KathAuth_01.jpeg)
+- [2026-01-21_Fake-KathAuth_02](./2026-01-21_Fake-KathAuth_02.jpeg)
+- [2026-01-21_Fake-KathAuth_03](./2026-01-21_Fake-KathAuth_03.jpeg)
+- [Report via @KathySats](https://x.com/KathySats/status/2013904400427962488)
+- [Report via @KathySats](https://x.com/KathySats/status/2014274701158502598)
+- [Report via @evilcos](https://x.com/evilcos/status/2014342890546467134)
+- `calendly.com/kathyzhu`
+
+![](./2026-01-21_Fake-Martin_01.jpeg)
+- [2026-01-21_Fake-Martin_01](./2026-01-21_Fake-Martin_01.jpeg)
+- [Report via @SwissHodler](https://x.com/SwissHodler/status/2014370721477054793)
+- [Report via @kucharmartin_](https://x.com/kucharmartin_/status/2013874205817774538)
+- [Report via @kucharmartin_](https://x.com/kucharmartin_/status/2014268846094311739)
+
+![](./2026-01-21_Fake-Zhanna.jpeg)
+- [2026-01-21_Fake-Zhanna](./2026-01-21_Fake-Zhanna.jpeg)
+- [Report via @MuazXinthi](https://x.com/MuazXinthi/status/2013997568817025120)
+- [Report via @zhannamanzyk](https://x.com/zhannamanzyk/status/2008751754167660547)
+
+![](./2026-01-20_Fake-Bernie.jpeg)
+![](./2026-01-22_Fake-Bernie_01.png)
+![](./2026-01-22_Fake-Bernie_02.png)
+![](./2026-01-22_Fake-Bernie_03.jpeg)
+- [2026-01-20_Fake-Bernie](./2026-01-20_Fake-Bernie.jpeg)
+- [2026-01-22_Fake-Bernie_01](./2026-01-22_Fake-Bernie_01.png)
+- [2026-01-22_Fake-Bernie_02](./2026-01-22_Fake-Bernie_02.png)
+- [2026-01-22_Fake-Bernie_03](./2026-01-22_Fake-Bernie_03.jpeg)
+- [Report via @lebed2045](https://x.com/lebed2045/status/2014675896418926937)
+- [Report via @pray_eth](https://x.com/pray_eth/status/2014412730514518441)
+- [Report via @tayvano_](https://x.com/tayvano_/status/2014535187628228957)
+- `calendly.com/berniekong/30min`
+- `uo06webzoom[.]us/j/1859641508?pwd=jLbWCEbcnkHcRZOGAfhCotZLjHrxAE.1`
+- `uo06webzoom[.]us/developer/sdk/fix/2/version/ZyJjSkRR2`
+- tg: 1319058767
+
+![](./2026-01-21_Fake-Alex_01.jpeg)
+![](./2026-01-21_Fake-Alex_02.jpeg)
+![](./2026-01-21_Fake-Alex_03.jpeg)
+![](./2026-01-21_Fake-Alex_04.jpeg)
+![](./2026-01-21_Fake-Alex_05.jpeg)
+![](./2026-01-21_Fake-Alex_06.jpeg)
+- [2026-01-21_Fake-Alex_01](./2026-01-21_Fake-Alex_01.jpeg)
+- [2026-01-21_Fake-Alex_02](./2026-01-21_Fake-Alex_02.jpeg)
+- [2026-01-21_Fake-Alex_03](./2026-01-21_Fake-Alex_03.jpeg)
+- [2026-01-21_Fake-Alex_04](./2026-01-21_Fake-Alex_04.jpeg)
+- [2026-01-21_Fake-Alex_05](./2026-01-21_Fake-Alex_05.jpeg)
+- [2026-01-21_Fake-Alex_06](./2026-01-21_Fake-Alex_06.jpeg)
+- [Report via @__BigJo](https://x.com/__BigJo/status/2014251557936574874)
+- [Report via @AlexQuellsIt](https://x.com/AlexQuellsIt/status/2013264216971747775)
+- [Report via @FloeLabs](https://x.com/FloeLabs/status/2013264532026937639)
+- `uo03webzoom.us/j/5855448857?pwd=GGKVTTTSwQBrAtavhvjxOzbnogxDbC.1`
+- `calendly.com/alex_floe`
+
+
+![](./2026-01-21_Fake-OxZhuang.jpeg)
+- [2026-01-21_Fake-OxZhuang](./2026-01-21_Fake-OxZhuang.jpeg)
+- [Report via @0x_ZHUANG](https://x.com/0x_ZHUANG/status/2009490239111520450)
+- [Report via @0x_ZHUANG](https://x.com/0x_ZHUANG/status/2013277346800033897)
+- `calendly.com/scallop-joe/30min`
+
+
 ![](./2026-01-12_Fake-Merry_2010474997400388083.jpeg)
-- tg: merry_wen 1671678526
-- +1 206 636-4415
 - [Report via @merrywen778899](https://x.com/merrywen778899/status/2010660649232445673)
 - [Report via @merrywen778899](https://x.com/merrywen778899/status/2010474997400388083)
 - [2026-01-12_Fake-Merry_2010474997400388083](./2026-01-12_Fake-Merry_2010474997400388083.jpeg)
-
+- tg: `merry_wen` `1671678526`
+- `+1 206 636-4415`
 
 ![](./2026-01-12_Fake-Issei_2010792812925874587.png)
-- tg: isseikashima 5656935590
+- tg: isseikashima issei_kash 5656935590
 - [Report via @0xissei](https://x.com/0xissei/status/2010792812925874587)
 - [2026-01-12_Fake-Issei_2010792812925874587](./2026-01-12_Fake-Issei_2010792812925874587.png)
 
 
 ![](./2026-01-12_Fake-Bhavy_2010718087855895036.png)
-- +1 206 354-4835
-- calendly.com/bhabyasinghal/30min
 - [Report via @BhBhavy](https://x.com/BhBhavy/status/2010718087855895036)
 - [2026-01-12_Fake-Bhavy_2010718087855895036](./2026-01-12_Fake-Bhavy_2010718087855895036.png)
-
+- `+1 206 354-4835`
+- `calendly.com/bhabyasinghal/30min`
 
 ![](./2026-01-10_Fake-Hasheur_2010003317020389670.jpeg)
-- https://calendly.com/hasheur/30min
 - [Report via @1powerhashuer](https://x.com/1powerhashuer/status/2010003317020389670)
 - [2026-01-10_Fake-Hasheur_2010003317020389670](./2026-01-10_Fake-Hasheur_2010003317020389670.jpeg)
-
+- `calendly.com/hasheur/30min`
 
 ![](./2026-01-08_Fake-Brickken_2009429877129400699_1.jpeg)
 ![](./2026-01-08_Fake-Brickken_2009429877129400699_2.jpeg)
 ![](./2026-01-08_Fake-Brickken_2007968094057357628.jpeg)
 ![](./2026-01-08_Fake-Brickken_2008484082024403382.jpeg)
-- tg: Ludolz 422758267
 - [Report via @rossegates](https://x.com/rossegates/status/2009429877129400699)
 - [Report via @Ludovico__Rossi](https://x.com/Ludovico__Rossi/status/2007968094057357628)
 - [Report via @Ludovico__Rossi](https://x.com/Ludovico__Rossi/status/2008484082024403382)
@@ -42,14 +125,15 @@
 - [2026-01-08_Fake-Brickken_2009429877129400699_2](./2026-01-08_Fake-Brickken_2009429877129400699_2.jpeg)
 - [2026-01-08_Fake-Brickken_2007968094057357628](./2026-01-08_Fake-Brickken_2007968094057357628.jpeg)
 - [2026-01-08_Fake-Brickken_2008484082024403382](./2026-01-08_Fake-Brickken_2008484082024403382.jpeg)
+- tg: `Ludolz` `422758267`
+
 
 ![](./2026-01-08_Fake-Jocy-IOSG_2009196164860531143.jpeg)
-- tg: jocyliniosg 540329858
-- calendly.com/jocylin/30min
 - [Report via @jocyiosg](https://x.com/jocyiosg/status/2009196164860531143)
 - [Report via @jocyiosg](https://x.com/jocyiosg/status/1910515357644972414)
 - [2026-01-08_Fake-Jocy-IOSG_2009196164860531143](./2026-01-08_Fake-Jocy-IOSG_2009196164860531143.jpeg)
-
+- tg: `jocyliniosg` `540329858`
+- `calendly.com/jocylin/30min`
 
 
 
@@ -280,8 +364,14 @@ Various Reports:
 - [2025-10-21_Fake-Fake-Dunamu.jpeg](./2025-10-21_Fake-Fake-Dunamu.jpeg)
 
 ![](./2025-10-21_Fake-Jennifer-01.jpeg)
+![](./2025-09-29_Fake-Jennifer_01.jpeg)
+![](./2025-09-29_Fake-Jennifer_02.png)
 - [2025-10-21_Fake-Jennifer-01.jpeg](./2025-10-21_Fake-Jennifer-01.jpeg)
-
+- [2025-09-29_Fake-Jennifer_01](./2025-09-29_Fake-Jennifer_01.jpeg)
+- [2025-09-29_Fake-Jennifer_02](./2025-09-29_Fake-Jennifer_02.png)
+- [Report via @ronaparajit](https://x.com/ronaparajit/status/1980799219972862128)
+- [Report via @HeyNat](https://x.com/HeyNat/status/1972640549329936792/)
+- [Report via @JJz_o3o](https://x.com/JJz_o3o/status/1967534329644634603)
 
 ---
 
