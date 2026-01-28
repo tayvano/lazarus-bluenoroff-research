@@ -44,27 +44,21 @@ G:: 386443
 
 - 0x9f25779098c5632da2ec55d161c4e5f2afc4e0ec - Victim
 
-- DRiEQuJ9pt3GgNraQmHVTjNg4B7uv1XuGb - Direct Theft
-
 - 0x40d76a78ddba2ea81fb0f9fba147a08bcfc2b866 - Direct Theft
-
 - 0xd2c8ede41fb84d18353a7abbcf6448f2e6b664e0 - Theft / Tornado Cash
-
-- 0xe91d865fa46b702bdfe5ad5a92aedf8509292368 - Some leftovers
+- 0xe91d865fa46b702bdfe5ad5a92aedf8509292368 - 2025-09-24 Dormant
 
 - DTmUeSUvovP8B6Xi3rJZvamF5Jp9cUBAMJ - ChangeNOW
-
 - DSTvGNM71GuCVo2qKPsuEdWiNfNf8fAhCL - FixedFloat 
-
 - 0x192eb4ad3a6be5e16930fb74751d9e35cd7ee172 - Sideshift ($60k)
-
 - 0x6345c0e4035d2549483bded3c7450c3bbdc34d09 - Sideshift ($60k)
-
 - 0x191cae7abf6a800ae26d2ea8020c28ff10034d95 - Dormant
-
 - 0x929131e5e6ed96b10244cc8999727234a4f235c9 - Kucoin Depo
 
+- DRiEQuJ9pt3GgNraQmHVTjNg4B7uv1XuGb - Direct Theft
+
 - bc1qx0a2kfjd7eweczv8xqjm6rggm40v0nkhfss78l - Direct Theft
+- bc1qxhxps43g4dwtw0d2nzkedwj738pesg0cptrd00 - Direct Theft
 
 - bc1qwv09kam4yl90es3evmk6ghdqxu0jd25wskun3p - 2025-10-31
 - bc1qhvaly2mkn0rul4fxpd8pcnq32zemh97c5pnmr7 - 2025-10-31

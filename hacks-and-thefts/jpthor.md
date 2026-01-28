@@ -15,7 +15,17 @@ G:: 382609
 
 ## Details
 
-Persona: Fake [Rena](./rena.md) (Stacks ecosystem)
+Persona:: Fake [Rena](./rena.md) (Stacks ecosystem)
+
+Call: 2025-09-04 5:44AM PT
+
+URL:: hidden under `us05web.zoom.us/i/82956925994?pw=dxebaS7ocuo0h5YymaYJkpXXFUUHbh.1`
+
+Persona:: `yoannturp@gmail.com`
+
+Persona:: `vince.frax@gmail.com`
+
+
 
 > Got targeted AGAIN on my workstation. 
 > Noticed a weird pop up which I dismissed. Immediately heard the Finder “download” sound (like you hear when copying files). 
@@ -43,6 +53,7 @@ Persona: Fake [Rena](./rena.md) (Stacks ecosystem)
 
 [Source](https://archive.ph/2WZZN)
 
+
 > finally tracked down the source of the attack
 > friend's hacked telegram account with a zoom link.
 > Note: this is the OFFICIAL zoom link and I joined IN THE browser. I literally saw a deep fake of my friend, but couldn't hear anything so dropped off and tried on google meets. 
@@ -52,7 +63,7 @@ Persona: Fake [Rena](./rena.md) (Stacks ecosystem)
 [Source](https://archive.ph/KU1JE)
 
 
-What I found on my computer running
+> What I found on my computer running
 
 [Source](https://archive.ph/msP8C)
 
@@ -83,8 +94,6 @@ What I found on my computer running
 https://archive.ph/dfHRg
 
 
-
-
 ## Further Reading
 
 - https://x.com/lookonchain/status/1966426219639144474
@@ -99,6 +108,15 @@ https://archive.ph/dfHRg
 Another person targetted by fake Rena:
 
 - https://x.com/sat_eth/status/1960290703826706563
+
+
+## Connections
+
+2025-09-10
+
+- From: [JP THOR THEFT](./jpthor.md) 0x37cdb6b40861f350e23aa5733e75755fcbed739f
+- To: [SOLOLABS THEFT](./sololabs.md) 0xb03eceb8ac5179d344f26b31c8377955200734e2
+
 
 
 
@@ -118,14 +136,13 @@ Another person targetted by fake Rena:
 - 0xc233aa1831251a6223cb35e9eb624bce8c3ea85a - Theft / FixedFloat Outs
 
 - 0x26ab8d50d8b629501a25ceab6cb7f336cf9111e5 - Thorchain 2025-09-15
-- 0x2837bd30577d1374a5418b4c1c2b6b9749284bc6 - Thorchain 2025-09-15
+- 0x2837bd30577d1374a5418b4c1c2b6b9749284bc6 - Thorchain 2025-09-15 Near Intents
 - 0x614e58853e5fffac9f49b36de524ddff3da1a179 - Thorchain 2025-09-15
 
 - 0x7abc09ab94d6015053f8f41b01614bb6d1cc7647 - Theft Tornado Outs 2025-09-12
 
 - 0x7973d39be58c61e9b9257cc660aee5f565e973da - Near Intents Depo
 - 0x374ceee19d49589c307207d80eba1698c25c4dca - Near Intents Depo
-- 0x2837bD30577D1374a5418B4c1c2b6b9749284Bc6 - Near Intents Depo
 - 0x6b6b99fe0e07faf85175588b63fc72b6d460bcb2 - HitBTC Depo
 - 0x19f9e44e113bea269330ece219cc3a5f2d4127d6 - HTX
 - 0x1ab2e36f6a0e8e180d836199958eb76a4dc885b5 - Gate
@@ -148,12 +165,13 @@ Another person targetted by fake Rena:
 - bnb15umuwjaxymmhdyjujpnxwakywh2ra25knsszsh - Victim
 - 0x1e2afd94cec831a456b75b0198b544017e09f9c5 - Theft
 - 0xbb3a46dd04e1ca0e59d73e55a4184b80e920858a - Theft
-- 0x73f452858c88bda6e87a657d7ed2ed0e0cdbc7f7 - Theft / Holding $1.135 from BNB
-- 0xb70f8680977000B492c68ace6c5097a6B7fB504F - Theft 2025-11-18
-- 0x0bb6885d6992258256A517860C3484808Ee1d8Ad - Theft 2025-11-18
-
+- 0x73f452858c88bda6e87a657d7ed2ed0e0cdbc7f7 - Theft $1.135 from BNB
+- 0xb70f8680977000B492c68ace6c5097a6B7fB504F - Theft / Dormant 2025-11-18 
+- 0x0bb6885d6992258256A517860C3484808Ee1d8Ad - Theft / Dormant 2025-11-18
 
 - 0x66844e1651e9aee73fdf8633902702682b8cdf9e - Gas Funder?
+- 0xaa2943fc78ab8e5be861bc03d95d43f2c47fbe56 - from Gas Funder (2025-09-19) to Hyperunit (2025-12-09)
+
 - 0xcbcd040651e80bb4fcfe685d54852181c9819d7f - From Gate
 - 0xce747f7efdb82d3e3a1d3a9d02f8dbc17a199b9e - Testing?
 - 0xb3e00e57935590c77ac7e0630c934b697b96caea - Testing?
@@ -168,21 +186,13 @@ Another person targetted by fake Rena:
 ## Timeline
 
 2025-09-04 12:45 - Call
-
 2025-09-09 2:54 - Theft
-
 2025-09-09 3:28 - Attempts to Dump
-
 2025-09-09 23:45 - Starts Dumping
-
 2025-09-10 03:30 - Done Dumping
-
 2025-09-10 09:15 - Done for the day
-
 2025-09-10 12:54 - loljk withdraw BNB (0x1e2afd94cec831a456b75b0198b544017e09f9c5)
-
 2025-09-12 12:38 - More Cleanup
-
 2025-09-17 13:08 - BNB Moves
 
 
@@ -214,9 +224,8 @@ Another person targetted by fake Rena:
 - 2025-09-12 08:41 - 10 ETH (Withdrawal via 0x7abc)
 
 
-## Connections
 
-- [Sololabs](./sololabs.md) - Tries to send to a Solo address
+
 
 
 

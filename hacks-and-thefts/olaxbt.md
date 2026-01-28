@@ -56,39 +56,52 @@ Overlaps a fuckload with [Sololabs](./sololabs.md)
 
 - 0xBCb51649900F477997DB1b015A4Eb69d8C549FF5 - Dust
 
-- 0x7b51893f43ba5a2361afaf0b15423a8c45f87739 - Gas from Tornado 
+- 0x7b51893f43ba5a2361afaf0b15423a8c45f87739 - Tornado Cash Withdraw Gas
 
-- 0x7b51893f43ba5a2361afaf0b15423a8c45f87739 - To Tornado 2025-09-02
+- 0x7b51893f43ba5a2361afaf0b15423a8c45f87739 - Tornado Cash Depo 2025-09-02
+- 0x0b2409bc3a5e60a4577b4a4867fe16354ac4cedd - Tornado Cash Depo
+- 0xbb28b4b4d19f8ae9b3c9bf003ae82cf54d29fa98 - Tornado Cash Depo
+- 0x70c54c90be4154c03c3dbd61a9e5f05f14485ac0 - Tornado Cash Withdraw 2025-09-03
+- 0x562b466fd0cbcf0ee5085563a014ffbbe090361b - Tornado Cash Withdraw 2025-09-03
+- 0x00b325cb5402dd3795d8f9673f7e3c288dc85d4c - Dormant 2025-11-18 $1.0m
+- 0xcca4a8a057185a8912258f917404947a26a83069 - Dormant 2025-11-18 $1.6m
 
 
 ## Timeline
 
 - 2025-09-01 6:52 UTC - Theft Starts
-
 - 2025-09-01 15:02 UTC - Done
-
 - 2025-09-02 12:47 UTC - Laundry / TC
 
 
 
-### Tornado Cash
+## Connections / Tornado Cash
 
-- 5x100ETH + 1x10ETH
+### [Rena?](./rena.md)
 
-- 2025-09-02 12:47 - 100 ETH Deposit
+- 2025-09-03
+- Txn: 0x268d70d29c4887bdba86a4f7193966c2b8347839ee9c7ad7b6603dd4a84e0535
+- From: Tornado Cash Withdrawer
+- To: Rena Theft?
 
-- 2025-09-02 13:04 - 100 ETH Deposit
+- 0x82ffef1201291c868919f995e2fd5ef3c822b75d - 2025-08-13            - from Gate Allbridge
 
-- 2025-09-02 13:05 - 100 ETH Deposit
+- 0x7b51893f43ba5a2361afaf0b15423a8c45f87739 - 2025-09-02            - OlaXBT                 - Tornado Withdrawls  -                    + 1x0.1
+- 0x0738c5bf93f5ac20bc01637e4a094df1e4cbd9ef - 2025-09-02            - OlaXBT                 - Tornado Deposits    - 5x100 + 1x10
+- 0x0b2409bc3a5e60a4577b4a4867fe16354ac4cedd - 2025-09-02            - TC from Gate Allbridge - Tornado Deposits    - 2x100 + 5x10 + 6x1 + 7x0.1 
+- 0xbb28b4b4d19f8ae9b3c9bf003ae82cf54d29fa98 - 2025-09-03            - TC from Rena? Theft    - Tornado Deposits    - 1x100              + 1x0.1
 
-- 2025-09-02 13:06 - 100 ETH Deposit
+- 0x0738c5bf93f5ac20bc01637e4a094df1e4cbd9ef - 2025-09-02            - OlaXBT                 - Tornado Withdrawals                      + 3x0.1
+- 0x70c54c90be4154c03c3dbd61a9e5f05f14485ac0 - 2025-09-02 2025-09-04 - TC                     - Tornado Withdrawals - 5x100 + 1x10
+- 0x562b466fd0cbcf0ee5085563a014ffbbe090361b - 2025-09-03            - TC Connects to Rena    - Tornado Withdrawals - 3x100 + 5x10 + 3x1
 
-- 2025-09-02 13:08 - 100 ETH Deposit
+- 0x00b325cb5402dd3795d8f9673f7e3c288dc85d4c - 2025-11-18            - Dormant
+- 0xcca4a8a057185a8912258f917404947a26a83069 - 2025-11-18            - Dormant
 
-- 2025-09-02 13:48 - 0.1 ETH Withdrawal
 
-- 2025-09-02 13:51 - 10 ETH  Deposit
+### [Sololabs](./sololabs.md)
 
-- 2025-09-02 14:28 - 0.1 ETH Withdrawal
-
-- 2025-09-02 14:29 - 0.1 ETH Withdrawal
+- 2025-09-01
+- Txn: 0x125db4fd35fd55a5d3bfc4a980b32e8e8a237cda02b125c4af2e18b05d977436
+- To/From: 0x7a28c433a22403ef3d35259c8da544d7857aa839 Sololabs
+- To/From: 0xec75a0bb45a07f6e23760c7fe8fcb2408a74348c OlaXBT

@@ -79,7 +79,7 @@ This is mostly ZachXBT's work and research. I've just copy/pasted.
 
 #### Favrr ITW 4 - Ikeda Okura
 
-- 0xeabeb8D76E27248eC35333bAdaad9219D8f5797 - Payroll
+- 0xeabeb8d76e27248ec35333badaad9219d8f57973 - Payroll
 
 - 0x6c90b98b8c5c41d615300b9ed774f85b29078ca2 - ifeel.eth, DPRK IT: 1:25-cv-01769
 
@@ -98,6 +98,21 @@ This is mostly ZachXBT's work and research. I've just copy/pasted.
 - victor3290lee@gmail.com
 
 - github.com/blue32captain 
+
+
+#### Theft
+
+- 0xa69b014c72087297af758aef45ac89081c7153c6
+- 0x34518ad268c0eadefde7a9fc5278f3acc39a3677
+- 0x5ecdbcf92d7ff3af094f103a0fa4261f636c3a29
+- 0xbbd8e8cab3674955017658760dcc7c8736d955c7
+- 0x0946d8be9d66a9f7368e6a05251e419e217a8195
+- 0xdb88759877a854faf0b7a8dfa85bfe3a79d82769
+- 0x23f4987014a76f19ffb358f362485a744e548bcd
+- 0x0d369fae200801c013bb83677733f64e88394bde
+- 0xe4b738e1bad879ded6bbc0e8a83f2c1618f45126 - Gate
+- 0xe826c702c35d728315351aec9e93bcf461989de6 - Gate
+
 
 
 

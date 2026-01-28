@@ -73,6 +73,7 @@ Persona:: Fake Erstling Micah
 - 0xd724650b4adcada0577742da3d24371016aed8e3 - SideShift Depo (Hyper)
 - 0xfc13483ba2a12c63456f4e3568630ce1dfba44df - Sideshift Depo (Hyper)
 - 0xefc6b86db051f94f229857c2f2a8cc58cfd6f44f - Sideshift Depo (2025-09-20)
+- TSFzCFe6a9UTsoAJTpWZhrXvRGTupq6xFh - FixedFloat Depo
 
 - TTGW8MCNUC74X2LfF6xD1LCqWqHSKfRqyH
 

@@ -63,9 +63,9 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - ALkCH6qD8X9k9fCHgDCXeZQEzgLibpbnLLD5W4pcesPh - Theft
 - GB2f9WSu4MKwqngGGXbqwih6h9nohs2BurVtfHdfkpnL - Theft
 
-- 0x95F0564879D5e33000d53107ADaeA6809aaa3838 - Tornado Cash Depos; 2025-11-07; 1910 ETH
-- 0x7c1cf2f256d2e83dee5ae15e7ac0f7f6197e780b - Tornado Cash Depos; 2025-11-10; 8 ETH; overlaps with Singularity/Request
-- 0xa9a166febace09fd620a3b85cbc6d40e535fbdf1 - Tornado Cash Depos; 2025-11-13; 525 ETH  
+- 0x95F0564879D5e33000d53107ADaeA6809aaa3838 - Tornado Cash Depos; 2025-11-07 1910 ETH; 2026-01-25 2026-01-26 2 ETH
+- 0x7c1cf2f256d2e83dee5ae15e7ac0f7f6197e780b - Tornado Cash Depos; 2025-11-10 8 ETH; overlaps with Singularity/Request
+- 0xa9a166febace09fd620a3b85cbc6d40e535fbdf1 - Tornado Cash Depos; 2025-11-13 525 ETH  
 - 0x3771CEc8C6e05E9428Dd72095c51Ac514bDc837A - Tornado Cash Depos
 - 0x5Ca008507dD05ce0130461f9E9dF2A5edeA994B3 - Tornado Cash Depos
 
@@ -130,6 +130,8 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 
 - TR7fx4ZmcC9r2fXhSWDYWrVEL9tmNUqkTP ($1.5m)
 - TN3EyaNzFDYunqxbsDEZ2v5iEz84rbLPQz ($1.4m)
+
+- 
 
 
 ## Tornado Cash

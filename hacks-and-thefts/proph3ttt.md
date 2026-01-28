@@ -15,7 +15,7 @@ G:: 407955
 
 Connects to Trufulation directly lol
 
-
+Humla Ventures dude
 
 
 
@@ -40,6 +40,8 @@ Connects to Trufulation directly lol
 - 0x61cca22bf0d430ef01d2de1b5087e7c779a7c425 Victim - Other
 - 0xe6571b0141c6fbeef44cddc7408519d01369cea6 Victim - Other
 - 0x40e333e27ae01e6b02fe3cc94e6d82349aeceeee Victim - Other
+- 0x450d2cd9a3a2b8230252d99284776b15730947aa Victim - Other
+
 
 - BDhxM2n6jwWBDuu8HwE9vbihJGaft5CaFAiRMhTmbkHB SOL 2025-11-03; commingles with [Truflation](./truflation.md)
 - AtvNL88Uarnip6BBSf9vG33Lf1KJDsr7uNzEKnfaQAxH SOL 2025-11-03; commingles with [Truflation](./truflation.md)

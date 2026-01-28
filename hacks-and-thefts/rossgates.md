@@ -14,11 +14,13 @@ G:: 382609
 
 ## Details
 
-Persona:: Fake Erstling Micah
+Persona:: Fake Micah Erstling
 
-Call in July
+- `zoom.usweb01[.]us/j/9176304293?pwd=1hucnJYTLgaSCpiypQu8ZMenerbbxy.1`
 
-Overlaps with [JP Thor](./jpthor.md)
+- Call in July
+
+- Overlaps with [JP Thor](./jpthor.md)
 
 
 ## Onchain

@@ -2,9 +2,13 @@
 
 Date:: 2024-05-15
 
+Time:: 
+
 Amount Stolen:: $4,300,000
 
-Tags:: 🔑
+Tags:: 🔑 MESSYMESS
+
+G::
 
 ---
 
@@ -23,7 +27,6 @@ The exploiter had also tried, and failed, to steal assets notionally worth aroun
 
 On 2024-05-14, CertiK’s internal alerting system detected a suspicious transfer of $4.3 million worth of assets to a wallet on the Binance Smart Chain, with an additional 13.7 million STX worth $2 million that was transferred to a malicious address. The incident was due to a private key compromise of the project’s deployer which has been confirmed by the project since the attack. The funds that were affected on BSC were front run by a wallet who has begun negotiations to return the assets to the project. At the time of writing, the funds affected total $6.3 million.
 
-
 > Update on the ALEX Incident Investigation
 > Dear ALEX Community,
 > We wish to share an important update on the ALEX incident investigation from last month, which resulted in unauthorized access and the loss of funds. We understand the severity of this issue and are committed to full transparency in our ongoing response.
@@ -34,8 +37,6 @@ On 2024-05-14, CertiK’s internal alerting system detected a suspicious transfe
 > 1. Initial Exploit Link: Address 0x418e337774d26365efeaa4700e889a9746330c4e was directly linked to the
 > XLink/ALEX Exploit. That address sent funds to 0x639F61cA3E0e3fDCd654DC4A22579e7382dEBeA3.
 > 2. Connection to Lazarus Group: Address 0x639F61cA3E0e3fDCd654DC4A22579e7382dEBeA3 used a known Lazarus TRON address (TSMQQM9NMumDfZryQCtsKT5d5kgt7Ck2rm).
-
-
 
 
 ## Further Reading
@@ -228,10 +229,19 @@ On 2024-05-14, CertiK’s internal alerting system detected a suspicious transfe
 - Note: FixedFloats for gas from TLDEPVvBSjcQq2tc7HixdSkuE9F5kqW9hg, per usual
 
 
+## Connections
+
+2025-12-13
+
+- From: [Maverick Theft](./maverick.md) 0xba10192a4939edb3f74345878bc379b7f89b4b28
+
+- To: [Alex Labs Tester](./alex_labs.md) 0x7ab0fad50169e05d6d688c832c9c9103216a94b4
+
+- Txn: 0x14d91788d045b31cca74a867ae4f70626a99c06fe48f4a864b9aa9af279eea84
 
 
 
-### Personal/Test Wallets
+## Personal/Test Wallets
 
 - 0x2bd8a5310f2b62aee6c1fde782a1bb02e23ef9c1 Alex
 - 0x474ae2bedc010e746f26723c508a83ca09d18029 Alex
