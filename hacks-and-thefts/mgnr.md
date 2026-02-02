@@ -1,6 +1,6 @@
 # MGNR
 
-Date:: October 8th, 2021
+Date:: 2021-10-08
 
 Amount Stolen:: $24,100,000
 
@@ -80,6 +80,17 @@ Tags:: 🔑
 - 0xaaa51a89c7d3342e0c4e6084713aa44248a7a232
 
 
+### 2026 Activity
+
+- 0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc - 2022-08-30 Zach Freeze + [MGNR](./mgnr.md) Funds and/or [Bondly](./bondly.md) Funds
+- bc1qn7psrmt3800l6ejwdmy3ydzwehh9j3pxpxjyjp - 2022-08-30 Zach Freeze + [MGNR](./mgnr.md) Funds and/or [Bondly](./bondly.md) Funds
+- bc1q27vxzyuh4vqwt3u9aqpuk7z5xtgz9y0tqxzesq - 2022-09-05 From [Zach's Thread](https://x.com/zachxbt/status/1792666848951239026) - https://x.com/zachxbt/status/1792666848951239026
+- bc1qzumu2k8v2v4kte2esqaw798mf4v2vdruwax7rq - 2026-01-31
+- bc1qwtpszrrfp9cvsqy9ewmcqle7k9qaj92920cljr - 2026-01-31 Post-TC
+- 0x3f45f6211db056d7eb0c0e69d55a2d5ff4f9b347 - 2026-01-31 Post-TC
+- 0xfd93166d4737938e2a2b2e9f237c03bc12a09e0b - 2026-01-31 Consolidates with [Garden Finance](./garden-finance.md)
+
+
 ## Further Reading
 
 - https://twitter.com/0xwordcel/status/1448497088627503108
@@ -88,4 +99,9 @@ Tags:: 🔑
 - https://web.archive.org/web/20211014032211/https://twitter.com/mgnr_io/status/1448489258029703168/
 - Some of mgnr's addresses are ID'd [here](https://cryptocatvc.medium.com/mgnr-io-maple-finance-7e70241e5f4), however the author makes the fatal mistake of attributing large sweeps / dumps / closing of positions to malicious activity on mgnr's part, not the hackers. rip mgnr. (and shity sleuths.)
 - [Annex 95: Suspected DPRK cyberattacks on cryptocurrency-related companies (2017-2023) investigated by the Panel](../pdfs/2024-03-07_UN-Security-Council_s-2024-215.pdf)
+
+
+
+
+
 

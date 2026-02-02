@@ -1,6 +1,6 @@
 # Hyperliquid Loser
 
-Tags:: 🔑 2025 DUST COLLECTOR
+Tags:: 🔑 DUSTYDUST
 
 --
 

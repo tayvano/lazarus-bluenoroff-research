@@ -6,7 +6,7 @@ Time:: 9:05 UTC
 
 Amount Stolen:: $27,000,000 (minus $3,000,000 used for the position)
 
-Tags:: 🔑, POS
+Tags:: 🔑 POS
 
 G:: 382712
 

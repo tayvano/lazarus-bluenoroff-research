@@ -76,6 +76,17 @@ The password account contained a mnemonic recovery phrase for his hardware walle
 
 
 
+### 2026 Activity
+
+- 0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc - 2022-08-30 Zach Freeze + [MGNR](./mgnr.md) Funds and/or [Bondly](./bondly.md) Funds
+- bc1qn7psrmt3800l6ejwdmy3ydzwehh9j3pxpxjyjp - 2022-08-30 Zach Freeze + [MGNR](./mgnr.md) Funds and/or [Bondly](./bondly.md) Funds
+- bc1q27vxzyuh4vqwt3u9aqpuk7z5xtgz9y0tqxzesq - 2022-09-05 From [Zach's Thread](https://x.com/zachxbt/status/1792666848951239026) - https://x.com/zachxbt/status/1792666848951239026
+- bc1qzumu2k8v2v4kte2esqaw798mf4v2vdruwax7rq - 2026-01-31
+- bc1qwtpszrrfp9cvsqy9ewmcqle7k9qaj92920cljr - 2026-01-31 Post-TC
+- 0x3f45f6211db056d7eb0c0e69d55a2d5ff4f9b347 - 2026-01-31 Post-TC
+- 0xfd93166d4737938e2a2b2e9f237c03bc12a09e0b - 2026-01-31 Consolidates with [Garden Finance](./garden-finance.md)
+
+
 ## Further Reading
 
 - https://rekt.news/bondly-rekt/

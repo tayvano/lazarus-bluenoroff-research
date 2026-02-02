@@ -1,19 +1,20 @@
 ## Russell Feb 2025 Theft
 
-Date:: February 4th, 2025 
+Date:: 2025-02-04
 
 Time:: 2:30 AM
 
 Amount Stolen:: $1,125,700 (minus the $390k they paid themselves for the open loan?)
 
-Tags:: 🔑, XMR, POS
+Tags:: 🔑 XMR POS
 
 --
 
 ## Details
 
-Feb 1 07:56 whoops
+- Feb 1 07:56 whoops
 
+- Rtgecompany
 
 ## Onchain
 
@@ -69,10 +70,8 @@ Feb 1 07:56 whoops
 - 0xac30bddfe0129eceb7547b709ba102ef597ec763 - Consolidation (2025-03-19)
 - 0xdd8da56ce53d9d6dd9575916726433c7e5a5ca5b - Consolidation (2025-03-19)
 
-
 - 0x16c9449129366d3f98da5a578eeb12be12d17d6c - Most Likely Outputs
 - 0xe9f98c5c413e7b8e63b1994bf84aae4d70f235d0 - Most Likely Outputs
-
 
 - 0x621a96336e98e1d6ca138a1e57243222726102c1 - Post XMR Laundry, Converges with [Sololabs](./sololabs.md)
 - 0x144620647f5c26348241e5ca5fceb94c7d9f728a - Post XMR Laundry, Converges with [Sololabs](./sololabs.md)

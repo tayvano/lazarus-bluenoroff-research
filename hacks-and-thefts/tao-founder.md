@@ -1,10 +1,12 @@
 # TAO Founder
 
-Date:: May 24th, 2025
+Date:: 2025-05-24
+
+Time:: 04:44
 
 Amount Stolen:: $5,116,358
 
-Tags:: 🔑 
+Tags:: 🔑 DUSTYDUST
 
 
 ---
@@ -30,8 +32,6 @@ Tags:: 🔑
 
 
 ## Onchain
-
-
 
 - 0x00f71f304c9529eeb0e2373a7ea00584afcf8551 - Victim
 - 0x0bed0174b4466390beaa7e56f66cc7bff0579ff4 - Victim

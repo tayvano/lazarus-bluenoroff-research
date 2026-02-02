@@ -64,8 +64,9 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - GB2f9WSu4MKwqngGGXbqwih6h9nohs2BurVtfHdfkpnL - Theft
 
 - 0x95F0564879D5e33000d53107ADaeA6809aaa3838 - Tornado Cash Depos; 2025-11-07 1910 ETH; 2026-01-25 2026-01-26 2 ETH
-- 0x7c1cf2f256d2e83dee5ae15e7ac0f7f6197e780b - Tornado Cash Depos; 2025-11-10 8 ETH; overlaps with Singularity/Request
+- 0x7c1cf2f256d2e83dee5ae15e7ac0f7f6197e780b - Tornado Cash Depos; 2025-11-10 8 ETH; 2025-11-10 400 BSC + 40 BSC; overlaps with Singularity/Request
 - 0xa9a166febace09fd620a3b85cbc6d40e535fbdf1 - Tornado Cash Depos; 2025-11-13 525 ETH  
+- 0x7d76ee241512d1b2db5a7e09fd04f5da71b31369 - Tornado Cash Depos; 2025-11-07 10x100 BSC
 - 0x3771CEc8C6e05E9428Dd72095c51Ac514bDc837A - Tornado Cash Depos
 - 0x5Ca008507dD05ce0130461f9E9dF2A5edeA994B3 - Tornado Cash Depos
 
@@ -76,7 +77,7 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - 0x6a7ac163b801ee0c26d2eda04f0c0fb96023ff5e - Post-TC
 - 0x0be734566a936f7b4f785e65b91eac724aad7a18 - Post-TC
 - 0x17a05a675e02bf9f8376e17a71ceb134b9e5a642 - Post-TC
-- 0x9bd0baf7afe069c9610ce22103cdf56934a228b9 - Post-TC
+- 0x9bd0baf7afe069c9610ce22103cdf56934a228b9 - Post-TC - [Request/Snet](./request-singularity.md)
 - 0x5c6de8f14526a0111e853febf9f4fc74a3a3eb7d - BSC Tornado Withdrawals (200 BSC)
 - 0xde28afaadb6829cd150544bbdc32b4f6b88685ad - BSC Tornado Withdrawals (120 BSC)
 - 0x0ee23d24e7db7c4cd2befc43f431cdb6af20db2e - BSC Tornado Withdrawals (20 BSC)
@@ -109,8 +110,11 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - 0x773ced588987c836c9a4c3510927302beb6484fe - Tornado Cash Withdrawals (200 ETH) / Railgun Depos (108 ETH)
 - 0x294f9b0155e97d68bc18400db05418a3c59d99a2 - Tornado Cash Withdrawals (200 ETH) / Railgun Depos (200 ETH)
 - 0x4dfa2df244e196b21026753ab5d571a0b9168f00 - Post-TC / Railgun Depos (30 ETH)
+- 0x5c6de8f14526a0111e853febf9f4fc74a3a3eb7d - Tornado Cash Withdrawals BSC
+- 0xde28afaadb6829cd150544bbdc32b4f6b88685ad - Tornado Cash Withdrawals BSC 2025-11-13
+- 0x0ee23d24e7db7c4cd2befc43f431cdb6af20db2e - Tornado Cash Withdrawals BSC 2025-11-13
 
-- 0xfd93166d4737938e2a2b2e9f237c03bc12a09e0b - Post-TC / Staking / Railgun Withdrawals (500 ETH)
+- 0xfd93166d4737938e2a2b2e9f237c03bc12a09e0b - Post-TC / Staking / Railgun Withdrawals (500 ETH) 2025-11-08 2025-12-10
 - 0xa9f5cb4a5dbd6432292a632921d250d2df93ae73 - Post-TC / Staking / Railgun Withdrawals (500 ETH)
 - 0xf295f15d8e933fba1d56bb278ef8972104f24056 - Post-TC / Staking / Railgun Withdrawals (180 ETH)
 
@@ -131,7 +135,36 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - TR7fx4ZmcC9r2fXhSWDYWrVEL9tmNUqkTP ($1.5m)
 - TN3EyaNzFDYunqxbsDEZ2v5iEz84rbLPQz ($1.4m)
 
-- 
+
+
+### 2026
+
+- 0x47311db342664c996e62b3096e0919a493bb2727 Garden Finance Dust 2026-01-26
+- 0x95f0564879d5e33000d53107adaea6809aaa3838 Garden Finance Exploiter
+- bc1qj8ce4jgaere8y6qkzpwfp0474wwtkan9efd7t0 Garden Finance Dust 2026-01-27
+
+- 0xac34f093d016c2e1abec118235804a806f719200 2025-11-07 ???
+- 0x32538397c65a122839420799195a7d6b3f090e6f 2025-11-07 Tornado Cash Withdraw
+- 0x10c08732d271fdebbe395defb7b39f488a4da877 2025-11-07 Tornado Cash Withdraw
+- 0x73ad7a98afc97bbe84981741cc70f8e098a557c7 2025-11-07 Tornado Cash Withdraw
+- 0x456ffc9e543dd6fa14e257de73d55baf3d9b88fc 2025-11-07 Tornado Cash Withdraw
+- 0x89c0472f49cf00888346e5c2d753999dd87d1793 2025-11-07 Tornado Cash Withdraw
+- 0x4d9ecd947e995959d7a9467a0bea8e719cbe519a 2025-11-07 2025-11-24 Tornado Cash Withdraw 10 ETH
+- 0x3673139a56a5128087aeeda64ed91971262f2ad1 2025-11-24 2025-11-25 Goes to Monad on BSC
+- 0x0b8f57211f6c20d85517fc42591b7e06c025d53a 2026-02-02 Receives from Monad on ETH
+- 0xa9f5cb4a5dbd6432292a632921d250d2df93ae73 2026-02-02 Garden Finance Funds, Staked Aave
+- 0xfd93166d4737938e2a2b2e9f237c03bc12a09e0b 2026-02-02 Garden Finance Funds, Staked Aave
+
+
+- 0xdef57ccb20b1f2eaee0c64aab3280350f84cb0fc - 2022-08-30 Zach Freeze + [MGNR](./mgnr.md) Funds and/or [Bondly](./bondly.md) Funds
+- bc1qn7psrmt3800l6ejwdmy3ydzwehh9j3pxpxjyjp - 2022-08-30 Zach Freeze + [MGNR](./mgnr.md) Funds and/or [Bondly](./bondly.md) Funds
+- bc1q27vxzyuh4vqwt3u9aqpuk7z5xtgz9y0tqxzesq - 2022-09-05 From [Zach's Thread](https://x.com/zachxbt/status/1792666848951239026) - https://x.com/zachxbt/status/1792666848951239026
+- bc1qzumu2k8v2v4kte2esqaw798mf4v2vdruwax7rq - 2026-01-31
+- bc1qwtpszrrfp9cvsqy9ewmcqle7k9qaj92920cljr - 2026-01-31 Post-TC
+- 0x3f45f6211db056d7eb0c0e69d55a2d5ff4f9b347 - 2026-01-31 Post-TC
+- 0xfd93166d4737938e2a2b2e9f237c03bc12a09e0b - 2026-01-31 Consolidates with [Garden Finance](./garden-finance.md)
+
+
 
 
 ## Tornado Cash
@@ -143,112 +176,27 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 ## Railgun
 
 - Deposits: 1238 ETH
+
 - Withdrawals: 1180 ETH + $170k USDT
 
 
 
-0x5c6de8f14526a0111e853febf9f4fc74a3a3eb7d
-0xde28afaadb6829cd150544bbdc32b4f6b88685ad
-0x0ee23d24e7db7c4cd2befc43f431cdb6af20db2e
 
 
+## Connections
+
+2025-11-13
+
+- From: 0xab5b92a83382635182db5a00da81cd423a5cddb0 [Dust Collect 7ec](./sqsq-dust-collector-7ec.md) / [Dust Collect b5d](./sqsq-dust-collector-b5d.md)
+- To: 0x7d76ee241512d1b2db5a7e09fd04f5da71b31369 [Garden Finance Exploiter](./garden-finance.md)
+- Txn: 0xcaf4e6f231dfca1886665566fd6ad3206497ef6f3a8022a68f457214818a6063
 
 
+### 2025-11-10 2025-11-13
 
+- 0x7c1cf2f256d2e83dee5ae15e7ac0f7f6197e780b
+- Receives from both [SNET](./request-singularity.md) and [Garden Finance](./garden-finance.md)
 
-## 2025-10-31: Other DPRK Activity at the Time
-
-From: Hyperliquid Loser 0xa7d91C5D15Bc24b33e149E69031889cA1E361F69
-- To: 0x15c95FD455ABa77Be0d9962A4B75396632055E0f
-- Value: 444.755066 ETH ($1,715,509)
-- Network: Ethereum
-- Time: 2025-10-31 05:12:47 UTC
-- https://etherscan.io/tx/0xb9589b6ec8aa24dfc12396919ec33986f7c9af1f4cf0ba4c725b9327f99aeaa4
-
-
-From: Hyperliquid 0x2Df1c51E09aECF9cacB7bc98cB1742757f163dF7
-- To: Garden Finance Exploiter 0x98BCc6c34A489CEfdD9DfA8d792CFEFb02Ea2D12
-- Value: 1,074.000000 USD Coin ($1,074)
-- Network: Arbitrum
-- Time: 2025-10-31 05:16:55 UTC
-- https://arbiscan.io/tx/0xfece2c0e1ae40ce7c28b0bc06549b94453fac7b919524ce5493a205292a284a4
-
-
-From: SBI Crypto Theft bc1qx0a2kfjd7eweczv8xqjm6rggm40v0nkhfss78l
-- To: bc1qwv09kam4yl90es3evmk6ghdqxu0jd25wskun3p
-- Value: 109.002087 BTC ($11,959,926)
-- Network: Bitcoin
-- Time: 2025-10-31 05:23:33 UTC
-- cb5a5ae55aad608f71698068bd0186bc86714a17ac26993a4771c3879745a811
-
-
-
-
-
-## 2025-11-07: Other DPRK Activity at the Time
-
-From: Garden Finance Exploiter 0x98BCc6c34A489CEfdD9DfA8d792CFEFb02Ea2D12
-- To: 0x3771CEc8C6e05E9428Dd72095c51Ac514bDc837A 
-- Value: 1.000000 ETH ($3,335.89)
-- Network: Ethereum
-- Time: 2025-11-07 08:55:47 UTC
-- https://etherscan.io/tx/0xc2821c756537d60d9f99eb1676d96b95ff77d28de609e52a1e24edb2dfa5ff4a
-
-From: Garden Finance Exploiter 0x98BCc6c34A489CEfdD9DfA8d792CFEFb02Ea2D12
-- To: 0x5Ca008507dD05ce0130461f9E9dF2A5edeA994B3 
-- Value: 1.000000 ETH ($3,285.54)
-- Network: Ethereum
-- Time: 2025-11-07 10:48:59 UTC
-- https://etherscan.io/tx/0x7a5523c998a91030caee7d87addb7a87f54e5b2ea9bbb4942f8c9117247121b6
-
-From: Garden Finance Exploiter 0x98BCc6c34A489CEfdD9DfA8d792CFEFb02Ea2D12
-- To: 0x95F0564879D5e33000d53107ADaeA6809aaa3838
-- Value: 201.000000 ETH ($654,329.37)
-- Network: Ethereum
-- Time: 2025-11-07 11:57:23 UTC
-- https://etherscan.io/tx/0x64f5f1d9fbcf470dcab6d0230ca09d054f621001d813fb2dfcec9ffb3f46f51a
-
-From: Tornado.Cash 10 ETH
-- To: VALR+ 0xea691A99e42fD312D997aAA6967bD0D0a3431898
-- Value: 9.954095 ETH ($32,204.09)
-- Network: Ethereum
-- Time: 2025-11-07 13:42:59 UTC
-- https://etherscan.io/tx/0x98d1f425982b8abe50d171ccf2d905f68d9edb36a54b513c9f866f5b7dae3cee
-
-From: VALR+ 0xea691A99e42fD312D997aAA6967bD0D0a3431898
-- To: 0x773CeD588987c836c9a4C3510927302BeB6484FE 
-- Value: 9.000000 ETH ($29,161.71)
-- Network: Ethereum
-- Time: 2025-11-07 13:55:11 UTC
-- https://etherscan.io/tx/0x4572ea1fea1538a6e10d95727c41a995d1db3f2b37d84f3606593d51ba16bdec
-
-From: Garden Finance Exploiter 0x98BCc6c34A489CEfdD9DfA8d792CFEFb02Ea2D12
-- To: Garden Finance Exploiter  0x7D76Ee241512D1b2db5a7e09FD04F5dA71B31369
-- Value: 500.000000 BNB ($469,745.00)
-- Network: BNB Chain
-- Time: 2025-11-07 15:09:29 UTC
-- https://bscscan.com/tx/0x3dc83c5d941d4365fe7e92aed3668df37034b786fc48caee71b21b86ac9039bb
-
-From: Garden Finance Exploiter  0x7D76Ee241512D1b2db5a7e09FD04F5dA71B31369
-- To: Tornado.Cash
-- Value: 100.000000 BNB ($93,949.00)
-- Network: BNB Chain
-- Time: 2025-11-07 15:09:58 UTC
-- https://bscscan.com/tx/0x7a45d696a6653fff6f81c78dd69c6e0b6606f13190f9c7d9b15eaa20bd57ccb7
-
-From: Tornado.Cash 100 ETH 
-- To: VALR+ 0xea691A99e42fD312D997aAA6967bD0D0a3431898
-- Value: 99.597131 ETH ($329,877.65)
-- Network: Ethereum
-- Time: 2025-11-07 15:29:47 UTC
-- https://etherscan.io/tx/0xf4e5695fd4abe49bbc4e0b4854ddab588df9adb2ff4e4cc778a4433ba18d2a66
-
-From: VALR+ 0xea691A99e42fD312D997aAA6967bD0D0a3431898
-- To: 0x773CeD588987c836c9a4C3510927302BeB6484FE 
-- Value: 100.000000 ETH ($330,975.00)
-- Network: Ethereum
-- Time: 2025-11-07 15:31:59 UTC
-- https://etherscan.io/tx/0xcd237c97fbae0386e1c48eb2c887c579b50ff6f5a4ea4d60f7ce466136b5aac8
 
 
 

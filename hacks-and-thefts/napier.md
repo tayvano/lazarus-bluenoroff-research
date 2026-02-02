@@ -4,7 +4,7 @@ Date:: December 30th, 2024
 
 Amount Stolen:: $500,000
 
-Tags:: 🔑, XMR, POS
+Tags:: 🔑 XMR POS
 
 
 ---

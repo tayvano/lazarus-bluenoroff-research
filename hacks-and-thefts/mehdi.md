@@ -1,6 +1,6 @@
 # Mehdi Theft
 
-Date:: June 12th, 2025
+Date:: 2025-06-12
 
 Time:: 00:13
 

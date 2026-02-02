@@ -4,7 +4,7 @@ Date:: 2025-02-18
 
 Amount Stolen:: 1,334,230
 
-Tags:: 🔑
+Tags:: 🔑 XMR
 
 ---
 

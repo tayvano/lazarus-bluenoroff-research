@@ -1,12 +1,12 @@
 # Individual AN5
 
-Date:: September 6th, 2025
+Date:: 2025-09-06
 
-Time:: 9:09 UTC
+Time:: 09:09 UTC
 
 Amount Stolen:: $420,000
 
-Tags:: 🔑 2025 DUST COLLECTOR
+Tags:: 🔑 DUSTYDUST
 
 G:: 382609
 

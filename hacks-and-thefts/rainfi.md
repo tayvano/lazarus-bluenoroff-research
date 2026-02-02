@@ -6,7 +6,7 @@ Time:: 15:11
 
 Amount Stolen:: $2,009,331
 
-Tags:: 🔑 2025 DUST COLLECTOR
+Tags:: 🔑 DUSTYDUST
 
 ---
 
@@ -18,7 +18,7 @@ Tags:: 🔑 2025 DUST COLLECTOR
 
 - The hacker was message from fake Ian at Foresight ventures (a popular Nov 2024 persona)
 
-- Ian Xu  or ian | Foresight Ventures
+- Ian Xu or ian | Foresight Ventures
 
 - @yihanxy_ian
 

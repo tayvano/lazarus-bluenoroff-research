@@ -2,9 +2,11 @@
 
 Date:: 2025-12-16
 
+Time:: 08:56
+
 Amount Stolen:: $170,000
 
-Tags:: 🔑
+Tags:: 🔑 DUSTYDUST XMR
 
 G:: 429105
 
@@ -14,13 +16,17 @@ G:: 429105
 
 - tg: lionellightnode
 
-- ur06webzoom[.]us
-
 - `https://ur06webzoom.us/developer/sdk/fix/2/version/UDwB8Nxnx`
+
+- `ur06webzoom.us/developer/sdk/fix/2/version/UDwB8Nxnx`
+
+- `calendly.com/lionelwilliams/30min`
 
 - 2025-12-15 07:00
 
 - https://x.com/ceciliaz030/status/2000877692271649267
+
+- wBTC USDT stETH USDC Taiko swETH WETH
 
 
 

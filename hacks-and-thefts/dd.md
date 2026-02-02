@@ -1,12 +1,12 @@
 # July 4th 2025 Theft
 
-Date:: July 4th, 2025
+Date:: 2025-07-04
 
 Time:: 12:10
 
 Amount Stolen:: $544,086
 
-Tags:: 🔑
+Tags:: 🔑 DUSTYDUST
 
 ---
 

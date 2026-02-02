@@ -14,7 +14,7 @@ G:: 382609
 
 ## Details
 
-Persona:: Fake Erstling Micah
+Persona:: Fake Micah Erstling 
 
 > I'm now running a meeting with cool mates
 

@@ -16,7 +16,9 @@ G:: 382609
 
 Persona:: Fake Micah Erstling
 
-- `zoom.usweb01[.]us/j/9176304293?pwd=1hucnJYTLgaSCpiypQu8ZMenerbbxy.1`
+> I'm now running a meeting with cool mates just wanted to intro you and explore the potential synergies
+
+> `zoom.usweb01[.]us/j/9760669257?pwd=QcBpF5SiVpbOwaJLm2GnCHFksboClc.1`
 
 - Call in July
 
