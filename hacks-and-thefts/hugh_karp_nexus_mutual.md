@@ -1,6 +1,6 @@
 # Hugh Karp / Nexus Mutual
 
-Date:: December 14th, 2020
+Date:: 2020-12-14
 
 Amount Stolen:: $8,000,000
 

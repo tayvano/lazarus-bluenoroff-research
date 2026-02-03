@@ -1,6 +1,6 @@
 # EasyFi Founder Ankitt Gaur
 
-Date:: April 19th, 2021
+Date:: 2021-04-19
 
 Amount Stolen:: $81,000,000
 

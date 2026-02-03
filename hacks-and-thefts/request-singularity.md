@@ -16,7 +16,15 @@ Tags:: ❓🔑
 
 - Extension onchain testing as well as testing via their own application, including logins.
 
+- BRO HAD HIS KEYS REKT IN AUGUST 2020: [Request CEO Hack #1](./hacks-and-thefts/request.md)
 
+- They then collected dust in 2025:
+
+- 0xd7e2f6174247a06147f168f5d719427ebaa643ed
+- 0xb51ff330f2134a6ca2fd34d1c3d137b7807511fc
+- 0xf09824c180063085f53ba5f55d3f6258838db303
+
+- And rekt SNET via Request infra from there.
 
 
 ## Further Reading

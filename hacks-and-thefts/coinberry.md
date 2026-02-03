@@ -1,6 +1,6 @@
 # Coinberry
 
-Date:: August 24th, 2020
+Date:: 2020-08-24
 
 Amount Stolen: $200,000
 

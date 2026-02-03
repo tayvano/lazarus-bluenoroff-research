@@ -290,7 +290,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | ❓ | 2020-01-01 | [BTC Changers](./hacks-and-thefts/btc_changers.md)                                               | $Unknown           |
 | 👛 | 2020-08-07 | [New York Financial Services Company](./hacks-and-thefts/new_york_financial_services_company.md) | $11,800,000        |
 | 🔑 | 2020-08-18 | [Hobocrypt](./hacks-and-thefts/hobocrypt.md)                                                     | $134,000           |
-| 🔑 | 2020-08-19 | [FundRequest FND](./hacks-and-thefts/fundrequest.md)                                             | $326,000           |
+| 🔑 | 2020-08-19 | [Request CEO Hack #1](./hacks-and-thefts/request.md)                                             | $326,000           |
 | 🔑 | 2020-08-24 | [Coinberry](./hacks-and-thefts/coinberry.md)                                                     | $370,000           |
 | 🔑 | 2020-08-29 | [Tap Global](./hacks-and-thefts/tap_global.md)                                                   | $Unknown           |
 | 👛 | 2020-09-07 | [Eterbase](./hacks-and-thefts/eterbase.md)                                                       | $5,400,000         |
@@ -514,7 +514,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 |    | **2021**      | **TOTAL**                                                                          | **$198,092,751** |
 |    |               |                                                                                    |                  |
 | 🔑 | 2020-08-18    | [Hobocrypt](./hacks-and-thefts/hobocrypt.md)                                       | $134,000         |
-| 🔑 | 2020-08-19    | [FundRequest FND](./hacks-and-thefts/fundrequest.md)                               | $326,000         |
+| 🔑 | 2020-08-19    | [Request CEO Hack #1](./hacks-and-thefts/request.md)                               | $326,000         |
 | 🔑 | 2020-08-24    | [Coinberry](./hacks-and-thefts/coinberry.md)                                       | $370,000         |
 | 🔑 | 2020-08-29    | [Tap Global](./hacks-and-thefts/tap_global.md)                                     | $Unknown         |
 | 🔑 | 2020-09-11    | [Unibright](./hacks-and-thefts/unibright.md)                                       | $500,000         |

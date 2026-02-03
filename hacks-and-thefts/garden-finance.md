@@ -173,10 +173,10 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 - Withdrawals: 2439.1 ETH
 
 
+
 ## Railgun
 
 - Deposits: 1238 ETH
-
 - Withdrawals: 1180 ETH + $170k USDT
 
 

@@ -1,6 +1,6 @@
 # CoinMetro
 
-Date:: October 6th, 2020
+Date:: 2020-10-06
 
 Amount Stolen:: $740,000
 

@@ -48,7 +48,7 @@ Tags:: 🔑
 - 0x4047d9b29381d4487633ea3b942f366df9d95492 Dormant 
 
 
-### [C8 Theft - August 16th, 2023](./C8%20Theft.md)
+### [C8 Theft - 2023-08-16](./C8%20Theft.md)
 - 0x979ec2af1aa190143d294b0bfc7ec35d169d845c - Theft
 - 0x4c7c2b39e3d642d452adfca632939a60b1baacf7 - Theft
 - 0xbcd5b968a79a04bf2bb942a449f10c20a7121ed8 - Theft
@@ -57,7 +57,7 @@ Tags:: 🔑
 - 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Dust Collector Jan 2024
 
 
-### [Fantom Foundation - October 31st, 2023](./Fantom%20Foundation.md)
+### [Fantom Foundation - 2023-10-31](./Fantom%20Foundation.md)
 - 0x5cdeffa84ee3c203fee7a3901d90ff464ebff801 - Theft
 - 0x0c45060bc4c518b6942f19d7c279ed42e137d29d - Dust Collector Input
 - 0x8d82d316fc421c44e3a7f3604ff965e7a19d438c - Dust Collector Input
@@ -65,14 +65,14 @@ Tags:: 🔑
 - 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Dust Collector Jan 2024
 
 
-### [Samudai - November 10th, 2023](./Samudai.md)
+### [Samudai - 2023-11-10](./Samudai.md)
 - 0x499ec35455da5d9c1a3ca29b017a1fd4c907a9f5 - Theft
 - 0x03115568101ca7989256daf6e74044fb4c5ff30a - Theft
 - 0x112f27ddcbaec0958b000a79db4730a2135761af - Theft
 - 0xd4bf8d6ab6caeeb1ccd46d30f77b338862c30f07 - Dust Collector Input - Samudai
 - 0xc0b635fb9dc28dea84db150b89d4578ff9859877 - Dust Collector Jan 2024
 
-### [DegenReborn Theft - December 10th, 2023](./Degen%20Reborn.md)
+### [DegenReborn Theft - 2023-12-10](./Degen%20Reborn.md)
 - 0x618bb5466c13747049af8f3b237f929c95de5d7e - Victim
 - 0x5c6c5eb8edc8db21405fb0fef7dbd9efcd33778f - Theft
 - 0x585ee6b8455f21b18af05127591e783469a696d5 - Dust Collector Input
@@ -86,8 +86,8 @@ Tags:: 🔑
 
 ### 0x1c4564f9be2e24e12d1a0ddda837a951060f399d
 - Tracing Backwards
-- 0x1db5b39b1ab27bcc83932717fdcaa533028aec3d (Feb 1 2024)
-- 0x40cc7dea1a4861f5a33d5ea47d77dbac83c93e77 (Jan 10-11, 2024, Jan 18 2024) 
+- 0x1db5b39b1ab27bcc83932717fdcaa533028aec3d 2024-02-01
+- 0x40cc7dea1a4861f5a33d5ea47d77dbac83c93e77 2024-01-10 2024-01-18
 - 0xc5e67d0cf5c1d035604c19aa9ef9dce37128e676
 
 ### 0xd2de35a69e0dd73dd2e1d44776c869a69f8ad99a
