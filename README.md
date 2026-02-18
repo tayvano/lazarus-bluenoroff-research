@@ -55,8 +55,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $   974,740,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
 | 2025 | $ 2,056,243,801    |    79       | $ 2,020,000,000    |               |                    |              |                    |           |
-| 2026 | $     1,789,000    |     5       |                    |               |                    |              |                    |           |
-|      | **$6,109,025,411** | **262**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2026 | $    41,789,000    |     6       |                    |               |                    |              |                    |           |
+|      | **$6,149,025,411** | **263**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -69,9 +69,10 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2026-01-06 | [Thefts via VSCode runOn: folderOpen](./hacks-and-thefts/vscode-hacks.md)                        | $40,000            |
 | 🎙️ | 2026-01-08 | [Fake Survicate (Willo-esque)](./hacks-and-thefts/fake-survivcate-willo.md)                      | $150,000           |
 | 🔑 | 2026-01-13 | [Fake Teams Jan 2026](./hacks-and-thefts/2026-01-13_fake-teams.md)                               | $519,000           |
+| 🔑 | 2026-01-31 | [Step Finance](./hacks-and-thefts/step-finance.md)                                               | $40,000,000        |
 | 🔑 | 2026-02-02 | [Fake Sally Feb 2026](./hacks-and-thefts/2026-02-02_fake-sally.md)                               | $850,000           |
 | 🔑 | 2026-02-11 | [Rage Guy Theft](./hacks-and-thefts/2026-02-11_rage-guy.md)                                      | $230,000           |
-|    | **2026**   | **TOTAL**                                                                                        | **$1,789,000**     |
+|    | **2026**   | **TOTAL**                                                                                        | **$41,789,000**    |
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
 | 🔑 | 2025-01-20 | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                                     | $1,700,000         |
@@ -404,9 +405,10 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 📁 | Date          | Incident                                                                           | Amt Stolen       |
 | -- | ------------- | ---------------------------------------------------------------------------------- | ---------------- |
 | 🔑 | 2026-01-13    | [Fake Teams Jan 2026](./hacks-and-thefts/2026-01-13_fake-teams.md)                 | $519,000         |
+| 🔑 | 2026-01-31    | [Step Finance](./hacks-and-thefts/step-finance.md)                                 | $40,000,000      |
 | 🔑 | 2026-02-02    | [Fake Sally Feb 2026](./hacks-and-thefts/2026-02-02_fake-sally.md)                 | $850,000         |
 | 🔑 | 2026-02-11    | [Rage Guy Theft](./hacks-and-thefts/2026-02-11_rage-guy.md)                        | $230,000         |
-|    | **2026**      | **TOTAL**                                                                          | **$1,599,000**   | 
+|    | **2026**      | **TOTAL**                                                                          | **$41,599,000**  | 
 |    |               |                                                                                    |                  |
 | 🔑 | 2025-01-20    | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                       | $1,700,000       | 
 | 🔑 | 2025-01-26    | [Dimitra Token](./hacks-and-thefts/dimitra.md)                                     | $6,910,484       |

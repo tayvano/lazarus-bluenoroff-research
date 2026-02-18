@@ -185,7 +185,7 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 
 ## Connections
 
-2025-11-13
+### 2025-11-13
 
 - From: 0xab5b92a83382635182db5a00da81cd423a5cddb0 [Dust Collect 7ec](./sqsq-dust-collector-7ec.md) / [Dust Collect b5d](./sqsq-dust-collector-b5d.md)
 - To: 0x7d76ee241512d1b2db5a7e09fd04f5da71b31369 [Garden Finance Exploiter](./garden-finance.md)
@@ -196,9 +196,6 @@ Spoiler: it was not a "3rd party" they just realized they fucked up bc this hack
 
 - 0x7c1cf2f256d2e83dee5ae15e7ac0f7f6197e780b
 - Receives from both [SNET](./request-singularity.md) and [Garden Finance](./garden-finance.md)
-
-
-
 
 
 

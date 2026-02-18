@@ -64,8 +64,8 @@ All addresses as an Arkham Entity Here: https://intel.arkm.com/explorer/entity/d
 - 0xc5f157defcf2636409147f72816d85b7f8841584 - Primary Theft + Tornado
 - 0x7c1cf2f256d2e83dee5ae15e7ac0f7f6197e780b - Theft + Tornado 
 
-- 0x8691ef8b2a46490961a734b1edd9915299815ff7 - TC
-- 0xff4130c4bcbe28ffba9db6a893a19b46f58c0fa6 - TC
+- 0x8691ef8b2a46490961a734b1edd9915299815ff7 - Tornado Cash
+- 0xff4130c4bcbe28ffba9db6a893a19b46f58c0fa6 - Tornado Cash
 
 - 0xde6320e3365ca26af4ca57762dbc5da3c940f08f - Attacker Controlled Safe
 - 0xdfd5e8e9baa7d235ed82d8f2195752a7c33d36da - Deployer for Safe de6
@@ -73,7 +73,8 @@ All addresses as an Arkham Entity Here: https://intel.arkm.com/explorer/entity/d
 ### Transactions
 
 Malicious Token Transfer ("ClaimToken")
-0xdca0ccb96c655448bbcf076c3961fa67577303e3b357d904c44bcd41dd909ecf
+
+- 0xdca0ccb96c655448bbcf076c3961fa67577303e3b357d904c44bcd41dd909ecf
 
 - 0x3d8794005cff9f39ca1926db7b2b56e52c954dd1 - from (malicious actor)
 - 0x3cf6e5a3939f1e9e314f60417ceb9b5e9b66c03f - to (malicious batch contract)
@@ -81,18 +82,24 @@ Malicious Token Transfer ("ClaimToken")
 - 0xf0a6c5b65a81f0e8ddb2d14e2edcf7d10c928020 - transfer to (primary theft)
 
 Multisend / Approve Malicious Contract
-0x2ed88b7a179b32a129b85cdf94fe50c4d8acee78e9af3da69c12aea3dd29ca47
+
+- 0x2ed88b7a179b32a129b85cdf94fe50c4d8acee78e9af3da69c12aea3dd29ca47
+
 - 0xf0a6c5b65A81F0e8dDB2d14e2edCF7D10C928020 - from
 - 0x40A2aCCbd92BCA938b02010E17A5b8929b49130D - to (Safe Multi Send Call Only Contract)
 
 
 First Test Payment
-https://etherscan.io/tx/0x8a19ca67b01e4c44300ed309639ea02f71d91b245e5655dad860f4fe4ce4fa31
+
+- 0x8a19ca67b01e4c44300ed309639ea02f71d91b245e5655dad860f4fe4ce4fa31
+
 - 0xf1CE29F4f3289fE3bB047BDdF54ADAd4bc631Eb7 - from
 - 0x4646aB60842Bec7C8016cFa62f06779b4d3ED0D7
 
 First Batch Test Payment
-https://etherscan.io/tx/0xe5c1e611147215a77e5d027132ddcd29bfd06a355e603bc68980abc84824d136
+
+- 0xe5c1e611147215a77e5d027132ddcd29bfd06a355e603bc68980abc84824d136
+
 - 0xf1CE29F4f3289fE3bB047BDdF54ADAd4bc631Eb7 - from
 - 0x35d0e078755Cd84D3E0656cAaB417Dee1d7939c7 - to
 - 0x4646aB60842Bec7C8016cFa62f06779b4d3ED0D7 - to
