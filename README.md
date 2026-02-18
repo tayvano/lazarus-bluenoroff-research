@@ -34,7 +34,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 - [North Korea's Military Power](https://www.dia.mil/Portals/110/Documents/News/North_Korea_Military_Power.pdf)
 - [North Korea's Crypto Hackers Are Paving the Road to Nuclear Armageddon](https://www.cnet.com/culture/features/north-koreas-crypto-hackers-are-paving-the-road-to-nuclear-armageddon/)
 - [Kim Jong Un is directly handling results of new COVID-19 hacking organization's work](https://www.dailynk.com/english/kim-jong-un-directly-handling-results-new-covid-19-hacking-organization-work/)
-- [The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
+- [The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf)
 
 
 

@@ -4,6 +4,52 @@
 
 Various Reports:
 
+- [Report via @BitPetro]https://x.com/BitPetro/status/2022353384016068727)
+- [Report via @meekyachy]https://x.com/meekyachy/status/2021963506183287297)
+- [Report via @alexabelonix]https://x.com/alexabelonix/status/2021959881670971494)
+- [Report via @liuxiaoling933]https://x.com/liuxiaoling933/status/2018359284485238867)
+- [Report via @SirLeoThe1st]https://x.com/SirLeoThe1st/status/2019078657537376576)
+- [Report via @ATHena_DeFi]https://x.com/ATHena_DeFi/status/2018897744455176354)
+- [Report via @TheTAOofData]https://x.com/TheTAOofData/status/2016006868607389893)
+- [Report via @Kylechasse]https://x.com/Kylechasse/status/2021882660126392440)
+- [Report via @Kylechasse]https://x.com/Kylechasse/status/2021882828217364942)
+- [Report via @CierrePorbin]https://x.com/CierrePorbin/status/2018859518772592911)
+- [Report via @emman_montero]https://x.com/emman_montero/status/2011565762042085503)
+- [Report via @hemic_]https://x.com/hemic_/status/2011288314528350363)
+- [Report via @BigFoxKo]https://x.com/BigFoxKo/status/2010719351788462438)
+- [Report via @rossegates]https://x.com/rossegates/status/2009429877129400699)
+- [Report via @Ludovico__Rossi]https://x.com/Ludovico__Rossi/status/2007968094057357628)
+- [Report via @Ludovico__Rossi]https://x.com/Ludovico__Rossi/status/2008484082024403382)
+- [Report via @SpiritualCrypt1]https://x.com/SpiritualCrypt1/status/2008541762441408633)
+- [Report via @AlgoFamily]https://x.com/AlgoFamily/status/2017776688080265466)
+- [Report via @KristianCsep]https://x.com/KristianCsep/status/2016174814617108539)
+- [Report via @juliicorti]https://x.com/juliicorti/status/2016601776095477996)
+- [Report via @pray_eth]https://x.com/pray_eth/status/2014412730514518441)
+- [Report via @tayvano_]https://x.com/tayvano_/status/2014535187628228957)
+- [Report via @lebed2045]https://x.com/lebed2045/status/2014675896418926937)
+- [Report via @TMJ0x]https://x.com/TMJ0x/status/2014582318069850161)
+- [Report via @TMJ0x]https://x.com/TMJ0x/status/2014582284125421571)
+- [Report via @KathySats]https://x.com/KathySats/status/2013904400427962488)
+- [Report via @KathySats]https://x.com/KathySats/status/2014274701158502598)
+- [Report via @evilcos]https://x.com/evilcos/status/2014342890546467134)
+- [Report via @ksaitor]https://x.com/ksaitor/status/2018924539405799699)
+- [Report via @r0ckstardev]https://x.com/r0ckstardev/status/2016553249768198451)
+- [Report via @knutsvanholm]https://x.com/knutsvanholm/status/2016546124752965743)
+- [Report via @ASICMinerValue]https://x.com/ASICMinerValue/status/2016562325545799926)
+- [Report via @metamick14]https://x.com/metamick14/status/2016556122379804764)
+- [Report via @pauljinli]https://x.com/pauljinli/status/2016593033161035807)
+- [Report via @kucharmartin_]https://x.com/kucharmartin_/status/2013874205817774538)
+- [Report via @SwissHodler]https://x.com/SwissHodler/status/2014370721477054793/)
+- [Report via @kucharmartin_]https://x.com/kucharmartin_/status/2014268846094311739)
+- [Report via @ejuline]https://x.com/ejuline/status/2015839335208153224)
+- [Report via @kucharmartin_]https://x.com/kucharmartin_/status/2015845157749285344)
+- [Report via @r0ckstardev]https://x.com/r0ckstardev/status/2014773533360988548)
+- [Report via @_pretyflaco]https://x.com/_pretyflaco/status/2014642510102990953)
+- [Report via @mrdaiber]https://x.com/mrdaiber/status/2015760865253884371)
+- [Report via @AsILayHodling]https://x.com/AsILayHodling/status/1999548243982889319)
+- [Report via @TheVladCostea]https://x.com/TheVladCostea/status/2000581569916936596)
+- [Report via @AlexLWitt]https://x.com/AlexLWitt/status/1925242750968242417)
+- [Report via @TBariach]https://x.com/TBariach/status/1984475563923214714)
 - [Report via @shacheng](https://x.com/shacheng/status/2014376228955029724)
 - [Report via @BrandSLockey](https://x.com/BrandSLockey/status/2014340042622439449)
 - [Report via @KalKassa](https://x.com/KalKassa/status/2011717494688661967)
@@ -11,9 +57,41 @@ Various Reports:
 - [Report via @emman_montero](https://x.com/emman_montero/status/2011565762042085503)
 - [Report via @LucasKozinski](https://x.com/LucasKozinski/status/2014420444154069401)
 - [Report via @Panterra0x](https://x.com/Panterra0x/status/2014070675464474699)
-- [Report via @hemic_](https://x.com/hemic_/status/2011288314528350363)
-- [Report via @BigFoxKo](https://x.com/BigFoxKo/status/2010719351788462438)
 - [Report via @Goodylili](https://x.com/Goodylili/status/2013246128624464055)
+
+![](./2026-02-05_Fake-Yoav_01.jpg)
+![](./2026-02-05_Fake-Yoav_02.png)
+![](./2026-02-05_Fake-Yoav_03.jpg)
+![](./2026-02-05_Fake-Yoav_04.jpg)
+![](./2026-02-05_Fake-Yoav_05.jpg)
+- [2026-02-05_Fake-Yoav_01](./2026-02-05_Fake-Yoav_01.jpg)
+- [2026-02-05_Fake-Yoav_02](./2026-02-05_Fake-Yoav_02.png)
+- [2026-02-05_Fake-Yoav_03](./2026-02-05_Fake-Yoav_03.jpg)
+- [2026-02-05_Fake-Yoav_04](./2026-02-05_Fake-Yoav_04.jpg)
+- [2026-02-05_Fake-Yoav_05](./2026-02-05_Fake-Yoav_05.jpg)
+- `calendly.com/yoav-sodot/30min`
+
+![](./2026-02-02_Fake-Sitora_01.jpg)
+- [./2026-02-02_Fake-Sitora_01](./2026-02-02_Fake-Sitora_01.jpg)
+- `us05web.zoom.us/j/9916755962?pwd=nrlwuaDudzyCXcEXMDQNchchvcdaTk.1`
+- `uso3webzoom.us/j/9916755962?pwd=nrlwuaDudzyCXcEXMDQNchchvcdaTk.1`
+- `calendly.com/sitoramash/30min`
+
+![](./2026-02-02_Fake-Stevey_01.jpg)
+![](./2026-02-02_Fake-Stevey_02.jpg)
+![](./2026-02-02_Fake-Stevey_03.jpg)
+![](./2026-02-02_Fake-Stevey_04.jpg)
+![](./2026-02-02_Fake-Stevey_05.jpeg)
+![](./2026-02-02_Fake-Stevey_06.jpeg)
+- [2026-02-02_Fake-Stevey_01](./2026-02-02_Fake-Stevey_01.jpg)
+- [2026-02-02_Fake-Stevey_02](./2026-02-02_Fake-Stevey_02.jpg)
+- [2026-02-02_Fake-Stevey_03](./2026-02-02_Fake-Stevey_03.jpg)
+- [2026-02-02_Fake-Stevey_04](./2026-02-02_Fake-Stevey_04.jpg)
+- [2026-02-02_Fake-Stevey_05](./2026-02-02_Fake-Stevey_05.jpeg)
+- [2026-02-02_Fake-Stevey_06](./2026-02-02_Fake-Stevey_06.jpeg)
+- [Report via @laurashin]https://x.com/laurashin/status/2018334996163899726)
+- [Report via @SteveyTrommm]https://x.com/SteveyTrommm/status/2018318452558065928)
+- `calendly.com/steveytrom01c/30min`
 
 ![](./2026-01-22_Fake-Enigma_01.jpeg)
 ![](./2026-01-22_Fake-Enigma_02.png)
@@ -52,10 +130,12 @@ Various Reports:
 ![](./2026-01-22_Fake-Bernie_01.png)
 ![](./2026-01-22_Fake-Bernie_02.png)
 ![](./2026-01-22_Fake-Bernie_03.jpeg)
+![]((./2026-01-22_Fake-Bernie_04.jpeg)
 - [2026-01-20_Fake-Bernie](./2026-01-20_Fake-Bernie.jpeg)
 - [2026-01-22_Fake-Bernie_01](./2026-01-22_Fake-Bernie_01.png)
 - [2026-01-22_Fake-Bernie_02](./2026-01-22_Fake-Bernie_02.png)
 - [2026-01-22_Fake-Bernie_03](./2026-01-22_Fake-Bernie_03.jpeg)
+- [2026-01-22_Fake-Bernie_04](./2026-01-22_Fake-Bernie_04.jpeg)
 - [Report via @lebed2045](https://x.com/lebed2045/status/2014675896418926937)
 - [Report via @pray_eth](https://x.com/pray_eth/status/2014412730514518441)
 - [Report via @tayvano_](https://x.com/tayvano_/status/2014535187628228957)
@@ -82,13 +162,23 @@ Various Reports:
 - `uo03webzoom.us/j/5855448857?pwd=GGKVTTTSwQBrAtavhvjxOzbnogxDbC.1`
 - `calendly.com/alex_floe`
 
-
 ![](./2026-01-21_Fake-OxZhuang.jpeg)
 - [2026-01-21_Fake-OxZhuang](./2026-01-21_Fake-OxZhuang.jpeg)
 - [Report via @0x_ZHUANG](https://x.com/0x_ZHUANG/status/2009490239111520450)
 - [Report via @0x_ZHUANG](https://x.com/0x_ZHUANG/status/2013277346800033897)
 - `calendly.com/scallop-joe/30min`
 
+![](./2026-01-26_Fake-Iris_01.jpg)
+- [./2026-01-26_Fake-Iris_01](./2026-01-26_Fake-Iris_01.jpg)
+- `calendly.com/iris-x/`
+- `ut04webzoom.us/j/9336686252?pwd=QhvjctjKHFWHPvGvZzfxRvzWOGiCQK.1`
+
+![](./2026-01-14_Fake-Sally.jpg)
+- [2026-01-14_Fake-Sally](./2026-01-14_Fake-Sally.jpg)
+- [Report via @hemic_](https://x.com/hemic_/status/2011288314528350363)
+- [Report via @BigFoxKo](https://x.com/BigFoxKo/status/2010719351788462438)
+- `ux01webzoom.us/j/9653596101?pwd=nTsOJVQCBLcsZItIkJZpwjsYDdKtmF.1`
+- `us05web.zoom.us/j/1628342789?pwd=cWGbxQhpOjxatGJsMANFXWatitGJEh.1`
 
 ![](./2026-01-12_Fake-Merry_2010474997400388083.jpeg)
 - [Report via @merrywen778899](https://x.com/merrywen778899/status/2010660649232445673)
@@ -101,7 +191,6 @@ Various Reports:
 - tg: isseikashima issei_kash 5656935590
 - [Report via @0xissei](https://x.com/0xissei/status/2010792812925874587)
 - [2026-01-12_Fake-Issei_2010792812925874587](./2026-01-12_Fake-Issei_2010792812925874587.png)
-
 
 ![](./2026-01-12_Fake-Bhavy_2010718087855895036.png)
 - [Report via @BhBhavy](https://x.com/BhBhavy/status/2010718087855895036)
@@ -127,7 +216,6 @@ Various Reports:
 - [2026-01-08_Fake-Brickken_2008484082024403382](./2026-01-08_Fake-Brickken_2008484082024403382.jpeg)
 - tg: `Ludolz` `422758267`
 
-
 ![](./2026-01-08_Fake-Jocy-IOSG_2009196164860531143.jpeg)
 - [Report via @jocyiosg](https://x.com/jocyiosg/status/2009196164860531143)
 - [Report via @jocyiosg](https://x.com/jocyiosg/status/1910515357644972414)
@@ -135,13 +223,10 @@ Various Reports:
 - tg: `jocyliniosg` `540329858`
 - `calendly.com/jocylin/30min`
 
-
-
-
+![](./2026-01-01_Fake-Sam-Frax.jpeg)
+- [2026-01-01_Fake-Sam-Frax](./2026-01-01_Fake-Sam-Frax.jpeg)
 
 ---
-
-
 
 ## 2025
 
@@ -216,19 +301,29 @@ Various Reports:
 - [@imprfekt](https://x.com/imprfekt/status/1877666722800422998)
 - [@dazhengzhang](https://x.com/dazhengzhang/status/1899776299725680975)
 - [@cosmonaut_joon](https://x.com/cosmonaut_joon/status/1879435681547858086)
-
+- [@prasad_kaavya](https://x.com/prasad_kaavya/status/1922214499462906157)
+- [@sandeepnailwal](https://x.com/sandeepnailwal/status/1922394101783396541)
 
 ---
 
+![](./2025-12-14_Fake-Albert_2000369576534831510.jpeg)
+- [2025-12-14_Fake-Albert](./2025-12-14_Fake-Albert_2000369576534831510.jpeg)
+- [Report via @btc_albert](https://x.com/btc_albert/status/1995918640022257972)
+- [Report via @btc_albert](https://x.com/btc_albert/status/1996631395419279420)
+- [Report via @btc_albert](https://x.com/btc_albert/status/2000615513656025504)
+- [Report via @suuuupaman](https://x.com/suuuupaman/status/2001431595333701808)
+- [Report via @RaphaStacks](https://x.com/RaphaStacks/status/2000369576534831510)
+- `un06webzoom.us`
+- `un05webzoom.us`
+- `calendly.com/albertliang-btc`
 
-![](2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072.jpeg)
-- [2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072](2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072.jpeg)
+![](./2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072.jpeg)
+- [2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072](./2025-12-12_Fake-Tim-Dexalot-Mates_1999507882761462072.jpeg)
 - [@ChrisFusillo](https://x.com/ChrisFusillo/status/1999507882761462072)
 
-
-![](2025-12-15_Fake-AsILayHolding_2000581569916936596.jpeg)
+![](./2025-12-15_Fake-AsILayHolding_2000581569916936596.jpeg)
 ![](./2025-12-01_Fake-AsILayHolding.jpeg)
-- [2025-12-15_Fake-AsILayHolding_2000581569916936596](2025-12-15_Fake-AsILayHolding_2000581569916936596.jpeg)
+- [2025-12-15_Fake-AsILayHolding_2000581569916936596](./2025-12-15_Fake-AsILayHolding_2000581569916936596.jpeg)
 - [2025-12-01_Fake-AsILayHolding.jpeg](./2025-12-01_Fake-AsILayHolding.jpeg)
 - [@Vladcostea](https://x.com/Vladcostea/status/2000581569916936596)
 - [@AsILayHodling](https://x.com/AsILayHodling/status/1999548243982889319)
@@ -260,9 +355,6 @@ Various Reports:
 ![](./2025-12-01_Fake-Teams.jpg)
 - https://www.linkedin.com/posts/david-g-n_security-warning-social-engineering-attack-ugcPost-7396183924281966592-Xzdt/
 - [2025-12-01_Fake-Teams](./2025-12-01_Fake-Teams.jpg)
-
-
-
 
 ---
 
@@ -352,13 +444,25 @@ Various Reports:
 - [2025-11-04_Fake-Kaia](./2025-11-04_Fake-Kaia.jpeg)
 - [2025-09-08_SQ_Fake-Kaia](./2025-09-08_SQ_Fake-Kaia.png)
 
-
 ![](./2025-11-10_Fake-Institutional-Investor.jpeg)
 - [@ivanmiskovic](https://x.com/ivanmiskovic/status/1987895284580409515)
 - [2025-11-10_Fake-Institutional-Investor](./2025-11-10_Fake-Institutional-Investor.jpeg)
 
-![](./2025-09-07_Fake-Miki-Julie.jpeg)
-- [2025-09-07_Fake-Miki-Julie.jpeg](./2025-09-07_Fake-Miki-Julie.jpeg)
+![](./2025-11-18_Fake-Reeve-Collins.jpg)
+- [2025-11-18_Fake-Reeve-Collins](./2025-11-18_Fake-Reeve-Collins.jpg)
+- [Report via @loldefi]https://x.com/loldefi/status/1998389636566237383)
+- `ue09webzoom.us/j/6475973338?pwd=qoxSLNAsJweiCflQkgqjemxNJeZUiq.1`
+
+![](./2025-10-29_Fake-Collin_01.jpg)
+![](./2025-10-29_Fake-Collin_02.jpg)
+![](./2025-10-31_Fake-Collin_03.jpg)
+- [2025-10-29_Fake-Collin_01](./2025-10-29_Fake-Collin_01.jpg)
+- [2025-10-29_Fake-Collin_02](./2025-10-29_Fake-Collin_02.jpg)
+- [2025-10-31_Fake-Collin_03](./2025-10-31_Fake-Collin_03.jpg)
+- [Report via @HardwareMarket](https://t.me/HardwareMarket/213487)
+- [Report via @minerspeak](https://t.me/minerspeak/349202)
+- [Report via @minerspeak](https://t.me/minerspeak/349277)
+- `calendly.com/collinkelly/30min`
 
 ![](./2025-10-21_Fake-Fake-Dunamu.jpeg)
 - [2025-10-21_Fake-Fake-Dunamu.jpeg](./2025-10-21_Fake-Fake-Dunamu.jpeg)
@@ -373,7 +477,8 @@ Various Reports:
 - [Report via @HeyNat](https://x.com/HeyNat/status/1972640549329936792/)
 - [Report via @JJz_o3o](https://x.com/JJz_o3o/status/1967534329644634603)
 
----
+![](./2025-09-07_Fake-Miki-Julie.jpeg)
+- [2025-09-07_Fake-Miki-Julie.jpeg](./2025-09-07_Fake-Miki-Julie.jpeg)
 
 ![](./2025-09-19_SQ_Fake-Micah.jpg)
 - [2025-09-19_SQ_Fake-Micah](./2025-09-19_SQ_Fake-Micah.jpg)
