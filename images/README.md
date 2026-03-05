@@ -59,6 +59,49 @@ Various Reports:
 - [Report via @Panterra0x](https://x.com/Panterra0x/status/2014070675464474699)
 - [Report via @Goodylili](https://x.com/Goodylili/status/2013246128624464055)
 
+
+![](./2026-03-04_fake-mriganka_01.jpg)
+![](./2026-03-04_fake-mriganka_02.jpg)
+![](./2026-03-04_fake-mriganka_03.jpg)
+![](./2026-03-04_fake-mriganka_04.jpg)
+![](./2026-03-04_fake-mriganka_05.jpg)
+![](./2026-03-04_fake-mriganka_06.jpg)
+![](./2026-03-04_fake-mriganka_07.jpg)
+![](./2026-03-04_fake-mriganka_08.jpg)
+![](./2026-03-04_fake-mriganka_09.jpg)
+![](./2026-03-04_fake-mriganka_10.jpg)
+![](./2026-03-04_fake-mriganka_11.jpg)
+![](./2026-03-04_fake-mriganka_12.jpg)
+![](./2026-03-04_fake-mriganka_13.jpg)
+![](./2026-03-04_MSTeams Update.jpg)
+- [2026-03-04_fake-mriganka_01](./2026-03-04_fake-mriganka_01.jpg)
+- [2026-03-04_fake-mriganka_02](./2026-03-04_fake-mriganka_02.jpg)
+- [2026-03-04_fake-mriganka_03](./2026-03-04_fake-mriganka_03.jpg)
+- [2026-03-04_fake-mriganka_04](./2026-03-04_fake-mriganka_04.jpg)
+- [2026-03-04_fake-mriganka_05](./2026-03-04_fake-mriganka_05.jpg)
+- [2026-03-04_fake-mriganka_06](./2026-03-04_fake-mriganka_06.jpg)
+- [2026-03-04_fake-mriganka_07](./2026-03-04_fake-mriganka_07.jpg)
+- [2026-03-04_fake-mriganka_08](./2026-03-04_fake-mriganka_08.jpg)
+- [2026-03-04_fake-mriganka_09](./2026-03-04_fake-mriganka_09.jpg)
+- [2026-03-04_fake-mriganka_10](./2026-03-04_fake-mriganka_10.jpg)
+- [2026-03-04_fake-mriganka_11](./2026-03-04_fake-mriganka_11.jpg)
+- [2026-03-04_fake-mriganka_12](./2026-03-04_fake-mriganka_12.jpg)
+- [2026-03-04_fake-mriganka_13](./2026-03-04_fake-mriganka_13.jpg)
+- [2026-03-04_MSTeamsUpdate](./2026-03-04_MSTeamsUpdate.jpg)
+- `teams.microscell[.]com/meet/121014931167?p=wstCIiTXoTobmVH`
+- `thriddata[.]com/upload`
+- `teams.microscell[.]com/developer/sdk/fix/2/version/NUbSzCFr`
+- `calendly.com/mriganka-merkle/30min`
+
+
+![](./2026-03-02_fake-bundeep_01.jpeg)
+![](./2026-03-02_fake-bundeep_02.jpeg)
+- [2026-03-02_fake-bundeep_01](./2026-03-02_fake-bundeep_01.jpeg)
+- [2026-03-02_fake-bundeep_02](./2026-03-02_fake-bundeep_02.jpeg)
+- `microschats[.]com`
+- https://x.com/MrCable0x/status/2029316690635554996
+
+
 ![](./2026-02-05_Fake-Yoav_01.jpg)
 ![](./2026-02-05_Fake-Yoav_02.png)
 ![](./2026-02-05_Fake-Yoav_03.jpg)
