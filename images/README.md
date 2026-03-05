@@ -8,7 +8,6 @@
 - [Report via @jeff_jjc](https://x.com/jeff_jjc/status/2026589058416177532)
 - [Report via @jeff_jjc](https://x.com/jeff_jjc/status/2026588930389213480)
 - [Report via @djkinkle](https://x.com/djkinkle/status/2026482740863054091)
-- [Report via @0xCammie](https://x.com/0xCammie/status/2026050746123432015)
 - [Report via @samanthawyap](https://x.com/samanthawyap/status/2023771278482571564)
 - [Report via @DeFi_Dad](https://x.com/DeFi_Dad/status/2026699371614519340)
 - [Report via @CKapibara](https://x.com/CKapibara/status/2023920669361361105)
@@ -96,6 +95,18 @@
 - [2026-03-02_fake-bundeep_02](./2026-03-02_fake-bundeep_02.jpeg)
 - `microschats[.]com`
 - [Report via @MrCable0x](https://x.com/MrCable0x/status/2029316690635554996)
+
+
+![](./2026-02-24_fake-cammie_01.jpg)
+![](./2026-02-24_fake-cammie_02.jpg)
+- [2026-02-24_fake-cammie_01](./2026-02-24_fake-cammie_01.jpg)
+- [2026-02-24_fake-cammie_02](./2026-02-24_fake-cammie_02.jpg)
+- [Report via @0xCammie](https://x.com/0xCammie/status/2026050746123432015)
+- t.me/cammierobbins id: 1601278288
+- `zoom.ux05web.us/j/2399943643?pwd=CiyjdasMVBKKgtJcwVoeABzNAVXRfi.1`
+- `zoom.ux05web.us/developer/sdk/fix/2/version/gtDvVa9IS`
+- `calendly.com/cameronrobbins/30min`
+- got got by berniekong
 
 
 ![](./2026-02-05_Fake-Yoav_01.jpg)
