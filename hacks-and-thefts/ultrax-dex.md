@@ -2,19 +2,17 @@
 
 Amount Stolen:: $110,000 + $256,000
 
-December 5th, 2024
+Date:: 2024-12-05
 
 Tags:: 🎙️ Contagious Interview
 
 ---
-
 
 # Report 1
 
 Date:: December 2nd, 2024 – December 30th, 2024
 
 Amount Stolen:: ~$100k from numerous victims
-
 
 ### 0x505b8abf47bbc62d4f51d67ce8dcd0e20d26d43a
 
@@ -47,8 +45,6 @@ Amount Stolen:: ~$100k from numerous victims
 - 0x276ade3885cd2a1db9bb985ca07fa5f84d5ea654
 - 0xf350b42041b1655f089ae08c6bab2cffa4292969
 - 0xea1b50d3b19aa218a39ba746da24b2f1064a879a
-
-
 
 ### Receives From:
 
@@ -90,7 +86,6 @@ Amount Stolen:: ~$100k from numerous victims
 - 0xb2633de13370d628e7dff1aba2ae07317f350ecc 
 - 0x55d398326f99059ff775485246999027b3197955 
 - 0x833589fcd6edb6e08f4c7c32d4f71b54bda02913 
-
 
 https://www.chainabuse.com/report/dca4bb04-3e13-4460-b609-5cecaf7ba87d?context=search-address&a=0x505b8abf47bbc62d4f51d67ce8dcd0e20d26d43a&chain=ETH
 
@@ -139,9 +134,7 @@ https://demo-ultrax.vercel.app
 
 https://ultrax.io
 
-
-
-
+---
 
 # Report 2
 
@@ -173,9 +166,7 @@ When I check my Metamask wallet, that's when I realise my assets were all gone
 
 https://demo-ultrax.vercel.app/#/trade
 
-
-
-
+---
 
 # Report 3
 
@@ -191,16 +182,7 @@ https://demo-ultrax.vercel.app/#/trade
 
 - 0xa8a50D3806603B0773dCe4c182AecdeaB7d4593a
 
-
-
-
-
-
-
-
-
-
-
+---
 
 # Report 4
 
@@ -216,7 +198,7 @@ https://demo-ultrax.vercel.app/#/trade
 
 - 0x79ff328d43927bf0e1b6a32015c44694ec4d25cb Theft
 
-
+---
 
 # Report 5
 
@@ -224,6 +206,39 @@ https://demo-ultrax.vercel.app/#/trade
 
 - 0x317bC6f1384a35836428E0e3ad0C7E356DA99b43 Theft
 
+---
+
+# Report 6
+
+Date:: 2025-05-28
+
+Amount Stolen:: $2,500
+
+> I was contacted on LinkedIn for a job opportunity by an individual who claimed to be a business representative. They gave me a small development task and later they askewd me to connect my Metamask wallet in order to assess the current website that they have developed (website no longer functional and accessible). I can only assume that they figured out a way to sign transactions via the fake website while I was connected with my wallet. I lost all my assets (around $2500 in the Linea network) due to my naive nature and because I really thought this was an interview process.
+
+- https://chainabuse.com/report/181b9022-7137-4b06-8bfa-fda482bec1e7
+
+- 0xa966427bE2BE59a6D28953359624d1C225948147
+
+- 0xa8a50D3806603B0773dCe4c182AecdeaB7d4593a
+
+
+
+---
+
+# Report 7
+
+Date:: 2025-09-28
+
+Amount Stolen:: $13,608
+
+> LinkedIn recruitment scam targeting crypto users. Scammer "Guilherme Henrique Rocha Silva" used fake job opportunity to distribute malware via GitHub repo. The same wallet address 0x042c57f20edada1bd49ccffbe12284eb59ea1bf5 was used to steal $13,608.56 across ALL 7 networks: BNB Chain, Base, Linea, Ethereum, Blast, Scroll, and Optimism. Malware connected to C&C servers for data exfiltration. Evidence documented in analysis/emails/ and analysis/chat/ directories.
+
+- `https://github.com/silverstar006/real-estate-demo`
+
+- `https://jsonkeeper.com/b/GLGT4`
+
+- 0x042c57f20edada1bd49ccffbe12284eb59ea1bf5
 
 
 

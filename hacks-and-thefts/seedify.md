@@ -1,6 +1,6 @@
 # Seedify / SFUND
 
-Date:: September 23rd, 2025
+Date:: 2025-09-23
 
 Amount Stolen:: $1,700,000
 
@@ -88,6 +88,8 @@ https://x.com/zachxbt/status/1970488338529558795
 - 0xda2142378e6db3423965c14de6f5d0876c69af0a - Theft (Comingled)
 
 - TAuwk3N5mZWAwnbrgK67znj8BLv23RZevY - Theft (Comingled)
+
+- 0x1b1a575a581404500b013be858ee9affffd21997 - Consolidation
 
 
 
