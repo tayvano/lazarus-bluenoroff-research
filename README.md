@@ -879,6 +879,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 
 | Date | Document |
 | ---- | ---- |
+| 2026-01-21 | [Recorded Future: PurpleBravo's Targeting of the IT Software Supply Chain](./pdfs/2026-01-21_recorded-future-ci-itw.pdf) |
 | 2025-10-22 | [MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities](./pdfs/2025-10-22_MSMT-Report.pdf) |
 | 2025-06-30 | [US v. Joshua Palmer, Bryan Cho, Bong Chee, Peter Xiao](./pdfs/2025-06-30_DPRK-IT_jin_et_al_indictment.pdf) |
 | 2025-06-25 | [US v. more DPRK IT Worker Facilitators](./pdfs/2025-06-26_DPRK-IT_gov.uscourts.mad.286340.1.0.pdf) |
