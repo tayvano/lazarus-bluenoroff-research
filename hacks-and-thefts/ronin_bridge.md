@@ -1,6 +1,8 @@
 # Ronin Bridge
 
-Date:: April 14th, 2022
+Date:: 2022-04-14
+
+Time::
 
 Amount Stolen:: $620,000,000
 

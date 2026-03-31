@@ -78,6 +78,7 @@ The token was upgraded to ‘EZ 2.0’ four days later, making the hacker’s ex
 - 0x83a2EB63B6Cc296529468Afa85DbDe4A469d8B37 - Theft
 - 0x265102c23d137b1a256ae7376fda72bdb538562f - Theft
 - 0x77beb16e4db0686e36dbf01142685275785775ed - Theft
+- 0x88c56ff595e0f6253155e81ed740ea1d4573d107 - Theft
 - 0x67fe5b5343f963c7043ce551fadba84a3ad6473a - Gate/Ascendex swaps 2021-05-03 2021-05-07
 - 0x31499e03303dd75851a1738e88972cd998337403 - Connects to Nexus Mutual, CoinMetro, Unibright Coinberry, and multiple others
 - 0x4090e984897e7c1379c73f2213b906e5bef468a4 - Ascendex/Bitmax
