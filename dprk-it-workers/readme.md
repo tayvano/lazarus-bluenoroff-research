@@ -1446,6 +1446,56 @@
 - liaojikundever@gmail.com: Altbee, JL, Jikun Liao, Liao Jikun, altbee, liaojikunwork
 
 
+#### Jikun Liao - "Austin Lim"
+
+- 2026
+
+- Hercules, CA, USA
+
+- aleezebet Bet
+
+- zerobit417@gmail.com
+
+- Telegram: @zerobit417 | Discord: @aloz8333
+
+- GitHub: https://github.com/altbee
+
+- aleezebetbet@gmail.com
+
+- github.com/altbee
+
+- docsend.com/view/un8xsabjr8k758uj
+
+- calendly.com/zerobit417/30min
+
+- portfolio-austin.netlify.app
+
+- https://archive.ph/rTInN
+
+- ![](./2026-03-09_altbee.png)
+
+- [2026-03-09_altbee.png](./2026-03-09_altbee.png)
+
+- [Resume from Docsend](./2026-03-06_austin-lim-ai-resume_un8xsabjr8k758uj.pdf)
+
+- Resume claims: 
+
+- May 2025–Jan 2026: Emodo (https://emodo.com/)
+
+- Feb 2023–Mar 2025: WagyuSwap (https://exchange.wagyuswap.xyz) — Velas Network
+
+- Nov 2022–May 2023: Port Finance (https://www.port.finance) — Solana
+
+- Jun 2021–Dec 2022: 88mph (https://88mph.app) 
+
+- Mar 2019–Apr 2021: GameSwap — Avalanche
+
+- Aug 2015–May 2018: Typent — Singapore
+
+- Arable Protocol (https://github.com/arableProtocol)
+
+
+
 
 #### Quinn Lee
 
