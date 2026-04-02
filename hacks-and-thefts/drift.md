@@ -13,7 +13,7 @@ Tags:: 🍎
 
 
 
-# Addresses - Signers
+## Addresses - Signers
 
 - 39JyWrdbVdRqjzw9yyEjxNtTbTKcTPLdtdCgbz7C7Aq8 - Signer 1 (C) (Compromised?)
 
@@ -28,8 +28,20 @@ Tags:: 🍎
 - 41zpDnNbCMJRzUrtBd9oXfaYYDvmovsqQeFXMfC9bhgH - Durable Nonce from FMJnBkVpHj5JzN7w4XFysCwY931CYSYk1DsXzqNi7YPF
 
 
+## Addresses - Testing
 
-# Addresses - Funding
+- 0xd010ec7b86ed7c9bd7c7d291fc7eebd8da6152dd - Tornado Out 10x1 ETH (2026-03-11 06:15)
+- 0x9f7782793e9abdf6bd6bcd3932a3ae0cff381155 - Pre-exploit Testing
+- 0x6045d12ca613fc37c15db004c0caed5293384c73 - Pre-exploit Testing
+- 9YN5na2NzyJDjAqLcW9FthWJVMkXvwMifwppEGEnhLoX - Pre-exploit Testing
+- 9yLn1ShLSvWo4SfcxKksUGnQ75s51bRdkrNs1CfkUo5k - Pre-exploit Testing
+- 818oVQHYZAtC6b2DL9ReM9vvva9WeaupWhRXG1vEcCUe - Pre-exploit Testing
+- AKEHuHJ8aeRFRBg9cyMzfNok7hYANvbw3QWgXYDrq3tf - Pre-exploit Testing
+- GrVuNs1LX7DBBZV92ZFER71chEvF9rt4jHWJfK3PACvo - Pre-exploit Testing
+- FfM5EHFwa6ruhc1nmA5Xsn1jEXnDriq32pkdzzLhSqWV - Pre-exploit Testing
+
+
+## Addresses - Funding
 
 - 0x74390ab7a3a053cc23b9202f3c12ad0fc3c86d0d - Tornado Output 10x1 ETH (2026-03-11 06:24)
 - 0x2b982853efaaa86661f0852c330efe5083fbed3e - Tornado Output 0.1 ETH (2026-03-30 10:00)
@@ -48,7 +60,7 @@ Tags:: 🍎
 
 
 
-# Addresses - Exploit
+## Addresses - Exploit
 
 - HkGz4KmoZ7Zmk7HN6ndJ31UJ1qZ2qgwQxgVqQwovpZES - Drift Exploiter (Direct)
 
@@ -133,6 +145,94 @@ Tags:: 🍎
 ## Details
 
 
+### [Source: trentdotsol](https://x.com/trentdotsol/status/2039573012069150992)
+
+> as the initial author and chief hater of durable nonces, i don't defend them often. despite the number of references in this thread, their only role in the hack was allowing the attacker to hide while they compromised signers. durable nonces aren't magic. they just extend tx ttl
+> kinda. someone made me remove the nonce bump from set_authority in the initial implementation. so authority can be transferred without invalidating existing signatures
+> even without that "feature", attacker could just skip reauth and sign twice. -1 sophistication points
+
+
+### [Source: r0bre](https://x.com/r0bre/status/2039515142560367027)
+
+> Now an interesting fact is that this final admin transfer proposal was approved/signed using durable nonces from the 39J and 6UJ accounts.
+> Those nonces were created 9 days ago for 39J (March 24)
+> and 2 days ago (march 31) for the 6UJ account.
+> In fact, I've found that those were not the only nonces used!
+> FMJnBkVpHj5JzN7w4XFysCwY931CYSYk1DsXzqNi7YPF
+> on March 24, the attacker created durable nonce accounts for 4 accounts, and one more 2 days ago.
+> The 4 accounts were
+> 48c
+> 39J
+> CZR
+> 45c
+> This means they had access to the multisig members 39J and 45c back then already!
+> Durable nonces work like this: You can create a durable nonce account for your own solana wallet, storing a unique hash in that account. Now you can sign a transaction with this hash in place of a normal transactions recent blockhash, and in this transaction you advance the nonce.
+> Now you can store this signed transaction and submit it much later, you're not constrained to submit it right now. From an attackers perspective its useful when you dont have access to someones private key, but you can make them sign transactions right now. You make them sign a transaction which creates the durable nonce, and you submit that transaction.
+> Then you make them sign a transaction that consumes this durable nonce and does something bad, such as transfering the admin key from a multisig to a different wallet. And you don't have to submit this transaction right now. Instead, you can submit it a week later if you want, as the durable nonce skips the recent blockhash check.
+> Now my deduction here is: The attacker likely compromised the keys 45c and 39J at least 9 days ago, which would have allowed them to update the admin back then already! (as they would have the required 2/5 quorum for the risk council/admin multisig)
+> This means MK6 was likely the not-compromised wallet, and the attackers maybe spent some time planning the exploit execution after gaining access.
+> I imagine the drift team suspected something was off and started migrating to new multisig accounts, but for some reason one of the compromised accounts was part of the new multisigs as well, and the attackers then managed to compromise one of the new multisig accounts too (maybe they compromised a team members machine or network, allowing them to persist after a key rotation). Once they reestablished foothold, they exploited the protocol using the collateral attack.
+
+
+### [Source: r0bre](https://x.com/r0bre/status/2039462223165161611)
+
+- Drift has been hacked. Lots of confusing information going around. I've taken a look at what's actually happening.
+- The core attack sequence is just 3 transactions:
+- Create a new Drift User Account:
+- https://solscan.io/tx/4xzb1AXSw45Q8SoPkACXFyFUwGtYWQauuDmiwEDXijYDmEfRCz9ZPXSooSy1CzMbeW66kg9uayJp3QW38YdTMFxT
+- Deposit 500 Million "CVT" into Drift as collateral:
+- https://solscan.io/tx/5V72ZK1WejP5Mh3uryEy6BZCV6ukSAnZBFSvHTqfD4NS38xKJUuh4RV5F8D4tDbgMsB2dcTJyZf7hLxH34nCRHRE
+- Withdraw Millions of real assets against the provided collateral:
+- https://solscan.io/tx/2jCAE2SakEHtaZJbSCftpTGV4RKCYsN7Bd2cwu6nL4sumtmvX9PZrxLFYL4wK5vKBtfyu8S1EN2cTw2vcQPB4QfM (and later transactions)
+- Now, as it turns out, this CVT token was just created a few weeks ago. The core question: How did it become accepted collateral within Drift?
+- Let's investigate the history of the CVT token.
+- Mint: G84LEhbNMR1yYbHgHbnNYNSK8mpTKcazh5jcW5yMPQKo
+- Creator: FnYXwy7qEtGV4cj1Sf6tht7VDsiytFjJeF9yd4LpAjjx
+- Token was created on March 12:
+- https://solscan.io/tx/2UnWSA4VnAjoPVUzg9VRKcVhDNwKq1LwZUGX3A6rrEPewrPksbUvgbH3AdzsHSwLPiJJcbns1Kb9hGABKhW8tMfK
+- with a total supply of 750M
+- They removed both freeze and mint authority, and then made a USDC/CVT pool on raydium, with a 1:1 distribution. They are trying to price 1 CVT at $1
+- https://solscan.io/tx/3KbWCN2Leska9hLfdNMjBTwuFFJ9TeAoupPW57NfEpQ5pmykc2RZnwkp2tNuxSPza3SMdHfUiARrkn1CQHeotxbc
+- Then, they made a Switchboard oracle for this token:
+- https://solscan.io/tx/ekyEfoeqpEnzVYVSUmqGGN7B34ALBKsVsHubDrDKgwzPujcSxQrRvrMwz9W5RAc9GwQEWyCTCSCUSaM7w2ScQp5
+- and the oracle account B6X3YojuJcfHnTTre68b2XxDPCVTfeA4N7ZJEpME2nFp is notably present within the exploit, it is accepted by drift.
+- They do a couple of trades between USDC and CVT via some routers like OKX and dflow, creating a fake history of trades for this token, further anchoring its price:
+- https://solscan.io/tx/56w5Vui2iQtRLdAS1fzk29MoWdykPzwnDXyzfA5jx6jwKDkhcLKW5cYnFzVBihQ5nWcb2o2FPQWAr3mLR3rRiqdX
+- https://solscan.io/tx/35HQpR5BP3AnY18edRxYiPtHoHqXsYGskBTTzMxpjG4pf1A3yXZh9eEr6MrW3K8xEENsSAdhwaWEoCJXgesxPLxD
+- Well, we get the idea. They make a fake token and try to pretend its worth $1 with some wash trading while they hold 750M of it. That isn't a new idea.
+- How did they get drift to accept this token?
+- Well somehow they created a drift Spot market for the token:
+- https://solscan.io/tx/2UnWSA4VnAjoPVUzg9VRKcVhDNwKq1LwZUGX3A6rrEPewrPksbUvgbH3AdzsHSwLPiJJcbns1Kb9hGABKhW8tMfK
+- solscan.io/tx/4a5962Rdqd9pkXtk9DMQ9ZYhdGb2k9gPw71GvukJgELhxbCY5gm1c1hhKdwuGefyqJ3XMvihUTDNDn3qbXnst82X
+- The odd thing: This is an Admin only transaction:
+- https://github.com/drift-labs/protocol-v2/blob/27e0e0535a72b66d450968532f0f2b148bc5fef7/programs/drift/src/instructions/admin.rs#L5269
+- it has to be either the admin saved in the state account, or it has to be a certain hot wallet.
+- the signer for that transaction is H7PiGqqUaanBovwKgEtreJbKmQe6dbq6VTrw6guy7ZgL,
+- an account that was funded just a day ago by one of the attacker keys!
+- the admin hot wallet defined in the code base would have been 5hMjmxexWu954pX9gB9jkHxMqdjpxArQS2XdvkaevRax, a different key, and looking at the drift state account:
+- 5zpq7DvB6UdFFvpmBPspGPNfUGoBRRCE2HHg5u3gxcsN#accountData
+- we can see that the admin is the malicious new key! How did this happen?
+- This means that the admin key was likely recently updated to this malicious one. With some diggin on chain we can find the updateAdmin instruction:
+- https://solscan.io/tx/4BKBmAJn6TdsENij7CsVbyMVLJU1tX27nfrMM1zgKv1bs2KJy6Am2NqdA3nJm4g9C6eC64UAf5sNs974ygB9RsN1
+- Interesting -- the update was made from a squads account. In particular from https://app.squads.so/squads/AiLGdNitMjv8n5HMS7HAdV2kaeJZZFd4jdfn5xp1PKrW/transactions, a 2/5 multisig that was created just this week. Somehow it was last to have the admin rights to drift.
+- The two members of this multisig who approved the admin transfer were 
+- 39JyWrdbVdRqjzw9yyEjxNtTbTKcTPLdtdCgbz7C7Aq8
+- and 
+- 6UJbu9ut5VAsFYQFgPEa5xPfoyF5bB5oi4EknFPvu924
+- In the squads interface, we can see that the name of this squads is "Risk Council v2".
+- So since when is this squads in charge of risk? Looking back on chain, we can see that it was set to be the admin in this transaction on march 26:
+- https://solscan.io/tx/9zJGhyotEes1Ni5i4Qki5zUjApWhvWcr5rxJfiLhVGtnDuVzn9eFy1XzvtrZaj8r2SZYRmMQGftGQvDS1o2pPwE
+- where the original risk council changed the admin to the new risk council. This transaction was approved by MK6bTjdEsvrBGjbm4s2UmeBKL6yRp1UeiUoXKyAzgf2 and 45cZ5Fj97Va5Abipr6NN8Zf1BqZqWneSek1hU5cQRvhw,
+- while only 39JyWrdbVdRqjzw9yyEjxNtTbTKcTPLdtdCgbz7C7Aq8 is a member of both the old multisig and the new one.
+- Now at the same time, the program upgrade multisig also had a lot of suspicious activity. For example the old program upgrade multisig has transfered the update authority to a new Multisig, Ad21qwCb3C98M6UNqjGsZgR48549Spp7W1UWETV29cZ9, which was funded by MK6bTjdEsvrBGjbm4s2UmeBKL6yRp1UeiUoXKyAzgf2, a long time Drift multisig member.
+- This authority transfer was approved by MK6bTjdEsvrBGjbm4s2UmeBKL6yRp1UeiUoXKyAzgf2, 39JyWrdbVdRqjzw9yyEjxNtTbTKcTPLdtdCgbz7C7Aq8, and 45cZ5Fj97Va5Abipr6NN8Zf1BqZqWneSek1hU5cQRvhw, and it happened on march 29 (but was proposed already on march 25
+- Now for me this basically closes up the investigation, but it seems quite confusing.
+- Malicious Admin / Multisig actions have been created by MK6bTjdEsvrBGjbm4s2UmeBKL6yRp1UeiUoXKyAzgf2, 39JyWrdbVdRqjzw9yyEjxNtTbTKcTPLdtdCgbz7C7Aq8, and 45cZ5Fj97Va5Abipr6NN8Zf1BqZqWneSek1hU5cQRvhw.
+- some of those keys were likely compromised, and I assume that they figured out the best way to exploit it through access through the risk council was to approve a new collateral token. The prep for the attack goes back multiple weeks, so we can assume they've been compromised for that time.
+- I'm confused because I think they could have executed the attack without transfering admin rights to a different multisig in between, however this was likely done to lock out a possible legitimate intervention during the exploitation later on.
+
+
+### [Source: Neodyme](https://x.com/Neodyme/status/2039463440197251093)
 
 
 Today at ~16:00 UTC, things moved fast:
@@ -142,11 +242,12 @@ Today at ~16:00 UTC, things moved fast:
 - 16:05:18 - 39JyWrdbVdRqjzw9yyEjxNtTbTKcTPLdtdCgbz7C7Aq8 creates + approves a proposal to transfer the admin key to an attacker address (H7PiGqqUaanBovwKgEtreJbKmQe6dbq6VTrw6guy7ZgL)
 - 16:05:19 - 6UJbu9ut5VAsFYQFgPEa5xPfoyF5bB5oi4EknFPvu924 approves + executes it
 
-[Source: Neodyme](https://x.com/Neodyme/status/2039463440197251093)
 
 
 
 
+
+### [Source: Neodyme](https://x.com/Neodyme/status/2039463457045545366)
 
 Relevant transactions:
 
@@ -160,11 +261,10 @@ Relevant transactions:
 - Funding of attacker by CVT mint authority: https://solscan.io/tx/iYoYSB8BFCne3SX4uBiiEE2658nteiRkwGa3W8mo977XoLQYabFGFfZVWFYqA2NuyK9pWekHsyQJx9u7SJmBHVy
 - First withdraw: https://solscan.io/tx/2jCAE2SakEHtaZJbSCftpTGV4RKCYsN7Bd2cwu6nL4sumtmvX9PZrxLFYL4wK5vKBtfyu8S1EN2cTw2vcQPB4QfM
 
-[Source: Neodyme](https://x.com/Neodyme/status/2039463457045545366)
 
 
 
-
+### [Source:TheSoftwareJedi](https://x.com/TheSoftwareJedi/status/2039464884371652852)
 
 i missed the fact that these drift related squads txs had durable nonces...  that changes things. perhaps all my wallet security rants are misapplied here:
 
@@ -176,12 +276,12 @@ wallet2: 6UJbu9ut5VAsFYQFgPEa5xPfoyF5bB5oi4EknFPvu924
 nonce2: EmYEryTDXtuVCxrjNqJXbiwr4hfiJajd4g5P58vvhQnc
 nonce2 used in attack: https://solscan.io/tx/4BKBmAJn6TdsENij7CsVbyMVLJU1tX27nfrMM1zgKv1bs2KJy6Am2NqdA3nJm4g9C6eC64UAf5sNs974ygB9RsN1
 
-[Source:TheSoftwareJedi](https://x.com/TheSoftwareJedi/status/2039464884371652852)
 
 
 
 
 
+### [Source: _0xaryan](https://x.com/_0xaryan/status/2039405262034059375)
 
 so, drift protocol vault was drained and I found some interesting things onchain: 
 HkGz4KmoZ7Zmk7HN6ndJ31UJ1qZ2qgwQxgVqQwovpZES was funded 8 days ago via near intents, 
@@ -196,14 +296,13 @@ then launderer transferred funds to an eth address via @wormhole which was funde
 - 7igSaKEZKdfGy9nVB376FPcz4kVmR6MwMqdCCSb1Fgne - Drift Exploiter
 - near intent transfer: https://explorer.near-intents.org/transactions/0x77Dd1A9681A8156884CD275BFd4cacE87eB1F012
 - HkGz4KmoZ7Zmk7HN6ndJ31UJ1qZ2qgwQxgVqQwovpZES?exclude_amount_zero=false&remove_spam=false&value=1000000&value=#transfers
-
-https://wormholescan.io/#/tx/4BbhEfr9tSURx99ypfspQiocA34otiwCvyYPdYssM8ntufqav9LGAFGQ1HsvqTvF6pftBfXoi1rKgdhnC8woiy9P?network=Mainnet&view=overview
-
-[Source: _0xaryan](https://x.com/_0xaryan/status/2039405262034059375)
+- https://wormholescan.io/#/tx/4BbhEfr9tSURx99ypfspQiocA34otiwCvyYPdYssM8ntufqav9LGAFGQ1HsvqTvF6pftBfXoi1rKgdhnC8woiy9P?network=Mainnet&view=overview
 
 
 
 
+
+### [Source: armaniferrante](https://x.com/armaniferrante/status/2039411306806284520)
 
 - Confirmed what happened on our end. The funding wallet was not from backpack -> attacker.
 - it went from backpack -> non attacker -> attacker, where the non attacker was a cross chain intents solver.
@@ -211,7 +310,7 @@ https://wormholescan.io/#/tx/4BbhEfr9tSURx99ypfspQiocA34otiwCvyYPdYssM8ntufqav9L
 - In other words, this address is not the attacker
 - D8cJRpXaCWVK8c3doDq7Ymoz2XE4WyhFhbgNytWwqptA
 
-[Source: armaniferrante](https://x.com/armaniferrante/status/2039411306806284520)
+
 
 
 
@@ -229,9 +328,20 @@ https://wormholescan.io/#/tx/4BbhEfr9tSURx99ypfspQiocA34otiwCvyYPdYssM8ntufqav9L
 - 0xe0957fe67057c37e09510770041a305723aec037 - Nick Franklin / Aqualoan (https://x.com/tanuki42_/status/1905256574773321913)
 - 0xe8b7c14b88da46e92a679b4408c7118625aa6984 - Nick Franklin / Aqualoan (https://x.com/tanuki42_/status/1905256574773321913)
 
+
+
 - 0x21fe1e5f849ba8850541468c5f63a839cb453ea8 - Tornado Input  10x1 ETH + 1x1 ETH + 0.3 ETH (2026-03-10)
 - 0xc1ae87a517bffbbe1296aa5a35bd86d7c3f79780 - Tornado Input  10x5 ETH + 7x1 ETH + 0.5 ETH (2026-03-10)
 - 0xca5bd8744c72712ae6b24d013ceb67e363ca46ac - Tornado Input  10x4 ETH + 9x1 ETH           (2026-03-10)
+
+- 0xd010ec7b86ed7c9bd7c7d291fc7eebd8da6152dd - Tornado Output 10x1 ETH                     (2026-03-11 06:15)
+- 0x74390ab7a3a053cc23b9202f3c12ad0fc3c86d0d - Tornado Output 10x1 ETH                     (2026-03-11 06:24)
+- 0x2b982853efaaa86661f0852c330efe5083fbed3e - Tornado Output                    + 0.1 ETH (2026-03-30 10:00)
+- 0x508a0937624abb745ede33aa52d5ee88b911d816 - Tornado Output                    + 0.1 ETH (2026-03-30 10:59)
+- 0x0bfa97d668a6c249bd1b4754b06eea373424ca62 - Tornado Output                    + 0.1 ETH (2026-03-30 10:59)
+- 0x7d74dba576953c136775306addee1d292810f4a5 - Tornado Output                    + 0.1 ETH (2026-03-30 11:26)
+- 0x6bc05b151912fd99064ae8a66fe0802ef935b791 - Tornado Output                    + 0.1 ETH (2026-03-30 13:23)
+
 
 
 - 2026-03-10 01:38 - 10 ETH - (21fe) IN
@@ -269,6 +379,7 @@ https://wormholescan.io/#/tx/4BbhEfr9tSURx99ypfspQiocA34otiwCvyYPdYssM8ntufqav9L
 - 2026-03-10 07:27 - 1 ETH (ca5b) IN
 - 2026-03-10 07:28 - 1 ETH (ca5b) IN
 - 2026-03-10 07:28 - 1 ETH (ca5b) IN
+- 2026-03-11 06:15 - 10 ETH (d010) OUT
 - 2026-03-11 06:24 - 10 ETH (7439) OUT
 - 2026-03-30 10:00 - 0.1 ETH (2b98) OUT
 - 2026-03-30 10:59 - 0.1 ETH (0bfa) OUT
