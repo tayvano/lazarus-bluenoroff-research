@@ -54,9 +54,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2022 | $   810,222,860    |    16       | $ 1,100,000,000    | 14            | $850,000,000       | n/a          | $991,700,000       |  5        |
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $   974,740,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
-| 2025 | $ 2,056,243,801    |    79       | $ 2,020,000,000    |               |                    |              |                    |           |
-| 2026 | $    41,789,000    |     6       |                    |               |                    |              |                    |           |
-|      | **$6,149,025,411** | **263**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2025 | $ 2,056,260,301    |    80       | $ 2,020,000,000    |               |                    |              |                    |           |
+| 2026 | $   309,593,203    |    12       |                    |               |                    |              |                    |           |
+|      | **$6,711,000,000** | **270**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -66,13 +66,19 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 
 | 📁  | Date      | Incident                                                                                         | Amt Stolen         |
 | --- | --------- | ------------------------------------------------------------------------------------------------ | ------------------ |
-| 🎙️ | 2026-01-06 | [Thefts via VSCode runOn: folderOpen](./hacks-and-thefts/vscode-hacks.md)                        | $40,000            |
-| 🎙️ | 2026-01-08 | [Fake Survicate (Willo-esque)](./hacks-and-thefts/fake-survivcate-willo.md)                      | $150,000           |
-| 🔑 | 2026-01-13 | [Fake Teams Jan 2026](./hacks-and-thefts/2026-01-13_fake-teams.md)                               | $519,000           |
-| 🔑 | 2026-01-31 | [Step Finance](./hacks-and-thefts/step-finance.md)                                               | $40,000,000        |
-| 🔑 | 2026-02-02 | [Fake Sally Feb 2026](./hacks-and-thefts/2026-02-02_fake-sally.md)                               | $850,000           |
-| 🔑 | 2026-02-11 | [Rage Guy Theft](./hacks-and-thefts/2026-02-11_rage-guy.md)                                      | $230,000           |
-|    | **2026**   | **TOTAL**                                                                                        | **$41,789,000**    |
+| 💼 | 2026-01-01 | [Tenexium](./hacks-and-thefts/tenexium)                                                          |     $2,000,000     |
+| 🎙️ | 2026-01-06 | [Thefts via VSCode runOn: folderOpen](./hacks-and-thefts/vscode-hacks.md)                        |        $40,000     |
+| 🎙️ | 2026-01-08 | [Fake Survicate (Willo-esque)](./hacks-and-thefts/fake-survivcate-willo.md)                      |       $150,000     |
+| 🔑 | 2026-01-13 | [Fake Teams Jan 2026](./hacks-and-thefts/2026-01-13_fake-teams.md)                               |       $519,000     |
+| 🎙️ | 2026-01-26 | [Misc Contagious Shit](./hacks-and-thefts/2026-contagious.md)                                    |        $29,000     |
+| 🔑 | 2026-01-31 | [Step Finance](./hacks-and-thefts/step-finance.md)                                               |    $40,000,000     |
+| 🔑 | 2026-02-02 | [Fake Sally Feb 2026](./hacks-and-thefts/2026-02-02_fake-sally.md)                               |       $850,000     |
+| 🔑 | 2026-02-11 | [Rage Guy Theft](./hacks-and-thefts/2026-02-11_rage-guy.md)                                      |       $230,000     |
+| 💼 | 2026-02-26 | [Unknown IT Worker Related Theft](./hacks-and-thefts/unknown-itworker-theft.md)                  |       $125,203     |
+| ❓ | 2026-03-01 | [Bitrefill](./hacks-and-thefts/bitrefill.md)                                                     |     $2,500,000     |
+| 🔑 | 2026-03-04 | [MrCable0x](./hacks-and-thefts/2026-03-03_mrcable0x.md)                                          |       $150,000     |
+| 🍎 | 2026-04-01 | [Drift Protocol](./hacks-and-thefts/drift.md)                                                    |   $263,000,000     |
+|    | **2026**   | **TOTAL**                                                                                        | **$309,593,203**   |
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
 | 🔑 | 2025-01-20 | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                                     | $1,700,000         |
@@ -142,6 +148,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-27 | [September 27 2025 Theft](./hacks-and-thefts/2025-09-27-unknown.md)                              | $696,000           |
 | 🔑 | 2025-10-01 | [October 1 2025 Theft](./hacks-and-thefts/2025-10-01_unknown.md)                                 | $180,000           |
 | 🎙️ | 2025-10-18 | [Unknown Oct 18 2025 Theft](./hacks-and-thefts/ci-2025-oct.md)                                   | $120,000           |
+| 🎙️ | 2025-10-20 | [MetaMask Horse](./hacks-and-thefts/metamask-horse.md)                                           | $16,500            |
 | 🎙️ | 2025-10-21 | [YourCryptoFren](./hacks-and-thefts/yourcryptofren.md)                                           | $300,000           |
 | 🎙️ | 2025-10-27 | [Capital DAO](./hacks-and-thefts/capital-dao.md)                                                 | $320,000           |
 | ❓ | 2025-10-30 | [Garden Finance](./hacks-and-thefts/garden-finance.md)                                           | $12,371,369        |
@@ -153,7 +160,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-12-11 | [December 10 2025 (Overlaps Sololabs)](./hacks-and-thefts/2025-12-10_messy.md)                   | $9,100,000         |
 | 🔑 | 2025-12-13 | [Fake Teams Meet](./hacks-and-thefts/2025-12-13_fake-teams.md)                                   | $1,700,000         |
 | 🔑 | 2025-12-16 | [Fake Lionel Theft](./hacks-and-thefts/2025-12-16_fake-lionel.md)                                | $170,000           |
-|    | **2025**   | **TOTAL**                                                                                        | **$2,056,243,801** |
+|    | **2025**   | **TOTAL**                                                                                        | **$2,056,260,301** |
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2024-01-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000         |
 | 🎙️ | 2024-01-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   | $2,500,000         |
@@ -404,11 +411,13 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 
 | 📁 | Date          | Incident                                                                           | Amt Stolen       |
 | -- | ------------- | ---------------------------------------------------------------------------------- | ---------------- |
-| 🔑 | 2026-01-13    | [Fake Teams Jan 2026](./hacks-and-thefts/2026-01-13_fake-teams.md)                 | $519,000         |
-| 🔑 | 2026-01-31    | [Step Finance](./hacks-and-thefts/step-finance.md)                                 | $40,000,000      |
-| 🔑 | 2026-02-02    | [Fake Sally Feb 2026](./hacks-and-thefts/2026-02-02_fake-sally.md)                 | $850,000         |
-| 🔑 | 2026-02-11    | [Rage Guy Theft](./hacks-and-thefts/2026-02-11_rage-guy.md)                        | $230,000         |
-|    | **2026**      | **TOTAL**                                                                          | **$41,599,000**  | 
+| 🔑 | 2026-01-13    | [Fake Teams Jan 2026](./hacks-and-thefts/2026-01-13_fake-teams.md)                 |       $519,000   |
+| 🔑 | 2026-01-31    | [Step Finance](./hacks-and-thefts/step-finance.md)                                 |    $40,000,000   |
+| 🔑 | 2026-02-02    | [Fake Sally Feb 2026](./hacks-and-thefts/2026-02-02_fake-sally.md)                 |       $850,000   |
+| 🔑 | 2026-02-11    | [Rage Guy Theft](./hacks-and-thefts/2026-02-11_rage-guy.md)                        |       $230,000   |
+| ❓ | 2026-03-01    | [Bitrefill](./hacks-and-thefts/bitrefill.md)                                       |     $2,500,000   |
+| 🔑 | 2026-03-04    | [MrCable0x](./hacks-and-thefts/2026-03-03_mrcable0x.md)                            |       $150,000   |
+|    | **2026**      | **TOTAL**                                                                          | **$44,249,000**  | 
 |    |               |                                                                                    |                  |
 | 🔑 | 2025-01-20    | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                       | $1,700,000       | 
 | 🔑 | 2025-01-26    | [Dimitra Token](./hacks-and-thefts/dimitra.md)                                     | $6,910,484       |
@@ -553,8 +562,6 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 |    | **2019-2017** | **TOTAL**                                                                          | **$243,847,000** |
 
 
-
-
 ## 🔐 DangerousPassword - Job Shit
 
 - Apparently also DangerousPassword shit but is completely separate onchain so we keep it off to the side a bit.
@@ -650,7 +657,6 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 
 | 📁 | Date          | Incident                                              | Amt Stolen       |
 | -- | ------------- | ----------------------------------------------------- | ---------------- |
-
 | 🍎 | 2018-04-21    | [Gate.io](./hacks-and-thefts/gate.md)                 | $234,000,000     |
 | 🍎 | 2019-03-24    | [DragonEx](./hacks-and-thefts/dragonex.md)            | $7,090,000       |
 | 🍎 | 2021-01-22    | [Indodax ATO](./hacks-and-thefts/indodax_ato.md)      | $2,830,000       |
@@ -662,7 +668,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | ❓ | 2023-11-07    | [NFT Phishing](./hacks-and-thefts/nft-phishing.md)    | $1,077,186       |
 | 🍎 | 2023-07-01    | [PolyNetwork](./hacks-and-thefts/polynetwork-2023.md) | $10,000,000      |
 | 🍎 | 2024-10-16    | [Radiant](./hacks-and-thefts/radiant.md)              | $58,000,000      |
-|    | **2024-2018** | **TOTAL**                                             | **$455,747,186** |
+| 🍎 | 2026-02-11    | [Drift Protocol](./hacks-and-thefts/drift.md)         | $263,000,000     |
+|    | **2018-2026** | **TOTAL**                                             | **$718,747,186** |
 
 
 
@@ -674,8 +681,11 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 - There's also the [lazarus.group](https://www.lazarus.group/team) site which is pretty.
 - They also have a dust collector in their midst: [💼 DPRK IT Laundry Dust Collector ae69 (0xae69012d15d6b1a3b2412aadef712f06f9286e0e)](./hacks-and-thefts/dp-it-dust-collector-ae69.md)
 
-| 📁 | Date       | Incident                                                                               | Amt Stolen       |
+| 📁 | Date       | Incident                                                                               | Amt Stolen      |
 | -- | ---------- | -------------------------------------------------------------------------------------- | ---------------- |
+| 💼 | 2026-01-01 | [Tenexium](./hacks-and-thefts/tenexium)                                                |    $2,000,000    |
+| 💼 | 2026-02-26 | [Unknown IT Worker Related Theft](./hacks-and-thefts/unknown-itworker-theft.md)        |    $  125,203    |
+|    | **2026**   | **TOTAL**                                                                              |  **$2,125,203**  |
 | 💼 | 2025-05-08 | [LND FI](./hacks-and-thefts/lndfi.md)                                                  | $500,000         |
 | 💼 | 2025-06-18 | [Chainsaw](./hacks-and-thefts/chainsaw.md)                                             | $350,000         |
 | 💼 | 2025-06-19 | [Bunzz](./hacks-and-thefts/bunzz.md)                                                   | $5,500           |
@@ -714,7 +724,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | -- | ---------- | ------------------------------------------------------------------------- | --------------- |
 | 🎙️ | 2026-01-06 | [Thefts via VSCode runOn: folderOpen](./hacks-and-thefts/vscode-hacks.md)   |  $40,000     |
 | 🎙️ | 2026-01-08 | [Fake Survicate (Willo-esque)](./hacks-and-thefts/fake-survivcate-willo.md) | $150,000     |
-|    | **2026**   | **TOTAL**                                                                 | **$190,000**    |
+| 🎙️ | 2026-01-26 | [Misc Contagious Shit](./hacks-and-thefts/2026-contagious.md)               |  $29,000     |
+|    | **2026**   | **TOTAL**                                                                 | **$219,000**    |
 |    |            |                                                                           |                 |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                 | $13,000         |
 | 🎙️ | 2025-02-15 | [Misc CI Thefts](./hacks-and-thefts/misc-ci-2025.md)                      | $Unknown        |
@@ -733,9 +744,10 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2025-09-06 | [Unknown Sep 6 2025 Theft](./hacks-and-thefts/ci-2025-sep.md)             | $60,000         |
 | 🎙️ | 2025-09-23 | [Seedify](./hacks-and-thefts/seedify.md)                                  | $1,700,000      |
 | 🎙️ | 2025-10-18 | [Unknown Oct 18 2025 Theft](./hacks-and-thefts/ci-2025-oct.md)            | $120,000        |
+| 🎙️ | 2025-10-20 | [MetaMask Horse](./hacks-and-thefts/metamask-horse.md)                    | $16,500         |
 | 🎙️ | 2025-10-21 | [YourCryptoFren](./hacks-and-thefts/yourcryptofren.md)                    | $300,000        |
 | 🎙️ | 2025-10-27 | [Capital DAO](./hacks-and-thefts/capital-dao.md)                          | $320,000        |
-|    | **2025**   | **TOTAL**                                                                 | **$4,338,420**  |
+|    | **2025**   | **TOTAL**                                                                 | **$4,354,920**  |
 |    |            |                                                                           |                 |
 | 🎙️ | 2024-01-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                        | $1,720,000      |
 | 🎙️ | 2024-01-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                            | $2,500,000      |
