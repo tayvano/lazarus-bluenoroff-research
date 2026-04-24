@@ -1113,65 +1113,6 @@
 
 
 
----
-
-
-
-## Mauro & Co
-
-
-
-#### SIFU VISION / catanet.eth / Sifu Vision Deployer
-
-- Mauro Liu
-
-- 0xe5edbabd5115740fff9c4c0ce0d5aae2891947a4 - Company paying payroll (Gnosis Safe)
-
-- 0xcb69535abbc95a042914507f963bdd74ad0025ff - Company paying payroll (catanet.eth)
-
-- 0x6674bc65df8bd4f5b495c1dad35543eb6c4eb674 - Company paying payroll (Sifu Vision Delployer)
-
-- 0x147ed0f4d0cc9f0cf4eff223aa79b2f837532d62 - ITW Mauro Liu 0xchamel
-    
-    - 2023-12-11 $24
-
-- 0x682d0c303a1619b274e2d337828293986b195896 - ITW Unknown 1
-    
-    - 2023-07-17 $200
-    
-    - 2023-07-19 $1,631
-    
-    - 2024-07-31 $4,018
-
-- 0x39143cc85d4cf0e31849987aa9f68c621282820c - ITW Unknown 2
-    
-    - 2023-07-14 $330
-    
-    - 2023-07-19 $2,310
-    
-    - 2024-07-01 $4,018
-
-- 0x43ca2e9d6bccc15b5c722220e7724ca64d5ee422 - ITW Unknown 3
-    
-    - 2023-12-25 $177
-
-
-
-#### Mauro Liu - UNKNOWN COMPANY
-
-- Adjacent to Mauro Liu
-
-- 0xd77d919fd407e373730b5ba287ed94b6cddb23ff - Company Paying Payroll
-
-- 0x8bd5d72e5874f45a1204e486938d8c271e953e5e - ITW 1
-    
-    - 2023-07-21 $2,000
-    
-    - 2023-12-18 $4,027
-
-- 0xb2ef5c1af6b2b43bfc834fe114b5cf3a3abc919b - ITW 2
-
-
 
 ---
 
@@ -1518,7 +1459,6 @@
 - https://laborx.com/freelancers/users/id126269
 
 - 0xf9adac8658e08893fb4e91c1062e471eb11cb6c7 (T)
-
 - 0x9de5d3158b0b83e9211c7444c94ce0c53763f574
 
 
@@ -1542,169 +1482,21 @@
 - github.com/mono300genuine • [Archive](https://archive.ph/wip/Am9Cr)
 
 - 0x36c67d5ce9e2e4a919f568fc33657fcad0030880 (T)
-
 - 0x6fb678b2dd9d2ff50ee9ecf774251dcceb7a2da8 (Zach's List)
-
 - 0xa71b641a498e33bb13548a01eca5e20e083e637b
-
 - 0xd97729eef14c189144adb0591e4ddb1a66ce22af - 0xmimi.eth, overlaps with
-
 - 0x86fce1a6cbaaf0d0d7cb727e9b9eac5ed4150a5b - akame.eth, overlaps with
 
 - https://crypton0ob.medium.com/5-questions-about-kira-network-you-should-know-98850b1323a8 
-
 - https://icoholder.com/en/kira-1003837 
-
 - https://kylinnetwork.medium.com/kylin-network-monthly-report-2-d9b6be5b8cdf
-
 - https://medium.com/@ivan.shodanov/the-15-most-promising-small-cap-defi-projects-to-invest-in-2021-6e9d5aa5774c
-
 - https://polkastarter.com/projects/naos-finance
-
 - https://stack.money/asset/paid-network
-
 - https://theorg.com/org/kira-core
-
 - https://web.archive.org/web/20220818133854/https://daotalk.org/t/developer-proposal-ryuhei-for-2-weeks-trial-period/2650
-
 - https://www.bydfi.com/en/crypto-price/raze 
-
 - https://x.com/Kylin_Network/status/1344503704142143490 
-
-
-
-#### Mauro Liu
-
-- Q12024, 2024, MagicCraft (2022), Ankr, Gamerse, Clover Network, DEPO, Sifu Vision, Oxytocin, Tomodachi
-
-- 0xchamel
-
-- 0xllaCh
-
-- blueChamel
-
-- chamel92
-
-- daiki-iu
-
-- Gornutz
-
-- lmauro77
-
-- mauroh.perk
-
-- mauroliu77
-
-- zhChamel
-
-- zhChameleon
-
-- blueChamel mauro@blueberry.garden
-
-- 0xchamel pwongexcal@gmail.com
-
-- zhChameleon zhaoa4317@gmail.com
-
-- Overlaps with 0xm00neth, zhChameleon, Daiki Saito, Malkevych Bohdan bomalkevych@gmail.com, Jamshed Latipov jamshedlatipov@gmail.com
-
-- t.me/chamel92 (ID: 6635242888) • ([Messages](./user-6635242888-@chamel92.txt))
-
-- x.com/0xchamel
-
-- linkedin.com/in/lmauro77
-
-- github.com/0xchamel
-
-- github.com/zhChameleon
-
-- github.com/0xllaCh • [Archive](https://web.archive.org/web/20250827054938/https://github.com/0xllaCh)
-
-- github.com/blueChamel • [Archive](https://web.archive.org/web/20250827055005/https://github.com/blueChamel)
-
-- 0xc9b46489567684aafbe85e8a783bb9bfb822807f (T)
-
-- 0x6d8886e5e418571da0a6a1133555c663963b1ac5 (Oxytocin, Tomodachi)
-
-- https://blogtienao.com/depo-coin/
-
-- https://x.com/MagicCraftGame/status/1532587886234652673 
-
-- https://x.com/MagicCraftGame/status/1527876841868087302
-
-- https://cryptototem.com/glory-games-worlds-glory/
-
-- https://medium.com/@CryptoSavingExpert/in-depth-review-of-five-new-play-to-earn-games-part-9-magic-craft-professionalism-df7bc9c4b2de
-
-- https://gamerse.gitbook.io/gamerse/team 
-
-- https://shinchanieoalerts.medium.com/gamerse-ama-summary-recap-with-shin-chan-community-8171e08ac22f
-
-- https://medium.com/@CryptoSavingExpert/in-depth-review-of-five-new-play-to-earn-games-part-9-magic-craft-professionalism-df7bc9c4b2de 
-
-- https://x.com/MagicCraftGame/status/1532587886234652673
-
-- https://x.com/MagicCraftGame/status/1527876841868087302
-
-- ![](./mauro-liu-depo.png)
-
-- ![](./mauroliu-magiccraft-01.png)
-
-- ![](./mauroliu-magiccraft-02.png)
-
-- ![](./magiccraft.png)
-
-- ![](./X_2025-11-22_zhExcal.png)
-
-
-
-#### Mauro Liu aka Xu Liu
-
-- Napier Finance (2023-2024), Blueberry, Pickle Finance, Harmony
-
-- bitbaby888
-
-- imyugioh
-
-- chamel92
-
-- zhExcal
-
-- 0xlocker
-
-- ethlocker
-
-- raptor1001
-
-- blueraptor1001@gmail.com: 0xlocker, Burndai, Derek Lee, Raptor, Raptor1001, burndai, ethlocker, unlocker
-
-- choi.link227@gmail.com: Ryan Choi
-
-- t.me/chamel92 (ID: 6635242888) • ([Messages](./user-6635242888-@chamel92.txt))
-
-- bitbaby888@gmail.com
-
-- github.com/imyugioh • [Archive](https://web.archive.org/web/20250827055032/https://github.com/imyugioh)
-
-- github.com/0xlocker • [Archive](https://web.archive.org/web/20210309195053/https://github.com/0xlocker)
-
-- github.com/ethlocker (name: Hack the Moon!) • [Archive](https://web.archive.org/web/20230214213422/https://github.com/ethlocker)
-
-- github.com/raptor1001 (name: raptor1001)
-
-- 0x4BA8BDC825B03A83dF46cff59f18b41dEE84968E (Tweeted)
-
-- 0x147ed0f4d0cc9f0cf4eff223aa79b2f837532d62 (Napier)
-
-- 0x4d4da4ad60b35d1baa44951db99f3900ea008a73 (Napier Theft)
-
-- https://x.com/zhExcal/status/1691805547614621801
-
-- https://x.com/NapierFinance/status/1691754768383750308
-
-- https://github.com/harmony-one/chrome-extension-wallet/graphs/contributors
-
-
-
 
 
 #### Eric Liu
@@ -1712,44 +1504,147 @@
 - MagicCraft (2022), Humansdotai? Cosmos stuff?
 
 - vigorousdeveloper
-
 - top-dev-mania
-
 - VigorousDevelopment524
-
 - Vigorous Developer
-
 - supervenus0725
-
 - SuperDev 
-
 - Jason07250000
-
 - venus07250000
-
 - VigorousDevelopment524@gmail.com
 
 - dev.mania.639@gmail.com
-
 - venus07250000@gmail.com
 
 - github.com/vigorousdeveloper • [Archive](https://web.archive.org/web/20241207220408/https://github.com/vigorousdeveloper)
-
 - github.com/top-dev-mania
-
 - github.com/SuperVenus0725 • [Archive](https://web.archive.org/web/20250827055204/https://github.com/SuperVenus0725)
-
 - github.com/Jason07250000
 
 - https://x.com/MagicCraftGame/status/1532587886234652673 
-
 - https://x.com/MagicCraftGame/status/1527876841868087302
 
 - ![](./eric-liu-magiccraft-1.png)
-
 - ![](./eric-liu-magiccraft-2.jpeg)
-
 - ![](./magiccraft.png)
+
+
+
+
+#### Mauro Liu aka Xu Liu
+
+- Q12024, 2024, MagicCraft (2022), Ankr, Gamerse, Clover Network, DEPO, Sifu Vision, Oxytocin, Tomodachi, Napier Finance (2023-2024), Blueberry, Pickle Finance, Harmony Wallet
+
+- Overlaps with: Jason Kown, 0xm00neth, Daiki Saito, Malkevych Bohdan bomalkevych@gmail.com, Jamshed Latipov jamshedlatipov@gmail.com
+
+- 0xchamel
+- 0xllaCh
+- blueChamel
+- chamel92
+- daiki-iu
+- Gornutz
+- lmauro77
+- mauroh.perk
+- mauroliu77
+- zhChamel
+- zhChameleon
+- Baymaxic
+- bitbaby888
+- imyugioh
+- zhExcal
+- 0xlocker
+- ethlocker
+- raptor1001
+
+- x.com/0xchamel
+
+- x.com/zhExcal
+
+- linkedin.com/in/lmauro77
+
+- github.com/0xchamel
+- github.com/0xllaCh • [Archive](https://web.archive.org/web/20250827054938/https://github.com/0xllaCh)
+- github.com/0xlocker • [Archive](https://web.archive.org/web/20210309195053/https://github.com/0xlocker)
+- github.com/blueChamel • [Archive](https://web.archive.org/web/20250827055005/https://github.com/blueChamel)
+- github.com/ethlocker (name: Hack the Moon!) • [Archive](https://web.archive.org/web/20230214213422/https://github.com/ethlocker)
+- github.com/imyugioh • [Archive](https://web.archive.org/web/20250827055032/https://github.com/imyugioh)
+- github.com/raptor1001
+- github.com/zhChameleon
+
+- blueraptor1001@gmail.com: 0xlocker, Burndai, Derek Lee, Raptor, Raptor1001, burndai, ethlocker, unlocker
+- choi.link227@gmail.com: Ryan Choi
+- bitbaby888@gmail.com
+- mauro@blueberry.garden (blueChamel)
+- pwongexcal@gmail.com (0xchamel)
+- zhaoa4317@gmail.com (zhChameleon)
+
+- t.me/chamel92 (ID: 6635242888) • ([Messages](./user-6635242888-@chamel92.txt))
+- t.me/lladefa (ID: 1167965872) • ([Messages](./user-1167965872-@lladefa.txt))
+- t.me/imyugioh (ID: 1036098681) • ([Messages](./user-1036098681-@imyugioh.txt))
+
+- 0xc9b46489567684aafbe85e8a783bb9bfb822807f - T
+- 0x6d8886e5e418571da0a6a1133555c663963b1ac5 - Oxytocin, Tomodachi
+- 0x4BA8BDC825B03A83dF46cff59f18b41dEE84968E - Tweeted
+- 0x147ed0f4d0cc9f0cf4eff223aa79b2f837532d62 - Napier
+- 0x4d4da4ad60b35d1baa44951db99f3900ea008a73 - Napier Theft
+
+- 0xe5edbabd5115740fff9c4c0ce0d5aae2891947a4 - Company paying payroll (Gnosis Safe)
+- 0xcb69535abbc95a042914507f963bdd74ad0025ff - Company paying payroll (catanet.eth)
+- 0x6674bc65df8bd4f5b495c1dad35543eb6c4eb674 - Company paying payroll (Sifu Vision Delployer)
+- 0x147ed0f4d0cc9f0cf4eff223aa79b2f837532d62 - ITW 1 Mauro Liu 0xchamel
+- 0x682d0c303a1619b274e2d337828293986b195896 - ITW 2
+- 0x39143cc85d4cf0e31849987aa9f68c621282820c - ITW 3
+- 0x43ca2e9d6bccc15b5c722220e7724ca64d5ee422 - ITW 4
+
+- 0xd77d919fd407e373730b5ba287ed94b6cddb23ff - Company Paying Payroll
+- 0x8bd5d72e5874f45a1204e486938d8c271e953e5e - ITW 1
+- 0xb2ef5c1af6b2b43bfc834fe114b5cf3a3abc919b - ITW 2
+
+- https://blogtienao.com/depo-coin/
+- https://cryptototem.com/glory-games-worlds-glory/
+- https://gamerse.gitbook.io/gamerse/team 
+- https://github.com/harmony-one/chrome-extension-wallet/graphs/contributors
+- https://medium.com/@CryptoSavingExpert/in-depth-review-of-five-new-play-to-earn-games-part-9-magic-craft-professionalism-df7bc9c4b2de
+- https://shinchanieoalerts.medium.com/gamerse-ama-summary-recap-with-shin-chan-community-8171e08ac22f
+- https://x.com/MagicCraftGame/status/1527876841868087302
+- https://x.com/MagicCraftGame/status/1532587886234652673 
+- https://x.com/NapierFinance/status/1691754768383750308
+- https://x.com/zhExcal/status/1691805547614621801
+
+- ![](./mauro-liu-depo.png)
+- ![](./mauroliu-magiccraft-01.png)
+- ![](./mauroliu-magiccraft-02.png)
+- ![](./magiccraft.png)
+- ![](./mauroliu-magiccraft.png)
+- ![](./mauro-liu_no-glasses.png)
+- ![](./mauro-liu_resume_01.png)
+- ![](./mauro-liu_resume_02.png)
+- ![](./mauro-liu_resume_03.png)
+- ![](./X_2025-11-22_zhExcal.png)
+- ![](./mauro-liu-irl-01.png)
+- ![](./mauro-liu-irl-02.png)
+
+
+
+
+#### Mauro Liu / Danzel Lee / Anthony / xbejaxer
+
+- Danzel Lee
+- Anthony
+
+- t.me/xbejaxer (ID: 7302280289) • ([Messages](./user-7302280289-@xbejaxer.txt))
+- Claims to have worked at: 
+- BlockApeScissors
+- Coordinape
+- Dopex
+- Hector Network / Hector Finance
+- PlanetIX
+- Polemos
+- Radiate
+- Shezmu
+- Shyft Network
+- Truflation
+
 
 
 
@@ -1814,6 +1709,8 @@
 - ![](./magiccraft.png)
 
 - ![](./1439093300242239490.png)
+
+
 
 
 
@@ -2328,17 +2225,17 @@
 ! ![](./X_2025-11-22_TickyCrypto.png)
 
 
-#### Milan Zubic / Patrick Kishi
+#### Milan Zubic / Patrick Kishi / Craig Mcgonigle
 
-- 2025
-
-- NFTy Meta 2023-2023, Balance Capital 2022-2023, Dexify 2020-2022, Aneroverse 2020-2020, Radar Finance 2019-2020
+- 2025, NFTy Meta 2023-2023, Balance Capital 2022-2023, Dexify 2020-2022, Aneroverse 2020-2020, Radar Finance 2019-2020
 
 - icetrust0212
 
 - icebera
 
 - github.com/icebera • [Archive](https://web.archive.org/web/20250827055910/https://github.com/icebera)
+
+- https://github.com/icebera/portfolio/commit/2d8dc7b1059ff765965f103821db82766a5b8814#diff-eca96d2c09f31517696a26e1d0be4070e1fbab02831481bed006e275741d030bR11
 
 - zaza.liveedu@gmail.com
 
@@ -4763,14 +4660,40 @@ Chiko Nakamura
 ![](./X_2025-11-22_0xapp123.jpg)
 
 
-#### codeninja819
+#### Jiro Matsumoto / codeninja819
+
+- Tokyo, JP
+
+- codeninja819
+
+- jiromatsumoto98@gmail.com
+
+- linkedin.com/in/codeninja819
+
+- github.com/codeninja819 
+
+- t.me/codeninja819_eth (ID: 6418622184) • ([Messages](./user-6418622184-@codeninja819_eth.txt))
+
+- x.com/codeninja819
+
+- calendly.com/codeninja819
+
+- stackoverflow.com/users/21336694/codeninja819
+
+- linktr.ee/codeninja819
 
 - ![](./X_2025-11-22_codeninja819.jpg)
+
+- ![](./X_2026-04-06_codeninja819.png)
 
 
 ####  krippsat
 
 - ![](./X_2025-11-22_krippsat.jpg)
+
+
+
+
 
 
 #### Vladivostok University
