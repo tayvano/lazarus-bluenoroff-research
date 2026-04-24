@@ -12,7 +12,6 @@ Tags:: 🍎
 ---
 
 
-
 ## Addresses - Signers
 
 - 39JyWrdbVdRqjzw9yyEjxNtTbTKcTPLdtdCgbz7C7Aq8 - Signer 1 (C) (Compromised?)
@@ -41,6 +40,21 @@ Tags:: 🍎
 - FfM5EHFwa6ruhc1nmA5Xsn1jEXnDriq32pkdzzLhSqWV - Pre-exploit Testing
 
 
+## Addresses - Test Vault
+
+- 0x465b58fa61fe12cd246250a2ae153b762be22e1c - Pre-exploit Radiant -> Drift Vault
+- 0x7219ad5c5fee39df848b9f0579f75aa87dde838d - Pre-exploit Radiant -> Drift Vault
+- 0xebe62370c4d27124661adfe774618e95cc60979e - Pre-exploit Radiant -> Drift Vault
+- 0xdf579e9c74068db2a27ba159fc88764c606f1864 - Pre-exploit Radiant -> Drift Vault
+- 0xc187077d0ad4b53242ceb17459552386a2b06945 - Pre-exploit Radiant -> Drift Vault
+- 0x029bd2db1c74a5aac09d3d04d60138f1882fa368 - Pre-exploit Radiant -> Drift Vault
+- 0xeabb5390dbb3008d2425b1b5036036b2be921316 - Pre-exploit Radiant -> Drift Vault
+- 0x10f25cb826d9054ddf42034ed8e7165e21aa4ac3 - Pre-exploit Radiant -> Drift Vault
+- 2J5cFCq5dkNnY2BTMo5vEvbpi6weijCpjEVCTFg4RRXT - Pre-exploit Radiant -> Drift Vault
+
+
+
+
 ## Addresses - Funding
 
 - 0x74390ab7a3a053cc23b9202f3c12ad0fc3c86d0d - Tornado Output 10x1 ETH (2026-03-11 06:24)
@@ -49,7 +63,6 @@ Tags:: 🍎
 - 0x0bfa97d668a6c249bd1b4754b06eea373424ca62 - Tornado Output 0.1 ETH (2026-03-30 10:59)
 - 0x7d74dba576953c136775306addee1d292810f4a5 - Tornado Output 0.1 ETH (2026-03-30 11:26)
 - 0x6bc05b151912fd99064ae8a66fe0802ef935b791 - Tornado Output 0.1 ETH (2026-03-30 13:23)
-
 - 0xb702b033283522432c0cc4013631b4d766a67483 - Pre-exploit
 - 0x9bedb87b596bdfb882688f3b3cf3c04700e4d8e1 - Pre-exploit
 - B87FQZjiMefh3aV2xJu8t5jRFfJZWFrf1vKgTBRibFHK - Pre-exploit
@@ -62,14 +75,13 @@ Tags:: 🍎
 
 ## Addresses - Exploit
 
-- HkGz4KmoZ7Zmk7HN6ndJ31UJ1qZ2qgwQxgVqQwovpZES - Drift Exploiter (Direct)
+- HkGz4KmoZ7Zmk7HN6ndJ31UJ1qZ2qgwQxgVqQwovpZES - Theft Direct/Primary
 
-- 7igSaKEZKdfGy9nVB376FPcz4kVmR6MwMqdCCSb1Fgne - Drift Exploiter
-- 41bx1zKN3TBmxKo2u2B63UoFNNEAejCKBftuX27G8Zr5 - Drift Exploiter 
-- 9pEQiu6J1W4xCWkYM7sAqK69vkZ9aLQ2M84wHTq8gEkc - Drift Exploiter 
-- JEEeiyeecwK1j9PATUWYbbqGbAJvab8mXUtx1nUPGzpN - Drift Exploiter 
-- 7NuooRLhhtQx412t6giQmYo24r6HpiRoaWFEaaPBNCCU - Drift Exploiter
-
+- 7igSaKEZKdfGy9nVB376FPcz4kVmR6MwMqdCCSb1Fgne - Theft Intermediary/Swapper
+- 41bx1zKN3TBmxKo2u2B63UoFNNEAejCKBftuX27G8Zr5 - Theft Intermediary/Swapper 
+- 9pEQiu6J1W4xCWkYM7sAqK69vkZ9aLQ2M84wHTq8gEkc - Theft Intermediary/Swapper 
+- JEEeiyeecwK1j9PATUWYbbqGbAJvab8mXUtx1nUPGzpN - Theft Intermediary/Swapper 
+- 7NuooRLhhtQx412t6giQmYo24r6HpiRoaWFEaaPBNCCU - Theft Intermediary/Swapper
 
 - 57ZJ6dXxCEwZPJ9BEyKb5xjGZvGg4hqDALLbiRUFbsjM - Bridge Input (aa84/bdda)
 - 7RoMqGAcU7S6ESAhPDvB9iSXvASUhuoE8u7dYRxGBew9 - Bridge Input (aa84/bdda)
@@ -84,10 +96,6 @@ Tags:: 🍎
 - 0xec3145c5f138baf26722f1f909f6189ce81680fb - Bridge Output (aa84/bdda)
 - 0xf45256756985dd3b8f214850604f117165f72f18 - Bridge Output (aa84/bdda)
 - 0xfcc47866bd2bd3066696662dbd1c89c882105643 - Bridge Output (aa84/bdda)
-
-
-- GowQACPxQempbM5tEUEvp6pnbvaZBWXtRNDMQSE52F7c - FixedFloat Depo
-- EpxXbP26rR2RjW97Hzs7ALCkpaYmX15vfseP7XDNrY5J - FixedFloat Depo
 
 - 3fBuFC3drAiEeuZiPLniQKXY6snrjLJVcep1UMfLnvTP - Bridge Input (0fe3)
 - DwhAk6RWSd3EFM1saTnE8v58n4BtttwXdRyPU8nUcm5 - Bridge Input (0fe3)
@@ -125,6 +133,8 @@ Tags:: 🍎
 - 0x4f4a4557a1d1db7dc43ea4042f8a5702ddf986cd - Bridge Output (d3fe)
 - 0x54d439f542057d3bcf125619e0bb05f7cbd762ba - Bridge Output (d3fe)
 
+- GowQACPxQempbM5tEUEvp6pnbvaZBWXtRNDMQSE52F7c - FixedFloat Depo
+- EpxXbP26rR2RjW97Hzs7ALCkpaYmX15vfseP7XDNrY5J - FixedFloat Depo
 
 
 ## Addresses - Holding
@@ -133,7 +143,6 @@ Tags:: 🍎
 - 0xaa843ed65c1f061f111b5289169731351c5e57c1 - Holding (25,714 ETH /  $53.2m)
 - 0xd3feed5da83d8e8c449d6cb96ff1eb06ed1cf6c7 - Holding (24,881 ETH /  $51.5m)
 - 0xbddae987fee930910fcc5aa403d5688fb440561b - Holding (23,096 ETH /  $47.8m)
-
 - 0x9072e2966f941e18032acf37b4cc660f3aa7a0de - Dust
 - 0x5dd31bea90d75fbc4d6e7ec2fb142b6ef94ead07 - Dust
 
@@ -327,9 +336,6 @@ then launderer transferred funds to an eth address via @wormhole which was funde
 - 0x6d7d7a40a8a0ba4b93048e11f1f4ee15d2fd6ded - Nick Franklin / Aqualoan (https://x.com/tanuki42_/status/1905256574773321913)
 - 0xe0957fe67057c37e09510770041a305723aec037 - Nick Franklin / Aqualoan (https://x.com/tanuki42_/status/1905256574773321913)
 - 0xe8b7c14b88da46e92a679b4408c7118625aa6984 - Nick Franklin / Aqualoan (https://x.com/tanuki42_/status/1905256574773321913)
-
-
-
 - 0x21fe1e5f849ba8850541468c5f63a839cb453ea8 - Tornado Input  10x1 ETH + 1x1 ETH + 0.3 ETH (2026-03-10)
 - 0xc1ae87a517bffbbe1296aa5a35bd86d7c3f79780 - Tornado Input  10x5 ETH + 7x1 ETH + 0.5 ETH (2026-03-10)
 - 0xca5bd8744c72712ae6b24d013ceb67e363ca46ac - Tornado Input  10x4 ETH + 9x1 ETH           (2026-03-10)
@@ -398,3 +404,9 @@ then launderer transferred funds to an eth address via @wormhole which was funde
 - Tokyo tz
 
 - Mac, Chrome
+
+
+
+
+
+
