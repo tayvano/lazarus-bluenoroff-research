@@ -54,9 +54,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2022 | $   810,222,860    |    16       | $ 1,100,000,000    | 14            | $850,000,000       | n/a          | $991,700,000       |  5        |
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $   974,740,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
-| 2025 | $ 2,056,489,413    |    81       | $ 2,020,000,000    |               |                    |              |                    |           |
+| 2025 | $ 2,057,089,413    |    82       | $ 2,020,000,000    |               |                    |              |                    |           |
 | 2026 | $   309,593,203    |    12       |                    |               |                    |              |                    |           |
-|      | **$6,417,075,226** | **271**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+|      | **$6,417,675,226** | **272**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -134,6 +134,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2025-08-14 | [AreonX](./hacks-and-thefts/areonx.md)                                                           | $200,000           |
 | 🔑 | 2025-09-01 | [OlaXBT](./hacks-and-thefts/olaxbt.md)                                                           | $2,206,525         |
 | 🔑 | 2025-09-01 | [Venus Whale](./hacks-and-thefts/venus-whale.md)                                                 | $27,000,000        |
+| 💼 | 2025-09-03 | [Wolf on Sol ](./hacks-and-thefts/wolf-on-sol.md)                                                | $600,000           |
 | 🎙️ | 2025-09-06 | [Unknown Sep 6 2025 Theft](./hacks-and-thefts/ci-2025-sep.md)                                    | $60,000            |
 | 🔑 | 2025-09-06 | [Individual AN5](./hacks-and-thefts/an5.md)                                                      | $420,000           |
 | 🔑 | 2025-09-09 | [JP Thor](./hacks-and-thefts/jpthor.md)                                                          | $2,435,000         |
@@ -161,7 +162,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-12-11 | [December 10 2025 (Overlaps Sololabs)](./hacks-and-thefts/2025-12-10_messy.md)                   | $9,100,000         |
 | 🔑 | 2025-12-13 | [Fake Teams Meet](./hacks-and-thefts/2025-12-13_fake-teams.md)                                   | $1,700,000         |
 | 🔑 | 2025-12-16 | [Fake Lionel Theft](./hacks-and-thefts/2025-12-16_fake-lionel.md)                                | $170,000           |
-|    | **2025**   | **TOTAL**                                                                                        | **$2,056,489,413** |
+|    | **2025**   | **TOTAL**                                                                                        | **$2,057,089,413** |
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2024-01-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000         |
 | 🎙️ | 2024-01-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   | $2,500,000         |
@@ -692,8 +693,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 💼 | 2025-06-18 | [Chainsaw](./hacks-and-thefts/chainsaw.md)                                             | $350,000         |
 | 💼 | 2025-06-19 | [Bunzz](./hacks-and-thefts/bunzz.md)                                                   | $5,500           |
 | 💼 | 2025-06-25 | [Favrr](./hacks-and-thefts/favrr.md)                                                   | $650,000         |
+| 💼 | 2025-09-03 | [Wolf on Sol ](./hacks-and-thefts/wolf-on-sol.md)                                      | $600,000         |
 | 💼 | 2025-09-11 | [Shibarium](./hacks-and-thefts/shibarium.md)                                           | $2,000,000       |
-|    | **2025**   | **TOTAL**                                                                              | **$3,505,500**   |
+|    | **2025**   | **TOTAL**                                                                              | **$4,105,500**   |
 |    |            |                                                                                        |                  |
 | 💼 | 2024-03-26 | [Munchables](./hacks-and-thefts/munchables.md)                                         | $62,000,000      |
 | 💼 | 2024-03-29 | [Solareum](./hacks-and-thefts/solareum.md)                                             | $1,114,813       |
