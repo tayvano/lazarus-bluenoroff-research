@@ -4,11 +4,11 @@
 
 - Discord: nicklfranklin 1202789307694448700
 
-- TG:      defi_sec 6513796713 (banned by TG on Oct 15 2024) 
+- TG:      defi_sec 6513796713 (banned by TG on Oct 15 2024) • [Raw Messages](./user-6513796713-@nickfranklin.txt)
 
 - TG:      defi_sec 7656235284
 
-- TG:      nick_frank 7059003641 (now "John", used to be @defi_sec, sent the malware on Mar 26 2025)
+- TG:      nick_frank 7059003641 (now "John", used to be @defi_sec, sent the malware on Mar 26 2025) • [Raw Messages](./user-7059003641-@nick_franklin.txt)
 
 - TG GC:   nick_security 2169234048
 
@@ -31,6 +31,9 @@
 
 - https://x.com/tayvano_/status/1905761068741459974
 
+- https://x.com/pcaversaccio/status/1905240537071833529
+
+- https://x.com/tanuki42_/status/1905003057093431479
 
 
 # Addressses
@@ -162,7 +165,7 @@ When going through all of "Nick's TG History I noticed some repeated names showi
 - @stakewise_io StakeWise
 - @BENQIFinance BENQI Finance - Official
 
-
+https://t.me/BENQIFinance/172235
 
 
 
