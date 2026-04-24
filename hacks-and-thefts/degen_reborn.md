@@ -101,7 +101,7 @@ See more: [SquidSquad Dust Collectors](./sqsq-dust-collector-c0b.md)
 - 0xf98750aa0b0b93005a24a007f5db8d394c1b870a - Back to Tornado; 2025-08-04; 500 ETH
 - 0x4e8dc1494ca75ec2dd388da86655d21a5959a7b3 - Back to Tornado; 2025-08-28; 500 ETH
 - 0x4de93f26c0d2a66a8531331ac243984f8dc4e0db - Back to Tornado; 2025-11-27; 60 ETH
-
+- 0xbc643980d94147dc42ae8469a973510e986380ba - 2026-04-24, Overlaps [UXLINK](./uxlink.md)
 
 
 

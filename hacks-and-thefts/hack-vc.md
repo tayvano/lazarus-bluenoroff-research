@@ -54,8 +54,12 @@ Amount Stolen:: $278,000
 - https://x.com/ForesightVen/status/1851084770861846927
 
 - 0x589761dbfc4cd374e7e4da72f2cbd08eca3141f7 - Theft 2024-11-12, 2025-09-16
+
 - bc1qexsmj83jc0yzgj0dzhpneqmw4c3455zer4f2ga - Theft 2024-11-12, 2025-09-16
+
 - 0x984300B6aB98215C48ac8087B8d342ef3f6a0D07 - Consolidation 2025-09-17
+
+- 0xa185661ed3aebfdd29be04318eea5938137dae41 - Dust 2026-04-24, Overlaps with [Unknown Sept 29, 2025 Theft](2025-09-29_unknown.md)
 
 
 ---

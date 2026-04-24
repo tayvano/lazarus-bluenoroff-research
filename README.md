@@ -54,9 +54,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2022 | $   810,222,860    |    16       | $ 1,100,000,000    | 14            | $850,000,000       | n/a          | $991,700,000       |  5        |
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $   974,740,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
-| 2025 | $ 2,056,260,301    |    80       | $ 2,020,000,000    |               |                    |              |                    |           |
+| 2025 | $ 2,056,489,413    |    81       | $ 2,020,000,000    |               |                    |              |                    |           |
 | 2026 | $   309,593,203    |    12       |                    |               |                    |              |                    |           |
-|      | **$6,711,000,000** | **270**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+|      | **$6,417,075,226** | **271**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -144,8 +144,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-19 | [Sep 19 Theft](./hacks-and-thefts/2025-09-19_fake-micah.md)                                      | $160,000           |
 | 🔑 | 2025-09-22 | [UXLINK](./hacks-and-thefts/uxlink.md)                                                           | $44,112,708        |
 | 🎙️ | 2025-09-23 | [Seedify](./hacks-and-thefts/seedify.md)                                                         | $1,700,000         |
-| ❓ | 2025-09-24 | [SBI Crypto Mining](./hacks-and-thefts/sbi-crypto.md)                                            | $20,283,197        |
+| 🔑 | 2025-09-24 | [SBI Crypto Mining](./hacks-and-thefts/sbi-crypto.md)                                            | $20,283,197        |
 | 🔑 | 2025-09-27 | [September 27 2025 Theft](./hacks-and-thefts/2025-09-27-unknown.md)                              | $696,000           |
+| 🔑 | 2025-09-29 | [September 29 2025 Theft](./hacks-and-thefts/2025-09-29_unknown.md)                              | $229,112           |
 | 🔑 | 2025-10-01 | [October 1 2025 Theft](./hacks-and-thefts/2025-10-01_unknown.md)                                 | $180,000           |
 | 🎙️ | 2025-10-18 | [Unknown Oct 18 2025 Theft](./hacks-and-thefts/ci-2025-oct.md)                                   | $120,000           |
 | 🎙️ | 2025-10-20 | [MetaMask Horse](./hacks-and-thefts/metamask-horse.md)                                           | $16,500            |
@@ -160,7 +161,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-12-11 | [December 10 2025 (Overlaps Sololabs)](./hacks-and-thefts/2025-12-10_messy.md)                   | $9,100,000         |
 | 🔑 | 2025-12-13 | [Fake Teams Meet](./hacks-and-thefts/2025-12-13_fake-teams.md)                                   | $1,700,000         |
 | 🔑 | 2025-12-16 | [Fake Lionel Theft](./hacks-and-thefts/2025-12-16_fake-lionel.md)                                | $170,000           |
-|    | **2025**   | **TOTAL**                                                                                        | **$2,056,260,301** |
+|    | **2025**   | **TOTAL**                                                                                        | **$2,056,489,413** |
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2024-01-22 | [ConcentricFi](./hacks-and-thefts/concentricfi.md)                                               | $1,720,000         |
 | 🎙️ | 2024-01-25 | [Wall Street Memes](./hacks-and-thefts/wsm.md)                                                   | $2,500,000         |
@@ -457,6 +458,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-09-22    | [UXLINK](./hacks-and-thefts/uxlink.md)                                             | $44,112,708      | 
 | ❓ | 2025-09-24    | [SBI Crypto Mining](./hacks-and-thefts/sbi-crypto.md)                              | $20,283,197      | 
 | 🔑 | 2025-09-27    | [September 27 2025 Theft](./hacks-and-thefts/2025-09-27-unknown.md)                | $696,000         |
+| 🔑 | 2025-09-29    | [September 29 2025 Theft](./hacks-and-thefts/2025-09-29_unknown.md)                | $229,112         |
 | 🔑 | 2025-10-01    | [October 1 2025 Theft](./hacks-and-thefts/2025-10-01_unknown.md)                   | $180,000         |
 | ❓ | 2025-10-30    | [Garden Finance](./hacks-and-thefts/garden-finance.md)                             | $12,371,369      | 
 | 🔑 | 2025-10-31    | [Individual Laura66](./hacks-and-thefts/2025-10-31_laura.md)                       | $187,600         | 
@@ -467,7 +469,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-12-11    | [December 10 2025 (Overlaps Sololabs)](./hacks-and-thefts/2025-12-10_messy.md)     | $9,100,000       |
 | 🔑 | 2025-12-13    | [Fake Teams Meet](./hacks-and-thefts/2025-12-13_fake-teams.md)                     | $1,700,000       |
 | 🔑 | 2025-12-16    | [Fake Lionel Theft](./hacks-and-thefts/2025-12-16_fake-lionel.md)                  | $170,000         |
-|    | **2025**      | **TOTAL**                                                                          | **$345,258,911** | 
+|    | **2025**      | **TOTAL**                                                                          | **$345,488,023** | 
 |    |               |                                                                                    |                  |
 | 🔑 | 2024-02-09    | [PlayDapp](./hacks-and-thefts/playdapp.md)                                         | $36,000,000      |
 | 🔑 | 2024-03-13    | [NFPrompt](./hacks-and-thefts/nfprompt.md)                                         | $10,400,000      |
