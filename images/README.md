@@ -55,6 +55,24 @@
 
 #### Reports with Images:
 
+![](./2026-04-28_2049186822149022077_01.jpeg)
+![](./2026-04-28_2049186822149022077_02.jpeg)
+- [2026-04-28_2049186822149022077_01](./2026-04-28_2049186822149022077_01.jpeg)
+- [2026-04-28_2049186822149022077_02](./2026-04-28_2049186822149022077_02.jpeg)
+- [Report via @whizwang](https://x.com/whizwang/status/2049186822149022077)
+
+![](./2026-04-26_2047576191096303715.jpeg)
+- [2026-04-26_2047576191096303715](./2026-04-26_2047576191096303715.jpeg)
+- [Report via @elenardushenka](https://x.com/elenardushenka/status/2047576191096303715)
+
+![](./2026-03-13_Fake-Ian-Foresight.jpeg)
+![](./2026-03-13_Fake-Ian-Foresight.png)
+- [2026-03-13_Fake-Ian-Foresight](./2026-03-13_Fake-Ian-Foresight.jpeg)
+- [2026-03-13_Fake-Ian-Foresight](./2026-03-13_Fake-Ian-Foresight.png)
+
+![](./2026-03-17_Fake-Jimmy-Song.jpeg)
+- [2026-03-17_Fake-Jimmy-Song](./2026-03-17_Fake-Jimmy-Song.jpeg)
+
 ![](./2026-03-04_fake-mriganka_01.jpg)
 ![](./2026-03-04_fake-mriganka_02.jpg)
 ![](./2026-03-04_fake-mriganka_03.jpg)
