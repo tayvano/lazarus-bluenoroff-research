@@ -55,8 +55,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $   974,740,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
 | 2025 | $ 2,057,089,413    |    82       | $ 2,020,000,000    |               |                    |              |                    |           |
-| 2026 | $   603,313,203    |    13       |                    |               |                    |              |                    |           |
-|      | **$6,711,395,226** | **273**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2026 | $   606,325,270    |    15       |                    |               |                    |              |                    |           |
+|      | **$6,711,395,226** | **275**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -77,9 +77,11 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 💼 | 2026-02-26 | [Unknown IT Worker Related Theft](./hacks-and-thefts/unknown-itworker-theft.md)                  |       $125,203     |
 | ❓ | 2026-03-01 | [Bitrefill](./hacks-and-thefts/bitrefill.md)                                                     |     $2,500,000     |
 | 🔑 | 2026-03-04 | [MrCable0x](./hacks-and-thefts/2026-03-03_mrcable0x.md)                                          |       $150,000     |
+| 🔑 | 2026-03-20 | [March 20 2026 Theft](./hacks-and-thefts/2026-03-20_unknown.md)                                  |     $1,062,067     |
 | 🍎 | 2026-04-01 | [Drift Protocol](./hacks-and-thefts/drift.md)                                                    |   $263,000,000     |
 | 👛 | 2026-04-18 | [KelpDAO / Layer Zero](./hacks-and-thefts/layerzero-kelpdao.md)                                  |   $293,720,000     |
-|    | **2026**   | **TOTAL**                                                                                        | **$603,313,203**   |
+| 🔑 | 2026-04-23 | [Apr 23 2026 Theft](./hacks-and-thefts/2026-04-23_michel.md)                                     |     $1,950,000     |
+|    | **2026**   | **TOTAL**                                                                                        | **$606,325,270**   |
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
 | 🔑 | 2025-01-20 | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                                     | $1,700,000         |
@@ -420,7 +422,9 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2026-02-11    | [Rage Guy Theft](./hacks-and-thefts/2026-02-11_rage-guy.md)                        |       $230,000   |
 | ❓ | 2026-03-01    | [Bitrefill](./hacks-and-thefts/bitrefill.md)                                       |     $2,500,000   |
 | 🔑 | 2026-03-04    | [MrCable0x](./hacks-and-thefts/2026-03-03_mrcable0x.md)                            |       $150,000   |
-|    | **2026**      | **TOTAL**                                                                          | **$44,249,000**  | 
+| 🔑 | 2026-03-20    | [March 20 2026 Theft](./hacks-and-thefts/2026-03-20_unknown.md)                    |     $1,062,067   |
+| 🔑 | 2026-04-23    | [Apr 23 2026 Theft](./hacks-and-thefts/2026-04-23_michel.md)                       |     $1,950,000   |
+|    | **2026**      | **TOTAL**                                                                          |  **$47,261,067** | 
 |    |               |                                                                                    |                  |
 | 🔑 | 2025-01-20    | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                       | $1,700,000       | 
 | 🔑 | 2025-01-26    | [Dimitra Token](./hacks-and-thefts/dimitra.md)                                     | $6,910,484       |
