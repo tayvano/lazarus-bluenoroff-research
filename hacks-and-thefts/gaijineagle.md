@@ -19,6 +19,6 @@ Amount Stolen:: $446,898
 - 0xa2e3cc9b1935e368d7b435ae9c4320dc0f5ffafa - Victim's Binance
 
 
-- 0x31499e03303dd75851a1738e88972cd998337403 - Theft, Dust Collector 314
+- 0x31499e03303dd75851a1738e88972cd998337403 - Theft, [Dust Collector 314](./sqsq-dust-collector-314.md)
 - 0xa29bd5815aea7ac88e9f3aadd8f477675edad404 - Theft, Dumping
 - 0x17ddd00ed01277bd76718751029fd824088e0e5a - Theft, Dumping

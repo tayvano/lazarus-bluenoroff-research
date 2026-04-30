@@ -34,7 +34,7 @@ Tags:: 🔑
 - 0xe1cfc33ed7efc7e432a2214276fff6b71f09d493 - Trial of Coinberry/Coinmetro/L2 Thefts
 - 0x1031ffaf5d00c6bc1ee0978eb7ec196b1d164129 - Trial of Coinberry/Coinmetro/L2 Thefts
 - 0x1104c1a8e2cf42df2d103d9805bd8b193b830b65 - Trial of Coinberry/Coinmetro/L2 Thefts
-- 0x31499e03303dd75851a1738e88972cd998337403 - Dust Collector 314
+- 0x31499e03303dd75851a1738e88972cd998337403 - [Dust Collector 314](./sqsq-dust-collector-314.md)
 
 
 ### BTC

@@ -32,4 +32,4 @@ Tags:: 🔑
 - 0x818e3f50cfccf1e76f536af9532d6dc344f32f49 - Theft
 - 0x6337c56fef82a9181c4aaace7b224b57d9690e00 - Theft
 - 0x860dc1b24f96f59f4ec25ca439bcb9cdd6c1a7b0 - Theft
-- 0x31499e03303dd75851a1738e88972cd998337403 - Dust Collector 314
+- 0x31499e03303dd75851a1738e88972cd998337403 - [Dust Collector 314](./sqsq-dust-collector-314.md)
