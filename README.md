@@ -85,6 +85,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 👛 | 2026-04-18 | [KelpDAO / Layer Zero](./hacks-and-thefts/layerzero-kelpdao.md)                                  |   $293,720,000     |
 | 🔑 | 2026-04-23 | [Apr 23 2026 Theft](./hacks-and-thefts/2026-04-23_michel.md)                                     |     $1,950,000     |
 | 🔑 | 2026-05-05 | [May 5 2026 Theft](./hacks-and-thefts/2026-05-05_xmr.md)                                         |    $16,219,375     |
+| ❓ | 2026-05-24 | [Stablr](./hacks-and-thefts/stablr.md)                                                           |    $13,500,000     |
 | 🔑 | 2026-06-01 | [Korporatio](./hacks-and-thefts/korporatio.md)                                                   |       $550,000     |
 |    | **2026**   | **TOTAL**                                                                                        | **$606,325,270**   |
 |    |            |                                                                                                  |                    |
@@ -930,6 +931,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2024-10-04 | [US Forfeiture - Derbit Funds](./pdfs/2024-10-04_24-cv-02828_Derbit-Hack.pdf) |
 | 2024-08-08 | [US v DPRK IT Workers (Nashville Laptop Farm)](./pdfs/2024-08-08_US-v-DPRK-IT-Laptop-Farm-Nashville.pdf) |
 | 2024-05-16 | [US v DPRK IT Workers (Chapman Laptop Farm)](./pdfs/2024-05-16_US-v-IT-Workers_cr-00220.pdf) |
+| 2024-01-01 | [North Korean Prison Camps](./pdfs/2024-01-01_North-Korean-Prison-Camps.pdf) |
 | 2023-11-30 | [Recorded Future: Crypto Country](./pdfs/2023-11-30_Recorded-Future-Crypto-Country.pdf) |
 | 2023-11-23 | [Kim Jong Un's New Maybach](./pdfs/2023-11-23_Kim-Jong-Un-New-Maybach.pdf) |
 | 2023-11-20 | [FinCEN v Binance Consent Order](./pdfs/2023-11-20_FinCEN-Binance_Consent-Order.pdf) |
