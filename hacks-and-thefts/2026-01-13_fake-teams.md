@@ -4,11 +4,11 @@ Date:: 2026-01-13
 
 Time:: 08:14
 
-Amount Stolen:: $519,000
+Amount Stolen:: $747,609
 
 Tags:: 🔑
 
-G:: 441109
+G:: 441109 456109
 
 --
 
@@ -40,3 +40,24 @@ G:: 441109
 
 - 0xdeBe6B09B43A4411Fa372A75BbDF4eFEFAC54C67 - Sideshift Output
 - BYe5T1Vbz8bFtXYJhTMg2QrZYi5cF6c9XUDyowdsiWAQ - Sideshift Output
+
+- G9WLWpanXkhFJD4vXe7D9fUdGeJvmsiuTdzcda4d8vNp
+- ANKdsxsbrA73oKWPCmBDGU1MNtKqVvQukBA4bqPWzAMS
+
+- 0xe694b82b124cedfc28504f2d66fcbe65a40850de
+
+- 0x1ab0e08383779ea2579e6b64cbd7a1fac0cdf500
+
+- 0x6fd3425ecc09f274906aaf169413ccf015e2b365
+
+- TBujrwHJ6AMnKRzRmtUXycdUf52eQKN4Jv
+
+- 2d2wWCTkWmpVMzcV4XLJfKheLRFrvMZmxCE7X9kF8mDW
+- FcoiRAoL8myHPLmqRkWVtMqE7EBgy4iFf7dBRfkF5bX5 2026-06-22
+- 7mfxzqF91fLaZkDGfkvaPEtDdZCUMTmWHANmruUJ7dST 2026-06-22
+- TJW1Y3ZpfCaaP1JdY8foJuHntha6UvAvhc 2026-06-22
+
+- CAv2ucktsFpKo14ixWB96nQoXvimxW1LnYavvs5oJjdE 2026-05-12 2026-05-28
+- TQ3M76Zxv9D1UK5ETuHtSdrAA1anK3vyXs 2026-05-12
+- TXpJ1JoZvGxC1giiyTZwvYCWVBBpk9hLcM 2026-05-28
+

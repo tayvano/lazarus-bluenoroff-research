@@ -10,6 +10,40 @@ Tags:: 👛
 ----
 
 
+## Details
+
+- https://x.com/josefabregab/status/2045645837527564445
+- https://x.com/banteg/status/2045614712381923530
+- https://x.com/lilbagscientist/status/2045621121098174798
+- https://x.com/stonecoldpat0/status/2045626587123679427
+- https://x.com/ImperiumPaper/status/2045883103105737006
+- https://x.com/LayerZero_Core/status/2046081551574983137
+- https://x.com/KelpDAO/status/2046332070277091807
+- https://radar.securityalliance.org/initial-takeaways-layerzero-dvn-incident/
+- https://governance.aave.com/t/rseth-incident-report-april-20-2026/24580
+- https://x.com/OAK_Res/status/2046637948205170813
+- https://x.com/KelpDAO/status/2051754226351771772
+- https://x.com/LayerZero_Core/status/2052876712653013173
+
+
+
+
+## Rugging DPRK
+
+- https://arbiscan.io/tx/0x5618044241dade84af6c41b7d84496dc9823700f98b79751e257608dac570f6b
+- https://x.com/arbitrum/status/2046435443680346189
+- https://x.com/tayvano_/status/2046442550761000996
+- https://x.com/sgoldfed/status/2046466504594530319
+- https://x.com/chrisbima/status/2046473922573733981
+- https://x.com/_weidai/status/2046456001927532784
+- https://x.com/momir_amidzic/status/2046479040958312589
+- https://x.com/hosseeb/status/2046450856707699084
+- https://x.com/griffgreen/status/2046446942494802274
+- https://x.com/stonecoldpat0/status/2046446826174529660
+
+
+
+
 ## Onchain
 
 - 0x4966260619701a80637cdbdac6a6ce0131f8575e - Theft Initial Caller?? (2026-04-18)
@@ -191,8 +225,8 @@ Tags:: 👛
 - 0xe474f2c656738a9782f03761e86772dc6fa6ed4c - from Tranche 2.2
 - 0x08b863b7648137b98ebb0d8f0152753e19f4161c - from Tranche 2.2
 
-- 0xF585F57c93e4FB8ea97D9E8E6310354Bbc4DEfb9 - Commingles BTCTURK
-- bc1qt3fxzwgqayqgukgr6ny5ns9vpdpcgt72f6wwfs - Commingles Bybit
+- 0xF585F57c93e4FB8ea97D9E8E6310354Bbc4DEfb9 - Commingles
+- bc1qt3fxzwgqayqgukgr6ny5ns9vpdpcgt72f6wwfs - Commingles
 
 - https://x.com/SpecterAnalyst/status/2046669850311852336
 
@@ -213,56 +247,10 @@ Tags:: 👛
 - bc1qvrlfv4wtvp6eq97kry8z9jfelkzmf33a7mwppn
 - 0x222e68AA6658A8067585F19ecCa5440feaa8BB00
 - 0xe2282b4ceCAeBAb6051086e99D2e77287b725aC3
-
-
-
-## Details
-
-- https://x.com/josefabregab/status/2045645837527564445
-
-- https://x.com/banteg/status/2045614712381923530
-
-- https://x.com/lilbagscientist/status/2045621121098174798
-
-- https://x.com/stonecoldpat0/status/2045626587123679427
-
-- https://x.com/ImperiumPaper/status/2045883103105737006
-
-- https://x.com/LayerZero_Core/status/2046081551574983137
-
-- https://x.com/KelpDAO/status/2046332070277091807
-
-- https://radar.securityalliance.org/initial-takeaways-layerzero-dvn-incident/
-
-- https://governance.aave.com/t/rseth-incident-report-april-20-2026/24580
-
-- https://x.com/OAK_Res/status/2046637948205170813
-
-
-
-
-## Rugging DPRK
-
-- https://arbiscan.io/tx/0x5618044241dade84af6c41b7d84496dc9823700f98b79751e257608dac570f6b
-
-- https://x.com/arbitrum/status/2046435443680346189
-
-- https://x.com/tayvano_/status/2046442550761000996
-
-- https://x.com/sgoldfed/status/2046466504594530319
-
-- https://x.com/chrisbima/status/2046473922573733981
-
-- https://x.com/_weidai/status/2046456001927532784
-
-- https://x.com/momir_amidzic/status/2046479040958312589
-
-- https://x.com/hosseeb/status/2046450856707699084
-
-- https://x.com/griffgreen/status/2046446942494802274
-
-- https://x.com/stonecoldpat0/status/2046446826174529660
-
+- 0x08b8BAE9962714B79c33fF205Cd3501F98A8fdA7
+- 0x5579D5cE84fF5ADF5ec7b466d155735958f6902B
+- 0xB4F5eb8Bfdf49c95941b42c7e6fE0527d25E06EC
+- 0xbaBf32f8b06631eDafd28d105285746C0b58DBe8
 
 
 

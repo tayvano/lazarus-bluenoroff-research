@@ -1,10 +1,48 @@
 # HTX / HECO
 
-Date:: November 22, 2023
+Date:: 2023-11-22
 
 Amount Stolen:: $116,000,000
 
-- https://twitter.com/tayvano_/status/1727384134061052410
+Tags:: 👛
+
+--
+
+## Details
+
+The HTX/HECO Bridge hack occurred on November 22, 2023, resulting in a combined loss of approximately $100 million in assets.
+
+$87 million was siphoned off through the HECO chain bridge, and an additional $12 million was stolen from HTX's hot wallets.
+
+The HECO Bridge funds were drained via a compromised operator account, beginning at 09:59 AM UTC, with the HTX hot wallets being hit shortly after at 10:41 AM UTC.
+
+This attack came just twelve days after Justin Sun's Poloniex exchange lost $126 million in a separate hack. Justin Sun confirmed the incident and promised full compensation for losses from the HTX hot wallets.
+
+
+On or about November 10, 2023, an APT38 cyber actor socially engineered8 an employee at HTX and convinced that person to download and run a malicious application from a GitHub repository on the employee’s work laptop. (GitHub is a U.S.-based company.) The GitHub repository was located at “Github.com/MillerSpace.” The project containing the malicious application was named “ChallengeCoin.” On or about November 13, 2023, the HTX employee’s compromised computer downloaded and launched an application named “CryptoOracle” from the same “Github.com/MillerSpace” repository. Between on or about November 11 and 22, 2023, the HTX employee’s compromised computer connected to IP address 72.11.157.199 multiple times. IP address 72.11.157.199 corresponded to the domain deckfinisher.com, which was previously flagged by a U.S.-based cybersecurity company, as a domain associated with the malware family “TwoPence/Electric.” This malware family belongs to, and is used by, the APT 38 malicious cyber actors. c. On or about November 17, 2023, the APT38 malicious cyber actors directly connected, without authorization, to one of HTX’s servers from the employee’s compromised computer. The APT38 malicious cyber actors gathered system information on the server and uploaded a backdoor 9 to the server. 
+
+The APT38 malicious cyber actors renamed the uploaded backdoor to “kwork.” Next, the server connected to IP address 185.117.75.183, which corresponded to the domain chapterstray.com, and executed the malicious process “xenwatch” in order to obtain persistent control of the server.10 Between on or about November 17, 2023, and on or about November 22, 2023, the compromised server repeatedly connected to the following IP addresses and domains:
+
+• IP address 51.254.53.24 and domain hyphenstylus.com
+• IP address 95.179.140.133 and domain capeshowman.com
+• IP address 38.180.24.126 and domain jazzlabrador.com
+• IP address 185.213.23.137 and domain gamingbreath.com
+
+
+## Further Reading
+
+- https://rekt.news/heco-htx-rekt
+
+- https://blockworks.com/news/htx-hack-ethereum-crypto-assets
+
+- https://hacken.io/insights/heco-bridge-hack-explained/
+
+- https://olympixai.medium.com/heco-bridge-hack-analysis-64cffda76684
+
+- https://x.com/tayvano_/status/1727384134061052410
+
+- https://x.com/tayvano_/status/1773320665115889713
+
 
 
 
@@ -483,6 +521,56 @@ Amount Stolen:: $116,000,000
 - bc1qzevv8sq060fg5czyvqh3fnyg6l4v9jvlcy44h9 - ThorSwap BTC
 - bc1qzgkmwm9ktz34gwh9yuu9dxss65cs4a48xs5vwj - ThorSwap BTC
 - bc1qzwct76v9ucyprjr33ert9fnr3ruetgvyxzavqw - ThorSwap BTC
+
+
+- TA9bzquWzBRKgjTPJ5gbWMWv86rYqc2yZj Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TAZ6yaCrxvyVED6634GKXPntR7v6aBn7Rb Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TBo6abebYprVVWABcXbpbgtgGRtmeRSrdz Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TByiFBGTx83ptNhLiFcQJQxtnG66hs4GY3 Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TC6WxrikcxBQVN2vpChGwbJP9QEAPp7CoR Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TCxCHCndDkz2xNAaYibienjLaS8eZASaXu Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TDh6QVjBaYF5kdN2qrREKydArESsG12N9h Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TDmBm5zUSiupoV71MXUittZqReN3h85nJc Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TDqroZaFsjWXhefyMqXthS2rvxzmWnavNZ Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TDskBcHHaFYSJz3QuKBSd5Q9ZxEc8dPzyH Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TDzh3ss71yCVCdKqcuQjvgaguVkJtmWSFh Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TEcpUeeiVqxmUujg2s5SAtFxkdN6P9bVB1 Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TEZuPBkVcNyci5WM3zrzoqX6ho4hMXgnJ6 Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TG9ZAev1Q4335uM6Gwm5df9eFUFz8e6Xgo Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- THhic3agJ4544GuJUhuEj7bisxriYfkjb8 Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- THSBNYfGL9ja7b5xU98f8ofU2iy2gXPjSN Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TK6vKMXpG6Fsrt462Nahgzg8RuzLfemnRX Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TKdBozGxEFNZoAwX3rYB9gsZ373jQAYgkm Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TKvUXiHow912c8HPCpwrrdoz4z47NWwL9D Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TLDwBfJBRptX5nFh4rCbvhkhT5cGWbHfKR Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TLivG1x3R7Wgjha1w7Xgz2XWcWRV82yK8c Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TLq5jP2J2ebYghCX1mXP9gcFRfjPbcrfZs Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TLv2pzHZaHyY8k5nWfCE6cGGkLwdQCi3Dg Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TLVSDypgdtRTd1yuGNquCLMoDhgkVrCgmo Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TMunHrvu7UCM8Ro6c968SPwRx9EdLDnHW5 Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TMYtjT2aGUtY16WKF1bkh4ssjoKFKiznqw Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TN7iF7MgBSBNYFr38b3jYiCUEbREJAiWjz Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TNBWvFHbBDjd2JzPqwSPywh8rv1C4LXjdM Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TNSn4yJoR96ZruiEWPUFLxLa1k73bVpkEh Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TPjsHN4KRdaWYvUbVdMUuAeL6k7qLpTTxW Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TQ48GtajcAVJmohSBvJ4rvC9oVNZuWz57q Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TQPQT3im4NW6MGZSQwJBXA2S6Yj2saSBSy Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TRkJ39s58grMSMqFN8YgToMxcaj95ENFxf Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TRxz3DY9ELAoFSZyf4CuaLyEHhGYmQ8b2w Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TSSs4zyjdQM6L7a6v1umWmng3zzwzquSq8 Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TTbgnFEFEmicu1eXN3bvuE8fKbdx3di8Yb Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TTi46bHBvmkgc8NcHLfLB2587XF7GfZFQs Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TTPjk6tJjHPWNxLwEGE4ZW8ADqGsd95zvc Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TU4oX4BcjgfjQUFuKAC27rKzYvqS5hNyKH Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TVFhKSygmJA1Qu7hrC4eavg8Esp9AoH2pu Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TW6swH66FMUMgjxHHSUUy1qDKrXZxprAKV Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TWr1G47DtfvPZ1QAH3RgV9c6SkSSe8a9hS Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TWYCvyCmhikaVpKx6Zf3nGWUjYbVhSGQK5 Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TXJeZYLn2Vr7DUwvrqceo5VRQ8b9EucxLn Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TXKPga6EH25mexfQ7BMFGbVfGwz1rvqXVK Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TXwggJm8GMcbew9J6A5myt8Gi5dxM9j8ia Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+- TZ8Rni5ixMx6SKVFY4Qz7QdZYnbtRuGCVR Frozen May 2025, https://www.courtlistener.com/docket/71912740/united-states-v-approximately-1398-million-usdt/
+
 
 
 ## Tornado Cash Depositors & Withdrawers
