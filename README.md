@@ -85,6 +85,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 👛 | 2026-04-18 | [KelpDAO / Layer Zero](./hacks-and-thefts/layerzero-kelpdao.md)                                  |   $293,720,000     |
 | 🔑 | 2026-04-23 | [Apr 23 2026 Theft](./hacks-and-thefts/2026-04-23_michel.md)                                     |     $1,950,000     |
 | 🔑 | 2026-05-05 | [May 5 2026 Theft](./hacks-and-thefts/2026-05-05_xmr.md)                                         |    $16,219,375     |
+| 🔑 | 2026-06-01 | [Korporatio](./hacks-and-thefts/korporatio.md)                                                   |       $550,000     |
 |    | **2026**   | **TOTAL**                                                                                        | **$606,325,270**   |
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
@@ -432,6 +433,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2026-04-09    | [April 9 2026 Theft](./hacks-and-thefts/2026-04-09_toshi.md)                       |     $5,914,982   |
 | 🔑 | 2026-04-23    | [Apr 23 2026 Theft](./hacks-and-thefts/2026-04-23_michel.md)                       |     $1,950,000   |
 | 🔑 | 2026-05-05    | [May 5 2026 Theft](./hacks-and-thefts/2026-05-05_xmr.md)                           |    $16,219,375   |
+| ❓ | 2026-05-24    | [Stablr](./hacks-and-thefts/stablr.md)                                             |    $13,500,000   |
+| 🔑 | 2026-06-01    | [Korporatio](./hacks-and-thefts/korporatio.md)                                     |       $550,000   |
 |    | **2026**      | **TOTAL**                                                                          |  **$47,261,067** | 
 |    |               |                                                                                    |                  |
 | 🔑 | 2025-01-20    | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                       | $1,700,000       | 
