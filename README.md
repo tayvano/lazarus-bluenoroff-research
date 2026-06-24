@@ -485,7 +485,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2025-12-11    | [December 10 2025 (Overlaps Sololabs)](./hacks-and-thefts/2025-12-10_messy.md)     | $9,100,000       |
 | 🔑 | 2025-12-13    | [Fake Teams Meet](./hacks-and-thefts/2025-12-13_fake-teams.md)                     | $1,700,000       |
 | 🔑 | 2025-12-16    | [Fake Lionel Theft](./hacks-and-thefts/2025-12-16_fake-lionel.md)                  | $170,000         |
-|    | **2025**      | **TOTAL**                                                                          | **$345,488,023** | 
+|    | **2025**      | **TOTAL**                                                                          | **$330,453,854** | 
 |    |               |                                                                                    |                  |
 | 🔑 | 2024-02-09    | [PlayDapp](./hacks-and-thefts/playdapp.md)                                         | $36,000,000      |
 | 🔑 | 2024-03-13    | [NFPrompt](./hacks-and-thefts/nfprompt.md)                                         | $10,400,000      |
@@ -595,14 +595,12 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | ❓ | 2026-06-09    | [Humanity](./hacks-and-thefts/humanity.md)                                |    $36,000,000   |
 |    | **2026**      | **TOTAL**                                                                 |  **$56,356,135** |
 |    |               |                                                                           |                  |
+| 🔐 | 2025-02-17    | [Ripio](./hacks-and-thefts/ripio.md)                                      |     $9,400,000   |
+| ❓ | 2025-05-09    | [BitoPro](./hacks-and-thefts/bitopro.md)                                  |    $12,300,000   |
 | ❓ | 2025-06-29    | [VALR API Key Trade Extraction](./hacks-and-thefts/valr.md)               |       $100,000   | 
 | ❓ | 2025-09-10    | [Request / Singularity](./hacks-and-thefts/request-singularity.md)        |     $3,000,000   | 
 | ❓ | 2025-10-30    | [Garden Finance](./hacks-and-thefts/garden-finance.md)                    |    $12,371,369   | 
-|    | **2025**      | **TOTAL**                                                                 |  **15,471,369**  |
-|    |               |                                                                           |                  |
-| 🔐 | 2025-02-17    | [Ripio](./hacks-and-thefts/ripio.md)                                      |     $9,400,000   |
-| ❓ | 2025-05-09    | [BitoPro](./hacks-and-thefts/bitopro.md)                                  |    $12,300,000   |
-|    | **2025**      | **TOTAL**                                                                 |  **$21,700,000** |
+|    | **2025**      | **TOTAL**                                                                 |  **$37,171,369** |
 |    |               |                                                                           |                  |
 | 🔐 | 2024-02-13    | [Duelbits](./hacks-and-thefts/duelbits.md)                                |     $4,600,000   |
 | 🔐 | 2024-04-29    | [Rain](./hacks-and-thefts/rain.md)                                        |    $16,300,000   |
