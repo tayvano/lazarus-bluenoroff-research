@@ -53,10 +53,10 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2021 | $   551,142,751    |    23       | $   506,000,000    | 11            | $250,000,000       | n/a          | $175,600,000       |  6        |
 | 2022 | $   810,222,860    |    16       | $ 1,100,000,000    | 14            | $850,000,000       | n/a          | $991,700,000       |  5        |
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
-| 2024 | $   974,740,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
+| 2024 | $   997,840,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
 | 2025 | $ 2,057,209,413    |    82       | $ 2,020,000,000    |               |                    |              |                    |           |
 | 2026 | $   683,251,060    |    24       |                    |               |                    |              |                    |           |
-|      | **$6,791,453,083** | **284**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+|      | **$6,814,553,083** | **284**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -238,7 +238,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2024-12-17 | [Zigcoin](./hacks-and-thefts/zigcoin.md)                                                         | $400,000           |
 | 🔑 | 2024-12-18 | [Rainfi](./hacks-and-thefts/rainfi.md)                                                           | $2,009,331         |
 | 🔑 | 2024-12-30 | [Napier Founder](./hacks-and-thefts/napier.md)                                                   | $500,000           |
-|    | **2024**   | **TOTAL**                                                                                        | **$974,740,667  ** |
+|    | **2024**   | **TOTAL**                                                                                        | **$997,840,667**   |
 |    |            |                                                                                                  |                    |
 | 💼 | 2023-01-01 | [Various 2023 Rug Pulls](./hacks-and-thefts/various_2023_rug_pulls.md)                           | $350,000           |
 | 💼 | 2023-04-10 | [Terraport](./hacks-and-thefts/terraport.md)                                                     | $3,900,000         |
@@ -510,7 +510,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2024-12-17    | [Zigcoin](./hacks-and-thefts/zigcoin.md)                                           | $400,000         |
 | 🔑 | 2024-12-18    | [Rainfi](./hacks-and-thefts/rainfi.md)                                             | $2,009,331       |
 | 🔑 | 2024-12-30    | [Napier Founder](./hacks-and-thefts/napier.md)                                     | $500,000         |
-|    | **2024**      | **TOTAL**                                                                          | **$180,037,221** |
+|    | **2024**      | **TOTAL**                                                                          | **$203,137,221** |
 |    |               |                                                                                    |                  |
 | 🔑 | 2023-08-07    | [Steadefi](./hacks-and-thefts/steadefi.md)                                         | $1,140,000       |
 | 🔑 | 2023-08-16    | [Coinshift](./hacks-and-thefts/coinshift.md)                                       | $2,900,000       |
