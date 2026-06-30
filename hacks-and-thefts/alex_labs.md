@@ -192,11 +192,15 @@ The exploiter had also tried, and failed, to steal assets notionally worth aroun
 - $42k via CoinW
 - $21k via Whitebit
 
-- SP3BYYEWFEAZX3A4HM0B9E0MAZFGHP62BVQ46MHMA From Initial Stolen Funds
+- SP2AS4QCQ81PJQ5HE3TJ6AJ554QX2YK14MFHT2VRS 2024-05-14 Original Attacker
 
-- SPM0HTDM7G3JN3ETDH7W0F0STD4EHQ5268X4EF8C 1 Hop Tranches
-- SP2Y56NCZT05CJX1GWFFYZ9KB0Z44GHE65461Z6NR 1 Hop Tranches
-- SP2GZ3TPYCHYK7NH8JWKPG69X8ND9DFX9XNY4C3T2 1 Hop Tranches
+- SP3E4GB33ZF6YNQ7STEYG1TMBVNC2M0QK5QH94KYB 2024-08-13 
+
+- SP3BYYEWFEAZX3A4HM0B9E0MAZFGHP62BVQ46MHMA 2024-10-29 2024-12-18
+
+- SPM0HTDM7G3JN3ETDH7W0F0STD4EHQ5268X4EF8C 2024-12-18 1 Hop Tranches
+- SP2Y56NCZT05CJX1GWFFYZ9KB0Z44GHE65461Z6NR 2024-12-18 1 Hop Tranches
+- SP2GZ3TPYCHYK7NH8JWKPG69X8ND9DFX9XNY4C3T2 2024-12-18 1 Hop Tranches
 
 - insert 4 more hops and hundreds of addresses here
 
@@ -225,6 +229,7 @@ The exploiter had also tried, and failed, to steal assets notionally worth aroun
 - TLsUeBvdy2NNJpxo83U7xtnYmSsFMFSVLz from Consolidation vs Allbridge
 
 - Note: FixedFloats for gas from TLDEPVvBSjcQq2tc7HixdSkuE9F5kqW9hg, per usual
+
 
 
 ## Connections
