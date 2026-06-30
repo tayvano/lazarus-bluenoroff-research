@@ -194,7 +194,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2024-04-11 | [Endblock](./hacks-and-thefts/endblock.md)                                                       | $72,000            |
 | 🔐 | 2024-04-29 | [Rain](./hacks-and-thefts/rain.md)                                                               | $16,300,000        |
 | 🎙️ | 2024-05-06 | [Genius / GNUS Token](./hacks-and-thefts/genius_ventures.md)                                     | $1,262,630         |
-| 🔑 | 2024-05-15 | [ALEX Labs](./hacks-and-thefts/alex_labs.md)                                                     | $4,300,000         |
+| 🔑 | 2024-05-15 | [ALEX Labs](./hacks-and-thefts/alex_labs.md)                                                     | $27,400,000        |
 | 🎙️ | 2024-05-22 | [Exclusible Penthouse](./hacks-and-thefts/exclusible-penthouse.md)                               | $820,000           |
 | 🎙️ | 2024-05-28 | [HYVE](./hacks-and-thefts/hyve.md)                                                               | $100,000           |
 | 🎙️ | 2024-05-29 | [SpaceCatch](./hacks-and-thefts/spacecatch.md)                                                   | $200,000           |
@@ -490,7 +490,7 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2024-02-09    | [PlayDapp](./hacks-and-thefts/playdapp.md)                                         | $36,000,000      |
 | 🔑 | 2024-03-13    | [NFPrompt](./hacks-and-thefts/nfprompt.md)                                         | $10,400,000      |
 | 🔑 | 2024-03-20    | [Huge March 2024 Theft](./hacks-and-thefts/huge_march_2024_theft.md)               | $90,000,000      |
-| 🔑 | 2024-05-15    | [ALEX Labs](./hacks-and-thefts/alex_labs.md)                                       | $4,300,000       |
+| 🔑 | 2024-05-15    | [ALEX Labs](./hacks-and-thefts/alex_labs.md)                                       | $27,400,000      |
 | 🔑 | 2024-06-11    | [Theft from Individual C7](./hacks-and-thefts/c7.md)                               | $4,200,000       |
 | 🔑 | 2024-06-28    | [Theft from Individual C4](./hacks-and-thefts/c4.md)                               | $400,000         |
 | 🔑 | 2024-07-22    | [Founder/CEO of I4](./hacks-and-thefts/i4.md)                                      | $1,500,000       |

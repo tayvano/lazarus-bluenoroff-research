@@ -4,7 +4,7 @@ Date:: 2024-05-15
 
 Time:: 
 
-Amount Stolen:: $4,300,000
+Amount Stolen:: $27,400,000
 
 Tags:: 🔑 MESSYMESS
 
@@ -15,17 +15,11 @@ G::
 
 ## Details
 
-Bitcoin DeFi application ALEX Lab was drained of over $4.3 million in various tokens after a suspected private key compromise attacked its bridging service. 
+Bitcoin DeFi application ALEX Lab was drained of over $27.4 million in STX after a suspected private key compromise.
 
-Hackers transferred over $300,000 USD worth of BTC, $3.3 million USD worth of stablecoins, and $75,000 USD worth of Sugar Kingdom (SKO) tokens.
-
-An attacker tried to pull off what could have been a ~$12 million heist from ALEX Lab's XLink bridge after a private key was compromised. However, the sloppy work by the attacker enabled an apparent whitehat hacker to step in.
-
-The attacker was successfully able to transfer around 13.8 million STX (~$2 million) on the Stack BTC layer-2 chain. However, their attempts to steal assets notionally worth around $4.3 million from the project's BNB Chain implementation failed when they upgraded the project contract to a malicious version, but failed to prevent other people from calling the withdraw function. The attacker's first transactions to withdraw the funds themself failed, and an apparent whitehat hacker was able to step in and complete the withdrawal ahead of the exploiter. They later negotiated a deal for the funds' return, after offering a 10% "bounty".
+The attacker was successfully able to transfer around 13.7 million STX (~$27.4 million) on the Stack BTC layer-2 chain. However, their attempts to steal assets notionally worth around $4.3 million from the project's BNB Chain implementation failed when they upgraded the project contract to a malicious version, but failed to prevent other people from calling the withdraw function. The attacker's first transactions to withdraw the funds themself failed, and an apparent whitehat hacker was able to step in and complete the withdrawal ahead of the exploiter. They later negotiated a deal for the funds' return, after offering a 10% "bounty".
 
 The exploiter had also tried, and failed, to steal assets notionally worth around $5 million on the Ethereum blockchain, but failed to do so. ALEX Lab later announced they were able to recover or secure around $4.5 million of those assets.
-
-On 2024-05-14, CertiK’s internal alerting system detected a suspicious transfer of $4.3 million worth of assets to a wallet on the Binance Smart Chain, with an additional 13.7 million STX worth $2 million that was transferred to a malicious address. The incident was due to a private key compromise of the project’s deployer which has been confirmed by the project since the attack. The funds that were affected on BSC were front run by a wallet who has begun negotiations to return the assets to the project. At the time of writing, the funds affected total $6.3 million.
 
 > Update on the ALEX Incident Investigation
 > Dear ALEX Community,
@@ -43,11 +37,13 @@ On 2024-05-14, CertiK’s internal alerting system detected a suspicious transfe
 
 - https://twitter.com/ALEXLabBTC/status/1790611871986331855
 
-- https://certik.com/resources/blog/alex
+- https://certik.com/resources/blog/alex - $ amounts are wrong but analysis is correct
 
 - https://twitter.com/ALEXLabBTC/status/1791020176332230988
 
 - https://dailycoin.com/alex-lab-blames-north-koreas-lazarus-group-for-4m-exploit/
+
+- https://app.alexlab.co/recovery-overview - links to all official comms
 
 - Attributed in [MSMT: MSMT: The DPRK’s Violation and Evasion of UN Sanctions through Cyber and Information Technology Worker Activities]./pdfs/2025-10-22_MSMT-Report.pdf)
 
