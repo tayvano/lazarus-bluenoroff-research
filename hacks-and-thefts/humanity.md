@@ -92,7 +92,7 @@ G:: 529676
 - 0xD1ea823D421E0c829ee11F772AF487fd352678EA - Theft Primary
 - 0x36560d6aC2004e1BB483e77b791E905dd4F5E672 - Theft Holding
 - 0x59Eff548CD9BcfBc169B6340f734e442c764A814 - Theft Holding
-- 0xf3590Fc0D591A3868e19b9A200A85165592f9734 - Theft Holding
+- 0xf3590Fc0D591A3868e19b9A200A85165592f9734 - Theft Holding 2026-06-23
 - 0x6Aa22CB8420E94Fc2119364b4c7885710aE753bB - Theft Receives Ownership on BSC
 - 0x4dd6288307661bbf0b1785b531dbad3fac8c909d - Theft
 - 0x9e995952eF7665B243eeEF0693acD7FEd7150504 - Theft Theft/Laundry
@@ -105,12 +105,127 @@ G:: 529676
 - https://etherscan.io/tx/0xa665998ca9a2fcfe66d687647edede62c7acd554c7d35ea13c93788b8a129e5b - Attack primary drain
 - https://bscscan.com/tx/0x56a150859637e453679d833bbff0d1bdfe9b8a288ca1e7190b678940dd7208f3 - Attack Mint
 
+- 0xf936315c4118d91129b4e2ee29815a97fca2dc50 - Laundry 2026-06-23 (to HitBTC)
+- 0xe3f5aad8f11732e52fba995774fa7dca26b771d3 - Laundry 2026-06-23 (to HitBTC)
+- 0x3880bd6f82c7fad49e8c82c68fb3ee1ae157432d - Laundry 2026-06-23 (to HitBTC)
+- 0x9d51c150d55b21662128ed8a6bb68c753fe7106e - Laundry 2026-06-23 (to HitBTC)
+- 0x96a3ba2cc3b9aa7e734e8a5b164393210fd987de - Laundry 2026-06-23 (to HitBTC)
+- 0x312d6d638b814271f21dd5ea7f07ab39095d3701 - Laundry 2026-06-23 (to HitBTC)
+- 0x164899fd53a7fd010cf95d59c62b6cae19da316d - Laundry 2026-06-23 (to HitBTC)
+- 0x5bff75ab8e34f6ea8d79a8b79e967cd699820834 - Laundry 2026-06-23 (to HitBTC)
+- 0xa3cc6d5788d1af3b8ee6988f652c5a86bffdc7ba - Laundry 2026-06-23 (to HitBTC)
+- 0x0bb81a7eea859769c30e078a1601da67d86630bb - Laundry 2026-06-23 (to HitBTC)
+- 0x73c5d37b736cff5e79a207035e1a4eb8c93a277f - Laundry 2026-06-23 (to HitBTC)
+- 0x203beef0d4432f39920deabbe5326782988d9b89 - Laundry 2026-06-23 (to HitBTC)
+- 0xa4d638f8acf58f405b35ff5ba3e76fe4c76f225e - Laundry 2026-06-23 (to HitBTC)
+- 0x241bdf8d738cd4da16ef9bea874a88d2e7d1af7e - Laundry 2026-06-23 (to HitBTC)
+- 0xa9932596e47091c31f08ee2d5e732eda315058bf - Laundry 2026-06-23 (to HitBTC)
+- 0x8a309f99024e6e2e15cb5f739e174283c76f3a39 - Laundry 2026-06-23 (to HitBTC)
+- 0xa0542ef53180a5edf46b79641d2e0d2eeed28f43 - Laundry 2026-06-23 (to HitBTC)
+- 0x43516603be07ed3fe84b97bf610230d3d8252736 - Laundry 2026-06-23 (to HitBTC)
+- 0x9d41cfdb92f99cd1a4a03992119525b89a2c78df - Laundry 2026-06-23 (to HitBTC)
+- 0xeab10f232548d301647501b9c923d4979797dc14 - Laundry 2026-06-23 (to HitBTC)
+- 0xa509ea26664b46e42620b006f33a8d347da08027 - Laundry 2026-06-23 (to HitBTC)
+- 0x556d4a51dcf9eac626616f243e09b52947894dda - Laundry 2026-06-23 (to HitBTC)
+- 0x4e147deec5c58a6c99a68f47a9de6d50b515fe42 - Laundry 2026-06-23 (to HitBTC)
+- 0xd704fae8d97490cd141bf5819a1681fd63323090 - Laundry 2026-06-23 (to HitBTC)
+- 0xc2566b13e07d7f0bddd5346b69aae8e04e21be75 - Laundry 2026-06-23 (to HitBTC)
+- 0x8ca28d201648425a391039fdf594210b66fef87f - Laundry 2026-06-23 (to HitBTC)
+- 0x6bdd6f47c0c91deeac2cd2981be6e449d9066cdb - Laundry 2026-06-23 (to HitBTC)
+- 0x6a63bc0f914e1986235997a24ed72e777b73157b - Laundry 2026-06-23 (to HitBTC)
+- 0xf90ee2d8421d4facb1d35e5772791b72d474b510 - Laundry 2026-06-23 (to HitBTC)
+- 0x739f1a6d3121d6481e75e2c1b6e86d1c6f9e5518 - Laundry 2026-06-23 (to HitBTC)
+- 0xa8b08079c51dcd62931fd846cd596823e5d1bbc7 - Laundry 2026-06-23 (to HitBTC)
+- 0x6bb3fd1b647764034f5d8a907cb37c583817af77 - Laundry 2026-06-23 (to HitBTC)
+- 0xac7693f0b773a747a0f42675bab5f8550985194e - Laundry 2026-06-23 (to HitBTC)
+- 0xbc7265891b91d77781da732202b9a7db77371709 - Laundry 2026-06-23 (to HitBTC)
+- 0x52df64ecd5fa16fce48afbbc726201cacb061423 - Laundry 2026-06-23 (to HitBTC)
+- 0xbccc0a21c4aa971c60246d71233e49ab8d7c6a08 - Laundry 2026-06-23 (to HitBTC)
+- 0x3d4198421fb84a97e8a9588d3804cef61ed67e85 - Laundry 2026-06-23 (to HitBTC)
+- 0xceeab5648e7dee4794af317d3b231804213dd558 - Laundry 2026-06-23 (to HitBTC)
+- 0x54da13c39b30ae3b2385df697186efc4994c7be5 - Laundry 2026-06-23 (to HitBTC)
+- 0x55da5a05d34b8f69545007cf92e20c63d025378e - Laundry 2026-06-23 (to HitBTC)
+- 0x52dadf76e26ee91cc3f6c6f3b137d0988bfdc0a3 - Laundry 2026-06-23 (to HitBTC)
+- 0x8cafef24bb4e3c5553329780f6af17c4f309d9f5 - Laundry 2026-06-23 (to HitBTC)
+- 0x26b679f7f104e18851bf0db309fc39918642d489 - Laundry 2026-06-23 (to HitBTC)
+- 0x753b7e95214336ae3bafa6fac6e2e9e00893c305 - Laundry 2026-06-23 (to HitBTC)
+- 0xdb1d6c128ee274cb9d3739728414f3ee1f9b5c84 - Laundry 2026-06-23 (to HitBTC)
+- 0x449a9de831852f3e7e3b7fcd1420c48a32938ab5 - Laundry 2026-06-23 (to HitBTC)
+- 29RcoNZ3VWR6Mc982UJ8mMrRE6gEoBvm23b5xtin1LM1 - Laundry 2026-06-23 (to HitBTC)
+- HaqFC5Bm7Ncwjk4DDcibZYJPE3pFZ5micqescwvYujpQ - Laundry 2026-06-23 (to HitBTC)
+- EcsoHAYeeCCivLaWhUCTmZny1RrbFPtGZh68tpYZW7pd - Laundry 2026-06-23 (to HitBTC)
+- HVB2TKnYbfpxKk76XrqurLhPnL9JprCG5mDGKrMwsoc - Laundry 2026-06-23 (to HitBTC)
+- 2XGAmj2jeDCWoPoP1XqHbvKhxvy5NCRjHkDYwZLCz7Ud - Laundry 2026-06-23 (to HitBTC)
+- 8KJ93wHt45YUzfBRsaMX32uqxH3HSkDv14nKLEe6swzD - Laundry 2026-06-23 (to HitBTC)
+- 4HbX2CyihqDcSkc61QWBcKvsypZM6nA1m6kxmrfNFEao - Laundry 2026-06-23 (to HitBTC)
+- BQYG2GxfMXW8GH6k8Z6qnXid3HfmvnJb4MfJKbTB7NPP - Laundry 2026-06-23 (to HitBTC)
+- 6oHcRQCvJdYxbdF4z3dyYZsrcs1uqsKXfeyH1LrVgDSC - Laundry 2026-06-23 (to HitBTC)
+- 24bhT7FWkW9AA1W9CwbJ6fBeAkSwCdCGqpcAd6ZhLD78 - Laundry 2026-06-23 (to HitBTC)
+- 7wK2ddcuUrhXakBTpLAkcZA4un47k4BRbXy9mg7dj6Mn - Laundry 2026-06-23 (to HitBTC)
+- 9NSwYQXNdXWz6Jnpd6ihKoqw9onzutjaJ5GhLD9ucoQM - Laundry 2026-06-23 (to HitBTC)
+- 8DRJVVuzf92qT1yYoouNKyupHpcHzei5nHn8KJxPpVWm - Laundry 2026-06-23 (to HitBTC)
+- 2kKX7wRsvvJtxi5sCFivYvb8P8VAHv6W3yh3TTffgpCL - Laundry 2026-06-23 (to HitBTC)
+- ECJUxKmujY3wF8DF8kctuzoQd6SjDqyY8Eo6VYqcfcM3 - Laundry 2026-06-23 (to HitBTC)
+- J76NokUbfNXJrGVpm9azCgMkz2tb2Qxmw3Mqekp8CT49 - Laundry 2026-06-23 (to HitBTC)
+- HsDMHJgdEiEr6wZVp9MYQrKq75jjAZSePKygdzMBUvkn - Laundry 2026-06-23 (to HitBTC)
+- 8cx4GwTXPVkeGycBnW4i3vTf9D76XjTacspwoxytHoyx - Laundry 2026-06-23 (to HitBTC)
+- 2hMoiumw6LGWdt9CGvoraUrp1bXA5ytnyKMf5YiDDwrt - Laundry 2026-06-23 (to HitBTC)
 
+
+- 0xb4a7a9485d250b424d1a0ecef71f4f095c674212 - Laundry 2026-06-26
+- 0xccd5431ea669568464bad1e0646bff974020f003 - Laundry 2026-06-26
+- 0xca52d3d128f56296c14c64010f988f8d6449874d - Laundry 2026-06-26
+- 0x952fbc5e4499d38063bf38955781a8d152d95251 - Laundry 2026-06-26
+- 0x6f803f05b568d560b8f8521b37efb676b6bd927b - Laundry 2026-06-26
+- 0x82eb12a4a3646ef94052655d6471353cbd4a693b - Laundry 2026-06-26
+- 0x9c90559845e66bceba09d986ffad2a8b1d7b0808 - Laundry 2026-06-26
+- 0xee3d0714607098f58677dd1e1029a5904ef8bdbd - Laundry 2026-06-26
+- 0x9b5feb870ef6839905af99c1fc0eae22a57f3e76 - Laundry 2026-06-26
+- 0x3a3e5a15f70c6a896cb0b0ab7f9f45c5def03e97 - Laundry 2026-06-26
+- 0xb36114ecfde1aa80b452fb3e5b89d9ca91807fea - Laundry 2026-06-26
+- 0xbc225a251c7db1ae88b31fa00d362bf84d49eaf3 - Laundry 2026-06-26
+
+- 0x4e424e28eee49510f13450a7b793b6193f30b9bb - Pre-dex
+- 0x1d800abb80424f56c08473476d522053340ed47e - Pre-dex
+- 0x9cc6d4bc79aa16434fde0f30f9f3bfe2e4cd0899 - Pre-dex
+- 0xdf0027587e5882f438961c2794ebfaefc3611a38 - Pre-dex
+- 0xdb3ce4b5cf1ef1719a0af513bb654fb8c6ab8499 - Pre-dex
+- 0xd42f59363649f3debf25ec6e5b418458d1f3c3cc - Pre-dex
+- 0xc3601b3aa59acc11315dd6a64174a56ce0a59eee - Pre-dex
+- 0x438928d15fe0ba5208bbabf142121c83fef8fa31 - Pre-dex
+- 0x9a0a5258926b0755911379428ed2bfce4a89b820 - Pre-dex
+- 0xcf9d6028169d7c6935136a21591410c6bd758520 - Pre-dex
+- 0xec11e08d501c8f923c0bcef06a8ff58be102dfdc - Pre-dex
+- 0x33cc4e6a8642e2f84f96193cffdc7e815ddde01a - Pre-dex
+- 0x449b3bfc81fc2bfca2969e72988a04570e0e291b - Pre-dex
+- 0x322d8af0000c9d71a6f37f1325586d5f353313cb - Pre-dex
+- 0x5df2774cbd547fc4f2bf8600829d31ac8b54f6bf - Pre-dex
+- 0x0d59c4a109921b8dd426e931f87a0544afcd243a - Pre-dex
+
+- 0x3202f94da39660cd74ed49ffb0f6f161e61b6094 - Post-dex
+- 0xae9b81503677fe194764a191f64584c71e902dd8 - Post-dex
+- 0xac647b910c3547121b6aabcfb3e8f587cb365de9 - Post-dex
+- 0x03e3daf1fd41e87b148580c86a78086e2a1d623c - Post-dex
+- 0x273f5fcb3cb834425e01ed50f9d984d4c7991b0b - Post-dex
+- 0xab1655d111382077e7aff52657022edba31c0b83 - Post-dex
+- 0x2f061a1ef32aca6344d4bf22601ba43030a65636 - Post-dex
+- 0xc53720c7d993454e04965090b1a30a215a337e9e - Post-dex
+- 0x5868e9356dc2390d1d799bc6694c7a1731722c02 - Post-dex
+- 0xdf117a95ff7532e5abade9424346cf8d2122c22e - Post-dex
+- 0x81d5b7e63c738ce244260970600bcb4299e9edc1 - Post-dex
+- 0xda5a1e6884d66b2b3281d58906bc6a7c42bfa23e - Post-dex
+- 0xe0b776f20caac82ae0d6aac8862529db55c365ae - Post-dex
+- 0x3800e4dc90685d6a4924ac8ace5469fc2986cac6 - Post-dex
+- 0x5ca74b66b5c8fb409eec15cd2e179e01df93af09 - Post-dex
+- 0x9d885e65e551d8f49364adb793471ad438f11996 - Post-dex
+- 0xe4b18041de976c11e4a3be86b0accf43408cbafb - Post-dex
 
 ---
 
 
 # Background
+
+Strongly NOT TraderTraitor. Unknown group that popped up recently. Not one of the normal clusters.
 
 
 ## 2025-10-21
