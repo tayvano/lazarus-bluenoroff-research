@@ -173,11 +173,13 @@ The exploiter had also tried, and failed, to steal assets notionally worth aroun
 ### Railgun 
 
 - 0x1871bb6257b1f622548ef64a12ae5149eb208bd8 - $2.54m to Railgun 2024-06-27 2024-06-28 2024-06-29
+- 0x1536Cf663E88EC046bAcFF4b8F770F1731931645 - $670k from Railgun 2024-06-27
+- 0xeDFBC79140231FB1e5Bc66e560623735d872236B - $338k from Railgun 2024-06-29
+- 0xdDB2E9FEaF0A122b43bE14bc085cf713703Ce45c - $1.5m from Railgun 2024-06-27 2024-06-28 2024-06-29 2024-06-30
 
 ### Railgun
 
 - 0xe381680d05057e20ac54978ddb3a345acc7bb42a - To Railgun 2024-06-30 2024-07-01 - $1.55m
-
 - 0xa20d83d25bcaacd5f8174b54367b9958ac02ee44 - From RG
 
 
