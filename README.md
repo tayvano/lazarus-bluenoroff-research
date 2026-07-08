@@ -55,8 +55,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $   997,840,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
 | 2025 | $ 2,057,209,413    |    82       | $ 2,020,000,000    |               |                    |              |                    |           |
-| 2026 | $   709,485,643    |    25       |                    |               |                    |              |                    |           |
-|      | **$6,840,787,666** | **285**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2026 | $   724,548,154    |    25       |                    |               |                    |              |                    |           |
+|      | **$6,855,850,177** | **285**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -86,12 +86,12 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2026-04-09 | [April 9 2026 Theft](./hacks-and-thefts/2026-04-09_toshi.md)                                     |     $5,914,982     |
 | 👛 | 2026-04-18 | [KelpDAO / Layer Zero](./hacks-and-thefts/layerzero-kelpdao.md)                                  |   $293,720,000     |
 | 🔑 | 2026-04-23 | [Apr 23 2026 Theft](./hacks-and-thefts/2026-04-23_michel.md)                                     |     $1,950,000     |
-| 🔑 | 2026-05-05 | [May 1 2026 Theft](./hacks-and-thefts/2026-05-01_unknown.md)                                     |    $26,234,583     |
+| 🔑 | 2026-05-05 | [May 1 2026 Theft](./hacks-and-thefts/2026-05-01_unknown.md)                                     |    $41,297,094     |
 | 🔑 | 2026-05-05 | [May 5 2026 Theft](./hacks-and-thefts/2026-05-05_xmr.md)                                         |    $16,219,375     |
 | ❓ | 2026-05-24 | [Stablr](./hacks-and-thefts/stablr.md)                                                           |    $13,500,000     |
 | 🔑 | 2026-06-01 | [Korporatio](./hacks-and-thefts/korporatio.md)                                                   |       $550,000     |
 | 🍆 | 2026-06-09 | [Humanity](./hacks-and-thefts/humanity.md)                                                       |    $36,000,000     |
-|    | **2026**   | **TOTAL**                                                                                        | **$709,485,643**   | 
+|    | **2026**   | **TOTAL**                                                                                        | **$724,548,154**   | 
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
 | 🔑 | 2025-01-20 | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                                     | $1,700,000         |
@@ -436,10 +436,10 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🔑 | 2026-03-20    | [March 20 2026 Theft](./hacks-and-thefts/2026-03-20_dust.md)                       |     $1,062,067   |
 | 🔑 | 2026-04-09    | [April 9 2026 Theft](./hacks-and-thefts/2026-04-09_toshi.md)                       |     $5,914,982   |
 | 🔑 | 2026-04-23    | [Apr 23 2026 Theft](./hacks-and-thefts/2026-04-23_michel.md)                       |     $1,950,000   |
-| 🔑 | 2026-05-05    | [May 1 2026 Theft](./hacks-and-thefts/2026-05-01_unknown.md)                       |    $26,234,583   |
+| 🔑 | 2026-05-05    | [May 1 2026 Theft](./hacks-and-thefts/2026-05-01_unknown.md)                       |    $41,297,094   |
 | 🔑 | 2026-05-05    | [May 5 2026 Theft](./hacks-and-thefts/2026-05-05_xmr.md)                           |    $16,219,375   |
 | 🔑 | 2026-06-01    | [Korporatio](./hacks-and-thefts/korporatio.md)                                     |       $550,000   |
-|    | **2026**      | **TOTAL**                                                                          |  **$84,050,097** | 
+|    | **2026**      | **TOTAL**                                                                          | **$109,127,816** | 
 |    |               |                                                                                    |                  |
 | 🔑 | 2025-01-20    | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                       | $1,700,000       | 
 | 🔑 | 2025-01-26    | [Dimitra Token](./hacks-and-thefts/dimitra.md)                                     | $6,910,484       |
