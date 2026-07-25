@@ -4,7 +4,7 @@ Amount Stolen:: $1,250,000
 
 Date:: 2026-03-17
 
-Tags:: ❓
+Tags:: ✉️
 
 G:: 492863
 
@@ -34,7 +34,7 @@ Amount Stolen:: $36,000,000
 
 Date:: 2026-06-09
 
-Tags:: ❓
+Tags:: ✉️
 
 G:: 529676
 

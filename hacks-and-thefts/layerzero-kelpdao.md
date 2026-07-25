@@ -239,6 +239,7 @@ Tags:: 👛
 - bc1qfm09jgsh4crvglm3e86ht6s367wldrjausnlzk
 - bc1quahz40lxm9e6vrwz998h25nwuf30r5p0e509mf
 - 0x24Ea3b6AFa51DC28A9f4dc5b719593cA247208Ab
+- 1MzC1ee87XLChJWJzKJGVi98ckAQedsGkP - Wei HuiHui / Octogon Strategies
 
 
 ## Testing

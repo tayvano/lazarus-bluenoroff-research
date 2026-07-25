@@ -4,7 +4,7 @@ Date:: 2025-09-10
 
 Amount Stolen:: $3,000,000
 
-Tags:: ❓🔑
+Tags:: 🍆
 
 
 ---
