@@ -55,8 +55,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $   997,840,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
 | 2025 | $ 2,057,209,413    |    82       | $ 2,020,000,000    |               |                    |              |                    |           |
-| 2026 | $   775,227,992    |    30       |                    |               |                    |              |                    |           |
-|      | **$6,906,530,015** | **290**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2026 | $   797,669,609    |    33       |                    |               |                    |              |                    |           |
+|      | **$6,928,971,632** | **293**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -95,8 +95,11 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 🎙️ | 2026-06-30 | [Contagious Summer](./hacks-and-thefts/contagious-summer.md)                                     |        $97,000     |
 | 🔑 | 2026-07-13 | [Oro](./hacks-and-thefts/oro.md)                                                                 |     $3,100,000     |
 | ❓ | 2026-07-15 | [Ostium](./hacks-and-thefts/ostium.md)                                                           |    $23,000,000     |
+| 🍆 | 2026-07-15 | [Teleswap](./hacks-and-thefts/teleswap.md)                                                       |       $735,000     |
 | 👛 | 2026-07-22 | [AFX](./hacks-and-thefts/afx.md)                                                                 |    $24,047,838     |
-|    | **2026**   | **TOTAL**                                                                                        | **$775,227,992**   | 
+| 🍆 | 2026-07-24 | [Triple-A](./hacks-and-thefts/triple-a.md)                                                       |    $12,000,000     |
+| 🍆 | 2026-08-12 | [Bitazza](./hacks-and-thefts/bitazza.md)                                                         |     $9,706,617     |
+|    | **2026**   | **TOTAL**                                                                                        | **$797,669,609**   | 
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
 | 🔑 | 2025-01-20 | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                                     | $1,700,000         |
@@ -603,15 +606,18 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 - 2023-2024: Astrill, Mullvad. Tornado Cash to Wormhole or eXch. Gets lost in Tornado with all the other DPRK shit.
 - 2025-2026: Usuually connects back to early 2021 era SQSQ attacks (e.g. Nexus Mutal)
 
-| 📁 | Date       | Incident                                                                     | Amt Stolen       |
-| -- | ---------- | ---------------------------------------------------------------------------- | ---------------- |
+| 📁 | Date          | Incident                                                                  | Amt Stolen       |
+| -- | ------------- | ------------------------------------------------------------------------- | ---------------- |
 | 🍆 | 2026-03-01    | [Bitrefill](./hacks-and-thefts/bitrefill.md)                              |     $2,500,000   |
 | ✉️ | 2026-03-17    | [Incident #1](./hacks-and-thefts/humanity.md)                             |     $1,250,000   |
 | 🍆 | 2026-04-06    | [Zignaly](./hacks-and-thefts/zignaly.md)                                  |     $3,106,135   |
 | 🍆 | 2026-05-24    | [Stablr](./hacks-and-thefts/stablr.md)                                    |    $13,500,000   |
 | ✉️ | 2026-06-09    | [Humanity](./hacks-and-thefts/humanity.md)                                |    $36,000,000   |
 | ❓ | 2026-07-15    | [Ostium](./hacks-and-thefts/ostium.md)                                    |    $23,000,000   |
-|    | **2026**      | **TOTAL**                                                                 |  **$79,356,135** |
+| 🍆 | 2026-07-15    | [Teleswap](./hacks-and-thefts/teleswap.md)                                |       $735,000   |
+| 🍆 | 2026-07-24    | [Triple-A](./hacks-and-thefts/triple-a.md)                                |    $12,000,000   |
+| 🍆 | 2026-08-12    | [Bitazza](./hacks-and-thefts/bitazza.md)                                  |     $9,706,617   |
+|    | **2026**      | **TOTAL**                                                                 |  *$101,797,752** |
 |    |               |                                                                           |                  |
 | 🔐 | 2025-02-17    | [Ripio](./hacks-and-thefts/ripio.md)                                      |     $9,400,000   |
 | ❓ | 2025-05-09    | [BitoPro](./hacks-and-thefts/bitopro.md)                                  |    $12,300,000   |
