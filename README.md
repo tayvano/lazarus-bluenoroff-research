@@ -55,8 +55,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 2023 | $   646,804,332    |    27       | $   660,000,000    | 20            | $600,000,000       | n/a          | $753,019,000       | 17        |
 | 2024 | $   997,840,667    |    62       | $ 1,300,000,000    | 49            |                    |              |                    |           |
 | 2025 | $ 2,057,209,413    |    82       | $ 2,020,000,000    |               |                    |              |                    |           |
-| 2026 | $   797,669,609    |    33       |                    |               |                    |              |                    |           |
-|      | **$6,928,971,632** | **293**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
+| 2026 | $   815,669,609    |    34       |                    |               |                    |              |                    |           |
+|      | **$6,946,971,632** | **294**     | **$6,711,000,000** | **123**       | **$2,690,000,000** | n/a          | **$2,966,031,000** | **57**    |
 
 
 
@@ -99,7 +99,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | 👛 | 2026-07-22 | [AFX](./hacks-and-thefts/afx.md)                                                                 |    $24,047,838     |
 | 🍆 | 2026-07-24 | [Triple-A](./hacks-and-thefts/triple-a.md)                                                       |    $12,000,000     |
 | 🍆 | 2026-08-12 | [Bitazza](./hacks-and-thefts/bitazza.md)                                                         |     $9,706,617     |
-|    | **2026**   | **TOTAL**                                                                                        | **$797,669,609**   | 
+| 👛 | 2026-08-28 | [Unknown Aug 28 2026](./hacks-and-thefts/trtr-2026-unknown.md)                                   |    $18,000,000     |
+|    | **2026**   | **TOTAL**                                                                                        | **$815,669,609**   | 
 |    |            |                                                                                                  |                    |
 | 🎙️ | 2025-01-09 | [Crypto Staker Theft](./hacks-and-thefts/cryptostaker.md)                                        | $13,000            |
 | 🔑 | 2025-01-20 | [Unknown Jan 2025](./hacks-and-thefts/2025-01-20_unknown.md)                                     | $1,700,000         |
@@ -650,7 +651,8 @@ Used to just be all the Bluenoroff hacks. Back when I was not insane. Now it's a
 | -- | ------------- | ------------------------------------------------------------------------------------------------ | ------------------ |
 | 👛 | 2026-04-18    | [KelpDAO / Layer Zero](./hacks-and-thefts/layerzero-kelpdao.md)                                  |   $293,720,000     |
 | 👛 | 2026-07-22    | [AFX](./hacks-and-thefts/afx.md)                                                                 |    $24,047,838     |
-|    | **2026**      | **TOTAL**                                                                                        | **$317,767,838**   |
+| 👛 | 2026-08-28    | [Unknown Aug 28 2026](./hacks-and-thefts/trtr-2026-unknown.md)                                   |    $18,000,000     |
+|    | **2026**      | **TOTAL**                                                                                        | **$335,767,838**   |
 |    |               |                                                                                                  |                    |
 | 👛 | 2025-01-23    | [Phemex](./hacks-and-thefts/phemex.md)                                                           | $85,085,704        |
 | 👛 | 2025-02-21    | [Bybit](./hacks-and-thefts/bybit.md)                                                             | $1,500,000,000     |
