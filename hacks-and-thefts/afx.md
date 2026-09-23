@@ -223,6 +223,10 @@ We hope that openly sharing this investigation can help strengthen the resilienc
 - 0xf5D7Ea8a70477C19DaE72E1471891d2a3E33A98a
 - 0xc86Af3d2A14f9D5c6cB446E8C181A122C82961eF
 - 0x5D99aad175eC826c8bFA182B426679A94FaEdd3b
+- 0x5ba2aaf38749a6999477b7c0cc9924335fafee58
+- 0xd8678b462d29f9b94bf1def94461bc7591c2b1f8
+- 0x7cb311db20d91c492d487c81fcab7c68a2b125fe
+- 0x7b082c140aA1c67Cd5f0b35f9c5aCD546F1332dA
 - 0xf637339e7483f475fd65c57f61f85ee736a8ccb2 - Dust
 - bc1qd6cpyslvahkg8dsxp4lgmku0gh996ftuql0d5d
 - bc1q3xwmnjma5hcd74d93da2qn7240d4qfdpxemnfy

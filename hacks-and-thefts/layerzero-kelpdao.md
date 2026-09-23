@@ -24,7 +24,7 @@ Tags:: 👛
 - https://x.com/OAK_Res/status/2046637948205170813
 - https://x.com/KelpDAO/status/2051754226351771772
 - https://x.com/LayerZero_Core/status/2052876712653013173
-
+- https://x.com/tayvano_/status/2046691431390327151
 
 
 
