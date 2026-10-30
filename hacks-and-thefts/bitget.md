@@ -19,7 +19,6 @@ Tags:: 👛
 
 - $27m on ZEC
 
-
 > At 18:31 UTC on September 24, 2026, Bitget’s security systems identified unauthorized transfers involving a limited number of hot wallets.
 
 > Our security team immediately activated emergency response procedures and began a full investigation.  
@@ -43,7 +42,6 @@ Tags:: 👛
 > We will not speculate on the attack vector while the investigation remains ongoing. Our focus is on protecting users, securing all systems, and delivering complete transparency throughout this process.
 
 - https://x.com/bitget/status/2103236552482848927
-
 
 - https://x.com/GracyBitget/status/2103284265563902056 
 
@@ -125,6 +123,21 @@ https://arkm.com/explorer/entity/23df1ca8-4c83-4548-aa99-3c6a85e83014
 `0x90474c56195577511c19F700728C3BDaBBE1434a` (EVM)
 `0x816D75D5fb5691fD346eeE9bb5E030087ECa12df` (EVM)
 `0x9C1BD98475D0f6282cDC15bDCAaA9a70758B1Ff1` (EVM)
+`TDcu2CMpyLK4M5wmE5tstAZv9ZjK7xPHNX` (TRON, Tranches)
+`TM5BMiu89FCmGRBw8PNvpi5UKNKFdF21ra` (TRON, Tranches)
+`TSqLrg8UNatjcoy2ZBWmf7jsSnxmV8m52N` (TRON, Tranches)
+`TJZULTZQ2ZHeeHGSrrCAdXUqECtLWbxhDb` (TRON, Tranches)
+`TCTy1bdjFEAYc7dAnJzh7V7viZ7N8Vi3Uw` (TRON, Tranches)
+`TPuFJKRvvGUUCN2aHHULoVVwJoQnUEiB7b` (TRON, Tranches)
+`TKiBTX1tAUocfZV3ogATWgcXP3WJrGsSnN` (TRON, Tranches)
+`TTe3o6YqiRuUX9bRky5iTzR9LSAokYtRB3` (TRON, Tranches)
+`TLfnpar5NxfzsMpDNorchJPcF3qKe89beL` (TRON, Tranches)
+`TN7wYpgWcZLpaREW93kv4TzyUDyactGd8h` (TRON, Tranches)
+`TAubNeE72UizR5uN8s9n1QdsGbonQ8TDMa` (TRON, Tranches)
+`TPTLcmqeV6dYnZMq1A8f6o8mYUPChEnShA` (TRON, Tranches)
+`TKJZQM7NBhZH6jkFuMdmtiKbhus1NPYqxb` (TRON, Tranches)
+
+
 
 ## Connections
 
