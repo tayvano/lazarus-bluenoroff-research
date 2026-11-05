@@ -22,6 +22,16 @@ S:: 4442
 
 - https://x.com/benTradingg/status/2078726508630483183
 
+- https://www.wiz.io/blog/threat-actors-target-crypto-orgs
+
+- teams[.]microsofteams[.]com/meet/9328744008654?p=MikWtEVt36lMTwdm8C 
+
+- learn[.]microsofteams[.]com/en-us/troubleshoot/microsoftteams/teams-on-mac/teams-audio-issue-mac?scp=xLj84cqJ31cw1r3SUD47vEIY
+
+- https://www.linkedin.com/in/sayantika-adhikary-7b409a16a
+
+- google[.]meet[.]us[.]org/krq-exar-svp
+
 
 ## Onchain
 

@@ -11,19 +11,27 @@ Time:: 20:05 (EVM 20:20)
 
 ## Details
 
+- https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history
+
+- https://www.elliptic.co/insights/binance-largest-hack-in-history/
+
+- https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f
+
 - https://x.com/binance/status/2115993361517891592
 
 - https://x.com/banteg/status/2115913787714712043
-
-- https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history
-
-- https://www.wsj.com/finance/currencies/binance-founder-says-exchange-may-be-victim-of-biggest-ever-crypto-heist-24a82e5f
 
 - https://x.com/tanuki42_/status/2115997720980902014
 
 - https://x.com/jony_levin/status/2116020833227587637
 
 - https://x.com/tanuki42_/status/2116030971925475471
+
+- https://x.com/_RichardTeng/status/2116072080525656150
+
+- https://x.com/jessicasmw/status/2116052716132970889
+
+- https://x.com/binance/status/2116089661408108712
 
 ## Onchain
 
@@ -51,6 +59,8 @@ Time:: 20:05 (EVM 20:20)
 - 0x7aa4d3029e4c6a8e916300014ad95b6d6c03bfd1
 - 0x63e842b054bd624a465454d533c33f573e9c6fae
 - 0x19bee294a6daab49c9e5ab69a5da6c035c70f2bf
+- 0xb171ca86f82070282138352ff7111b494060c8c3
+- 0x897c80d1a9729e94460e2bd93178bd5215158df3
 
 - bc1qdyy9q2lrnn5qh3ju996pgt95eesvc38lppdewn
 - bc1qxg0l4p6xc50zuv9cl5f0l0wmaxjpg8wcy7s9ra
@@ -113,12 +123,17 @@ Binance <> Bitget
 
 ### Freezes
 
-Tether  
+Tether
+- https://x.com/paoloardoino/status/2115918000373346709
 
 Circle  
+- https://x.com/jerallaire/status/2115916207463481846
 
-aave pause  
-- https://x.com/aave/status/2115937863162339637?s=46
+Ripple
+- https://x.com/heyibinance/status/2115928691045982577
+
+AAVE pause  
+- https://x.com/aave/status/2115937863162339637
 
 SAND just clawed back their SAND    
 - https://etherscan.io/tx/0x0a68d2f422c51c5a9261a098f92d8c551445ffe8b20fbb86770704be2cab06a8
@@ -143,3 +158,6 @@ Oopsies
 
 $2.8 billion so far 
 - https://t.me/specterinvestigation/236
+
+
+
